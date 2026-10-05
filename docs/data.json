@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-05T17:50:49+02:00",
+ "aktualisiert": "2026-10-05T18:21:54+02:00",
  "kernaussagen": [
   "SMI +0.31%, Nikkei 225 −0.94% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9319 (−0.24%)",
-  "Bitcoin −1.39% auf 85'281 USD · Brent über 100 USD"
+  "Franken stärker: EUR/CHF 0.9341 (−1.31%)",
+  "Bitcoin −1.61% auf 85'092 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7761.669921875,
+   "kurs": 7758.56982421875,
    "vortag": 7722.72021484375,
-   "veraenderung_pct": 0.5043521705782483,
+   "veraenderung_pct": 0.4642096097964732,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7651.540039,
     7666.450195,
     7722.720215,
-    7761.669922
+    7758.569824
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27399.5546875,
+   "kurs": 27371.470703125,
    "vortag": 27190.859375,
-   "veraenderung_pct": 0.7675201052743441,
+   "veraenderung_pct": 0.6642354536652073,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26861.060547,
     26871.599609,
     27190.859375,
-    27399.554688
+    27371.470703
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9318600296974182,
-   "vortag": 0.9341400265693665,
-   "veraenderung_pct": -0.24407442215290676,
-   "datum": "2026-10-05",
-   "ist_heute": true,
+   "kurs": 0.9341400265693665,
+   "vortag": 0.9465399980545044,
+   "veraenderung_pct": -1.310031431384262,
+   "datum": "2026-10-02",
+   "ist_heute": false,
    "verlauf": [
+    0.94401,
     0.94585,
     0.94601,
     0.94654,
-    0.93414,
-    0.93186
+    0.93414
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8305299878120422,
-   "vortag": 0.8356599807739258,
-   "veraenderung_pct": -0.6138852021048691,
-   "datum": "2026-10-02",
-   "ist_heute": false,
+   "kurs": 0.8315799832344055,
+   "vortag": 0.8305299878120422,
+   "veraenderung_pct": 0.12642474537607473,
+   "datum": "2026-10-05",
+   "ist_heute": true,
    "verlauf": [
-    0.82972,
     0.83172,
     0.83422,
     0.83566,
-    0.83053
+    0.83053,
+    0.83158
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4166.60009765625,
+   "kurs": 4159.2998046875,
    "vortag": 4162.2998046875,
-   "veraenderung_pct": 0.10331531053835441,
+   "veraenderung_pct": -0.07207553854293725,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4186.700195,
     4202.299805,
     4162.299805,
-    4166.600098
+    4159.299805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 101.79000091552734,
+   "kurs": 101.13999938964844,
    "vortag": 102.25,
-   "veraenderung_pct": -0.44987685522998033,
+   "veraenderung_pct": -1.085575169047981,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     103.529999,
     102.309998,
     102.25,
-    101.790001
+    101.139999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 85280.84375,
+   "kurs": 85091.6875,
    "vortag": 86480.3046875,
-   "veraenderung_pct": -1.3869758459273518,
+   "veraenderung_pct": -1.6057033939899101,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     84497.210938,
     84763.578125,
     86480.304688,
-    85280.84375
+    85091.6875
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.324,
+   "wert": 5.332,
    "vortag": 5.277,
-   "veraenderung_bp": 4.7,
+   "veraenderung_bp": 5.5,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.293,
     5.237,
     5.277,
-    5.324
+    5.332
    ]
   }
  ],
@@ -374,6 +374,62 @@
   ],
   "artikel": [
    {
+    "titel": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing",
+    "link": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
+    "zeit": "2026-10-05T16:20:58+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Satya Nadella reinvented Microsoft once. Can he do it again in the AI era?",
+    "link": "https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-once-can-he-do-it-in-the-ai-era.html",
+    "zeit": "2026-10-05T16:18:54+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more'",
+    "link": "https://www.cnbc.com/2026/10/05/trump-alaska-lng-south-korea-pay.html",
+    "zeit": "2026-10-05T16:14:02+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Russia plague: What we know about the suspected case reportedly linked to a lab worker’s death",
+    "link": "https://www.cnbc.com/2026/10/05/russia-plague-suspected-case-irkutsk.html",
+    "zeit": "2026-10-05T15:57:36+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "David Ellison and Ynon Kreiz announce Skydance leadership team",
+    "link": "https://www.cnbc.com/2026/10/05/david-ellison-ynon-kreiz-skydance-leadership-team.html",
+    "zeit": "2026-10-05T15:51:15+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
+    "link": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
+    "zeit": "2026-10-05T15:47:42+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Nvidia's $20 billion Groq deal faces lawsuit alleging startup's stockholders were shortchanged",
+    "link": "https://www.cnbc.com/2026/10/05/nvidia-groq-deal-stockholder-lawsuit.html",
+    "zeit": "2026-10-05T15:46:49+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "These are the cheapest and most expensive U.S. flights this November",
     "link": "https://www.cnbc.com/2026/10/05/cheapest-most-expensive-us-flights-in-november.html",
     "zeit": "2026-10-05T15:45:09+00:00",
@@ -382,33 +438,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Satya Nadella reinvented Microsoft once. Can he do it again in the AI era?",
-    "link": "https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-once-can-he-do-it-in-the-ai-era.html",
-    "zeit": "2026-10-05T15:36:52+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
     "link": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
     "zeit": "2026-10-05T15:29:13+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Russia plague: What we know about the suspected case reportedly linked to a lab worker’s death",
-    "link": "https://www.cnbc.com/2026/10/05/russia-plague-suspected-case-irkutsk.html",
-    "zeit": "2026-10-05T15:16:39+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "David Ellison and Ynon Kreiz announce Skydance leadership team",
-    "link": "https://www.cnbc.com/2026/10/05/david-ellison-ynon-kreiz-skydance-leadership-team.html",
-    "zeit": "2026-10-05T15:16:17+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -430,14 +462,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
-    "link": "https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html",
-    "zeit": "2026-10-05T14:30:34+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Schweizer Fleischmarkt – In der Schweiz wird so viel Poulet gegessen wie noch nie",
     "link": "https://www.srf.ch/news/dialog/schweizer-fleischmarkt-in-der-schweiz-wird-so-viel-poulet-gegessen-wie-noch-nie",
     "zeit": "2026-10-05T14:16:36+00:00",
@@ -446,36 +470,12 @@
     "sprache": "de"
    },
    {
-    "titel": "Nvidia's $6 trillion milestone looms. Here's when options traders see it happening",
-    "link": "https://www.cnbc.com/2026/10/05/nvidias-6-trillion-milestone-looms-heres-when-options-traders-see-it-happening.html",
-    "zeit": "2026-10-05T13:56:58+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Zusatzfinanzierung der 13. AHV-Rente: «Ein Nein hätte schwerwiegende Folgen», mahnt Gesundheitsministerin Baume-Schneider",
     "link": "https://www.nzz.ch/wirtschaft/finanzierung-der-13-ahv-rente-ein-nein-haette-schwerwiegende-folgen-mahnt-gesundheitsministerin-baume-schneider-ld.10026756",
     "zeit": "2026-10-05T13:44:31+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Cerebras stock pops 9% after Sam Altman calls the chipmaker a 'close partner'",
-    "link": "https://www.cnbc.com/2026/10/05/cerebras-cbrs-sam-altman-close-partner.html",
-    "zeit": "2026-10-05T13:37:15+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "China shuts hundreds of banks as Beijing moves to shore up its financial system",
-    "link": "https://www.cnbc.com/2026/10/05/china-banks-consolidation-economy.html",
-    "zeit": "2026-10-05T13:23:46+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Banque Richelieu holt neuen CEO und will nach Genf expandieren",
