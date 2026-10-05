@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-05T15:24:58+02:00",
+ "aktualisiert": "2026-10-05T15:52:07+02:00",
  "kernaussagen": [
-  "SMI +0.52%, Nikkei 225 +2.40% führt",
-  "Franken stärker: EUR/CHF 0.9315 (−0.28%)",
-  "Bitcoin −0.52% auf 86'033 USD · Brent über 100 USD"
+  "SMI +0.29%, Nikkei 225 +2.40% führt",
+  "Franken stärker: EUR/CHF 0.9341 (−1.31%)",
+  "Brent über 100 USD: 101.65 (−0.59%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13732.1796875,
+   "kurs": 13700.75,
    "vortag": 13660.919921875,
-   "veraenderung_pct": 0.5216322621940828,
+   "veraenderung_pct": 0.29156219605108724,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13830.339844,
     13622.849609,
     13660.919922,
-    13732.179688
+    13700.75
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25303.990234375,
+   "kurs": 25260.8203125,
    "vortag": 25231.19921875,
-   "veraenderung_pct": 0.2884960599530473,
+   "veraenderung_pct": 0.1173986757156964,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25199.189453,
     24939.349609,
     25231.199219,
-    25303.990234
+    25260.820312
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6243.10986328125,
+   "kurs": 6234.18017578125,
    "vortag": 6238.5,
-   "veraenderung_pct": 0.07389377704976052,
+   "veraenderung_pct": -0.06924459755951462,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6269.02002,
     6175.450195,
     6238.5,
-    6243.109863
+    6234.180176
    ]
   },
   {
@@ -69,17 +69,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7722.72021484375,
-   "vortag": 7666.4501953125,
-   "veraenderung_pct": 0.7339775006385052,
-   "datum": "2026-10-02",
-   "ist_heute": false,
+   "kurs": 7736.35986328125,
+   "vortag": 7722.72021484375,
+   "veraenderung_pct": 0.17661715118570953,
+   "datum": "2026-10-05",
+   "ist_heute": true,
    "verlauf": [
-    7683.689941,
     7670.839844,
     7651.540039,
     7666.450195,
-    7722.720215
+    7722.720215,
+    7736.359863
    ]
   },
   {
@@ -88,17 +88,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27190.859375,
-   "vortag": 26871.599609375,
-   "veraenderung_pct": 1.188093638882659,
-   "datum": "2026-10-02",
-   "ist_heute": false,
+   "kurs": 27348.84765625,
+   "vortag": 27190.859375,
+   "veraenderung_pct": 0.581034527342883,
+   "datum": "2026-10-05",
+   "ist_heute": true,
    "verlauf": [
-    26820.380859,
     26797.539062,
     26861.060547,
     26871.599609,
-    27190.859375
+    27190.859375,
+    27348.847656
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9314900040626526,
-   "vortag": 0.9341400265693665,
-   "veraenderung_pct": -0.28368578921150744,
-   "datum": "2026-10-05",
-   "ist_heute": true,
+   "kurs": 0.9341400265693665,
+   "vortag": 0.9465399980545044,
+   "veraenderung_pct": -1.310031431384262,
+   "datum": "2026-10-02",
+   "ist_heute": false,
    "verlauf": [
+    0.94401,
     0.94585,
     0.94601,
     0.94654,
-    0.93414,
-    0.93149
+    0.93414
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8313999772071838,
+   "kurs": 0.8318600058555603,
    "vortag": 0.8305299878120422,
-   "veraenderung_pct": 0.10475111168875006,
+   "veraenderung_pct": 0.16014088148965655,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83422,
     0.83566,
     0.83053,
-    0.8314
+    0.83186
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4179.89990234375,
+   "kurs": 4169.5,
    "vortag": 4162.2998046875,
-   "veraenderung_pct": 0.42284550566080714,
+   "veraenderung_pct": 0.17298598492092587,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4186.700195,
     4202.299805,
     4162.299805,
-    4179.899902
+    4169.5
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 101.9800033569336,
+   "kurs": 101.6500015258789,
    "vortag": 102.25,
-   "veraenderung_pct": -0.2640553966419601,
+   "veraenderung_pct": -0.5867955737125619,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     103.529999,
     102.309998,
     102.25,
-    101.980003
+    101.650002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 86033.46875,
+   "kurs": 86377.421875,
    "vortag": 86480.3046875,
-   "veraenderung_pct": -0.5166909842820977,
+   "veraenderung_pct": -0.11896675534593948,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     84497.210938,
     84763.578125,
     86480.304688,
-    86033.46875
+    86377.421875
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.307,
+   "wert": 5.305,
    "vortag": 5.277,
-   "veraenderung_bp": 3.0,
+   "veraenderung_bp": 2.8,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.293,
     5.237,
     5.277,
-    5.307
+    5.305
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 74.9800033569336,
+   "kurs": 74.66999816894531,
    "vortag": 74.77999877929688,
-   "veraenderung_pct": 0.26745731599568945,
+   "veraenderung_pct": -0.14709897318427867,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     76.019997,
     74.629997,
     74.779999,
-    74.980003
+    74.669998
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 117.30000305175781,
+   "kurs": 117.08000183105469,
    "vortag": 116.33999633789062,
-   "veraenderung_pct": 0.8251734090475749,
+   "veraenderung_pct": 0.6360714427176228,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     119.959999,
     118.059998,
     116.339996,
-    117.300003
+    117.080002
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 348.6000061035156,
+   "kurs": 348.20001220703125,
    "vortag": 345.70001220703125,
-   "veraenderung_pct": 0.838875844397613,
+   "veraenderung_pct": 0.7231703534053668,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     349.100006,
     349.0,
     345.700012,
-    348.600006
+    348.200012
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.81999969482422,
+   "kurs": 39.720001220703125,
    "vortag": 39.529998779296875,
-   "veraenderung_pct": 0.7336223741024384,
+   "veraenderung_pct": 0.48065380033799343,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.290001,
     39.060001,
     39.529999,
-    39.82
+    39.720001
    ]
   }
  ],
@@ -374,6 +374,30 @@
   ],
   "artikel": [
    {
+    "titel": "Finanzierung der 13. AHV-Rente: «Ein Nein hätte schwerwiegende Folgen», mahnt Gesundheitsministerin Baume-Schneider",
+    "link": "https://www.nzz.ch/wirtschaft/finanzierung-der-13-ahv-rente-ein-nein-haette-schwerwiegende-folgen-mahnt-gesundheitsministerin-baume-schneider-ld.10026756",
+    "zeit": "2026-10-05T13:44:31+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Cerebras stock pops 9% after Sam Altman calls the chipmaker a 'close partner'",
+    "link": "https://www.cnbc.com/2026/10/05/cerebras-cbrs-sam-altman-close-partner.html",
+    "zeit": "2026-10-05T13:37:15+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Satya Nadella reinvented Microsoft once. Can he do it again in the AI era?",
+    "link": "https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-once-can-he-do-it-in-the-ai-era.html",
+    "zeit": "2026-10-05T13:28:29+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "China shuts hundreds of banks as Beijing moves to shore up its financial system",
     "link": "https://www.cnbc.com/2026/10/05/china-banks-consolidation-economy.html",
     "zeit": "2026-10-05T13:23:46+00:00",
@@ -385,14 +409,6 @@
     "titel": "Russia plague: What we know about the suspected case reportedly linked to a lab worker’s death",
     "link": "https://www.cnbc.com/2026/10/05/russia-plague-suspected-case-irkutsk.html",
     "zeit": "2026-10-05T13:20:35+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Cerebras stock climbs 6% after Sam Altman calls the chipmaker a 'close partner'",
-    "link": "https://www.cnbc.com/2026/10/05/cerebras-cbrs-sam-altman-close-partner.html",
-    "zeit": "2026-10-05T13:10:04+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -417,14 +433,6 @@
     "titel": "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
     "link": "https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html",
     "zeit": "2026-10-05T12:55:41+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Satya Nadella reinvented Microsoft once. Can he do it again in the AI era?",
-    "link": "https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-once-can-he-do-it-in-the-ai-era.html",
-    "zeit": "2026-10-05T12:51:24+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -616,14 +624,6 @@
    {
     "titel": "Altlasten und kein Ende: Der neue Bär-Chef muss sich gedulden mit dem Neustart",
     "link": "https://www.nzz.ch/wirtschaft/staendig-neue-altlasten-der-neue-baer-chef-muss-sich-gedulden-mit-dem-neustart-ld.10026310",
-    "zeit": "2026-10-04T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "HSG, Militär, Schnupftabak: Peter Spuhler will in Asien und Amerika wachsen – setzt in seinen Firmen aber voll auf Schweizer",
-    "link": "https://www.nzz.ch/wirtschaft/hsg-militaer-schnupftabak-peter-spuhler-will-in-asien-und-amerika-wachsen-setzt-in-seinen-firmen-aber-voll-auf-schweizer-ld.10026290",
     "zeit": "2026-10-04T03:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
