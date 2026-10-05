@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-05T18:50:20+02:00",
+ "aktualisiert": "2026-10-05T19:18:25+02:00",
  "kernaussagen": [
   "SMI +0.31%, Nikkei 225 −0.94% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9319 (−0.24%)",
-  "Bitcoin −1.47% auf 85'211 USD · Brent über 100 USD"
+  "Franken stärker: EUR/CHF 0.9341 (−1.31%)",
+  "Brent über 100 USD: 100.78 (−1.44%)"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7771.75,
+   "kurs": 7770.419921875,
    "vortag": 7722.72021484375,
-   "veraenderung_pct": 0.6348771390424224,
+   "veraenderung_pct": 0.6176542164452181,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7651.540039,
     7666.450195,
     7722.720215,
-    7771.75
+    7770.419922
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27424.400390625,
+   "kurs": 27432.8671875,
    "vortag": 27190.859375,
-   "veraenderung_pct": 0.858895308912988,
+   "veraenderung_pct": 0.8900337027321292,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26861.060547,
     26871.599609,
     27190.859375,
-    27424.400391
+    27432.867188
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.931879997253418,
-   "vortag": 0.9341400265693665,
-   "veraenderung_pct": -0.24193688865346008,
-   "datum": "2026-10-05",
-   "ist_heute": true,
+   "kurs": 0.9341400265693665,
+   "vortag": 0.9465399980545044,
+   "veraenderung_pct": -1.310031431384262,
+   "datum": "2026-10-02",
+   "ist_heute": false,
    "verlauf": [
+    0.94401,
     0.94585,
     0.94601,
     0.94654,
-    0.93414,
-    0.93188
+    0.93414
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8319100141525269,
+   "kurs": 0.8318799734115601,
    "vortag": 0.8305299878120422,
-   "veraenderung_pct": 0.16616213270277402,
+   "veraenderung_pct": 0.16254507595496737,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83422,
     0.83566,
     0.83053,
-    0.83191
+    0.83188
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4158.10009765625,
+   "kurs": 4156.2001953125,
    "vortag": 4162.2998046875,
-   "veraenderung_pct": -0.10089871533329742,
+   "veraenderung_pct": -0.14654421020154906,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4186.700195,
     4202.299805,
     4162.299805,
-    4158.100098
+    4156.200195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 100.87000274658203,
+   "kurs": 100.77999877929688,
    "vortag": 102.25,
-   "veraenderung_pct": -1.349630565689941,
+   "veraenderung_pct": -1.4376540055776266,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     103.529999,
     102.309998,
     102.25,
-    100.870003
+    100.779999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 85211.296875,
+   "kurs": 85346.59375,
    "vortag": 86480.3046875,
-   "veraenderung_pct": -1.4673951682820818,
+   "veraenderung_pct": -1.3109469741078184,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     84497.210938,
     84763.578125,
     86480.304688,
-    85211.296875
+    85346.59375
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.332,
+   "wert": 5.343,
    "vortag": 5.277,
-   "veraenderung_bp": 5.5,
+   "veraenderung_bp": 6.6,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.293,
     5.237,
     5.277,
-    5.332
+    5.343
    ]
   }
  ],
@@ -376,7 +376,15 @@
    {
     "titel": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing",
     "link": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
-    "zeit": "2026-10-05T16:49:12+00:00",
+    "zeit": "2026-10-05T17:11:59+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "TNT Sports head Luis Silberwasser to depart Skydance as CBS Sports chief David Berson takes over combined global sports group",
+    "link": "https://www.cnbc.com/2026/10/05/cbs-sports-head-david-berson-takes-over-skydance-global-sports-group.html",
+    "zeit": "2026-10-05T17:04:56+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -441,14 +449,6 @@
     "titel": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
     "link": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
     "zeit": "2026-10-05T15:47:42+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Nvidia's $20 billion Groq deal faces lawsuit alleging startup's stockholders were shortchanged",
-    "link": "https://www.cnbc.com/2026/10/05/nvidia-groq-deal-stockholder-lawsuit.html",
-    "zeit": "2026-10-05T15:46:49+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
