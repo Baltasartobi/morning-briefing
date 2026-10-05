@@ -1,0 +1,63 @@
+# Holt werktags von 06:00 bis 22:00 Uhr (Schweizer Zeit) alle 30 Minuten neue Daten
+# und speichert sie als docs/data.json. GitHub Pages veröffentlicht sie danach automatisch.
+name: Daten aktualisieren
+
+on:
+  schedule:
+    # GitHub rechnet in UTC. 04–20 UTC deckt 06–22 Uhr Schweizer Zeit im Sommer und Winter ab;
+    # der Schritt «Uhrzeit prüfen» lässt Läufe ausserhalb dieser Zeit aus.
+    - cron: "5,35 4-20 * * 1-5"
+  workflow_dispatch: # erlaubt den Knopf «Run workflow» auf GitHub
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daten
+  cancel-in-progress: false
+
+jobs:
+  daten:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Uhrzeit prüfen (Schweizer Zeit, werktags 06–22 Uhr)
+        id: zeit
+        run: |
+          STUNDE=$(TZ=Europe/Zurich date +%-H)
+          TAG=$(TZ=Europe/Zurich date +%u)
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || { [ "$TAG" -le 5 ] && [ "$STUNDE" -ge 6 ] && [ "$STUNDE" -lt 22 ]; }; then
+            echo "los=ja" >> "$GITHUB_OUTPUT"
+          else
+            echo "Ausserhalb der Zeit ($STUNDE Uhr) – nichts zu tun."
+            echo "los=nein" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.zeit.outputs.los == 'ja'
+
+      - uses: actions/setup-python@v5
+        if: steps.zeit.outputs.los == 'ja'
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Pakete installieren
+        if: steps.zeit.outputs.los == 'ja'
+        run: pip install -r requirements.txt
+
+      - name: Daten holen
+        if: steps.zeit.outputs.los == 'ja'
+        env:
+          TZ: Europe/Zurich
+        run: python daten.py docs/data.json --oeffentlich
+
+      - name: data.json speichern
+        if: steps.zeit.outputs.los == 'ja'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data.json
+          git diff --staged --quiet || git commit -m "Daten aktualisiert"
+          git pull --rebase --quiet
+          git push
