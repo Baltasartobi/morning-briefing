@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-05T12:49:48+02:00",
+ "aktualisiert": "2026-10-05T13:21:26+02:00",
  "kernaussagen": [
-  "SMI +0.56%, Nikkei 225 +2.40% führt",
-  "Franken stärker: EUR/CHF 0.9300 (−0.45%)",
-  "Brent über 100 USD: 102.98 (+0.71%)"
+  "SMI +0.79%, Nikkei 225 +2.40% führt",
+  "Franken stärker: EUR/CHF 0.9304 (−0.40%)",
+  "Gold +0.63% auf 4'188.60 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13737.51953125,
+   "kurs": 13768.4697265625,
    "vortag": 13660.919921875,
-   "veraenderung_pct": 0.5607207260789338,
+   "veraenderung_pct": 0.7872808368877271,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13830.339844,
     13622.849609,
     13660.919922,
-    13737.519531
+    13768.469727
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25187.560546875,
+   "kurs": 25237.48046875,
    "vortag": 25231.19921875,
-   "veraenderung_pct": -0.17295520318578728,
+   "veraenderung_pct": 0.02489477390885675,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25199.189453,
     24939.349609,
     25231.199219,
-    25187.560547
+    25237.480469
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6216.02978515625,
+   "kurs": 6227.97998046875,
    "vortag": 6238.5,
-   "veraenderung_pct": -0.3601861800713313,
+   "veraenderung_pct": -0.16863059279073056,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6269.02002,
     6175.450195,
     6238.5,
-    6216.029785
+    6227.97998
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9299600124359131,
+   "kurs": 0.930400013923645,
    "vortag": 0.9341400265693665,
-   "veraenderung_pct": -0.4474719008460082,
+   "veraenderung_pct": -0.40036959549379914,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.94601,
     0.94654,
     0.93414,
-    0.92996
+    0.9304
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8300099968910217,
+   "kurs": 0.8306599855422974,
    "vortag": 0.8305299878120422,
-   "veraenderung_pct": -0.06260952989672885,
+   "veraenderung_pct": 0.01565238247418499,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83422,
     0.83566,
     0.83053,
-    0.83001
+    0.83066
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4186.5,
+   "kurs": 4188.60009765625,
    "vortag": 4162.2998046875,
-   "veraenderung_pct": 0.5814140366642073,
+   "veraenderung_pct": 0.6318692598531905,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4186.700195,
     4202.299805,
     4162.299805,
-    4186.5
+    4188.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 102.9800033569336,
+   "kurs": 102.80000305175781,
    "vortag": 102.25,
-   "veraenderung_pct": 0.7139397133824943,
+   "veraenderung_pct": 0.5379002951176659,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     103.529999,
     102.309998,
     102.25,
-    102.980003
+    102.800003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 86087.5234375,
+   "kurs": 86015.703125,
    "vortag": 86480.3046875,
-   "veraenderung_pct": -0.4541857841728558,
+   "veraenderung_pct": -0.537233956539418,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     84497.210938,
     84763.578125,
     86480.304688,
-    86087.523438
+    86015.703125
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 74.83999633789062,
+   "kurs": 75.0999984741211,
    "vortag": 74.77999877929688,
-   "veraenderung_pct": 0.0802320935719969,
+   "veraenderung_pct": 0.42792150313970545,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     76.019997,
     74.629997,
     74.779999,
-    74.839996
+    75.099998
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 117.5999984741211,
+   "kurs": 117.9000015258789,
    "vortag": 116.33999633789062,
-   "veraenderung_pct": 1.0830343612621363,
+   "veraenderung_pct": 1.3409018713198995,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     119.959999,
     118.059998,
     116.339996,
-    117.599998
+    117.900002
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 349.5,
+   "kurs": 350.70001220703125,
    "vortag": 345.70001220703125,
-   "veraenderung_pct": 1.0992154060709192,
+   "veraenderung_pct": 1.4463407068107337,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     349.100006,
     349.0,
     345.700012,
-    349.5
+    350.700012
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.77000045776367,
+   "kurs": 39.79999923706055,
    "vortag": 39.529998779296875,
-   "veraenderung_pct": 0.6071380872202159,
+   "veraenderung_pct": 0.6830267293230552,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.290001,
     39.060001,
     39.529999,
-    39.77
+    39.799999
    ]
   }
  ],
@@ -374,9 +374,25 @@
   ],
   "artikel": [
    {
-    "titel": "Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks",
-    "link": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
-    "zeit": "2026-10-05T10:42:51+00:00",
+    "titel": "Saudi Aramco chief says replenishing global oil stockpiles could take two years",
+    "link": "https://www.cnbc.com/2026/10/05/aramco-saudi-arabia-iran-hormuz-oil-energy.html",
+    "zeit": "2026-10-05T11:00:27+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Why airfare could rise even more, but airline profits won't",
+    "link": "https://www.cnbc.com/2026/10/05/airfare-prices-airline-profits.html",
+    "zeit": "2026-10-05T11:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Satya Nadella reinvented Microsoft once. Can he do it again in the AI era?",
+    "link": "https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-once-can-he-do-it-in-the-ai-era.html",
+    "zeit": "2026-10-05T11:00:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,15 +400,15 @@
    {
     "titel": "Trump's nemesis in Europe: Why Spain's Sanchez is calling a snap election",
     "link": "https://www.cnbc.com/2026/10/05/spain-sanchez-snap-election-housing-protests.html",
-    "zeit": "2026-10-05T10:42:10+00:00",
+    "zeit": "2026-10-05T10:50:40+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Cut spending to curb runaway borrowing costs, Goldman's Gutman tells governments",
-    "link": "https://www.cnbc.com/2026/10/05/goldman-sachs-fiscal-deficit-bond-yields.html",
-    "zeit": "2026-10-05T10:33:45+00:00",
+    "titel": "Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks",
+    "link": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
+    "zeit": "2026-10-05T10:42:51+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -417,14 +433,6 @@
     "titel": "Three tax votes in November that will affect high earners",
     "link": "https://www.cnbc.com/2026/10/05/three-tax-votes-in-november-that-will-affect-high-earners.html",
     "zeit": "2026-10-05T10:00:02+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Saudi Aramco chief says replenishing global oil stockpiles could take two years",
-    "link": "https://www.cnbc.com/2026/10/05/aramco-saudi-arabia-iran-hormuz-oil-energy.html",
-    "zeit": "2026-10-05T09:46:10+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -484,14 +492,6 @@
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Russia hospitalizes almost 200 people after researcher's death from plague: Reports",
-    "link": "https://www.cnbc.com/2026/10/05/suspected-plague-cases-reported-in-russias-irkutsk-region.html",
-    "zeit": "2026-10-05T05:34:17+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Edmond de Rothschild AM ernennt neuen Vertriebschef Schweiz",
