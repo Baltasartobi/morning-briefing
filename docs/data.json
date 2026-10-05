@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-05T16:24:42+02:00",
+ "aktualisiert": "2026-10-05T16:51:43+02:00",
  "kernaussagen": [
   "SMI +0.24%, Nikkei 225 +2.40% führt",
-  "Franken stärker: EUR/CHF 0.9309 (−0.34%)",
-  "Brent über 100 USD: 101.15 (−1.08%)"
+  "Franken stärker: EUR/CHF 0.9314 (−0.29%)",
+  "Bitcoin −0.98% auf 85'629 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13694.3095703125,
+   "kurs": 13693.4404296875,
    "vortag": 13660.919921875,
-   "veraenderung_pct": 0.24441727664352708,
+   "veraenderung_pct": 0.23805503581368903,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13830.339844,
     13622.849609,
     13660.919922,
-    13694.30957
+    13693.44043
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25249.150390625,
+   "kurs": 25268.33984375,
    "vortag": 25231.19921875,
-   "veraenderung_pct": 0.07114672481227657,
+   "veraenderung_pct": 0.14720118801327953,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25199.189453,
     24939.349609,
     25231.199219,
-    25249.150391
+    25268.339844
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6231.490234375,
+   "kurs": 6241.7099609375,
    "vortag": 6238.5,
-   "veraenderung_pct": -0.1123629979161711,
+   "veraenderung_pct": 0.05145405045283713,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6269.02002,
     6175.450195,
     6238.5,
-    6231.490234
+    6241.709961
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7755.759765625,
+   "kurs": 7753.27978515625,
    "vortag": 7722.72021484375,
-   "veraenderung_pct": 0.4278227083475805,
+   "veraenderung_pct": 0.3957099242539064,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7651.540039,
     7666.450195,
     7722.720215,
-    7755.759766
+    7753.279785
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27384.86328125,
+   "kurs": 27380.59765625,
    "vortag": 27190.859375,
-   "veraenderung_pct": 0.7134894251572321,
+   "veraenderung_pct": 0.6978017084095844,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26861.060547,
     26871.599609,
     27190.859375,
-    27384.863281
+    27380.597656
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9309200048446655,
+   "kurs": 0.931439995765686,
    "vortag": 0.9341400265693665,
-   "veraenderung_pct": -0.3447043947497286,
+   "veraenderung_pct": -0.28903919400566913,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.94601,
     0.94654,
     0.93414,
-    0.93092
+    0.93144
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8320500254631042,
-   "vortag": 0.8305299878120422,
-   "veraenderung_pct": 0.18302020075957603,
-   "datum": "2026-10-05",
-   "ist_heute": true,
+   "kurs": 0.8305299878120422,
+   "vortag": 0.8356599807739258,
+   "veraenderung_pct": -0.6138852021048691,
+   "datum": "2026-10-02",
+   "ist_heute": false,
    "verlauf": [
+    0.82972,
     0.83172,
     0.83422,
     0.83566,
-    0.83053,
-    0.83205
+    0.83053
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4170.2001953125,
+   "kurs": 4168.60009765625,
    "vortag": 4162.2998046875,
-   "veraenderung_pct": 0.18980830299881735,
+   "veraenderung_pct": 0.15136566956697184,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4186.700195,
     4202.299805,
     4162.299805,
-    4170.200195
+    4168.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 101.1500015258789,
+   "kurs": 101.81999969482422,
    "vortag": 102.25,
-   "veraenderung_pct": -1.075793128724789,
+   "veraenderung_pct": -0.42053819577093643,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     103.529999,
     102.309998,
     102.25,
-    101.150002
+    101.82
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 86351.1015625,
+   "kurs": 85629.4609375,
    "vortag": 86480.3046875,
-   "veraenderung_pct": -0.1494017920807278,
+   "veraenderung_pct": -0.9838584092349834,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     84497.210938,
     84763.578125,
     86480.304688,
-    86351.101562
+    85629.460938
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.303,
+   "wert": 5.319,
    "vortag": 5.277,
-   "veraenderung_bp": 2.6,
+   "veraenderung_bp": 4.2,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.293,
     5.237,
     5.277,
-    5.303
+    5.319
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 74.66000366210938,
+   "kurs": 74.69000244140625,
    "vortag": 74.77999877929688,
-   "veraenderung_pct": -0.160464187144016,
+   "veraenderung_pct": -0.12034814035800645,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     76.019997,
     74.629997,
     74.779999,
-    74.660004
+    74.690002
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 116.55999755859375,
+   "kurs": 116.13999938964844,
    "vortag": 116.33999633789062,
-   "veraenderung_pct": 0.18910196632992982,
+   "veraenderung_pct": -0.17190730147638167,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     119.959999,
     118.059998,
     116.339996,
-    116.559998
+    116.139999
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 346.79998779296875,
+   "kurs": 346.3999938964844,
    "vortag": 345.70001220703125,
-   "veraenderung_pct": 0.3181878932878801,
+   "veraenderung_pct": 0.20248240229563397,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     349.100006,
     349.0,
     345.700012,
-    346.799988
+    346.399994
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.83000183105469,
+   "kurs": 39.970001220703125,
    "vortag": 39.529998779296875,
-   "veraenderung_pct": 0.7589250215583876,
+   "veraenderung_pct": 1.1130848848816433,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.290001,
     39.060001,
     39.529999,
-    39.830002
+    39.970001
    ]
   }
  ],
@@ -374,9 +374,25 @@
   ],
   "artikel": [
    {
+    "titel": "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
+    "link": "https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html",
+    "zeit": "2026-10-05T14:30:34+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Treasury yields rise to start the week; traders look ahead to Fed minutes",
     "link": "https://www.cnbc.com/2026/10/05/treasury-yields-bonds-fed-rates.html",
-    "zeit": "2026-10-05T14:24:26+00:00",
+    "zeit": "2026-10-05T14:28:46+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Satya Nadella reinvented Microsoft once. Can he do it again in the AI era?",
+    "link": "https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-once-can-he-do-it-in-the-ai-era.html",
+    "zeit": "2026-10-05T14:26:11+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -414,14 +430,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Satya Nadella reinvented Microsoft once. Can he do it again in the AI era?",
-    "link": "https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-once-can-he-do-it-in-the-ai-era.html",
-    "zeit": "2026-10-05T13:28:29+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "China shuts hundreds of banks as Beijing moves to shore up its financial system",
     "link": "https://www.cnbc.com/2026/10/05/china-banks-consolidation-economy.html",
     "zeit": "2026-10-05T13:23:46+00:00",
@@ -441,14 +449,6 @@
     "titel": "Jim Cramer's top 10 things to watch in the stock market Monday",
     "link": "https://www.cnbc.com/investingclub/2026/10/05/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
     "zeit": "2026-10-05T12:59:40+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
-    "link": "https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html",
-    "zeit": "2026-10-05T12:55:41+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
