@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-05T20:24:34+02:00",
+ "aktualisiert": "2026-10-05T20:53:27+02:00",
  "kernaussagen": [
-  "SMI +0.31%, Nasdaq +1.01% führt",
-  "Franken stärker: EUR/CHF 0.9321 (−0.22%)",
-  "Bitcoin −1.14% auf 85'498 USD · Brent über 100 USD"
+  "SMI +0.31%, Nasdaq +1.09% führt",
+  "Franken stärker: EUR/CHF 0.9317 (−0.26%)",
+  "Brent-Öl −2.25% auf 99.95 USD/Fass"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7777.97998046875,
+   "kurs": 7781.5,
    "vortag": 7722.72021484375,
-   "veraenderung_pct": 0.7155479427933376,
+   "veraenderung_pct": 0.7611279901513113,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7651.540039,
     7666.450195,
     7722.720215,
-    7777.97998
+    7781.5
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27464.71875,
+   "kurs": 27488.486328125,
    "vortag": 27190.859375,
-   "veraenderung_pct": 1.0071744008642636,
+   "veraenderung_pct": 1.0945845771930474,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26861.060547,
     26871.599609,
     27190.859375,
-    27464.71875
+    27488.486328
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9320700168609619,
+   "kurs": 0.9316999912261963,
    "vortag": 0.9341400265693665,
-   "veraenderung_pct": -0.22159522657504427,
+   "veraenderung_pct": -0.26120659363363385,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.94601,
     0.94654,
     0.93414,
-    0.93207
+    0.9317
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8313900232315063,
+   "kurs": 0.8308699727058411,
    "vortag": 0.8305299878120422,
-   "veraenderung_pct": 0.10355260280605627,
+   "veraenderung_pct": 0.04093589620941529,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83422,
     0.83566,
     0.83053,
-    0.83139
+    0.83087
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4163.89990234375,
+   "kurs": 4165.2001953125,
    "vortag": 4162.2998046875,
-   "veraenderung_pct": 0.03844263343184551,
+   "veraenderung_pct": 0.06968240542724047,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4186.700195,
     4202.299805,
     4162.299805,
-    4163.899902
+    4165.200195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 101.0999984741211,
+   "kurs": 99.94999694824219,
    "vortag": 102.25,
-   "veraenderung_pct": -1.1246958688302278,
+   "veraenderung_pct": -2.2493917376604555,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     103.529999,
     102.309998,
     102.25,
-    101.099998
+    99.949997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 85498.3984375,
+   "kurs": 85600.0,
    "vortag": 86480.3046875,
-   "veraenderung_pct": -1.13541025733912,
+   "veraenderung_pct": -1.0179250532025952,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     84497.210938,
     84763.578125,
     86480.304688,
-    85498.398438
+    85600.0
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.343,
+   "wert": 5.336,
    "vortag": 5.277,
-   "veraenderung_bp": 6.6,
+   "veraenderung_bp": 5.9,
    "datum": "2026-10-05",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.293,
     5.237,
     5.277,
-    5.343
+    5.336
    ]
   }
  ],
@@ -374,6 +374,22 @@
   ],
   "artikel": [
    {
+    "titel": "Wall Street rewards Microsoft's AI pivot. A longtime skeptic says it's just the beginning",
+    "link": "https://www.cnbc.com/investingclub/2026/10/05/wall-street-rewards-microsofts-ai-pivot-a-longtime-skeptic-flips-bullish.html",
+    "zeit": "2026-10-05T18:43:12+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Starbucks recovery plan is working. Here's how Mike Khouw says to trade the coffee giant",
+    "link": "https://www.cnbc.com/2026/10/05/starbucks-recovery-plan-is-working-heres-how-mike-khouw-says-to-trade-the-coffee-giant.html",
+    "zeit": "2026-10-05T18:40:35+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Fairshake crypto PAC network backs 32 House candidates in midterms",
     "link": "https://www.cnbc.com/2026/10/05/fairshake-crypto-super-pac-house-races.html",
     "zeit": "2026-10-05T18:12:16+00:00",
@@ -398,14 +414,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Wells Fargo gets a bold upgrade ahead of earnings. Why the stock can play catch-up",
-    "link": "https://www.cnbc.com/investingclub/2026/10/05/wells-fargo-gets-a-bold-upgrade-ahead-of-earnings-why-the-stock-can-play-catch-up.html",
-    "zeit": "2026-10-05T17:45:34+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing",
     "link": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
     "zeit": "2026-10-05T17:43:34+00:00",
@@ -425,14 +433,6 @@
     "titel": "China shuts hundreds of banks as Beijing moves to shore up its financial system",
     "link": "https://www.cnbc.com/2026/10/05/china-banks-consolidation-economy.html",
     "zeit": "2026-10-05T16:41:00+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Starbucks recovery plan is working. Here's how Mike Khouw says to trade the coffee giant",
-    "link": "https://www.cnbc.com/2026/10/05/starbucks-recovery-plan-is-working-heres-how-mike-khouw-says-to-trade-the-coffee-giant.html",
-    "zeit": "2026-10-05T16:29:29+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
