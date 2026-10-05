@@ -1,0 +1,3 @@
+yfinance
+feedparser
+curl_cffi
