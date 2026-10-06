@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-06T18:21:49+02:00",
+ "aktualisiert": "2026-10-06T18:50:11+02:00",
  "kernaussagen": [
   "SMI +0.62%, Nikkei 225 +2.40% führt",
   "Franken schwächer: EUR/CHF 0.9357 (+0.41%)",
-  "Gold +0.78% auf 4'189.20 USD/Unze"
+  "Gold +0.74% auf 4'187.60 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7835.35009765625,
+   "kurs": 7829.740234375,
    "vortag": 7773.9501953125,
-   "veraenderung_pct": 0.7898159983166897,
+   "veraenderung_pct": 0.7176536723394467,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7666.450195,
     7722.720215,
     7773.950195,
-    7835.350098
+    7829.740234
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27663.796875,
+   "kurs": 27655.3515625,
    "vortag": 27477.310546875,
-   "veraenderung_pct": 0.6786920714342282,
+   "veraenderung_pct": 0.6479564851198605,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26871.599609,
     27190.859375,
     27477.310547,
-    27663.796875
+    27655.351562
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9357200264930725,
+   "kurs": 0.93572998046875,
    "vortag": 0.9319300055503845,
-   "veraenderung_pct": 0.4066851501846047,
+   "veraenderung_pct": 0.4077532535419648,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.94654,
     0.93414,
     0.93193,
-    0.93572
+    0.93573
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8311300277709961,
+   "kurs": 0.831250011920929,
    "vortag": 0.8281099796295166,
-   "veraenderung_pct": 0.3646916733005323,
+   "veraenderung_pct": 0.3791805881650179,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83566,
     0.83053,
     0.82811,
-    0.83113
+    0.83125
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4189.2001953125,
+   "kurs": 4187.60009765625,
    "vortag": 4156.7998046875,
-   "veraenderung_pct": 0.7794551613590661,
+   "veraenderung_pct": 0.7409616632010341,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4202.299805,
     4162.299805,
     4156.799805,
-    4189.200195
+    4187.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 99.68000030517578,
+   "kurs": 100.22000122070312,
    "vortag": 100.31999969482422,
-   "veraenderung_pct": -0.6379579262313917,
+   "veraenderung_pct": -0.09967950002520709,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.309998,
     102.25,
     100.32,
-    99.68
+    100.220001
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 85700.15625,
+   "kurs": 85665.7421875,
    "vortag": 85786.59375,
-   "veraenderung_pct": -0.10075875054778027,
+   "veraenderung_pct": -0.14087464861023413,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     84763.578125,
     86480.304688,
     85786.59375,
-    85700.15625
+    85665.742188
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.267,
+   "wert": 5.275,
    "vortag": 5.311,
-   "veraenderung_bp": -4.4,
+   "veraenderung_bp": -3.6,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.237,
     5.277,
     5.311,
-    5.267
+    5.275
    ]
   }
  ],
@@ -374,6 +374,22 @@
   ],
   "artikel": [
    {
+    "titel": "Anduril lands $2.9 billion Navy submarine shipyard contract days after Luckey joins Pentagon weapons group",
+    "link": "https://www.cnbc.com/2026/10/06/anduril-navy-submarine-shipyard-contract.html",
+    "zeit": "2026-10-06T16:44:22+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "High diesel prices may put 'another squeeze' on the consumer, economist says",
+    "link": "https://www.cnbc.com/2026/10/06/diesel-prices-inflation.html",
+    "zeit": "2026-10-06T16:25:08+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
     "link": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
     "zeit": "2026-10-06T16:19:16+00:00",
@@ -425,22 +441,6 @@
     "titel": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
     "link": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
     "zeit": "2026-10-06T15:52:22+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "High diesel prices may put 'another squeeze' on the consumer, economist says",
-    "link": "https://www.cnbc.com/2026/10/06/diesel-prices-inflation.html",
-    "zeit": "2026-10-06T15:45:52+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Anduril lands $2.9 billion Navy submarine shipyard contract days after Luckey joins Pentagon weapons group",
-    "link": "https://www.cnbc.com/2026/10/06/anduril-navy-submarine-shipyard-contract.html",
-    "zeit": "2026-10-06T15:27:46+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
