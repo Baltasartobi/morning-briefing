@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-06T08:25:06+02:00",
+ "aktualisiert": "2026-10-06T08:53:58+02:00",
  "kernaussagen": [
-  "SMI +0.31%, Nikkei 225 +1.10% führt",
-  "Franken stabil: EUR/CHF 0.9321 (+0.02%)",
-  "Bitcoin −1.45% auf 85'228 USD · Brent über 100 USD"
+  "SMI +0.31%, Nikkei 225 +1.05% führt",
+  "Franken schwächer: EUR/CHF 0.9329 (+0.11%)",
+  "Bitcoin −1.35% auf 85'312 USD"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 70718.6796875,
+   "kurs": 70683.9765625,
    "vortag": 69946.859375,
-   "veraenderung_pct": 1.1034381234504176,
+   "veraenderung_pct": 1.0538245663728185,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     68956.71875,
     68309.460938,
     69946.859375,
-    70718.679688
+    70683.976562
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9320899844169617,
+   "kurs": 0.932919979095459,
    "vortag": 0.9319300055503845,
-   "veraenderung_pct": 0.01716640365954092,
+   "veraenderung_pct": 0.10622831534325972,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.94654,
     0.93414,
     0.93193,
-    0.93209
+    0.93292
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8317800164222717,
+   "kurs": 0.8322299718856812,
    "vortag": 0.8281099796295166,
-   "veraenderung_pct": 0.44318229257387376,
+   "veraenderung_pct": 0.4975175227338591,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83566,
     0.83053,
     0.82811,
-    0.83178
+    0.83223
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4150.2001953125,
+   "kurs": 4158.0,
    "vortag": 4156.7998046875,
-   "veraenderung_pct": -0.1587665917314074,
+   "veraenderung_pct": 0.028873060260115047,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4202.299805,
     4162.299805,
     4156.799805,
-    4150.200195
+    4158.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 100.12000274658203,
+   "kurs": 99.68000030517578,
    "vortag": 100.31999969482422,
-   "veraenderung_pct": -0.19935900005042528,
+   "veraenderung_pct": -0.6379579262313917,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.309998,
     102.25,
     100.32,
-    100.120003
+    99.68
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 85228.0078125,
+   "kurs": 85312.4296875,
    "vortag": 86480.3046875,
-   "veraenderung_pct": -1.4480717656178754,
+   "veraenderung_pct": -1.3504519950758298,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     84497.210938,
     84763.578125,
     86480.304688,
-    85228.007812
+    85312.429688
    ]
   }
  ],
@@ -223,17 +223,17 @@
    "name": "Schweiz",
    "quelle": "snb",
    "verfuegbar": true,
-   "wert": 0.57,
-   "vortag": 0.639,
-   "veraenderung_bp": -6.9,
-   "datum": "2026-10-02",
+   "wert": 0.556,
+   "vortag": 0.57,
+   "veraenderung_bp": -1.4,
+   "datum": "2026-10-05",
    "ist_heute": false,
    "verlauf": [
-    0.701,
     0.655,
     0.586,
     0.639,
-    0.57
+    0.57,
+    0.556
    ]
   },
   {
