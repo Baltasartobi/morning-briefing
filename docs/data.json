@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-06T12:49:55+02:00",
+ "aktualisiert": "2026-10-06T13:19:06+02:00",
  "kernaussagen": [
-  "SMI +0.86%, Nikkei 225 +1.05% führt",
-  "Franken schwächer: EUR/CHF 0.9346 (+0.28%)",
-  "Brent-Öl −2.17% auf 98.14 USD/Fass"
+  "SMI +0.94%, Nikkei 225 +1.05% führt",
+  "Franken stärker: EUR/CHF 0.9319 (−0.24%)",
+  "Brent-Öl −1.89% auf 98.42 USD/Fass"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13821.2998046875,
+   "kurs": 13831.8701171875,
    "vortag": 13703.5302734375,
-   "veraenderung_pct": 0.8594101585507552,
+   "veraenderung_pct": 0.9365458475964372,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13622.849609,
     13660.919922,
     13703.530273,
-    13821.299805
+    13831.870117
    ]
   },
   {
@@ -30,7 +30,19 @@
    "symbol": "^GDAXI",
    "einheit": "",
    "dezimalen": 2,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 25421.55078125,
+   "vortag": 25254.2109375,
+   "veraenderung_pct": 0.6626215491909004,
+   "datum": "2026-10-06",
+   "ist_heute": true,
+   "verlauf": [
+    25199.189453,
+    24939.349609,
+    25231.199219,
+    25254.210938,
+    25421.550781
+   ]
   },
   {
    "name": "Euro Stoxx 50",
@@ -38,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6279.18994140625,
+   "kurs": 6284.2900390625,
    "vortag": 6242.14013671875,
-   "veraenderung_pct": 0.5935433020729297,
+   "veraenderung_pct": 0.6752476141284935,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -48,7 +60,7 @@
     6175.450195,
     6238.5,
     6242.140137,
-    6279.189941
+    6284.290039
    ]
   },
   {
@@ -116,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9345600008964539,
-   "vortag": 0.9319300055503845,
-   "veraenderung_pct": 0.2822095361674881,
-   "datum": "2026-10-06",
-   "ist_heute": true,
+   "kurs": 0.9319300055503845,
+   "vortag": 0.9341400265693665,
+   "veraenderung_pct": -0.2365834838592984,
+   "datum": "2026-10-05",
+   "ist_heute": false,
    "verlauf": [
+    0.94585,
     0.94601,
     0.94654,
     0.93414,
-    0.93193,
-    0.93456
+    0.93193
    ]
   },
   {
@@ -135,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8312100172042847,
-   "vortag": 0.8281099796295166,
-   "veraenderung_pct": 0.374350949876856,
-   "datum": "2026-10-06",
-   "ist_heute": true,
+   "kurs": 0.8281099796295166,
+   "vortag": 0.8305299878120422,
+   "veraenderung_pct": -0.29138119249624284,
+   "datum": "2026-10-05",
+   "ist_heute": false,
    "verlauf": [
+    0.83172,
     0.83422,
     0.83566,
     0.83053,
-    0.82811,
-    0.83121
+    0.82811
    ]
   },
   {
@@ -154,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4185.89990234375,
+   "kurs": 4184.2998046875,
    "vortag": 4156.7998046875,
-   "veraenderung_pct": 0.7000601189269373,
+   "veraenderung_pct": 0.6615666207689053,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -164,7 +176,7 @@
     4202.299805,
     4162.299805,
     4156.799805,
-    4185.899902
+    4184.299805
    ]
   },
   {
@@ -173,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 98.13999938964844,
+   "kurs": 98.41999816894531,
    "vortag": 100.31999969482422,
-   "veraenderung_pct": -2.1730465628064133,
+   "veraenderung_pct": -1.893940920712478,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -183,7 +195,7 @@
     102.309998,
     102.25,
     100.32,
-    98.139999
+    98.419998
    ]
   },
   {
@@ -192,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 86210.5625,
+   "kurs": 86333.7265625,
    "vortag": 85786.59375,
-   "veraenderung_pct": 0.49421329308811934,
+   "veraenderung_pct": 0.6377835843377255,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -202,7 +214,7 @@
     84763.578125,
     86480.304688,
     85786.59375,
-    86210.5625
+    86333.726562
    ]
   }
  ],
@@ -266,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.12999725341797,
+   "kurs": 75.0999984741211,
    "vortag": 74.4800033569336,
-   "veraenderung_pct": 0.8727092738830544,
+   "veraenderung_pct": 0.8324316450635472,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -276,7 +288,7 @@
     74.629997,
     74.779999,
     74.480003,
-    75.129997
+    75.099998
    ]
   },
   {
@@ -304,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 352.6000061035156,
+   "kurs": 353.20001220703125,
    "vortag": 348.8999938964844,
-   "veraenderung_pct": 1.060479298296868,
+   "veraenderung_pct": 1.232450096236648,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -314,7 +326,7 @@
     349.0,
     345.700012,
     348.899994,
-    352.600006
+    353.200012
    ]
   },
   {
@@ -323,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.380001068115234,
+   "kurs": 40.52000045776367,
    "vortag": 40.029998779296875,
-   "veraenderung_pct": 0.8743499862392534,
+   "veraenderung_pct": 1.2240861688964655,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -333,7 +345,7 @@
     39.060001,
     39.529999,
     40.029999,
-    40.380001
+    40.52
    ]
   }
  ],
@@ -361,6 +373,46 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "Unsure how long this AI bull has? Bonds now offer a cushion at the best values in years",
+    "link": "https://www.cnbc.com/2026/10/06/unsure-how-long-this-ai-bull-has-bonds-now-offer-a-cushion-at-the-best-values-in-years.html",
+    "zeit": "2026-10-06T11:08:28+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Wie KI die Produktivität steigert – statt das Hamsterrad zu beschleunigen",
+    "link": "https://www.nzz.ch/wirtschaft/wie-ki-die-produktivitaet-steigert-statt-das-hamsterrad-zu-beschleunigen-ld.10026106",
+    "zeit": "2026-10-06T11:00:06+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Meta Muse gives AMD a boost as AI momentum shifts to personal agents",
+    "link": "https://www.cnbc.com/2026/10/06/meta-muse-gives-amd-a-boost-as-ai-momentum-shifts-to-personal-agents-.html",
+    "zeit": "2026-10-06T11:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Ein neuer Megakonzern soll die deutsche Chemieindustrie aus der Krise führen. Kritiker befürchten jedoch einen «Ausverkauf des Ruhrgebiets»",
+    "link": "https://www.nzz.ch/wirtschaft/ein-neuer-megakonzern-soll-die-deutsche-chemieindustrie-aus-der-krise-fuehren-kritiker-befuerchten-jedoch-einen-ausverkauf-des-ruhrgebiets-ld.10026805",
+    "zeit": "2026-10-06T10:57:29+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "A Harvard expert says this ‘sneaky’ communication mistake can lead to worse decisions",
+    "link": "https://www.cnbc.com/make-it/2026/10/06/communication-assumptions-decision-making.html",
+    "zeit": "2026-10-06T10:46:50+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
    {
     "titel": "Barbie maker Mattel faces investor pressure to consider a sale amid stagnating growth",
     "link": "https://www.cnbc.com/2026/10/06/mattel-barbie-ariel-sale-investor-pressure.html",
@@ -450,22 +502,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Trump allows cheaper, dyed diesel on highways to blunt historic fuel-cost spike ahead of midterms",
-    "link": "https://www.cnbc.com/2026/10/06/us-diesel-fuel-prices-iran-ukraine-energy-crisis-.html",
-    "zeit": "2026-10-06T07:05:36+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "How quant funds beat the market by being 'early, contrarian and right'",
-    "link": "https://www.cnbc.com/2026/10/06/trend-following-hedge-funds-beat-stock-market.html",
-    "zeit": "2026-10-06T06:57:42+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Teurere Fahrstunden? – Der hohe Benzinpreis belastet auch Fahrlehrer",
     "link": "https://www.srf.ch/news/wirtschaft/teurere-fahrstunden-der-hohe-benzinpreis-belastet-auch-fahrlehrer",
     "zeit": "2026-10-06T06:10:59+00:00",
@@ -520,14 +556,6 @@
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
-    "link": "https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html",
-    "zeit": "2026-10-06T04:07:24+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Tramondo engagierte Asien-Spezialisten von Cité Gestion",
@@ -610,24 +638,8 @@
     "sprache": "de"
    },
    {
-    "titel": "Pete Hegseth und die zerstörten Militärstützpunkte am Golf: Wie viel Wahrheit verträgt der Krieg?",
-    "link": "https://www.nzz.ch/pro/usa-pete-hegseth-und-der-iran-wie-viel-wahrheit-vertraegt-der-krieg-ld.10026020",
-    "zeit": "2026-10-06T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "GASTKOMMENTAR - Der japanische Spiegel: Tokio zeigt Ländern wie der Schweiz, wie Wachstum mit weniger Menschen geht",
-    "link": "https://www.nzz.ch/meinung/der-japanische-spiegel-tokio-zeigt-laendern-wie-der-schweiz-wie-wachstum-mit-weniger-menschen-geht-ld.10025793",
-    "zeit": "2026-10-06T03:28:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Ozempic, Wegovy, Mounjaro usw. – Abnehmspritzen auf Krankenkassenkosten: Wer soll das bezahlen?",
-    "link": "https://www.srf.ch/news/schweiz/ozempic-wegovy-mounjaro-usw-abnehmspritzen-auf-krankenkassenkosten-wer-soll-das-bezahlen",
+    "titel": "Ozempic, Wegovy oder Mounjaro – Abnehmspritzen auf Krankenkassenkosten: Wer soll das bezahlen?",
+    "link": "https://www.srf.ch/news/schweiz/ozempic-wegovy-oder-mounjaro-abnehmspritzen-auf-krankenkassenkosten-wer-soll-das-bezahlen",
     "zeit": "2026-10-05T14:55:32+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
