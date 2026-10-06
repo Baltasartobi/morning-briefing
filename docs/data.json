@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-06T20:21:56+02:00",
+ "aktualisiert": "2026-10-06T20:52:03+02:00",
  "kernaussagen": [
   "SMI +0.62%, Nikkei 225 +2.40% führt",
   "Franken stärker: EUR/CHF 0.9319 (−0.24%)",
-  "Gold +0.94% auf 4'195.70 USD/Unze · Brent über 100 USD"
+  "Gold +0.95% auf 4'196.20 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7826.52001953125,
+   "kurs": 7828.68994140625,
    "vortag": 7773.9501953125,
-   "veraenderung_pct": 0.6762305249967904,
+   "veraenderung_pct": 0.704143256883194,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7666.450195,
     7722.720215,
     7773.950195,
-    7826.52002
+    7828.689941
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27653.12109375,
+   "kurs": 27649.427734375,
    "vortag": 27477.310546875,
-   "veraenderung_pct": 0.6398389921570935,
+   "veraenderung_pct": 0.6263975042476444,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26871.599609,
     27190.859375,
     27477.310547,
-    27653.121094
+    27649.427734
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8312699794769287,
+   "kurs": 0.8314099907875061,
    "vortag": 0.8281099796295166,
-   "veraenderung_pct": 0.38159180847281426,
+   "veraenderung_pct": 0.3984991413176653,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83566,
     0.83053,
     0.82811,
-    0.83127
+    0.83141
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4195.7001953125,
+   "kurs": 4196.2001953125,
    "vortag": 4156.7998046875,
-   "veraenderung_pct": 0.9358254535408062,
+   "veraenderung_pct": 0.9478539375547879,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4202.299805,
     4162.299805,
     4156.799805,
-    4195.700195
+    4196.200195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 100.22000122070312,
+   "kurs": 100.73999786376953,
    "vortag": 100.31999969482422,
-   "veraenderung_pct": -0.09967950002520709,
+   "veraenderung_pct": 0.4186584631409085,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.309998,
     102.25,
     100.32,
-    100.220001
+    100.739998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 85703.546875,
+   "kurs": 85561.28125,
    "vortag": 85786.59375,
-   "veraenderung_pct": -0.09680635559679018,
+   "veraenderung_pct": -0.26264301932374945,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     84763.578125,
     86480.304688,
     85786.59375,
-    85703.546875
+    85561.28125
    ]
   }
  ],
@@ -374,9 +374,25 @@
   ],
   "artikel": [
    {
-    "titel": "Treasury yields fall as oil prices slide",
+    "titel": "Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots",
+    "link": "https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html",
+    "zeit": "2026-10-06T18:48:36+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "How event contract bundles are boosting volume on prediction markets",
+    "link": "https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html",
+    "zeit": "2026-10-06T18:46:16+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Treasury yields slide as surge to multiyear highs cools",
     "link": "https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html",
-    "zeit": "2026-10-06T18:19:35+00:00",
+    "zeit": "2026-10-06T18:44:05+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,7 +400,31 @@
    {
     "titel": "Boomers' dividend stocks take beating as bond yields rise, with retirement income on the line",
     "link": "https://www.cnbc.com/2026/10/06/dividend-stocks-bond-yields-retirement-income.html",
-    "zeit": "2026-10-06T18:12:22+00:00",
+    "zeit": "2026-10-06T18:41:02+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Kalshi launches transparency features on its election contracts ahead of midterms",
+    "link": "https://www.cnbc.com/2026/10/06/kalshi-launches-transparency-features-on-its-election-contracts-ahead-of-midterms-.html",
+    "zeit": "2026-10-06T18:34:49+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Govt airs new ad after Trump says MAGA Inc. PAC will pay for controversial TV spots",
+    "link": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
+    "zeit": "2026-10-06T18:22:05+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Young voters struggle to afford housing. But they don't expect help from political candidates",
+    "link": "https://www.cnbc.com/2026/10/06/housing-affordability-election.html",
+    "zeit": "2026-10-06T18:11:51+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -409,46 +449,6 @@
     "titel": "British Airways plans record 106-seat business class on Airbus A380 jumbo jets",
     "link": "https://www.cnbc.com/2026/10/06/british-airways-business-class-a380.html",
     "zeit": "2026-10-06T17:53:27+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Why deep-red Kansas has become an unexpected Senate battleground",
-    "link": "https://www.cnbc.com/2026/10/06/kansas-election-senate-marshall-hamilton.html",
-    "zeit": "2026-10-06T17:43:20+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "How the S&P 500 can be at record highs, while the market remains oversold",
-    "link": "https://www.cnbc.com/investingclub/2026/10/06/how-the-sp-500-can-be-at-record-highs-while-the-market-remains-oversold.html",
-    "zeit": "2026-10-06T17:41:46+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Salesforce shares sit at the epicenter of AI confusion. Here's how to trade it",
-    "link": "https://www.cnbc.com/2026/10/06/salesforce-shares-sit-at-the-epicenter-of-ai-confusion-heres-how-to-trade-it.html",
-    "zeit": "2026-10-06T17:22:20+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "High diesel prices may put 'another squeeze' on the consumer, economist says",
-    "link": "https://www.cnbc.com/2026/10/06/diesel-prices-inflation.html",
-    "zeit": "2026-10-06T17:18:32+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Anduril lands $2.9 billion Navy submarine shipyard contract days after Luckey joins Pentagon weapons group",
-    "link": "https://www.cnbc.com/2026/10/06/anduril-navy-submarine-shipyard-contract.html",
-    "zeit": "2026-10-06T16:44:22+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
