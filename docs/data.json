@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-06T16:21:23+02:00",
+ "aktualisiert": "2026-10-06T16:50:17+02:00",
  "kernaussagen": [
-  "SMI +0.57%, Nikkei 225 +1.05% führt",
-  "Franken schwächer: EUR/CHF 0.9365 (+0.49%)",
-  "Brent-Öl −2.04% auf 98.27 USD/Fass"
+  "SMI +0.38%, Nikkei 225 +1.05% führt",
+  "Franken schwächer: EUR/CHF 0.9354 (+0.37%)",
+  "Brent-Öl −1.80% auf 98.51 USD/Fass"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13781.41015625,
+   "kurs": 13755.1396484375,
    "vortag": 13703.5302734375,
-   "veraenderung_pct": 0.5683198508595888,
+   "veraenderung_pct": 0.37661371902129037,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13622.849609,
     13660.919922,
     13703.530273,
-    13781.410156
+    13755.139648
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25450.76953125,
+   "kurs": 25409.30078125,
    "vortag": 25254.2109375,
-   "veraenderung_pct": 0.7783200759526876,
+   "veraenderung_pct": 0.6141147871688402,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     24939.349609,
     25231.199219,
     25254.210938,
-    25450.769531
+    25409.300781
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6270.58984375,
+   "kurs": 6261.9501953125,
    "vortag": 6242.14013671875,
-   "veraenderung_pct": 0.4557684769666892,
+   "veraenderung_pct": 0.3173600425472545,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6175.450195,
     6238.5,
     6242.140137,
-    6270.589844
+    6261.950195
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7824.509765625,
+   "kurs": 7827.7998046875,
    "vortag": 7773.9501953125,
-   "veraenderung_pct": 0.6503716777473745,
+   "veraenderung_pct": 0.6926930070566995,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7666.450195,
     7722.720215,
     7773.950195,
-    7824.509766
+    7827.799805
    ]
   },
   {
@@ -87,7 +87,19 @@
    "symbol": "^IXIC",
    "einheit": "",
    "dezimalen": 2,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 27689.529296875,
+   "vortag": 27477.310546875,
+   "veraenderung_pct": 0.7723417822787404,
+   "datum": "2026-10-06",
+   "ist_heute": true,
+   "verlauf": [
+    26861.060547,
+    26871.599609,
+    27190.859375,
+    27477.310547,
+    27689.529297
+   ]
   },
   {
    "name": "Nikkei 225",
@@ -116,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9364699721336365,
+   "kurs": 0.9354199767112732,
    "vortag": 0.9319300055503845,
-   "veraenderung_pct": 0.487157464210064,
+   "veraenderung_pct": 0.374488549580243,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -126,7 +138,7 @@
     0.94654,
     0.93414,
     0.93193,
-    0.93647
+    0.93542
    ]
   },
   {
@@ -135,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8324300050735474,
-   "vortag": 0.8281099796295166,
-   "veraenderung_pct": 0.5216729118472152,
-   "datum": "2026-10-06",
-   "ist_heute": true,
+   "kurs": 0.8281099796295166,
+   "vortag": 0.8305299878120422,
+   "veraenderung_pct": -0.29138119249624284,
+   "datum": "2026-10-05",
+   "ist_heute": false,
    "verlauf": [
+    0.83172,
     0.83422,
     0.83566,
     0.83053,
-    0.82811,
-    0.83243
+    0.82811
    ]
   },
   {
@@ -154,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4179.2998046875,
+   "kurs": 4177.2001953125,
    "vortag": 4156.7998046875,
-   "veraenderung_pct": 0.5412817806291104,
+   "veraenderung_pct": 0.49077154502352727,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -164,7 +176,7 @@
     4202.299805,
     4162.299805,
     4156.799805,
-    4179.299805
+    4177.200195
    ]
   },
   {
@@ -173,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 98.2699966430664,
+   "kurs": 98.51000213623047,
    "vortag": 100.31999969482422,
-   "veraenderung_pct": -2.04346397327948,
+   "veraenderung_pct": -1.804224047148928,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -183,7 +195,7 @@
     102.309998,
     102.25,
     100.32,
-    98.269997
+    98.510002
    ]
   },
   {
@@ -192,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 86074.6796875,
+   "kurs": 86301.90625,
    "vortag": 85786.59375,
-   "veraenderung_pct": 0.33581696732190025,
+   "veraenderung_pct": 0.6006911773437817,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -202,7 +214,7 @@
     84763.578125,
     86480.304688,
     85786.59375,
-    86074.679688
+    86301.90625
    ]
   }
  ],
@@ -245,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.296,
+   "wert": 5.286,
    "vortag": 5.311,
-   "veraenderung_bp": -1.5,
+   "veraenderung_bp": -2.5,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -255,7 +267,7 @@
     5.237,
     5.277,
     5.311,
-    5.296
+    5.286
    ]
   }
  ],
@@ -266,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.06999969482422,
+   "kurs": 75.30999755859375,
    "vortag": 74.4800033569336,
-   "veraenderung_pct": 0.7921540162440177,
+   "veraenderung_pct": 1.1143852903477303,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -276,7 +288,7 @@
     74.629997,
     74.779999,
     74.480003,
-    75.07
+    75.309998
    ]
   },
   {
@@ -285,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 116.91999816894531,
+   "kurs": 116.5199966430664,
    "vortag": 116.4800033569336,
-   "veraenderung_pct": 0.3777427878873141,
+   "veraenderung_pct": 0.03433489438549042,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -295,7 +307,7 @@
     118.059998,
     116.339996,
     116.480003,
-    116.919998
+    116.519997
    ]
   },
   {
@@ -304,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 350.1000061035156,
+   "kurs": 348.29998779296875,
    "vortag": 348.8999938964844,
-   "veraenderung_pct": 0.34394159587955997,
+   "veraenderung_pct": -0.17197079793977998,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -314,7 +326,7 @@
     349.0,
     345.700012,
     348.899994,
-    350.100006
+    348.299988
    ]
   },
   {
@@ -323,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.689998626708984,
+   "kurs": 40.720001220703125,
    "vortag": 40.029998779296875,
-   "veraenderung_pct": 1.6487630965241307,
+   "veraenderung_pct": 1.7237133710908736,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -333,7 +345,7 @@
     39.060001,
     39.529999,
     40.029999,
-    40.689999
+    40.720001
    ]
   }
  ],
@@ -362,9 +374,17 @@
   ],
   "artikel": [
    {
+    "titel": "64% of Gen Z has tried manifestation, psychics or other mystical dating tactics: ‘People don't feel like they're in control,' says relationship coach",
+    "link": "https://www.cnbc.com/make-it/2026/10/06/gen-z-dating-manifestation-psychics-tarot.html",
+    "zeit": "2026-10-06T14:39:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Russia’s neighbor backs push to lift ban on nuclear weapons, prompting outcry from Moscow",
     "link": "https://www.cnbc.com/2026/10/06/russia-ukraine-lithuania-trump-nato.html",
-    "zeit": "2026-10-06T14:15:15+00:00",
+    "zeit": "2026-10-06T14:33:58+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -372,14 +392,6 @@
    {
     "titel": "Google DeepMind's Lila Ibrahim, world's top AI 'readiness' officer, on preparing for what's to come",
     "link": "https://www.cnbc.com/2026/10/06/google-deepmind-ai-risks-lila-ibrahim.html",
-    "zeit": "2026-10-06T14:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "64% of Gen Z has tried manifestation, psychics or other mystical dating tactics: ‘People don't feel like they're in control,' says relationship coach",
-    "link": "https://www.cnbc.com/make-it/2026/10/06/gen-z-dating-manifestation-psychics-tarot.html",
     "zeit": "2026-10-06T14:00:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
@@ -410,9 +422,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Trump allows cheaper, dyed diesel on highways to blunt historic fuel cost spike ahead of midterms",
-    "link": "https://www.cnbc.com/2026/10/06/us-diesel-fuel-prices-iran-ukraine-energy-crisis-.html",
-    "zeit": "2026-10-06T13:26:52+00:00",
+    "titel": "Treasury yields fall as oil prices slide",
+    "link": "https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html",
+    "zeit": "2026-10-06T13:40:49+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
