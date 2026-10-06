@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-06T13:48:17+02:00",
+ "aktualisiert": "2026-10-06T14:24:30+02:00",
  "kernaussagen": [
-  "SMI +0.81%, Nikkei 225 +1.05% führt",
-  "Franken schwächer: EUR/CHF 0.9352 (+0.36%)",
-  "Brent-Öl −2.01% auf 98.30 USD/Fass"
+  "SMI +0.85%, Nikkei 225 +1.05% führt",
+  "Franken stärker: EUR/CHF 0.9319 (−0.24%)",
+  "Brent-Öl −2.61% auf 97.70 USD/Fass"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13814.6201171875,
+   "kurs": 13819.6904296875,
    "vortag": 13703.5302734375,
-   "veraenderung_pct": 0.8106658761161123,
+   "veraenderung_pct": 0.84766592208112,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13622.849609,
     13660.919922,
     13703.530273,
-    13814.620117
+    13819.69043
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25408.0390625,
+   "kurs": 25414.25,
    "vortag": 25254.2109375,
-   "veraenderung_pct": 0.6091187144223076,
+   "veraenderung_pct": 0.6337123852179438,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     24939.349609,
     25231.199219,
     25254.210938,
-    25408.039062
+    25414.25
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6278.27978515625,
+   "kurs": 6276.3798828125,
    "vortag": 6242.14013671875,
-   "veraenderung_pct": 0.5789624655318404,
+   "veraenderung_pct": 0.5485257514860731,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6175.450195,
     6238.5,
     6242.140137,
-    6278.279785
+    6276.379883
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9352399706840515,
-   "vortag": 0.9319300055503845,
-   "veraenderung_pct": 0.35517314754900386,
-   "datum": "2026-10-06",
-   "ist_heute": true,
+   "kurs": 0.9319300055503845,
+   "vortag": 0.9341400265693665,
+   "veraenderung_pct": -0.2365834838592984,
+   "datum": "2026-10-05",
+   "ist_heute": false,
    "verlauf": [
+    0.94585,
     0.94601,
     0.94654,
     0.93414,
-    0.93193,
-    0.93524
+    0.93193
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8299800157546997,
+   "kurs": 0.8304799795150757,
    "vortag": 0.8281099796295166,
-   "veraenderung_pct": 0.2258197789162919,
+   "veraenderung_pct": 0.2861938563545996,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83566,
     0.83053,
     0.82811,
-    0.82998
+    0.83048
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4196.2998046875,
+   "kurs": 4206.2001953125,
    "vortag": 4156.7998046875,
-   "veraenderung_pct": 0.9502502371044441,
+   "veraenderung_pct": 1.1884236178343999,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4202.299805,
     4162.299805,
     4156.799805,
-    4196.299805
+    4206.200195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 98.30000305175781,
+   "kurs": 97.69999694824219,
    "vortag": 100.31999969482422,
-   "veraenderung_pct": -2.013553278719382,
+   "veraenderung_pct": -2.6116454889873797,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.309998,
     102.25,
     100.32,
-    98.300003
+    97.699997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 86312.953125,
+   "kurs": 86258.21875,
    "vortag": 85786.59375,
-   "veraenderung_pct": 0.6135683350873222,
+   "veraenderung_pct": 0.5497653880213615,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     84763.578125,
     86480.304688,
     85786.59375,
-    86312.953125
+    86258.21875
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.08999633789062,
+   "kurs": 75.22000122070312,
    "vortag": 74.4800033569336,
-   "veraenderung_pct": 0.8190023542745228,
+   "veraenderung_pct": 0.9935524038891419,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     74.629997,
     74.779999,
     74.480003,
-    75.089996
+    75.220001
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 117.5999984741211,
+   "kurs": 117.54000091552734,
    "vortag": 116.4800033569336,
-   "veraenderung_pct": 0.961534241852191,
+   "veraenderung_pct": 0.9100253503131928,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     118.059998,
     116.339996,
     116.480003,
-    117.599998
+    117.540001
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 352.6000061035156,
+   "kurs": 353.0,
    "vortag": 348.8999938964844,
-   "veraenderung_pct": 1.060479298296868,
+   "veraenderung_pct": 1.1751235813240113,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     349.0,
     345.700012,
     348.899994,
-    352.600006
+    353.0
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.470001220703125,
+   "kurs": 40.529998779296875,
    "vortag": 40.029998779296875,
-   "veraenderung_pct": 1.0991817507469248,
+   "veraenderung_pct": 1.2490632406878754,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.060001,
     39.529999,
     40.029999,
-    40.470001
+    40.529999
    ]
   }
  ],
@@ -374,6 +374,38 @@
   ],
   "artikel": [
    {
+    "titel": "Meta Muse gives AMD a boost as AI momentum shifts to personal agents",
+    "link": "https://www.cnbc.com/2026/10/06/meta-muse-gives-amd-a-boost-as-ai-momentum-shifts-to-personal-agents-.html",
+    "zeit": "2026-10-06T12:18:28+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Russia’s neighbor backs push to lift ban on nuclear weapons, prompting outcry from Moscow",
+    "link": "https://www.cnbc.com/2026/10/06/russia-ukraine-lithuania-trump-nato.html",
+    "zeit": "2026-10-06T12:17:44+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Car buyers are stretching loans to afford payments — it's a 'potential warning light,' analyst says",
+    "link": "https://www.cnbc.com/2026/10/06/car-loans-are-getting-longer-as-monthly-payments-hit-record-highs.html",
+    "zeit": "2026-10-06T12:15:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Treasury yields fall as oil prices slide",
+    "link": "https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html",
+    "zeit": "2026-10-06T12:06:39+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Jobs in Redaktionen gestrichen – 34 Stellen weg bei Tamedia – ohne Einfluss auf Qualität?",
     "link": "https://www.srf.ch/news/wirtschaft/jobs-in-redaktionen-gestrichen-34-stellen-weg-bei-tamedia-ohne-einfluss-auf-qualitaet",
     "zeit": "2026-10-06T11:47:42+00:00",
@@ -398,28 +430,12 @@
     "sprache": "en"
    },
    {
-    "titel": "Unsure how long this AI bull has? Bonds now offer a cushion at the best values in years",
-    "link": "https://www.cnbc.com/2026/10/06/unsure-how-long-this-ai-bull-has-bonds-now-offer-a-cushion-at-the-best-values-in-years.html",
-    "zeit": "2026-10-06T11:08:28+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Wie KI die Produktivität steigert – statt das Hamsterrad zu beschleunigen",
     "link": "https://www.nzz.ch/wirtschaft/wie-ki-die-produktivitaet-steigert-statt-das-hamsterrad-zu-beschleunigen-ld.10026106",
     "zeit": "2026-10-06T11:00:06+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Meta Muse gives AMD a boost as AI momentum shifts to personal agents",
-    "link": "https://www.cnbc.com/2026/10/06/meta-muse-gives-amd-a-boost-as-ai-momentum-shifts-to-personal-agents-.html",
-    "zeit": "2026-10-06T11:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Ein neuer Megakonzern soll die deutsche Chemieindustrie aus der Krise führen. Kritiker befürchten jedoch einen «Ausverkauf des Ruhrgebiets»",
@@ -462,20 +478,12 @@
     "sprache": "en"
    },
    {
-    "titel": "House China committee chair urges Fed to review Hong Kong’s access to dollar lifeline",
-    "link": "https://www.cnbc.com/2026/10/06/hong-kong-fed-fima-dollar-liquidity-china-moolenaar.html",
-    "zeit": "2026-10-06T09:58:14+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Student riots engulf France as far-right presidential frontrunner Le Pen vows fiscal turnaround",
-    "link": "https://www.cnbc.com/2026/10/06/france-student-protests-budget.html",
-    "zeit": "2026-10-06T09:46:34+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "BNP Paribas stellt Schweizer Führung neu auf",
+    "link": "https://www.finews.ch/news/finanzplatz/73867-bnp-paribas-asset-management-fuehrungswechsel-frederick-widl-ceo",
+    "zeit": "2026-10-06T09:13:52+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Neue Zahlen zum Arbeitsmarkt – Arbeitslosenquote verharrt im September auf 3 Prozent",
@@ -578,14 +586,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/finanzen-opernhaus-zuerich-intendant-das-opernhaus-ist-wie-ein-schwimmbad",
     "zeit": "2026-10-06T03:53:08+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Zwei Wealth verpfllichtet weiteren Partner",
-    "link": "https://www.finews.ch/news/finanzplatz/73849-vermoegensberater-zwei-wealth-roderik-strobl-ex-ceo-von-leo-trust",
-    "zeit": "2026-10-06T03:32:35+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
