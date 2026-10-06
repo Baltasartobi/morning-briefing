@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-06T17:48:52+02:00",
+ "aktualisiert": "2026-10-06T18:21:49+02:00",
  "kernaussagen": [
   "SMI +0.62%, Nikkei 225 +2.40% führt",
-  "Franken schwächer: EUR/CHF 0.9355 (+0.38%)",
-  "Brent-Öl −1.30% auf 99.02 USD/Fass"
+  "Franken schwächer: EUR/CHF 0.9357 (+0.41%)",
+  "Gold +0.78% auf 4'189.20 USD/Unze"
  ],
  "maerkte": [
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25461.9609375,
+   "kurs": 25449.189453125,
    "vortag": 25254.2109375,
-   "veraenderung_pct": 0.8226350865372378,
+   "veraenderung_pct": 0.772063384231414,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     24939.349609,
     25231.199219,
     25254.210938,
-    25461.960938
+    25449.189453
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6274.56005859375,
+   "kurs": 6272.22998046875,
    "vortag": 6242.14013671875,
-   "veraenderung_pct": 0.5193719007411168,
+   "veraenderung_pct": 0.482043707621993,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6175.450195,
     6238.5,
     6242.140137,
-    6274.560059
+    6272.22998
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7840.31982421875,
+   "kurs": 7835.35009765625,
    "vortag": 7773.9501953125,
-   "veraenderung_pct": 0.8537439427676041,
+   "veraenderung_pct": 0.7898159983166897,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7666.450195,
     7722.720215,
     7773.950195,
-    7840.319824
+    7835.350098
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27708.63671875,
+   "kurs": 27663.796875,
    "vortag": 27477.310546875,
-   "veraenderung_pct": 0.8418806909081145,
+   "veraenderung_pct": 0.6786920714342282,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26871.599609,
     27190.859375,
     27477.310547,
-    27708.636719
+    27663.796875
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9355000257492065,
+   "kurs": 0.9357200264930725,
    "vortag": 0.9319300055503845,
-   "veraenderung_pct": 0.38307814723850253,
+   "veraenderung_pct": 0.4066851501846047,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.94654,
     0.93414,
     0.93193,
-    0.9355
+    0.93572
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8303599953651428,
+   "kurs": 0.8311300277709961,
    "vortag": 0.8281099796295166,
-   "veraenderung_pct": 0.27170494149011404,
+   "veraenderung_pct": 0.3646916733005323,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83566,
     0.83053,
     0.82811,
-    0.83036
+    0.83113
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4193.89990234375,
+   "kurs": 4189.2001953125,
    "vortag": 4156.7998046875,
-   "veraenderung_pct": 0.8925158631506225,
+   "veraenderung_pct": 0.7794551613590661,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4202.299805,
     4162.299805,
     4156.799805,
-    4193.899902
+    4189.200195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 99.0199966430664,
+   "kurs": 99.68000030517578,
    "vortag": 100.31999969482422,
-   "veraenderung_pct": -1.2958563155028413,
+   "veraenderung_pct": -0.6379579262313917,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.309998,
     102.25,
     100.32,
-    99.019997
+    99.68
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 86069.4765625,
+   "kurs": 85700.15625,
    "vortag": 85786.59375,
-   "veraenderung_pct": 0.3297517713832798,
+   "veraenderung_pct": -0.10075875054778027,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     84763.578125,
     86480.304688,
     85786.59375,
-    86069.476562
+    85700.15625
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.258,
+   "wert": 5.267,
    "vortag": 5.311,
-   "veraenderung_bp": -5.3,
+   "veraenderung_bp": -4.4,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.237,
     5.277,
     5.311,
-    5.258
+    5.267
    ]
   }
  ],
@@ -374,9 +374,65 @@
   ],
   "artikel": [
    {
+    "titel": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
+    "link": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
+    "zeit": "2026-10-06T16:19:16+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
+    "link": "https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html",
+    "zeit": "2026-10-06T16:19:10+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Meta Muse popularity lifts AMD stock to fresh highs as AI agents juice CPU sales",
+    "link": "https://www.cnbc.com/2026/10/06/meta-muse-gives-amd-a-boost-as-ai-momentum-shifts-to-personal-agents-.html",
+    "zeit": "2026-10-06T16:15:07+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "What's behind an 'explosion of buying' Tuesday, including the rally in GE Vernova",
+    "link": "https://www.cnbc.com/investingclub/2026/10/06/whats-behind-an-explosion-of-buying-tuesday-including-the-rally-in-ge-vernova.html",
+    "zeit": "2026-10-06T16:02:21+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Treasury yields fall as oil prices slide",
+    "link": "https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html",
+    "zeit": "2026-10-06T15:59:27+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "British Airways plans record 106-seat business class on Airbus A380 jumbo jets",
     "link": "https://www.cnbc.com/2026/10/06/british-airways-business-class-a380.html",
-    "zeit": "2026-10-06T15:40:05+00:00",
+    "zeit": "2026-10-06T15:52:33+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
+    "link": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
+    "zeit": "2026-10-06T15:52:22+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "High diesel prices may put 'another squeeze' on the consumer, economist says",
+    "link": "https://www.cnbc.com/2026/10/06/diesel-prices-inflation.html",
+    "zeit": "2026-10-06T15:45:52+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -398,14 +454,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Russian lab worker's suspected plague death leaves experts puzzled",
-    "link": "https://www.cnbc.com/2026/10/06/plague-russia-person-died-lab-infection-pneumonic.html",
-    "zeit": "2026-10-06T15:23:41+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Paramount schliesst Warner-Übernahme ab",
     "link": "https://www.nzz.ch/wirtschaft/paramount-schliesst-warner-uebernahme-ab-ld.10027014",
     "zeit": "2026-10-06T15:20:41+00:00",
@@ -414,60 +462,12 @@
     "sprache": "de"
    },
    {
-    "titel": "UBS CEO warns ‘hard measures’ are needed to tackle French debt crisis, as turmoil worsens",
-    "link": "https://www.cnbc.com/2026/10/06/france-debt-crisis-ubs-ermotti.html",
-    "zeit": "2026-10-06T15:13:04+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Nach Disney und Fox – Mega-Fusion in Hollywood: Paramount übernimmt Warner Brothers",
     "link": "https://www.srf.ch/news/international/nach-disney-und-fox-mega-fusion-in-hollywood-paramount-uebernimmt-warner-brothers",
     "zeit": "2026-10-06T15:12:13+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Paramount's hard-fought takeover of Warner Bros. Discovery closed Tuesday. Here's how we got here",
-    "link": "https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html",
-    "zeit": "2026-10-06T15:06:53+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
-    "link": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
-    "zeit": "2026-10-06T14:53:41+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "64% of Gen Z has tried manifestation, psychics or other mystical dating tactics: ‘People don't feel like they're in control,' says relationship coach",
-    "link": "https://www.cnbc.com/make-it/2026/10/06/gen-z-dating-manifestation-psychics-tarot.html",
-    "zeit": "2026-10-06T14:39:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Russia’s neighbor backs push to lift ban on nuclear weapons, prompting outcry from Moscow",
-    "link": "https://www.cnbc.com/2026/10/06/russia-ukraine-lithuania-trump-nato.html",
-    "zeit": "2026-10-06T14:33:58+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Google DeepMind's Lila Ibrahim, world's top AI 'readiness' officer, on preparing for what's to come",
-    "link": "https://www.cnbc.com/2026/10/06/google-deepmind-ai-risks-lila-ibrahim.html",
-    "zeit": "2026-10-06T14:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Neue Zahlen zum Arbeitsmarkt – Arbeitslosenquote verharrt im September auf 3 Prozent",
