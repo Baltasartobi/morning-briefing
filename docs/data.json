@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-06T17:20:41+02:00",
+ "aktualisiert": "2026-10-06T17:48:52+02:00",
  "kernaussagen": [
-  "SMI +0.50%, Nikkei 225 +2.40% führt",
+  "SMI +0.62%, Nikkei 225 +2.40% führt",
   "Franken schwächer: EUR/CHF 0.9355 (+0.38%)",
-  "Brent-Öl −1.90% auf 98.41 USD/Fass"
+  "Brent-Öl −1.30% auf 99.02 USD/Fass"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13772.25,
+   "kurs": 13788.9296875,
    "vortag": 13703.5302734375,
-   "veraenderung_pct": 0.5014746214390131,
+   "veraenderung_pct": 0.6231928003839649,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13622.849609,
     13660.919922,
     13703.530273,
-    13772.25
+    13788.929688
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25462.0703125,
+   "kurs": 25461.9609375,
    "vortag": 25254.2109375,
-   "veraenderung_pct": 0.8230681826267183,
+   "veraenderung_pct": 0.8226350865372378,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     24939.349609,
     25231.199219,
     25254.210938,
-    25462.070312
+    25461.960938
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6271.9599609375,
+   "kurs": 6274.56005859375,
    "vortag": 6242.14013671875,
-   "veraenderung_pct": 0.4777179551503252,
+   "veraenderung_pct": 0.5193719007411168,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6175.450195,
     6238.5,
     6242.140137,
-    6271.959961
+    6274.560059
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7841.89990234375,
+   "kurs": 7840.31982421875,
    "vortag": 7773.9501953125,
-   "veraenderung_pct": 0.8740692353833346,
+   "veraenderung_pct": 0.8537439427676041,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7666.450195,
     7722.720215,
     7773.950195,
-    7841.899902
+    7840.319824
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27716.943359375,
+   "kurs": 27708.63671875,
    "vortag": 27477.310546875,
-   "veraenderung_pct": 0.872111599463854,
+   "veraenderung_pct": 0.8418806909081145,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26871.599609,
     27190.859375,
     27477.310547,
-    27716.943359
+    27708.636719
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.93545001745224,
+   "kurs": 0.9355000257492065,
    "vortag": 0.9319300055503845,
-   "veraenderung_pct": 0.3777120471377682,
+   "veraenderung_pct": 0.38307814723850253,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.94654,
     0.93414,
     0.93193,
-    0.93545
+    0.9355
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8304499983787537,
+   "kurs": 0.8303599953651428,
    "vortag": 0.8281099796295166,
-   "veraenderung_pct": 0.2825734270566205,
+   "veraenderung_pct": 0.27170494149011404,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83566,
     0.83053,
     0.82811,
-    0.83045
+    0.83036
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4188.7998046875,
+   "kurs": 4193.89990234375,
    "vortag": 4156.7998046875,
-   "veraenderung_pct": 0.7698229768947407,
+   "veraenderung_pct": 0.8925158631506225,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4202.299805,
     4162.299805,
     4156.799805,
-    4188.799805
+    4193.899902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 98.41000366210938,
+   "kurs": 99.0199966430664,
    "vortag": 100.31999969482422,
-   "veraenderung_pct": -1.903903547174135,
+   "veraenderung_pct": -1.2958563155028413,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.309998,
     102.25,
     100.32,
-    98.410004
+    99.019997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 86523.71875,
+   "kurs": 86069.4765625,
    "vortag": 85786.59375,
-   "veraenderung_pct": 0.8592543051052282,
+   "veraenderung_pct": 0.3297517713832798,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     84763.578125,
     86480.304688,
     85786.59375,
-    86523.71875
+    86069.476562
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.264,
+   "wert": 5.258,
    "vortag": 5.311,
-   "veraenderung_bp": -4.7,
+   "veraenderung_bp": -5.3,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.237,
     5.277,
     5.311,
-    5.264
+    5.258
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.20999908447266,
+   "kurs": 75.19999694824219,
    "vortag": 74.4800033569336,
-   "veraenderung_pct": 0.9801231131001398,
+   "veraenderung_pct": 0.9666938223111154,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     74.629997,
     74.779999,
     74.480003,
-    75.209999
+    75.199997
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 116.91999816894531,
+   "kurs": 117.18000030517578,
    "vortag": 116.4800033569336,
-   "veraenderung_pct": 0.3777427878873141,
+   "veraenderung_pct": 0.6009589011576111,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     118.059998,
     116.339996,
     116.480003,
-    116.919998
+    117.18
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 348.8999938964844,
+   "kurs": 349.79998779296875,
    "vortag": 348.8999938964844,
-   "veraenderung_pct": 0.0,
+   "veraenderung_pct": 0.25795182351060486,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     349.0,
     345.700012,
     348.899994,
-    348.899994
+    349.799988
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.650001525878906,
+   "kurs": 40.56999969482422,
    "vortag": 40.029998779296875,
-   "veraenderung_pct": 1.5488452797622676,
+   "veraenderung_pct": 1.3489905870460062,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.060001,
     39.529999,
     40.029999,
-    40.650002
+    40.57
    ]
   }
  ],
@@ -373,6 +373,46 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "British Airways plans record 106-seat business class on Airbus A380 jumbo jets",
+    "link": "https://www.cnbc.com/2026/10/06/british-airways-business-class-a380.html",
+    "zeit": "2026-10-06T15:40:05+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Anduril lands $2.9 billion Navy submarine shipyard contract days after Luckey joins Pentagon weapons group",
+    "link": "https://www.cnbc.com/2026/10/06/anduril-navy-submarine-shipyard-contract.html",
+    "zeit": "2026-10-06T15:27:46+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "This startup wants to reduce liquidation risk from margin calls on prediction markets",
+    "link": "https://www.cnbc.com/2026/10/06/this-firm-aims-to-reduce-liquidation-risk-from-margin-calls-on-prediction-markets.html",
+    "zeit": "2026-10-06T15:26:56+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Russian lab worker's suspected plague death leaves experts puzzled",
+    "link": "https://www.cnbc.com/2026/10/06/plague-russia-person-died-lab-infection-pneumonic.html",
+    "zeit": "2026-10-06T15:23:41+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Paramount schliesst Warner-Übernahme ab",
+    "link": "https://www.nzz.ch/wirtschaft/paramount-schliesst-warner-uebernahme-ab-ld.10027014",
+    "zeit": "2026-10-06T15:20:41+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
    {
     "titel": "UBS CEO warns ‘hard measures’ are needed to tackle French debt crisis, as turmoil worsens",
     "link": "https://www.cnbc.com/2026/10/06/france-debt-crisis-ubs-ermotti.html",
@@ -425,38 +465,6 @@
     "titel": "Google DeepMind's Lila Ibrahim, world's top AI 'readiness' officer, on preparing for what's to come",
     "link": "https://www.cnbc.com/2026/10/06/google-deepmind-ai-risks-lila-ibrahim.html",
     "zeit": "2026-10-06T14:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Russian lab worker's suspected plague death leaves experts puzzled",
-    "link": "https://www.cnbc.com/2026/10/06/plague-russia-person-died-lab-infection-pneumonic.html",
-    "zeit": "2026-10-06T13:52:59+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Anduril lands $2.9 billion Navy submarine shipyard contract days after Luckey joins Pentagon weapons group",
-    "link": "https://www.cnbc.com/2026/10/06/anduril-navy-submarine-shipyard-contract.html",
-    "zeit": "2026-10-06T13:52:45+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "House China committee chair urges Fed to review Hong Kong’s access to dollar lifeline",
-    "link": "https://www.cnbc.com/2026/10/06/hong-kong-fed-fima-dollar-liquidity-china-moolenaar.html",
-    "zeit": "2026-10-06T13:47:49+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Treasury yields fall as oil prices slide",
-    "link": "https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html",
-    "zeit": "2026-10-06T13:40:49+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -640,14 +648,6 @@
    {
     "titel": "KOMMENTAR - Frankreich könnte zum Zentrum einer neuen Euro-Krise werden. Das Misstrauen der Anleger steigt und steigt",
     "link": "https://www.nzz.ch/meinung/das-misstrauen-der-anleger-gegenueber-frankreich-ist-gross-paris-koennte-zum-zentrum-einer-neuen-euro-krise-werden-ld.10026737",
-    "zeit": "2026-10-06T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Fernsehen in Russland: Es dröhnt und flimmert der Krieg",
-    "link": "https://www.nzz.ch/international/fernsehen-in-russland-es-droehnt-und-flimmert-der-krieg-ld.10026276",
     "zeit": "2026-10-06T03:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
