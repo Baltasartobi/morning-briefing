@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-06T16:50:17+02:00",
+ "aktualisiert": "2026-10-06T17:20:41+02:00",
  "kernaussagen": [
-  "SMI +0.38%, Nikkei 225 +1.05% führt",
-  "Franken schwächer: EUR/CHF 0.9354 (+0.37%)",
-  "Brent-Öl −1.80% auf 98.51 USD/Fass"
+  "SMI +0.50%, Nikkei 225 +2.40% führt",
+  "Franken schwächer: EUR/CHF 0.9355 (+0.38%)",
+  "Brent-Öl −1.90% auf 98.41 USD/Fass"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13755.1396484375,
+   "kurs": 13772.25,
    "vortag": 13703.5302734375,
-   "veraenderung_pct": 0.37661371902129037,
+   "veraenderung_pct": 0.5014746214390131,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13622.849609,
     13660.919922,
     13703.530273,
-    13755.139648
+    13772.25
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25409.30078125,
+   "kurs": 25462.0703125,
    "vortag": 25254.2109375,
-   "veraenderung_pct": 0.6141147871688402,
+   "veraenderung_pct": 0.8230681826267183,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     24939.349609,
     25231.199219,
     25254.210938,
-    25409.300781
+    25462.070312
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6261.9501953125,
+   "kurs": 6271.9599609375,
    "vortag": 6242.14013671875,
-   "veraenderung_pct": 0.3173600425472545,
+   "veraenderung_pct": 0.4777179551503252,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6175.450195,
     6238.5,
     6242.140137,
-    6261.950195
+    6271.959961
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7827.7998046875,
+   "kurs": 7841.89990234375,
    "vortag": 7773.9501953125,
-   "veraenderung_pct": 0.6926930070566995,
+   "veraenderung_pct": 0.8740692353833346,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7666.450195,
     7722.720215,
     7773.950195,
-    7827.799805
+    7841.899902
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27689.529296875,
+   "kurs": 27716.943359375,
    "vortag": 27477.310546875,
-   "veraenderung_pct": 0.7723417822787404,
+   "veraenderung_pct": 0.872111599463854,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26871.599609,
     27190.859375,
     27477.310547,
-    27689.529297
+    27716.943359
    ]
   },
   {
@@ -107,17 +107,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 70683.9765625,
-   "vortag": 69946.859375,
-   "veraenderung_pct": 1.0538245663728185,
-   "datum": "2026-10-06",
-   "ist_heute": true,
+   "kurs": 69946.859375,
+   "vortag": 68309.4609375,
+   "veraenderung_pct": 2.397030242996867,
+   "datum": "2026-10-05",
+   "ist_heute": false,
    "verlauf": [
+    65481.269531,
     66753.71875,
     68956.71875,
     68309.460938,
-    69946.859375,
-    70683.976562
+    69946.859375
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9354199767112732,
+   "kurs": 0.93545001745224,
    "vortag": 0.9319300055503845,
-   "veraenderung_pct": 0.374488549580243,
+   "veraenderung_pct": 0.3777120471377682,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.94654,
     0.93414,
     0.93193,
-    0.93542
+    0.93545
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8281099796295166,
-   "vortag": 0.8305299878120422,
-   "veraenderung_pct": -0.29138119249624284,
-   "datum": "2026-10-05",
-   "ist_heute": false,
+   "kurs": 0.8304499983787537,
+   "vortag": 0.8281099796295166,
+   "veraenderung_pct": 0.2825734270566205,
+   "datum": "2026-10-06",
+   "ist_heute": true,
    "verlauf": [
-    0.83172,
     0.83422,
     0.83566,
     0.83053,
-    0.82811
+    0.82811,
+    0.83045
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4177.2001953125,
+   "kurs": 4188.7998046875,
    "vortag": 4156.7998046875,
-   "veraenderung_pct": 0.49077154502352727,
+   "veraenderung_pct": 0.7698229768947407,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4202.299805,
     4162.299805,
     4156.799805,
-    4177.200195
+    4188.799805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 98.51000213623047,
+   "kurs": 98.41000366210938,
    "vortag": 100.31999969482422,
-   "veraenderung_pct": -1.804224047148928,
+   "veraenderung_pct": -1.903903547174135,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.309998,
     102.25,
     100.32,
-    98.510002
+    98.410004
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 86301.90625,
+   "kurs": 86523.71875,
    "vortag": 85786.59375,
-   "veraenderung_pct": 0.6006911773437817,
+   "veraenderung_pct": 0.8592543051052282,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     84763.578125,
     86480.304688,
     85786.59375,
-    86301.90625
+    86523.71875
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.286,
+   "wert": 5.264,
    "vortag": 5.311,
-   "veraenderung_bp": -2.5,
+   "veraenderung_bp": -4.7,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.237,
     5.277,
     5.311,
-    5.286
+    5.264
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.30999755859375,
+   "kurs": 75.20999908447266,
    "vortag": 74.4800033569336,
-   "veraenderung_pct": 1.1143852903477303,
+   "veraenderung_pct": 0.9801231131001398,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     74.629997,
     74.779999,
     74.480003,
-    75.309998
+    75.209999
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 116.5199966430664,
+   "kurs": 116.91999816894531,
    "vortag": 116.4800033569336,
-   "veraenderung_pct": 0.03433489438549042,
+   "veraenderung_pct": 0.3777427878873141,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     118.059998,
     116.339996,
     116.480003,
-    116.519997
+    116.919998
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 348.29998779296875,
+   "kurs": 348.8999938964844,
    "vortag": 348.8999938964844,
-   "veraenderung_pct": -0.17197079793977998,
+   "veraenderung_pct": 0.0,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     349.0,
     345.700012,
     348.899994,
-    348.299988
+    348.899994
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.720001220703125,
+   "kurs": 40.650001525878906,
    "vortag": 40.029998779296875,
-   "veraenderung_pct": 1.7237133710908736,
+   "veraenderung_pct": 1.5488452797622676,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.060001,
     39.529999,
     40.029999,
-    40.720001
+    40.650002
    ]
   }
  ],
@@ -373,6 +373,38 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "UBS CEO warns ‘hard measures’ are needed to tackle French debt crisis, as turmoil worsens",
+    "link": "https://www.cnbc.com/2026/10/06/france-debt-crisis-ubs-ermotti.html",
+    "zeit": "2026-10-06T15:13:04+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Nach Disney und Fox – Mega-Fusion in Hollywood: Paramount übernimmt Warner Brothers",
+    "link": "https://www.srf.ch/news/international/nach-disney-und-fox-mega-fusion-in-hollywood-paramount-uebernimmt-warner-brothers",
+    "zeit": "2026-10-06T15:12:13+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Paramount's hard-fought takeover of Warner Bros. Discovery closed Tuesday. Here's how we got here",
+    "link": "https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html",
+    "zeit": "2026-10-06T15:06:53+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
+    "link": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
+    "zeit": "2026-10-06T14:53:41+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
    {
     "titel": "64% of Gen Z has tried manifestation, psychics or other mystical dating tactics: ‘People don't feel like they're in control,' says relationship coach",
     "link": "https://www.cnbc.com/make-it/2026/10/06/gen-z-dating-manifestation-psychics-tarot.html",
@@ -425,30 +457,6 @@
     "titel": "Treasury yields fall as oil prices slide",
     "link": "https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html",
     "zeit": "2026-10-06T13:40:49+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
-    "link": "https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html",
-    "zeit": "2026-10-06T13:17:17+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Paramount's hard-fought takeover of Warner Bros. Discovery closed Tuesday. Here's how we got here",
-    "link": "https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html",
-    "zeit": "2026-10-06T13:08:32+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
-    "link": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
-    "zeit": "2026-10-06T13:07:57+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -681,14 +689,6 @@
     "titel": "Hunderte Millionen Verlust – Swiss Steel baut in Deutschland Stellen ab",
     "link": "https://www.srf.ch/news/wirtschaft/hunderte-millionen-verlust-swiss-steel-baut-in-deutschland-stellen-ab",
     "zeit": "2026-10-04T03:08:27+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Boomendes EU-Land – Europa humpelt, Polen rennt: Das sind die Gründe",
-    "link": "https://www.srf.ch/news/wirtschaft/boomendes-eu-land-europa-humpelt-polen-rennt-das-sind-die-gruende",
-    "zeit": "2026-10-03T14:10:48+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
