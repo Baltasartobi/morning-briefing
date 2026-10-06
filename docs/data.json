@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-06T08:53:58+02:00",
+ "aktualisiert": "2026-10-06T09:20:57+02:00",
  "kernaussagen": [
-  "SMI +0.31%, Nikkei 225 +1.05% führt",
-  "Franken schwächer: EUR/CHF 0.9329 (+0.11%)",
-  "Bitcoin −1.35% auf 85'312 USD"
+  "SMI +0.73%, Nikkei 225 +1.05% führt",
+  "Franken schwächer: EUR/CHF 0.9335 (+0.17%)",
+  "Brent-Öl −0.73% auf 99.59 USD/Fass"
  ],
  "maerkte": [
   {
@@ -12,17 +12,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13703.5302734375,
-   "vortag": 13660.919921875,
-   "veraenderung_pct": 0.31191421812135633,
-   "datum": "2026-10-05",
-   "ist_heute": false,
+   "kurs": 13803.0703125,
+   "vortag": 13703.5302734375,
+   "veraenderung_pct": 0.7263824509181172,
+   "datum": "2026-10-06",
+   "ist_heute": true,
    "verlauf": [
-    13912.19043,
     13830.339844,
     13622.849609,
     13660.919922,
-    13703.530273
+    13703.530273,
+    13803.070312
    ]
   },
   {
@@ -31,17 +31,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25254.2109375,
-   "vortag": 25231.19921875,
-   "veraenderung_pct": 0.09120342854294083,
-   "datum": "2026-10-05",
-   "ist_heute": false,
+   "kurs": 25374.880859375,
+   "vortag": 25254.2109375,
+   "veraenderung_pct": 0.4778209945804246,
+   "datum": "2026-10-06",
+   "ist_heute": true,
    "verlauf": [
-    25399.210938,
     25199.189453,
     24939.349609,
     25231.199219,
-    25254.210938
+    25254.210938,
+    25374.880859
    ]
   },
   {
@@ -50,17 +50,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6242.14013671875,
-   "vortag": 6238.5,
-   "veraenderung_pct": 0.05834955067323122,
-   "datum": "2026-10-05",
-   "ist_heute": false,
+   "kurs": 6268.06005859375,
+   "vortag": 6242.14013671875,
+   "veraenderung_pct": 0.4152409479327268,
+   "datum": "2026-10-06",
+   "ist_heute": true,
    "verlauf": [
-    6320.259766,
     6269.02002,
     6175.450195,
     6238.5,
-    6242.140137
+    6242.140137,
+    6268.060059
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.932919979095459,
+   "kurs": 0.9335200190544128,
    "vortag": 0.9319300055503845,
-   "veraenderung_pct": 0.10622831534325972,
+   "veraenderung_pct": 0.17061512072349405,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.94654,
     0.93414,
     0.93193,
-    0.93292
+    0.93352
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8322299718856812,
-   "vortag": 0.8281099796295166,
-   "veraenderung_pct": 0.4975175227338591,
-   "datum": "2026-10-06",
-   "ist_heute": true,
+   "kurs": 0.8281099796295166,
+   "vortag": 0.8305299878120422,
+   "veraenderung_pct": -0.29138119249624284,
+   "datum": "2026-10-05",
+   "ist_heute": false,
    "verlauf": [
+    0.83172,
     0.83422,
     0.83566,
     0.83053,
-    0.82811,
-    0.83223
+    0.82811
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4158.0,
+   "kurs": 4156.7998046875,
    "vortag": 4156.7998046875,
-   "veraenderung_pct": 0.028873060260115047,
+   "veraenderung_pct": 0.0,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4202.299805,
     4162.299805,
     4156.799805,
-    4158.0
+    4156.799805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 99.68000030517578,
+   "kurs": 99.58999633789062,
    "vortag": 100.31999969482422,
-   "veraenderung_pct": -0.6379579262313917,
+   "veraenderung_pct": -0.7276747997949418,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.309998,
     102.25,
     100.32,
-    99.68
+    99.589996
    ]
   },
   {
@@ -204,17 +204,17 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 85312.4296875,
-   "vortag": 86480.3046875,
-   "veraenderung_pct": -1.3504519950758298,
+   "kurs": 85341.6015625,
+   "vortag": 85786.59375,
+   "veraenderung_pct": -0.5187199631644046,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
-    84853.101562,
     84497.210938,
     84763.578125,
     86480.304688,
-    85312.429688
+    85786.59375,
+    85341.601562
    ]
   }
  ],
@@ -278,17 +278,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 74.77999877929688,
-   "vortag": 74.62999725341797,
-   "veraenderung_pct": 0.20099361034351393,
-   "datum": "2026-10-02",
-   "ist_heute": false,
+   "kurs": 74.62000274658203,
+   "vortag": 74.77999877929688,
+   "veraenderung_pct": -0.213955650343145,
+   "datum": "2026-10-06",
+   "ist_heute": true,
    "verlauf": [
-    77.0,
     76.260002,
     76.019997,
     74.629997,
-    74.779999
+    74.779999,
+    74.620003
    ]
   },
   {
@@ -297,17 +297,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 116.4800033569336,
-   "vortag": 116.33999633789062,
-   "veraenderung_pct": 0.12034298044529823,
-   "datum": "2026-10-05",
-   "ist_heute": false,
+   "kurs": 118.05999755859375,
+   "vortag": 116.4800033569336,
+   "veraenderung_pct": 1.3564510268930352,
+   "datum": "2026-10-06",
+   "ist_heute": true,
    "verlauf": [
-    120.919998,
     119.959999,
     118.059998,
     116.339996,
-    116.480003
+    116.480003,
+    118.059998
    ]
   },
   {
@@ -316,17 +316,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 348.8999938964844,
-   "vortag": 345.70001220703125,
-   "veraenderung_pct": 0.925652755701023,
-   "datum": "2026-10-05",
-   "ist_heute": false,
+   "kurs": 352.70001220703125,
+   "vortag": 348.8999938964844,
+   "veraenderung_pct": 1.0891425557531864,
+   "datum": "2026-10-06",
+   "ist_heute": true,
    "verlauf": [
-    349.299988,
     349.100006,
     349.0,
     345.700012,
-    348.899994
+    348.899994,
+    352.700012
    ]
   },
   {
@@ -335,17 +335,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.029998779296875,
-   "vortag": 39.529998779296875,
-   "veraenderung_pct": 1.2648621690872996,
-   "datum": "2026-10-05",
-   "ist_heute": false,
+   "kurs": 40.29999923706055,
+   "vortag": 40.029998779296875,
+   "veraenderung_pct": 0.674495293522992,
+   "datum": "2026-10-06",
+   "ist_heute": true,
    "verlauf": [
-    40.529999,
     40.290001,
     39.060001,
     39.529999,
-    40.029999
+    40.029999,
+    40.299999
    ]
   }
  ],
@@ -374,9 +374,33 @@
   ],
   "artikel": [
    {
+    "titel": "Neue Zahlen – Arbeitslosenquote verharrt im September auf 3 Prozent",
+    "link": "https://www.srf.ch/news/wirtschaft/neue-zahlen-arbeitslosenquote-verharrt-im-september-auf-3-prozent",
+    "zeit": "2026-10-06T07:08:39+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Trump allows cheaper, dyed diesel on highways to blunt historic fuel-cost spike ahead of midterms",
     "link": "https://www.cnbc.com/2026/10/06/us-diesel-fuel-prices-iran-ukraine-energy-crisis-.html",
-    "zeit": "2026-10-06T06:17:40+00:00",
+    "zeit": "2026-10-06T07:05:36+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Treasury yields are broadly flat as investors anticipate FOMC minutes",
+    "link": "https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html",
+    "zeit": "2026-10-06T07:05:14+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "How quant funds beat the market by being 'early, contrarian and right'",
+    "link": "https://www.cnbc.com/2026/10/06/trend-following-hedge-funds-beat-stock-market.html",
+    "zeit": "2026-10-06T06:57:42+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -390,12 +414,20 @@
     "sprache": "de"
    },
    {
-    "titel": "How quant funds beat the market by being 'early, contrarian and right'",
-    "link": "https://www.cnbc.com/2026/10/06/trend-following-hedge-funds-beat-stock-market.html",
-    "zeit": "2026-10-06T05:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "Bank Frick vereinfacht Einzahlungen für Krypto- und Zahlungsplattformen",
+    "link": "https://www.finews.ch/news/banken/73859-bank-frick-named-vbans-zahlungen-automatisch-zugeordnet-krypto-boersen-broker-und-zahlungsplattformen",
+    "zeit": "2026-10-06T05:04:25+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Eversheds Sutherland engagierte Deloitte-Forensiker für Finanzfälle",
+    "link": "https://www.finews.ch/news/finanzplatz/73857-eversheds-sutherland-neuer-partner-michael-faske-forensik-ex-deloitte",
+    "zeit": "2026-10-06T04:53:37+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "LevineX holte Vertriebsspezialisten von der ZKB",
@@ -566,14 +598,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Russian gold floods Hong Kong as Western sanctions redraw bullion trade",
-    "link": "https://www.cnbc.com/2026/10/06/russia-gold-hong-kong-china-western-sanctions.html",
-    "zeit": "2026-10-05T23:14:39+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Ozempic, Wegovy, Mounjaro usw. – Abnehmspritzen auf Krankenkassenkosten: Wer soll das bezahlen?",
     "link": "https://www.srf.ch/news/schweiz/ozempic-wegovy-mounjaro-usw-abnehmspritzen-auf-krankenkassenkosten-wer-soll-das-bezahlen",
     "zeit": "2026-10-05T14:55:32+00:00",
@@ -630,26 +654,10 @@
     "sprache": "de"
    },
    {
-    "titel": "Allianz Suisse mit neuer Chefin «Leben»",
-    "link": "https://www.finews.ch/news/versicherungen/73841-allianz-suisse-mit-neuer-chefin-leben",
-    "zeit": "2026-10-05T08:25:17+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Kritik an Palmöl-Import – Referendum gegen Malaysia-Deal: 85'000 Unterschriften eingereicht",
     "link": "https://www.srf.ch/news/schweiz/kritik-an-palmoel-import-referendum-gegen-malaysia-deal-85-000-unterschriften-eingereicht",
     "zeit": "2026-10-05T08:21:50+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Vontobel-Veteran heuert in Wien an",
-    "link": "https://www.finews.ch/news/finanzplatz/73840-vontobel-veteran-ulrich-behm-superfund-ceo-chstian-baha-gruender",
-    "zeit": "2026-10-05T07:52:06+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -681,14 +689,6 @@
     "titel": "Glacemanufaktur – Glace von «Kalte Lust»: Vom Keller in Olten in die ganze Schweiz",
     "link": "https://www.srf.ch/news/schweiz/glacemanufaktur-glace-von-kalte-lust-vom-keller-in-olten-in-die-ganze-schweiz",
     "zeit": "2026-10-03T12:04:12+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Schweizer KI-Sprachmodell – Warum hinkt Apertus der kommerziellen Konkurrenz hinterher?",
-    "link": "https://www.srf.ch/news/schweizer-ki-sprachmodell-warum-hinkt-apertus-der-kommerziellen-konkurrenz-hinterher",
-    "zeit": "2026-10-03T08:24:33+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
