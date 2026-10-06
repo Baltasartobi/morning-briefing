@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-06T06:20:41+02:00",
+ "aktualisiert": "2026-10-06T06:48:47+02:00",
  "kernaussagen": [
   "SMI +0.31%, Nasdaq +1.05% führt",
-  "Franken schwächer: EUR/CHF 0.9325 (+0.06%)",
-  "Bitcoin −1.03% auf 85'587 USD · Brent über 100 USD"
+  "Franken schwächer: EUR/CHF 0.9330 (+0.11%)",
+  "Bitcoin −1.07% auf 85'555 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 70344.1875,
+   "kurs": 70515.796875,
    "vortag": 69946.859375,
-   "veraenderung_pct": 0.5680428378775915,
+   "veraenderung_pct": 0.8133853400762447,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     68956.71875,
     68309.460938,
     69946.859375,
-    70344.1875
+    70515.796875
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9325199723243713,
+   "kurs": 0.9329599738121033,
    "vortag": 0.9319300055503845,
-   "veraenderung_pct": 0.06330591036591837,
+   "veraenderung_pct": 0.11051991625814495,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.94654,
     0.93414,
     0.93193,
-    0.93252
+    0.93296
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8313699960708618,
+   "kurs": 0.8316500186920166,
    "vortag": 0.8281099796295166,
-   "veraenderung_pct": 0.39366950302950343,
+   "veraenderung_pct": 0.42748416871920547,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83566,
     0.83053,
     0.82811,
-    0.83137
+    0.83165
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4155.7998046875,
+   "kurs": 4150.7998046875,
    "vortag": 4156.7998046875,
-   "veraenderung_pct": -0.02405696802796342,
+   "veraenderung_pct": -0.14434180816775832,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4202.299805,
     4162.299805,
     4156.799805,
-    4155.799805
+    4150.799805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 100.58000183105469,
+   "kurs": 100.77999877929688,
    "vortag": 100.31999969482422,
-   "veraenderung_pct": 0.2591727841122493,
+   "veraenderung_pct": 0.4585317841626635,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.309998,
     102.25,
     100.32,
-    100.580002
+    100.779999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 85587.140625,
+   "kurs": 85555.171875,
    "vortag": 86480.3046875,
-   "veraenderung_pct": -1.0327947683897332,
+   "veraenderung_pct": -1.0697612778343024,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     84497.210938,
     84763.578125,
     86480.304688,
-    85587.140625
+    85555.171875
    ]
   }
  ],
@@ -390,7 +390,7 @@
     "sprache": "de"
    },
    {
-    "titel": "INTERVIEW - Teure Treibstoffe: «Ich bin 38 Jahre in dieser Branche. So eine Lage wie derzeit habe ich noch nicht erlebt»",
+    "titel": "INTERVIEW - Teure Treibstoffe: «Ich bin 38 Jahre in dieser Branche. So eine Lage wie derzeit habe ich noch nicht erlebt.»",
     "link": "https://www.nzz.ch/wirtschaft/raffinerie-cressier-varopreem-kritisiert-abhaengigkeit-bei-treibstoff-importen-ld.10026605",
     "zeit": "2026-10-06T03:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
