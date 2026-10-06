@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-06T19:47:44+02:00",
+ "aktualisiert": "2026-10-06T20:21:56+02:00",
  "kernaussagen": [
   "SMI +0.62%, Nikkei 225 +2.40% führt",
-  "Franken schwächer: EUR/CHF 0.9361 (+0.45%)",
-  "Gold +0.81% auf 4'190.60 USD/Unze · Brent über 100 USD"
+  "Franken stärker: EUR/CHF 0.9319 (−0.24%)",
+  "Gold +0.94% auf 4'195.70 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7827.419921875,
+   "kurs": 7826.52001953125,
    "vortag": 7773.9501953125,
-   "veraenderung_pct": 0.687806394678736,
+   "veraenderung_pct": 0.6762305249967904,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7666.450195,
     7722.720215,
     7773.950195,
-    7827.419922
+    7826.52002
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27651.033203125,
+   "kurs": 27653.12109375,
    "vortag": 27477.310546875,
-   "veraenderung_pct": 0.6322403932278453,
+   "veraenderung_pct": 0.6398389921570935,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26871.599609,
     27190.859375,
     27477.310547,
-    27651.033203
+    27653.121094
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9360899925231934,
-   "vortag": 0.9319300055503845,
-   "veraenderung_pct": 0.4463840576044209,
-   "datum": "2026-10-06",
-   "ist_heute": true,
+   "kurs": 0.9319300055503845,
+   "vortag": 0.9341400265693665,
+   "veraenderung_pct": -0.2365834838592984,
+   "datum": "2026-10-05",
+   "ist_heute": false,
    "verlauf": [
+    0.94585,
     0.94601,
     0.94654,
     0.93414,
-    0.93193,
-    0.93609
+    0.93193
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8281099796295166,
-   "vortag": 0.8305299878120422,
-   "veraenderung_pct": -0.29138119249624284,
-   "datum": "2026-10-05",
-   "ist_heute": false,
+   "kurs": 0.8312699794769287,
+   "vortag": 0.8281099796295166,
+   "veraenderung_pct": 0.38159180847281426,
+   "datum": "2026-10-06",
+   "ist_heute": true,
    "verlauf": [
-    0.83172,
     0.83422,
     0.83566,
     0.83053,
-    0.82811
+    0.82811,
+    0.83127
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4190.60009765625,
+   "kurs": 4195.7001953125,
    "vortag": 4156.7998046875,
-   "veraenderung_pct": 0.8131325672849243,
+   "veraenderung_pct": 0.9358254535408062,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4202.299805,
     4162.299805,
     4156.799805,
-    4190.600098
+    4195.700195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 100.4800033569336,
+   "kurs": 100.22000122070312,
    "vortag": 100.31999969482422,
-   "veraenderung_pct": 0.15949328408704222,
+   "veraenderung_pct": -0.09967950002520709,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.309998,
     102.25,
     100.32,
-    100.480003
+    100.220001
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 85550.78125,
+   "kurs": 85703.546875,
    "vortag": 85786.59375,
-   "veraenderung_pct": -0.2748826940106808,
+   "veraenderung_pct": -0.09680635559679018,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     84763.578125,
     86480.304688,
     85786.59375,
-    85550.78125
+    85703.546875
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.277,
+   "wert": 5.269,
    "vortag": 5.311,
-   "veraenderung_bp": -3.4,
+   "veraenderung_bp": -4.2,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.237,
     5.277,
     5.311,
-    5.277
+    5.269
    ]
   }
  ],
@@ -374,6 +374,46 @@
   ],
   "artikel": [
    {
+    "titel": "Treasury yields fall as oil prices slide",
+    "link": "https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html",
+    "zeit": "2026-10-06T18:19:35+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Boomers' dividend stocks take beating as bond yields rise, with retirement income on the line",
+    "link": "https://www.cnbc.com/2026/10/06/dividend-stocks-bond-yields-retirement-income.html",
+    "zeit": "2026-10-06T18:12:22+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
+    "link": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
+    "zeit": "2026-10-06T18:06:40+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Alito plans to stay on Supreme Court, even if Democrats regain Senate: Report",
+    "link": "https://www.cnbc.com/2026/10/06/alito-supreme-court-democrats-senate.html",
+    "zeit": "2026-10-06T18:04:56+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "British Airways plans record 106-seat business class on Airbus A380 jumbo jets",
+    "link": "https://www.cnbc.com/2026/10/06/british-airways-business-class-a380.html",
+    "zeit": "2026-10-06T17:53:27+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Why deep-red Kansas has become an unexpected Senate battleground",
     "link": "https://www.cnbc.com/2026/10/06/kansas-election-senate-marshall-hamilton.html",
     "zeit": "2026-10-06T17:43:20+00:00",
@@ -382,17 +422,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
-    "link": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
-    "zeit": "2026-10-06T17:31:53+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Alito plans to stay on Supreme Court, even if Democrats regain Senate: Report",
-    "link": "https://www.cnbc.com/2026/10/06/alito-supreme-court-democrats-senate.html",
-    "zeit": "2026-10-06T17:31:29+00:00",
+    "titel": "How the S&P 500 can be at record highs, while the market remains oversold",
+    "link": "https://www.cnbc.com/investingclub/2026/10/06/how-the-sp-500-can-be-at-record-highs-while-the-market-remains-oversold.html",
+    "zeit": "2026-10-06T17:41:46+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -406,14 +438,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Meta may ditch the idea of a cloud business for Muse. We think that’s a good trade",
-    "link": "https://www.cnbc.com/investingclub/2026/10/06/meta-may-ditch-the-idea-of-a-cloud-business-for-muse-we-think-thats-a-good-trade.html",
-    "zeit": "2026-10-06T17:19:42+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "High diesel prices may put 'another squeeze' on the consumer, economist says",
     "link": "https://www.cnbc.com/2026/10/06/diesel-prices-inflation.html",
     "zeit": "2026-10-06T17:18:32+00:00",
@@ -422,33 +446,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Boomers' dividend stocks take beating as bond yields rise, with retirement income on the line",
-    "link": "https://www.cnbc.com/2026/10/06/dividend-stocks-bond-yields-retirement-income.html",
-    "zeit": "2026-10-06T16:59:17+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Anduril lands $2.9 billion Navy submarine shipyard contract days after Luckey joins Pentagon weapons group",
     "link": "https://www.cnbc.com/2026/10/06/anduril-navy-submarine-shipyard-contract.html",
     "zeit": "2026-10-06T16:44:22+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
-    "link": "https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html",
-    "zeit": "2026-10-06T16:19:10+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Meta Muse popularity lifts AMD stock to fresh highs as AI agents juice CPU sales",
-    "link": "https://www.cnbc.com/2026/10/06/meta-muse-gives-amd-a-boost-as-ai-momentum-shifts-to-personal-agents-.html",
-    "zeit": "2026-10-06T16:15:07+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
