@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-06T09:20:57+02:00",
+ "aktualisiert": "2026-10-06T09:48:54+02:00",
  "kernaussagen": [
-  "SMI +0.73%, Nikkei 225 +1.05% führt",
-  "Franken schwächer: EUR/CHF 0.9335 (+0.17%)",
-  "Brent-Öl −0.73% auf 99.59 USD/Fass"
+  "SMI +1.21%, Nikkei 225 +1.05% führt",
+  "Franken schwächer: EUR/CHF 0.9342 (+0.25%)",
+  "Brent-Öl −0.46% auf 99.86 USD/Fass"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13803.0703125,
+   "kurs": 13868.8798828125,
    "vortag": 13703.5302734375,
-   "veraenderung_pct": 0.7263824509181172,
+   "veraenderung_pct": 1.2066205282554643,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13622.849609,
     13660.919922,
     13703.530273,
-    13803.070312
+    13868.879883
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25374.880859375,
+   "kurs": 25443.25,
    "vortag": 25254.2109375,
-   "veraenderung_pct": 0.4778209945804246,
+   "veraenderung_pct": 0.7485447198007478,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     24939.349609,
     25231.199219,
     25254.210938,
-    25374.880859
+    25443.25
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6268.06005859375,
+   "kurs": 6287.169921875,
    "vortag": 6242.14013671875,
-   "veraenderung_pct": 0.4152409479327268,
+   "veraenderung_pct": 0.721383758934957,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6175.450195,
     6238.5,
     6242.140137,
-    6268.060059
+    6287.169922
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9335200190544128,
+   "kurs": 0.9342300295829773,
    "vortag": 0.9319300055503845,
-   "veraenderung_pct": 0.17061512072349405,
+   "veraenderung_pct": 0.24680222966255716,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.94654,
     0.93414,
     0.93193,
-    0.93352
+    0.93423
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8281099796295166,
-   "vortag": 0.8305299878120422,
-   "veraenderung_pct": -0.29138119249624284,
-   "datum": "2026-10-05",
-   "ist_heute": false,
+   "kurs": 0.8320800065994263,
+   "vortag": 0.8281099796295166,
+   "veraenderung_pct": 0.4794081785713722,
+   "datum": "2026-10-06",
+   "ist_heute": true,
    "verlauf": [
-    0.83172,
     0.83422,
     0.83566,
     0.83053,
-    0.82811
+    0.82811,
+    0.83208
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4156.7998046875,
+   "kurs": 4163.7001953125,
    "vortag": 4156.7998046875,
-   "veraenderung_pct": 0.0,
+   "veraenderung_pct": 0.1660024766460655,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4202.299805,
     4162.299805,
     4156.799805,
-    4156.799805
+    4163.700195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 99.58999633789062,
+   "kurs": 99.86000061035156,
    "vortag": 100.31999969482422,
-   "veraenderung_pct": -0.7276747997949418,
+   "veraenderung_pct": -0.4585317841626635,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.309998,
     102.25,
     100.32,
-    99.589996
+    99.860001
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 85341.6015625,
+   "kurs": 85553.34375,
    "vortag": 85786.59375,
-   "veraenderung_pct": -0.5187199631644046,
+   "veraenderung_pct": -0.27189563054541566,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     84763.578125,
     86480.304688,
     85786.59375,
-    85341.601562
+    85553.34375
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 74.62000274658203,
+   "kurs": 74.80999755859375,
    "vortag": 74.77999877929688,
-   "veraenderung_pct": -0.213955650343145,
+   "veraenderung_pct": 0.04011604678599845,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     76.019997,
     74.629997,
     74.779999,
-    74.620003
+    74.809998
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 118.05999755859375,
+   "kurs": 118.36000061035156,
    "vortag": 116.4800033569336,
-   "veraenderung_pct": 1.3564510268930352,
+   "veraenderung_pct": 1.6140085845095964,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     118.059998,
     116.339996,
     116.480003,
-    118.059998
+    118.360001
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 352.70001220703125,
+   "kurs": 355.29998779296875,
    "vortag": 348.8999938964844,
-   "veraenderung_pct": 1.0891425557531864,
+   "veraenderung_pct": 1.8343347688286826,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     349.0,
     345.700012,
     348.899994,
-    352.700012
+    355.299988
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.29999923706055,
+   "kurs": 40.52000045776367,
    "vortag": 40.029998779296875,
-   "veraenderung_pct": 0.674495293522992,
+   "veraenderung_pct": 1.2240861688964655,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.060001,
     39.529999,
     40.029999,
-    40.299999
+    40.52
    ]
   }
  ],
@@ -373,6 +373,14 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "MELDUNGEN WIRTSCHAFT - Die Arbeitslosenquote verharrt im September bei drei Prozent",
+    "link": "https://www.nzz.ch/wirtschaft/der-deutsche-chemiekonzern-basf-arbeitet-offenbar-an-einer-uebernahme-von-konkurrent-evonik-ld.10025518",
+    "zeit": "2026-10-06T07:29:40+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
    {
     "titel": "Neue Zahlen – Arbeitslosenquote verharrt im September auf 3 Prozent",
     "link": "https://www.srf.ch/news/wirtschaft/neue-zahlen-arbeitslosenquote-verharrt-im-september-auf-3-prozent",
@@ -610,14 +618,6 @@
     "link": "https://www.srf.ch/news/dialog/schweizer-fleischmarkt-in-der-schweiz-wird-so-viel-poulet-gegessen-wie-noch-nie",
     "zeit": "2026-10-05T14:16:36+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Zusatzfinanzierung der 13. AHV-Rente: «Ein Nein hätte schwerwiegende Folgen», mahnt Gesundheitsministerin Baume-Schneider",
-    "link": "https://www.nzz.ch/wirtschaft/finanzierung-der-13-ahv-rente-ein-nein-haette-schwerwiegende-folgen-mahnt-gesundheitsministerin-baume-schneider-ld.10026756",
-    "zeit": "2026-10-05T13:44:31+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
