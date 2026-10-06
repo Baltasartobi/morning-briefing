@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-06T21:18:23+02:00",
+ "aktualisiert": "2026-10-06T21:46:59+02:00",
  "kernaussagen": [
   "SMI +0.62%, Nikkei 225 +2.40% führt",
-  "Franken schwächer: EUR/CHF 0.9361 (+0.45%)",
-  "Gold +1.16% auf 4'205.20 USD/Unze · Brent über 100 USD"
+  "Franken schwächer: EUR/CHF 0.9362 (+0.46%)",
+  "Gold +0.96% auf 4'196.90 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7826.47998046875,
+   "kurs": 7822.52001953125,
    "vortag": 7773.9501953125,
-   "veraenderung_pct": 0.6757154835893342,
+   "veraenderung_pct": 0.6247766321944903,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7666.450195,
     7722.720215,
     7773.950195,
-    7826.47998
+    7822.52002
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27639.80078125,
+   "kurs": 27625.35546875,
    "vortag": 27477.310546875,
-   "veraenderung_pct": 0.5913614947787638,
+   "veraenderung_pct": 0.5387897102318018,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26871.599609,
     27190.859375,
     27477.310547,
-    27639.800781
+    27625.355469
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9360799789428711,
+   "kurs": 0.9361799955368042,
    "vortag": 0.9319300055503845,
-   "veraenderung_pct": 0.4453095584185718,
+   "veraenderung_pct": 0.4560417586200183,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.94654,
     0.93414,
     0.93193,
-    0.93608
+    0.93618
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8313199877738953,
+   "kurs": 0.8316400051116943,
    "vortag": 0.8281099796295166,
-   "veraenderung_pct": 0.38763065575115885,
+   "veraenderung_pct": 0.42627495972902274,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83566,
     0.83053,
     0.82811,
-    0.83132
+    0.83164
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4205.2001953125,
+   "kurs": 4196.89990234375,
    "vortag": 4156.7998046875,
-   "veraenderung_pct": 1.1643666498064364,
+   "veraenderung_pct": 0.9646867672345127,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4202.299805,
     4162.299805,
     4156.799805,
-    4205.200195
+    4196.899902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 100.81999969482422,
+   "kurs": 100.94999694824219,
    "vortag": 100.31999969482422,
-   "veraenderung_pct": 0.4984051051844185,
+   "veraenderung_pct": 0.6279876947113516,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.309998,
     102.25,
     100.32,
-    100.82
+    100.949997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 85435.65625,
+   "kurs": 85560.171875,
    "vortag": 85786.59375,
-   "veraenderung_pct": -0.40908198432811904,
+   "veraenderung_pct": -0.26393619923859024,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     84763.578125,
     86480.304688,
     85786.59375,
-    85435.65625
+    85560.171875
    ]
   }
  ],
@@ -374,6 +374,14 @@
   ],
   "artikel": [
    {
+    "titel": "Emmy Awards leave broadcast TV for Prime Video in 2027 under six-year deal",
+    "link": "https://www.cnbc.com/2026/10/06/emmy-awards-prime-video.html",
+    "zeit": "2026-10-06T19:35:04+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Anduril lands $2.9 billion Navy submarine shipyard contract days after Luckey joins Pentagon weapons group",
     "link": "https://www.cnbc.com/2026/10/06/anduril-navy-submarine-shipyard-contract.html",
     "zeit": "2026-10-06T19:14:29+00:00",
@@ -441,14 +449,6 @@
     "titel": "Young voters struggle to afford housing. But they don't expect help from political candidates",
     "link": "https://www.cnbc.com/2026/10/06/housing-affordability-election.html",
     "zeit": "2026-10-06T18:11:51+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
-    "link": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
-    "zeit": "2026-10-06T18:06:40+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
