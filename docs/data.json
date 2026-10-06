@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-06T10:21:39+02:00",
+ "aktualisiert": "2026-10-06T10:49:54+02:00",
  "kernaussagen": [
-  "SMI +1.06%, Nikkei 225 +1.05% führt",
-  "Franken schwächer: EUR/CHF 0.9344 (+0.26%)",
-  "Gold +0.26% auf 4'167.60 USD/Unze · Brent über 100 USD"
+  "SMI +1.15%, Nikkei 225 +1.05% führt",
+  "Franken schwächer: EUR/CHF 0.9352 (+0.36%)",
+  "Brent-Öl −0.93% auf 99.39 USD/Fass"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13848.2998046875,
+   "kurs": 13861.5400390625,
    "vortag": 13703.5302734375,
-   "veraenderung_pct": 1.0564396791286512,
+   "veraenderung_pct": 1.153058828434017,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13622.849609,
     13660.919922,
     13703.530273,
-    13848.299805
+    13861.540039
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25462.5390625,
+   "kurs": 25445.169921875,
    "vortag": 25254.2109375,
-   "veraenderung_pct": 0.8249243087244951,
+   "veraenderung_pct": 0.7561471029429168,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     24939.349609,
     25231.199219,
     25254.210938,
-    25462.539062
+    25445.169922
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6293.5498046875,
+   "kurs": 6289.85986328125,
    "vortag": 6242.14013671875,
-   "veraenderung_pct": 0.8235904167921193,
+   "veraenderung_pct": 0.7644770145705859,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6175.450195,
     6238.5,
     6242.140137,
-    6293.549805
+    6289.859863
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9343799948692322,
+   "kurs": 0.9352499842643738,
    "vortag": 0.9319300055503845,
-   "veraenderung_pct": 0.26289413413624896,
+   "veraenderung_pct": 0.356247646734853,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.94654,
     0.93414,
     0.93193,
-    0.93438
+    0.93525
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.83228999376297,
-   "vortag": 0.8281099796295166,
-   "veraenderung_pct": 0.5047655790023642,
-   "datum": "2026-10-06",
-   "ist_heute": true,
+   "kurs": 0.8281099796295166,
+   "vortag": 0.8305299878120422,
+   "veraenderung_pct": -0.29138119249624284,
+   "datum": "2026-10-05",
+   "ist_heute": false,
    "verlauf": [
+    0.83172,
     0.83422,
     0.83566,
     0.83053,
-    0.82811,
-    0.83229
+    0.82811
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4167.60009765625,
+   "kurs": 4176.2998046875,
    "vortag": 4156.7998046875,
-   "veraenderung_pct": 0.25982230264183226,
+   "veraenderung_pct": 0.4691108765452423,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4202.299805,
     4162.299805,
     4156.799805,
-    4167.600098
+    4176.299805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 100.0999984741211,
+   "kurs": 99.38999938964844,
    "vortag": 100.31999969482422,
-   "veraenderung_pct": -0.2192994630904832,
+   "veraenderung_pct": -0.9270337998453559,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.309998,
     102.25,
     100.32,
-    100.099998
+    99.389999
    ]
   },
   {
@@ -203,19 +203,7 @@
    "symbol": "BTC-USD",
    "einheit": "USD",
    "dezimalen": 0,
-   "verfuegbar": true,
-   "kurs": 85822.4296875,
-   "vortag": 85786.59375,
-   "veraenderung_pct": 0.04177335400963322,
-   "datum": "2026-10-06",
-   "ist_heute": true,
-   "verlauf": [
-    84497.210938,
-    84763.578125,
-    86480.304688,
-    85786.59375,
-    85822.429688
-   ]
+   "verfuegbar": false
   }
  ],
  "zinsen": [
@@ -278,17 +266,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 74.94999694824219,
-   "vortag": 74.77999877929688,
-   "veraenderung_pct": 0.22733106675627557,
+   "kurs": 74.91999816894531,
+   "vortag": 74.4800033569336,
+   "veraenderung_pct": 0.5907556285988713,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
-    76.260002,
     76.019997,
     74.629997,
     74.779999,
-    74.949997
+    74.480003,
+    74.919998
    ]
   },
   {
@@ -297,9 +285,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 117.87999725341797,
+   "kurs": 118.12000274658203,
    "vortag": 116.4800033569336,
-   "veraenderung_pct": 1.2019178023152444,
+   "veraenderung_pct": 1.4079664683928073,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +295,7 @@
     118.059998,
     116.339996,
     116.480003,
-    117.879997
+    118.120003
    ]
   },
   {
@@ -316,9 +304,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 353.20001220703125,
+   "kurs": 353.79998779296875,
    "vortag": 348.8999938964844,
-   "veraenderung_pct": 1.232450096236648,
+   "veraenderung_pct": 1.4044121473782978,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +314,7 @@
     349.0,
     345.700012,
     348.899994,
-    353.200012
+    353.799988
    ]
   },
   {
@@ -335,9 +323,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.56999969482422,
+   "kurs": 40.619998931884766,
    "vortag": 40.029998779296875,
-   "veraenderung_pct": 1.3489905870460062,
+   "veraenderung_pct": 1.4738950051955468,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +333,7 @@
     39.060001,
     39.529999,
     40.029999,
-    40.57
+    40.619999
    ]
   }
  ],
@@ -374,9 +362,17 @@
   ],
   "artikel": [
    {
-    "titel": "Neue Zahlen – Arbeitslosenquote verharrt im September auf 3 Prozent",
-    "link": "https://www.srf.ch/news/wirtschaft/neue-zahlen-arbeitslosenquote-verharrt-im-september-auf-3-prozent",
-    "zeit": "2026-10-06T08:17:10+00:00",
+    "titel": "Treasury yields fall as investors anticipate FOMC minutes",
+    "link": "https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html",
+    "zeit": "2026-10-06T08:34:20+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Neue Zahlen zum Arbeitsmarkt – Arbeitslosenquote verharrt im September auf 3 Prozent",
+    "link": "https://www.srf.ch/news/wirtschaft/neue-zahlen-zum-arbeitsmarkt-arbeitslosenquote-verharrt-im-september-auf-3-prozent",
+    "zeit": "2026-10-06T08:32:13+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
@@ -398,9 +394,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Treasury yields are broadly flat as investors anticipate FOMC minutes",
-    "link": "https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html",
-    "zeit": "2026-10-06T07:05:14+00:00",
+    "titel": "House China committee chair urges Fed to review Hong Kong’s access to dollar lifeline",
+    "link": "https://www.cnbc.com/2026/10/06/hong-kong-fed-fima-dollar-liquidity-china-moolenaar.html",
+    "zeit": "2026-10-06T07:00:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -418,6 +414,14 @@
     "link": "https://www.srf.ch/news/wirtschaft/teurere-fahrstunden-der-hohe-benzinpreis-belastet-auch-fahrlehrer",
     "zeit": "2026-10-06T06:10:59+00:00",
     "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Plutos Schweiz verbreitert Geschäftsführung mit Private-Banking-Profi",
+    "link": "https://www.finews.ch/news/finanzplatz/73861-plutos-schweiz-michael-zumstein-gemeinsam-mit-ceo-olivier-marti-die-strategische-neuausrichtung-vorantreiben",
+    "zeit": "2026-10-06T06:05:18+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -614,14 +618,6 @@
     "sprache": "en"
    },
    {
-    "titel": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing",
-    "link": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
-    "zeit": "2026-10-05T23:28:31+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Ozempic, Wegovy, Mounjaro usw. – Abnehmspritzen auf Krankenkassenkosten: Wer soll das bezahlen?",
     "link": "https://www.srf.ch/news/schweiz/ozempic-wegovy-mounjaro-usw-abnehmspritzen-auf-krankenkassenkosten-wer-soll-das-bezahlen",
     "zeit": "2026-10-05T14:55:32+00:00",
@@ -641,14 +637,6 @@
     "titel": "Banque Richelieu holt neuen CEO und will nach Genf expandieren",
     "link": "https://www.finews.ch/news/banken/73847-banque-richelieu-richard-albrecht-ceo-schweiz-genf",
     "zeit": "2026-10-05T12:13:44+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Mehrere Anwälte wechseln zu Niederer Kraft Frey",
-    "link": "https://www.finews.ch/news/finanzplatz/73846-nkf-neue-partner-counsel",
-    "zeit": "2026-10-05T12:04:20+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
