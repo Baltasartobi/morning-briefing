@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-06T07:19:48+02:00",
+ "aktualisiert": "2026-10-06T07:47:59+02:00",
  "kernaussagen": [
-  "SMI +0.31%, Nasdaq +1.05% führt",
-  "Franken schwächer: EUR/CHF 0.9328 (+0.09%)",
-  "Bitcoin −0.96% auf 85'650 USD · Brent über 100 USD"
+  "SMI +0.31%, Nikkei 225 +1.13% führt",
+  "Franken schwächer: EUR/CHF 0.9327 (+0.08%)",
+  "Bitcoin −1.09% auf 85'541 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 70535.46875,
+   "kurs": 70737.078125,
    "vortag": 69946.859375,
-   "veraenderung_pct": 0.8415093690544939,
+   "veraenderung_pct": 1.1297415739046635,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     68956.71875,
     68309.460938,
     69946.859375,
-    70535.46875
+    70737.078125
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9327800273895264,
+   "kurs": 0.932699978351593,
    "vortag": 0.9319300055503845,
-   "veraenderung_pct": 0.09121091005539483,
+   "veraenderung_pct": 0.08262131239713533,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.94654,
     0.93414,
     0.93193,
-    0.93278
+    0.9327
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8316400051116943,
+   "kurs": 0.8317000269889832,
    "vortag": 0.8281099796295166,
-   "veraenderung_pct": 0.42627495972902274,
+   "veraenderung_pct": 0.43352301599755005,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83566,
     0.83053,
     0.82811,
-    0.83164
+    0.8317
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4149.5,
+   "kurs": 4150.89990234375,
    "vortag": 4156.7998046875,
-   "veraenderung_pct": -0.17561116797754073,
+   "veraenderung_pct": -0.1419337620516825,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4202.299805,
     4162.299805,
     4156.799805,
-    4149.5
+    4150.899902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 100.8499984741211,
+   "kurs": 100.7300033569336,
    "vortag": 100.31999969482422,
-   "veraenderung_pct": 0.5283081946861445,
+   "veraenderung_pct": 0.40869583667924037,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.309998,
     102.25,
     100.32,
-    100.849998
+    100.730003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 85650.3515625,
+   "kurs": 85540.859375,
    "vortag": 86480.3046875,
-   "veraenderung_pct": -0.9597018974425109,
+   "veraenderung_pct": -1.086311288905284,
    "datum": "2026-10-06",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     84497.210938,
     84763.578125,
     86480.304688,
-    85650.351562
+    85540.859375
    ]
   }
  ],
@@ -390,6 +390,14 @@
     "sprache": "de"
    },
    {
+    "titel": "Zwei Wealth verpfllichtet weiteren Partner",
+    "link": "https://www.finews.ch/news/finanzplatz/73849-vermoegensberater-zwei-wealth-roderik-strobl-ex-ceo-von-leo-trust",
+    "zeit": "2026-10-06T03:32:35+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "INTERVIEW - Teure Treibstoffe: «Ich bin 38 Jahre in dieser Branche. So eine Lage wie derzeit habe ich noch nicht erlebt.»",
     "link": "https://www.nzz.ch/wirtschaft/raffinerie-cressier-varopreem-kritisiert-abhaengigkeit-bei-treibstoff-importen-ld.10026605",
     "zeit": "2026-10-06T03:30:00+00:00",
@@ -458,6 +466,14 @@
     "link": "https://www.nzz.ch/meinung/der-japanische-spiegel-tokio-zeigt-laendern-wie-der-schweiz-wie-wachstum-mit-weniger-menschen-geht-ld.10025793",
     "zeit": "2026-10-06T03:28:00+00:00",
     "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Julius Bär holt frühere UBS-Spitzenbankerin in den VR",
+    "link": "https://www.finews.ch/news/banken/73848-julius-baer-caroline-kuhnert-elaine-arden-verwaltungsrat",
+    "zeit": "2026-10-06T03:17:50+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -625,22 +641,6 @@
     "titel": "Pensionskassen mit negativer Performance im September",
     "link": "https://www.finews.ch/news/finanzplatz/73834-pensionskassen-september-2026-performance-swisscanto",
     "zeit": "2026-10-05T06:12:10+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "DWS kauft Zuger Immobilienmanager",
-    "link": "https://www.finews.ch/news/finanzplatz/73833-dws-uebernimmt-den-zuger-immobilien-asset-manager-peakside-capital-advisors-deutschland-mittel-und-osteuropa-gruender-bleiben-an-bord",
-    "zeit": "2026-10-05T05:39:38+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Edmond de Rothschild AM ernennt neuen Vertriebschef Schweiz",
-    "link": "https://www.finews.ch/news/banken/73832-edmond-de-rothschild-asset-management-vertrieb-zuerich-arnaud-d-anterroches",
-    "zeit": "2026-10-05T05:12:14+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
