@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-07T20:23:53+02:00",
+ "aktualisiert": "2026-10-07T20:54:03+02:00",
  "kernaussagen": [
   "SMI +0.14%, Euro Stoxx 50 −1.47% am schwächsten",
-  "Franken stabil: EUR/CHF 0.9328 (+0.03%)",
-  "Bitcoin −2.72% auf 83'228 USD · Brent über 100 USD"
+  "Franken stabil: EUR/CHF 0.9327 (+0.02%)",
+  "Bitcoin −2.52% auf 83'399 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7801.8701171875,
+   "kurs": 7802.81982421875,
    "vortag": 7818.93017578125,
-   "veraenderung_pct": -0.2181891666789948,
+   "veraenderung_pct": -0.20604291380426076,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7722.720215,
     7773.950195,
     7818.930176,
-    7801.870117
+    7802.819824
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27512.32421875,
+   "kurs": 27518.787109375,
    "vortag": 27599.7890625,
-   "veraenderung_pct": -0.31690402978057364,
+   "veraenderung_pct": -0.29348758043610257,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27190.859375,
     27477.310547,
     27599.789062,
-    27512.324219
+    27518.787109
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9327899813652039,
+   "kurs": 0.9326800107955933,
    "vortag": 0.932479977607727,
-   "veraenderung_pct": 0.03324508460462727,
+   "veraenderung_pct": 0.02145174080621093,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93414,
     0.93193,
     0.93248,
-    0.93279
+    0.93268
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8330000042915344,
+   "kurs": 0.8328199982643127,
    "vortag": 0.8311200141906738,
-   "veraenderung_pct": 0.22619959437402137,
+   "veraenderung_pct": 0.20454134717167172,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83053,
     0.82811,
     0.83112,
-    0.833
+    0.83282
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4139.60009765625,
+   "kurs": 4136.7998046875,
    "vortag": 4187.10009765625,
-   "veraenderung_pct": -1.1344366958551677,
+   "veraenderung_pct": -1.2013157506529648,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4162.299805,
     4156.799805,
     4187.100098,
-    4139.600098
+    4136.799805
    ]
   },
   {
@@ -184,19 +184,7 @@
    "symbol": "BZ=F",
    "einheit": "USD/Fass",
    "dezimalen": 2,
-   "verfuegbar": true,
-   "kurs": 100.18000030517578,
-   "vortag": 100.58000183105469,
-   "veraenderung_pct": -0.3976948882450704,
-   "datum": "2026-10-07",
-   "ist_heute": true,
-   "verlauf": [
-    102.309998,
-    102.25,
-    100.32,
-    100.580002,
-    100.18
-   ]
+   "verfuegbar": false
   },
   {
    "name": "Bitcoin",
@@ -204,9 +192,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83227.640625,
+   "kurs": 83399.03125,
    "vortag": 85557.5625,
-   "veraenderung_pct": -2.7232214276791677,
+   "veraenderung_pct": -2.5228994222456946,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +202,7 @@
     86480.304688,
     85786.59375,
     85557.5625,
-    83227.640625
+    83399.03125
    ]
   }
  ],
@@ -257,9 +245,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.277,
+   "wert": 5.282,
    "vortag": 5.269,
-   "veraenderung_bp": 0.8,
+   "veraenderung_bp": 1.3,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +255,7 @@
     5.277,
     5.311,
     5.269,
-    5.277
+    5.282
    ]
   }
  ],
@@ -374,6 +362,62 @@
   ],
   "artikel": [
    {
+    "titel": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+    "link": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
+    "zeit": "2026-10-07T18:52:34+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level",
+    "link": "https://www.cnbc.com/2026/10/07/supertanker-from-us-to-china-chartered-for-76-million-source.html",
+    "zeit": "2026-10-07T18:50:21+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "10-year Treasury yield backs off from 24-year high after solid bond auction eases demand fears",
+    "link": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
+    "zeit": "2026-10-07T18:47:30+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Strange market anomaly is creating a buying opportunity in the Nasdaq 100",
+    "link": "https://www.cnbc.com/2026/10/07/strange-market-anomaly-is-creating-a-buying-opportunity-in-the-nasdaq-100.html",
+    "zeit": "2026-10-07T18:44:33+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Fed officials see another hike coming, but no sign as to when, minutes show",
+    "link": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html",
+    "zeit": "2026-10-07T18:42:36+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Modelo owner Constellation is getting creative to bring back beer drinkers as overall demand weakens",
+    "link": "https://www.cnbc.com/2026/10/07/constellation-brands-earnings-beer-demand.html",
+    "zeit": "2026-10-07T18:28:27+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Americans grow more pessimistic about their finances, New York Fed finds — expert warns of ‘tough choices’ ahead",
+    "link": "https://www.cnbc.com/2026/10/07/new-york-fed-financial-outlook-inflation.html",
+    "zeit": "2026-10-07T18:24:12+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Here comes third-quarter earnings season. Booming profits could propel the S&P 500 to new heights",
     "link": "https://www.cnbc.com/2026/10/07/here-comes-third-quarter-earnings-season-booming-profits-could-propel-the-sp-500-to-new-heights.html",
     "zeit": "2026-10-07T18:19:53+00:00",
@@ -390,65 +434,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Fed officials see another hike coming, but no sign as to when, minutes show",
-    "link": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html",
-    "zeit": "2026-10-07T18:07:09+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "10-year Treasury yield ease from 24-year high after solid bond auction eases demand fears",
-    "link": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
-    "zeit": "2026-10-07T18:04:27+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Another Micron triple? Where we agree with this wildly bullish call and where we don't",
-    "link": "https://www.cnbc.com/investingclub/2026/10/07/another-micron-triple-where-we-agree-with-this-wildly-bullish-call-and-where-we-dont.html",
-    "zeit": "2026-10-07T17:52:55+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Meta's Muse assistant tops app charts. Now it needs to become a habit",
-    "link": "https://www.cnbc.com/2026/10/07/meta-muse-personal-ai-agents-dazzle.html",
-    "zeit": "2026-10-07T17:20:12+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Google ordered to halt work on two data centers in ‘Texas of Europe’",
-    "link": "https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html",
-    "zeit": "2026-10-07T17:16:28+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Modelo owner Constellation is getting creative to bring back beer drinkers as overall demand weakens",
-    "link": "https://www.cnbc.com/2026/10/07/constellation-brands-earnings-beer-demand.html",
-    "zeit": "2026-10-07T16:40:50+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Disney+ to stream upcoming Super Bowl",
-    "link": "https://www.cnbc.com/2026/10/07/disney-stream-super-bowl-2027.html",
-    "zeit": "2026-10-07T16:36:26+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
-    "link": "https://www.cnbc.com/2026/10/07/spacex-nvidia-chips-apollo-financing.html",
-    "zeit": "2026-10-07T16:32:30+00:00",
+    "titel": "Trump’s diesel order exposes White House limits to counter surging fuel prices",
+    "link": "https://www.cnbc.com/2026/10/07/trump-red-dye-offroad-diesel-price-iran-ukraine-war-midterm.html",
+    "zeit": "2026-10-07T18:09:33+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
