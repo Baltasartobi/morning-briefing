@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-07T08:24:37+02:00",
+ "aktualisiert": "2026-10-07T08:54:15+02:00",
  "kernaussagen": [
-  "SMI +0.62%, DAX +0.77% führt",
-  "Franken schwächer: EUR/CHF 0.9352 (+0.30%)",
-  "Bitcoin −1.88% auf 84'175 USD · Brent über 100 USD"
+  "SMI +0.62%, Nikkei 225 −0.92% am schwächsten",
+  "Franken schwächer: EUR/CHF 0.9343 (+0.20%)",
+  "Bitcoin −1.80% auf 84'246 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 70226.796875,
+   "kurs": 70035.7109375,
    "vortag": 70683.9765625,
-   "veraenderung_pct": -0.6467939549153034,
+   "veraenderung_pct": -0.9171323636931961,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     68309.460938,
     69946.859375,
     70683.976562,
-    70226.796875
+    70035.710938
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9352499842643738,
+   "kurs": 0.9343100190162659,
    "vortag": 0.932479977607727,
-   "veraenderung_pct": 0.29705803053843294,
+   "veraenderung_pct": 0.19625530332927354,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93414,
     0.93193,
     0.93248,
-    0.93525
+    0.93431
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8333399891853333,
+   "kurs": 0.8322799801826477,
    "vortag": 0.8311200141906738,
-   "veraenderung_pct": 0.2671064294873515,
+   "veraenderung_pct": 0.13956660556460054,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83053,
     0.82811,
     0.83112,
-    0.83334
+    0.83228
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4160.7998046875,
+   "kurs": 4160.10009765625,
    "vortag": 4187.10009765625,
-   "veraenderung_pct": -0.6281266832735111,
+   "veraenderung_pct": -0.6448377008018813,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4162.299805,
     4156.799805,
     4187.100098,
-    4160.799805
+    4160.100098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 101.5999984741211,
+   "kurs": 101.37999725341797,
    "vortag": 100.58000183105469,
-   "veraenderung_pct": 1.0141147588958122,
+   "veraenderung_pct": 0.7953821910910763,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.25,
     100.32,
     100.580002,
-    101.599998
+    101.379997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 84174.7265625,
+   "kurs": 84245.6796875,
    "vortag": 85786.59375,
-   "veraenderung_pct": -1.8789266679562044,
+   "veraenderung_pct": -1.7962177948113278,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     84763.578125,
     86480.304688,
     85786.59375,
-    84174.726562
+    84245.679688
    ]
   }
  ],
@@ -223,17 +223,17 @@
    "name": "Schweiz",
    "quelle": "snb",
    "verfuegbar": true,
-   "wert": 0.556,
-   "vortag": 0.57,
-   "veraenderung_bp": -1.4,
-   "datum": "2026-10-05",
+   "wert": 0.55,
+   "vortag": 0.556,
+   "veraenderung_bp": -0.6,
+   "datum": "2026-10-06",
    "ist_heute": false,
    "verlauf": [
-    0.655,
     0.586,
     0.639,
     0.57,
-    0.556
+    0.556,
+    0.55
    ]
   },
   {
@@ -374,6 +374,14 @@
   ],
   "artikel": [
    {
+    "titel": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
+    "link": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
+    "zeit": "2026-10-07T06:16:39+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
     "link": "https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html",
     "zeit": "2026-10-07T05:29:30+00:00",
@@ -497,14 +505,6 @@
     "titel": "Trump hedges on paying back government for ads that already aired",
     "link": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
     "zeit": "2026-10-06T21:32:32+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Russia plague: How great is the global risk? Maybe low, but infectious disease experts want more data",
-    "link": "https://www.cnbc.com/make-it/2026/10/06/russia-plague-global-risk.html",
-    "zeit": "2026-10-06T21:13:30+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
