@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-07T12:49:13+02:00",
+ "aktualisiert": "2026-10-07T13:19:55+02:00",
  "kernaussagen": [
-  "SMI −0.29%, Euro Stoxx 50 −1.47% am schwächsten",
-  "Franken schwächer: EUR/CHF 0.9325 (+0.06%)",
-  "Bitcoin −2.14% auf 83'726 USD · Brent über 100 USD"
+  "SMI −0.18%, Euro Stoxx 50 −1.60% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9311 (−0.14%)",
+  "Bitcoin −2.24% auf 83'640 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13748.599609375,
+   "kurs": 13764.6201171875,
    "vortag": 13788.9296875,
-   "veraenderung_pct": -0.2924815706440209,
+   "veraenderung_pct": -0.17629773204614896,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13660.919922,
     13703.530273,
     13788.929688,
-    13748.599609
+    13764.620117
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25115.640625,
+   "kurs": 25100.619140625,
    "vortag": 25449.189453125,
-   "veraenderung_pct": -1.3106461749572196,
+   "veraenderung_pct": -1.3696715690770134,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25231.199219,
     25254.210938,
     25449.189453,
-    25115.640625
+    25100.619141
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6179.740234375,
+   "kurs": 6171.64990234375,
    "vortag": 6272.22998046875,
-   "veraenderung_pct": -1.4745911164251946,
+   "veraenderung_pct": -1.6035776500255672,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6238.5,
     6242.140137,
     6272.22998,
-    6179.740234
+    6171.649902
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.932479977607727,
-   "vortag": 0.9319300055503845,
-   "veraenderung_pct": 0.05901430945103314,
-   "datum": "2026-10-06",
-   "ist_heute": false,
+   "kurs": 0.9311299920082092,
+   "vortag": 0.932479977607727,
+   "veraenderung_pct": -0.14477368221688103,
+   "datum": "2026-10-07",
+   "ist_heute": true,
    "verlauf": [
-    0.94601,
     0.94654,
     0.93414,
     0.93193,
-    0.93248
+    0.93248,
+    0.93113
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8324599862098694,
+   "kurs": 0.8321700096130371,
    "vortag": 0.8311200141906738,
-   "veraenderung_pct": 0.1612248527669502,
+   "veraenderung_pct": 0.1263349942770553,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83053,
     0.82811,
     0.83112,
-    0.83246
+    0.83217
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4140.89990234375,
+   "kurs": 4145.89990234375,
    "vortag": 4187.10009765625,
-   "veraenderung_pct": -1.1033936193300176,
+   "veraenderung_pct": -0.9839792302926309,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4162.299805,
     4156.799805,
     4187.100098,
-    4140.899902
+    4145.899902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 101.72000122070312,
+   "kurs": 101.80999755859375,
    "vortag": 100.58000183105469,
-   "veraenderung_pct": 1.1334255009890493,
+   "veraenderung_pct": 1.2229028685096788,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.25,
     100.32,
     100.580002,
-    101.720001
+    101.809998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83725.5625,
+   "kurs": 83639.8203125,
    "vortag": 85557.5625,
-   "veraenderung_pct": -2.1412484723369762,
+   "veraenderung_pct": -2.2414642627295533,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     86480.304688,
     85786.59375,
     85557.5625,
-    83725.5625
+    83639.820312
    ]
   }
  ],
@@ -240,17 +240,17 @@
    "name": "Deutschland",
    "quelle": "bundesbank",
    "verfuegbar": true,
-   "wert": 3.52,
-   "vortag": 3.51,
-   "veraenderung_bp": 1.0,
-   "datum": "2026-10-06",
-   "ist_heute": false,
+   "wert": 3.55,
+   "vortag": 3.52,
+   "veraenderung_bp": 3.0,
+   "datum": "2026-10-07",
+   "ist_heute": true,
    "verlauf": [
-    3.64,
     3.66,
     3.49,
     3.51,
-    3.52
+    3.52,
+    3.55
    ]
   },
   {
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.18000030517578,
+   "kurs": 75.12999725341797,
    "vortag": 75.19999694824219,
-   "veraenderung_pct": -0.02659128175254155,
+   "veraenderung_pct": -0.09308470434167271,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     74.779999,
     74.480003,
     75.199997,
-    75.18
+    75.129997
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 118.31999969482422,
+   "kurs": 118.68000030517578,
    "vortag": 117.18000030517578,
-   "veraenderung_pct": 0.9728617397845252,
+   "veraenderung_pct": 1.2800819219094484,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     116.339996,
     116.480003,
     117.18,
-    118.32
+    118.68
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 353.6000061035156,
+   "kurs": 355.3999938964844,
    "vortag": 349.79998779296875,
-   "veraenderung_pct": 1.0863403210854106,
+   "veraenderung_pct": 1.6009166091881077,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     345.700012,
     348.899994,
     349.799988,
-    353.600006
+    355.399994
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.86000061035156,
+   "kurs": 39.58000183105469,
    "vortag": 40.56999969482422,
-   "veraenderung_pct": -1.7500593783914553,
+   "veraenderung_pct": -2.4402215213618295,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.529999,
     40.029999,
     40.57,
-    39.860001
+    39.580002
    ]
   }
  ],
@@ -374,17 +374,33 @@
   ],
   "artikel": [
    {
-    "titel": "Treasury yields rise as oil moves higher, traders await key U.S. bond sale",
-    "link": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
-    "zeit": "2026-10-07T10:08:22+00:00",
+    "titel": "'Get your house in order': IMF chief's stark warning for France over surging bond yields",
+    "link": "https://www.cnbc.com/2026/10/07/imf-france-debt-student-protests-yields.html",
+    "zeit": "2026-10-07T11:09:30+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "'Get your house in order': IMF chief's stark warning for France over surging bond yields",
-    "link": "https://www.cnbc.com/2026/10/07/imf-france-debt-student-protests-yields.html",
-    "zeit": "2026-10-07T09:57:23+00:00",
+    "titel": "Trading platform Webull's China ties create national security risk, congressional panel finds",
+    "link": "https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html",
+    "zeit": "2026-10-07T11:08:55+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Meta's Muse assistant tops app charts. Now it needs to become a habit",
+    "link": "https://www.cnbc.com/2026/10/07/meta-muse-personal-ai-agents-dazzle.html",
+    "zeit": "2026-10-07T11:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Mortgage rates sit at nearly 3-year high, and demand continues to shrink",
+    "link": "https://www.cnbc.com/2026/10/07/mortgage-rates-sit-at-nearly-3-year-high-and-demand-continues-to-shrink.html",
+    "zeit": "2026-10-07T11:00:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -465,22 +481,6 @@
     "titel": "Singapore's Temasek warns of the ‘biggest risk’ facing markets right now",
     "link": "https://www.cnbc.com/2026/10/07/singapore-temasek-warns-of-the-biggest-risk-facing-markets.html",
     "zeit": "2026-10-07T05:25:29+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
-    "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
-    "zeit": "2026-10-07T05:11:55+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Luxury developers flocked to the 'Hamptons of Hungary' — but some projects are stalling",
-    "link": "https://www.cnbc.com/2026/10/07/lake-balaton-tihany-balatonfred-hungary-luxury-developers.html",
-    "zeit": "2026-10-07T05:00:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
