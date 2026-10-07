@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-07T19:23:39+02:00",
+ "aktualisiert": "2026-10-07T19:49:31+02:00",
  "kernaussagen": [
   "SMI +0.14%, Euro Stoxx 50 −1.47% am schwächsten",
-  "Franken stabil: EUR/CHF 0.9327 (+0.03%)",
-  "Bitcoin −2.52% auf 83'400 USD · Brent über 100 USD"
+  "Franken stabil: EUR/CHF 0.9326 (+0.01%)",
+  "Bitcoin −2.87% auf 83'105 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7802.91015625,
+   "kurs": 7803.3798828125,
    "vortag": 7818.93017578125,
-   "veraenderung_pct": -0.20488761468763217,
+   "veraenderung_pct": -0.19888005928120345,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7722.720215,
     7773.950195,
     7818.930176,
-    7802.910156
+    7803.379883
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27502.62890625,
+   "kurs": 27503.107421875,
    "vortag": 27599.7890625,
-   "veraenderung_pct": -0.3520322420942468,
+   "veraenderung_pct": -0.35029847657915836,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27190.859375,
     27477.310547,
     27599.789062,
-    27502.628906
+    27503.107422
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9327300190925598,
+   "kurs": 0.9325900077819824,
    "vortag": 0.932479977607727,
-   "veraenderung_pct": 0.02681467600775811,
+   "veraenderung_pct": 0.011799735854656213,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93414,
     0.93193,
     0.93248,
-    0.93273
+    0.93259
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8330699801445007,
+   "kurs": 0.8330900073051453,
    "vortag": 0.8311200141906738,
-   "veraenderung_pct": 0.23461905868380484,
+   "veraenderung_pct": 0.2370287179751962,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83053,
     0.82811,
     0.83112,
-    0.83307
+    0.83309
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4146.2998046875,
+   "kurs": 4139.39990234375,
    "vortag": 4187.10009765625,
-   "veraenderung_pct": -0.9744284114819313,
+   "veraenderung_pct": -1.139217936041237,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4162.299805,
     4156.799805,
     4187.100098,
-    4146.299805
+    4139.399902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 100.41000366210938,
+   "kurs": 99.83000183105469,
    "vortag": 100.58000183105469,
-   "veraenderung_pct": -0.16901786224945425,
+   "veraenderung_pct": -0.7456750709348592,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.25,
     100.32,
     100.580002,
-    100.410004
+    99.830002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83400.0078125,
+   "kurs": 83104.578125,
    "vortag": 85557.5625,
-   "veraenderung_pct": -2.5217580123323424,
+   "veraenderung_pct": -2.8670573393205334,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     86480.304688,
     85786.59375,
     85557.5625,
-    83400.007812
+    83104.578125
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.275,
+   "wert": 5.282,
    "vortag": 5.269,
-   "veraenderung_bp": 0.6,
+   "veraenderung_bp": 1.3,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.277,
     5.311,
     5.269,
-    5.275
+    5.282
    ]
   }
  ],
@@ -374,17 +374,17 @@
   ],
   "artikel": [
    {
-    "titel": "Meta's Muse assistant tops app charts. Now it needs to become a habit",
-    "link": "https://www.cnbc.com/2026/10/07/meta-muse-personal-ai-agents-dazzle.html",
-    "zeit": "2026-10-07T17:20:12+00:00",
+    "titel": "10-year Treasury yield falls from 24-year high after solid bond auction eases demand fears",
+    "link": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
+    "zeit": "2026-10-07T17:27:34+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "10-year Treasury yield falls from 24-year high after solid bond auction eases demand fears",
-    "link": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
-    "zeit": "2026-10-07T17:17:24+00:00",
+    "titel": "Meta's Muse assistant tops app charts. Now it needs to become a habit",
+    "link": "https://www.cnbc.com/2026/10/07/meta-muse-personal-ai-agents-dazzle.html",
+    "zeit": "2026-10-07T17:20:12+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
