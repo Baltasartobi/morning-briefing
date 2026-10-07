@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-07T15:22:54+02:00",
+ "aktualisiert": "2026-10-07T15:49:47+02:00",
  "kernaussagen": [
-  "SMI +0.03%, Euro Stoxx 50 −1.63% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9315 (−0.11%)",
-  "Bitcoin −2.58% auf 83'350 USD · Brent über 100 USD"
+  "SMI −0.17%, Euro Stoxx 50 −1.67% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9313 (−0.13%)",
+  "Bitcoin −3.10% auf 82'905 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13793.66015625,
+   "kurs": 13765.91015625,
    "vortag": 13788.9296875,
-   "veraenderung_pct": 0.03430627943725728,
+   "veraenderung_pct": -0.1669421178560948,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13660.919922,
     13703.530273,
     13788.929688,
-    13793.660156
+    13765.910156
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25128.05078125,
+   "kurs": 25102.880859375,
    "vortag": 25449.189453125,
-   "veraenderung_pct": -1.2618817289505757,
+   "veraenderung_pct": -1.3607843754233073,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25231.199219,
     25254.210938,
     25449.189453,
-    25128.050781
+    25102.880859
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6169.89990234375,
+   "kurs": 6167.60009765625,
    "vortag": 6272.22998046875,
-   "veraenderung_pct": -1.631478412680154,
+   "veraenderung_pct": -1.6681448725303416,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6238.5,
     6242.140137,
     6272.22998,
-    6169.899902
+    6167.600098
    ]
   },
   {
@@ -69,17 +69,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7818.93017578125,
-   "vortag": 7773.9501953125,
-   "veraenderung_pct": 0.5785987733221143,
-   "datum": "2026-10-06",
-   "ist_heute": false,
+   "kurs": 7771.08984375,
+   "vortag": 7818.93017578125,
+   "veraenderung_pct": -0.6118526570224825,
+   "datum": "2026-10-07",
+   "ist_heute": true,
    "verlauf": [
-    7651.540039,
     7666.450195,
     7722.720215,
     7773.950195,
-    7818.930176
+    7818.930176,
+    7771.089844
    ]
   },
   {
@@ -88,17 +88,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27599.7890625,
-   "vortag": 27477.310546875,
-   "veraenderung_pct": 0.44574419107015206,
-   "datum": "2026-10-06",
-   "ist_heute": false,
+   "kurs": 27366.107421875,
+   "vortag": 27599.7890625,
+   "veraenderung_pct": -0.8466790818430714,
+   "datum": "2026-10-07",
+   "ist_heute": true,
    "verlauf": [
-    26861.060547,
     26871.599609,
     27190.859375,
     27477.310547,
-    27599.789062
+    27599.789062,
+    27366.107422
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9315000176429749,
+   "kurs": 0.9313099980354309,
    "vortag": 0.932479977607727,
-   "veraenderung_pct": -0.10509179695914472,
+   "veraenderung_pct": -0.1254696723137938,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93414,
     0.93193,
     0.93248,
-    0.9315
+    0.93131
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.833299994468689,
+   "kurs": 0.8331699967384338,
    "vortag": 0.8311200141906738,
-   "veraenderung_pct": 0.26229428250961195,
+   "veraenderung_pct": 0.24665301193067535,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83053,
     0.82811,
     0.83112,
-    0.8333
+    0.83317
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4114.89990234375,
+   "kurs": 4109.0,
    "vortag": 4187.10009765625,
-   "veraenderung_pct": -1.7243484423244193,
+   "veraenderung_pct": -1.8652550890762565,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4162.299805,
     4156.799805,
     4187.100098,
-    4114.899902
+    4109.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 101.69000244140625,
+   "kurs": 102.44000244140625,
    "vortag": 100.58000183105469,
-   "veraenderung_pct": 1.1035997118155283,
+   "veraenderung_pct": 1.8492747827503875,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.25,
     100.32,
     100.580002,
-    101.690002
+    102.440002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83350.171875,
+   "kurs": 82905.0,
    "vortag": 85557.5625,
-   "veraenderung_pct": -2.58000644303068,
+   "veraenderung_pct": -3.100325000493087,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     86480.304688,
     85786.59375,
     85557.5625,
-    83350.171875
+    82905.0
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.348,
+   "wert": 5.36,
    "vortag": 5.269,
-   "veraenderung_bp": 7.9,
+   "veraenderung_bp": 9.1,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.277,
     5.311,
     5.269,
-    5.348
+    5.36
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.56999969482422,
+   "kurs": 75.55999755859375,
    "vortag": 75.19999694824219,
-   "veraenderung_pct": 0.4920249489327677,
+   "veraenderung_pct": 0.4787242353205601,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     74.779999,
     74.480003,
     75.199997,
-    75.57
+    75.559998
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 119.5199966430664,
+   "kurs": 119.12000274658203,
    "vortag": 117.18000030517578,
-   "veraenderung_pct": 1.9969246729787393,
+   "veraenderung_pct": 1.6555747024695755,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     116.339996,
     116.480003,
     117.18,
-    119.519997
+    119.120003
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 356.8999938964844,
+   "kurs": 356.1000061035156,
    "vortag": 349.79998779296875,
-   "veraenderung_pct": 2.0297330907049105,
+   "veraenderung_pct": 1.8010344569467485,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     345.700012,
     348.899994,
     349.799988,
-    356.899994
+    356.100006
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.310001373291016,
+   "kurs": 39.06999969482422,
    "vortag": 40.56999969482422,
-   "veraenderung_pct": -3.1057390461206924,
+   "veraenderung_pct": -3.697313313491013,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.529999,
     40.029999,
     40.57,
-    39.310001
+    39.07
    ]
   }
  ],
@@ -374,9 +374,33 @@
   ],
   "artikel": [
    {
+    "titel": "Trading platform Webull's China ties create national security risk, congressional panel finds; stock drops 18%",
+    "link": "https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html",
+    "zeit": "2026-10-07T13:46:28+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Bei Lindt & Sprüngli sind die Aktionäre unzufrieden – aber die Allmacht von Ernst Tanner können sie nicht brechen",
+    "link": "https://www.nzz.ch/wirtschaft/bei-lindt-spruengli-sind-die-aktionaere-unzufrieden-aber-die-allmacht-von-ernst-tanner-koennen-sie-nicht-brechen-ld.10027070",
+    "zeit": "2026-10-07T13:46:21+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Used car prices fall in Q3, while demand for fuel-efficient vehicles grows",
     "link": "https://www.cnbc.com/2026/10/07/used-cars-manheim-index.html",
-    "zeit": "2026-10-07T13:16:28+00:00",
+    "zeit": "2026-10-07T13:37:23+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "France is caught between angry students and unforgiving bond markets",
+    "link": "https://www.cnbc.com/2026/10/07/french-student-protests-budget-deadlock.html",
+    "zeit": "2026-10-07T13:23:31+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -393,14 +417,6 @@
     "titel": "Refinance demand is now half what it was a year ago, as mortgage rates rise again",
     "link": "https://www.cnbc.com/2026/10/07/mortgage-rates-sit-at-nearly-3-year-high-and-demand-continues-to-shrink.html",
     "zeit": "2026-10-07T13:02:18+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trading platform Webull's China ties create national security risk, congressional panel finds; stock down nearly 30%",
-    "link": "https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html",
-    "zeit": "2026-10-07T13:01:17+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -449,14 +465,6 @@
     "titel": "Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate",
     "link": "https://www.cnbc.com/2026/10/07/us-iran-war-trump-hormuz.html",
     "zeit": "2026-10-07T12:18:15+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "The SALT deduction limit is $40,400 for 2026. Here's how to maximize it",
-    "link": "https://www.cnbc.com/2026/10/07/salt-deduction-limit-2026.html",
-    "zeit": "2026-10-07T12:15:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -577,14 +585,6 @@
     "titel": "Bei den C&A-Besitzern kommt die nächste Generation ans Ruder – was heisst das für das Modegeschäft?",
     "link": "https://www.nzz.ch/wirtschaft/cofra-bei-der-holding-der-ca-besitzer-wird-florian-brenninkmeyer-praesident-ld.10026608",
     "zeit": "2026-10-06T21:00:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Paramount schliesst Warner-Übernahme ab",
-    "link": "https://www.nzz.ch/wirtschaft/paramount-schliesst-warner-uebernahme-ab-ld.10027014",
-    "zeit": "2026-10-06T15:20:41+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
