@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-07T06:51:34+02:00",
+ "aktualisiert": "2026-10-07T07:20:29+02:00",
  "kernaussagen": [
-  "SMI +0.62%, Nikkei 225 −0.81% am schwächsten",
-  "Franken schwächer: EUR/CHF 0.9360 (+0.38%)",
-  "Bitcoin −1.92% auf 84'137 USD · Brent über 100 USD"
+  "SMI +0.62%, DAX +0.77% führt",
+  "Franken schwächer: EUR/CHF 0.9361 (+0.39%)",
+  "Bitcoin −1.87% auf 84'184 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 70111.8125,
+   "kurs": 70268.390625,
    "vortag": 70683.9765625,
-   "veraenderung_pct": -0.8094678459326432,
+   "veraenderung_pct": -0.5879492888073878,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     68309.460938,
     69946.859375,
     70683.976562,
-    70111.8125
+    70268.390625
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9360499978065491,
+   "kurs": 0.9361000061035156,
    "vortag": 0.932479977607727,
-   "veraenderung_pct": 0.3828522096507525,
+   "veraenderung_pct": 0.3882151448522997,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93414,
     0.93193,
     0.93248,
-    0.93605
+    0.9361
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.833329975605011,
+   "kurs": 0.8335300087928772,
    "vortag": 0.8311200141906738,
-   "veraenderung_pct": 0.26590159984165584,
+   "veraenderung_pct": 0.28996950633539686,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83053,
     0.82811,
     0.83112,
-    0.83333
+    0.83353
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4165.0,
+   "kurs": 4159.39990234375,
    "vortag": 4187.10009765625,
-   "veraenderung_pct": -0.5278139318575348,
+   "veraenderung_pct": -0.6615603798916903,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4162.299805,
     4156.799805,
     4187.100098,
-    4165.0
+    4159.399902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 101.56999969482422,
+   "kurs": 101.4800033569336,
    "vortag": 100.58000183105469,
-   "veraenderung_pct": 0.984288969722269,
+   "veraenderung_pct": 0.8948116022016395,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.25,
     100.32,
     100.580002,
-    101.57
+    101.480003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 84136.9296875,
+   "kurs": 84183.828125,
    "vortag": 85786.59375,
-   "veraenderung_pct": -1.9229858540688372,
+   "veraenderung_pct": -1.8683171285140299,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     84763.578125,
     86480.304688,
     85786.59375,
-    84136.929688
+    84183.828125
    ]
   }
  ],
@@ -376,7 +376,15 @@
    {
     "titel": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
     "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
-    "zeit": "2026-10-07T04:44:58+00:00",
+    "zeit": "2026-10-07T05:11:55+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Luxury developers flocked to the 'Hamptons of Hungary' — but some projects are stalling",
+    "link": "https://www.cnbc.com/2026/10/07/lake-balaton-tihany-balatonfred-hungary-luxury-developers.html",
+    "zeit": "2026-10-07T05:00:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -508,14 +516,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Boomers' dividend stocks take beating from bond yields, with retirement income on the line",
-    "link": "https://www.cnbc.com/2026/10/06/dividend-stocks-bond-yields-retirement-income.html",
-    "zeit": "2026-10-06T20:06:42+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Paramount schliesst Warner-Übernahme ab",
