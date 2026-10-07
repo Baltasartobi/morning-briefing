@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-07T09:49:26+02:00",
+ "aktualisiert": "2026-10-07T10:22:30+02:00",
  "kernaussagen": [
-  "SMI −0.13%, Euro Stoxx 50 −0.99% am schwächsten",
-  "Franken schwächer: EUR/CHF 0.9330 (+0.05%)",
-  "Bitcoin −1.58% auf 84'208 USD · Brent über 100 USD"
+  "SMI +0.05%, Nikkei 225 −0.92% am schwächsten",
+  "Franken stabil: EUR/CHF 0.9329 (+0.04%)",
+  "Bitcoin −1.82% auf 84'003 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13770.7099609375,
+   "kurs": 13796.400390625,
    "vortag": 13788.9296875,
-   "veraenderung_pct": -0.13213300071445166,
+   "veraenderung_pct": 0.05417899209227972,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13660.919922,
     13703.530273,
     13788.929688,
-    13770.709961
+    13796.400391
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25215.849609375,
+   "kurs": 25270.619140625,
    "vortag": 25449.189453125,
-   "veraenderung_pct": -0.9168851690926738,
+   "veraenderung_pct": -0.7016738699238689,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25231.199219,
     25254.210938,
     25449.189453,
-    25215.849609
+    25270.619141
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6209.990234375,
+   "kurs": 6219.93994140625,
    "vortag": 6272.22998046875,
-   "veraenderung_pct": -0.9923065048246027,
+   "veraenderung_pct": -0.8336754109037336,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6238.5,
     6242.140137,
     6272.22998,
-    6209.990234
+    6219.939941
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9329599738121033,
+   "kurs": 0.9328600168228149,
    "vortag": 0.932479977607727,
-   "veraenderung_pct": 0.051475229056130445,
+   "veraenderung_pct": 0.040755750709298155,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93414,
     0.93193,
     0.93248,
-    0.93296
+    0.93286
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8325899839401245,
+   "kurs": 0.8332899808883667,
    "vortag": 0.8311200141906738,
-   "veraenderung_pct": 0.1768661233458646,
+   "veraenderung_pct": 0.26108945286391627,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83053,
     0.82811,
     0.83112,
-    0.83259
+    0.83329
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4161.89990234375,
+   "kurs": 4157.2001953125,
    "vortag": 4187.10009765625,
-   "veraenderung_pct": -0.6018531853729914,
+   "veraenderung_pct": -0.7140957141312798,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4162.299805,
     4156.799805,
     4187.100098,
-    4161.899902
+    4157.200195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 101.22000122070312,
+   "kurs": 101.0199966430664,
    "vortag": 100.58000183105469,
-   "veraenderung_pct": 0.6363087870324913,
+   "veraenderung_pct": 0.4374575502104072,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.25,
     100.32,
     100.580002,
-    101.220001
+    101.019997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 84207.6015625,
+   "kurs": 84002.6796875,
    "vortag": 85557.5625,
-   "veraenderung_pct": -1.5778394078255764,
+   "veraenderung_pct": -1.8173528640440195,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     86480.304688,
     85786.59375,
     85557.5625,
-    84207.601562
+    84002.679688
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.33000183105469,
+   "kurs": 75.38999938964844,
    "vortag": 74.4800033569336,
-   "veraenderung_pct": 1.1412438719257345,
+   "veraenderung_pct": 1.2217991295647934,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     74.629997,
     74.779999,
     74.480003,
-    75.330002
+    75.389999
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 117.87999725341797,
+   "kurs": 118.13999938964844,
    "vortag": 116.4800033569336,
-   "veraenderung_pct": 1.2019178023152444,
+   "veraenderung_pct": 1.4251339155855414,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     118.059998,
     116.339996,
     116.480003,
-    117.879997
+    118.139999
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 352.1000061035156,
+   "kurs": 352.29998779296875,
    "vortag": 348.8999938964844,
-   "veraenderung_pct": 0.9171717578134064,
+   "veraenderung_pct": 0.9744895259279129,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     349.0,
     345.700012,
     348.899994,
-    352.100006
+    352.299988
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.189998626708984,
+   "kurs": 40.290000915527344,
    "vortag": 40.029998779296875,
-   "veraenderung_pct": 0.39969985583627743,
+   "veraenderung_pct": 0.6495182217316042,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.060001,
     39.529999,
     40.029999,
-    40.189999
+    40.290001
    ]
   }
  ],
@@ -376,7 +376,7 @@
    {
     "titel": "Jaguar unveils $130,500 electric vehicle two years after controversial rebrand",
     "link": "https://www.cnbc.com/2026/10/07/jaguar-electric-vehicle-autos-type-01.html",
-    "zeit": "2026-10-07T07:10:01+00:00",
+    "zeit": "2026-10-07T07:57:00+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
