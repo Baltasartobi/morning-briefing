@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-07T19:49:31+02:00",
+ "aktualisiert": "2026-10-07T20:23:53+02:00",
  "kernaussagen": [
   "SMI +0.14%, Euro Stoxx 50 −1.47% am schwächsten",
-  "Franken stabil: EUR/CHF 0.9326 (+0.01%)",
-  "Bitcoin −2.87% auf 83'105 USD"
+  "Franken stabil: EUR/CHF 0.9328 (+0.03%)",
+  "Bitcoin −2.72% auf 83'228 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7803.3798828125,
+   "kurs": 7801.8701171875,
    "vortag": 7818.93017578125,
-   "veraenderung_pct": -0.19888005928120345,
+   "veraenderung_pct": -0.2181891666789948,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7722.720215,
     7773.950195,
     7818.930176,
-    7803.379883
+    7801.870117
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27503.107421875,
+   "kurs": 27512.32421875,
    "vortag": 27599.7890625,
-   "veraenderung_pct": -0.35029847657915836,
+   "veraenderung_pct": -0.31690402978057364,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27190.859375,
     27477.310547,
     27599.789062,
-    27503.107422
+    27512.324219
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9325900077819824,
+   "kurs": 0.9327899813652039,
    "vortag": 0.932479977607727,
-   "veraenderung_pct": 0.011799735854656213,
+   "veraenderung_pct": 0.03324508460462727,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93414,
     0.93193,
     0.93248,
-    0.93259
+    0.93279
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8330900073051453,
+   "kurs": 0.8330000042915344,
    "vortag": 0.8311200141906738,
-   "veraenderung_pct": 0.2370287179751962,
+   "veraenderung_pct": 0.22619959437402137,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83053,
     0.82811,
     0.83112,
-    0.83309
+    0.833
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4139.39990234375,
+   "kurs": 4139.60009765625,
    "vortag": 4187.10009765625,
-   "veraenderung_pct": -1.139217936041237,
+   "veraenderung_pct": -1.1344366958551677,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4162.299805,
     4156.799805,
     4187.100098,
-    4139.399902
+    4139.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 99.83000183105469,
+   "kurs": 100.18000030517578,
    "vortag": 100.58000183105469,
-   "veraenderung_pct": -0.7456750709348592,
+   "veraenderung_pct": -0.3976948882450704,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.25,
     100.32,
     100.580002,
-    99.830002
+    100.18
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83104.578125,
+   "kurs": 83227.640625,
    "vortag": 85557.5625,
-   "veraenderung_pct": -2.8670573393205334,
+   "veraenderung_pct": -2.7232214276791677,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     86480.304688,
     85786.59375,
     85557.5625,
-    83104.578125
+    83227.640625
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.282,
+   "wert": 5.277,
    "vortag": 5.269,
-   "veraenderung_bp": 1.3,
+   "veraenderung_bp": 0.8,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.277,
     5.311,
     5.269,
-    5.282
+    5.277
    ]
   }
  ],
@@ -374,9 +374,41 @@
   ],
   "artikel": [
    {
-    "titel": "10-year Treasury yield falls from 24-year high after solid bond auction eases demand fears",
+    "titel": "Here comes third-quarter earnings season. Booming profits could propel the S&P 500 to new heights",
+    "link": "https://www.cnbc.com/2026/10/07/here-comes-third-quarter-earnings-season-booming-profits-could-propel-the-sp-500-to-new-heights.html",
+    "zeit": "2026-10-07T18:19:53+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Oil prices fall as IEA members agree to prioritize release of diesel stocks",
+    "link": "https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html",
+    "zeit": "2026-10-07T18:18:47+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Fed officials see another hike coming, but no sign as to when, minutes show",
+    "link": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html",
+    "zeit": "2026-10-07T18:07:09+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "10-year Treasury yield ease from 24-year high after solid bond auction eases demand fears",
     "link": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
-    "zeit": "2026-10-07T17:27:34+00:00",
+    "zeit": "2026-10-07T18:04:27+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Another Micron triple? Where we agree with this wildly bullish call and where we don't",
+    "link": "https://www.cnbc.com/investingclub/2026/10/07/another-micron-triple-where-we-agree-with-this-wildly-bullish-call-and-where-we-dont.html",
+    "zeit": "2026-10-07T17:52:55+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -422,22 +454,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Used car prices fall in Q3, while demand for fuel-efficient vehicles grows",
-    "link": "https://www.cnbc.com/2026/10/07/used-cars-manheim-index.html",
-    "zeit": "2026-10-07T16:25:52+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Jim Cramer's key to Wednesday's market — plus, relief for Intel after a concerning report",
-    "link": "https://www.cnbc.com/investingclub/2026/10/07/jim-cramers-key-to-wednesday-market-plus-relief-for-intel-after-a-concerning-report.html",
-    "zeit": "2026-10-07T15:38:22+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "«Putsch gegen die direkte Demokratie»: Das Parlament will kantonale Mindestlöhne übersteuern, nun lancieren die Gewerkschaften den Abstimmungskampf",
     "link": "https://www.nzz.ch/wirtschaft/putsch-gegen-die-direkte-demokratie-das-parlament-will-kantonale-mindestloehne-uebersteuern-nun-lancieren-die-gewerkschaften-den-abstimmungskampf-ld.10027106",
     "zeit": "2026-10-07T14:52:18+00:00",
@@ -446,28 +462,12 @@
     "sprache": "de"
    },
    {
-    "titel": "Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate",
-    "link": "https://www.cnbc.com/2026/10/07/us-iran-war-trump-hormuz.html",
-    "zeit": "2026-10-07T14:17:49+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Porsche soll sich gesundschrumpfen – und noch stärker zur Lieblingsmarke der Elite werden",
     "link": "https://www.nzz.ch/wirtschaft/porsche-soll-gesundschrumpfen-und-noch-staerker-zum-lieblingsauto-der-elite-werden-ld.10027104",
     "zeit": "2026-10-07T14:07:49+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Stocks made a record high. Two big bearish trades point to skepticism",
-    "link": "https://www.cnbc.com/2026/10/07/stocks-made-a-record-high-two-big-bearish-trades-point-to-skepticism.html",
-    "zeit": "2026-10-07T13:59:16+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Bei Lindt & Sprüngli sind die Aktionäre unzufrieden – aber die Allmacht von Ernst Tanner können sie nicht brechen",
