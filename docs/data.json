@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-07T15:49:47+02:00",
+ "aktualisiert": "2026-10-07T16:21:48+02:00",
  "kernaussagen": [
-  "SMI −0.17%, Euro Stoxx 50 −1.67% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9313 (−0.13%)",
-  "Bitcoin −3.10% auf 82'905 USD · Brent über 100 USD"
+  "SMI −0.15%, Euro Stoxx 50 −1.76% am schwächsten",
+  "Franken schwächer: EUR/CHF 0.9325 (+0.06%)",
+  "Bitcoin −2.91% auf 83'064 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13765.91015625,
+   "kurs": 13767.8095703125,
    "vortag": 13788.9296875,
-   "veraenderung_pct": -0.1669421178560948,
+   "veraenderung_pct": -0.15316719764439934,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13660.919922,
     13703.530273,
     13788.929688,
-    13765.910156
+    13767.80957
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25102.880859375,
+   "kurs": 25053.69921875,
    "vortag": 25449.189453125,
-   "veraenderung_pct": -1.3607843754233073,
+   "veraenderung_pct": -1.5540386270590512,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25231.199219,
     25254.210938,
     25449.189453,
-    25102.880859
+    25053.699219
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6167.60009765625,
+   "kurs": 6161.7998046875,
    "vortag": 6272.22998046875,
-   "veraenderung_pct": -1.6681448725303416,
+   "veraenderung_pct": -1.7606206425006876,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6238.5,
     6242.140137,
     6272.22998,
-    6167.600098
+    6161.799805
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7771.08984375,
+   "kurs": 7776.6201171875,
    "vortag": 7818.93017578125,
-   "veraenderung_pct": -0.6118526570224825,
+   "veraenderung_pct": -0.5411233716449249,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7722.720215,
     7773.950195,
     7818.930176,
-    7771.089844
+    7776.620117
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27366.107421875,
+   "kurs": 27414.224609375,
    "vortag": 27599.7890625,
-   "veraenderung_pct": -0.8466790818430714,
+   "veraenderung_pct": -0.672340113559522,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27190.859375,
     27477.310547,
     27599.789062,
-    27366.107422
+    27414.224609
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9313099980354309,
-   "vortag": 0.932479977607727,
-   "veraenderung_pct": -0.1254696723137938,
-   "datum": "2026-10-07",
-   "ist_heute": true,
+   "kurs": 0.932479977607727,
+   "vortag": 0.9319300055503845,
+   "veraenderung_pct": 0.05901430945103314,
+   "datum": "2026-10-06",
+   "ist_heute": false,
    "verlauf": [
+    0.94601,
     0.94654,
     0.93414,
     0.93193,
-    0.93248,
-    0.93131
+    0.93248
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8331699967384338,
+   "kurs": 0.8321300148963928,
    "vortag": 0.8311200141906738,
-   "veraenderung_pct": 0.24665301193067535,
+   "veraenderung_pct": 0.12152284729931573,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83053,
     0.82811,
     0.83112,
-    0.83317
+    0.83213
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4109.0,
+   "kurs": 4124.2001953125,
    "vortag": 4187.10009765625,
-   "veraenderung_pct": -1.8652550890762565,
+   "veraenderung_pct": -1.5022306817780273,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4162.299805,
     4156.799805,
     4187.100098,
-    4109.0
+    4124.200195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 102.44000244140625,
+   "kurs": 101.83000183105469,
    "vortag": 100.58000183105469,
-   "veraenderung_pct": 1.8492747827503875,
+   "veraenderung_pct": 1.2427917848914394,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.25,
     100.32,
     100.580002,
-    102.440002
+    101.830002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82905.0,
+   "kurs": 83063.890625,
    "vortag": 85557.5625,
-   "veraenderung_pct": -3.100325000493087,
+   "veraenderung_pct": -2.9146130419505534,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     86480.304688,
     85786.59375,
     85557.5625,
-    82905.0
+    83063.890625
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.36,
+   "wert": 5.32,
    "vortag": 5.269,
-   "veraenderung_bp": 9.1,
+   "veraenderung_bp": 5.1,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.277,
     5.311,
     5.269,
-    5.36
+    5.32
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.55999755859375,
+   "kurs": 75.51000213623047,
    "vortag": 75.19999694824219,
-   "veraenderung_pct": 0.4787242353205601,
+   "veraenderung_pct": 0.41224095820329154,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     74.779999,
     74.480003,
     75.199997,
-    75.559998
+    75.510002
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 119.12000274658203,
+   "kurs": 119.30000305175781,
    "vortag": 117.18000030517578,
-   "veraenderung_pct": 1.6555747024695755,
+   "veraenderung_pct": 1.809184793532026,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     116.339996,
     116.480003,
     117.18,
-    119.120003
+    119.300003
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 356.1000061035156,
+   "kurs": 357.1000061035156,
    "vortag": 349.79998779296875,
-   "veraenderung_pct": 1.8010344569467485,
+   "veraenderung_pct": 2.0869121112912836,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     345.700012,
     348.899994,
     349.799988,
-    356.100006
+    357.100006
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.06999969482422,
+   "kurs": 39.18000030517578,
    "vortag": 40.56999969482422,
-   "veraenderung_pct": -3.697313313491013,
+   "veraenderung_pct": -3.4261754993943683,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.529999,
     40.029999,
     40.57,
-    39.07
+    39.18
    ]
   }
  ],
@@ -373,6 +373,30 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate",
+    "link": "https://www.cnbc.com/2026/10/07/us-iran-war-trump-hormuz.html",
+    "zeit": "2026-10-07T14:17:49+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Porsche soll gesundschrumpfen – und noch stärker zum Lieblingsauto der Elite werden",
+    "link": "https://www.nzz.ch/wirtschaft/porsche-soll-gesundschrumpfen-und-noch-staerker-zum-lieblingsauto-der-elite-werden-ld.10027104",
+    "zeit": "2026-10-07T14:07:49+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Stocks made a record high. Two big bearish trades point to skepticism",
+    "link": "https://www.cnbc.com/2026/10/07/stocks-made-a-record-high-two-big-bearish-trades-point-to-skepticism.html",
+    "zeit": "2026-10-07T13:59:16+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
    {
     "titel": "Trading platform Webull's China ties create national security risk, congressional panel finds; stock drops 18%",
     "link": "https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html",
@@ -454,20 +478,12 @@
     "sprache": "en"
    },
    {
-    "titel": "Oil edges higher as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
-    "link": "https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html",
-    "zeit": "2026-10-07T12:23:28+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate",
-    "link": "https://www.cnbc.com/2026/10/07/us-iran-war-trump-hormuz.html",
-    "zeit": "2026-10-07T12:18:15+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "GZO: Gläubiger sollen «Abstimmungsformular wegwerfen»",
+    "link": "https://www.finews.ch/news/finanzplatz/73894-gzo-spital-wetzikon-gregor-greber-clearway-capital-konkurs-ist-besser-als-thurmed",
+    "zeit": "2026-10-07T11:56:03+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Wenn sich die Ukraine und Südkorea streiten, freut sich Russland",
@@ -505,6 +521,14 @@
     "titel": "Vaudoise AM erweitert Verwaltungsrat",
     "link": "https://www.finews.ch/news/versicherungen/73882-vaudoise-asset-management-neue-mitglieder-verwaltungsrat",
     "zeit": "2026-10-07T07:13:40+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Junge Schweizer überholen beim ETF-Wissen",
+    "link": "https://www.finews.ch/news/banken/73881-finanzwissen-etfs-16-bis-29-jaehrige-wissensgraben-maenner-frauen-selbst-investieren-ohne-finanzanlagen",
+    "zeit": "2026-10-07T07:05:59+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
@@ -582,18 +606,18 @@
     "sprache": "de"
    },
    {
-    "titel": "Bei den C&A-Besitzern kommt die nächste Generation ans Ruder – was heisst das für das Modegeschäft?",
-    "link": "https://www.nzz.ch/wirtschaft/cofra-bei-der-holding-der-ca-besitzer-wird-florian-brenninkmeyer-praesident-ld.10026608",
-    "zeit": "2026-10-06T21:00:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Nach Disney und Fox – Mega-Fusion in Hollywood: Paramount übernimmt Warner Brothers",
     "link": "https://www.srf.ch/news/international/nach-disney-und-fox-mega-fusion-in-hollywood-paramount-uebernimmt-warner-brothers",
     "zeit": "2026-10-06T15:12:13+00:00",
     "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Der ETF-Boom verschärft den Auswahlkampf bei den Banken",
+    "link": "https://www.finews.ch/news/banken/73872-aktive-etfs-banken-fondsselektion-kundenportfolios-six-schweiz",
+    "zeit": "2026-10-06T12:58:29+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -606,9 +630,9 @@
     "sprache": "de"
    },
    {
-    "titel": "Brenninkmeyer-Familie vollzieht Generationenwechsel bei 40-Milliarden-Gruppe",
-    "link": "https://www.finews.ch/news/finanzplatz/73869-brenninkmeyer-familie-generationenwechsel-cofra-holding-florian-brenninkmeyer-40-milliarden",
-    "zeit": "2026-10-06T12:03:36+00:00",
+    "titel": "Der nächste Wachstumsschub kommt aus dem aktiven Management",
+    "link": "https://www.finews.ch/news/banken/73871-etf-boom-six-schweiz-aktive-etfs-asset-management",
+    "zeit": "2026-10-06T12:48:46+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
@@ -618,30 +642,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/jobs-in-redaktionen-gestrichen-34-stellen-weg-bei-tamedia-ohne-einfluss-auf-qualitaet",
     "zeit": "2026-10-06T11:47:42+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "BNP Paribas stellt Schweizer Führung neu auf",
-    "link": "https://www.finews.ch/news/finanzplatz/73867-bnp-paribas-asset-management-fuehrungswechsel-frederick-widl-ceo",
-    "zeit": "2026-10-06T09:13:52+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "UBS baut Zusammenarbeit mit Northern Trust aus",
-    "link": "https://www.finews.ch/news/banken/73864-ubs-northern-trust-fondsadministration",
-    "zeit": "2026-10-06T07:45:41+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Britischer Partners-Group-Fonds steht vor Auflösung",
-    "link": "https://www.finews.ch/news/finanzplatz/73862-partners-group-private-equity-limited-gb-aufloesung",
-    "zeit": "2026-10-06T07:30:01+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
