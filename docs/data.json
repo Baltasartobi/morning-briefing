@@ -1,9 +1,8 @@
 {
- "aktualisiert": "2026-10-07T10:50:29+02:00",
+ "aktualisiert": "2026-10-07T11:21:18+02:00",
  "kernaussagen": [
-  "SMI +0.40%, Nikkei 225 −0.92% am schwächsten",
-  "Franken stabil: EUR/CHF 0.9327 (+0.03%)",
-  "Bitcoin −1.86% auf 83'966 USD · Brent über 100 USD"
+  "SMI +0.14%, Nikkei 225 −0.92% am schwächsten",
+  "Bitcoin −2.10% auf 83'761 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +11,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13843.7802734375,
+   "kurs": 13807.98046875,
    "vortag": 13788.9296875,
-   "veraenderung_pct": 0.3977871174963177,
+   "veraenderung_pct": 0.13815997094590582,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +21,7 @@
     13660.919922,
     13703.530273,
     13788.929688,
-    13843.780273
+    13807.980469
    ]
   },
   {
@@ -31,9 +30,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25335.640625,
+   "kurs": 25266.7890625,
    "vortag": 25449.189453125,
-   "veraenderung_pct": -0.4461785642884464,
+   "veraenderung_pct": -0.7167237721302011,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +40,7 @@
     25231.199219,
     25254.210938,
     25449.189453,
-    25335.640625
+    25266.789062
    ]
   },
   {
@@ -50,9 +49,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6233.97998046875,
+   "kurs": 6216.0400390625,
    "vortag": 6272.22998046875,
-   "veraenderung_pct": -0.6098309551643921,
+   "veraenderung_pct": -0.8958526964288782,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +59,7 @@
     6238.5,
     6242.140137,
     6272.22998,
-    6233.97998
+    6216.040039
    ]
   },
   {
@@ -127,19 +126,7 @@
    "symbol": "EURCHF=X",
    "einheit": "",
    "dezimalen": 4,
-   "verfuegbar": true,
-   "kurs": 0.9327499866485596,
-   "vortag": 0.932479977607727,
-   "veraenderung_pct": 0.028956014854619738,
-   "datum": "2026-10-07",
-   "ist_heute": true,
-   "verlauf": [
-    0.94654,
-    0.93414,
-    0.93193,
-    0.93248,
-    0.93275
-   ]
+   "verfuegbar": false
   },
   {
    "name": "USD/CHF",
@@ -147,17 +134,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.833109974861145,
-   "vortag": 0.8311200141906738,
-   "veraenderung_pct": 0.2394312056615444,
-   "datum": "2026-10-07",
-   "ist_heute": true,
+   "kurs": 0.8311200141906738,
+   "vortag": 0.8281099796295166,
+   "veraenderung_pct": 0.3634824643103496,
+   "datum": "2026-10-06",
+   "ist_heute": false,
    "verlauf": [
+    0.83422,
     0.83566,
     0.83053,
     0.82811,
-    0.83112,
-    0.83311
+    0.83112
    ]
   },
   {
@@ -166,9 +153,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4152.5,
+   "kurs": 4148.2998046875,
    "vortag": 4187.10009765625,
-   "veraenderung_pct": -0.8263499044509959,
+   "veraenderung_pct": -0.9266626558669722,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +163,7 @@
     4162.299805,
     4156.799805,
     4187.100098,
-    4152.5
+    4148.299805
    ]
   },
   {
@@ -185,9 +172,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 100.88999938964844,
+   "kurs": 101.73999786376953,
    "vortag": 100.58000183105469,
-   "veraenderung_pct": 0.30820993532536534,
+   "veraenderung_pct": 1.1533068319717232,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +182,7 @@
     102.25,
     100.32,
     100.580002,
-    100.889999
+    101.739998
    ]
   },
   {
@@ -204,9 +191,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83965.90625,
+   "kurs": 83761.4375,
    "vortag": 85557.5625,
-   "veraenderung_pct": -1.8603337957413202,
+   "veraenderung_pct": -2.0993176377599565,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +201,7 @@
     86480.304688,
     85786.59375,
     85557.5625,
-    83965.90625
+    83761.4375
    ]
   }
  ],
@@ -278,9 +265,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.5,
+   "kurs": 75.48999786376953,
    "vortag": 75.19999694824219,
-   "veraenderung_pct": 0.3989402445910839,
+   "veraenderung_pct": 0.38563953097889847,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +275,7 @@
     74.779999,
     74.480003,
     75.199997,
-    75.5
+    75.489998
    ]
   },
   {
@@ -297,9 +284,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 118.81999969482422,
+   "kurs": 118.63999938964844,
    "vortag": 117.18000030517578,
-   "veraenderung_pct": 1.3995557137543413,
+   "veraenderung_pct": 1.2459456226918686,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +294,7 @@
     116.339996,
     116.480003,
     117.18,
-    118.82
+    118.639999
    ]
   },
   {
@@ -316,9 +303,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 354.79998779296875,
+   "kurs": 354.3999938964844,
    "vortag": 349.79998779296875,
-   "veraenderung_pct": 1.4293882717226536,
+   "veraenderung_pct": 1.3150389548435726,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +313,7 @@
     345.700012,
     348.899994,
     349.799988,
-    354.799988
+    354.399994
    ]
   },
   {
@@ -335,9 +322,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.36000061035156,
+   "kurs": 40.20000076293945,
    "vortag": 40.56999969482422,
-   "veraenderung_pct": -0.5176216072277806,
+   "veraenderung_pct": -0.9120013178899988,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +332,7 @@
     39.529999,
     40.029999,
     40.57,
-    40.360001
+    40.200001
    ]
   }
  ],
@@ -374,9 +361,17 @@
   ],
   "artikel": [
    {
+    "titel": "Jaguar unveils $130,000 electric vehicle two years after controversial rebrand",
+    "link": "https://www.cnbc.com/2026/10/07/jaguar-electric-vehicle-autos-type-01.html",
+    "zeit": "2026-10-07T09:18:30+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Chevron CEO warns against 'unwise' diesel export ban, saying it could make things worse",
     "link": "https://www.cnbc.com/2026/10/07/chevron-ceo-diesel-export-ban-trump-supply.html",
-    "zeit": "2026-10-07T08:46:11+00:00",
+    "zeit": "2026-10-07T09:16:19+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -393,14 +388,6 @@
     "titel": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
     "link": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
     "zeit": "2026-10-07T06:16:39+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
-    "link": "https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html",
-    "zeit": "2026-10-07T05:29:30+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -478,7 +465,7 @@
     "sprache": "de"
    },
    {
-    "titel": "Trägt Netanyahu eine Mitschuld am 7. Oktober? Eine Wahrheitssuche drei Jahre danach",
+    "titel": "Trägt Netanyahu eine Mitverantwortung für den 7. Oktober? Eine Wahrheitssuche drei Jahre danach",
     "link": "https://www.nzz.ch/international/traegt-netanyahu-eine-mitschuld-am-7-oktober-eine-wahrheitssuche-drei-jahre-danach-ld.10026133",
     "zeit": "2026-10-07T03:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
