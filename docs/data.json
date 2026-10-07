@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-07T18:50:53+02:00",
+ "aktualisiert": "2026-10-07T19:23:39+02:00",
  "kernaussagen": [
   "SMI +0.14%, Euro Stoxx 50 −1.47% am schwächsten",
-  "Franken stabil: EUR/CHF 0.9329 (+0.04%)",
-  "Bitcoin −2.55% auf 83'378 USD · Brent über 100 USD"
+  "Franken stabil: EUR/CHF 0.9327 (+0.03%)",
+  "Bitcoin −2.52% auf 83'400 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7793.81005859375,
+   "kurs": 7802.91015625,
    "vortag": 7818.93017578125,
-   "veraenderung_pct": -0.3212730721820267,
+   "veraenderung_pct": -0.20488761468763217,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7722.720215,
     7773.950195,
     7818.930176,
-    7793.810059
+    7802.910156
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27475.3984375,
+   "kurs": 27502.62890625,
    "vortag": 27599.7890625,
-   "veraenderung_pct": -0.4506941147931154,
+   "veraenderung_pct": -0.3520322420942468,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27190.859375,
     27477.310547,
     27599.789062,
-    27475.398438
+    27502.628906
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.932889997959137,
+   "kurs": 0.9327300190925598,
    "vortag": 0.932479977607727,
-   "veraenderung_pct": 0.043970955007721635,
+   "veraenderung_pct": 0.02681467600775811,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93414,
     0.93193,
     0.93248,
-    0.93289
+    0.93273
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8337000012397766,
+   "kurs": 0.8330699801445007,
    "vortag": 0.8311200141906738,
-   "veraenderung_pct": 0.31042292389205084,
+   "veraenderung_pct": 0.23461905868380484,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83053,
     0.82811,
     0.83112,
-    0.8337
+    0.83307
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4133.89990234375,
+   "kurs": 4146.2998046875,
    "vortag": 4187.10009765625,
-   "veraenderung_pct": -1.2705737639823633,
+   "veraenderung_pct": -0.9744284114819313,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4162.299805,
     4156.799805,
     4187.100098,
-    4133.899902
+    4146.299805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 100.93000030517578,
+   "kurs": 100.41000366210938,
    "vortag": 100.58000183105469,
-   "veraenderung_pct": 0.3479801826897777,
+   "veraenderung_pct": -0.16901786224945425,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.25,
     100.32,
     100.580002,
-    100.93
+    100.410004
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83378.0,
+   "kurs": 83400.0078125,
    "vortag": 85557.5625,
-   "veraenderung_pct": -2.547480826139714,
+   "veraenderung_pct": -2.5217580123323424,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     86480.304688,
     85786.59375,
     85557.5625,
-    83378.0
+    83400.007812
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.32,
+   "wert": 5.275,
    "vortag": 5.269,
-   "veraenderung_bp": 5.1,
+   "veraenderung_bp": 0.6,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.277,
     5.311,
     5.269,
-    5.32
+    5.275
    ]
   }
  ],
@@ -374,6 +374,30 @@
   ],
   "artikel": [
    {
+    "titel": "Meta's Muse assistant tops app charts. Now it needs to become a habit",
+    "link": "https://www.cnbc.com/2026/10/07/meta-muse-personal-ai-agents-dazzle.html",
+    "zeit": "2026-10-07T17:20:12+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "10-year Treasury yield falls from 24-year high after solid bond auction eases demand fears",
+    "link": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
+    "zeit": "2026-10-07T17:17:24+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Google ordered to halt work on two data centers in ‘Texas of Europe’",
+    "link": "https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html",
+    "zeit": "2026-10-07T17:16:28+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Modelo owner Constellation is getting creative to bring back beer drinkers as overall demand weakens",
     "link": "https://www.cnbc.com/2026/10/07/constellation-brands-earnings-beer-demand.html",
     "zeit": "2026-10-07T16:40:50+00:00",
@@ -390,6 +414,14 @@
     "sprache": "en"
    },
    {
+    "titel": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+    "link": "https://www.cnbc.com/2026/10/07/spacex-nvidia-chips-apollo-financing.html",
+    "zeit": "2026-10-07T16:32:30+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Used car prices fall in Q3, while demand for fuel-efficient vehicles grows",
     "link": "https://www.cnbc.com/2026/10/07/used-cars-manheim-index.html",
     "zeit": "2026-10-07T16:25:52+00:00",
@@ -398,25 +430,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
-    "link": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
-    "zeit": "2026-10-07T16:18:22+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Jim Cramer's key to Wednesday's market — plus, relief for Intel after a concerning report",
     "link": "https://www.cnbc.com/investingclub/2026/10/07/jim-cramers-key-to-wednesday-market-plus-relief-for-intel-after-a-concerning-report.html",
     "zeit": "2026-10-07T15:38:22+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Meta's Muse assistant tops app charts. Now it needs to become a habit",
-    "link": "https://www.cnbc.com/2026/10/07/meta-muse-personal-ai-agents-dazzle.html",
-    "zeit": "2026-10-07T15:01:41+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -454,28 +470,12 @@
     "sprache": "en"
    },
    {
-    "titel": "Trading platform Webull's China ties create national security risk, congressional panel finds; stock drops 18%",
-    "link": "https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html",
-    "zeit": "2026-10-07T13:46:28+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Bei Lindt & Sprüngli sind die Aktionäre unzufrieden – aber die Allmacht von Ernst Tanner können sie nicht brechen",
     "link": "https://www.nzz.ch/wirtschaft/bei-lindt-spruengli-sind-die-aktionaere-unzufrieden-aber-die-allmacht-von-ernst-tanner-koennen-sie-nicht-brechen-ld.10027070",
     "zeit": "2026-10-07T13:46:21+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "France is caught between angry students and unforgiving bond markets",
-    "link": "https://www.cnbc.com/2026/10/07/french-student-protests-budget-deadlock.html",
-    "zeit": "2026-10-07T13:23:31+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Kampf für Mindestlöhne – Linke reicht über 100'000 Unterschriften gegen «Lohnangriff» ein",
