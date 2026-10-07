@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-07T13:48:27+02:00",
+ "aktualisiert": "2026-10-07T14:27:03+02:00",
  "kernaussagen": [
-  "SMI −0.20%, Euro Stoxx 50 −1.78% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9304 (−0.23%)",
-  "Bitcoin −2.30% auf 83'593 USD · Brent über 100 USD"
+  "SMI −0.06%, Euro Stoxx 50 −1.71% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9302 (−0.25%)",
+  "Bitcoin −2.48% auf 83'434 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13761.080078125,
+   "kurs": 13781.099609375,
    "vortag": 13788.9296875,
-   "veraenderung_pct": -0.201970783854577,
+   "veraenderung_pct": -0.0567852494896548,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13660.919922,
     13703.530273,
     13788.929688,
-    13761.080078
+    13781.099609
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25068.1796875,
+   "kurs": 25117.759765625,
    "vortag": 25449.189453125,
-   "veraenderung_pct": -1.4971390987786992,
+   "veraenderung_pct": -1.3023192275355644,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25231.199219,
     25254.210938,
     25449.189453,
-    25068.179688
+    25117.759766
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6160.89013671875,
+   "kurs": 6164.7998046875,
    "vortag": 6272.22998046875,
-   "veraenderung_pct": -1.7751237454095903,
+   "veraenderung_pct": -1.7127907636642736,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6238.5,
     6242.140137,
     6272.22998,
-    6160.890137
+    6164.799805
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9303600192070007,
+   "kurs": 0.930180013179779,
    "vortag": 0.932479977607727,
-   "veraenderung_pct": -0.22734626497451504,
+   "veraenderung_pct": -0.24665027487759117,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93414,
     0.93193,
     0.93248,
-    0.93036
+    0.93018
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8319600224494934,
-   "vortag": 0.8311200141906738,
-   "veraenderung_pct": 0.10106942974266175,
-   "datum": "2026-10-07",
-   "ist_heute": true,
+   "kurs": 0.8311200141906738,
+   "vortag": 0.8281099796295166,
+   "veraenderung_pct": 0.3634824643103496,
+   "datum": "2026-10-06",
+   "ist_heute": false,
    "verlauf": [
+    0.83422,
     0.83566,
     0.83053,
     0.82811,
-    0.83112,
-    0.83196
+    0.83112
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4145.7001953125,
+   "kurs": 4144.2001953125,
    "vortag": 4187.10009765625,
-   "veraenderung_pct": -0.9887488089172725,
+   "veraenderung_pct": -1.0245731256284807,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4162.299805,
     4156.799805,
     4187.100098,
-    4145.700195
+    4144.200195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 101.83000183105469,
+   "kurs": 101.45999908447266,
    "vortag": 100.58000183105469,
-   "veraenderung_pct": 1.2427917848914394,
+   "veraenderung_pct": 0.8749226858199011,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.25,
     100.32,
     100.580002,
-    101.830002
+    101.459999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83593.3984375,
+   "kurs": 83434.1328125,
    "vortag": 85557.5625,
-   "veraenderung_pct": -2.295722324370797,
+   "veraenderung_pct": -2.481872584320055,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     86480.304688,
     85786.59375,
     85557.5625,
-    83593.398438
+    83434.132812
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.27999877929688,
+   "kurs": 75.47000122070312,
    "vortag": 75.19999694824219,
-   "veraenderung_pct": 0.10638541795386924,
+   "veraenderung_pct": 0.359048249226368,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     74.779999,
     74.480003,
     75.199997,
-    75.279999
+    75.470001
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 118.68000030517578,
+   "kurs": 119.16000366210938,
    "vortag": 117.18000030517578,
-   "veraenderung_pct": 1.2800819219094484,
+   "veraenderung_pct": 1.6897110016871553,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     116.339996,
     116.480003,
     117.18,
-    118.68
+    119.160004
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 355.70001220703125,
+   "kurs": 356.5,
    "vortag": 349.79998779296875,
-   "veraenderung_pct": 1.6866851400676675,
+   "veraenderung_pct": 1.9153837738258295,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     345.700012,
     348.899994,
     349.799988,
-    355.700012
+    356.5
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.4900016784668,
+   "kurs": 39.56999969482422,
    "vortag": 40.56999969482422,
-   "veraenderung_pct": -2.662060696281454,
+   "veraenderung_pct": -2.4648755423273383,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.529999,
     40.029999,
     40.57,
-    39.490002
+    39.57
    ]
   }
  ],
@@ -374,9 +374,57 @@
   ],
   "artikel": [
    {
+    "titel": "Treasury yields rise as traders await key 10-year note auction",
+    "link": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
+    "zeit": "2026-10-07T12:26:15+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Chevron CEO warns against 'unwise' diesel export ban, saying it could make things worse",
+    "link": "https://www.cnbc.com/2026/10/07/chevron-ceo-diesel-export-ban-trump-supply.html",
+    "zeit": "2026-10-07T12:25:52+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "ICE came to town and left behind weakened economies",
+    "link": "https://www.cnbc.com/2026/10/07/ice-raids-local-economies.html",
+    "zeit": "2026-10-07T12:24:32+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate",
     "link": "https://www.cnbc.com/2026/10/07/us-iran-war-trump-hormuz.html",
-    "zeit": "2026-10-07T11:33:40+00:00",
+    "zeit": "2026-10-07T12:18:15+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "The SALT deduction limit is $40,400 for 2026. Here's how to maximize it",
+    "link": "https://www.cnbc.com/2026/10/07/salt-deduction-limit-2026.html",
+    "zeit": "2026-10-07T12:15:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Mortgage rates sit at nearly 3-year high, and demand continues to shrink",
+    "link": "https://www.cnbc.com/2026/10/07/mortgage-rates-sit-at-nearly-3-year-high-and-demand-continues-to-shrink.html",
+    "zeit": "2026-10-07T12:00:21+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
+    "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
+    "zeit": "2026-10-07T11:55:36+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -406,14 +454,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Mortgage rates sit at nearly 3-year high, and demand continues to shrink",
-    "link": "https://www.cnbc.com/2026/10/07/mortgage-rates-sit-at-nearly-3-year-high-and-demand-continues-to-shrink.html",
-    "zeit": "2026-10-07T11:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Wenn sich die Ukraine und Südkorea streiten, freut sich Russland",
     "link": "https://www.nzz.ch/international/wenn-sich-die-ukraine-und-suedkorea-streiten-freut-sich-russland-ld.10027065",
     "zeit": "2026-10-07T09:45:33+00:00",
@@ -422,28 +462,12 @@
     "sprache": "de"
    },
    {
-    "titel": "Google ordered to halt work on two data centers in ‘Texas of Europe’",
-    "link": "https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html",
-    "zeit": "2026-10-07T09:26:02+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Jaguar unveils $130,000 electric vehicle two years after controversial rebrand",
-    "link": "https://www.cnbc.com/2026/10/07/jaguar-electric-vehicle-autos-type-01.html",
-    "zeit": "2026-10-07T09:18:30+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Chevron CEO warns against 'unwise' diesel export ban, saying it could make things worse",
-    "link": "https://www.cnbc.com/2026/10/07/chevron-ceo-diesel-export-ban-trump-supply.html",
-    "zeit": "2026-10-07T09:16:19+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "Solutio plant 150-Millionen-Fonds für Verteidigung – exklusiv für die Schweiz",
+    "link": "https://www.finews.ch/news/finanzplatz/73887-solutio-schweizer-geschaeft-private-markets-fonds-fuer-verteidigung-sicherheit-resiliente-infrastruktur-sowie-luft-und-raumfahrt-institutionelle-anleger-in-der-schweiz",
+    "zeit": "2026-10-07T09:37:19+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "RBC BlueBay ernennt neuen Schweiz-Chef",
@@ -470,20 +494,12 @@
     "sprache": "de"
    },
    {
-    "titel": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
-    "link": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
-    "zeit": "2026-10-07T06:16:39+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Singapore's Temasek warns of the ‘biggest risk’ facing markets right now",
-    "link": "https://www.cnbc.com/2026/10/07/singapore-temasek-warns-of-the-biggest-risk-facing-markets.html",
-    "zeit": "2026-10-07T05:25:29+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "Immobilienpreise steigen etwas langsamer",
+    "link": "https://www.finews.ch/news/finanzplatz/73877-wohneigentum-wohnungen-einfamilienhaeuser-iazi",
+    "zeit": "2026-10-07T05:40:19+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Schweizer Vermögensverwalter setzen bei Alternativen stärker auf KI",
@@ -626,22 +642,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/teurere-fahrstunden-der-hohe-benzinpreis-belastet-auch-fahrlehrer",
     "zeit": "2026-10-06T06:10:59+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Plutos Schweiz verbreitert Geschäftsführung mit Private-Banking-Profi",
-    "link": "https://www.finews.ch/news/finanzplatz/73861-plutos-schweiz-michael-zumstein-gemeinsam-mit-ceo-olivier-marti-die-strategische-neuausrichtung-vorantreiben",
-    "zeit": "2026-10-06T06:05:18+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Mont-Fort Funds ernennt neue Generaldirektorin",
-    "link": "https://www.finews.ch/news/finanzplatz/73860-fondsunternehmen-mont-fort-funds-anne-cathrine-frogg-gruender-roman-pelka-genfer-kantonalbank-bcge",
-    "zeit": "2026-10-06T05:39:04+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
