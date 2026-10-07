@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-07T07:20:29+02:00",
+ "aktualisiert": "2026-10-07T07:49:03+02:00",
  "kernaussagen": [
   "SMI +0.62%, DAX +0.77% führt",
-  "Franken schwächer: EUR/CHF 0.9361 (+0.39%)",
-  "Bitcoin −1.87% auf 84'184 USD · Brent über 100 USD"
+  "Franken schwächer: EUR/CHF 0.9325 (+0.06%)",
+  "Bitcoin −1.80% auf 84'240 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 70268.390625,
+   "kurs": 70355.53125,
    "vortag": 70683.9765625,
-   "veraenderung_pct": -0.5879492888073878,
+   "veraenderung_pct": -0.46466728171353777,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     68309.460938,
     69946.859375,
     70683.976562,
-    70268.390625
+    70355.53125
    ]
   }
  ],
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9361000061035156,
-   "vortag": 0.932479977607727,
-   "veraenderung_pct": 0.3882151448522997,
-   "datum": "2026-10-07",
-   "ist_heute": true,
+   "kurs": 0.932479977607727,
+   "vortag": 0.9319300055503845,
+   "veraenderung_pct": 0.05901430945103314,
+   "datum": "2026-10-06",
+   "ist_heute": false,
    "verlauf": [
+    0.94601,
     0.94654,
     0.93414,
     0.93193,
-    0.93248,
-    0.9361
+    0.93248
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8335300087928772,
+   "kurs": 0.8332300186157227,
    "vortag": 0.8311200141906738,
-   "veraenderung_pct": 0.28996950633539686,
+   "veraenderung_pct": 0.2538748181998063,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83053,
     0.82811,
     0.83112,
-    0.83353
+    0.83323
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4159.39990234375,
+   "kurs": 4163.10009765625,
    "vortag": 4187.10009765625,
-   "veraenderung_pct": -0.6615603798916903,
+   "veraenderung_pct": -0.5731890673794537,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4162.299805,
     4156.799805,
     4187.100098,
-    4159.399902
+    4163.100098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 101.4800033569336,
+   "kurs": 101.51000213623047,
    "vortag": 100.58000183105469,
-   "veraenderung_pct": 0.8948116022016395,
+   "veraenderung_pct": 0.9246373913751826,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.25,
     100.32,
     100.580002,
-    101.480003
+    101.510002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 84183.828125,
+   "kurs": 84239.9921875,
    "vortag": 85786.59375,
-   "veraenderung_pct": -1.8683171285140299,
+   "veraenderung_pct": -1.8028476186000786,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     84763.578125,
     86480.304688,
     85786.59375,
-    84183.828125
+    84239.992188
    ]
   }
  ],
@@ -374,6 +374,22 @@
   ],
   "artikel": [
    {
+    "titel": "Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
+    "link": "https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html",
+    "zeit": "2026-10-07T05:29:30+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Singapore's Temasek warns of the ‘biggest risk’ facing markets right now",
+    "link": "https://www.cnbc.com/2026/10/07/singapore-temasek-warns-of-the-biggest-risk-facing-markets.html",
+    "zeit": "2026-10-07T05:25:29+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
     "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
     "zeit": "2026-10-07T05:11:55+00:00",
@@ -385,22 +401,6 @@
     "titel": "Luxury developers flocked to the 'Hamptons of Hungary' — but some projects are stalling",
     "link": "https://www.cnbc.com/2026/10/07/lake-balaton-tihany-balatonfred-hungary-luxury-developers.html",
     "zeit": "2026-10-07T05:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Singapore's Temasek warns of the ‘biggest risk’ facing markets right now",
-    "link": "https://www.cnbc.com/2026/10/07/singapore-temasek-warns-of-the-biggest-risk-facing-markets.html",
-    "zeit": "2026-10-07T04:33:47+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
-    "link": "https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html",
-    "zeit": "2026-10-07T04:24:10+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
