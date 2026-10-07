@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-07T11:50:34+02:00",
+ "aktualisiert": "2026-10-07T12:20:57+02:00",
  "kernaussagen": [
-  "SMI −0.01%, Euro Stoxx 50 −1.23% am schwächsten",
-  "Franken stabil: EUR/CHF 0.9327 (+0.02%)",
-  "Bitcoin −2.05% auf 83'800 USD · Brent über 100 USD"
+  "SMI −0.09%, Euro Stoxx 50 −1.24% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9317 (−0.08%)",
+  "Bitcoin −1.97% auf 83'870 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13788.2001953125,
+   "kurs": 13776.0400390625,
    "vortag": 13788.9296875,
-   "veraenderung_pct": -0.005290419227832466,
+   "veraenderung_pct": -0.0934782374674481,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13660.919922,
     13703.530273,
     13788.929688,
-    13788.200195
+    13776.040039
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25170.580078125,
+   "kurs": 25166.609375,
    "vortag": 25449.189453125,
-   "veraenderung_pct": -1.0947671850735086,
+   "veraenderung_pct": -1.1103696589059742,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25231.199219,
     25254.210938,
     25449.189453,
-    25170.580078
+    25166.609375
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6195.31982421875,
+   "kurs": 6194.27978515625,
    "vortag": 6272.22998046875,
-   "veraenderung_pct": -1.2262011515759563,
+   "veraenderung_pct": -1.2427827990241225,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6238.5,
     6242.140137,
     6272.22998,
-    6195.319824
+    6194.279785
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9326800107955933,
+   "kurs": 0.9316999912261963,
    "vortag": 0.932479977607727,
-   "veraenderung_pct": 0.02145174080621093,
+   "veraenderung_pct": -0.08364644820919587,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93414,
     0.93193,
     0.93248,
-    0.93268
+    0.9317
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8333100080490112,
+   "kurs": 0.8327000141143799,
    "vortag": 0.8311200141906738,
-   "veraenderung_pct": 0.26349911215530764,
+   "veraenderung_pct": 0.1901049062384308,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83053,
     0.82811,
     0.83112,
-    0.83331
+    0.8327
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4145.5,
+   "kurs": 4143.2001953125,
    "vortag": 4187.10009765625,
-   "veraenderung_pct": -0.9935300491033416,
+   "veraenderung_pct": -1.0484560034359602,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4162.299805,
     4156.799805,
     4187.100098,
-    4145.5
+    4143.200195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 101.80999755859375,
+   "kurs": 101.94000244140625,
    "vortag": 100.58000183105469,
-   "veraenderung_pct": 1.2229028685096788,
+   "veraenderung_pct": 1.3521580687938073,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.25,
     100.32,
     100.580002,
-    101.809998
+    101.940002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83800.0703125,
+   "kurs": 83869.78125,
    "vortag": 85557.5625,
-   "veraenderung_pct": -2.0541634615876325,
+   "veraenderung_pct": -1.9726850563326903,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     86480.304688,
     85786.59375,
     85557.5625,
-    83800.070312
+    83869.78125
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.36000061035156,
+   "kurs": 75.27999877929688,
    "vortag": 75.19999694824219,
-   "veraenderung_pct": 0.2127708359077385,
+   "veraenderung_pct": 0.10638541795386924,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     74.779999,
     74.480003,
     75.199997,
-    75.360001
+    75.279999
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 118.5999984741211,
+   "kurs": 118.58000183105469,
    "vortag": 117.18000030517578,
-   "veraenderung_pct": 1.2118093234742888,
+   "veraenderung_pct": 1.1947444292821574,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     116.339996,
     116.480003,
     117.18,
-    118.599998
+    118.580002
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 354.6000061035156,
+   "kurs": 354.8999938964844,
    "vortag": 349.79998779296875,
-   "veraenderung_pct": 1.3722179754299457,
+   "veraenderung_pct": 1.4579777820158402,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     345.700012,
     348.899994,
     349.799988,
-    354.600006
+    354.899994
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.040000915527344,
+   "kurs": 40.04999923706055,
    "vortag": 40.56999969482422,
-   "veraenderung_pct": -1.306381028552217,
+   "veraenderung_pct": -1.2817364103406947,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.529999,
     40.029999,
     40.57,
-    40.040001
+    40.049999
    ]
   }
  ],
@@ -373,6 +373,30 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "Treasury yields rise as oil moves higher, traders await key U.S. bond sale",
+    "link": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
+    "zeit": "2026-10-07T10:08:22+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "'Get your house in order': IMF chief's stark warning for France over surging bond yields",
+    "link": "https://www.cnbc.com/2026/10/07/imf-france-debt-student-protests-yields.html",
+    "zeit": "2026-10-07T09:57:23+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Wenn sich die Ukraine und Südkorea streiten, freut sich Russland",
+    "link": "https://www.nzz.ch/international/wenn-sich-die-ukraine-und-suedkorea-streiten-freut-sich-russland-ld.10027065",
+    "zeit": "2026-10-07T09:45:33+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
    {
     "titel": "Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate",
     "link": "https://www.cnbc.com/2026/10/07/us-iran-war-trump-hormuz.html",
@@ -406,12 +430,12 @@
     "sprache": "en"
    },
    {
-    "titel": "Treasury yields rise ahead of closely-watched 10-year auction and FOMC minutes",
-    "link": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
-    "zeit": "2026-10-07T08:31:25+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "Implement Consulting neu mit Doppelspitze",
+    "link": "https://www.finews.ch/news/finanzplatz/73885-implement-consulting-group-schweizer-geschaeft-moritz-rohde-managing-partner-schweiz-chef-manuel-fischer-zuercher-buero",
+    "zeit": "2026-10-07T07:47:16+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Vaudoise AM erweitert Verwaltungsrat",
@@ -460,14 +484,6 @@
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Trump set to talk to Russia's Putin 'very soon' about plague-related death in Siberia",
-    "link": "https://www.cnbc.com/2026/10/07/trump-putin-russian-plague-death-cdc-pneumonic-.html",
-    "zeit": "2026-10-07T04:12:27+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Machtkampf an den Finanzmärkten: Die steigenden Anleiherenditen könnten die Aktienkurse bald in die Knie zwingen",
@@ -574,14 +590,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Wie KI die Produktivität steigert – statt das Hamsterrad zu beschleunigen",
-    "link": "https://www.nzz.ch/wirtschaft/wie-ki-die-produktivitaet-steigert-statt-das-hamsterrad-zu-beschleunigen-ld.10026106",
-    "zeit": "2026-10-06T11:00:06+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "BNP Paribas stellt Schweizer Führung neu auf",
     "link": "https://www.finews.ch/news/finanzplatz/73867-bnp-paribas-asset-management-fuehrungswechsel-frederick-widl-ceo",
     "zeit": "2026-10-06T09:13:52+00:00",
@@ -633,14 +641,6 @@
     "titel": "Bank Frick vereinfacht Einzahlungen für Krypto- und Zahlungsplattformen",
     "link": "https://www.finews.ch/news/banken/73859-bank-frick-named-vbans-zahlungen-automatisch-zugeordnet-krypto-boersen-broker-und-zahlungsplattformen",
     "zeit": "2026-10-06T05:04:25+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Eversheds Sutherland engagierte Deloitte-Forensiker für Finanzfälle",
-    "link": "https://www.finews.ch/news/finanzplatz/73857-eversheds-sutherland-neuer-partner-michael-faske-forensik-ex-deloitte",
-    "zeit": "2026-10-06T04:53:37+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
