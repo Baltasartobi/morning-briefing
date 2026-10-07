@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-07T13:19:55+02:00",
+ "aktualisiert": "2026-10-07T13:48:27+02:00",
  "kernaussagen": [
-  "SMI −0.18%, Euro Stoxx 50 −1.60% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9311 (−0.14%)",
-  "Bitcoin −2.24% auf 83'640 USD · Brent über 100 USD"
+  "SMI −0.20%, Euro Stoxx 50 −1.78% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9304 (−0.23%)",
+  "Bitcoin −2.30% auf 83'593 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13764.6201171875,
+   "kurs": 13761.080078125,
    "vortag": 13788.9296875,
-   "veraenderung_pct": -0.17629773204614896,
+   "veraenderung_pct": -0.201970783854577,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13660.919922,
     13703.530273,
     13788.929688,
-    13764.620117
+    13761.080078
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25100.619140625,
+   "kurs": 25068.1796875,
    "vortag": 25449.189453125,
-   "veraenderung_pct": -1.3696715690770134,
+   "veraenderung_pct": -1.4971390987786992,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25231.199219,
     25254.210938,
     25449.189453,
-    25100.619141
+    25068.179688
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6171.64990234375,
+   "kurs": 6160.89013671875,
    "vortag": 6272.22998046875,
-   "veraenderung_pct": -1.6035776500255672,
+   "veraenderung_pct": -1.7751237454095903,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6238.5,
     6242.140137,
     6272.22998,
-    6171.649902
+    6160.890137
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9311299920082092,
+   "kurs": 0.9303600192070007,
    "vortag": 0.932479977607727,
-   "veraenderung_pct": -0.14477368221688103,
+   "veraenderung_pct": -0.22734626497451504,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93414,
     0.93193,
     0.93248,
-    0.93113
+    0.93036
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8321700096130371,
+   "kurs": 0.8319600224494934,
    "vortag": 0.8311200141906738,
-   "veraenderung_pct": 0.1263349942770553,
+   "veraenderung_pct": 0.10106942974266175,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83053,
     0.82811,
     0.83112,
-    0.83217
+    0.83196
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4145.89990234375,
+   "kurs": 4145.7001953125,
    "vortag": 4187.10009765625,
-   "veraenderung_pct": -0.9839792302926309,
+   "veraenderung_pct": -0.9887488089172725,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4162.299805,
     4156.799805,
     4187.100098,
-    4145.899902
+    4145.700195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 101.80999755859375,
+   "kurs": 101.83000183105469,
    "vortag": 100.58000183105469,
-   "veraenderung_pct": 1.2229028685096788,
+   "veraenderung_pct": 1.2427917848914394,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.25,
     100.32,
     100.580002,
-    101.809998
+    101.830002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83639.8203125,
+   "kurs": 83593.3984375,
    "vortag": 85557.5625,
-   "veraenderung_pct": -2.2414642627295533,
+   "veraenderung_pct": -2.295722324370797,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     86480.304688,
     85786.59375,
     85557.5625,
-    83639.820312
+    83593.398438
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.12999725341797,
+   "kurs": 75.27999877929688,
    "vortag": 75.19999694824219,
-   "veraenderung_pct": -0.09308470434167271,
+   "veraenderung_pct": 0.10638541795386924,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     74.779999,
     74.480003,
     75.199997,
-    75.129997
+    75.279999
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 355.3999938964844,
+   "kurs": 355.70001220703125,
    "vortag": 349.79998779296875,
-   "veraenderung_pct": 1.6009166091881077,
+   "veraenderung_pct": 1.6866851400676675,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     345.700012,
     348.899994,
     349.799988,
-    355.399994
+    355.700012
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.58000183105469,
+   "kurs": 39.4900016784668,
    "vortag": 40.56999969482422,
-   "veraenderung_pct": -2.4402215213618295,
+   "veraenderung_pct": -2.662060696281454,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.529999,
     40.029999,
     40.57,
-    39.580002
+    39.490002
    ]
   }
  ],
@@ -373,6 +373,14 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate",
+    "link": "https://www.cnbc.com/2026/10/07/us-iran-war-trump-hormuz.html",
+    "zeit": "2026-10-07T11:33:40+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
    {
     "titel": "'Get your house in order': IMF chief's stark warning for France over surging bond yields",
     "link": "https://www.cnbc.com/2026/10/07/imf-france-debt-student-protests-yields.html",
@@ -412,14 +420,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate",
-    "link": "https://www.cnbc.com/2026/10/07/us-iran-war-trump-hormuz.html",
-    "zeit": "2026-10-07T09:43:05+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Google ordered to halt work on two data centers in ‘Texas of Europe’",
