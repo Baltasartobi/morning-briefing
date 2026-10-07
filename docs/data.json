@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-07T14:56:24+02:00",
+ "aktualisiert": "2026-10-07T15:22:54+02:00",
  "kernaussagen": [
-  "SMI +0.09%, Euro Stoxx 50 −1.56% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9314 (−0.11%)",
-  "Bitcoin −2.52% auf 83'401 USD · Brent über 100 USD"
+  "SMI +0.03%, Euro Stoxx 50 −1.63% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9315 (−0.11%)",
+  "Bitcoin −2.58% auf 83'350 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13801.01953125,
+   "kurs": 13793.66015625,
    "vortag": 13788.9296875,
-   "veraenderung_pct": 0.08767789831403139,
+   "veraenderung_pct": 0.03430627943725728,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13660.919922,
     13703.530273,
     13788.929688,
-    13801.019531
+    13793.660156
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25147.4296875,
+   "kurs": 25128.05078125,
    "vortag": 25449.189453125,
-   "veraenderung_pct": -1.18573428902643,
+   "veraenderung_pct": -1.2618817289505757,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25231.199219,
     25254.210938,
     25449.189453,
-    25147.429688
+    25128.050781
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6174.18994140625,
+   "kurs": 6169.89990234375,
    "vortag": 6272.22998046875,
-   "veraenderung_pct": -1.5630810631591885,
+   "veraenderung_pct": -1.631478412680154,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6238.5,
     6242.140137,
     6272.22998,
-    6174.189941
+    6169.899902
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.931439995765686,
+   "kurs": 0.9315000176429749,
    "vortag": 0.932479977607727,
-   "veraenderung_pct": -0.11152859761226486,
+   "veraenderung_pct": -0.10509179695914472,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93414,
     0.93193,
     0.93248,
-    0.93144
+    0.9315
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8337299823760986,
+   "kurs": 0.833299994468689,
    "vortag": 0.8311200141906738,
-   "veraenderung_pct": 0.31403024122411693,
+   "veraenderung_pct": 0.26229428250961195,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83053,
     0.82811,
     0.83112,
-    0.83373
+    0.8333
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4094.39990234375,
+   "kurs": 4114.89990234375,
    "vortag": 4187.10009765625,
-   "veraenderung_pct": -2.2139474373777057,
+   "veraenderung_pct": -1.7243484423244193,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4162.299805,
     4156.799805,
     4187.100098,
-    4094.399902
+    4114.899902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 101.73999786376953,
+   "kurs": 101.69000244140625,
    "vortag": 100.58000183105469,
-   "veraenderung_pct": 1.1533068319717232,
+   "veraenderung_pct": 1.1035997118155283,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.25,
     100.32,
     100.580002,
-    101.739998
+    101.690002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83401.0703125,
+   "kurs": 83350.171875,
    "vortag": 85557.5625,
-   "veraenderung_pct": -2.5205161583466085,
+   "veraenderung_pct": -2.58000644303068,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     86480.304688,
     85786.59375,
     85557.5625,
-    83401.070312
+    83350.171875
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.339,
+   "wert": 5.348,
    "vortag": 5.269,
-   "veraenderung_bp": 7.0,
+   "veraenderung_bp": 7.9,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.277,
     5.311,
     5.269,
-    5.339
+    5.348
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.61000061035156,
+   "kurs": 75.56999969482422,
    "vortag": 75.19999694824219,
-   "veraenderung_pct": 0.5452176579097134,
+   "veraenderung_pct": 0.4920249489327677,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     74.779999,
     74.480003,
     75.199997,
-    75.610001
+    75.57
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 119.37999725341797,
+   "kurs": 119.5199966430664,
    "vortag": 117.18000030517578,
-   "veraenderung_pct": 1.8774508811338686,
+   "veraenderung_pct": 1.9969246729787393,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     116.339996,
     116.480003,
     117.18,
-    119.379997
+    119.519997
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 357.20001220703125,
+   "kurs": 356.8999938964844,
    "vortag": 349.79998779296875,
-   "veraenderung_pct": 2.11550162158447,
+   "veraenderung_pct": 2.0297330907049105,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     345.700012,
     348.899994,
     349.799988,
-    357.200012
+    356.899994
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.56999969482422,
+   "kurs": 39.310001373291016,
    "vortag": 40.56999969482422,
-   "veraenderung_pct": -2.4648755423273383,
+   "veraenderung_pct": -3.1057390461206924,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.529999,
     40.029999,
     40.57,
-    39.57
+    39.310001
    ]
   }
  ],
@@ -374,9 +374,33 @@
   ],
   "artikel": [
    {
-    "titel": "Trading platform Webull's China ties create national security risk, congressional panel finds",
+    "titel": "Used car prices fall in Q3, while demand for fuel-efficient vehicles grows",
+    "link": "https://www.cnbc.com/2026/10/07/used-cars-manheim-index.html",
+    "zeit": "2026-10-07T13:16:28+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Kampf für Mindestlöhne – Linke reicht über 100'000 Unterschriften gegen «Lohnangriff» ein",
+    "link": "https://www.srf.ch/news/schweiz/kampf-fuer-mindestloehne-linke-reicht-ueber-100-000-unterschriften-gegen-lohnangriff-ein",
+    "zeit": "2026-10-07T13:15:55+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Refinance demand is now half what it was a year ago, as mortgage rates rise again",
+    "link": "https://www.cnbc.com/2026/10/07/mortgage-rates-sit-at-nearly-3-year-high-and-demand-continues-to-shrink.html",
+    "zeit": "2026-10-07T13:02:18+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trading platform Webull's China ties create national security risk, congressional panel finds; stock down nearly 30%",
     "link": "https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html",
-    "zeit": "2026-10-07T12:54:13+00:00",
+    "zeit": "2026-10-07T13:01:17+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -433,22 +457,6 @@
     "titel": "The SALT deduction limit is $40,400 for 2026. Here's how to maximize it",
     "link": "https://www.cnbc.com/2026/10/07/salt-deduction-limit-2026.html",
     "zeit": "2026-10-07T12:15:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Mortgage rates sit at nearly 3-year high, and demand continues to shrink",
-    "link": "https://www.cnbc.com/2026/10/07/mortgage-rates-sit-at-nearly-3-year-high-and-demand-continues-to-shrink.html",
-    "zeit": "2026-10-07T12:00:21+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
-    "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
-    "zeit": "2026-10-07T11:55:36+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -681,14 +689,6 @@
     "titel": "Nespresso-Papierkapseln weg – Ist der Trend zu nachhaltigeren Verpackungen vorbei?",
     "link": "https://www.srf.ch/news/wirtschaft/nespresso-papierkapseln-weg-ist-der-trend-zu-nachhaltigeren-verpackungen-vorbei",
     "zeit": "2026-10-04T11:05:45+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Hunderte Millionen Verlust – Swiss Steel baut in Deutschland Stellen ab",
-    "link": "https://www.srf.ch/news/wirtschaft/hunderte-millionen-verlust-swiss-steel-baut-in-deutschland-stellen-ab",
-    "zeit": "2026-10-04T03:08:27+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
