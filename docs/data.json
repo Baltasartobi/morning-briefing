@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-07T12:20:57+02:00",
+ "aktualisiert": "2026-10-07T12:49:13+02:00",
  "kernaussagen": [
-  "SMI −0.09%, Euro Stoxx 50 −1.24% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9317 (−0.08%)",
-  "Bitcoin −1.97% auf 83'870 USD · Brent über 100 USD"
+  "SMI −0.29%, Euro Stoxx 50 −1.47% am schwächsten",
+  "Franken schwächer: EUR/CHF 0.9325 (+0.06%)",
+  "Bitcoin −2.14% auf 83'726 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13776.0400390625,
+   "kurs": 13748.599609375,
    "vortag": 13788.9296875,
-   "veraenderung_pct": -0.0934782374674481,
+   "veraenderung_pct": -0.2924815706440209,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13660.919922,
     13703.530273,
     13788.929688,
-    13776.040039
+    13748.599609
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25166.609375,
+   "kurs": 25115.640625,
    "vortag": 25449.189453125,
-   "veraenderung_pct": -1.1103696589059742,
+   "veraenderung_pct": -1.3106461749572196,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25231.199219,
     25254.210938,
     25449.189453,
-    25166.609375
+    25115.640625
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6194.27978515625,
+   "kurs": 6179.740234375,
    "vortag": 6272.22998046875,
-   "veraenderung_pct": -1.2427827990241225,
+   "veraenderung_pct": -1.4745911164251946,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6238.5,
     6242.140137,
     6272.22998,
-    6194.279785
+    6179.740234
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9316999912261963,
-   "vortag": 0.932479977607727,
-   "veraenderung_pct": -0.08364644820919587,
-   "datum": "2026-10-07",
-   "ist_heute": true,
+   "kurs": 0.932479977607727,
+   "vortag": 0.9319300055503845,
+   "veraenderung_pct": 0.05901430945103314,
+   "datum": "2026-10-06",
+   "ist_heute": false,
    "verlauf": [
+    0.94601,
     0.94654,
     0.93414,
     0.93193,
-    0.93248,
-    0.9317
+    0.93248
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8327000141143799,
+   "kurs": 0.8324599862098694,
    "vortag": 0.8311200141906738,
-   "veraenderung_pct": 0.1901049062384308,
+   "veraenderung_pct": 0.1612248527669502,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83053,
     0.82811,
     0.83112,
-    0.8327
+    0.83246
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4143.2001953125,
+   "kurs": 4140.89990234375,
    "vortag": 4187.10009765625,
-   "veraenderung_pct": -1.0484560034359602,
+   "veraenderung_pct": -1.1033936193300176,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4162.299805,
     4156.799805,
     4187.100098,
-    4143.200195
+    4140.899902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 101.94000244140625,
+   "kurs": 101.72000122070312,
    "vortag": 100.58000183105469,
-   "veraenderung_pct": 1.3521580687938073,
+   "veraenderung_pct": 1.1334255009890493,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.25,
     100.32,
     100.580002,
-    101.940002
+    101.720001
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83869.78125,
+   "kurs": 83725.5625,
    "vortag": 85557.5625,
-   "veraenderung_pct": -1.9726850563326903,
+   "veraenderung_pct": -2.1412484723369762,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     86480.304688,
     85786.59375,
     85557.5625,
-    83869.78125
+    83725.5625
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.27999877929688,
+   "kurs": 75.18000030517578,
    "vortag": 75.19999694824219,
-   "veraenderung_pct": 0.10638541795386924,
+   "veraenderung_pct": -0.02659128175254155,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     74.779999,
     74.480003,
     75.199997,
-    75.279999
+    75.18
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 118.58000183105469,
+   "kurs": 118.31999969482422,
    "vortag": 117.18000030517578,
-   "veraenderung_pct": 1.1947444292821574,
+   "veraenderung_pct": 0.9728617397845252,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     116.339996,
     116.480003,
     117.18,
-    118.580002
+    118.32
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 354.8999938964844,
+   "kurs": 353.6000061035156,
    "vortag": 349.79998779296875,
-   "veraenderung_pct": 1.4579777820158402,
+   "veraenderung_pct": 1.0863403210854106,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     345.700012,
     348.899994,
     349.799988,
-    354.899994
+    353.600006
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.04999923706055,
+   "kurs": 39.86000061035156,
    "vortag": 40.56999969482422,
-   "veraenderung_pct": -1.2817364103406947,
+   "veraenderung_pct": -1.7500593783914553,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.529999,
     40.029999,
     40.57,
-    40.049999
+    39.860001
    ]
   }
  ],
@@ -428,6 +428,14 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "RBC BlueBay ernennt neuen Schweiz-Chef",
+    "link": "https://www.finews.ch/news/finanzplatz/73886-rbc-bluebay-schweiz-chef-stephan-eckstein",
+    "zeit": "2026-10-07T08:09:31+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Implement Consulting neu mit Doppelspitze",
@@ -633,14 +641,6 @@
     "titel": "Mont-Fort Funds ernennt neue Generaldirektorin",
     "link": "https://www.finews.ch/news/finanzplatz/73860-fondsunternehmen-mont-fort-funds-anne-cathrine-frogg-gruender-roman-pelka-genfer-kantonalbank-bcge",
     "zeit": "2026-10-06T05:39:04+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Bank Frick vereinfacht Einzahlungen für Krypto- und Zahlungsplattformen",
-    "link": "https://www.finews.ch/news/banken/73859-bank-frick-named-vbans-zahlungen-automatisch-zugeordnet-krypto-boersen-broker-und-zahlungsplattformen",
-    "zeit": "2026-10-06T05:04:25+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
