@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-07T17:31:07+02:00",
+ "aktualisiert": "2026-10-07T17:53:44+02:00",
  "kernaussagen": [
-  "SMI +0.13%, Euro Stoxx 50 −1.51% am schwächsten",
-  "Franken stabil: EUR/CHF 0.9323 (−0.01%)",
-  "Bitcoin −2.88% auf 83'095 USD · Brent über 100 USD"
+  "SMI +0.14%, Euro Stoxx 50 −1.47% am schwächsten",
+  "Franken schwächer: EUR/CHF 0.9325 (+0.06%)",
+  "Bitcoin −2.55% auf 83'377 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13807.1396484375,
+   "kurs": 13808.419921875,
    "vortag": 13788.9296875,
-   "veraenderung_pct": 0.13206217850256774,
+   "veraenderung_pct": 0.14134697048073797,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13660.919922,
     13703.530273,
     13788.929688,
-    13807.139648
+    13808.419922
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25088.759765625,
+   "kurs": 25104.359375,
    "vortag": 25449.189453125,
-   "veraenderung_pct": -1.4162717762146282,
+   "veraenderung_pct": -1.354974698742939,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25231.199219,
     25254.210938,
     25449.189453,
-    25088.759766
+    25104.359375
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6177.7001953125,
+   "kurs": 6180.2900390625,
    "vortag": 6272.22998046875,
-   "veraenderung_pct": -1.5071160568188469,
+   "veraenderung_pct": -1.4658254192295939,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6238.5,
     6242.140137,
     6272.22998,
-    6177.700195
+    6180.290039
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7776.39013671875,
+   "kurs": 7791.7900390625,
    "vortag": 7818.93017578125,
-   "veraenderung_pct": -0.5440647007472377,
+   "veraenderung_pct": -0.34710805837370184,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7722.720215,
     7773.950195,
     7818.930176,
-    7776.390137
+    7791.790039
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27417.48046875,
+   "kurs": 27490.837890625,
    "vortag": 27599.7890625,
-   "veraenderung_pct": -0.6605434314630454,
+   "veraenderung_pct": -0.39475363970455923,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27190.859375,
     27477.310547,
     27599.789062,
-    27417.480469
+    27490.837891
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9323499798774719,
-   "vortag": 0.932479977607727,
-   "veraenderung_pct": -0.013941074701528944,
-   "datum": "2026-10-07",
-   "ist_heute": true,
+   "kurs": 0.932479977607727,
+   "vortag": 0.9319300055503845,
+   "veraenderung_pct": 0.05901430945103314,
+   "datum": "2026-10-06",
+   "ist_heute": false,
    "verlauf": [
+    0.94601,
     0.94654,
     0.93414,
     0.93193,
-    0.93248,
-    0.93235
+    0.93248
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8334199786186218,
+   "kurs": 0.83406001329422,
    "vortag": 0.8311200141906738,
-   "veraenderung_pct": 0.2767307234428307,
+   "veraenderung_pct": 0.35373941829677236,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83053,
     0.82811,
     0.83112,
-    0.83342
+    0.83406
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4128.2998046875,
+   "kurs": 4133.89990234375,
    "vortag": 4187.10009765625,
-   "veraenderung_pct": -1.4043202120165188,
+   "veraenderung_pct": -1.2705737639823633,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4162.299805,
     4156.799805,
     4187.100098,
-    4128.299805
+    4133.899902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 101.70999908447266,
+   "kurs": 101.13999938964844,
    "vortag": 100.58000183105469,
-   "veraenderung_pct": 1.12348104279818,
+   "veraenderung_pct": 0.5567682923036665,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.25,
     100.32,
     100.580002,
-    101.709999
+    101.139999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83095.0234375,
+   "kurs": 83376.7578125,
    "vortag": 85557.5625,
-   "veraenderung_pct": -2.8782248939127952,
+   "veraenderung_pct": -2.5489326995495,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     86480.304688,
     85786.59375,
     85557.5625,
-    83095.023438
+    83376.757812
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.37999725341797,
+   "kurs": 75.55999755859375,
    "vortag": 75.19999694824219,
-   "veraenderung_pct": 0.23936211766029114,
+   "veraenderung_pct": 0.4787242353205601,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     74.779999,
     74.480003,
     75.199997,
-    75.379997
+    75.559998
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 119.76000213623047,
+   "kurs": 120.0199966430664,
    "vortag": 117.18000030517578,
-   "veraenderung_pct": 2.2017424682842623,
+   "veraenderung_pct": 2.4236186469485554,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     116.339996,
     116.480003,
     117.18,
-    119.760002
+    120.019997
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 359.20001220703125,
+   "kurs": 360.0,
    "vortag": 349.79998779296875,
-   "veraenderung_pct": 2.6872569302735183,
+   "veraenderung_pct": 2.9159555640317025,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     345.700012,
     348.899994,
     349.799988,
-    359.200012
+    360.0
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.369998931884766,
+   "kurs": 39.33000183105469,
    "vortag": 40.56999969482422,
-   "veraenderung_pct": -2.9578525313436077,
+   "veraenderung_pct": -3.0564404069436724,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.529999,
     40.029999,
     40.57,
-    39.369999
+    39.330002
    ]
   }
  ],
@@ -374,17 +374,17 @@
   ],
   "artikel": [
    {
-    "titel": "Disney+ to stream upcoming Super Bowl",
-    "link": "https://www.cnbc.com/2026/10/07/disney-stream-super-bowl-2027.html",
-    "zeit": "2026-10-07T15:19:57+00:00",
+    "titel": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
+    "link": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
+    "zeit": "2026-10-07T15:46:21+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
-    "link": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
-    "zeit": "2026-10-07T15:03:53+00:00",
+    "titel": "Jim Cramer's key to Wednesday's market — plus, relief for Intel after a concerning report",
+    "link": "https://www.cnbc.com/investingclub/2026/10/07/jim-cramers-key-to-wednesday-market-plus-relief-for-intel-after-a-concerning-report.html",
+    "zeit": "2026-10-07T15:38:22+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -478,9 +478,9 @@
     "sprache": "en"
    },
    {
-    "titel": "10-year Treasury note yield hits highest level since 2002 as traders brace for key bond sale",
-    "link": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
-    "zeit": "2026-10-07T12:41:10+00:00",
+    "titel": "Home heating oil prices are soaring — and users' winter bills could rise 21%, federal outlook shows",
+    "link": "https://www.cnbc.com/2026/10/07/home-heating-oil-costs-winter.html",
+    "zeit": "2026-10-07T12:35:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
