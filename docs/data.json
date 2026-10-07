@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-07T10:22:30+02:00",
+ "aktualisiert": "2026-10-07T10:50:29+02:00",
  "kernaussagen": [
-  "SMI +0.05%, Nikkei 225 −0.92% am schwächsten",
-  "Franken stabil: EUR/CHF 0.9329 (+0.04%)",
-  "Bitcoin −1.82% auf 84'003 USD · Brent über 100 USD"
+  "SMI +0.40%, Nikkei 225 −0.92% am schwächsten",
+  "Franken stabil: EUR/CHF 0.9327 (+0.03%)",
+  "Bitcoin −1.86% auf 83'966 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13796.400390625,
+   "kurs": 13843.7802734375,
    "vortag": 13788.9296875,
-   "veraenderung_pct": 0.05417899209227972,
+   "veraenderung_pct": 0.3977871174963177,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13660.919922,
     13703.530273,
     13788.929688,
-    13796.400391
+    13843.780273
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25270.619140625,
+   "kurs": 25335.640625,
    "vortag": 25449.189453125,
-   "veraenderung_pct": -0.7016738699238689,
+   "veraenderung_pct": -0.4461785642884464,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25231.199219,
     25254.210938,
     25449.189453,
-    25270.619141
+    25335.640625
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6219.93994140625,
+   "kurs": 6233.97998046875,
    "vortag": 6272.22998046875,
-   "veraenderung_pct": -0.8336754109037336,
+   "veraenderung_pct": -0.6098309551643921,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6238.5,
     6242.140137,
     6272.22998,
-    6219.939941
+    6233.97998
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9328600168228149,
+   "kurs": 0.9327499866485596,
    "vortag": 0.932479977607727,
-   "veraenderung_pct": 0.040755750709298155,
+   "veraenderung_pct": 0.028956014854619738,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93414,
     0.93193,
     0.93248,
-    0.93286
+    0.93275
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8332899808883667,
+   "kurs": 0.833109974861145,
    "vortag": 0.8311200141906738,
-   "veraenderung_pct": 0.26108945286391627,
+   "veraenderung_pct": 0.2394312056615444,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83053,
     0.82811,
     0.83112,
-    0.83329
+    0.83311
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4157.2001953125,
+   "kurs": 4152.5,
    "vortag": 4187.10009765625,
-   "veraenderung_pct": -0.7140957141312798,
+   "veraenderung_pct": -0.8263499044509959,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4162.299805,
     4156.799805,
     4187.100098,
-    4157.200195
+    4152.5
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 101.0199966430664,
+   "kurs": 100.88999938964844,
    "vortag": 100.58000183105469,
-   "veraenderung_pct": 0.4374575502104072,
+   "veraenderung_pct": 0.30820993532536534,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.25,
     100.32,
     100.580002,
-    101.019997
+    100.889999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 84002.6796875,
+   "kurs": 83965.90625,
    "vortag": 85557.5625,
-   "veraenderung_pct": -1.8173528640440195,
+   "veraenderung_pct": -1.8603337957413202,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     86480.304688,
     85786.59375,
     85557.5625,
-    84002.679688
+    83965.90625
    ]
   }
  ],
@@ -278,17 +278,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.38999938964844,
-   "vortag": 74.4800033569336,
-   "veraenderung_pct": 1.2217991295647934,
+   "kurs": 75.5,
+   "vortag": 75.19999694824219,
+   "veraenderung_pct": 0.3989402445910839,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
-    76.019997,
     74.629997,
     74.779999,
     74.480003,
-    75.389999
+    75.199997,
+    75.5
    ]
   },
   {
@@ -297,17 +297,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 118.13999938964844,
-   "vortag": 116.4800033569336,
-   "veraenderung_pct": 1.4251339155855414,
+   "kurs": 118.81999969482422,
+   "vortag": 117.18000030517578,
+   "veraenderung_pct": 1.3995557137543413,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
-    119.959999,
     118.059998,
     116.339996,
     116.480003,
-    118.139999
+    117.18,
+    118.82
    ]
   },
   {
@@ -316,17 +316,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 352.29998779296875,
-   "vortag": 348.8999938964844,
-   "veraenderung_pct": 0.9744895259279129,
+   "kurs": 354.79998779296875,
+   "vortag": 349.79998779296875,
+   "veraenderung_pct": 1.4293882717226536,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
-    349.100006,
     349.0,
     345.700012,
     348.899994,
-    352.299988
+    349.799988,
+    354.799988
    ]
   },
   {
@@ -335,17 +335,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.290000915527344,
-   "vortag": 40.029998779296875,
-   "veraenderung_pct": 0.6495182217316042,
+   "kurs": 40.36000061035156,
+   "vortag": 40.56999969482422,
+   "veraenderung_pct": -0.5176216072277806,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
-    40.290001,
     39.060001,
     39.529999,
     40.029999,
-    40.290001
+    40.57,
+    40.360001
    ]
   }
  ],
@@ -374,9 +374,17 @@
   ],
   "artikel": [
    {
-    "titel": "Jaguar unveils $130,500 electric vehicle two years after controversial rebrand",
-    "link": "https://www.cnbc.com/2026/10/07/jaguar-electric-vehicle-autos-type-01.html",
-    "zeit": "2026-10-07T07:57:00+00:00",
+    "titel": "Chevron CEO warns against 'unwise' diesel export ban, saying it could make things worse",
+    "link": "https://www.cnbc.com/2026/10/07/chevron-ceo-diesel-export-ban-trump-supply.html",
+    "zeit": "2026-10-07T08:46:11+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Treasury yields rise ahead of closely-watched 10-year auction and FOMC minutes",
+    "link": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
+    "zeit": "2026-10-07T08:31:25+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -505,14 +513,6 @@
     "titel": "Trillions are being ‘wasted’ on the AI boom, Arthur Hayes says. He’s betting on what comes next",
     "link": "https://www.cnbc.com/2026/10/07/flop-ai-boom-arthur-hayes-bitcoin-bitmex-coinferencex-.html",
     "zeit": "2026-10-07T00:49:34+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Cramer says these blue-chip stocks are among the best ways to invest in the AI boom",
-    "link": "https://www.cnbc.com/2026/10/06/jim-cramer-ai-stocks.html",
-    "zeit": "2026-10-06T22:13:04+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
