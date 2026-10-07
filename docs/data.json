@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-07T21:20:39+02:00",
+ "aktualisiert": "2026-10-07T21:47:26+02:00",
  "kernaussagen": [
   "SMI +0.14%, Euro Stoxx 50 −1.47% am schwächsten",
-  "Franken stabil: EUR/CHF 0.9329 (+0.05%)",
-  "Bitcoin −2.49% auf 83'431 USD · Brent über 100 USD"
+  "Franken schwächer: EUR/CHF 0.9331 (+0.07%)",
+  "Bitcoin −2.57% auf 83'358 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7798.10986328125,
+   "kurs": 7797.72998046875,
    "vortag": 7818.93017578125,
-   "veraenderung_pct": -0.2662808342308809,
+   "veraenderung_pct": -0.2711393353807767,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7722.720215,
     7773.950195,
     7818.930176,
-    7798.109863
+    7797.72998
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27508.0,
+   "kurs": 27515.8359375,
    "vortag": 27599.7890625,
-   "veraenderung_pct": -0.33257160876173364,
+   "veraenderung_pct": -0.3041803138780774,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27190.859375,
     27477.310547,
     27599.789062,
-    27508.0
+    27515.835938
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9329000115394592,
+   "kurs": 0.9331099987030029,
    "vortag": 0.932479977607727,
-   "veraenderung_pct": 0.045044820459283486,
+   "veraenderung_pct": 0.06756403466079419,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93414,
     0.93193,
     0.93248,
-    0.9329
+    0.93311
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8330900073051453,
+   "kurs": 0.8334900140762329,
    "vortag": 0.8311200141906738,
-   "veraenderung_pct": 0.2370287179751962,
+   "veraenderung_pct": 0.2851573593576573,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83053,
     0.82811,
     0.83112,
-    0.83309
+    0.83349
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4132.39990234375,
+   "kurs": 4131.89990234375,
    "vortag": 4187.10009765625,
-   "veraenderung_pct": -1.3063980806935716,
+   "veraenderung_pct": -1.3183395195973113,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4162.299805,
     4156.799805,
     4187.100098,
-    4132.399902
+    4131.899902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 100.9800033569336,
+   "kurs": 100.98999786376953,
    "vortag": 100.58000183105469,
-   "veraenderung_pct": 0.3976948882450815,
+   "veraenderung_pct": 0.40763176103686405,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     102.25,
     100.32,
     100.580002,
-    100.980003
+    100.989998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83430.84375,
+   "kurs": 83358.0703125,
    "vortag": 85557.5625,
-   "veraenderung_pct": -2.4857168529082374,
+   "veraenderung_pct": -2.5707747196514585,
    "datum": "2026-10-07",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     86480.304688,
     85786.59375,
     85557.5625,
-    83430.84375
+    83358.070312
    ]
   }
  ],
@@ -374,6 +374,22 @@
   ],
   "artikel": [
    {
+    "titel": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+    "link": "https://www.cnbc.com/2026/10/07/spacex-nvidia-chips-apollo-financing.html",
+    "zeit": "2026-10-07T19:42:31+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Americans grow more pessimistic about their finances, New York Fed finds — expert warns of ‘tough choices’ ahead",
+    "link": "https://www.cnbc.com/2026/10/07/new-york-fed-financial-outlook-inflation.html",
+    "zeit": "2026-10-07T19:40:31+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Oil prices fall as IEA members agree to prioritize release of diesel stocks",
     "link": "https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html",
     "zeit": "2026-10-07T19:17:01+00:00",
@@ -433,22 +449,6 @@
     "titel": "Strange market anomaly is creating a buying opportunity in the Nasdaq 100",
     "link": "https://www.cnbc.com/2026/10/07/strange-market-anomaly-is-creating-a-buying-opportunity-in-the-nasdaq-100.html",
     "zeit": "2026-10-07T18:44:33+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Fed officials see another hike coming, but no sign as to when, minutes show",
-    "link": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html",
-    "zeit": "2026-10-07T18:42:36+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Americans grow more pessimistic about their finances, New York Fed finds — expert warns of ‘tough choices’ ahead",
-    "link": "https://www.cnbc.com/2026/10/07/new-york-fed-financial-outlook-inflation.html",
-    "zeit": "2026-10-07T18:24:12+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
