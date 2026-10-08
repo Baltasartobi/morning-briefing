@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-08T08:56:34+02:00",
+ "aktualisiert": "2026-10-08T09:22:05+02:00",
  "kernaussagen": [
-  "SMI +0.14%, Euro Stoxx 50 −1.47% am schwächsten",
+  "Nikkei 225 −1.42% am schwächsten",
   "Franken schwächer: EUR/CHF 0.9365 (+0.43%)",
-  "Bitcoin −3.16% auf 82'851 USD · Brent über 100 USD"
+  "Brent über 100 USD: 104.01 (+3.80%)"
  ],
  "maerkte": [
   {
@@ -11,19 +11,7 @@
    "symbol": "^SSMI",
    "einheit": "",
    "dezimalen": 2,
-   "verfuegbar": true,
-   "kurs": 13808.419921875,
-   "vortag": 13788.9296875,
-   "veraenderung_pct": 0.14134697048073797,
-   "datum": "2026-10-07",
-   "ist_heute": false,
-   "verlauf": [
-    13622.849609,
-    13660.919922,
-    13703.530273,
-    13788.929688,
-    13808.419922
-   ]
+   "verfuegbar": false
   },
   {
    "name": "DAX",
@@ -31,17 +19,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25104.359375,
-   "vortag": 25449.189453125,
-   "veraenderung_pct": -1.354974698742939,
-   "datum": "2026-10-07",
-   "ist_heute": false,
+   "kurs": 24832.609375,
+   "vortag": 25104.359375,
+   "veraenderung_pct": -1.0824813170521308,
+   "datum": "2026-10-08",
+   "ist_heute": true,
    "verlauf": [
-    24939.349609,
     25231.199219,
     25254.210938,
     25449.189453,
-    25104.359375
+    25104.359375,
+    24832.609375
    ]
   },
   {
@@ -50,17 +38,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6180.2900390625,
-   "vortag": 6272.22998046875,
-   "veraenderung_pct": -1.4658254192295939,
-   "datum": "2026-10-07",
-   "ist_heute": false,
+   "kurs": 6096.5498046875,
+   "vortag": 6180.2900390625,
+   "veraenderung_pct": -1.354956383045458,
+   "datum": "2026-10-08",
+   "ist_heute": true,
    "verlauf": [
-    6175.450195,
     6238.5,
     6242.140137,
     6272.22998,
-    6180.290039
+    6180.290039,
+    6096.549805
    ]
   },
   {
@@ -147,9 +135,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8329499959945679,
+   "kurs": 0.8332599997520447,
    "vortag": 0.8321800231933594,
-   "veraenderung_pct": 0.09252478787629137,
+   "veraenderung_pct": 0.12977679451389168,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +145,7 @@
     0.82811,
     0.83112,
     0.83218,
-    0.83295
+    0.83326
    ]
   },
   {
@@ -166,9 +154,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4149.10009765625,
+   "kurs": 4148.2998046875,
    "vortag": 4140.7001953125,
-   "veraenderung_pct": 0.20286188198941346,
+   "veraenderung_pct": 0.18353440279503808,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +164,7 @@
     4156.799805,
     4187.100098,
     4140.700195,
-    4149.100098
+    4148.299805
    ]
   },
   {
@@ -185,9 +173,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 103.2699966430664,
+   "kurs": 104.01000213623047,
    "vortag": 100.19999694824219,
-   "veraenderung_pct": 3.063872044237703,
+   "veraenderung_pct": 3.8024005030222963,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +183,7 @@
     100.32,
     100.580002,
     100.199997,
-    103.269997
+    104.010002
    ]
   },
   {
@@ -204,17 +192,17 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82850.53125,
-   "vortag": 85557.5625,
-   "veraenderung_pct": -3.1639882798203844,
+   "kurs": 83136.53125,
+   "vortag": 83275.9296875,
+   "veraenderung_pct": -0.16739343292005993,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
-    84763.578125,
     86480.304688,
     85786.59375,
     85557.5625,
-    82850.53125
+    83275.929688,
+    83136.53125
    ]
   }
  ],
@@ -278,17 +266,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.19999694824219,
-   "vortag": 74.4800033569336,
-   "veraenderung_pct": 0.9666938223111154,
-   "datum": "2026-10-06",
-   "ist_heute": false,
+   "kurs": 75.25,
+   "vortag": 75.19999694824219,
+   "veraenderung_pct": 0.06649342258913116,
+   "datum": "2026-10-08",
+   "ist_heute": true,
    "verlauf": [
-    76.019997,
     74.629997,
     74.779999,
     74.480003,
-    75.199997
+    75.199997,
+    75.25
    ]
   },
   {
@@ -297,17 +285,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 120.0199966430664,
-   "vortag": 117.18000030517578,
-   "veraenderung_pct": 2.4236186469485554,
-   "datum": "2026-10-07",
-   "ist_heute": false,
+   "kurs": 118.91999816894531,
+   "vortag": 120.0199966430664,
+   "veraenderung_pct": -0.9165126686284109,
+   "datum": "2026-10-08",
+   "ist_heute": true,
    "verlauf": [
-    118.059998,
     116.339996,
     116.480003,
     117.18,
-    120.019997
+    120.019997,
+    118.919998
    ]
   },
   {
@@ -316,17 +304,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 349.79998779296875,
-   "vortag": 348.8999938964844,
-   "veraenderung_pct": 0.25795182351060486,
-   "datum": "2026-10-06",
-   "ist_heute": false,
+   "kurs": 355.29998779296875,
+   "vortag": 349.79998779296875,
+   "veraenderung_pct": 1.5723270988949212,
+   "datum": "2026-10-08",
+   "ist_heute": true,
    "verlauf": [
-    349.100006,
     349.0,
     345.700012,
     348.899994,
-    349.799988
+    349.799988,
+    355.299988
    ]
   },
   {
@@ -335,17 +323,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.33000183105469,
-   "vortag": 40.56999969482422,
-   "veraenderung_pct": -3.0564404069436724,
-   "datum": "2026-10-07",
-   "ist_heute": false,
+   "kurs": 38.95000076293945,
+   "vortag": 39.33000183105469,
+   "veraenderung_pct": -0.9661862456746384,
+   "datum": "2026-10-08",
+   "ist_heute": true,
    "verlauf": [
-    39.060001,
     39.529999,
     40.029999,
     40.57,
-    39.330002
+    39.330002,
+    38.950001
    ]
   }
  ],
@@ -374,17 +362,17 @@
   ],
   "artikel": [
    {
-    "titel": "TSMC’s September sales surge year-over-year as AI drives chip demand",
-    "link": "https://www.cnbc.com/2026/10/08/tsmc-september-sales-hit-another-record-as-ai-boom-rolls-on.html",
-    "zeit": "2026-10-08T06:50:42+00:00",
+    "titel": "AI startup Manus raises $500 million in first funding round since Meta breakup",
+    "link": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
+    "zeit": "2026-10-08T06:59:59+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "AI startup Manus raises $500 million in first funding round since Meta breakup",
-    "link": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
-    "zeit": "2026-10-08T06:32:57+00:00",
+    "titel": "TSMC’s September sales surge year-over-year as AI drives chip demand",
+    "link": "https://www.cnbc.com/2026/10/08/tsmc-september-sales-hit-another-record-as-ai-boom-rolls-on.html",
+    "zeit": "2026-10-08T06:50:42+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
