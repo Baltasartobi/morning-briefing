@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-08T13:21:01+02:00",
+ "aktualisiert": "2026-10-08T13:49:11+02:00",
  "kernaussagen": [
-  "SMI −1.14%, Nikkei 225 −1.42% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9319 (−0.50%)",
-  "Brent über 100 USD: 105.46 (+5.25%)"
+  "SMI −1.13%, Nikkei 225 −1.42% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9317 (−0.51%)",
+  "Brent über 100 USD: 104.96 (+4.75%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13651.650390625,
+   "kurs": 13652.3896484375,
    "vortag": 13808.419921875,
-   "veraenderung_pct": -1.1353183936827493,
+   "veraenderung_pct": -1.129964719499299,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13703.530273,
     13788.929688,
     13808.419922,
-    13651.650391
+    13652.389648
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 24831.330078125,
+   "kurs": 24826.9296875,
    "vortag": 25104.359375,
-   "veraenderung_pct": -1.0875772322909594,
+   "veraenderung_pct": -1.1051056247078583,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25254.210938,
     25449.189453,
     25104.359375,
-    24831.330078
+    24826.929688
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6105.22021484375,
+   "kurs": 6105.97021484375,
    "vortag": 6180.2900390625,
-   "veraenderung_pct": -1.214665068213161,
+   "veraenderung_pct": -1.202529715418077,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6242.140137,
     6272.22998,
     6180.290039,
-    6105.220215
+    6105.970215
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9318699836730957,
+   "kurs": 0.9317499995231628,
    "vortag": 0.936519980430603,
-   "veraenderung_pct": -0.4965186920378728,
+   "veraenderung_pct": -0.5093303941307248,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93193,
     0.93248,
     0.93652,
-    0.93187
+    0.93175
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8337399959564209,
+   "kurs": 0.8335400223731995,
    "vortag": 0.8321800231933594,
-   "veraenderung_pct": 0.1874561656834084,
+   "veraenderung_pct": 0.1634260787252817,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82811,
     0.83112,
     0.83218,
-    0.83374
+    0.83354
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4139.89990234375,
+   "kurs": 4146.10009765625,
    "vortag": 4140.7001953125,
-   "veraenderung_pct": -0.019327479194364283,
+   "veraenderung_pct": 0.13041036754757318,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4156.799805,
     4187.100098,
     4140.700195,
-    4139.899902
+    4146.100098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.45999908447266,
+   "kurs": 104.95999908447266,
    "vortag": 100.19999694824219,
-   "veraenderung_pct": 5.249503289852897,
+   "veraenderung_pct": 4.750501278646979,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.32,
     100.580002,
     100.199997,
-    105.459999
+    104.959999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82362.203125,
+   "kurs": 82463.546875,
    "vortag": 83275.9296875,
-   "veraenderung_pct": -1.0972276934389513,
+   "veraenderung_pct": -0.9755313636828022,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85786.59375,
     85557.5625,
     83275.929688,
-    82362.203125
+    82463.546875
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.83000183105469,
+   "kurs": 75.98999786376953,
    "vortag": 75.55999755859375,
-   "veraenderung_pct": 0.3573375875926432,
+   "veraenderung_pct": 0.5690845937922795,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     74.480003,
     75.199997,
     75.559998,
-    75.830002
+    75.989998
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 118.5199966430664,
+   "kurs": 118.45999908447266,
    "vortag": 120.0199966430664,
-   "veraenderung_pct": -1.2497917363395117,
+   "veraenderung_pct": -1.2997813716268514,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     116.480003,
     117.18,
     120.019997,
-    118.519997
+    118.459999
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 353.5,
+   "kurs": 353.79998779296875,
    "vortag": 360.0,
-   "veraenderung_pct": -1.8055555555555602,
+   "veraenderung_pct": -1.7222256130642322,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     348.899994,
     349.799988,
     360.0,
-    353.5
+    353.799988
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.97999954223633,
+   "kurs": 38.939998626708984,
    "vortag": 39.33000183105469,
-   "veraenderung_pct": -0.8899117023228764,
+   "veraenderung_pct": -0.9916175595948262,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.029999,
     40.57,
     39.330002,
-    38.98
+    38.939999
    ]
   }
  ],
@@ -374,9 +374,17 @@
   ],
   "artikel": [
    {
+    "titel": "Trump says he doesn't want Iran deal as U.S. reportedly prepares for 'massive bombing'",
+    "link": "https://www.cnbc.com/2026/10/08/us-iran-war-trump-hormuz.html",
+    "zeit": "2026-10-08T11:42:48+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Why REITs aren't getting killed by rising interest rates this time around",
     "link": "https://www.cnbc.com/2026/10/08/why-reits-arent-getting-killed-by-rising-interest-rates-this-time.html",
-    "zeit": "2026-10-08T11:04:46+00:00",
+    "zeit": "2026-10-08T11:28:53+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -425,14 +433,6 @@
     "titel": "Republican megadonors dominate 2026 midterm election as crypto and AI money surges, CNBC analysis finds",
     "link": "https://www.cnbc.com/2026/10/08/2026-midterm-election-megadonors.html",
     "zeit": "2026-10-08T10:00:02+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trump says he doesn't want Iran deal as U.S. reportedly prepares for 'massive bombing'",
-    "link": "https://www.cnbc.com/2026/10/08/us-iran-war-trump-hormuz.html",
-    "zeit": "2026-10-08T09:45:20+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -558,6 +558,14 @@
     "sprache": "de"
    },
    {
+    "titel": "Vier von fünf unabhängigen Vermögensverwaltern erwarten Zinsdeckel",
+    "link": "https://www.finews.ch/news/finanzplatz/73893-aquila-vermoegensverwalter-index-avi-q3-2026-zinsen-anleihenstreik-silvano-marchesi",
+    "zeit": "2026-10-07T11:22:53+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Raiffeisen schraubt Konjunkturprognose kräftig nach oben",
     "link": "https://www.finews.ch/news/finanzplatz/73891-raiffeisen-prognose-konjunktur-schweiz-inflation-snb-zinsen",
     "zeit": "2026-10-07T10:44:42+00:00",
@@ -601,14 +609,6 @@
     "titel": "Vaudoise AM erweitert Verwaltungsrat",
     "link": "https://www.finews.ch/news/versicherungen/73882-vaudoise-asset-management-neue-mitglieder-verwaltungsrat",
     "zeit": "2026-10-07T07:13:40+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Junge Schweizer überholen beim ETF-Wissen",
-    "link": "https://www.finews.ch/news/banken/73881-finanzwissen-etfs-16-bis-29-jaehrige-wissensgraben-maenner-frauen-selbst-investieren-ohne-finanzanlagen",
-    "zeit": "2026-10-07T07:05:59+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
