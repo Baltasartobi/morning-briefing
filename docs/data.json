@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-08T12:22:14+02:00",
+ "aktualisiert": "2026-10-08T12:50:14+02:00",
  "kernaussagen": [
-  "SMI −1.05%, Nikkei 225 −1.42% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9325 (−0.43%)",
-  "Brent über 100 USD: 104.38 (+4.17%)"
+  "SMI −1.37%, Nikkei 225 −1.42% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9324 (−0.44%)",
+  "Brent über 100 USD: 105.22 (+5.01%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13663.9404296875,
+   "kurs": 13619.4599609375,
    "vortag": 13808.419921875,
-   "veraenderung_pct": -1.0463144444109673,
+   "veraenderung_pct": -1.368440140194127,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13703.530273,
     13788.929688,
     13808.419922,
-    13663.94043
+    13619.459961
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 24893.169921875,
+   "kurs": 24797.240234375,
    "vortag": 25104.359375,
-   "veraenderung_pct": -0.8412461356624434,
+   "veraenderung_pct": -1.2233697583649228,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25254.210938,
     25449.189453,
     25104.359375,
-    24893.169922
+    24797.240234
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6110.8798828125,
+   "kurs": 6093.0498046875,
    "vortag": 6180.2900390625,
-   "veraenderung_pct": -1.123088978208031,
+   "veraenderung_pct": -1.4115880294225391,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6242.140137,
     6272.22998,
     6180.290039,
-    6110.879883
+    6093.049805
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9324700236320496,
+   "kurs": 0.9323599934577942,
    "vortag": 0.936519980430603,
-   "veraenderung_pct": -0.43244745260975215,
+   "veraenderung_pct": -0.44419628622297536,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93193,
     0.93248,
     0.93652,
-    0.93247
+    0.93236
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8340100049972534,
-   "vortag": 0.8321800231933594,
-   "veraenderung_pct": 0.21990215492937448,
-   "datum": "2026-10-08",
-   "ist_heute": true,
+   "kurs": 0.8321800231933594,
+   "vortag": 0.8311200141906738,
+   "veraenderung_pct": 0.12753982392275098,
+   "datum": "2026-10-07",
+   "ist_heute": false,
    "verlauf": [
+    0.83566,
     0.83053,
     0.82811,
     0.83112,
-    0.83218,
-    0.83401
+    0.83218
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4146.7001953125,
+   "kurs": 4136.2001953125,
    "vortag": 4140.7001953125,
-   "veraenderung_pct": 0.14490302888368056,
+   "veraenderung_pct": -0.10867727166276042,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4156.799805,
     4187.100098,
     4140.700195,
-    4146.700195
+    4136.200195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.37999725341797,
+   "kurs": 105.22000122070312,
    "vortag": 100.19999694824219,
-   "veraenderung_pct": 4.171657118248162,
+   "veraenderung_pct": 5.009984456440653,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.32,
     100.580002,
     100.199997,
-    104.379997
+    105.220001
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82899.71875,
+   "kurs": 82614.9921875,
    "vortag": 83275.9296875,
-   "veraenderung_pct": -0.451764320028325,
+   "veraenderung_pct": -0.793671715800981,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85786.59375,
     85557.5625,
     83275.929688,
-    82899.71875
+    82614.992188
    ]
   }
  ],
@@ -240,17 +240,17 @@
    "name": "Deutschland",
    "quelle": "bundesbank",
    "verfuegbar": true,
-   "wert": 3.55,
-   "vortag": 3.52,
-   "veraenderung_bp": 3.0,
-   "datum": "2026-10-07",
-   "ist_heute": false,
+   "wert": 3.57,
+   "vortag": 3.55,
+   "veraenderung_bp": 2.0,
+   "datum": "2026-10-08",
+   "ist_heute": true,
    "verlauf": [
-    3.66,
     3.49,
     3.51,
     3.52,
-    3.55
+    3.55,
+    3.57
    ]
   },
   {
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.52999877929688,
+   "kurs": 75.48999786376953,
    "vortag": 75.55999755859375,
-   "veraenderung_pct": -0.03970193259152932,
+   "veraenderung_pct": -0.0926412084250483,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     74.480003,
     75.199997,
     75.559998,
-    75.529999
+    75.489998
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 118.5199966430664,
+   "kurs": 118.18000030517578,
    "vortag": 120.0199966430664,
-   "veraenderung_pct": -1.2497917363395117,
+   "veraenderung_pct": -1.5330748119937732,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     116.480003,
     117.18,
     120.019997,
-    118.519997
+    118.18
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 353.79998779296875,
+   "kurs": 353.0,
    "vortag": 360.0,
-   "veraenderung_pct": -1.7222256130642322,
+   "veraenderung_pct": -1.9444444444444486,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     348.899994,
     349.799988,
     360.0,
-    353.799988
+    353.0
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.06999969482422,
+   "kurs": 38.900001525878906,
    "vortag": 39.33000183105469,
-   "veraenderung_pct": -0.6610783730632175,
+   "veraenderung_pct": -1.0933137176623697,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.029999,
     40.57,
     39.330002,
-    39.07
+    38.900002
    ]
   }
  ],
@@ -374,6 +374,14 @@
   ],
   "artikel": [
    {
+    "titel": "PepsiCo cuts earnings forecast as North American turnaround takes longer than expected",
+    "link": "https://www.cnbc.com/2026/10/08/pepsico-pep-q3-2026-earnings.html",
+    "zeit": "2026-10-08T10:38:59+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "CNBC's No. 1 financial advisor takes a family-office approach: 'There is real value in all of those relationships'",
     "link": "https://www.cnbc.com/2026/10/08/howland-capital-management-top-financial-advisor-strategy.html",
     "zeit": "2026-10-08T10:19:53+00:00",
@@ -385,14 +393,6 @@
     "titel": "CNBC's Financial Advisor 100: Best financial advisors, top firms for 2026 ranked",
     "link": "https://www.cnbc.com/2026/10/08/best-financial-advisors.html",
     "zeit": "2026-10-08T10:07:13+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "PepsiCo earnings top estimates, but company lowers full-year forecast",
-    "link": "https://www.cnbc.com/2026/10/08/pepsico-pep-q3-2026-earnings.html",
-    "zeit": "2026-10-08T10:06:04+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
