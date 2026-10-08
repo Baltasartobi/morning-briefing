@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-08T18:52:06+02:00",
+ "aktualisiert": "2026-10-08T19:19:25+02:00",
  "kernaussagen": [
-  "SMI −1.24%, DAX −1.18% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9326 (−0.42%)",
-  "Brent über 100 USD: 103.70 (+3.49%)"
+  "SMI −1.24%, Nasdaq −1.29% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9321 (−0.47%)",
+  "Brent über 100 USD: 103.33 (+3.12%)"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7760.66015625,
+   "kurs": 7752.08984375,
    "vortag": 7801.77001953125,
-   "veraenderung_pct": -0.5269299553605666,
+   "veraenderung_pct": -0.636780828669381,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7773.950195,
     7818.930176,
     7801.77002,
-    7760.660156
+    7752.089844
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27267.78125,
+   "kurs": 27183.470703125,
    "vortag": 27538.689453125,
-   "veraenderung_pct": -0.9837367300507438,
+   "veraenderung_pct": -1.289889813401024,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27477.310547,
     27599.789062,
     27538.689453,
-    27267.78125
+    27183.470703
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9325799942016602,
+   "kurs": 0.9321100115776062,
    "vortag": 0.936519980430603,
-   "veraenderung_pct": -0.4207049834784371,
+   "veraenderung_pct": -0.47088892337023847,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93193,
     0.93248,
     0.93652,
-    0.93258
+    0.93211
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8329499959945679,
+   "kurs": 0.8310700058937073,
    "vortag": 0.8321800231933594,
-   "veraenderung_pct": 0.09252478787629137,
+   "veraenderung_pct": -0.13338667941013016,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82811,
     0.83112,
     0.83218,
-    0.83295
+    0.83107
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4145.10009765625,
+   "kurs": 4156.2998046875,
    "vortag": 4140.7001953125,
-   "veraenderung_pct": 0.10625986273362642,
+   "veraenderung_pct": 0.37673844130661216,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4156.799805,
     4187.100098,
     4140.700195,
-    4145.100098
+    4156.299805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 103.69999694824219,
+   "kurs": 103.33000183105469,
    "vortag": 100.19999694824219,
-   "veraenderung_pct": 3.4930140784414476,
+   "veraenderung_pct": 3.123757463215582,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.32,
     100.580002,
     100.199997,
-    103.699997
+    103.330002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80968.1015625,
+   "kurs": 80798.140625,
    "vortag": 83275.9296875,
-   "veraenderung_pct": -2.771302744574955,
+   "veraenderung_pct": -2.9753964582540426,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85786.59375,
     85557.5625,
     83275.929688,
-    80968.101562
+    80798.140625
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.269,
+   "wert": 5.261,
    "vortag": 5.277,
-   "veraenderung_bp": -0.8,
+   "veraenderung_bp": -1.6,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.311,
     5.269,
     5.277,
-    5.269
+    5.261
    ]
   }
  ],
@@ -374,9 +374,17 @@
   ],
   "artikel": [
    {
+    "titel": "CNBC's Financial Advisor 100: Best financial advisors, top firms for 2026 ranked",
+    "link": "https://www.cnbc.com/2026/10/08/best-financial-advisors.html",
+    "zeit": "2026-10-08T17:18:57+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Trump says U.S. will not attack Iran before midterm election",
     "link": "https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html",
-    "zeit": "2026-10-08T16:50:52+00:00",
+    "zeit": "2026-10-08T17:07:54+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -441,14 +449,6 @@
     "titel": "Sports gambling seeps even deeper into Wall Street's world as hundreds of pro team ETFs emerge",
     "link": "https://www.cnbc.com/2026/10/08/sports-team-etfs-prediction-markets-futures-gambling.html",
     "zeit": "2026-10-08T15:56:39+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
-    "link": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
-    "zeit": "2026-10-08T15:49:36+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
