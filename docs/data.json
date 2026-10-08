@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-08T08:27:01+02:00",
+ "aktualisiert": "2026-10-08T08:56:34+02:00",
  "kernaussagen": [
   "SMI +0.14%, Euro Stoxx 50 −1.47% am schwächsten",
   "Franken schwächer: EUR/CHF 0.9365 (+0.43%)",
-  "Bitcoin −3.52% auf 82'546 USD · Brent über 100 USD"
+  "Bitcoin −3.16% auf 82'851 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 69390.7421875,
+   "kurs": 69042.109375,
    "vortag": 70035.7109375,
-   "veraenderung_pct": -0.9209141184781777,
+   "veraenderung_pct": -1.4187070413073877,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     69946.859375,
     70683.976562,
     70035.710938,
-    69390.742188
+    69042.109375
    ]
   }
  ],
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8330699801445007,
+   "kurs": 0.8329499959945679,
    "vortag": 0.8321800231933594,
-   "veraenderung_pct": 0.10694284005114962,
+   "veraenderung_pct": 0.09252478787629137,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82811,
     0.83112,
     0.83218,
-    0.83307
+    0.83295
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4144.0,
+   "kurs": 4149.10009765625,
    "vortag": 4140.7001953125,
-   "veraenderung_pct": 0.07969194899055676,
+   "veraenderung_pct": 0.20286188198941346,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4156.799805,
     4187.100098,
     4140.700195,
-    4144.0
+    4149.100098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 102.75,
+   "kurs": 103.2699966430664,
    "vortag": 100.19999694824219,
-   "veraenderung_pct": 2.5449133028167648,
+   "veraenderung_pct": 3.063872044237703,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.32,
     100.580002,
     100.199997,
-    102.75
+    103.269997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82545.5390625,
+   "kurs": 82850.53125,
    "vortag": 85557.5625,
-   "veraenderung_pct": -3.5204642926801477,
+   "veraenderung_pct": -3.1639882798203844,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     86480.304688,
     85786.59375,
     85557.5625,
-    82545.539062
+    82850.53125
    ]
   }
  ],
@@ -223,17 +223,17 @@
    "name": "Schweiz",
    "quelle": "snb",
    "verfuegbar": true,
-   "wert": 0.55,
-   "vortag": 0.556,
-   "veraenderung_bp": -0.6,
-   "datum": "2026-10-06",
+   "wert": 0.558,
+   "vortag": 0.55,
+   "veraenderung_bp": 0.8,
+   "datum": "2026-10-07",
    "ist_heute": false,
    "verlauf": [
-    0.586,
     0.639,
     0.57,
     0.556,
-    0.55
+    0.55,
+    0.558
    ]
   },
   {
@@ -374,9 +374,17 @@
   ],
   "artikel": [
    {
-    "titel": "TSMC's September sales jump more than 50% year over year",
+    "titel": "TSMC’s September sales surge year-over-year as AI drives chip demand",
     "link": "https://www.cnbc.com/2026/10/08/tsmc-september-sales-hit-another-record-as-ai-boom-rolls-on.html",
-    "zeit": "2026-10-08T06:12:16+00:00",
+    "zeit": "2026-10-08T06:50:42+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "AI startup Manus raises $500 million in first funding round since Meta breakup",
+    "link": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
+    "zeit": "2026-10-08T06:32:57+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -396,6 +404,14 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Frankencoin wird an internationalen Kryptobörse gelistet",
+    "link": "https://www.finews.ch/news/finanzplatz/73899-frankencoin-listing-kraken-kryptoboerse",
+    "zeit": "2026-10-08T04:41:58+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Prominente Zürcher Freisinnige lobbyieren gegen zu strenge UBS-Kapitalvorschriften",
@@ -489,14 +505,6 @@
     "titel": "Anthropic will be 'most ridiculous IPO' of year, analyst says",
     "link": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
     "zeit": "2026-10-07T22:29:41+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Cramer says higher rates are splitting the market in two — and AI stocks have a big advantage",
-    "link": "https://www.cnbc.com/2026/10/07/jim-cramer-spacex-wall-street-bull-case.html",
-    "zeit": "2026-10-07T22:22:32+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -601,14 +609,6 @@
     "titel": "Immobilienpreise steigen etwas langsamer",
     "link": "https://www.finews.ch/news/finanzplatz/73877-wohneigentum-wohnungen-einfamilienhaeuser-iazi",
     "zeit": "2026-10-07T05:40:19+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Schweizer Vermögensverwalter setzen bei Alternativen stärker auf KI",
-    "link": "https://www.finews.ch/news/finanzplatz/73875-schweizer-vermoegensverwalter-setzen-bei-alternativen-staerker-auf-ki",
-    "zeit": "2026-10-07T04:16:01+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
