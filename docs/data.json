@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-08T21:20:18+02:00",
+ "aktualisiert": "2026-10-08T21:49:11+02:00",
  "kernaussagen": [
-  "SMI −1.24%, Nasdaq −1.39% am schwächsten",
-  "Franken schwächer: EUR/CHF 0.9365 (+0.43%)",
-  "Brent über 100 USD: 104.30 (+4.09%)"
+  "SMI −1.24%, Nasdaq −1.29% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9322 (−0.47%)",
+  "Brent über 100 USD: 104.04 (+3.83%)"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7756.7998046875,
+   "kurs": 7762.10986328125,
    "vortag": 7801.77001953125,
-   "veraenderung_pct": -0.5764104136775305,
+   "veraenderung_pct": -0.508348184459595,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7773.950195,
     7818.930176,
     7801.77002,
-    7756.799805
+    7762.109863
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27155.634765625,
+   "kurs": 27183.392578125,
    "vortag": 27538.689453125,
-   "veraenderung_pct": -1.3909691968167825,
+   "veraenderung_pct": -1.2901735051871976,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27477.310547,
     27599.789062,
     27538.689453,
-    27155.634766
+    27183.392578
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.936519980430603,
-   "vortag": 0.932479977607727,
-   "veraenderung_pct": 0.4332535732553211,
-   "datum": "2026-10-07",
-   "ist_heute": false,
+   "kurs": 0.9321500062942505,
+   "vortag": 0.936519980430603,
+   "veraenderung_pct": -0.46661835600595447,
+   "datum": "2026-10-08",
+   "ist_heute": true,
    "verlauf": [
-    0.94654,
     0.93414,
     0.93193,
     0.93248,
-    0.93652
+    0.93652,
+    0.93215
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8313900232315063,
+   "kurs": 0.8314499855041504,
    "vortag": 0.8321800231933594,
-   "veraenderung_pct": -0.09493137780711702,
+   "veraenderung_pct": -0.08772593295469644,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82811,
     0.83112,
     0.83218,
-    0.83139
+    0.83145
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4153.7001953125,
+   "kurs": 4158.2998046875,
    "vortag": 4140.7001953125,
-   "veraenderung_pct": 0.3139565625812857,
+   "veraenderung_pct": 0.4250394509345057,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4156.799805,
     4187.100098,
     4140.700195,
-    4153.700195
+    4158.299805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.30000305175781,
+   "kurs": 104.04000091552734,
    "vortag": 100.19999694824219,
-   "veraenderung_pct": 4.091822583221694,
+   "veraenderung_pct": 3.83233940542802,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.32,
     100.580002,
     100.199997,
-    104.300003
+    104.040001
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81585.8203125,
+   "kurs": 81705.0703125,
    "vortag": 83275.9296875,
-   "veraenderung_pct": -2.0295292785589725,
+   "veraenderung_pct": -1.8863306370697774,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85786.59375,
     85557.5625,
     83275.929688,
-    81585.820312
+    81705.070312
    ]
   }
  ],
@@ -374,9 +374,33 @@
   ],
   "artikel": [
    {
+    "titel": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
+    "link": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+    "zeit": "2026-10-08T19:47:53+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Treasury yields are 'really, really high,' but can come down soon, Bessent's new adviser says",
+    "link": "https://www.cnbc.com/2026/10/08/treasury-yields-david-zervos.html",
+    "zeit": "2026-10-08T19:38:14+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Why a Starbucks takeover of Chipotle would — and wouldn't — make sense for both companies",
     "link": "https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html",
     "zeit": "2026-10-08T19:15:26+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "New data shows Starbucks turnaround is working, but Chipotle takeover report slams shares",
+    "link": "https://www.cnbc.com/investingclub/2026/10/08/new-data-shows-starbucks-turn-is-working-but-chipotle-takeover-report-slams-shares.html",
+    "zeit": "2026-10-08T19:08:07+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -398,25 +422,9 @@
     "sprache": "en"
    },
    {
-    "titel": "We're buying the dip in a stock being punished for something it's actually insulated from",
-    "link": "https://www.cnbc.com/investingclub/2026/10/08/were-buying-the-dip-in-a-stock-being-punished-for-something-its-actually-insulated-from.html",
-    "zeit": "2026-10-08T18:49:27+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "We're adding to our position in a hard-hit stock before important catalysts arrive",
     "link": "https://www.cnbc.com/investingclub/2026/10/08/were-adding-to-our-position-in-a-hard-hit-stock-before-important-catalysts-arrive.html",
     "zeit": "2026-10-08T18:26:43+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
-    "link": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-    "zeit": "2026-10-08T18:18:31+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -441,14 +449,6 @@
     "titel": "Trump says U.S. will not attack Iran before midterm election",
     "link": "https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html",
     "zeit": "2026-10-08T17:41:20+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
-    "link": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
-    "zeit": "2026-10-08T17:31:03+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
