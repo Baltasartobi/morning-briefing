@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-08T13:49:11+02:00",
+ "aktualisiert": "2026-10-08T14:26:59+02:00",
  "kernaussagen": [
-  "SMI −1.13%, Nikkei 225 −1.42% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9317 (−0.51%)",
-  "Brent über 100 USD: 104.96 (+4.75%)"
+  "SMI −0.79%, Nikkei 225 −1.42% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9327 (−0.41%)",
+  "Brent über 100 USD: 105.10 (+4.89%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13652.3896484375,
+   "kurs": 13699.2099609375,
    "vortag": 13808.419921875,
-   "veraenderung_pct": -1.129964719499299,
+   "veraenderung_pct": -0.7908939730641551,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13703.530273,
     13788.929688,
     13808.419922,
-    13652.389648
+    13699.209961
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 24826.9296875,
+   "kurs": 24890.890625,
    "vortag": 25104.359375,
-   "veraenderung_pct": -1.1051056247078583,
+   "veraenderung_pct": -0.8503254228131474,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25254.210938,
     25449.189453,
     25104.359375,
-    24826.929688
+    24890.890625
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6105.97021484375,
+   "kurs": 6128.22021484375,
    "vortag": 6180.2900390625,
-   "veraenderung_pct": -1.202529715418077,
+   "veraenderung_pct": -0.8425142491637616,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6242.140137,
     6272.22998,
     6180.290039,
-    6105.970215
+    6128.220215
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9317499995231628,
+   "kurs": 0.9327200055122375,
    "vortag": 0.936519980430603,
-   "veraenderung_pct": -0.5093303941307248,
+   "veraenderung_pct": -0.40575481546247794,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93193,
     0.93248,
     0.93652,
-    0.93175
+    0.93272
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8335400223731995,
+   "kurs": 0.8332899808883667,
    "vortag": 0.8321800231933594,
-   "veraenderung_pct": 0.1634260787252817,
+   "veraenderung_pct": 0.13337951694010197,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82811,
     0.83112,
     0.83218,
-    0.83354
+    0.83329
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4146.10009765625,
+   "kurs": 4148.7998046875,
    "vortag": 4140.7001953125,
-   "veraenderung_pct": 0.13041036754757318,
+   "veraenderung_pct": 0.19560965520202256,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4156.799805,
     4187.100098,
     4140.700195,
-    4146.100098
+    4148.799805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.95999908447266,
+   "kurs": 105.0999984741211,
    "vortag": 100.19999694824219,
-   "veraenderung_pct": 4.750501278646979,
+   "veraenderung_pct": 4.890221232651304,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.32,
     100.580002,
     100.199997,
-    104.959999
+    105.099998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82463.546875,
+   "kurs": 82354.7734375,
    "vortag": 83275.9296875,
-   "veraenderung_pct": -0.9755313636828022,
+   "veraenderung_pct": -1.1061494641449454,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85786.59375,
     85557.5625,
     83275.929688,
-    82463.546875
+    82354.773438
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.98999786376953,
+   "kurs": 76.20999908447266,
    "vortag": 75.55999755859375,
-   "veraenderung_pct": 0.5690845937922795,
+   "veraenderung_pct": 0.8602455623094141,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     74.480003,
     75.199997,
     75.559998,
-    75.989998
+    76.209999
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 118.45999908447266,
+   "kurs": 118.63999938964844,
    "vortag": 120.0199966430664,
-   "veraenderung_pct": -1.2997813716268514,
+   "veraenderung_pct": -1.1498061089953326,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     116.480003,
     117.18,
     120.019997,
-    118.459999
+    118.639999
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 353.79998779296875,
+   "kurs": 354.8999938964844,
    "vortag": 360.0,
-   "veraenderung_pct": -1.7222256130642322,
+   "veraenderung_pct": -1.4166683620876697,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     348.899994,
     349.799988,
     360.0,
-    353.799988
+    354.899994
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.939998626708984,
+   "kurs": 39.11000061035156,
    "vortag": 39.33000183105469,
-   "veraenderung_pct": -0.9916175595948262,
+   "veraenderung_pct": -0.5593725157912788,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.029999,
     40.57,
     39.330002,
-    38.939999
+    39.110001
    ]
   }
  ],
@@ -373,6 +373,62 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "Skydance co-CEOs Ellison and Kreiz speak with CNBC days after finalizing WBD acquisition",
+    "link": "https://www.cnbc.com/2026/10/08/skydance-co-ceos-ellison-kreiz.html",
+    "zeit": "2026-10-08T12:25:10+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Hundreds of new pro sports team ETFs lead world of retail investing to the edge of gambling",
+    "link": "https://www.cnbc.com/2026/10/08/sports-team-etfs-prediction-markets-futures-gambling.html",
+    "zeit": "2026-10-08T12:15:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Investitionen in Chips – Das Billionenunternehmen SpaceX braucht Geld",
+    "link": "https://www.srf.ch/news/wirtschaft/investitionen-in-chips-das-billionenunternehmen-spacex-braucht-geld",
+    "zeit": "2026-10-08T12:08:10+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+    "link": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+    "zeit": "2026-10-08T12:05:16+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Die deutsche Bundeswehr wäre im Drohnenkrieg nicht auf der Höhe der Zeit. So will sie von der Ukraine lernen",
+    "link": "https://www.nzz.ch/deutschland/politik/die-deutsche-bundeswehr-waere-im-drohnenkrieg-nicht-auf-der-hoehe-der-zeit-so-will-sie-von-der-ukraine-lernen-ld.10026569",
+    "zeit": "2026-10-08T12:00:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "PepsiCo cuts earnings forecast as North American turnaround takes longer than expected",
+    "link": "https://www.cnbc.com/2026/10/08/pepsico-pep-q3-2026-earnings.html",
+    "zeit": "2026-10-08T11:56:13+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
+    "link": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
+    "zeit": "2026-10-08T11:49:39+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
    {
     "titel": "Trump says he doesn't want Iran deal as U.S. reportedly prepares for 'massive bombing'",
     "link": "https://www.cnbc.com/2026/10/08/us-iran-war-trump-hormuz.html",
@@ -409,46 +465,6 @@
     "titel": "NFL tells Supreme Court prediction markets are gambling and should be regulated by the states",
     "link": "https://www.cnbc.com/2026/10/08/nfl-tells-supreme-court-prediction-markets-are-gambling-and-should-be-regulated-by-the-states.html",
     "zeit": "2026-10-08T10:50:45+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "PepsiCo cuts earnings forecast as North American turnaround takes longer than expected",
-    "link": "https://www.cnbc.com/2026/10/08/pepsico-pep-q3-2026-earnings.html",
-    "zeit": "2026-10-08T10:38:59+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "CNBC's Financial Advisor 100: Best financial advisors, top firms for 2026 ranked",
-    "link": "https://www.cnbc.com/2026/10/08/best-financial-advisors.html",
-    "zeit": "2026-10-08T10:07:13+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Republican megadonors dominate 2026 midterm election as crypto and AI money surges, CNBC analysis finds",
-    "link": "https://www.cnbc.com/2026/10/08/2026-midterm-election-megadonors.html",
-    "zeit": "2026-10-08T10:00:02+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Russia's internet giant Yandex halts operations at major data center after drone attack",
-    "link": "https://www.cnbc.com/2026/10/08/russia-yandex-ukraine-drone-strike-data-center.html",
-    "zeit": "2026-10-08T09:40:36+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "After a yearslong slump, China's real estate market may be set for a turnaround",
-    "link": "https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html",
-    "zeit": "2026-10-08T09:27:31+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -614,14 +630,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Machtkampf an den Finanzmärkten: Die steigenden Anleiherenditen könnten die Aktienkurse bald in die Knie zwingen",
-    "link": "https://www.nzz.ch/wirtschaft/machtkampf-an-den-finanzmaerkten-die-steigenden-anleiherenditen-koennten-die-aktienkurse-bald-in-die-knie-zwingen-ld.10026896",
-    "zeit": "2026-10-07T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Nach Disney und Fox – Mega-Fusion in Hollywood: Paramount übernimmt Warner Brothers",
     "link": "https://www.srf.ch/news/international/nach-disney-und-fox-mega-fusion-in-hollywood-paramount-uebernimmt-warner-brothers",
     "zeit": "2026-10-06T15:12:13+00:00",
@@ -681,14 +689,6 @@
     "titel": "Kritik an Palmöl-Import – Referendum gegen Malaysia-Deal: 85'000 Unterschriften eingereicht",
     "link": "https://www.srf.ch/news/schweiz/kritik-an-palmoel-import-referendum-gegen-malaysia-deal-85-000-unterschriften-eingereicht",
     "zeit": "2026-10-05T08:21:50+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Nespresso-Papierkapseln weg – Ist der Trend zu nachhaltigeren Verpackungen vorbei?",
-    "link": "https://www.srf.ch/news/wirtschaft/nespresso-papierkapseln-weg-ist-der-trend-zu-nachhaltigeren-verpackungen-vorbei",
-    "zeit": "2026-10-04T11:05:45+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
