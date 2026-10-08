@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-08T07:20:26+02:00",
+ "aktualisiert": "2026-10-08T07:49:09+02:00",
  "kernaussagen": [
   "SMI +0.14%, Euro Stoxx 50 −1.47% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9334 (−0.34%)",
-  "Bitcoin −3.23% auf 82'794 USD · Brent über 100 USD"
+  "Franken stärker: EUR/CHF 0.9333 (−0.35%)",
+  "Bitcoin −3.16% auf 82'852 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 69507.46875,
+   "kurs": 69573.3203125,
    "vortag": 70035.7109375,
-   "veraenderung_pct": -0.7542469126520346,
+   "veraenderung_pct": -0.6602212197326596,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     69946.859375,
     70683.976562,
     70035.710938,
-    69507.46875
+    69573.320312
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9333699941635132,
+   "kurs": 0.9332799911499023,
    "vortag": 0.936519980430603,
-   "veraenderung_pct": -0.3363501401904445,
+   "veraenderung_pct": -0.34596050788056054,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93193,
     0.93248,
     0.93652,
-    0.93337
+    0.93328
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8328800201416016,
+   "kurs": 0.8332300186157227,
    "vortag": 0.8321800231933594,
-   "veraenderung_pct": 0.08411604805844686,
+   "veraenderung_pct": 0.1261740720876814,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82811,
     0.83112,
     0.83218,
-    0.83288
+    0.83323
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4158.2998046875,
+   "kurs": 4153.0,
    "vortag": 4140.7001953125,
-   "veraenderung_pct": 0.4250394509345057,
+   "veraenderung_pct": 0.2970464923160554,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4156.799805,
     4187.100098,
     4140.700195,
-    4158.299805
+    4153.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 102.48999786376953,
+   "kurs": 102.66999816894531,
    "vortag": 100.19999694824219,
-   "veraenderung_pct": 2.2854301250230913,
+   "veraenderung_pct": 2.465071153623888,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.32,
     100.580002,
     100.199997,
-    102.489998
+    102.669998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82794.0390625,
+   "kurs": 82851.609375,
    "vortag": 85557.5625,
-   "veraenderung_pct": -3.230016560488147,
+   "veraenderung_pct": -3.1627281632760407,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     86480.304688,
     85786.59375,
     85557.5625,
-    82794.039062
+    82851.609375
    ]
   }
  ],
@@ -374,9 +374,25 @@
   ],
   "artikel": [
    {
+    "titel": "TSMC September sales hit another record as AI boom rolls on",
+    "link": "https://www.cnbc.com/2026/10/08/tsmc-september-sales-hit-another-record-as-ai-boom-rolls-on.html",
+    "zeit": "2026-10-08T05:45:21+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "America shut out Chinese EVs. Britain welcomed them — and now faces a difficult choice",
+    "link": "https://www.cnbc.com/2026/10/08/autos-china-evs-uk-tariffs-hybrid-cars.html",
+    "zeit": "2026-10-08T05:30:49+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Elon Musk blames Indian 'oligarchs' for stalling Starlink launch",
     "link": "https://www.cnbc.com/2026/10/08/elon-musk-starlink-spacex-jio-airtel-india.html",
-    "zeit": "2026-10-08T04:12:57+00:00",
+    "zeit": "2026-10-08T05:28:40+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -388,6 +404,14 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Prominente Zürcher Freisinnige lobbyieren gegen zu strenge UBS-Kapitalvorschriften",
+    "link": "https://www.finews.ch/news/banken/73898-ubs-nationalrat-fdp-eigenkapital-zuerich-lobbying-carmen-walker-spaeh-filippo-leutenegger",
+    "zeit": "2026-10-08T03:40:49+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Donald Trump nutzte Steuergelder für Eigenwerbung. Jetzt krebst er zurück, aber die Kontroverse läuft weiter",
@@ -473,22 +497,6 @@
     "titel": "Anthropic will be 'most ridiculous IPO' of year, analyst says",
     "link": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
     "zeit": "2026-10-07T22:29:41+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Cramer says higher rates are splitting the market in two — and AI stocks have a big advantage",
-    "link": "https://www.cnbc.com/2026/10/07/jim-cramer-spacex-wall-street-bull-case.html",
-    "zeit": "2026-10-07T22:22:32+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Lululemon poaches Athleta CEO as new chief product officer",
-    "link": "https://www.cnbc.com/2026/10/07/lululemon-athleta-ceo-maggie-gauger-chief-product-officer.html",
-    "zeit": "2026-10-07T21:47:06+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -618,14 +626,6 @@
     "link": "https://www.srf.ch/news/international/nach-disney-und-fox-mega-fusion-in-hollywood-paramount-uebernimmt-warner-brothers",
     "zeit": "2026-10-06T15:12:13+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Der ETF-Boom verschärft den Auswahlkampf bei den Banken",
-    "link": "https://www.finews.ch/news/banken/73872-aktive-etfs-banken-fondsselektion-kundenportfolios-six-schweiz",
-    "zeit": "2026-10-06T12:58:29+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
