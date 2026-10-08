@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-08T17:21:30+02:00",
+ "aktualisiert": "2026-10-08T17:51:44+02:00",
  "kernaussagen": [
-  "SMI −1.22%, DAX −1.03% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9329 (−0.39%)",
-  "Brent über 100 USD: 105.49 (+5.28%)"
+  "SMI −1.24%, DAX −1.18% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9326 (−0.41%)",
+  "Brent über 100 USD: 105.62 (+5.41%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13639.7900390625,
+   "kurs": 13637.0,
    "vortag": 13808.419921875,
-   "veraenderung_pct": -1.221210564036801,
+   "veraenderung_pct": -1.2414159103275813,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13703.530273,
     13788.929688,
     13808.419922,
-    13639.790039
+    13637.0
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 24846.69921875,
+   "kurs": 24806.970703125,
    "vortag": 25104.359375,
-   "veraenderung_pct": -1.0263562292156636,
+   "veraenderung_pct": -1.1846096824567942,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25254.210938,
     25449.189453,
     25104.359375,
-    24846.699219
+    24806.970703
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6136.9599609375,
+   "kurs": 6126.72998046875,
    "vortag": 6180.2900390625,
-   "veraenderung_pct": -0.7011010462475431,
+   "veraenderung_pct": -0.866626942347748,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6242.140137,
     6272.22998,
     6180.290039,
-    6136.959961
+    6126.72998
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7772.60009765625,
+   "kurs": 7774.2099609375,
    "vortag": 7801.77001953125,
-   "veraenderung_pct": -0.3738885125038949,
+   "veraenderung_pct": -0.3532539221837494,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7773.950195,
     7818.930176,
     7801.77002,
-    7772.600098
+    7774.209961
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27397.97265625,
+   "kurs": 27377.60546875,
    "vortag": 27538.689453125,
-   "veraenderung_pct": -0.5109785529718858,
+   "veraenderung_pct": -0.5849370016288824,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27477.310547,
     27599.789062,
     27538.689453,
-    27397.972656
+    27377.605469
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9329100251197815,
+   "kurs": 0.932640016078949,
    "vortag": 0.936519980430603,
-   "veraenderung_pct": -0.38546484712068674,
+   "veraenderung_pct": -0.414295950191057,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93193,
     0.93248,
     0.93652,
-    0.93291
+    0.93264
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8329799771308899,
+   "kurs": 0.8332800269126892,
    "vortag": 0.8321800231933594,
-   "veraenderung_pct": 0.09612751030250166,
+   "veraenderung_pct": 0.13218338444471733,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82811,
     0.83112,
     0.83218,
-    0.83298
+    0.83328
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4142.10009765625,
+   "kurs": 4141.89990234375,
    "vortag": 4140.7001953125,
-   "veraenderung_pct": 0.03380834829178614,
+   "veraenderung_pct": 0.028973530433518135,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4156.799805,
     4187.100098,
     4140.700195,
-    4142.100098
+    4141.899902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.48999786376953,
+   "kurs": 105.62000274658203,
    "vortag": 100.19999694824219,
-   "veraenderung_pct": 5.279442192258621,
+   "veraenderung_pct": 5.409187588238673,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.32,
     100.580002,
     100.199997,
-    105.489998
+    105.620003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81769.671875,
+   "kurs": 81419.0703125,
    "vortag": 83275.9296875,
-   "veraenderung_pct": -1.8087553248007704,
+   "veraenderung_pct": -2.2297672112073896,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85786.59375,
     85557.5625,
     83275.929688,
-    81769.671875
+    81419.070312
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.303,
+   "wert": 5.299,
    "vortag": 5.277,
-   "veraenderung_bp": 2.6,
+   "veraenderung_bp": 2.2,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.311,
     5.269,
     5.277,
-    5.303
+    5.299
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 76.12999725341797,
+   "kurs": 76.0,
    "vortag": 75.55999755859375,
-   "veraenderung_pct": 0.7543670106423761,
+   "veraenderung_pct": 0.5823219370342692,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     74.480003,
     75.199997,
     75.559998,
-    76.129997
+    76.0
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 117.4000015258789,
+   "kurs": 117.72000122070312,
    "vortag": 120.0199966430664,
-   "veraenderung_pct": -2.182965497807199,
+   "veraenderung_pct": -1.9163435149922137,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     116.480003,
     117.18,
     120.019997,
-    117.400002
+    117.720001
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 353.0,
+   "kurs": 352.70001220703125,
    "vortag": 360.0,
-   "veraenderung_pct": -1.9444444444444486,
+   "veraenderung_pct": -2.0277743869357656,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     348.899994,
     349.799988,
     360.0,
-    353.0
+    352.700012
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.939998626708984,
+   "kurs": 38.83000183105469,
    "vortag": 39.33000183105469,
-   "veraenderung_pct": -0.9916175595948262,
+   "veraenderung_pct": -1.2712941182860704,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.029999,
     40.57,
     39.330002,
-    38.939999
+    38.830002
    ]
   }
  ],
@@ -374,9 +374,33 @@
   ],
   "artikel": [
    {
-    "titel": "Jim Cramer says he's in a buying mood. Here are some stocks he's considering",
-    "link": "https://www.cnbc.com/investingclub/2026/10/08/jim-cramer-says-hes-in-a-buying-mood-here-are-some-stocks-hes-considering.html",
-    "zeit": "2026-10-08T15:18:03+00:00",
+    "titel": "U.S. suspends Microsoft, Adobe from green-card labor program in foreign worker crackdown",
+    "link": "https://www.cnbc.com/2026/10/08/microsoft-adobe-green-card-labor-suspension.html",
+    "zeit": "2026-10-08T15:51:21+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Skydance's David Ellison tells CNBC combined company is 'positioned to win in every single vertical'",
+    "link": "https://www.cnbc.com/2026/10/08/skydance-co-ceos-ellison-kreiz.html",
+    "zeit": "2026-10-08T15:50:00+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+    "link": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+    "zeit": "2026-10-08T15:49:36+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "10-year Treasury yield rises as Fed's Waller says more hikes needed, investors await 30-year auction",
+    "link": "https://www.cnbc.com/2026/10/08/us-treasury-yields-30-year-bond-auction.html",
+    "zeit": "2026-10-08T15:42:32+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,7 +408,15 @@
    {
     "titel": "Oil prices jump 4% as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production",
     "link": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html",
-    "zeit": "2026-10-08T14:58:57+00:00",
+    "zeit": "2026-10-08T15:22:39+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Jim Cramer says he's in a buying mood. Here are some stocks he's considering",
+    "link": "https://www.cnbc.com/investingclub/2026/10/08/jim-cramer-says-hes-in-a-buying-mood-here-are-some-stocks-hes-considering.html",
+    "zeit": "2026-10-08T15:18:03+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -414,41 +446,9 @@
     "sprache": "en"
    },
    {
-    "titel": "PepsiCo cuts earnings forecast as North American turnaround takes longer than expected",
-    "link": "https://www.cnbc.com/2026/10/08/pepsico-pep-q3-2026-earnings.html",
-    "zeit": "2026-10-08T14:43:05+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Skydance's David Ellison tells CNBC combined company is 'positioned to win in every single vertical'",
-    "link": "https://www.cnbc.com/2026/10/08/skydance-co-ceos-ellison-kreiz.html",
-    "zeit": "2026-10-08T14:24:12+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Hundreds of new pro sports team ETFs lead world of retail investing to the edge of gambling",
-    "link": "https://www.cnbc.com/2026/10/08/sports-team-etfs-prediction-markets-futures-gambling.html",
-    "zeit": "2026-10-08T14:20:24+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trump's former defense secretary sees no end in sight for Iran war — to the benefit of America's 'greatest adversary'",
-    "link": "https://www.cnbc.com/2026/10/08/trump-iran-war-mark-esper.html",
-    "zeit": "2026-10-08T14:12:10+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "10-year Treasury yield is little changed as Fed's Waller says more hikes needed, investors await 30-year auction",
-    "link": "https://www.cnbc.com/2026/10/08/us-treasury-yields-30-year-bond-auction.html",
-    "zeit": "2026-10-08T14:11:18+00:00",
+    "titel": "Gen Zers are now the biggest spenders in the art market, survey finds",
+    "link": "https://www.cnbc.com/2026/10/08/gen-zers-are-now-the-biggest-spenders-in-the-art-market-survey-finds-.html",
+    "zeit": "2026-10-08T14:44:42+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
