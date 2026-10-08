@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-08T09:22:05+02:00",
+ "aktualisiert": "2026-10-08T09:50:44+02:00",
  "kernaussagen": [
-  "Nikkei 225 −1.42% am schwächsten",
-  "Franken schwächer: EUR/CHF 0.9365 (+0.43%)",
-  "Brent über 100 USD: 104.01 (+3.80%)"
+  "SMI −1.06%, Nikkei 225 −1.42% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9326 (−0.42%)",
+  "Brent über 100 USD: 103.97 (+3.76%)"
  ],
  "maerkte": [
   {
@@ -11,7 +11,19 @@
    "symbol": "^SSMI",
    "einheit": "",
    "dezimalen": 2,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 13661.6904296875,
+   "vortag": 13808.419921875,
+   "veraenderung_pct": -1.0626088503801534,
+   "datum": "2026-10-08",
+   "ist_heute": true,
+   "verlauf": [
+    13660.919922,
+    13703.530273,
+    13788.929688,
+    13808.419922,
+    13661.69043
+   ]
   },
   {
    "name": "DAX",
@@ -19,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 24832.609375,
+   "kurs": 24881.259765625,
    "vortag": 25104.359375,
-   "veraenderung_pct": -1.0824813170521308,
+   "veraenderung_pct": -0.8886887175347358,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -29,7 +41,7 @@
     25254.210938,
     25449.189453,
     25104.359375,
-    24832.609375
+    24881.259766
    ]
   },
   {
@@ -38,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6096.5498046875,
+   "kurs": 6104.580078125,
    "vortag": 6180.2900390625,
-   "veraenderung_pct": -1.354956383045458,
+   "veraenderung_pct": -1.2250227814386672,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -48,7 +60,7 @@
     6242.140137,
     6272.22998,
     6180.290039,
-    6096.549805
+    6104.580078
    ]
   },
   {
@@ -116,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.936519980430603,
-   "vortag": 0.932479977607727,
-   "veraenderung_pct": 0.4332535732553211,
-   "datum": "2026-10-07",
-   "ist_heute": false,
+   "kurs": 0.9326099753379822,
+   "vortag": 0.936519980430603,
+   "veraenderung_pct": -0.41750364907570114,
+   "datum": "2026-10-08",
+   "ist_heute": true,
    "verlauf": [
-    0.94654,
     0.93414,
     0.93193,
     0.93248,
-    0.93652
+    0.93652,
+    0.93261
    ]
   },
   {
@@ -135,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8332599997520447,
+   "kurs": 0.8331199884414673,
    "vortag": 0.8321800231933594,
-   "veraenderung_pct": 0.12977679451389168,
+   "veraenderung_pct": 0.11295215240818557,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -145,7 +157,7 @@
     0.82811,
     0.83112,
     0.83218,
-    0.83326
+    0.83312
    ]
   },
   {
@@ -154,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4148.2998046875,
+   "kurs": 4145.2001953125,
    "vortag": 4140.7001953125,
-   "veraenderung_pct": 0.18353440279503808,
+   "veraenderung_pct": 0.10867727166274932,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -164,7 +176,7 @@
     4156.799805,
     4187.100098,
     4140.700195,
-    4148.299805
+    4145.200195
    ]
   },
   {
@@ -173,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.01000213623047,
+   "kurs": 103.97000122070312,
    "vortag": 100.19999694824219,
-   "veraenderung_pct": 3.8024005030222963,
+   "veraenderung_pct": 3.7624794284258467,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -183,7 +195,7 @@
     100.32,
     100.580002,
     100.199997,
-    104.010002
+    103.970001
    ]
   },
   {
@@ -192,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83136.53125,
+   "kurs": 83002.0234375,
    "vortag": 83275.9296875,
-   "veraenderung_pct": -0.16739343292005993,
+   "veraenderung_pct": -0.32891407040168685,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -202,7 +214,7 @@
     85786.59375,
     85557.5625,
     83275.929688,
-    83136.53125
+    83002.023438
    ]
   }
  ],
@@ -266,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.25,
+   "kurs": 75.16999816894531,
    "vortag": 75.19999694824219,
-   "veraenderung_pct": 0.06649342258913116,
+   "veraenderung_pct": -0.039891995364738086,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -276,7 +288,7 @@
     74.779999,
     74.480003,
     75.199997,
-    75.25
+    75.169998
    ]
   },
   {
@@ -304,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 355.29998779296875,
+   "kurs": 354.29998779296875,
    "vortag": 349.79998779296875,
-   "veraenderung_pct": 1.5723270988949212,
+   "veraenderung_pct": 1.286449444550386,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -314,7 +326,7 @@
     345.700012,
     348.899994,
     349.799988,
-    355.299988
+    354.299988
    ]
   },
   {
@@ -323,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.95000076293945,
+   "kurs": 39.0,
    "vortag": 39.33000183105469,
-   "veraenderung_pct": -0.9661862456746384,
+   "veraenderung_pct": -0.8390587736869071,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -333,7 +345,7 @@
     40.029999,
     40.57,
     39.330002,
-    38.950001
+    39.0
    ]
   }
  ],
@@ -361,6 +373,14 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "The Indian billionaire investing in Trump's refinery project is also buying more Venezuelan crude",
+    "link": "https://www.cnbc.com/2026/10/08/india-billionaire-trump-ambani-venezuela-oil.html",
+    "zeit": "2026-10-08T07:41:51+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
    {
     "titel": "AI startup Manus raises $500 million in first funding round since Meta breakup",
     "link": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
@@ -394,7 +414,7 @@
     "sprache": "en"
    },
    {
-    "titel": "Frankencoin wird an internationalen Kryptobörse gelistet",
+    "titel": "Frankencoin wird an internationaler Kryptobörse gelistet",
     "link": "https://www.finews.ch/news/finanzplatz/73899-frankencoin-listing-kraken-kryptoboerse",
     "zeit": "2026-10-08T04:41:58+00:00",
     "quelle": "finews.ch",
@@ -485,14 +505,6 @@
     "titel": "Trump awarding medals to Musk, Dell, Nadella and other tech execs at science summit",
     "link": "https://www.cnbc.com/2026/10/07/trump-awarding-medals-to-musk-dell-nadella-at-science-summit.html",
     "zeit": "2026-10-07T22:32:14+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Anthropic will be 'most ridiculous IPO' of year, analyst says",
-    "link": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
-    "zeit": "2026-10-07T22:29:41+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
