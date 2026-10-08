@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-08T14:56:17+02:00",
+ "aktualisiert": "2026-10-08T15:24:19+02:00",
  "kernaussagen": [
-  "SMI −0.69%, Nikkei 225 −1.42% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9325 (−0.43%)",
-  "Brent über 100 USD: 104.95 (+4.74%)"
+  "SMI −0.62%, Nikkei 225 −1.42% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9327 (−0.41%)",
+  "Brent über 100 USD: 104.52 (+4.31%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13712.7001953125,
+   "kurs": 13723.3095703125,
    "vortag": 13808.419921875,
-   "veraenderung_pct": -0.6931982594971853,
+   "veraenderung_pct": -0.6163656091285996,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13703.530273,
     13788.929688,
     13808.419922,
-    13712.700195
+    13723.30957
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 24910.099609375,
+   "kurs": 24945.0703125,
    "vortag": 25104.359375,
-   "veraenderung_pct": -0.773808893998118,
+   "veraenderung_pct": -0.6345075774314646,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25254.210938,
     25449.189453,
     25104.359375,
-    24910.099609
+    24945.070312
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6133.990234375,
+   "kurs": 6147.919921875,
    "vortag": 6180.2900390625,
-   "veraenderung_pct": -0.7491526189687292,
+   "veraenderung_pct": -0.5237637227849312,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6242.140137,
     6272.22998,
     6180.290039,
-    6133.990234
+    6147.919922
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9324700236320496,
+   "kurs": 0.9327200055122375,
    "vortag": 0.936519980430603,
-   "veraenderung_pct": -0.43244745260975215,
+   "veraenderung_pct": -0.40575481546247794,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93193,
     0.93248,
     0.93652,
-    0.93247
+    0.93272
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.833899974822998,
+   "kurs": 0.8337299823760986,
    "vortag": 0.8321800231933594,
-   "veraenderung_pct": 0.20668023524990087,
+   "veraenderung_pct": 0.18625287071798446,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82811,
     0.83112,
     0.83218,
-    0.8339
+    0.83373
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4142.2001953125,
+   "kurs": 4149.5,
    "vortag": 4140.7001953125,
-   "veraenderung_pct": 0.03622575722090904,
+   "veraenderung_pct": 0.21251972546725284,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4156.799805,
     4187.100098,
     4140.700195,
-    4142.200195
+    4149.5
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.94999694824219,
+   "kurs": 104.5199966430664,
    "vortag": 100.19999694824219,
-   "veraenderung_pct": 4.7405191064562535,
+   "veraenderung_pct": 4.311377072252509,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.32,
     100.580002,
     100.199997,
-    104.949997
+    104.519997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82261.5234375,
+   "kurs": 82461.6875,
    "vortag": 83275.9296875,
-   "veraenderung_pct": -1.2181265988943535,
+   "veraenderung_pct": -0.9777641517248914,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85786.59375,
     85557.5625,
     83275.929688,
-    82261.523438
+    82461.6875
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.324,
+   "wert": 5.303,
    "vortag": 5.277,
-   "veraenderung_bp": 4.7,
+   "veraenderung_bp": 2.6,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.311,
     5.269,
     5.277,
-    5.324
+    5.303
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 76.29000091552734,
+   "kurs": 76.2300033569336,
    "vortag": 75.55999755859375,
-   "veraenderung_pct": 0.966124113976452,
+   "veraenderung_pct": 0.8867202487933934,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     74.480003,
     75.199997,
     75.559998,
-    76.290001
+    76.230003
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 118.9000015258789,
+   "kurs": 119.16000366210938,
    "vortag": 120.0199966430664,
-   "veraenderung_pct": -0.9331737614676872,
+   "veraenderung_pct": -0.7165414139400528,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     116.480003,
     117.18,
     120.019997,
-    118.900002
+    119.160004
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 355.8999938964844,
+   "kurs": 355.29998779296875,
    "vortag": 360.0,
-   "veraenderung_pct": -1.1388905843098929,
+   "veraenderung_pct": -1.305558946397567,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     348.899994,
     349.799988,
     360.0,
-    355.899994
+    355.299988
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.119998931884766,
+   "kurs": 39.150001525878906,
    "vortag": 39.33000183105469,
-   "veraenderung_pct": -0.5339509010754862,
+   "veraenderung_pct": -0.4576666585193401,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.029999,
     40.57,
     39.330002,
-    39.119999
+    39.150002
    ]
   }
  ],
@@ -374,17 +374,65 @@
   ],
   "artikel": [
    {
-    "titel": "Trump's former defense secretary sees no end in sight for Iran war — to the benefit of America's 'greatest adversary'",
-    "link": "https://www.cnbc.com/2026/10/08/trump-iran-war-mark-esper.html",
-    "zeit": "2026-10-08T12:50:51+00:00",
+    "titel": "Skydance's David Ellison tells CNBC combined company is 'positioned to win in every single vertical'",
+    "link": "https://www.cnbc.com/2026/10/08/skydance-co-ceos-ellison-kreiz.html",
+    "zeit": "2026-10-08T13:20:20+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Skydance's David Ellison tells CNBC combined company is 'positioned to win in every single vertical'",
-    "link": "https://www.cnbc.com/2026/10/08/skydance-co-ceos-ellison-kreiz.html",
-    "zeit": "2026-10-08T12:49:29+00:00",
+    "titel": "Trump bought up to $25 million in Meta and millions in SpaceX debt in August",
+    "link": "https://www.cnbc.com/2026/10/08/trump-august-trades-meta-spacex-financial-disclosure.html",
+    "zeit": "2026-10-08T13:18:47+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Die reichen Teens und Twens der Generation Z geben doppelt so viel Geld für Kunst aus wie ältere Generationen",
+    "link": "https://www.nzz.ch/wirtschaft/die-reichen-teens-und-twens-der-generation-z-geben-doppelt-so-viel-geld-fuer-kunst-aus-wie-aeltere-generationen-ld.10027975",
+    "zeit": "2026-10-08T13:18:25+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "PepsiCo cuts earnings forecast as North American turnaround takes longer than expected",
+    "link": "https://www.cnbc.com/2026/10/08/pepsico-pep-q3-2026-earnings.html",
+    "zeit": "2026-10-08T13:16:32+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+    "link": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+    "zeit": "2026-10-08T13:08:57+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+    "link": "https://www.cnbc.com/investingclub/2026/10/08/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+    "zeit": "2026-10-08T13:04:30+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Amazon overhauls aging devices lineup with higher priced Alexa tablet, dumping the budget Fire",
+    "link": "https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html",
+    "zeit": "2026-10-08T13:02:03+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trump's former defense secretary sees no end in sight for Iran war — to the benefit of America's 'greatest adversary'",
+    "link": "https://www.cnbc.com/2026/10/08/trump-iran-war-mark-esper.html",
+    "zeit": "2026-10-08T12:50:51+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -406,28 +454,12 @@
     "sprache": "de"
    },
    {
-    "titel": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
-    "link": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
-    "zeit": "2026-10-08T12:05:16+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Die deutsche Bundeswehr wäre im Drohnenkrieg nicht auf der Höhe der Zeit. So will sie von der Ukraine lernen",
     "link": "https://www.nzz.ch/deutschland/politik/die-deutsche-bundeswehr-waere-im-drohnenkrieg-nicht-auf-der-hoehe-der-zeit-so-will-sie-von-der-ukraine-lernen-ld.10026569",
     "zeit": "2026-10-08T12:00:00+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "PepsiCo cuts earnings forecast as North American turnaround takes longer than expected",
-    "link": "https://www.cnbc.com/2026/10/08/pepsico-pep-q3-2026-earnings.html",
-    "zeit": "2026-10-08T11:56:13+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
@@ -441,30 +473,6 @@
     "titel": "Trump says he doesn't want Iran deal as U.S. reportedly prepares for 'massive bombing'",
     "link": "https://www.cnbc.com/2026/10/08/us-iran-war-trump-hormuz.html",
     "zeit": "2026-10-08T11:42:48+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Why REITs aren't getting killed by rising interest rates this time around",
-    "link": "https://www.cnbc.com/2026/10/08/why-reits-arent-getting-killed-by-rising-interest-rates-this-time.html",
-    "zeit": "2026-10-08T11:28:53+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Russia, China hypersonic missile threats fuel need for space defense, satellite CEO says",
-    "link": "https://www.cnbc.com/2026/10/08/space-missile-defense-interceptors-russia-china.html",
-    "zeit": "2026-10-08T11:04:39+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "CNBC's No. 1 financial advisor takes a family-office approach: 'There is real value in all of those relationships'",
-    "link": "https://www.cnbc.com/2026/10/08/howland-capital-management-top-financial-advisor-strategy.html",
-    "zeit": "2026-10-08T10:56:47+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -586,14 +594,6 @@
     "link": "https://www.finews.ch/news/finanzplatz/73891-raiffeisen-prognose-konjunktur-schweiz-inflation-snb-zinsen",
     "zeit": "2026-10-07T10:44:42+00:00",
     "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Wenn sich die Ukraine und Südkorea streiten, freut sich Russland",
-    "link": "https://www.nzz.ch/international/wenn-sich-die-ukraine-und-suedkorea-streiten-freut-sich-russland-ld.10027065",
-    "zeit": "2026-10-07T09:45:33+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
