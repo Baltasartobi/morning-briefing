@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-08T06:50:09+02:00",
+ "aktualisiert": "2026-10-08T07:20:26+02:00",
  "kernaussagen": [
   "SMI +0.14%, Euro Stoxx 50 −1.47% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9333 (−0.34%)",
-  "Bitcoin −3.52% auf 82'550 USD · Brent über 100 USD"
+  "Franken stärker: EUR/CHF 0.9334 (−0.34%)",
+  "Bitcoin −3.23% auf 82'794 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 69451.3515625,
+   "kurs": 69507.46875,
    "vortag": 70035.7109375,
-   "veraenderung_pct": -0.8343734463143848,
+   "veraenderung_pct": -0.7542469126520346,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     69946.859375,
     70683.976562,
     70035.710938,
-    69451.351562
+    69507.46875
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9333099722862244,
+   "kurs": 0.9333699941635132,
    "vortag": 0.936519980430603,
-   "veraenderung_pct": -0.3427591734778246,
+   "veraenderung_pct": -0.3363501401904445,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93193,
     0.93248,
     0.93652,
-    0.93331
+    0.93337
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8329300284385681,
+   "kurs": 0.8328800201416016,
    "vortag": 0.8321800231933594,
-   "veraenderung_pct": 0.0901253604154828,
+   "veraenderung_pct": 0.08411604805844686,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82811,
     0.83112,
     0.83218,
-    0.83293
+    0.83288
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4155.89990234375,
+   "kurs": 4158.2998046875,
    "vortag": 4140.7001953125,
-   "veraenderung_pct": 0.3670805978287728,
+   "veraenderung_pct": 0.4250394509345057,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4156.799805,
     4187.100098,
     4140.700195,
-    4155.899902
+    4158.299805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 102.3499984741211,
+   "kurs": 102.48999786376953,
    "vortag": 100.19999694824219,
-   "veraenderung_pct": 2.1457101710187443,
+   "veraenderung_pct": 2.2854301250230913,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.32,
     100.580002,
     100.199997,
-    102.349998
+    102.489998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82549.921875,
+   "kurs": 82794.0390625,
    "vortag": 85557.5625,
-   "veraenderung_pct": -3.515341644989012,
+   "veraenderung_pct": -3.230016560488147,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     86480.304688,
     85786.59375,
     85557.5625,
-    82549.921875
+    82794.039062
    ]
   }
  ],
@@ -534,6 +534,14 @@
     "sprache": "de"
    },
    {
+    "titel": "Raiffeisen schraubt Konjunkturprognose kräftig nach oben",
+    "link": "https://www.finews.ch/news/finanzplatz/73891-raiffeisen-prognose-konjunktur-schweiz-inflation-snb-zinsen",
+    "zeit": "2026-10-07T10:44:42+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Wenn sich die Ukraine und Südkorea streiten, freut sich Russland",
     "link": "https://www.nzz.ch/international/wenn-sich-die-ukraine-und-suedkorea-streiten-freut-sich-russland-ld.10027065",
     "zeit": "2026-10-07T09:45:33+00:00",
@@ -626,14 +634,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/neue-zahlen-zum-arbeitsmarkt-arbeitslosenquote-verharrt-im-september-auf-3-prozent",
     "zeit": "2026-10-06T12:51:49+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Der nächste Wachstumsschub kommt aus dem aktiven Management",
-    "link": "https://www.finews.ch/news/banken/73871-etf-boom-six-schweiz-aktive-etfs-asset-management",
-    "zeit": "2026-10-06T12:48:46+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
