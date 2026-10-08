@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-08T15:24:19+02:00",
+ "aktualisiert": "2026-10-08T15:50:37+02:00",
  "kernaussagen": [
-  "SMI −0.62%, Nikkei 225 −1.42% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9327 (−0.41%)",
-  "Brent über 100 USD: 104.52 (+4.31%)"
+  "SMI −0.68%, Nikkei 225 −1.42% am schwächsten",
+  "Franken schwächer: EUR/CHF 0.9365 (+0.43%)",
+  "Brent über 100 USD: 104.60 (+4.39%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13723.3095703125,
+   "kurs": 13714.330078125,
    "vortag": 13808.419921875,
-   "veraenderung_pct": -0.6163656091285996,
+   "veraenderung_pct": -0.6813947162842671,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13703.530273,
     13788.929688,
     13808.419922,
-    13723.30957
+    13714.330078
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 24945.0703125,
+   "kurs": 24945.23046875,
    "vortag": 25104.359375,
-   "veraenderung_pct": -0.6345075774314646,
+   "veraenderung_pct": -0.6338696155236967,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25254.210938,
     25449.189453,
     25104.359375,
-    24945.070312
+    24945.230469
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6147.919921875,
+   "kurs": 6153.7099609375,
    "vortag": 6180.2900390625,
-   "veraenderung_pct": -0.5237637227849312,
+   "veraenderung_pct": -0.4300781671572107,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6242.140137,
     6272.22998,
     6180.290039,
-    6147.919922
+    6153.709961
    ]
   },
   {
@@ -69,17 +69,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7801.77001953125,
-   "vortag": 7818.93017578125,
-   "veraenderung_pct": -0.21946936299741537,
-   "datum": "2026-10-07",
-   "ist_heute": false,
+   "kurs": 7779.41015625,
+   "vortag": 7801.77001953125,
+   "veraenderung_pct": -0.2865998770185896,
+   "datum": "2026-10-08",
+   "ist_heute": true,
    "verlauf": [
-    7666.450195,
     7722.720215,
     7773.950195,
     7818.930176,
-    7801.77002
+    7801.77002,
+    7779.410156
    ]
   },
   {
@@ -88,17 +88,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27538.689453125,
-   "vortag": 27599.7890625,
-   "veraenderung_pct": -0.22137708819671698,
-   "datum": "2026-10-07",
-   "ist_heute": false,
+   "kurs": 27381.919921875,
+   "vortag": 27538.689453125,
+   "veraenderung_pct": -0.56927012273712,
+   "datum": "2026-10-08",
+   "ist_heute": true,
    "verlauf": [
-    26871.599609,
     27190.859375,
     27477.310547,
     27599.789062,
-    27538.689453
+    27538.689453,
+    27381.919922
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9327200055122375,
-   "vortag": 0.936519980430603,
-   "veraenderung_pct": -0.40575481546247794,
-   "datum": "2026-10-08",
-   "ist_heute": true,
+   "kurs": 0.936519980430603,
+   "vortag": 0.932479977607727,
+   "veraenderung_pct": 0.4332535732553211,
+   "datum": "2026-10-07",
+   "ist_heute": false,
    "verlauf": [
+    0.94654,
     0.93414,
     0.93193,
     0.93248,
-    0.93652,
-    0.93272
+    0.93652
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8337299823760986,
+   "kurs": 0.8335899710655212,
    "vortag": 0.8321800231933594,
-   "veraenderung_pct": 0.18625287071798446,
+   "veraenderung_pct": 0.16942822861230056,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82811,
     0.83112,
     0.83218,
-    0.83373
+    0.83359
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4149.5,
+   "kurs": 4148.10009765625,
    "vortag": 4140.7001953125,
-   "veraenderung_pct": 0.21251972546725284,
+   "veraenderung_pct": 0.1787113771754667,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4156.799805,
     4187.100098,
     4140.700195,
-    4149.5
+    4148.100098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.5199966430664,
+   "kurs": 104.5999984741211,
    "vortag": 100.19999694824219,
-   "veraenderung_pct": 4.311377072252509,
+   "veraenderung_pct": 4.391219221445386,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.32,
     100.580002,
     100.199997,
-    104.519997
+    104.599998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82461.6875,
+   "kurs": 82033.8828125,
    "vortag": 83275.9296875,
-   "veraenderung_pct": -0.9777641517248914,
+   "veraenderung_pct": -1.491483649189973,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85786.59375,
     85557.5625,
     83275.929688,
-    82461.6875
+    82033.882812
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.303,
+   "wert": 5.29,
    "vortag": 5.277,
-   "veraenderung_bp": 2.6,
+   "veraenderung_bp": 1.3,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.311,
     5.269,
     5.277,
-    5.303
+    5.29
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 76.2300033569336,
+   "kurs": 76.08000183105469,
    "vortag": 75.55999755859375,
-   "veraenderung_pct": 0.8867202487933934,
+   "veraenderung_pct": 0.6882004887013071,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     74.480003,
     75.199997,
     75.559998,
-    76.230003
+    76.080002
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 119.16000366210938,
+   "kurs": 118.80000305175781,
    "vortag": 120.0199966430664,
-   "veraenderung_pct": -0.7165414139400528,
+   "veraenderung_pct": -1.0164919392030902,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     116.480003,
     117.18,
     120.019997,
-    119.160004
+    118.800003
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 355.29998779296875,
+   "kurs": 355.79998779296875,
    "vortag": 360.0,
-   "veraenderung_pct": -1.305558946397567,
+   "veraenderung_pct": -1.1666700575086786,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     348.899994,
     349.799988,
     360.0,
-    355.299988
+    355.799988
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.150001525878906,
+   "kurs": 39.189998626708984,
    "vortag": 39.33000183105469,
-   "veraenderung_pct": -0.4576666585193401,
+   "veraenderung_pct": -0.35597050045178547,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.029999,
     40.57,
     39.330002,
-    39.150002
+    39.189999
    ]
   }
  ],
@@ -374,9 +374,33 @@
   ],
   "artikel": [
    {
+    "titel": "Republican megadonors dominate 2026 midterm election as crypto and AI money surges, CNBC analysis finds",
+    "link": "https://www.cnbc.com/2026/10/08/2026-midterm-election-megadonors.html",
+    "zeit": "2026-10-08T13:40:12+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Amazon overhauls aging devices lineup with higher priced Alexa tablet, dumping the budget Fire",
+    "link": "https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html",
+    "zeit": "2026-10-08T13:37:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Skydance's David Ellison tells CNBC combined company is 'positioned to win in every single vertical'",
     "link": "https://www.cnbc.com/2026/10/08/skydance-co-ceos-ellison-kreiz.html",
-    "zeit": "2026-10-08T13:20:20+00:00",
+    "zeit": "2026-10-08T13:29:21+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+    "link": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+    "zeit": "2026-10-08T13:28:42+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -406,25 +430,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
-    "link": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
-    "zeit": "2026-10-08T13:08:57+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Jim Cramer's top 10 things to watch in the stock market Thursday",
     "link": "https://www.cnbc.com/investingclub/2026/10/08/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
     "zeit": "2026-10-08T13:04:30+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Amazon overhauls aging devices lineup with higher priced Alexa tablet, dumping the budget Fire",
-    "link": "https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html",
-    "zeit": "2026-10-08T13:02:03+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -446,6 +454,14 @@
     "sprache": "en"
    },
    {
+    "titel": "Ray Dalio warns the stock market's cushion against rising bond yields is shrinking",
+    "link": "https://www.cnbc.com/2026/10/08/ray-dalio-stocks-bond-yields.html",
+    "zeit": "2026-10-08T12:19:53+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Investitionen in Chips – Das Billionenunternehmen SpaceX braucht Geld",
     "link": "https://www.srf.ch/news/wirtschaft/investitionen-in-chips-das-billionenunternehmen-spacex-braucht-geld",
     "zeit": "2026-10-08T12:08:10+00:00",
@@ -462,20 +478,12 @@
     "sprache": "de"
    },
    {
-    "titel": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
-    "link": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
-    "zeit": "2026-10-08T11:49:39+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trump says he doesn't want Iran deal as U.S. reportedly prepares for 'massive bombing'",
-    "link": "https://www.cnbc.com/2026/10/08/us-iran-war-trump-hormuz.html",
-    "zeit": "2026-10-08T11:42:48+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "Finma erlässt neue Regeln beim Onboarding neuer Kunden",
+    "link": "https://www.finews.ch/news/banken/73910-finma-onboarding-regeln-video-online-identifizierung",
+    "zeit": "2026-10-08T11:30:51+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Schroders verstärkt ETF-Vertrieb in der Schweiz",
@@ -617,14 +625,6 @@
     "titel": "Implement Consulting neu mit Doppelspitze",
     "link": "https://www.finews.ch/news/finanzplatz/73885-implement-consulting-group-schweizer-geschaeft-moritz-rohde-managing-partner-schweiz-chef-manuel-fischer-zuercher-buero",
     "zeit": "2026-10-07T07:47:16+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Vaudoise AM erweitert Verwaltungsrat",
-    "link": "https://www.finews.ch/news/versicherungen/73882-vaudoise-asset-management-neue-mitglieder-verwaltungsrat",
-    "zeit": "2026-10-07T07:13:40+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
