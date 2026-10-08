@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-08T20:54:10+02:00",
+ "aktualisiert": "2026-10-08T21:20:18+02:00",
  "kernaussagen": [
-  "SMI −1.24%, Nasdaq −1.33% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9321 (−0.47%)",
-  "Brent über 100 USD: 104.40 (+4.19%)"
+  "SMI −1.24%, Nasdaq −1.39% am schwächsten",
+  "Franken schwächer: EUR/CHF 0.9365 (+0.43%)",
+  "Brent über 100 USD: 104.30 (+4.09%)"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7758.009765625,
+   "kurs": 7756.7998046875,
    "vortag": 7801.77001953125,
-   "veraenderung_pct": -0.5609016133095279,
+   "veraenderung_pct": -0.5764104136775305,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7773.950195,
     7818.930176,
     7801.77002,
-    7758.009766
+    7756.799805
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27173.00390625,
+   "kurs": 27155.634765625,
    "vortag": 27538.689453125,
-   "veraenderung_pct": -1.3278974204544158,
+   "veraenderung_pct": -1.3909691968167825,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27477.310547,
     27599.789062,
     27538.689453,
-    27173.003906
+    27155.634766
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.932129979133606,
-   "vortag": 0.936519980430603,
-   "veraenderung_pct": -0.46875682192905055,
-   "datum": "2026-10-08",
-   "ist_heute": true,
+   "kurs": 0.936519980430603,
+   "vortag": 0.932479977607727,
+   "veraenderung_pct": 0.4332535732553211,
+   "datum": "2026-10-07",
+   "ist_heute": false,
    "verlauf": [
+    0.94654,
     0.93414,
     0.93193,
     0.93248,
-    0.93652,
-    0.93213
+    0.93652
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8314700126647949,
+   "kurs": 0.8313900232315063,
    "vortag": 0.8321800231933594,
-   "veraenderung_pct": -0.08531934302387079,
+   "veraenderung_pct": -0.09493137780711702,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82811,
     0.83112,
     0.83218,
-    0.83147
+    0.83139
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4148.7001953125,
+   "kurs": 4153.7001953125,
    "vortag": 4140.7001953125,
-   "veraenderung_pct": 0.19320403851157408,
+   "veraenderung_pct": 0.3139565625812857,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4156.799805,
     4187.100098,
     4140.700195,
-    4148.700195
+    4153.700195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.4000015258789,
+   "kurs": 104.30000305175781,
    "vortag": 100.19999694824219,
-   "veraenderung_pct": 4.191621462629591,
+   "veraenderung_pct": 4.091822583221694,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.32,
     100.580002,
     100.199997,
-    104.400002
+    104.300003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81459.1171875,
+   "kurs": 81585.8203125,
    "vortag": 83275.9296875,
-   "veraenderung_pct": -2.181677835141249,
+   "veraenderung_pct": -2.0295292785589725,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85786.59375,
     85557.5625,
     83275.929688,
-    81459.117188
+    81585.820312
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.235,
+   "wert": 5.231,
    "vortag": 5.277,
-   "veraenderung_bp": -4.2,
+   "veraenderung_bp": -4.6,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.311,
     5.269,
     5.277,
-    5.235
+    5.231
    ]
   }
  ],
@@ -374,6 +374,22 @@
   ],
   "artikel": [
    {
+    "titel": "Why a Starbucks takeover of Chipotle would — and wouldn't — make sense for both companies",
+    "link": "https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html",
+    "zeit": "2026-10-08T19:15:26+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production",
+    "link": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html",
+    "zeit": "2026-10-08T19:00:49+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "U.S. suspends Microsoft, Adobe from green card labor program in foreign worker crackdown",
     "link": "https://www.cnbc.com/2026/10/08/microsoft-adobe-green-card-labor-suspension.html",
     "zeit": "2026-10-08T18:52:59+00:00",
@@ -382,9 +398,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Why a Starbucks takeover of Chipotle would — and wouldn't — make sense for both companies",
-    "link": "https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html",
-    "zeit": "2026-10-08T18:37:46+00:00",
+    "titel": "We're buying the dip in a stock being punished for something it's actually insulated from",
+    "link": "https://www.cnbc.com/investingclub/2026/10/08/were-buying-the-dip-in-a-stock-being-punished-for-something-its-actually-insulated-from.html",
+    "zeit": "2026-10-08T18:49:27+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -433,22 +449,6 @@
     "titel": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
     "link": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
     "zeit": "2026-10-08T17:31:03+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Treasury yields are lower after reaching multiyear highs, traders weigh latest bond auction",
-    "link": "https://www.cnbc.com/2026/10/08/us-treasury-yields-30-year-bond-auction.html",
-    "zeit": "2026-10-08T17:28:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "CNBC's Financial Advisor 100: Best financial advisors, top firms for 2026 ranked",
-    "link": "https://www.cnbc.com/2026/10/08/best-financial-advisors.html",
-    "zeit": "2026-10-08T17:27:54+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
