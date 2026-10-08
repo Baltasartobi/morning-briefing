@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-08T09:50:44+02:00",
+ "aktualisiert": "2026-10-08T10:22:18+02:00",
  "kernaussagen": [
-  "SMI −1.06%, Nikkei 225 −1.42% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9326 (−0.42%)",
-  "Brent über 100 USD: 103.97 (+3.76%)"
+  "SMI −0.95%, Nikkei 225 −1.42% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9331 (−0.37%)",
+  "Brent über 100 USD: 104.02 (+3.81%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13661.6904296875,
+   "kurs": 13677.08984375,
    "vortag": 13808.419921875,
-   "veraenderung_pct": -1.0626088503801534,
+   "veraenderung_pct": -0.9510869373037356,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13703.530273,
     13788.929688,
     13808.419922,
-    13661.69043
+    13677.089844
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 24881.259765625,
+   "kurs": 24938.529296875,
    "vortag": 25104.359375,
-   "veraenderung_pct": -0.8886887175347358,
+   "veraenderung_pct": -0.6605628753472259,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25254.210938,
     25449.189453,
     25104.359375,
-    24881.259766
+    24938.529297
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6104.580078125,
+   "kurs": 6114.169921875,
    "vortag": 6180.2900390625,
-   "veraenderung_pct": -1.2250227814386672,
+   "veraenderung_pct": -1.0698545985639463,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6242.140137,
     6272.22998,
     6180.290039,
-    6104.580078
+    6114.169922
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9326099753379822,
+   "kurs": 0.9330700039863586,
    "vortag": 0.936519980430603,
-   "veraenderung_pct": -0.41750364907570114,
+   "veraenderung_pct": -0.36838257766355076,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93193,
     0.93248,
     0.93652,
-    0.93261
+    0.93307
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8331199884414673,
+   "kurs": 0.8333200216293335,
    "vortag": 0.8321800231933594,
-   "veraenderung_pct": 0.11295215240818557,
+   "veraenderung_pct": 0.13698940183635155,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82811,
     0.83112,
     0.83218,
-    0.83312
+    0.83332
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4145.2001953125,
+   "kurs": 4151.60009765625,
    "vortag": 4140.7001953125,
-   "veraenderung_pct": 0.10867727166274932,
+   "veraenderung_pct": 0.26323814402426926,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4156.799805,
     4187.100098,
     4140.700195,
-    4145.200195
+    4151.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 103.97000122070312,
+   "kurs": 104.0199966430664,
    "vortag": 100.19999694824219,
-   "veraenderung_pct": 3.7624794284258467,
+   "veraenderung_pct": 3.812375061046569,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.32,
     100.580002,
     100.199997,
-    103.970001
+    104.019997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83002.0234375,
+   "kurs": 82913.0,
    "vortag": 83275.9296875,
-   "veraenderung_pct": -0.32891407040168685,
+   "veraenderung_pct": -0.43581583401340884,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85786.59375,
     85557.5625,
     83275.929688,
-    83002.023438
+    82913.0
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.16999816894531,
+   "kurs": 75.44999694824219,
    "vortag": 75.19999694824219,
-   "veraenderung_pct": -0.039891995364738086,
+   "veraenderung_pct": 0.33244682200195275,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     74.779999,
     74.480003,
     75.199997,
-    75.169998
+    75.449997
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 118.91999816894531,
+   "kurs": 119.05999755859375,
    "vortag": 120.0199966430664,
-   "veraenderung_pct": -0.9165126686284109,
+   "veraenderung_pct": -0.7998659484449444,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     116.480003,
     117.18,
     120.019997,
-    118.919998
+    119.059998
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 354.29998779296875,
+   "kurs": 354.8999938964844,
    "vortag": 349.79998779296875,
-   "veraenderung_pct": 1.286449444550386,
+   "veraenderung_pct": 1.4579777820158402,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     345.700012,
     348.899994,
     349.799988,
-    354.299988
+    354.899994
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.0,
+   "kurs": 39.06999969482422,
    "vortag": 39.33000183105469,
-   "veraenderung_pct": -0.8390587736869071,
+   "veraenderung_pct": -0.6610783730632175,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.029999,
     40.57,
     39.330002,
-    39.0
+    39.07
    ]
   }
  ],
@@ -373,6 +373,14 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "Russia's internet giant Yandex halts operations at major data center after drone attack",
+    "link": "https://www.cnbc.com/2026/10/08/russia-yandex-ukraine-drone-strike-data-center.html",
+    "zeit": "2026-10-08T08:17:47+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
    {
     "titel": "The Indian billionaire investing in Trump's refinery project is also buying more Venezuelan crude",
     "link": "https://www.cnbc.com/2026/10/08/india-billionaire-trump-ambani-venezuela-oil.html",
@@ -497,14 +505,6 @@
     "titel": "Trump trade chief Greer reports higher cash holdings as law firm pay topped $650K",
     "link": "https://www.cnbc.com/2026/10/07/jamieson-greer-financial-disclosure-coupang.html",
     "zeit": "2026-10-07T23:10:54+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trump awarding medals to Musk, Dell, Nadella and other tech execs at science summit",
-    "link": "https://www.cnbc.com/2026/10/07/trump-awarding-medals-to-musk-dell-nadella-at-science-summit.html",
-    "zeit": "2026-10-07T22:32:14+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
