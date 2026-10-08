@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-08T10:22:18+02:00",
+ "aktualisiert": "2026-10-08T10:51:11+02:00",
  "kernaussagen": [
-  "SMI −0.95%, Nikkei 225 −1.42% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9331 (−0.37%)",
-  "Brent über 100 USD: 104.02 (+3.81%)"
+  "SMI −0.93%, Nikkei 225 −1.42% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9329 (−0.39%)",
+  "Brent über 100 USD: 104.33 (+4.12%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13677.08984375,
+   "kurs": 13679.83984375,
    "vortag": 13808.419921875,
-   "veraenderung_pct": -0.9510869373037356,
+   "veraenderung_pct": -0.9311715522302921,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13703.530273,
     13788.929688,
     13808.419922,
-    13677.089844
+    13679.839844
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 24938.529296875,
+   "kurs": 24958.029296875,
    "vortag": 25104.359375,
-   "veraenderung_pct": -0.6605628753472259,
+   "veraenderung_pct": -0.5828871230656563,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25254.210938,
     25449.189453,
     25104.359375,
-    24938.529297
+    24958.029297
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6114.169921875,
+   "kurs": 6123.0,
    "vortag": 6180.2900390625,
-   "veraenderung_pct": -1.0698545985639463,
+   "veraenderung_pct": -0.9269797808905134,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6242.140137,
     6272.22998,
     6180.290039,
-    6114.169922
+    6123.0
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9330700039863586,
+   "kurs": 0.932889997959137,
    "vortag": 0.936519980430603,
-   "veraenderung_pct": -0.36838257766355076,
+   "veraenderung_pct": -0.3876033130437939,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93193,
     0.93248,
     0.93652,
-    0.93307
+    0.93289
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8333200216293335,
+   "kurs": 0.8337299823760986,
    "vortag": 0.8321800231933594,
-   "veraenderung_pct": 0.13698940183635155,
+   "veraenderung_pct": 0.18625287071798446,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82811,
     0.83112,
     0.83218,
-    0.83332
+    0.83373
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4151.60009765625,
+   "kurs": 4147.0,
    "vortag": 4140.7001953125,
-   "veraenderung_pct": 0.26323814402426926,
+   "veraenderung_pct": 0.15214346343237484,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4156.799805,
     4187.100098,
     4140.700195,
-    4151.600098
+    4147.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.0199966430664,
+   "kurs": 104.33000183105469,
    "vortag": 100.19999694824219,
-   "veraenderung_pct": 3.812375061046569,
+   "veraenderung_pct": 4.121761485627418,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.32,
     100.580002,
     100.199997,
-    104.019997
+    104.330002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82913.0,
+   "kurs": 82814.109375,
    "vortag": 83275.9296875,
-   "veraenderung_pct": -0.43581583401340884,
+   "veraenderung_pct": -0.5545663845879845,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85786.59375,
     85557.5625,
     83275.929688,
-    82913.0
+    82814.109375
    ]
   }
  ],
@@ -278,17 +278,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.44999694824219,
-   "vortag": 75.19999694824219,
-   "veraenderung_pct": 0.33244682200195275,
+   "kurs": 75.62000274658203,
+   "vortag": 75.55999755859375,
+   "veraenderung_pct": 0.07941396231749831,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
-    74.629997,
     74.779999,
     74.480003,
     75.199997,
-    75.449997
+    75.559998,
+    75.620003
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 119.05999755859375,
+   "kurs": 118.76000213623047,
    "vortag": 120.0199966430664,
-   "veraenderung_pct": -0.7998659484449444,
+   "veraenderung_pct": -1.0498204816511536,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     116.480003,
     117.18,
     120.019997,
-    119.059998
+    118.760002
    ]
   },
   {
@@ -316,17 +316,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 354.8999938964844,
-   "vortag": 349.79998779296875,
-   "veraenderung_pct": 1.4579777820158402,
+   "kurs": 354.3999938964844,
+   "vortag": 360.0,
+   "veraenderung_pct": -1.555557250976558,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
-    349.0,
     345.700012,
     348.899994,
     349.799988,
-    354.899994
+    360.0,
+    354.399994
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.06999969482422,
+   "kurs": 39.029998779296875,
    "vortag": 39.33000183105469,
-   "veraenderung_pct": -0.6610783730632175,
+   "veraenderung_pct": -0.7627842303351562,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.029999,
     40.57,
     39.330002,
-    39.07
+    39.029999
    ]
   }
  ],
@@ -373,6 +373,22 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "Elon Musk blames Indian 'oligarchs' for stalling Starlink launch",
+    "link": "https://www.cnbc.com/2026/10/08/elon-musk-starlink-spacex-jio-airtel-india.html",
+    "zeit": "2026-10-08T08:43:44+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "France to release diesel reserves in a bid to calm student protests",
+    "link": "https://www.cnbc.com/2026/10/08/france-diesel-reserves-protests.html",
+    "zeit": "2026-10-08T08:32:44+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
    {
     "titel": "Russia's internet giant Yandex halts operations at major data center after drone attack",
     "link": "https://www.cnbc.com/2026/10/08/russia-yandex-ukraine-drone-strike-data-center.html",
@@ -406,17 +422,17 @@
     "sprache": "en"
    },
    {
+    "titel": "Schroders verstärkt ETF-Vertrieb in der Schweiz",
+    "link": "https://www.finews.ch/news/banken/73904-schroders-schweiz-vertrieb-etf-hans-joerg-morath",
+    "zeit": "2026-10-08T06:14:14+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "America shut out Chinese EVs. Britain welcomed them — and now faces a difficult choice",
     "link": "https://www.cnbc.com/2026/10/08/autos-china-evs-uk-tariffs-hybrid-cars.html",
     "zeit": "2026-10-08T05:30:49+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Elon Musk blames Indian 'oligarchs' for stalling Starlink launch",
-    "link": "https://www.cnbc.com/2026/10/08/elon-musk-starlink-spacex-jio-airtel-india.html",
-    "zeit": "2026-10-08T05:28:40+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -497,14 +513,6 @@
     "titel": "Inside India newsletter: Food crisis, economic shock ahead as India braces for El Niño",
     "link": "https://www.cnbc.com/2026/10/08/el-nino-food-economy-crisis-india.html",
     "zeit": "2026-10-08T00:14:40+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trump trade chief Greer reports higher cash holdings as law firm pay topped $650K",
-    "link": "https://www.cnbc.com/2026/10/07/jamieson-greer-financial-disclosure-coupang.html",
-    "zeit": "2026-10-07T23:10:54+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -601,14 +609,6 @@
     "titel": "Junge Schweizer überholen beim ETF-Wissen",
     "link": "https://www.finews.ch/news/banken/73881-finanzwissen-etfs-16-bis-29-jaehrige-wissensgraben-maenner-frauen-selbst-investieren-ohne-finanzanlagen",
     "zeit": "2026-10-07T07:05:59+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Immobilienpreise steigen etwas langsamer",
-    "link": "https://www.finews.ch/news/finanzplatz/73877-wohneigentum-wohnungen-einfamilienhaeuser-iazi",
-    "zeit": "2026-10-07T05:40:19+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
