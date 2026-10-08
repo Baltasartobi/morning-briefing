@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-08T11:20:57+02:00",
+ "aktualisiert": "2026-10-08T11:50:34+02:00",
  "kernaussagen": [
-  "SMI −1.10%, Nikkei 225 −1.42% am schwächsten",
-  "Franken schwächer: EUR/CHF 0.9365 (+0.43%)",
-  "Brent über 100 USD: 104.10 (+3.89%)"
+  "SMI −1.09%, Nikkei 225 −1.42% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9330 (−0.37%)",
+  "Brent über 100 USD: 104.09 (+3.88%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13656.169921875,
+   "kurs": 13657.4599609375,
    "vortag": 13808.419921875,
-   "veraenderung_pct": -1.1025881372481172,
+   "veraenderung_pct": -1.0932457282701313,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13703.530273,
     13788.929688,
     13808.419922,
-    13656.169922
+    13657.459961
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 24897.23046875,
+   "kurs": 24915.08984375,
    "vortag": 25104.359375,
-   "veraenderung_pct": -0.8250714672937143,
+   "veraenderung_pct": -0.7539309345550693,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25254.210938,
     25449.189453,
     25104.359375,
-    24897.230469
+    24915.089844
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6113.14013671875,
+   "kurs": 6115.490234375,
    "vortag": 6180.2900390625,
-   "veraenderung_pct": -1.0865170067962726,
+   "veraenderung_pct": -1.048491321247591,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6242.140137,
     6272.22998,
     6180.290039,
-    6113.140137
+    6115.490234
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.936519980430603,
-   "vortag": 0.932479977607727,
-   "veraenderung_pct": 0.4332535732553211,
-   "datum": "2026-10-07",
-   "ist_heute": false,
+   "kurs": 0.9330300092697144,
+   "vortag": 0.936519980430603,
+   "veraenderung_pct": -0.37265314502783475,
+   "datum": "2026-10-08",
+   "ist_heute": true,
    "verlauf": [
-    0.94654,
     0.93414,
     0.93193,
     0.93248,
-    0.93652
+    0.93652,
+    0.93303
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8343600034713745,
+   "kurs": 0.8342900276184082,
    "vortag": 0.8321800231933594,
-   "veraenderung_pct": 0.261960178958609,
+   "veraenderung_pct": 0.2535514391407867,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82811,
     0.83112,
     0.83218,
-    0.83436
+    0.83429
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4151.2998046875,
+   "kurs": 4146.39990234375,
    "vortag": 4140.7001953125,
-   "veraenderung_pct": 0.25598591723687836,
+   "veraenderung_pct": 0.13765080209628966,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4156.799805,
     4187.100098,
     4140.700195,
-    4151.299805
+    4146.399902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.0999984741211,
+   "kurs": 104.08999633789062,
    "vortag": 100.19999694824219,
-   "veraenderung_pct": 3.892217210239468,
+   "veraenderung_pct": 3.8822350380487425,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.32,
     100.580002,
     100.199997,
-    104.099998
+    104.089996
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82899.71875,
+   "kurs": 83032.1015625,
    "vortag": 83275.9296875,
-   "veraenderung_pct": -0.451764320028325,
+   "veraenderung_pct": -0.29279544030909044,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85786.59375,
     85557.5625,
     83275.929688,
-    82899.71875
+    83032.101562
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.54000091552734,
+   "kurs": 75.48999786376953,
    "vortag": 75.55999755859375,
-   "veraenderung_pct": -0.026464589349539658,
+   "veraenderung_pct": -0.0926412084250483,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     74.480003,
     75.199997,
     75.559998,
-    75.540001
+    75.489998
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 118.36000061035156,
+   "kurs": 118.33999633789062,
    "vortag": 120.0199966430664,
-   "veraenderung_pct": -1.3830995493622544,
+   "veraenderung_pct": -1.3997669989710304,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     116.480003,
     117.18,
     120.019997,
-    118.360001
+    118.339996
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 353.3999938964844,
+   "kurs": 353.29998779296875,
    "vortag": 360.0,
-   "veraenderung_pct": -1.8333350287543349,
+   "veraenderung_pct": -1.8611145019531206,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     348.899994,
     349.799988,
     360.0,
-    353.399994
+    353.299988
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.130001068115234,
+   "kurs": 39.25,
    "vortag": 39.33000183105469,
-   "veraenderung_pct": -0.5085195871553094,
+   "veraenderung_pct": -0.2034117145438774,
    "datum": "2026-10-08",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.029999,
     40.57,
     39.330002,
-    39.130001
+    39.25
    ]
   }
  ],
@@ -374,6 +374,30 @@
   ],
   "artikel": [
    {
+    "titel": "Trump says he doesn't want Iran deal as U.S. reportedly prepares for 'massive bombing'",
+    "link": "https://www.cnbc.com/2026/10/08/us-iran-war-trump-hormuz.html",
+    "zeit": "2026-10-08T09:45:20+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Russia's internet giant Yandex halts operations at major data center after drone attack",
+    "link": "https://www.cnbc.com/2026/10/08/russia-yandex-ukraine-drone-strike-data-center.html",
+    "zeit": "2026-10-08T09:40:36+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "After a yearslong slump, China's real estate market may be set for a turnaround",
+    "link": "https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html",
+    "zeit": "2026-10-08T09:27:31+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "France to release diesel reserves as student protests resume",
     "link": "https://www.cnbc.com/2026/10/08/france-diesel-reserves-protests.html",
     "zeit": "2026-10-08T09:16:41+00:00",
@@ -390,9 +414,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Russia's internet giant Yandex halts operations at major data center after drone attack",
-    "link": "https://www.cnbc.com/2026/10/08/russia-yandex-ukraine-drone-strike-data-center.html",
-    "zeit": "2026-10-08T08:17:47+00:00",
+    "titel": "Huawei doubles down on smartphones as EV sales slow",
+    "link": "https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html",
+    "zeit": "2026-10-08T08:04:11+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -492,30 +516,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Trump says he is not keen on a deal with Iran as U.S. reportedly prepares for 'massive bombing'",
-    "link": "https://www.cnbc.com/2026/10/08/us-iran-war-trump-hormuz.html",
-    "zeit": "2026-10-08T03:29:29+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
-    "link": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
-    "zeit": "2026-10-08T00:51:23+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trump trade chief Greer reports higher cash holdings as law firm pay topped $650K",
-    "link": "https://www.cnbc.com/2026/10/07/jamieson-greer-financial-disclosure-coupang.html",
-    "zeit": "2026-10-07T23:10:54+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "«Putsch gegen die direkte Demokratie»: Das Parlament will kantonale Mindestlöhne übersteuern, nun lancieren die Gewerkschaften den Abstimmungskampf",
