@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-09T06:50:10+02:00",
+ "aktualisiert": "2026-10-09T07:20:10+02:00",
  "kernaussagen": [
   "SMI −1.24%, Nasdaq −1.25% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9323 (−0.07%)",
-  "Brent über 100 USD: 102.76 (−1.46%)"
+  "Franken stärker: EUR/CHF 0.9325 (−0.05%)",
+  "Gold +1.33% auf 4'212.20 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 68949.0234375,
+   "kurs": 68982.4609375,
    "vortag": 69042.109375,
-   "veraenderung_pct": -0.13482487476506044,
+   "veraenderung_pct": -0.08639428609578115,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     70683.976562,
     70035.710938,
     69042.109375,
-    68949.023438
+    68982.460938
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9323499798774719,
+   "kurs": 0.9325100183486938,
    "vortag": 0.9330199956893921,
-   "veraenderung_pct": -0.07181151690378584,
+   "veraenderung_pct": -0.05465877934603958,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93248,
     0.93652,
     0.93302,
-    0.93235
+    0.93251
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8304200172424316,
-   "vortag": 0.8329799771308899,
-   "veraenderung_pct": -0.3073255010613507,
-   "datum": "2026-10-09",
-   "ist_heute": true,
+   "kurs": 0.8329799771308899,
+   "vortag": 0.8321800231933594,
+   "veraenderung_pct": 0.09612751030250166,
+   "datum": "2026-10-08",
+   "ist_heute": false,
    "verlauf": [
+    0.83053,
     0.82811,
     0.83112,
     0.83218,
-    0.83298,
-    0.83042
+    0.83298
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4207.7998046875,
+   "kurs": 4212.2001953125,
    "vortag": 4157.0,
-   "veraenderung_pct": 1.2220304230815549,
+   "veraenderung_pct": 1.327885381585281,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4187.100098,
     4140.700195,
     4157.0,
-    4207.799805
+    4212.200195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 102.76000213623047,
+   "kurs": 102.9000015258789,
    "vortag": 104.27999877929688,
-   "veraenderung_pct": -1.4576109137509619,
+   "veraenderung_pct": -1.323357565757799,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.580002,
     100.199997,
     104.279999,
-    102.760002
+    102.900002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82206.390625,
+   "kurs": 82450.4921875,
    "vortag": 83275.9296875,
-   "veraenderung_pct": -1.2843315787809728,
+   "veraenderung_pct": -0.9912077872892278,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85786.59375,
     85557.5625,
     83275.929688,
-    82206.390625
+    82450.492188
    ]
   }
  ],
@@ -374,6 +374,14 @@
   ],
   "artikel": [
    {
+    "titel": "Deutsch-französische Uneinigkeit: Ein gemeinsamer europäischer Kampfpanzer ist Geschichte",
+    "link": "https://www.nzz.ch/pro/deutsch-franzoesische-uneinigkeit-ein-gemeinsamer-europaeischer-kampfpanzer-bleibt-eine-illusion-ld.10016572",
+    "zeit": "2026-10-09T05:13:23+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Entführungen auf offener Strasse: wie die Militärjunta in Myanmar Soldaten rekrutiert",
     "link": "https://www.nzz.ch/international/entfuehrungen-auf-offener-strasse-wie-die-militaerjunta-in-myanmar-soldaten-rekrutiert-ld.10025761",
     "zeit": "2026-10-09T04:32:06+00:00",
@@ -521,14 +529,6 @@
     "titel": "Die deutsche Wirtschaft wächst stärker als erwartet. Es gibt aber ein Problem",
     "link": "https://www.nzz.ch/wirtschaft/die-deutsche-wirtschaft-waechst-staerker-als-erwartet-es-gibt-aber-ein-problem-ld.10028196",
     "zeit": "2026-10-08T13:55:58+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Die reichen Teens und Twens der Generation Z geben doppelt so viel Geld für Kunst aus wie ältere Generationen",
-    "link": "https://www.nzz.ch/wirtschaft/die-reichen-teens-und-twens-der-generation-z-geben-doppelt-so-viel-geld-fuer-kunst-aus-wie-aeltere-generationen-ld.10027975",
-    "zeit": "2026-10-08T13:18:25+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
