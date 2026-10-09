@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-09T18:20:11+02:00",
+ "aktualisiert": "2026-10-09T18:50:41+02:00",
  "kernaussagen": [
   "SMI +1.10%, Nikkei 225 −1.42% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9295 (−0.38%)",
-  "Gold +1.45% auf 4'217.30 USD/Unze · Brent über 100 USD"
+  "Franken stärker: EUR/CHF 0.9291 (−0.42%)",
+  "Gold +1.35% auf 4'213.20 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7806.39013671875,
+   "kurs": 7810.1201171875,
    "vortag": 7765.35986328125,
-   "veraenderung_pct": 0.5283756858650346,
+   "veraenderung_pct": 0.5764092674944932,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7818.930176,
     7801.77002,
     7765.359863,
-    7806.390137
+    7810.120117
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27352.375,
+   "kurs": 27362.080078125,
    "vortag": 27193.33984375,
-   "veraenderung_pct": 0.5848312754659801,
+   "veraenderung_pct": 0.6205204485530746,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27599.789062,
     27538.689453,
     27193.339844,
-    27352.375
+    27362.080078
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9294800162315369,
+   "kurs": 0.929099977016449,
    "vortag": 0.9330199956893921,
-   "veraenderung_pct": -0.37941088874945406,
+   "veraenderung_pct": -0.42014305063705626,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93248,
     0.93652,
     0.93302,
-    0.92948
+    0.9291
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8306199908256531,
+   "kurs": 0.8302299976348877,
    "vortag": 0.8329799771308899,
-   "veraenderung_pct": -0.28331849144388466,
+   "veraenderung_pct": -0.33013752689160514,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83112,
     0.83218,
     0.83298,
-    0.83062
+    0.83023
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4217.2998046875,
+   "kurs": 4213.2001953125,
    "vortag": 4157.0,
-   "veraenderung_pct": 1.4505606131224535,
+   "veraenderung_pct": 1.3519411910632773,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4187.100098,
     4140.700195,
     4157.0,
-    4217.299805
+    4213.200195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.41999816894531,
+   "kurs": 103.9800033569336,
    "vortag": 104.27999877929688,
-   "veraenderung_pct": 0.134253347993174,
+   "veraenderung_pct": -0.28768261016017815,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.580002,
     100.199997,
     104.279999,
-    104.419998
+    103.980003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82816.109375,
+   "kurs": 82714.4375,
    "vortag": 81676.3359375,
-   "veraenderung_pct": 1.3954757206201984,
+   "veraenderung_pct": 1.2709942856574452,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85557.5625,
     83275.929688,
     81676.335938,
-    82816.109375
+    82714.4375
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.257,
+   "wert": 5.253,
    "vortag": 5.231,
-   "veraenderung_bp": 2.6,
+   "veraenderung_bp": 2.2,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.269,
     5.277,
     5.231,
-    5.257
+    5.253
    ]
   }
  ],
@@ -374,6 +374,30 @@
   ],
   "artikel": [
    {
+    "titel": "Etappensieg für die EU: China verspricht, seine Exporte von Hybridfahrzeugen nach Europa zu halbieren",
+    "link": "https://www.nzz.ch/wirtschaft/etappensieg-fuer-die-eu-china-verspricht-seine-exporte-von-hybridfahrzeugen-nach-europa-zu-halbieren-ld.10029379",
+    "zeit": "2026-10-09T16:49:38+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Cramer: Investors selling Apple on latest iPhone 18 report are 'stupid as plywood'",
+    "link": "https://www.cnbc.com/investingclub/2026/10/09/cramer-investors-selling-apple-on-iphone-report-are-stupid-as-plywood.html",
+    "zeit": "2026-10-09T16:43:00+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Verizon stock heads for worst day since 2002 as SpaceX U.S. network plans whack telcos",
+    "link": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html",
+    "zeit": "2026-10-09T16:26:44+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Americans' debt problems are flashing a warning not seen since the Great Recession",
     "link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
     "zeit": "2026-10-09T16:10:41+00:00",
@@ -390,20 +414,20 @@
     "sprache": "en"
    },
    {
+    "titel": "Toskanisches Weingut – Grösster Weindiebstahl der Geschichte in der Toskana",
+    "link": "https://www.srf.ch/news/international/toskanisches-weingut-groesster-weindiebstahl-der-geschichte-in-der-toskana",
+    "zeit": "2026-10-09T16:02:50+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "WWF «Living Planet Report» – Weniger Artenvielfalt: Landwirtschaft und Finanzsektor in Kritik",
     "link": "https://www.srf.ch/news/wirtschaft/wwf-living-planet-report-weniger-artenvielfalt-landwirtschaft-und-finanzsektor-in-kritik",
     "zeit": "2026-10-09T16:02:11+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Jim Cramer sets a Starbucks buy level — plus his take on 3 stocks we just bought",
-    "link": "https://www.cnbc.com/investingclub/2026/10/09/cramer-sets-starbucks-buy-level-and-reviews-3-stocks-we-bought.html",
-    "zeit": "2026-10-09T15:47:15+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "ICE won't pause enforcement in NY after Bronx shooting, DHS' Mullin says",
@@ -476,14 +500,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries",
-    "link": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html",
-    "zeit": "2026-10-09T14:13:40+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "EU-Länder wollen mehr gemeinsame Finanzmarktaufsicht",
@@ -568,14 +584,6 @@
    {
     "titel": "Stellenabbau bei Tamedia: Das Medienhaus kämpft mit fortgesetztem Umsatzschwund",
     "link": "https://www.nzz.ch/wirtschaft/stellenabbau-bei-tamedia-das-medienhaus-kaempft-mit-fortgesetztem-umsatzschwund-ld.10028029",
-    "zeit": "2026-10-09T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Staaten können nicht mehr aus ihren Schulden herauswachsen, ermahnt der Währungsfonds",
-    "link": "https://www.nzz.ch/wirtschaft/staaten-koennen-nicht-mehr-aus-ihren-schulden-herauswachsen-ermahnt-der-waehrungsfonds-ld.10027844",
     "zeit": "2026-10-09T03:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
@@ -681,14 +689,6 @@
     "titel": "Teurere Fahrstunden? – Der hohe Benzinpreis belastet auch Fahrlehrer",
     "link": "https://www.srf.ch/news/wirtschaft/teurere-fahrstunden-der-hohe-benzinpreis-belastet-auch-fahrlehrer",
     "zeit": "2026-10-06T06:10:59+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Finanzen Opernhaus Zürich – Intendant: «Das Opernhaus ist wie ein Schwimmbad»",
-    "link": "https://www.srf.ch/news/wirtschaft/finanzen-opernhaus-zuerich-intendant-das-opernhaus-ist-wie-ein-schwimmbad",
-    "zeit": "2026-10-06T03:53:08+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
