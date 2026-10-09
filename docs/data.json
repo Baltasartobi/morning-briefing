@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-09T19:48:33+02:00",
+ "aktualisiert": "2026-10-09T20:22:08+02:00",
  "kernaussagen": [
   "SMI +1.10%, Nikkei 225 −1.42% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9294 (−0.39%)",
-  "Gold +1.50% auf 4'219.30 USD/Unze · Brent über 100 USD"
+  "Franken stärker: EUR/CHF 0.9295 (−0.38%)",
+  "Gold +1.60% auf 4'223.40 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7808.22021484375,
+   "kurs": 7812.66015625,
    "vortag": 7765.35986328125,
-   "veraenderung_pct": 0.5519428888951738,
+   "veraenderung_pct": 0.6091191368015059,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7818.930176,
     7801.77002,
     7765.359863,
-    7808.220215
+    7812.660156
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27342.119140625,
+   "kurs": 27361.630859375,
    "vortag": 27193.33984375,
-   "veraenderung_pct": 0.547116675369308,
+   "veraenderung_pct": 0.6188685045381837,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27599.789062,
     27538.689453,
     27193.339844,
-    27342.119141
+    27361.630859
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.929390013217926,
+   "kurs": 0.9294999837875366,
    "vortag": 0.9330199956893921,
-   "veraenderung_pct": -0.38905730726424004,
+   "veraenderung_pct": -0.37727078927762836,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93248,
     0.93652,
     0.93302,
-    0.92939
+    0.9295
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8302800059318542,
+   "kurs": 0.8300899863243103,
    "vortag": 0.8329799771308899,
-   "veraenderung_pct": -0.3241339855893588,
+   "veraenderung_pct": -0.34694601141961323,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83112,
     0.83218,
     0.83298,
-    0.83028
+    0.83009
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4219.2998046875,
+   "kurs": 4223.39990234375,
    "vortag": 4157.0,
-   "veraenderung_pct": 1.498672232078424,
+   "veraenderung_pct": 1.597303400138328,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4187.100098,
     4140.700195,
     4157.0,
-    4219.299805
+    4223.399902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.41999816894531,
+   "kurs": 104.55000305175781,
    "vortag": 104.27999877929688,
-   "veraenderung_pct": 0.134253347993174,
+   "veraenderung_pct": 0.2589223970287824,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.580002,
     100.199997,
     104.279999,
-    104.419998
+    104.550003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82596.0390625,
+   "kurs": 82500.0,
    "vortag": 81676.3359375,
-   "veraenderung_pct": 1.1260337703000944,
+   "veraenderung_pct": 1.008448840225018,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85557.5625,
     83275.929688,
     81676.335938,
-    82596.039062
+    82500.0
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.253,
+   "wert": 5.248,
    "vortag": 5.231,
-   "veraenderung_bp": 2.2,
+   "veraenderung_bp": 1.7,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.269,
     5.277,
     5.231,
-    5.253
+    5.248
    ]
   }
  ],
@@ -374,6 +374,30 @@
   ],
   "artikel": [
    {
+    "titel": "Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports",
+    "link": "https://www.cnbc.com/2026/10/09/iran-war-strait-hormuz-tanker-attack-oil.html",
+    "zeit": "2026-10-09T18:02:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
+    "link": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
+    "zeit": "2026-10-09T17:56:24+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "The used car market is stagnant. Here's how to profit anyway",
+    "link": "https://www.cnbc.com/2026/10/09/the-used-car-market-is-stagnant-heres-how-to-profit-anyway.html",
+    "zeit": "2026-10-09T17:37:31+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Verizon stock heads for worst day since 2002 as SpaceX U.S. network plans whack telcos",
     "link": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html",
     "zeit": "2026-10-09T17:18:32+00:00",
@@ -430,14 +454,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
-    "link": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
-    "zeit": "2026-10-09T16:10:02+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Toskanisches Weingut – Grösster Weindiebstahl der Geschichte in der Toskana",
     "link": "https://www.srf.ch/news/international/toskanisches-weingut-groesster-weindiebstahl-der-geschichte-in-der-toskana",
     "zeit": "2026-10-09T16:02:50+00:00",
@@ -473,22 +489,6 @@
     "titel": "Wall Street is pitching data centers as a major real estate bet. The risks are piling up",
     "link": "https://www.cnbc.com/2026/10/09/ai-data-centers-investing.html",
     "zeit": "2026-10-09T15:08:20+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "ChatGPT for Teens is not necessarily 'safer than the previous version,' Common Sense Media finds",
-    "link": "https://www.cnbc.com/make-it/2026/10/09/chatgpt-for-teens-safety-common-sense-media.html",
-    "zeit": "2026-10-09T15:07:53+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
-    "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
-    "zeit": "2026-10-09T15:07:46+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
