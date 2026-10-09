@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-09T18:50:41+02:00",
+ "aktualisiert": "2026-10-09T19:18:20+02:00",
  "kernaussagen": [
   "SMI +1.10%, Nikkei 225 −1.42% am schwächsten",
   "Franken stärker: EUR/CHF 0.9291 (−0.42%)",
-  "Gold +1.35% auf 4'213.20 USD/Unze · Brent über 100 USD"
+  "Gold +1.40% auf 4'215.30 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7810.1201171875,
+   "kurs": 7804.740234375,
    "vortag": 7765.35986328125,
-   "veraenderung_pct": 0.5764092674944932,
+   "veraenderung_pct": 0.5071287330798535,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7818.930176,
     7801.77002,
     7765.359863,
-    7810.120117
+    7804.740234
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27362.080078125,
+   "kurs": 27328.6328125,
    "vortag": 27193.33984375,
-   "veraenderung_pct": 0.6205204485530746,
+   "veraenderung_pct": 0.4975224430959102,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27599.789062,
     27538.689453,
     27193.339844,
-    27362.080078
+    27328.632812
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.929099977016449,
+   "kurs": 0.9290800094604492,
    "vortag": 0.9330199956893921,
-   "veraenderung_pct": -0.42014305063705626,
+   "veraenderung_pct": -0.42228315010888196,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93248,
     0.93652,
     0.93302,
-    0.9291
+    0.92908
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8302299976348877,
+   "kurs": 0.8298400044441223,
    "vortag": 0.8329799771308899,
-   "veraenderung_pct": -0.33013752689160514,
+   "veraenderung_pct": -0.3769565623393367,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83112,
     0.83218,
     0.83298,
-    0.83023
+    0.82984
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4213.2001953125,
+   "kurs": 4215.2998046875,
    "vortag": 4157.0,
-   "veraenderung_pct": 1.3519411910632773,
+   "veraenderung_pct": 1.4024489941664608,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4187.100098,
     4140.700195,
     4157.0,
-    4213.200195
+    4215.299805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 103.9800033569336,
+   "kurs": 103.80000305175781,
    "vortag": 104.27999877929688,
-   "veraenderung_pct": -0.28768261016017815,
+   "veraenderung_pct": -0.4602951027597779,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.580002,
     100.199997,
     104.279999,
-    103.980003
+    103.800003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82714.4375,
+   "kurs": 82607.3515625,
    "vortag": 81676.3359375,
-   "veraenderung_pct": 1.2709942856574452,
+   "veraenderung_pct": 1.1398841712395358,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85557.5625,
     83275.929688,
     81676.335938,
-    82714.4375
+    82607.351562
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.253,
+   "wert": 5.246,
    "vortag": 5.231,
-   "veraenderung_bp": 2.2,
+   "veraenderung_bp": 1.5,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.269,
     5.277,
     5.231,
-    5.253
+    5.246
    ]
   }
  ],
@@ -374,6 +374,38 @@
   ],
   "artikel": [
    {
+    "titel": "Verizon stock heads for worst day since 2002 as SpaceX U.S. network plans whack telcos",
+    "link": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html",
+    "zeit": "2026-10-09T17:16:31+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Tesla drops 'Full Self-Driving' brand name in Europe after regulator pushback",
+    "link": "https://www.cnbc.com/2026/10/09/tesla-full-self-driving-europe-regulator.html",
+    "zeit": "2026-10-09T17:12:32+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries",
+    "link": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html",
+    "zeit": "2026-10-09T17:12:17+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Lehren aus dem Crash von 1929 – Schulden und FOMO bringen Börsen öfter ins Schlingern – seit 1929",
+    "link": "https://www.srf.ch/news/wirtschaft/lehren-aus-dem-crash-von-1929-schulden-und-fomo-bringen-boersen-oefter-ins-schlingern-seit-1929",
+    "zeit": "2026-10-09T16:52:04+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Etappensieg für die EU: China verspricht, seine Exporte von Hybridfahrzeugen nach Europa zu halbieren",
     "link": "https://www.nzz.ch/wirtschaft/etappensieg-fuer-die-eu-china-verspricht-seine-exporte-von-hybridfahrzeugen-nach-europa-zu-halbieren-ld.10029379",
     "zeit": "2026-10-09T16:49:38+00:00",
@@ -385,14 +417,6 @@
     "titel": "Cramer: Investors selling Apple on latest iPhone 18 report are 'stupid as plywood'",
     "link": "https://www.cnbc.com/investingclub/2026/10/09/cramer-investors-selling-apple-on-iphone-report-are-stupid-as-plywood.html",
     "zeit": "2026-10-09T16:43:00+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Verizon stock heads for worst day since 2002 as SpaceX U.S. network plans whack telcos",
-    "link": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html",
-    "zeit": "2026-10-09T16:26:44+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -465,22 +489,6 @@
     "titel": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
     "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
     "zeit": "2026-10-09T15:07:46+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "China and Europe agree to cut Chinese hybrid vehicle exports by half",
-    "link": "https://www.cnbc.com/2026/10/09/china-europe-hybrid-vehicle-exports-deal.html",
-    "zeit": "2026-10-09T15:03:10+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "NBA Commissioner Adam Silver says he still intends to get a deal done with EuroLeague as he plans launch of NBA Europe",
-    "link": "https://www.cnbc.com/2026/10/09/nba-commissioner-adam-silver-says-euroleague-deal-still-on-table.html",
-    "zeit": "2026-10-09T14:50:32+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -681,14 +689,6 @@
     "titel": "Jobs in Redaktionen gestrichen – 34 Stellen weg bei Tamedia – ohne Einfluss auf Qualität?",
     "link": "https://www.srf.ch/news/wirtschaft/jobs-in-redaktionen-gestrichen-34-stellen-weg-bei-tamedia-ohne-einfluss-auf-qualitaet",
     "zeit": "2026-10-06T11:47:42+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Teurere Fahrstunden? – Der hohe Benzinpreis belastet auch Fahrlehrer",
-    "link": "https://www.srf.ch/news/wirtschaft/teurere-fahrstunden-der-hohe-benzinpreis-belastet-auch-fahrlehrer",
-    "zeit": "2026-10-06T06:10:59+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
