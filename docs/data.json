@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-09T13:19:50+02:00",
+ "aktualisiert": "2026-10-09T13:48:32+02:00",
  "kernaussagen": [
-  "SMI +0.89%, Nasdaq −1.25% am schwächsten",
+  "SMI +0.99%, Nasdaq −1.25% am schwächsten",
   "Franken stärker: EUR/CHF 0.9315 (−0.16%)",
-  "Brent über 100 USD: 102.78 (−1.44%)"
+  "Bitcoin +2.08% auf 83'372 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13758.3203125,
+   "kurs": 13771.330078125,
    "vortag": 13637.0,
-   "veraenderung_pct": 0.8896407750971669,
+   "veraenderung_pct": 0.9850412709906831,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13788.929688,
     13808.419922,
     13637.0,
-    13758.320312
+    13771.330078
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25067.640625,
+   "kurs": 25106.279296875,
    "vortag": 24806.970703125,
-   "veraenderung_pct": 1.050793041175968,
+   "veraenderung_pct": 1.2065503576875525,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25449.189453,
     25104.359375,
     24806.970703,
-    25067.640625
+    25106.279297
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6176.91015625,
+   "kurs": 6188.4501953125,
    "vortag": 6126.72998046875,
-   "veraenderung_pct": 0.8190368425117223,
+   "veraenderung_pct": 1.0073924432855152,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6272.22998,
     6180.290039,
     6126.72998,
-    6176.910156
+    6188.450195
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9315000176429749,
+   "kurs": 0.9315400123596191,
    "vortag": 0.9330199956893921,
-   "veraenderung_pct": -0.16290948248051107,
+   "veraenderung_pct": -0.1586228951802271,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93248,
     0.93652,
     0.93302,
-    0.9315
+    0.93154
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8310199975967407,
+   "kurs": 0.8307499885559082,
    "vortag": 0.8329799771308899,
-   "veraenderung_pct": -0.23529731661739994,
+   "veraenderung_pct": -0.2677121462946408,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83112,
     0.83218,
     0.83298,
-    0.83102
+    0.83075
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4200.39990234375,
+   "kurs": 4208.60009765625,
    "vortag": 4157.0,
-   "veraenderung_pct": 1.0440197821445674,
+   "veraenderung_pct": 1.2412821182643752,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4187.100098,
     4140.700195,
     4157.0,
-    4200.399902
+    4208.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 102.77999877929688,
+   "kurs": 102.80000305175781,
    "vortag": 104.27999877929688,
-   "veraenderung_pct": -1.4384349995771206,
+   "veraenderung_pct": -1.419251769144525,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.580002,
     100.199997,
     104.279999,
-    102.779999
+    102.800003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82491.6484375,
+   "kurs": 83371.6328125,
    "vortag": 81676.3359375,
-   "veraenderung_pct": 0.9982236478187412,
+   "veraenderung_pct": 2.0756279717264237,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85557.5625,
     83275.929688,
     81676.335938,
-    82491.648438
+    83371.632812
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.77999877929688,
+   "kurs": 75.88999938964844,
    "vortag": 76.0,
-   "veraenderung_pct": -0.289475290398844,
+   "veraenderung_pct": -0.144737645199422,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     75.199997,
     75.559998,
     76.0,
-    75.779999
+    75.889999
    ]
   },
   {
@@ -315,7 +315,19 @@
    "symbol": "ROP.SW",
    "einheit": "CHF",
    "dezimalen": 2,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 357.0,
+   "vortag": 352.70001220703125,
+   "veraenderung_pct": 1.2191629271746995,
+   "datum": "2026-10-09",
+   "ist_heute": true,
+   "verlauf": [
+    348.899994,
+    349.799988,
+    360.0,
+    352.700012,
+    357.0
+   ]
   },
   {
    "name": "UBS",
@@ -323,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.72999954223633,
+   "kurs": 39.790000915527344,
    "vortag": 38.83000183105469,
-   "veraenderung_pct": 2.317789515172919,
+   "veraenderung_pct": 2.4723127458234906,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -333,7 +345,7 @@
     40.57,
     39.330002,
     38.830002,
-    39.73
+    39.790001
    ]
   }
  ],
@@ -362,6 +374,38 @@
   ],
   "artikel": [
    {
+    "titel": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as adviser",
+    "link": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
+    "zeit": "2026-10-09T11:43:57+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "For the final 10% of cystic fibrosis patients, the breakthrough still hasn't come",
+    "link": "https://www.cnbc.com/2026/10/09/for-the-final-10percent-of-cystic-fibrosis-the-breakthrough-hasnt-come.html",
+    "zeit": "2026-10-09T11:43:02+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Nobel winner Krugman says France may have become 'too big to save'",
+    "link": "https://www.cnbc.com/2026/10/09/nobel-krugman-france-debt.html",
+    "zeit": "2026-10-09T11:33:48+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
+    "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
+    "zeit": "2026-10-09T11:31:28+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "South Africa lawyer 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecute war crimes, genocide",
     "link": "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html",
     "zeit": "2026-10-09T11:11:55+00:00",
@@ -386,28 +430,12 @@
     "sprache": "en"
    },
    {
-    "titel": "For the final 10% of cystic fibrosis, the breakthrough still hasn't come",
-    "link": "https://www.cnbc.com/2026/10/09/for-the-final-10percent-of-cystic-fibrosis-the-breakthrough-hasnt-come.html",
-    "zeit": "2026-10-09T11:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Elon Musks nächster Streich: SpaceX bläst mit einem Milliardendeal zum Angriff auf die Telekomriesen",
     "link": "https://www.nzz.ch/wirtschaft/elon-musks-naechster-streich-spacex-blaest-mit-einem-milliardendeal-zum-angriff-auf-die-telekomriesen-ld.10029002",
     "zeit": "2026-10-09T10:55:55+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
-    "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
-    "zeit": "2026-10-09T10:47:40+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Musks Mobilfunkpläne – Wie gefährlich wird Starlink für Schweizer Mobilfunkanbieter?",
@@ -458,14 +486,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
-    "link": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
-    "zeit": "2026-10-09T06:30:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Deutsch-französische Uneinigkeit: Ein gemeinsamer europäischer Kampfpanzer ist Geschichte",
     "link": "https://www.nzz.ch/pro/deutsch-franzoesische-uneinigkeit-ein-gemeinsamer-europaeischer-kampfpanzer-bleibt-eine-illusion-ld.10016572",
     "zeit": "2026-10-09T05:13:23+00:00",
@@ -488,14 +508,6 @@
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "'Real boss of India?': Elon Musk takes aim at Indian billionaire Ambani as Starlink launch stalls",
-    "link": "https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html",
-    "zeit": "2026-10-09T04:11:59+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "St. Galler Kantonalbank baut Deutschlandgeschäft aus",
