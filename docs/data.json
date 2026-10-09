@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-09T15:51:09+02:00",
+ "aktualisiert": "2026-10-09T16:23:03+02:00",
  "kernaussagen": [
-  "SMI +1.14%, DAX +1.36% führt",
-  "Franken stärker: EUR/CHF 0.9306 (−0.25%)",
-  "Gold +1.29% auf 4'210.80 USD/Unze · Brent über 100 USD"
+  "SMI +1.12%, DAX +1.23% führt",
+  "Franken stärker: EUR/CHF 0.9304 (−0.29%)",
+  "Bitcoin +1.71% auf 83'077 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13793.0595703125,
+   "kurs": 13789.5,
    "vortag": 13637.0,
-   "veraenderung_pct": 1.1443834443976009,
+   "veraenderung_pct": 1.1182811468798182,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13788.929688,
     13808.419922,
     13637.0,
-    13793.05957
+    13789.5
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25143.240234375,
+   "kurs": 25111.380859375,
    "vortag": 24806.970703125,
-   "veraenderung_pct": 1.3555445172015235,
+   "veraenderung_pct": 1.227115393866507,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25449.189453,
     25104.359375,
     24806.970703,
-    25143.240234
+    25111.380859
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6199.93994140625,
+   "kurs": 6180.64013671875,
    "vortag": 6126.72998046875,
-   "veraenderung_pct": 1.1949271662189176,
+   "veraenderung_pct": 0.879917287392451,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6272.22998,
     6180.290039,
     6126.72998,
-    6199.939941
+    6180.640137
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7784.41015625,
+   "kurs": 7792.14990234375,
    "vortag": 7765.35986328125,
-   "veraenderung_pct": 0.24532401980272844,
+   "veraenderung_pct": 0.3449941732794226,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7818.930176,
     7801.77002,
     7765.359863,
-    7784.410156
+    7792.149902
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27271.130859375,
+   "kurs": 27295.0078125,
    "vortag": 27193.33984375,
-   "veraenderung_pct": 0.2860664268235391,
+   "veraenderung_pct": 0.373870842398083,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27599.789062,
     27538.689453,
     27193.339844,
-    27271.130859
+    27295.007812
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.930649995803833,
+   "kurs": 0.9303600192070007,
    "vortag": 0.9330199956893921,
-   "veraenderung_pct": -0.2540138364138578,
+   "veraenderung_pct": -0.2850931914300414,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93248,
     0.93652,
     0.93302,
-    0.93065
+    0.93036
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8329799771308899,
-   "vortag": 0.8321800231933594,
-   "veraenderung_pct": 0.09612751030250166,
-   "datum": "2026-10-08",
-   "ist_heute": false,
+   "kurs": 0.8312100172042847,
+   "vortag": 0.8329799771308899,
+   "veraenderung_pct": -0.2124852907871455,
+   "datum": "2026-10-09",
+   "ist_heute": true,
    "verlauf": [
-    0.83053,
     0.82811,
     0.83112,
     0.83218,
-    0.83298
+    0.83298,
+    0.83121
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4210.7998046875,
+   "kurs": 4213.0,
    "vortag": 4157.0,
-   "veraenderung_pct": 1.2941978515155217,
+   "veraenderung_pct": 1.3471253307673736,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4187.100098,
     4140.700195,
     4157.0,
-    4210.799805
+    4213.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 103.7699966430664,
+   "kurs": 103.83999633789062,
    "vortag": 104.27999877929688,
-   "veraenderung_pct": -0.48906994840867135,
+   "veraenderung_pct": -0.42194327441208435,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.580002,
     100.199997,
     104.279999,
-    103.769997
+    103.839996
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82601.1796875,
+   "kurs": 83076.828125,
    "vortag": 81676.3359375,
-   "veraenderung_pct": 1.132327667964561,
+   "veraenderung_pct": 1.7146853754209435,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85557.5625,
     83275.929688,
     81676.335938,
-    82601.179688
+    83076.828125
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.253,
+   "wert": 5.261,
    "vortag": 5.231,
-   "veraenderung_bp": 2.2,
+   "veraenderung_bp": 3.0,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.269,
     5.277,
     5.231,
-    5.253
+    5.261
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 76.0,
+   "kurs": 75.8499984741211,
    "vortag": 76.0,
-   "veraenderung_pct": 0.0,
+   "veraenderung_pct": -0.19737042878803512,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     75.199997,
     75.559998,
     76.0,
-    76.0
+    75.849998
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 119.37999725341797,
+   "kurs": 119.41999816894531,
    "vortag": 117.72000122070312,
-   "veraenderung_pct": 1.4101223373270688,
+   "veraenderung_pct": 1.4441020477522937,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     117.18,
     120.019997,
     117.720001,
-    119.379997
+    119.419998
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.72999954223633,
+   "kurs": 39.630001068115234,
    "vortag": 38.83000183105469,
-   "veraenderung_pct": 2.317789515172919,
+   "veraenderung_pct": 2.0602606215195607,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.57,
     39.330002,
     38.830002,
-    39.73
+    39.630001
    ]
   }
  ],
@@ -374,33 +374,25 @@
   ],
   "artikel": [
    {
-    "titel": "OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust",
-    "link": "https://www.cnbc.com/2026/10/09/openai-anthropic-poach-trump-officials.html",
-    "zeit": "2026-10-09T13:49:54+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "Online-Marktplatz gehackt – «Keine Erpressung» – Ricardo meldet Datenleck bei 890'000 Konten",
+    "link": "https://www.srf.ch/news/schweiz/online-marktplatz-gehackt-keine-erpressung-ricardo-meldet-datenleck-bei-890-000-konten",
+    "zeit": "2026-10-09T14:19:32+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
-    "titel": "Wall Street is pitching data centers as a major real estate bet. The risks are piling up",
-    "link": "https://www.cnbc.com/2026/10/09/ai-data-centers-investing.html",
-    "zeit": "2026-10-09T13:45:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "Elon Musks nächster Streich: SpaceX bläst mit einem Milliarden-Deal zum Angriff auf die Telekomriesen",
+    "link": "https://www.nzz.ch/wirtschaft/elon-musks-naechster-streich-spacex-blaest-mit-einem-milliardendeal-zum-angriff-auf-die-telekomriesen-ld.10029002",
+    "zeit": "2026-10-09T14:17:22+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
-    "titel": "ICE won't pause enforcement in NY after Bronx shooting, DHS's Mullin says",
-    "link": "https://www.cnbc.com/2026/10/09/ice-bronx-shooting-mamdani-dhs.html",
-    "zeit": "2026-10-09T13:44:29+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
-    "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
-    "zeit": "2026-10-09T13:38:10+00:00",
+    "titel": "AI agents like Muse can shop for you. Here's what that means for retail stocks",
+    "link": "https://www.cnbc.com/investingclub/2026/10/09/ai-agents-could-soon-shop-for-consumers-what-it-means-for-retail-stocks.html",
+    "zeit": "2026-10-09T14:15:38+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -408,7 +400,71 @@
    {
     "titel": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries",
     "link": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html",
-    "zeit": "2026-10-09T13:18:07+00:00",
+    "zeit": "2026-10-09T14:13:40+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "NBA commissioner says league wants access to prediction market data to detect manipulation",
+    "link": "https://www.cnbc.com/2026/10/09/nba-commissioner-says-league-wants-access-to-prediction-market-data-to-detect-manipulation.html",
+    "zeit": "2026-10-09T14:12:35+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "South Africa lawyer 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecute war crimes, genocide",
+    "link": "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html",
+    "zeit": "2026-10-09T14:12:23+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
+    "link": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
+    "zeit": "2026-10-09T14:11:48+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Americans' debt problems are flashing a warning not seen since the Great Recession",
+    "link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
+    "zeit": "2026-10-09T14:03:24+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "ICE won't pause enforcement in NY after Bronx shooting, DHS's Mullin says",
+    "link": "https://www.cnbc.com/2026/10/09/ice-bronx-shooting-mamdani-dhs.html",
+    "zeit": "2026-10-09T13:59:14+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Wall Street is pitching data centers as a major real estate bet. The risks are piling up",
+    "link": "https://www.cnbc.com/2026/10/09/ai-data-centers-investing.html",
+    "zeit": "2026-10-09T13:59:12+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Kalshi traders see high odds that more than 5,100 data centers will be planned or operating before 2027",
+    "link": "https://www.cnbc.com/2026/10/09/kalshi-traders-see-high-odds-of-5000-plus-data-centers-by-2027.html",
+    "zeit": "2026-10-09T13:53:52+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
+    "link": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
+    "zeit": "2026-10-09T13:52:27+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -417,62 +473,6 @@
     "titel": "EU-Länder wollen mehr gemeinsame Finanzmarktaufsicht",
     "link": "https://www.nzz.ch/wirtschaft/eu-laender-wollen-mehr-gemeinsame-finanzmarktaufsicht-ld.10029337",
     "zeit": "2026-10-09T13:10:22+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor",
-    "link": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
-    "zeit": "2026-10-09T13:09:19+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Tech stocks' resilience has puzzled investors. The options market could hold some clues",
-    "link": "https://www.cnbc.com/2026/10/09/tech-stocks-resilience-has-puzzled-investors-the-options-market-could-hold-some-clues.html",
-    "zeit": "2026-10-09T13:07:30+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Living with Mom and trading on margin. The regular investor gets in on Wall Street's record stock borrowing binge",
-    "link": "https://www.cnbc.com/2026/10/09/margin-debt-stock-market-risk.html",
-    "zeit": "2026-10-09T13:03:19+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Jim Cramer's top 10 things to watch in the stock market Friday",
-    "link": "https://www.cnbc.com/investingclub/2026/10/09/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
-    "zeit": "2026-10-09T13:01:32+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Online-Marktplatz gehackt – Ricardo meldet Datenleck bei 890'000 Konten",
-    "link": "https://www.srf.ch/news/schweiz/online-marktplatz-gehackt-ricardo-meldet-datenleck-bei-890-000-konten",
-    "zeit": "2026-10-09T12:40:11+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "How to navigate new tax rules in year-end planning, according to top-ranked advisors",
-    "link": "https://www.cnbc.com/2026/10/09/year-end-tax-strategies-2026.html",
-    "zeit": "2026-10-09T12:15:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Elon Musks nächster Streich: SpaceX bläst mit einem Milliardendeal zum Angriff auf die Telekomriesen",
-    "link": "https://www.nzz.ch/wirtschaft/elon-musks-naechster-streich-spacex-blaest-mit-einem-milliardendeal-zum-angriff-auf-die-telekomriesen-ld.10029002",
-    "zeit": "2026-10-09T10:55:55+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
