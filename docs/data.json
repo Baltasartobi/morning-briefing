@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-09T17:51:20+02:00",
+ "aktualisiert": "2026-10-09T18:20:11+02:00",
  "kernaussagen": [
   "SMI +1.10%, Nikkei 225 −1.42% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9301 (−0.32%)",
-  "Bitcoin +1.53% auf 82'928 USD · Brent über 100 USD"
+  "Franken stärker: EUR/CHF 0.9295 (−0.38%)",
+  "Gold +1.45% auf 4'217.30 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7801.89990234375,
+   "kurs": 7806.39013671875,
    "vortag": 7765.35986328125,
-   "veraenderung_pct": 0.47055178003121423,
+   "veraenderung_pct": 0.5283756858650346,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7818.930176,
     7801.77002,
     7765.359863,
-    7801.899902
+    7806.390137
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27341.943359375,
+   "kurs": 27352.375,
    "vortag": 27193.33984375,
-   "veraenderung_pct": 0.5464702624939033,
+   "veraenderung_pct": 0.5848312754659801,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27599.789062,
     27538.689453,
     27193.339844,
-    27341.943359
+    27352.375
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9300500154495239,
+   "kurs": 0.9294800162315369,
    "vortag": 0.9330199956893921,
-   "veraenderung_pct": -0.31831903427468333,
+   "veraenderung_pct": -0.37941088874945406,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93248,
     0.93652,
     0.93302,
-    0.93005
+    0.92948
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8329799771308899,
-   "vortag": 0.8321800231933594,
-   "veraenderung_pct": 0.09612751030250166,
-   "datum": "2026-10-08",
-   "ist_heute": false,
+   "kurs": 0.8306199908256531,
+   "vortag": 0.8329799771308899,
+   "veraenderung_pct": -0.28331849144388466,
+   "datum": "2026-10-09",
+   "ist_heute": true,
    "verlauf": [
-    0.83053,
     0.82811,
     0.83112,
     0.83218,
-    0.83298
+    0.83298,
+    0.83062
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4214.39990234375,
+   "kurs": 4217.2998046875,
    "vortag": 4157.0,
-   "veraenderung_pct": 1.3808011148364274,
+   "veraenderung_pct": 1.4505606131224535,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4187.100098,
     4140.700195,
     4157.0,
-    4214.399902
+    4217.299805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.81999969482422,
+   "kurs": 104.41999816894531,
    "vortag": 104.27999877929688,
-   "veraenderung_pct": 0.5178374777988104,
+   "veraenderung_pct": 0.134253347993174,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.580002,
     100.199997,
     104.279999,
-    104.82
+    104.419998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82928.328125,
+   "kurs": 82816.109375,
    "vortag": 81676.3359375,
-   "veraenderung_pct": 1.5328701675085377,
+   "veraenderung_pct": 1.3954757206201984,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85557.5625,
     83275.929688,
     81676.335938,
-    82928.328125
+    82816.109375
    ]
   }
  ],
@@ -256,7 +256,19 @@
   {
    "name": "USA",
    "quelle": "yahoo",
-   "verfuegbar": false
+   "verfuegbar": true,
+   "wert": 5.257,
+   "vortag": 5.231,
+   "veraenderung_bp": 2.6,
+   "datum": "2026-10-09",
+   "ist_heute": true,
+   "verlauf": [
+    5.311,
+    5.269,
+    5.277,
+    5.231,
+    5.257
+   ]
   }
  ],
  "watchlist": [
@@ -362,6 +374,30 @@
   ],
   "artikel": [
    {
+    "titel": "Americans' debt problems are flashing a warning not seen since the Great Recession",
+    "link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
+    "zeit": "2026-10-09T16:10:41+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
+    "link": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
+    "zeit": "2026-10-09T16:10:02+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "WWF «Living Planet Report» – Weniger Artenvielfalt: Landwirtschaft und Finanzsektor in Kritik",
+    "link": "https://www.srf.ch/news/wirtschaft/wwf-living-planet-report-weniger-artenvielfalt-landwirtschaft-und-finanzsektor-in-kritik",
+    "zeit": "2026-10-09T16:02:11+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Jim Cramer sets a Starbucks buy level — plus his take on 3 stocks we just bought",
     "link": "https://www.cnbc.com/investingclub/2026/10/09/cramer-sets-starbucks-buy-level-and-reviews-3-stocks-we-bought.html",
     "zeit": "2026-10-09T15:47:15+00:00",
@@ -384,14 +420,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
-    "link": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
-    "zeit": "2026-10-09T15:18:12+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Wall Street is pitching data centers as a major real estate bet. The risks are piling up",
@@ -429,14 +457,6 @@
     "titel": "NBA Commissioner Adam Silver says he still intends to get a deal done with EuroLeague as he plans launch of NBA Europe",
     "link": "https://www.cnbc.com/2026/10/09/nba-commissioner-adam-silver-says-euroleague-deal-still-on-table.html",
     "zeit": "2026-10-09T14:50:32+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Americans' debt problems are flashing a warning not seen since the Great Recession",
-    "link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
-    "zeit": "2026-10-09T14:30:06+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -669,14 +689,6 @@
     "titel": "Finanzen Opernhaus Zürich – Intendant: «Das Opernhaus ist wie ein Schwimmbad»",
     "link": "https://www.srf.ch/news/wirtschaft/finanzen-opernhaus-zuerich-intendant-das-opernhaus-ist-wie-ein-schwimmbad",
     "zeit": "2026-10-06T03:53:08+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Ozempic, Wegovy oder Mounjaro – Abnehmspritzen auf Krankenkassenkosten: Wer soll das bezahlen?",
-    "link": "https://www.srf.ch/news/schweiz/ozempic-wegovy-oder-mounjaro-abnehmspritzen-auf-krankenkassenkosten-wer-soll-das-bezahlen",
-    "zeit": "2026-10-05T14:55:32+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
