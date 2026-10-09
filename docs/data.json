@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-09T19:18:20+02:00",
+ "aktualisiert": "2026-10-09T19:48:33+02:00",
  "kernaussagen": [
   "SMI +1.10%, Nikkei 225 −1.42% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9291 (−0.42%)",
-  "Gold +1.40% auf 4'215.30 USD/Unze · Brent über 100 USD"
+  "Franken stärker: EUR/CHF 0.9294 (−0.39%)",
+  "Gold +1.50% auf 4'219.30 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7804.740234375,
+   "kurs": 7808.22021484375,
    "vortag": 7765.35986328125,
-   "veraenderung_pct": 0.5071287330798535,
+   "veraenderung_pct": 0.5519428888951738,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7818.930176,
     7801.77002,
     7765.359863,
-    7804.740234
+    7808.220215
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27328.6328125,
+   "kurs": 27342.119140625,
    "vortag": 27193.33984375,
-   "veraenderung_pct": 0.4975224430959102,
+   "veraenderung_pct": 0.547116675369308,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27599.789062,
     27538.689453,
     27193.339844,
-    27328.632812
+    27342.119141
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9290800094604492,
+   "kurs": 0.929390013217926,
    "vortag": 0.9330199956893921,
-   "veraenderung_pct": -0.42228315010888196,
+   "veraenderung_pct": -0.38905730726424004,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93248,
     0.93652,
     0.93302,
-    0.92908
+    0.92939
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8298400044441223,
+   "kurs": 0.8302800059318542,
    "vortag": 0.8329799771308899,
-   "veraenderung_pct": -0.3769565623393367,
+   "veraenderung_pct": -0.3241339855893588,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83112,
     0.83218,
     0.83298,
-    0.82984
+    0.83028
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4215.2998046875,
+   "kurs": 4219.2998046875,
    "vortag": 4157.0,
-   "veraenderung_pct": 1.4024489941664608,
+   "veraenderung_pct": 1.498672232078424,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4187.100098,
     4140.700195,
     4157.0,
-    4215.299805
+    4219.299805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 103.80000305175781,
+   "kurs": 104.41999816894531,
    "vortag": 104.27999877929688,
-   "veraenderung_pct": -0.4602951027597779,
+   "veraenderung_pct": 0.134253347993174,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.580002,
     100.199997,
     104.279999,
-    103.800003
+    104.419998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82607.3515625,
+   "kurs": 82596.0390625,
    "vortag": 81676.3359375,
-   "veraenderung_pct": 1.1398841712395358,
+   "veraenderung_pct": 1.1260337703000944,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85557.5625,
     83275.929688,
     81676.335938,
-    82607.351562
+    82596.039062
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.246,
+   "wert": 5.253,
    "vortag": 5.231,
-   "veraenderung_bp": 1.5,
+   "veraenderung_bp": 2.2,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.269,
     5.277,
     5.231,
-    5.246
+    5.253
    ]
   }
  ],
@@ -376,7 +376,7 @@
    {
     "titel": "Verizon stock heads for worst day since 2002 as SpaceX U.S. network plans whack telcos",
     "link": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html",
-    "zeit": "2026-10-09T17:16:31+00:00",
+    "zeit": "2026-10-09T17:18:32+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
