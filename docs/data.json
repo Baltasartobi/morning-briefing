@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-09T07:49:36+02:00",
+ "aktualisiert": "2026-10-09T08:26:07+02:00",
  "kernaussagen": [
   "SMI −1.24%, Nasdaq −1.25% am schwächsten",
-  "Franken stabil: EUR/CHF 0.9328 (−0.02%)",
-  "Gold +1.69% auf 4'227.40 USD/Unze · Brent über 100 USD"
+  "Franken stabil: EUR/CHF 0.9330 (−0.01%)",
+  "Gold +1.50% auf 4'219.50 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 69013.5390625,
+   "kurs": 69104.1875,
    "vortag": 69042.109375,
-   "veraenderung_pct": -0.0413809959727951,
+   "veraenderung_pct": 0.08991342466497798,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     70683.976562,
     70035.710938,
     69042.109375,
-    69013.539062
+    69104.1875
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9328100085258484,
+   "kurs": 0.9329599738121033,
    "vortag": 0.9330199956893921,
-   "veraenderung_pct": -0.022506180415626797,
+   "veraenderung_pct": -0.006433075128731147,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93248,
     0.93652,
     0.93302,
-    0.93281
+    0.93296
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.830079972743988,
+   "kurs": 0.8309699892997742,
    "vortag": 0.8329799771308899,
-   "veraenderung_pct": -0.34814815079836636,
+   "veraenderung_pct": -0.24130085791964628,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83112,
     0.83218,
     0.83298,
-    0.83008
+    0.83097
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4227.39990234375,
+   "kurs": 4219.5,
    "vortag": 4157.0,
-   "veraenderung_pct": 1.693526638050269,
+   "veraenderung_pct": 1.5034880923743055,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4187.100098,
     4140.700195,
     4157.0,
-    4227.399902
+    4219.5
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 102.83999633789062,
+   "kurs": 103.11000061035156,
    "vortag": 104.27999877929688,
-   "veraenderung_pct": -1.3808999407968314,
+   "veraenderung_pct": -1.1219775437680601,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.580002,
     100.199997,
     104.279999,
-    102.839996
+    103.110001
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82304.1015625,
+   "kurs": 82418.3125,
    "vortag": 83275.9296875,
-   "veraenderung_pct": -1.1669976290230144,
+   "veraenderung_pct": -1.029850030757129,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85786.59375,
     85557.5625,
     83275.929688,
-    82304.101562
+    82418.3125
    ]
   }
  ],
@@ -374,6 +374,14 @@
   ],
   "artikel": [
    {
+    "titel": "Ray Dalio warns the stock market's cushion against rising bond yields is shrinking",
+    "link": "https://www.cnbc.com/2026/10/08/ray-dalio-stocks-bond-yields.html",
+    "zeit": "2026-10-09T06:16:19+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Deutsch-französische Uneinigkeit: Ein gemeinsamer europäischer Kampfpanzer ist Geschichte",
     "link": "https://www.nzz.ch/pro/deutsch-franzoesische-uneinigkeit-ein-gemeinsamer-europaeischer-kampfpanzer-bleibt-eine-illusion-ld.10016572",
     "zeit": "2026-10-09T05:13:23+00:00",
@@ -396,6 +404,14 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "St. Galler Kantonalbank baut Deutschlandgeschäft aus",
+    "link": "https://www.finews.ch/news/banken/73913-sgkb-ceo-christian-schmid-deutschland-expansion-wachstum",
+    "zeit": "2026-10-09T03:52:03+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
@@ -481,14 +497,6 @@
     "titel": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
     "link": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
     "zeit": "2026-10-08T22:55:46+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
-    "link": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-    "zeit": "2026-10-08T21:19:14+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -617,14 +625,6 @@
     "titel": "Raiffeisen schraubt Konjunkturprognose kräftig nach oben",
     "link": "https://www.finews.ch/news/finanzplatz/73891-raiffeisen-prognose-konjunktur-schweiz-inflation-snb-zinsen",
     "zeit": "2026-10-07T10:44:42+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Solutio plant 150-Millionen-Fonds für Verteidigung – exklusiv für die Schweiz",
-    "link": "https://www.finews.ch/news/finanzplatz/73887-solutio-schweizer-geschaeft-private-markets-fonds-fuer-verteidigung-sicherheit-resiliente-infrastruktur-sowie-luft-und-raumfahrt-institutionelle-anleger-in-der-schweiz",
-    "zeit": "2026-10-07T09:37:19+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
