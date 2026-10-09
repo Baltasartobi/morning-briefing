@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-09T16:23:03+02:00",
+ "aktualisiert": "2026-10-09T16:52:22+02:00",
  "kernaussagen": [
-  "SMI +1.12%, DAX +1.23% führt",
-  "Franken stärker: EUR/CHF 0.9304 (−0.29%)",
-  "Bitcoin +1.71% auf 83'077 USD · Brent über 100 USD"
+  "SMI +1.07%, DAX +1.22% führt",
+  "Franken stärker: EUR/CHF 0.9310 (−0.21%)",
+  "Bitcoin +1.59% auf 82'978 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13789.5,
+   "kurs": 13783.1396484375,
    "vortag": 13637.0,
-   "veraenderung_pct": 1.1182811468798182,
+   "veraenderung_pct": 1.0716407453068788,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13788.929688,
     13808.419922,
     13637.0,
-    13789.5
+    13783.139648
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25111.380859375,
+   "kurs": 25110.759765625,
    "vortag": 24806.970703125,
-   "veraenderung_pct": 1.227115393866507,
+   "veraenderung_pct": 1.2246116873179114,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25449.189453,
     25104.359375,
     24806.970703,
-    25111.380859
+    25110.759766
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6180.64013671875,
+   "kurs": 6179.72998046875,
    "vortag": 6126.72998046875,
-   "veraenderung_pct": 0.879917287392451,
+   "veraenderung_pct": 0.8650617893877666,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6272.22998,
     6180.290039,
     6126.72998,
-    6180.640137
+    6179.72998
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7792.14990234375,
+   "kurs": 7797.2900390625,
    "vortag": 7765.35986328125,
-   "veraenderung_pct": 0.3449941732794226,
+   "veraenderung_pct": 0.4111873286418266,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7818.930176,
     7801.77002,
     7765.359863,
-    7792.149902
+    7797.290039
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27295.0078125,
+   "kurs": 27336.1484375,
    "vortag": 27193.33984375,
-   "veraenderung_pct": 0.373870842398083,
+   "veraenderung_pct": 0.5251601847017007,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27599.789062,
     27538.689453,
     27193.339844,
-    27295.007812
+    27336.148438
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9303600192070007,
+   "kurs": 0.9310200214385986,
    "vortag": 0.9330199956893921,
-   "veraenderung_pct": -0.2850931914300414,
+   "veraenderung_pct": -0.2143549184404847,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93248,
     0.93652,
     0.93302,
-    0.93036
+    0.93102
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8312100172042847,
+   "kurs": 0.831250011920929,
    "vortag": 0.8329799771308899,
-   "veraenderung_pct": -0.2124852907871455,
+   "veraenderung_pct": -0.2076838888636412,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83112,
     0.83218,
     0.83298,
-    0.83121
+    0.83125
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4213.0,
+   "kurs": 4207.7998046875,
    "vortag": 4157.0,
-   "veraenderung_pct": 1.3471253307673736,
+   "veraenderung_pct": 1.2220304230815549,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4187.100098,
     4140.700195,
     4157.0,
-    4213.0
+    4207.799805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 103.83999633789062,
+   "kurs": 104.58000183105469,
    "vortag": 104.27999877929688,
-   "veraenderung_pct": -0.42194327441208435,
+   "veraenderung_pct": 0.28768992641892144,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.580002,
     100.199997,
     104.279999,
-    103.839996
+    104.580002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83076.828125,
+   "kurs": 82977.9296875,
    "vortag": 81676.3359375,
-   "veraenderung_pct": 1.7146853754209435,
+   "veraenderung_pct": 1.593599584334937,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85557.5625,
     83275.929688,
     81676.335938,
-    83076.828125
+    82977.929688
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.261,
+   "wert": 5.274,
    "vortag": 5.231,
-   "veraenderung_bp": 3.0,
+   "veraenderung_bp": 4.3,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.269,
     5.277,
     5.231,
-    5.261
+    5.274
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.8499984741211,
+   "kurs": 75.79000091552734,
    "vortag": 76.0,
-   "veraenderung_pct": -0.19737042878803512,
+   "veraenderung_pct": -0.27631458483243776,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     75.199997,
     75.559998,
     76.0,
-    75.849998
+    75.790001
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 119.41999816894531,
+   "kurs": 119.33999633789062,
    "vortag": 117.72000122070312,
-   "veraenderung_pct": 1.4441020477522937,
+   "veraenderung_pct": 1.3761426269018662,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     117.18,
     120.019997,
     117.720001,
-    119.419998
+    119.339996
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 359.29998779296875,
+   "kurs": 359.1000061035156,
    "vortag": 352.70001220703125,
-   "veraenderung_pct": 1.8712717203035911,
+   "veraenderung_pct": 1.8145714984346695,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     349.799988,
     360.0,
     352.700012,
-    359.299988
+    359.100006
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.630001068115234,
+   "kurs": 39.75,
    "vortag": 38.83000183105469,
-   "veraenderung_pct": 2.0602606215195607,
+   "veraenderung_pct": 2.369297258723102,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.57,
     39.330002,
     38.830002,
-    39.630001
+    39.75
    ]
   }
  ],
@@ -373,6 +373,22 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "Americans' debt problems are flashing a warning not seen since the Great Recession",
+    "link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
+    "zeit": "2026-10-09T14:30:06+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
+    "link": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
+    "zeit": "2026-10-09T14:29:59+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
    {
     "titel": "Online-Marktplatz gehackt – «Keine Erpressung» – Ricardo meldet Datenleck bei 890'000 Konten",
     "link": "https://www.srf.ch/news/schweiz/online-marktplatz-gehackt-keine-erpressung-ricardo-meldet-datenleck-bei-890-000-konten",
@@ -417,22 +433,6 @@
     "titel": "South Africa lawyer 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecute war crimes, genocide",
     "link": "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html",
     "zeit": "2026-10-09T14:12:23+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
-    "link": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
-    "zeit": "2026-10-09T14:11:48+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Americans' debt problems are flashing a warning not seen since the Great Recession",
-    "link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
-    "zeit": "2026-10-09T14:03:24+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
