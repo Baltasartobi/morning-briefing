@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-09T06:21:39+02:00",
+ "aktualisiert": "2026-10-09T06:50:10+02:00",
  "kernaussagen": [
   "SMI −1.24%, Nasdaq −1.25% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9319 (−0.12%)",
-  "Brent über 100 USD: 102.85 (−1.37%)"
+  "Franken stärker: EUR/CHF 0.9323 (−0.07%)",
+  "Brent über 100 USD: 102.76 (−1.46%)"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 68806.140625,
+   "kurs": 68949.0234375,
    "vortag": 69042.109375,
-   "veraenderung_pct": -0.34177511686143136,
+   "veraenderung_pct": -0.13482487476506044,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     70683.976562,
     70035.710938,
     69042.109375,
-    68806.140625
+    68949.023438
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9319400191307068,
+   "kurs": 0.9323499798774719,
    "vortag": 0.9330199956893921,
-   "veraenderung_pct": -0.1157506338207992,
+   "veraenderung_pct": -0.07181151690378584,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93248,
     0.93652,
     0.93302,
-    0.93194
+    0.93235
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8329799771308899,
-   "vortag": 0.8321800231933594,
-   "veraenderung_pct": 0.09612751030250166,
-   "datum": "2026-10-08",
-   "ist_heute": false,
+   "kurs": 0.8304200172424316,
+   "vortag": 0.8329799771308899,
+   "veraenderung_pct": -0.3073255010613507,
+   "datum": "2026-10-09",
+   "ist_heute": true,
    "verlauf": [
-    0.83053,
     0.82811,
     0.83112,
     0.83218,
-    0.83298
+    0.83298,
+    0.83042
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4203.0,
+   "kurs": 4207.7998046875,
    "vortag": 4157.0,
-   "veraenderung_pct": 1.106567235987499,
+   "veraenderung_pct": 1.2220304230815549,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4187.100098,
     4140.700195,
     4157.0,
-    4203.0
+    4207.799805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 102.8499984741211,
+   "kurs": 102.76000213623047,
    "vortag": 104.27999877929688,
-   "veraenderung_pct": -1.3713083255805336,
+   "veraenderung_pct": -1.4576109137509619,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.580002,
     100.199997,
     104.279999,
-    102.849998
+    102.760002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82451.8828125,
+   "kurs": 82206.390625,
    "vortag": 83275.9296875,
-   "veraenderung_pct": -0.9895378869888449,
+   "veraenderung_pct": -1.2843315787809728,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85786.59375,
     85557.5625,
     83275.929688,
-    82451.882812
+    82206.390625
    ]
   }
  ],
@@ -296,7 +296,19 @@
    "symbol": "NOVN.SW",
    "einheit": "CHF",
    "dezimalen": 2,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 120.0199966430664,
+   "vortag": 117.18000030517578,
+   "veraenderung_pct": 2.4236186469485554,
+   "datum": "2026-10-07",
+   "ist_heute": false,
+   "verlauf": [
+    118.059998,
+    116.339996,
+    116.480003,
+    117.18,
+    120.019997
+   ]
   },
   {
    "name": "Roche GS",
@@ -361,6 +373,14 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "Entführungen auf offener Strasse: wie die Militärjunta in Myanmar Soldaten rekrutiert",
+    "link": "https://www.nzz.ch/international/entfuehrungen-auf-offener-strasse-wie-die-militaerjunta-in-myanmar-soldaten-rekrutiert-ld.10025761",
+    "zeit": "2026-10-09T04:32:06+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
    {
     "titel": "'Real boss of India?': Elon Musk takes aim at Indian billionaire Ambani as Starlink launch stalls",
     "link": "https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html",
@@ -526,14 +546,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/investitionen-in-chips-das-billionenunternehmen-spacex-braucht-geld",
     "zeit": "2026-10-08T12:08:10+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Die deutsche Bundeswehr wäre im Drohnenkrieg nicht auf der Höhe der Zeit. So will sie von der Ukraine lernen",
-    "link": "https://www.nzz.ch/deutschland/politik/die-deutsche-bundeswehr-waere-im-drohnenkrieg-nicht-auf-der-hoehe-der-zeit-so-will-sie-von-der-ukraine-lernen-ld.10026569",
-    "zeit": "2026-10-08T12:00:00+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
