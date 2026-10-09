@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-09T16:52:22+02:00",
+ "aktualisiert": "2026-10-09T17:20:08+02:00",
  "kernaussagen": [
-  "SMI +1.07%, DAX +1.22% führt",
-  "Franken stärker: EUR/CHF 0.9310 (−0.21%)",
-  "Bitcoin +1.59% auf 82'978 USD · Brent über 100 USD"
+  "SMI +0.98%, Nikkei 225 −1.42% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9302 (−0.30%)",
+  "Bitcoin +1.40% auf 82'818 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13783.1396484375,
+   "kurs": 13769.990234375,
    "vortag": 13637.0,
-   "veraenderung_pct": 1.0716407453068788,
+   "veraenderung_pct": 0.9752162086602567,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13788.929688,
     13808.419922,
     13637.0,
-    13783.139648
+    13769.990234
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25110.759765625,
+   "kurs": 25107.919921875,
    "vortag": 24806.970703125,
-   "veraenderung_pct": 1.2246116873179114,
+   "veraenderung_pct": 1.2131639221555135,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25449.189453,
     25104.359375,
     24806.970703,
-    25110.759766
+    25107.919922
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6179.72998046875,
+   "kurs": 6183.22021484375,
    "vortag": 6126.72998046875,
-   "veraenderung_pct": 0.8650617893877666,
+   "veraenderung_pct": 0.9220291175730644,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6272.22998,
     6180.290039,
     6126.72998,
-    6179.72998
+    6183.220215
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7797.2900390625,
+   "kurs": 7802.990234375,
    "vortag": 7765.35986328125,
-   "veraenderung_pct": 0.4111873286418266,
+   "veraenderung_pct": 0.4845927523808191,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7818.930176,
     7801.77002,
     7765.359863,
-    7797.290039
+    7802.990234
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27336.1484375,
+   "kurs": 27324.09765625,
    "vortag": 27193.33984375,
-   "veraenderung_pct": 0.5251601847017007,
+   "veraenderung_pct": 0.48084499091072264,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27599.789062,
     27538.689453,
     27193.339844,
-    27336.148438
+    27324.097656
    ]
   },
   {
@@ -107,17 +107,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 69030.921875,
-   "vortag": 69042.109375,
-   "veraenderung_pct": -0.016203879199627735,
-   "datum": "2026-10-09",
-   "ist_heute": true,
+   "kurs": 69042.109375,
+   "vortag": 70035.7109375,
+   "veraenderung_pct": -1.4187070413073877,
+   "datum": "2026-10-08",
+   "ist_heute": false,
    "verlauf": [
+    68309.460938,
     69946.859375,
     70683.976562,
     70035.710938,
-    69042.109375,
-    69030.921875
+    69042.109375
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9310200214385986,
+   "kurs": 0.9302200078964233,
    "vortag": 0.9330199956893921,
-   "veraenderung_pct": -0.2143549184404847,
+   "veraenderung_pct": -0.3000994411593405,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93248,
     0.93652,
     0.93302,
-    0.93102
+    0.93022
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.831250011920929,
+   "kurs": 0.8308299779891968,
    "vortag": 0.8329799771308899,
-   "veraenderung_pct": -0.2076838888636412,
+   "veraenderung_pct": -0.2581093424476433,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83112,
     0.83218,
     0.83298,
-    0.83125
+    0.83083
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4207.7998046875,
+   "kurs": 4207.5,
    "vortag": 4157.0,
-   "veraenderung_pct": 1.2220304230815549,
+   "veraenderung_pct": 1.2148183786384381,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4187.100098,
     4140.700195,
     4157.0,
-    4207.799805
+    4207.5
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.58000183105469,
+   "kurs": 104.93000030517578,
    "vortag": 104.27999877929688,
-   "veraenderung_pct": 0.28768992641892144,
+   "veraenderung_pct": 0.6233232964018454,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.580002,
     100.199997,
     104.279999,
-    104.580002
+    104.93
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82977.9296875,
+   "kurs": 82817.953125,
    "vortag": 81676.3359375,
-   "veraenderung_pct": 1.593599584334937,
+   "veraenderung_pct": 1.3977331064086718,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85557.5625,
     83275.929688,
     81676.335938,
-    82977.929688
+    82817.953125
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.274,
+   "wert": 5.276,
    "vortag": 5.231,
-   "veraenderung_bp": 4.3,
+   "veraenderung_bp": 4.5,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.269,
     5.277,
     5.231,
-    5.274
+    5.276
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.79000091552734,
+   "kurs": 75.7699966430664,
    "vortag": 76.0,
-   "veraenderung_pct": -0.27631458483243776,
+   "veraenderung_pct": -0.30263599596525026,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     75.199997,
     75.559998,
     76.0,
-    75.790001
+    75.769997
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 119.33999633789062,
+   "kurs": 118.95999908447266,
    "vortag": 117.72000122070312,
-   "veraenderung_pct": 1.3761426269018662,
+   "veraenderung_pct": 1.0533450993130522,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     117.18,
     120.019997,
     117.720001,
-    119.339996
+    118.959999
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 359.1000061035156,
+   "kurs": 357.70001220703125,
    "vortag": 352.70001220703125,
-   "veraenderung_pct": 1.8145714984346695,
+   "veraenderung_pct": 1.4176353351144977,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     349.799988,
     360.0,
     352.700012,
-    359.100006
+    357.700012
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.75,
+   "kurs": 39.79999923706055,
    "vortag": 38.83000183105469,
-   "veraenderung_pct": 2.369297258723102,
+   "veraenderung_pct": 2.498061705549781,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.57,
     39.330002,
     38.830002,
-    39.75
+    39.799999
    ]
   }
  ],
@@ -374,17 +374,49 @@
   ],
   "artikel": [
    {
-    "titel": "Americans' debt problems are flashing a warning not seen since the Great Recession",
-    "link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
-    "zeit": "2026-10-09T14:30:06+00:00",
+    "titel": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
+    "link": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
+    "zeit": "2026-10-09T15:18:12+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
-    "link": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
-    "zeit": "2026-10-09T14:29:59+00:00",
+    "titel": "Wall Street is pitching data centers as a major real estate bet. The risks are piling up",
+    "link": "https://www.cnbc.com/2026/10/09/ai-data-centers-investing.html",
+    "zeit": "2026-10-09T15:08:20+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
+    "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
+    "zeit": "2026-10-09T15:07:46+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "China and Europe agree to cut Chinese hybrid vehicle exports by half",
+    "link": "https://www.cnbc.com/2026/10/09/china-europe-hybrid-vehicle-exports-deal.html",
+    "zeit": "2026-10-09T15:03:10+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "NBA Commissioner Adam Silver says he still intends to get a deal done with EuroLeague as he plans launch of NBA Europe",
+    "link": "https://www.cnbc.com/2026/10/09/nba-commissioner-adam-silver-says-euroleague-deal-still-on-table.html",
+    "zeit": "2026-10-09T14:50:32+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Americans' debt problems are flashing a warning not seen since the Great Recession",
+    "link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
+    "zeit": "2026-10-09T14:30:06+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -433,38 +465,6 @@
     "titel": "South Africa lawyer 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecute war crimes, genocide",
     "link": "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html",
     "zeit": "2026-10-09T14:12:23+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "ICE won't pause enforcement in NY after Bronx shooting, DHS's Mullin says",
-    "link": "https://www.cnbc.com/2026/10/09/ice-bronx-shooting-mamdani-dhs.html",
-    "zeit": "2026-10-09T13:59:14+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Wall Street is pitching data centers as a major real estate bet. The risks are piling up",
-    "link": "https://www.cnbc.com/2026/10/09/ai-data-centers-investing.html",
-    "zeit": "2026-10-09T13:59:12+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Kalshi traders see high odds that more than 5,100 data centers will be planned or operating before 2027",
-    "link": "https://www.cnbc.com/2026/10/09/kalshi-traders-see-high-odds-of-5000-plus-data-centers-by-2027.html",
-    "zeit": "2026-10-09T13:53:52+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
-    "link": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
-    "zeit": "2026-10-09T13:52:27+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
