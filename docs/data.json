@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-09T12:50:08+02:00",
+ "aktualisiert": "2026-10-09T13:19:50+02:00",
  "kernaussagen": [
-  "SMI +0.69%, Nasdaq −1.25% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9314 (−0.17%)",
-  "Brent über 100 USD: 102.82 (−1.40%)"
+  "SMI +0.89%, Nasdaq −1.25% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9315 (−0.16%)",
+  "Brent über 100 USD: 102.78 (−1.44%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13731.759765625,
+   "kurs": 13758.3203125,
    "vortag": 13637.0,
-   "veraenderung_pct": 0.6948725205323747,
+   "veraenderung_pct": 0.8896407750971669,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13788.929688,
     13808.419922,
     13637.0,
-    13731.759766
+    13758.320312
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25036.16015625,
+   "kurs": 25067.640625,
    "vortag": 24806.970703125,
-   "veraenderung_pct": 0.9238913363013967,
+   "veraenderung_pct": 1.050793041175968,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25449.189453,
     25104.359375,
     24806.970703,
-    25036.160156
+    25067.640625
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6168.89013671875,
+   "kurs": 6176.91015625,
    "vortag": 6126.72998046875,
-   "veraenderung_pct": 0.6881347208772315,
+   "veraenderung_pct": 0.8190368425117223,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6272.22998,
     6180.290039,
     6126.72998,
-    6168.890137
+    6176.910156
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.931439995765686,
+   "kurs": 0.9315000176429749,
    "vortag": 0.9330199956893921,
-   "veraenderung_pct": -0.16934255760924222,
+   "veraenderung_pct": -0.16290948248051107,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93248,
     0.93652,
     0.93302,
-    0.93144
+    0.9315
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8309100270271301,
+   "kurs": 0.8310199975967407,
    "vortag": 0.8329799771308899,
-   "veraenderung_pct": -0.24849938300911534,
+   "veraenderung_pct": -0.23529731661739994,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83112,
     0.83218,
     0.83298,
-    0.83091
+    0.83102
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4207.89990234375,
+   "kurs": 4200.39990234375,
    "vortag": 4157.0,
-   "veraenderung_pct": 1.2244383532294956,
+   "veraenderung_pct": 1.0440197821445674,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4187.100098,
     4140.700195,
     4157.0,
-    4207.899902
+    4200.399902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 102.81999969482422,
+   "kurs": 102.77999877929688,
    "vortag": 104.27999877929688,
-   "veraenderung_pct": -1.4000758549706838,
+   "veraenderung_pct": -1.4384349995771206,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.580002,
     100.199997,
     104.279999,
-    102.82
+    102.779999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82372.6171875,
+   "kurs": 82491.6484375,
    "vortag": 81676.3359375,
-   "veraenderung_pct": 0.8524883517458504,
+   "veraenderung_pct": 0.9982236478187412,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85557.5625,
     83275.929688,
     81676.335938,
-    82372.617188
+    82491.648438
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.68000030517578,
+   "kurs": 75.77999877929688,
    "vortag": 76.0,
-   "veraenderung_pct": -0.42105223003187087,
+   "veraenderung_pct": -0.289475290398844,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     75.199997,
     75.559998,
     76.0,
-    75.68
+    75.779999
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 118.45999908447266,
+   "kurs": 118.77999877929688,
    "vortag": 117.72000122070312,
-   "veraenderung_pct": 0.6286084404486081,
+   "veraenderung_pct": 0.9004396428831551,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     117.18,
     120.019997,
     117.720001,
-    118.459999
+    118.779999
    ]
   },
   {
@@ -315,19 +315,7 @@
    "symbol": "ROP.SW",
    "einheit": "CHF",
    "dezimalen": 2,
-   "verfuegbar": true,
-   "kurs": 355.8999938964844,
-   "vortag": 352.70001220703125,
-   "veraenderung_pct": 0.9072814229376336,
-   "datum": "2026-10-09",
-   "ist_heute": true,
-   "verlauf": [
-    348.899994,
-    349.799988,
-    360.0,
-    352.700012,
-    355.899994
-   ]
+   "verfuegbar": false
   },
   {
    "name": "UBS",
@@ -335,9 +323,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.68000030517578,
+   "kurs": 39.72999954223633,
    "vortag": 38.83000183105469,
-   "veraenderung_pct": 2.1890250683462398,
+   "veraenderung_pct": 2.317789515172919,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +333,7 @@
     40.57,
     39.330002,
     38.830002,
-    39.68
+    39.73
    ]
   }
  ],
@@ -373,6 +361,46 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "South Africa lawyer 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecute war crimes, genocide",
+    "link": "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html",
+    "zeit": "2026-10-09T11:11:55+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust",
+    "link": "https://www.cnbc.com/2026/10/09/openai-anthropic-poach-trump-officials.html",
+    "zeit": "2026-10-09T11:00:42+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Living with Mom and trading on margin. The regular investor gets in on Wall Street's record stock borrowing binge",
+    "link": "https://www.cnbc.com/2026/10/09/margin-debt-stock-market-risk.html",
+    "zeit": "2026-10-09T11:00:29+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "For the final 10% of cystic fibrosis, the breakthrough still hasn't come",
+    "link": "https://www.cnbc.com/2026/10/09/for-the-final-10percent-of-cystic-fibrosis-the-breakthrough-hasnt-come.html",
+    "zeit": "2026-10-09T11:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Elon Musks nächster Streich: SpaceX bläst mit einem Milliardendeal zum Angriff auf die Telekomriesen",
+    "link": "https://www.nzz.ch/wirtschaft/elon-musks-naechster-streich-spacex-blaest-mit-einem-milliardendeal-zum-angriff-auf-die-telekomriesen-ld.10029002",
+    "zeit": "2026-10-09T10:55:55+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
    {
     "titel": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
     "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
@@ -409,14 +437,6 @@
     "titel": "Pilot killed in attacks by Iran-backed Houthis on Riyadh airport; Saudi-led coalition vows 'firm' response",
     "link": "https://www.cnbc.com/2026/10/09/saudi-us-iran-war-trump-hormuz.html",
     "zeit": "2026-10-09T10:37:42+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "South Africa lawyer 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecute war crimes, genocide",
-    "link": "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html",
-    "zeit": "2026-10-09T10:13:41+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -486,14 +506,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
-    "link": "https://www.cnbc.com/2026/10/09/nvidia-ai-firmus-ipo-.html",
-    "zeit": "2026-10-09T03:51:15+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Ein Wiedereinstieg in die Kernenergie würde den Strom in Deutschland billiger und sauberer machen",
     "link": "https://www.nzz.ch/wirtschaft/ein-wiedereinstieg-in-die-kernenergie-wuerde-den-strom-in-deutschland-billiger-und-sauberer-machen-ld.10028513",
     "zeit": "2026-10-09T03:30:00+00:00",
@@ -532,30 +544,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Saudiarabien sucht nach Sicherheit",
-    "link": "https://www.nzz.ch/pro/saudiarabien-kann-der-mekka-pakt-das-land-gegen-iran-schuetzen-ld.10028185",
-    "zeit": "2026-10-09T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "U.S. East Asian envoy says investors are overpricing Taiwan conflict risk",
-    "link": "https://www.cnbc.com/2026/10/09/taiwan-trump-china-militia-boat-tsmc-.html",
-    "zeit": "2026-10-09T02:52:15+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
-    "link": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
-    "zeit": "2026-10-08T22:55:46+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Mastercard führt Offline-Zahlungen europaweit ein",
