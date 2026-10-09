@@ -1,9 +1,8 @@
 {
- "aktualisiert": "2026-10-09T21:18:21+02:00",
+ "aktualisiert": "2026-10-09T21:47:08+02:00",
  "kernaussagen": [
   "SMI +1.10%, Nikkei 225 −1.42% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9295 (−0.37%)",
-  "Gold +1.63% auf 4'224.70 USD/Unze · Brent über 100 USD"
+  "Gold +1.52% auf 4'220.10 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +68,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7817.18994140625,
+   "kurs": 7812.91015625,
    "vortag": 7765.35986328125,
-   "veraenderung_pct": 0.667452365859833,
+   "veraenderung_pct": 0.6123385626156663,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +78,7 @@
     7818.930176,
     7801.77002,
     7765.359863,
-    7817.189941
+    7812.910156
    ]
   },
   {
@@ -88,9 +87,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27381.70703125,
+   "kurs": 27361.2265625,
    "vortag": 27193.33984375,
-   "veraenderung_pct": 0.6926960372735991,
+   "veraenderung_pct": 0.6173817549247618,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +97,7 @@
     27599.789062,
     27538.689453,
     27193.339844,
-    27381.707031
+    27361.226562
    ]
   },
   {
@@ -127,19 +126,7 @@
    "symbol": "EURCHF=X",
    "einheit": "",
    "dezimalen": 4,
-   "verfuegbar": true,
-   "kurs": 0.9295499920845032,
-   "vortag": 0.9330199956893921,
-   "veraenderung_pct": -0.37191095806312635,
-   "datum": "2026-10-09",
-   "ist_heute": true,
-   "verlauf": [
-    0.93193,
-    0.93248,
-    0.93652,
-    0.93302,
-    0.92955
-   ]
+   "verfuegbar": false
   },
   {
    "name": "USD/CHF",
@@ -147,9 +134,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.829770028591156,
+   "kurs": 0.8298500180244446,
    "vortag": 0.8329799771308899,
-   "veraenderung_pct": -0.38535722680757,
+   "veraenderung_pct": -0.3757544229605725,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +144,7 @@
     0.83112,
     0.83218,
     0.83298,
-    0.82977
+    0.82985
    ]
   },
   {
@@ -166,9 +153,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4224.7001953125,
+   "kurs": 4220.10009765625,
    "vortag": 4157.0,
-   "veraenderung_pct": 1.6285830000601464,
+   "veraenderung_pct": 1.5179239272612444,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +163,7 @@
     4187.100098,
     4140.700195,
     4157.0,
-    4224.700195
+    4220.100098
    ]
   },
   {
@@ -185,9 +172,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 103.81999969482422,
+   "kurs": 104.05000305175781,
    "vortag": 104.27999877929688,
-   "veraenderung_pct": -0.4411191885859367,
+   "veraenderung_pct": -0.22055593616359115,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +182,7 @@
     100.580002,
     100.199997,
     104.279999,
-    103.82
+    104.050003
    ]
   },
   {
@@ -204,9 +191,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82404.671875,
+   "kurs": 82325.40625,
    "vortag": 81676.3359375,
-   "veraenderung_pct": 0.8917343428056501,
+   "veraenderung_pct": 0.7946858842892812,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +201,7 @@
     85557.5625,
     83275.929688,
     81676.335938,
-    82404.671875
+    82325.40625
    ]
   }
  ],
@@ -374,9 +361,49 @@
   ],
   "artikel": [
    {
+    "titel": "Junk bonds are 'flashing yellow.' Watch these warning signs",
+    "link": "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html",
+    "zeit": "2026-10-09T19:43:18+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
     "link": "https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html",
-    "zeit": "2026-10-09T19:16:11+00:00",
+    "zeit": "2026-10-09T19:40:43+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trump Media advisor Katie Zacharia offered White House press secretary role",
+    "link": "https://www.cnbc.com/2026/10/09/katie-zacharia-white-house-press-secretary.html",
+    "zeit": "2026-10-09T19:25:28+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Tesla drops 'Full Self-Driving' brand name in Europe after regulator pushback",
+    "link": "https://www.cnbc.com/2026/10/09/tesla-full-self-driving-europe-regulator.html",
+    "zeit": "2026-10-09T19:21:14+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next?",
+    "link": "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
+    "zeit": "2026-10-09T19:19:00+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Americans' debt problems are flashing a warning not seen since the Great Recession",
+    "link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
+    "zeit": "2026-10-09T19:18:24+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -390,17 +417,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Trump Media advisor Katie Zacharia offered White House press secretary role",
-    "link": "https://www.cnbc.com/2026/10/09/katie-zacharia-white-house-press-secretary.html",
-    "zeit": "2026-10-09T18:54:06+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Tanker attacks in Strait of Hormuz surge to wartime high as Iran tries to choke off oil exports",
-    "link": "https://www.cnbc.com/2026/10/09/iran-war-strait-hormuz-tanker-attack-oil.html",
-    "zeit": "2026-10-09T18:52:49+00:00",
+    "titel": "What's behind the recovery rally in tech stocks — plus, Elon Musk's very good week",
+    "link": "https://www.cnbc.com/investingclub/2026/10/09/whats-behind-the-recovery-rally-in-tech-stocks-plus-musks-good-week.html",
+    "zeit": "2026-10-09T19:02:29+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -417,38 +436,6 @@
     "titel": "Verizon stock heads for worst day since 2002 as SpaceX U.S. network plans whack telcos",
     "link": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html",
     "zeit": "2026-10-09T18:32:37+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next?",
-    "link": "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
-    "zeit": "2026-10-09T18:20:57+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
-    "link": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
-    "zeit": "2026-10-09T17:56:24+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "The used car market is stagnant. Here's how to profit anyway",
-    "link": "https://www.cnbc.com/2026/10/09/the-used-car-market-is-stagnant-heres-how-to-profit-anyway.html",
-    "zeit": "2026-10-09T17:37:31+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Tesla drops 'Full Self-Driving' brand name in Europe after regulator pushback",
-    "link": "https://www.cnbc.com/2026/10/09/tesla-full-self-driving-europe-regulator.html",
-    "zeit": "2026-10-09T17:12:32+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
