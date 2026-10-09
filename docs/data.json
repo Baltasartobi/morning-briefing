@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-09T14:23:59+02:00",
+ "aktualisiert": "2026-10-09T14:54:50+02:00",
  "kernaussagen": [
-  "SMI +1.12%, DAX +1.30% führt",
-  "Franken stärker: EUR/CHF 0.9309 (−0.23%)",
-  "Bitcoin +1.73% auf 83'092 USD · Brent über 100 USD"
+  "SMI +1.06%, DAX +1.30% führt",
+  "Franken stärker: EUR/CHF 0.9310 (−0.22%)",
+  "Bitcoin +1.48% auf 82'881 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13790.41015625,
+   "kurs": 13781.669921875,
    "vortag": 13637.0,
-   "veraenderung_pct": 1.1249553145853186,
+   "veraenderung_pct": 1.0608632534648388,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13788.929688,
     13808.419922,
     13637.0,
-    13790.410156
+    13781.669922
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25128.7109375,
+   "kurs": 25130.009765625,
    "vortag": 24806.970703125,
-   "veraenderung_pct": 1.2969751052048784,
+   "veraenderung_pct": 1.3022108437420243,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25449.189453,
     25104.359375,
     24806.970703,
-    25128.710938
+    25130.009766
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6192.6298828125,
+   "kurs": 6191.169921875,
    "vortag": 6126.72998046875,
-   "veraenderung_pct": 1.0756129706030793,
+   "veraenderung_pct": 1.0517836041685547,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6272.22998,
     6180.290039,
     6126.72998,
-    6192.629883
+    6191.169922
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9308500289916992,
+   "kurs": 0.9309800267219543,
    "vortag": 0.9330199956893921,
-   "veraenderung_pct": -0.23257451155583864,
+   "veraenderung_pct": -0.21864150574076868,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93248,
     0.93652,
     0.93302,
-    0.93085
+    0.93098
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8329799771308899,
-   "vortag": 0.8321800231933594,
-   "veraenderung_pct": 0.09612751030250166,
-   "datum": "2026-10-08",
-   "ist_heute": false,
+   "kurs": 0.8317199945449829,
+   "vortag": 0.8329799771308899,
+   "veraenderung_pct": -0.1512620495689343,
+   "datum": "2026-10-09",
+   "ist_heute": true,
    "verlauf": [
-    0.83053,
     0.82811,
     0.83112,
     0.83218,
-    0.83298
+    0.83298,
+    0.83172
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4208.89990234375,
+   "kurs": 4206.7001953125,
    "vortag": 4157.0,
-   "veraenderung_pct": 1.248494162707492,
+   "veraenderung_pct": 1.1955784294563454,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4187.100098,
     4140.700195,
     4157.0,
-    4208.899902
+    4206.700195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 102.87000274658203,
+   "kurs": 103.26000213623047,
    "vortag": 104.27999877929688,
-   "veraenderung_pct": -1.352125095147949,
+   "veraenderung_pct": -0.9781325805585883,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.580002,
     100.199997,
     104.279999,
-    102.870003
+    103.260002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83091.71875,
+   "kurs": 82881.2578125,
    "vortag": 81676.3359375,
-   "veraenderung_pct": 1.7329166352210823,
+   "veraenderung_pct": 1.4752398735442984,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85557.5625,
     83275.929688,
     81676.335938,
-    83091.71875
+    82881.257812
    ]
   }
  ],
@@ -257,17 +257,17 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.231,
-   "vortag": 5.277,
-   "veraenderung_bp": -4.6,
-   "datum": "2026-10-08",
-   "ist_heute": false,
+   "wert": 5.246,
+   "vortag": 5.231,
+   "veraenderung_bp": 1.5,
+   "datum": "2026-10-09",
+   "ist_heute": true,
    "verlauf": [
-    5.277,
     5.311,
     5.269,
     5.277,
-    5.231
+    5.231,
+    5.246
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.98999786376953,
+   "kurs": 75.87999725341797,
    "vortag": 76.0,
-   "veraenderung_pct": -0.01316070556640625,
+   "veraenderung_pct": -0.15789835076582825,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     75.199997,
     75.559998,
     76.0,
-    75.989998
+    75.879997
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 119.08000183105469,
+   "kurs": 118.80000305175781,
    "vortag": 117.72000122070312,
-   "veraenderung_pct": 1.1552842305886601,
+   "veraenderung_pct": 0.9174327385792935,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     117.18,
     120.019997,
     117.720001,
-    119.080002
+    118.800003
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 358.20001220703125,
+   "kurs": 357.8999938964844,
    "vortag": 352.70001220703125,
-   "veraenderung_pct": 1.5593988686259497,
+   "veraenderung_pct": 1.4743355569834193,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     349.799988,
     360.0,
     352.700012,
-    358.200012
+    357.899994
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.84000015258789,
+   "kurs": 39.869998931884766,
    "vortag": 38.83000183105469,
-   "veraenderung_pct": 2.6010771926501697,
+   "veraenderung_pct": 2.6783338959266434,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.57,
     39.330002,
     38.830002,
-    39.84
+    39.869999
    ]
   }
  ],
@@ -373,6 +373,22 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor",
+    "link": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
+    "zeit": "2026-10-09T12:49:28+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Online-Marktplatz gehackt – Ricardo meldet Datenleck bei 890'000 Konten",
+    "link": "https://www.srf.ch/news/schweiz/online-marktplatz-gehackt-ricardo-meldet-datenleck-bei-890-000-konten",
+    "zeit": "2026-10-09T12:40:11+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
    {
     "titel": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
     "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
@@ -417,14 +433,6 @@
     "titel": "Pilot killed in attacks by Iran-backed Houthis on Riyadh airport; Saudi-led coalition vows 'firm' response",
     "link": "https://www.cnbc.com/2026/10/09/saudi-us-iran-war-trump-hormuz.html",
     "zeit": "2026-10-09T11:51:11+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as adviser",
-    "link": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
-    "zeit": "2026-10-09T11:50:39+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -681,14 +689,6 @@
     "titel": "Ozempic, Wegovy oder Mounjaro – Abnehmspritzen auf Krankenkassenkosten: Wer soll das bezahlen?",
     "link": "https://www.srf.ch/news/schweiz/ozempic-wegovy-oder-mounjaro-abnehmspritzen-auf-krankenkassenkosten-wer-soll-das-bezahlen",
     "zeit": "2026-10-05T14:55:32+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Schweizer Fleischmarkt – In der Schweiz wird so viel Poulet gegessen wie noch nie",
-    "link": "https://www.srf.ch/news/dialog/schweizer-fleischmarkt-in-der-schweiz-wird-so-viel-poulet-gegessen-wie-noch-nie",
-    "zeit": "2026-10-05T14:16:36+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
