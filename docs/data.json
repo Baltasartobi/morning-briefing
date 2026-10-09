@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-09T15:23:26+02:00",
+ "aktualisiert": "2026-10-09T15:51:09+02:00",
  "kernaussagen": [
-  "SMI +1.16%, DAX +1.36% führt",
-  "Franken stärker: EUR/CHF 0.9312 (−0.20%)",
-  "Bitcoin +1.63% auf 83'008 USD · Brent über 100 USD"
+  "SMI +1.14%, DAX +1.36% führt",
+  "Franken stärker: EUR/CHF 0.9306 (−0.25%)",
+  "Gold +1.29% auf 4'210.80 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13795.58984375,
+   "kurs": 13793.0595703125,
    "vortag": 13637.0,
-   "veraenderung_pct": 1.1629379170638776,
+   "veraenderung_pct": 1.1443834443976009,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13788.929688,
     13808.419922,
     13637.0,
-    13795.589844
+    13793.05957
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25144.55078125,
+   "kurs": 25143.240234375,
    "vortag": 24806.970703125,
-   "veraenderung_pct": 1.3608274954848731,
+   "veraenderung_pct": 1.3555445172015235,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25449.189453,
     25104.359375,
     24806.970703,
-    25144.550781
+    25143.240234
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6200.43994140625,
+   "kurs": 6199.93994140625,
    "vortag": 6126.72998046875,
-   "veraenderung_pct": 1.2030881264961657,
+   "veraenderung_pct": 1.1949271662189176,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6272.22998,
     6180.290039,
     6126.72998,
-    6200.439941
+    6199.939941
    ]
   },
   {
@@ -69,17 +69,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7765.35986328125,
-   "vortag": 7801.77001953125,
-   "veraenderung_pct": -0.4666909708803235,
-   "datum": "2026-10-08",
-   "ist_heute": false,
+   "kurs": 7784.41015625,
+   "vortag": 7765.35986328125,
+   "veraenderung_pct": 0.24532401980272844,
+   "datum": "2026-10-09",
+   "ist_heute": true,
    "verlauf": [
-    7722.720215,
     7773.950195,
     7818.930176,
     7801.77002,
-    7765.359863
+    7765.359863,
+    7784.410156
    ]
   },
   {
@@ -88,17 +88,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27193.33984375,
-   "vortag": 27538.689453125,
-   "veraenderung_pct": -1.2540524485118887,
-   "datum": "2026-10-08",
-   "ist_heute": false,
+   "kurs": 27271.130859375,
+   "vortag": 27193.33984375,
+   "veraenderung_pct": 0.2860664268235391,
+   "datum": "2026-10-09",
+   "ist_heute": true,
    "verlauf": [
-    27190.859375,
     27477.310547,
     27599.789062,
     27538.689453,
-    27193.339844
+    27193.339844,
+    27271.130859
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9311800003051758,
+   "kurs": 0.930649995803833,
    "vortag": 0.9330199956893921,
-   "veraenderung_pct": -0.19720856923937102,
+   "veraenderung_pct": -0.2540138364138578,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93248,
     0.93652,
     0.93302,
-    0.93118
+    0.93065
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4203.0,
+   "kurs": 4210.7998046875,
    "vortag": 4157.0,
-   "veraenderung_pct": 1.106567235987499,
+   "veraenderung_pct": 1.2941978515155217,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4187.100098,
     4140.700195,
     4157.0,
-    4203.0
+    4210.799805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 103.12999725341797,
+   "kurs": 103.7699966430664,
    "vortag": 104.27999877929688,
-   "veraenderung_pct": -1.1028016295942078,
+   "veraenderung_pct": -0.48906994840867135,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.580002,
     100.199997,
     104.279999,
-    103.129997
+    103.769997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83007.96875,
+   "kurs": 82601.1796875,
    "vortag": 81676.3359375,
-   "veraenderung_pct": 1.6303777553378307,
+   "veraenderung_pct": 1.132327667964561,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85557.5625,
     83275.929688,
     81676.335938,
-    83007.96875
+    82601.179688
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.246,
+   "wert": 5.253,
    "vortag": 5.231,
-   "veraenderung_bp": 1.5,
+   "veraenderung_bp": 2.2,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.269,
     5.277,
     5.231,
-    5.246
+    5.253
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.93000030517578,
+   "kurs": 76.0,
    "vortag": 76.0,
-   "veraenderung_pct": -0.09210486161080889,
+   "veraenderung_pct": 0.0,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     75.199997,
     75.559998,
     76.0,
-    75.93
+    76.0
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 119.0999984741211,
+   "kurs": 119.37999725341797,
    "vortag": 117.72000122070312,
-   "veraenderung_pct": 1.1722708453177244,
+   "veraenderung_pct": 1.4101223373270688,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     117.18,
     120.019997,
     117.720001,
-    119.099998
+    119.379997
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 358.6000061035156,
+   "kurs": 359.29998779296875,
    "vortag": 352.70001220703125,
-   "veraenderung_pct": 1.6728079649232175,
+   "veraenderung_pct": 1.8712717203035911,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     349.799988,
     360.0,
     352.700012,
-    358.600006
+    359.299988
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.869998931884766,
+   "kurs": 39.72999954223633,
    "vortag": 38.83000183105469,
-   "veraenderung_pct": 2.6783338959266434,
+   "veraenderung_pct": 2.317789515172919,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.57,
     39.330002,
     38.830002,
-    39.869999
+    39.73
    ]
   }
  ],
@@ -373,6 +373,46 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust",
+    "link": "https://www.cnbc.com/2026/10/09/openai-anthropic-poach-trump-officials.html",
+    "zeit": "2026-10-09T13:49:54+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Wall Street is pitching data centers as a major real estate bet. The risks are piling up",
+    "link": "https://www.cnbc.com/2026/10/09/ai-data-centers-investing.html",
+    "zeit": "2026-10-09T13:45:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "ICE won't pause enforcement in NY after Bronx shooting, DHS's Mullin says",
+    "link": "https://www.cnbc.com/2026/10/09/ice-bronx-shooting-mamdani-dhs.html",
+    "zeit": "2026-10-09T13:44:29+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
+    "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
+    "zeit": "2026-10-09T13:38:10+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries",
+    "link": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html",
+    "zeit": "2026-10-09T13:18:07+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
    {
     "titel": "EU-Länder wollen mehr gemeinsame Finanzmarktaufsicht",
     "link": "https://www.nzz.ch/wirtschaft/eu-laender-wollen-mehr-gemeinsame-finanzmarktaufsicht-ld.10029337",
@@ -422,49 +462,9 @@
     "sprache": "de"
    },
    {
-    "titel": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
-    "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
-    "zeit": "2026-10-09T12:20:12+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "How to navigate new tax rules in year-end planning, according to top-ranked advisors",
     "link": "https://www.cnbc.com/2026/10/09/year-end-tax-strategies-2026.html",
     "zeit": "2026-10-09T12:15:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading",
-    "link": "https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html",
-    "zeit": "2026-10-09T12:01:26+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Ferrari’s chairman is bullish on AI. He’s less certain how businesses will cash in",
-    "link": "https://www.cnbc.com/2026/10/09/john-elkann-ferrari-ai-technology.html",
-    "zeit": "2026-10-09T11:54:21+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Kalshi traders see high odds that more than 5,100 data centers will be planned or operating before 2027",
-    "link": "https://www.cnbc.com/2026/10/09/kalshi-traders-see-high-odds-of-5000-plus-data-centers-by-2027.html",
-    "zeit": "2026-10-09T11:54:04+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Pilot killed in attacks by Iran-backed Houthis on Riyadh airport; Saudi-led coalition vows 'firm' response",
-    "link": "https://www.cnbc.com/2026/10/09/saudi-us-iran-war-trump-hormuz.html",
-    "zeit": "2026-10-09T11:51:11+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
