@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-09T13:48:32+02:00",
+ "aktualisiert": "2026-10-09T14:23:59+02:00",
  "kernaussagen": [
-  "SMI +0.99%, Nasdaq −1.25% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9315 (−0.16%)",
-  "Bitcoin +2.08% auf 83'372 USD · Brent über 100 USD"
+  "SMI +1.12%, DAX +1.30% führt",
+  "Franken stärker: EUR/CHF 0.9309 (−0.23%)",
+  "Bitcoin +1.73% auf 83'092 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13771.330078125,
+   "kurs": 13790.41015625,
    "vortag": 13637.0,
-   "veraenderung_pct": 0.9850412709906831,
+   "veraenderung_pct": 1.1249553145853186,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13788.929688,
     13808.419922,
     13637.0,
-    13771.330078
+    13790.410156
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25106.279296875,
+   "kurs": 25128.7109375,
    "vortag": 24806.970703125,
-   "veraenderung_pct": 1.2065503576875525,
+   "veraenderung_pct": 1.2969751052048784,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25449.189453,
     25104.359375,
     24806.970703,
-    25106.279297
+    25128.710938
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6188.4501953125,
+   "kurs": 6192.6298828125,
    "vortag": 6126.72998046875,
-   "veraenderung_pct": 1.0073924432855152,
+   "veraenderung_pct": 1.0756129706030793,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6272.22998,
     6180.290039,
     6126.72998,
-    6188.450195
+    6192.629883
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9315400123596191,
+   "kurs": 0.9308500289916992,
    "vortag": 0.9330199956893921,
-   "veraenderung_pct": -0.1586228951802271,
+   "veraenderung_pct": -0.23257451155583864,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93248,
     0.93652,
     0.93302,
-    0.93154
+    0.93085
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8307499885559082,
-   "vortag": 0.8329799771308899,
-   "veraenderung_pct": -0.2677121462946408,
-   "datum": "2026-10-09",
-   "ist_heute": true,
+   "kurs": 0.8329799771308899,
+   "vortag": 0.8321800231933594,
+   "veraenderung_pct": 0.09612751030250166,
+   "datum": "2026-10-08",
+   "ist_heute": false,
    "verlauf": [
+    0.83053,
     0.82811,
     0.83112,
     0.83218,
-    0.83298,
-    0.83075
+    0.83298
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4208.60009765625,
+   "kurs": 4208.89990234375,
    "vortag": 4157.0,
-   "veraenderung_pct": 1.2412821182643752,
+   "veraenderung_pct": 1.248494162707492,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4187.100098,
     4140.700195,
     4157.0,
-    4208.600098
+    4208.899902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 102.80000305175781,
+   "kurs": 102.87000274658203,
    "vortag": 104.27999877929688,
-   "veraenderung_pct": -1.419251769144525,
+   "veraenderung_pct": -1.352125095147949,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.580002,
     100.199997,
     104.279999,
-    102.800003
+    102.870003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83371.6328125,
+   "kurs": 83091.71875,
    "vortag": 81676.3359375,
-   "veraenderung_pct": 2.0756279717264237,
+   "veraenderung_pct": 1.7329166352210823,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85557.5625,
     83275.929688,
     81676.335938,
-    83371.632812
+    83091.71875
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.88999938964844,
+   "kurs": 75.98999786376953,
    "vortag": 76.0,
-   "veraenderung_pct": -0.144737645199422,
+   "veraenderung_pct": -0.01316070556640625,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     75.199997,
     75.559998,
     76.0,
-    75.889999
+    75.989998
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 118.77999877929688,
+   "kurs": 119.08000183105469,
    "vortag": 117.72000122070312,
-   "veraenderung_pct": 0.9004396428831551,
+   "veraenderung_pct": 1.1552842305886601,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     117.18,
     120.019997,
     117.720001,
-    118.779999
+    119.080002
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 357.0,
+   "kurs": 358.20001220703125,
    "vortag": 352.70001220703125,
-   "veraenderung_pct": 1.2191629271746995,
+   "veraenderung_pct": 1.5593988686259497,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     349.799988,
     360.0,
     352.700012,
-    357.0
+    358.200012
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.790000915527344,
+   "kurs": 39.84000015258789,
    "vortag": 38.83000183105469,
-   "veraenderung_pct": 2.4723127458234906,
+   "veraenderung_pct": 2.6010771926501697,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.57,
     39.330002,
     38.830002,
-    39.790001
+    39.84
    ]
   }
  ],
@@ -374,9 +374,57 @@
   ],
   "artikel": [
    {
+    "titel": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
+    "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
+    "zeit": "2026-10-09T12:20:12+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "How to navigate new tax rules in year-end planning, according to top-ranked advisors",
+    "link": "https://www.cnbc.com/2026/10/09/year-end-tax-strategies-2026.html",
+    "zeit": "2026-10-09T12:15:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading",
+    "link": "https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html",
+    "zeit": "2026-10-09T12:01:26+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Ferrari’s chairman is bullish on AI. He’s less certain how businesses will cash in",
+    "link": "https://www.cnbc.com/2026/10/09/john-elkann-ferrari-ai-technology.html",
+    "zeit": "2026-10-09T11:54:21+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Kalshi traders see high odds that more than 5,100 data centers will be planned or operating before 2027",
+    "link": "https://www.cnbc.com/2026/10/09/kalshi-traders-see-high-odds-of-5000-plus-data-centers-by-2027.html",
+    "zeit": "2026-10-09T11:54:04+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Pilot killed in attacks by Iran-backed Houthis on Riyadh airport; Saudi-led coalition vows 'firm' response",
+    "link": "https://www.cnbc.com/2026/10/09/saudi-us-iran-war-trump-hormuz.html",
+    "zeit": "2026-10-09T11:51:11+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as adviser",
     "link": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
-    "zeit": "2026-10-09T11:43:57+00:00",
+    "zeit": "2026-10-09T11:50:39+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -398,33 +446,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
-    "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
-    "zeit": "2026-10-09T11:31:28+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "South Africa lawyer 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecute war crimes, genocide",
     "link": "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html",
     "zeit": "2026-10-09T11:11:55+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust",
-    "link": "https://www.cnbc.com/2026/10/09/openai-anthropic-poach-trump-officials.html",
-    "zeit": "2026-10-09T11:00:42+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Living with Mom and trading on margin. The regular investor gets in on Wall Street's record stock borrowing binge",
-    "link": "https://www.cnbc.com/2026/10/09/margin-debt-stock-market-risk.html",
-    "zeit": "2026-10-09T11:00:29+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -454,28 +478,12 @@
     "sprache": "de"
    },
    {
-    "titel": "India calls JD Vance's comments about immigrants 'deeply offensive'",
-    "link": "https://www.cnbc.com/2026/10/09/india-us-immigration-h1b-visa.html",
-    "zeit": "2026-10-09T10:38:15+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Pilot killed in attacks by Iran-backed Houthis on Riyadh airport; Saudi-led coalition vows 'firm' response",
-    "link": "https://www.cnbc.com/2026/10/09/saudi-us-iran-war-trump-hormuz.html",
-    "zeit": "2026-10-09T10:37:42+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "OpenAI defends decision to fire researchers: 'These decisions were not about raising safety concerns or speaking out'",
-    "link": "https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-concerns.html",
-    "zeit": "2026-10-09T10:12:53+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "Tessiner Goldraffinerie plant Expansion in Asien",
+    "link": "https://www.finews.ch/news/finanzplatz/73918-vaccambi-joint-venture-hongkong-raffinerie-gold-edelmetall",
+    "zeit": "2026-10-09T09:27:09+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "MELDUNGEN WIRTSCHAFT - Finanzaufsicht verhängt gegen VW eine Geldstrafe von 1,2 Millionen Euro",
@@ -625,14 +633,6 @@
     "titel": "Vier von fünf unabhängigen Vermögensverwaltern erwarten Zinsdeckel",
     "link": "https://www.finews.ch/news/finanzplatz/73893-aquila-vermoegensverwalter-index-avi-q3-2026-zinsen-anleihenstreik-silvano-marchesi",
     "zeit": "2026-10-07T11:22:53+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Wichtiger Politiker nimmt die Finma aufs Korn",
-    "link": "https://www.finews.ch/news/finanzplatz/73892-staenderat-parlament-fabio-regazzi-postulat-finanzmarktaufsicht-finma",
-    "zeit": "2026-10-07T11:13:49+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
