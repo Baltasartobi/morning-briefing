@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-09T08:26:07+02:00",
+ "aktualisiert": "2026-10-09T08:56:24+02:00",
  "kernaussagen": [
   "SMI −1.24%, Nasdaq −1.25% am schwächsten",
-  "Franken stabil: EUR/CHF 0.9330 (−0.01%)",
-  "Gold +1.50% auf 4'219.50 USD/Unze · Brent über 100 USD"
+  "Franken stabil: EUR/CHF 0.9331 (+0.01%)",
+  "Gold +1.46% auf 4'217.70 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 69104.1875,
+   "kurs": 69030.921875,
    "vortag": 69042.109375,
-   "veraenderung_pct": 0.08991342466497798,
+   "veraenderung_pct": -0.016203879199627735,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     70683.976562,
     70035.710938,
     69042.109375,
-    69104.1875
+    69030.921875
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9329599738121033,
+   "kurs": 0.9331499934196472,
    "vortag": 0.9330199956893921,
-   "veraenderung_pct": -0.006433075128731147,
+   "veraenderung_pct": 0.013933005815069954,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93248,
     0.93652,
     0.93302,
-    0.93296
+    0.93315
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8309699892997742,
+   "kurs": 0.8311700224876404,
    "vortag": 0.8329799771308899,
-   "veraenderung_pct": -0.24130085791964628,
+   "veraenderung_pct": -0.21728669271063872,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83112,
     0.83218,
     0.83298,
-    0.83097
+    0.83117
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4219.5,
+   "kurs": 4217.7001953125,
    "vortag": 4157.0,
-   "veraenderung_pct": 1.5034880923743055,
+   "veraenderung_pct": 1.4601923337142164,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4187.100098,
     4140.700195,
     4157.0,
-    4219.5
+    4217.700195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 103.11000061035156,
+   "kurs": 103.44000244140625,
    "vortag": 104.27999877929688,
-   "veraenderung_pct": -1.1219775437680601,
+   "veraenderung_pct": -0.8055200879589886,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.580002,
     100.199997,
     104.279999,
-    103.110001
+    103.440002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82418.3125,
+   "kurs": 82501.3125,
    "vortag": 83275.9296875,
-   "veraenderung_pct": -1.029850030757129,
+   "veraenderung_pct": -0.9301813746262821,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85786.59375,
     85557.5625,
     83275.929688,
-    82418.3125
+    82501.3125
    ]
   }
  ],
@@ -223,17 +223,17 @@
    "name": "Schweiz",
    "quelle": "snb",
    "verfuegbar": true,
-   "wert": 0.558,
-   "vortag": 0.55,
+   "wert": 0.566,
+   "vortag": 0.558,
    "veraenderung_bp": 0.8,
-   "datum": "2026-10-07",
+   "datum": "2026-10-08",
    "ist_heute": false,
    "verlauf": [
-    0.639,
     0.57,
     0.556,
     0.55,
-    0.558
+    0.558,
+    0.566
    ]
   },
   {
@@ -374,6 +374,22 @@
   ],
   "artikel": [
    {
+    "titel": "MELDUNGEN WIRTSCHAFT - Finanzaufsicht verhängt gegen VW eine Geldstrafe von 1,2 Millionen Euro",
+    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldugen-ld.10025518",
+    "zeit": "2026-10-09T06:36:38+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
+    "link": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
+    "zeit": "2026-10-09T06:30:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Ray Dalio warns the stock market's cushion against rising bond yields is shrinking",
     "link": "https://www.cnbc.com/2026/10/08/ray-dalio-stocks-bond-yields.html",
     "zeit": "2026-10-09T06:16:19+00:00",
@@ -394,6 +410,14 @@
     "link": "https://www.nzz.ch/international/entfuehrungen-auf-offener-strasse-wie-die-militaerjunta-in-myanmar-soldaten-rekrutiert-ld.10025761",
     "zeit": "2026-10-09T04:32:06+00:00",
     "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "LLB will in der Ostschweiz mehr als das Firmenkonto",
+    "link": "https://www.finews.ch/news/banken/73914-llb-schweiz-st-gallen-unternehmer-private-banking",
+    "zeit": "2026-10-09T04:21:37+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -486,14 +510,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
-    "link": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
-    "zeit": "2026-10-08T23:57:23+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
     "link": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
     "zeit": "2026-10-08T22:55:46+00:00",
@@ -532,14 +548,6 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
-   },
-   {
-    "titel": "Die deutsche Wirtschaft wächst stärker als erwartet. Es gibt aber ein Problem",
-    "link": "https://www.nzz.ch/wirtschaft/die-deutsche-wirtschaft-waechst-staerker-als-erwartet-es-gibt-aber-ein-problem-ld.10028196",
-    "zeit": "2026-10-08T13:55:58+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
    },
    {
     "titel": "Mastercard führt Offline-Zahlungen europaweit ein",
@@ -617,14 +625,6 @@
     "titel": "Wichtiger Politiker nimmt die Finma aufs Korn",
     "link": "https://www.finews.ch/news/finanzplatz/73892-staenderat-parlament-fabio-regazzi-postulat-finanzmarktaufsicht-finma",
     "zeit": "2026-10-07T11:13:49+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Raiffeisen schraubt Konjunkturprognose kräftig nach oben",
-    "link": "https://www.finews.ch/news/finanzplatz/73891-raiffeisen-prognose-konjunktur-schweiz-inflation-snb-zinsen",
-    "zeit": "2026-10-07T10:44:42+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
