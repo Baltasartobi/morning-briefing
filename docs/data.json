@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-09T11:50:47+02:00",
+ "aktualisiert": "2026-10-09T12:21:56+02:00",
  "kernaussagen": [
-  "SMI +1.06%, DAX +1.26% führt",
-  "Franken stärker: EUR/CHF 0.9325 (−0.06%)",
-  "Gold +1.27% auf 4'209.70 USD/Unze · Brent über 100 USD"
+  "SMI +0.86%, Nasdaq −1.25% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9318 (−0.13%)",
+  "Gold +1.23% auf 4'208.20 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13781.6201171875,
+   "kurs": 13754.5595703125,
    "vortag": 13637.0,
-   "veraenderung_pct": 1.060498036133306,
+   "veraenderung_pct": 0.8620632860049771,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13788.929688,
     13808.419922,
     13637.0,
-    13781.620117
+    13754.55957
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25119.7109375,
+   "kurs": 25089.599609375,
    "vortag": 24806.970703125,
-   "veraenderung_pct": 1.260694980123489,
+   "veraenderung_pct": 1.1393124522632414,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25449.189453,
     25104.359375,
     24806.970703,
-    25119.710938
+    25089.599609
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6191.1201171875,
+   "kurs": 6185.14013671875,
    "vortag": 6126.72998046875,
-   "veraenderung_pct": 1.0509706960159404,
+   "veraenderung_pct": 0.9533659298876174,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6272.22998,
     6180.290039,
     6126.72998,
-    6191.120117
+    6185.140137
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9324700236320496,
+   "kurs": 0.9317799806594849,
    "vortag": 0.9330199956893921,
-   "veraenderung_pct": -0.05894536664631245,
+   "veraenderung_pct": -0.13290337137855657,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93248,
     0.93652,
     0.93302,
-    0.93247
+    0.93178
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8312199711799622,
+   "kurs": 0.8308600187301636,
    "vortag": 0.8329799771308899,
-   "veraenderung_pct": -0.2112903069999228,
+   "veraenderung_pct": -0.2545029243113728,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83112,
     0.83218,
     0.83298,
-    0.83122
+    0.83086
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4209.7001953125,
+   "kurs": 4208.2001953125,
    "vortag": 4157.0,
-   "veraenderung_pct": 1.2677458578903122,
+   "veraenderung_pct": 1.2316621436733177,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4187.100098,
     4140.700195,
     4157.0,
-    4209.700195
+    4208.200195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 103.08999633789062,
+   "kurs": 103.05999755859375,
    "vortag": 104.27999877929688,
-   "veraenderung_pct": -1.1411607742006447,
+   "veraenderung_pct": -1.1699283035907948,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.580002,
     100.199997,
     104.279999,
-    103.089996
+    103.059998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82563.09375,
+   "kurs": 82560.5703125,
    "vortag": 81676.3359375,
-   "veraenderung_pct": 1.0856973471221387,
+   "veraenderung_pct": 1.0826077894540154,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85557.5625,
     83275.929688,
     81676.335938,
-    82563.09375
+    82560.570312
    ]
   }
  ],
@@ -240,17 +240,17 @@
    "name": "Deutschland",
    "quelle": "bundesbank",
    "verfuegbar": true,
-   "wert": 3.57,
-   "vortag": 3.55,
-   "veraenderung_bp": 2.0,
-   "datum": "2026-10-08",
-   "ist_heute": false,
+   "wert": 3.53,
+   "vortag": 3.57,
+   "veraenderung_bp": -4.0,
+   "datum": "2026-10-09",
+   "ist_heute": true,
    "verlauf": [
-    3.49,
     3.51,
     3.52,
     3.55,
-    3.57
+    3.57,
+    3.53
    ]
   },
   {
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 76.08999633789062,
+   "kurs": 75.70999908447266,
    "vortag": 76.0,
-   "veraenderung_pct": 0.1184162340666095,
+   "veraenderung_pct": -0.381580152009664,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     75.199997,
     75.559998,
     76.0,
-    76.089996
+    75.709999
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 118.81999969482422,
+   "kurs": 118.66000366210938,
    "vortag": 117.72000122070312,
-   "veraenderung_pct": 0.9344193533083578,
+   "veraenderung_pct": 0.7985069925746213,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     117.18,
     120.019997,
     117.720001,
-    118.82
+    118.660004
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 357.29998779296875,
+   "kurs": 356.29998779296875,
    "vortag": 352.70001220703125,
-   "veraenderung_pct": 1.3042175862578054,
+   "veraenderung_pct": 1.0206905192349014,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     349.799988,
     360.0,
     352.700012,
-    357.299988
+    356.299988
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.77000045776367,
+   "kurs": 39.66999816894531,
    "vortag": 38.83000183105469,
-   "veraenderung_pct": 2.420805002273285,
+   "veraenderung_pct": 2.1632662845223694,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.57,
     39.330002,
     38.830002,
-    39.77
+    39.669998
    ]
   }
  ],
@@ -374,9 +374,9 @@
   ],
   "artikel": [
    {
-    "titel": "South Africa lawyer Navanethm 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecute war crimes and genocide",
+    "titel": "South Africa lawyer 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecute war crimes, genocide",
     "link": "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html",
-    "zeit": "2026-10-09T09:48:44+00:00",
+    "zeit": "2026-10-09T10:13:41+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,7 +384,7 @@
    {
     "titel": "OpenAI defends decision to fire researchers: 'These decisions were not about raising safety concerns or speaking out'",
     "link": "https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-concerns.html",
-    "zeit": "2026-10-09T08:33:53+00:00",
+    "zeit": "2026-10-09T10:12:53+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
