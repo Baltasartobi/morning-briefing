@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-09T12:21:56+02:00",
+ "aktualisiert": "2026-10-09T12:50:08+02:00",
  "kernaussagen": [
-  "SMI +0.86%, Nasdaq −1.25% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9318 (−0.13%)",
-  "Gold +1.23% auf 4'208.20 USD/Unze · Brent über 100 USD"
+  "SMI +0.69%, Nasdaq −1.25% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9314 (−0.17%)",
+  "Brent über 100 USD: 102.82 (−1.40%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13754.5595703125,
+   "kurs": 13731.759765625,
    "vortag": 13637.0,
-   "veraenderung_pct": 0.8620632860049771,
+   "veraenderung_pct": 0.6948725205323747,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13788.929688,
     13808.419922,
     13637.0,
-    13754.55957
+    13731.759766
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25089.599609375,
+   "kurs": 25036.16015625,
    "vortag": 24806.970703125,
-   "veraenderung_pct": 1.1393124522632414,
+   "veraenderung_pct": 0.9238913363013967,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25449.189453,
     25104.359375,
     24806.970703,
-    25089.599609
+    25036.160156
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6185.14013671875,
+   "kurs": 6168.89013671875,
    "vortag": 6126.72998046875,
-   "veraenderung_pct": 0.9533659298876174,
+   "veraenderung_pct": 0.6881347208772315,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6272.22998,
     6180.290039,
     6126.72998,
-    6185.140137
+    6168.890137
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9317799806594849,
+   "kurs": 0.931439995765686,
    "vortag": 0.9330199956893921,
-   "veraenderung_pct": -0.13290337137855657,
+   "veraenderung_pct": -0.16934255760924222,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93248,
     0.93652,
     0.93302,
-    0.93178
+    0.93144
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8308600187301636,
+   "kurs": 0.8309100270271301,
    "vortag": 0.8329799771308899,
-   "veraenderung_pct": -0.2545029243113728,
+   "veraenderung_pct": -0.24849938300911534,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83112,
     0.83218,
     0.83298,
-    0.83086
+    0.83091
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4208.2001953125,
+   "kurs": 4207.89990234375,
    "vortag": 4157.0,
-   "veraenderung_pct": 1.2316621436733177,
+   "veraenderung_pct": 1.2244383532294956,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4187.100098,
     4140.700195,
     4157.0,
-    4208.200195
+    4207.899902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 103.05999755859375,
+   "kurs": 102.81999969482422,
    "vortag": 104.27999877929688,
-   "veraenderung_pct": -1.1699283035907948,
+   "veraenderung_pct": -1.4000758549706838,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.580002,
     100.199997,
     104.279999,
-    103.059998
+    102.82
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82560.5703125,
+   "kurs": 82372.6171875,
    "vortag": 81676.3359375,
-   "veraenderung_pct": 1.0826077894540154,
+   "veraenderung_pct": 0.8524883517458504,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85557.5625,
     83275.929688,
     81676.335938,
-    82560.570312
+    82372.617188
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.70999908447266,
+   "kurs": 75.68000030517578,
    "vortag": 76.0,
-   "veraenderung_pct": -0.381580152009664,
+   "veraenderung_pct": -0.42105223003187087,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     75.199997,
     75.559998,
     76.0,
-    75.709999
+    75.68
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 118.66000366210938,
+   "kurs": 118.45999908447266,
    "vortag": 117.72000122070312,
-   "veraenderung_pct": 0.7985069925746213,
+   "veraenderung_pct": 0.6286084404486081,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     117.18,
     120.019997,
     117.720001,
-    118.660004
+    118.459999
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 356.29998779296875,
+   "kurs": 355.8999938964844,
    "vortag": 352.70001220703125,
-   "veraenderung_pct": 1.0206905192349014,
+   "veraenderung_pct": 0.9072814229376336,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     349.799988,
     360.0,
     352.700012,
-    356.299988
+    355.899994
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.66999816894531,
+   "kurs": 39.68000030517578,
    "vortag": 38.83000183105469,
-   "veraenderung_pct": 2.1632662845223694,
+   "veraenderung_pct": 2.1890250683462398,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.57,
     39.330002,
     38.830002,
-    39.669998
+    39.68
    ]
   }
  ],
@@ -373,6 +373,46 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
+    "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
+    "zeit": "2026-10-09T10:47:40+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Musks Mobilfunkpläne – Wie gefährlich wird Starlink für Schweizer Mobilfunkanbieter?",
+    "link": "https://www.srf.ch/news/wirtschaft/musks-mobilfunkplaene-wie-gefaehrlich-wird-starlink-fuer-schweizer-mobilfunkanbieter",
+    "zeit": "2026-10-09T10:47:14+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Besuch von Maros Sefcovic in Peking: So blickt die chinesische Regierung auf den Handelskonflikt mit der EU",
+    "link": "https://www.nzz.ch/wirtschaft/besuch-von-maros-sefcovic-in-peking-so-blickt-die-chinesische-regierung-auf-den-handelskonflikt-mit-der-eu-ld.10029128",
+    "zeit": "2026-10-09T10:44:33+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "India calls JD Vance's comments about immigrants 'deeply offensive'",
+    "link": "https://www.cnbc.com/2026/10/09/india-us-immigration-h1b-visa.html",
+    "zeit": "2026-10-09T10:38:15+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Pilot killed in attacks by Iran-backed Houthis on Riyadh airport; Saudi-led coalition vows 'firm' response",
+    "link": "https://www.cnbc.com/2026/10/09/saudi-us-iran-war-trump-hormuz.html",
+    "zeit": "2026-10-09T10:37:42+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
    {
     "titel": "South Africa lawyer 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecute war crimes, genocide",
     "link": "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html",
@@ -502,14 +542,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Midterms USA: Kann dieser bibelfeste Demokrat das konservative Texas erobern?",
-    "link": "https://www.nzz.ch/international/usa/midterms-2026/midterms-usa-kann-dieser-bibelfeste-demokrat-das-konservative-texas-erobern-ld.10026265",
-    "zeit": "2026-10-09T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "U.S. East Asian envoy says investors are overpricing Taiwan conflict risk",
     "link": "https://www.cnbc.com/2026/10/09/taiwan-trump-china-militia-boat-tsmc-.html",
     "zeit": "2026-10-09T02:52:15+00:00",
@@ -521,30 +553,6 @@
     "titel": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
     "link": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
     "zeit": "2026-10-08T22:55:46+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Pepsi shares rallied despite cutting profit guidance. Where Cramer stands on the stock now",
-    "link": "https://www.cnbc.com/2026/10/08/pepsico-earnings-guidance-cramer.html",
-    "zeit": "2026-10-08T22:50:36+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Major League Baseball proposes shortening its regular season as it pushes for a salary cap",
-    "link": "https://www.cnbc.com/2026/10/08/major-league-baseball-proposes-shorter-season-amid-salary-cap-push.html",
-    "zeit": "2026-10-08T20:16:21+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Why a Starbucks takeover of Chipotle would — and wouldn't — make sense for both companies",
-    "link": "https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html",
-    "zeit": "2026-10-08T20:12:33+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -681,14 +689,6 @@
     "titel": "Schweizer Fleischmarkt – In der Schweiz wird so viel Poulet gegessen wie noch nie",
     "link": "https://www.srf.ch/news/dialog/schweizer-fleischmarkt-in-der-schweiz-wird-so-viel-poulet-gegessen-wie-noch-nie",
     "zeit": "2026-10-05T14:16:36+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Kritik an Palmöl-Import – Referendum gegen Malaysia-Deal: 85'000 Unterschriften eingereicht",
-    "link": "https://www.srf.ch/news/schweiz/kritik-an-palmoel-import-referendum-gegen-malaysia-deal-85-000-unterschriften-eingereicht",
-    "zeit": "2026-10-05T08:21:50+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
