@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-09T17:20:08+02:00",
+ "aktualisiert": "2026-10-09T17:51:20+02:00",
  "kernaussagen": [
-  "SMI +0.98%, Nikkei 225 −1.42% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9302 (−0.30%)",
-  "Bitcoin +1.40% auf 82'818 USD · Brent über 100 USD"
+  "SMI +1.10%, Nikkei 225 −1.42% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9301 (−0.32%)",
+  "Bitcoin +1.53% auf 82'928 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13769.990234375,
+   "kurs": 13787.400390625,
    "vortag": 13637.0,
-   "veraenderung_pct": 0.9752162086602567,
+   "veraenderung_pct": 1.1028847299626054,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13788.929688,
     13808.419922,
     13637.0,
-    13769.990234
+    13787.400391
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25107.919921875,
+   "kurs": 25087.26953125,
    "vortag": 24806.970703125,
-   "veraenderung_pct": 1.2131639221555135,
+   "veraenderung_pct": 1.1299196160605485,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25449.189453,
     25104.359375,
     24806.970703,
-    25107.919922
+    25087.269531
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6183.22021484375,
+   "kurs": 6173.3701171875,
    "vortag": 6126.72998046875,
-   "veraenderung_pct": 0.9220291175730644,
+   "veraenderung_pct": 0.7612566061738102,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6272.22998,
     6180.290039,
     6126.72998,
-    6183.220215
+    6173.370117
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7802.990234375,
+   "kurs": 7801.89990234375,
    "vortag": 7765.35986328125,
-   "veraenderung_pct": 0.4845927523808191,
+   "veraenderung_pct": 0.47055178003121423,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7818.930176,
     7801.77002,
     7765.359863,
-    7802.990234
+    7801.899902
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27324.09765625,
+   "kurs": 27341.943359375,
    "vortag": 27193.33984375,
-   "veraenderung_pct": 0.48084499091072264,
+   "veraenderung_pct": 0.5464702624939033,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27599.789062,
     27538.689453,
     27193.339844,
-    27324.097656
+    27341.943359
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9302200078964233,
+   "kurs": 0.9300500154495239,
    "vortag": 0.9330199956893921,
-   "veraenderung_pct": -0.3000994411593405,
+   "veraenderung_pct": -0.31831903427468333,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93248,
     0.93652,
     0.93302,
-    0.93022
+    0.93005
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8308299779891968,
-   "vortag": 0.8329799771308899,
-   "veraenderung_pct": -0.2581093424476433,
-   "datum": "2026-10-09",
-   "ist_heute": true,
+   "kurs": 0.8329799771308899,
+   "vortag": 0.8321800231933594,
+   "veraenderung_pct": 0.09612751030250166,
+   "datum": "2026-10-08",
+   "ist_heute": false,
    "verlauf": [
+    0.83053,
     0.82811,
     0.83112,
     0.83218,
-    0.83298,
-    0.83083
+    0.83298
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4207.5,
+   "kurs": 4214.39990234375,
    "vortag": 4157.0,
-   "veraenderung_pct": 1.2148183786384381,
+   "veraenderung_pct": 1.3808011148364274,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4187.100098,
     4140.700195,
     4157.0,
-    4207.5
+    4214.399902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.93000030517578,
+   "kurs": 104.81999969482422,
    "vortag": 104.27999877929688,
-   "veraenderung_pct": 0.6233232964018454,
+   "veraenderung_pct": 0.5178374777988104,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.580002,
     100.199997,
     104.279999,
-    104.93
+    104.82
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82817.953125,
+   "kurs": 82928.328125,
    "vortag": 81676.3359375,
-   "veraenderung_pct": 1.3977331064086718,
+   "veraenderung_pct": 1.5328701675085377,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     85557.5625,
     83275.929688,
     81676.335938,
-    82817.953125
+    82928.328125
    ]
   }
  ],
@@ -256,19 +256,7 @@
   {
    "name": "USA",
    "quelle": "yahoo",
-   "verfuegbar": true,
-   "wert": 5.276,
-   "vortag": 5.231,
-   "veraenderung_bp": 4.5,
-   "datum": "2026-10-09",
-   "ist_heute": true,
-   "verlauf": [
-    5.311,
-    5.269,
-    5.277,
-    5.231,
-    5.276
-   ]
+   "verfuegbar": false
   }
  ],
  "watchlist": [
@@ -278,9 +266,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 75.7699966430664,
+   "kurs": 76.04000091552734,
    "vortag": 76.0,
-   "veraenderung_pct": -0.30263599596525026,
+   "veraenderung_pct": 0.05263278358860202,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +276,7 @@
     75.199997,
     75.559998,
     76.0,
-    75.769997
+    76.040001
    ]
   },
   {
@@ -297,9 +285,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 118.95999908447266,
+   "kurs": 119.0999984741211,
    "vortag": 117.72000122070312,
-   "veraenderung_pct": 1.0533450993130522,
+   "veraenderung_pct": 1.1722708453177244,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +295,7 @@
     117.18,
     120.019997,
     117.720001,
-    118.959999
+    119.099998
    ]
   },
   {
@@ -316,9 +304,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 357.70001220703125,
+   "kurs": 357.79998779296875,
    "vortag": 352.70001220703125,
-   "veraenderung_pct": 1.4176353351144977,
+   "veraenderung_pct": 1.4459811197692574,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +314,7 @@
     349.799988,
     360.0,
     352.700012,
-    357.700012
+    357.799988
    ]
   },
   {
@@ -335,9 +323,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.79999923706055,
+   "kurs": 39.900001525878906,
    "vortag": 38.83000183105469,
-   "veraenderung_pct": 2.498061705549781,
+   "veraenderung_pct": 2.755600423300719,
    "datum": "2026-10-09",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +333,7 @@
     40.57,
     39.330002,
     38.830002,
-    39.799999
+    39.900002
    ]
   }
  ],
@@ -374,6 +362,30 @@
   ],
   "artikel": [
    {
+    "titel": "Jim Cramer sets a Starbucks buy level — plus his take on 3 stocks we just bought",
+    "link": "https://www.cnbc.com/investingclub/2026/10/09/cramer-sets-starbucks-buy-level-and-reviews-3-stocks-we-bought.html",
+    "zeit": "2026-10-09T15:47:15+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "ICE won't pause enforcement in NY after Bronx shooting, DHS' Mullin says",
+    "link": "https://www.cnbc.com/2026/10/09/ice-bronx-shooting-mamdani-dhs.html",
+    "zeit": "2026-10-09T15:20:56+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "MELDUNGEN WIRTSCHAFT - Trump setzt Ausschuss zur Untersuchung von Fed-Gouverneurin Lisa Cook ein",
+    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldugen-ld.10025518",
+    "zeit": "2026-10-09T15:18:22+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
     "link": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
     "zeit": "2026-10-09T15:18:12+00:00",
@@ -385,6 +397,14 @@
     "titel": "Wall Street is pitching data centers as a major real estate bet. The risks are piling up",
     "link": "https://www.cnbc.com/2026/10/09/ai-data-centers-investing.html",
     "zeit": "2026-10-09T15:08:20+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "ChatGPT for Teens is not necessarily 'safer than the previous version,' Common Sense Media finds",
+    "link": "https://www.cnbc.com/make-it/2026/10/09/chatgpt-for-teens-safety-common-sense-media.html",
+    "zeit": "2026-10-09T15:07:53+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -438,33 +458,9 @@
     "sprache": "de"
    },
    {
-    "titel": "AI agents like Muse can shop for you. Here's what that means for retail stocks",
-    "link": "https://www.cnbc.com/investingclub/2026/10/09/ai-agents-could-soon-shop-for-consumers-what-it-means-for-retail-stocks.html",
-    "zeit": "2026-10-09T14:15:38+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries",
     "link": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html",
     "zeit": "2026-10-09T14:13:40+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "NBA commissioner says league wants access to prediction market data to detect manipulation",
-    "link": "https://www.cnbc.com/2026/10/09/nba-commissioner-says-league-wants-access-to-prediction-market-data-to-detect-manipulation.html",
-    "zeit": "2026-10-09T14:12:35+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "South Africa lawyer 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecute war crimes, genocide",
-    "link": "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html",
-    "zeit": "2026-10-09T14:12:23+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -506,14 +502,6 @@
     "link": "https://www.finews.ch/news/finanzplatz/73918-vaccambi-joint-venture-hongkong-raffinerie-gold-edelmetall",
     "zeit": "2026-10-09T09:27:09+00:00",
     "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "MELDUNGEN WIRTSCHAFT - Finanzaufsicht verhängt gegen VW eine Geldstrafe von 1,2 Millionen Euro",
-    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldugen-ld.10025518",
-    "zeit": "2026-10-09T06:36:38+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
