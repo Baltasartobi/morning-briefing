@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-12T13:21:58+02:00",
+ "aktualisiert": "2026-10-12T13:53:31+02:00",
  "kernaussagen": [
-  "SMI +0.45%, DAX +0.65% führt",
-  "Franken stärker: EUR/CHF 0.9311 (−0.13%)",
-  "Brent über 100 USD: 106.08 (+1.30%)"
+  "SMI +0.49%, DAX +0.73% führt",
+  "Franken stärker: EUR/CHF 0.9323 (−0.08%)",
+  "Brent über 100 USD: 106.01 (+1.23%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13848.7802734375,
+   "kurs": 13854.73046875,
    "vortag": 13787.400390625,
-   "veraenderung_pct": 0.4451882231130133,
+   "veraenderung_pct": 0.4883449832267406,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13808.419922,
     13637.0,
     13787.400391,
-    13848.780273
+    13854.730469
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25249.8203125,
+   "kurs": 25270.26953125,
    "vortag": 25087.26953125,
-   "veraenderung_pct": 0.6479413036461379,
+   "veraenderung_pct": 0.7294536369214955,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25104.359375,
     24806.970703,
     25087.269531,
-    25249.820312
+    25270.269531
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6202.39990234375,
+   "kurs": 6204.2900390625,
    "vortag": 6173.3701171875,
-   "veraenderung_pct": 0.4702420979980859,
+   "veraenderung_pct": 0.5008596809854993,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6180.290039,
     6126.72998,
     6173.370117,
-    6202.399902
+    6204.290039
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9310799837112427,
-   "vortag": 0.9322699904441833,
-   "veraenderung_pct": -0.12764614812643682,
-   "datum": "2026-10-12",
-   "ist_heute": true,
+   "kurs": 0.9322699904441833,
+   "vortag": 0.9330199956893921,
+   "veraenderung_pct": -0.08038469150434269,
+   "datum": "2026-10-09",
+   "ist_heute": false,
    "verlauf": [
+    0.93193,
     0.93248,
     0.93652,
     0.93302,
-    0.93227,
-    0.93108
+    0.93227
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.833109974861145,
+   "kurs": 0.8328999876976013,
    "vortag": 0.8313800096511841,
-   "veraenderung_pct": 0.2080835706750772,
+   "veraenderung_pct": 0.18282590737959126,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83218,
     0.83298,
     0.83138,
-    0.83311
+    0.8329
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4195.2001953125,
+   "kurs": 4196.0,
    "vortag": 4216.2998046875,
-   "veraenderung_pct": -0.5004295318739471,
+   "veraenderung_pct": -0.4814601813877606,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4140.700195,
     4157.0,
     4216.299805,
-    4195.200195
+    4196.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 106.08000183105469,
+   "kurs": 106.01000213623047,
    "vortag": 104.72000122070312,
-   "veraenderung_pct": 1.298701866403995,
+   "veraenderung_pct": 1.231857238817824,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.199997,
     104.279999,
     104.720001,
-    106.080002
+    106.010002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83329.2421875,
+   "kurs": 83334.3984375,
    "vortag": 83679.46875,
-   "veraenderung_pct": -0.4185334440235722,
+   "veraenderung_pct": -0.4123715382693516,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82546.320312,
     82912.226562,
     83679.46875,
-    83329.242188
+    83334.398438
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 76.01000213623047,
+   "kurs": 76.1500015258789,
    "vortag": 76.04000091552734,
-   "veraenderung_pct": -0.039451313697647095,
+   "veraenderung_pct": 0.1446615058221301,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     75.559998,
     76.0,
     76.040001,
-    76.010002
+    76.150002
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 119.69999694824219,
+   "kurs": 119.72000122070312,
    "vortag": 119.0999984741211,
-   "veraenderung_pct": 0.5037770628111948,
+   "veraenderung_pct": 0.520573261566204,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     120.019997,
     117.720001,
     119.099998,
-    119.699997
+    119.720001
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 360.0,
+   "kurs": 359.70001220703125,
    "vortag": 357.79998779296875,
-   "veraenderung_pct": 0.6148720743680558,
+   "veraenderung_pct": 0.53102975933077,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     360.0,
     352.700012,
     357.799988,
-    360.0
+    359.700012
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.02000045776367,
+   "kurs": 39.97999954223633,
    "vortag": 39.900001525878906,
-   "veraenderung_pct": 0.3007491912172755,
+   "veraenderung_pct": 0.20049627393006197,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.330002,
     38.830002,
     39.900002,
-    40.02
+    39.98
    ]
   }
  ],
@@ -374,9 +374,49 @@
   ],
   "artikel": [
    {
+    "titel": "Die Träger des Wirtschaftsnobelpreises heissen Robert E. Hall und Michael Woodford",
+    "link": "https://www.nzz.ch/wirtschaft/die-traeger-des-wirtschaftsnobelpreises-heissen-robert-e-hall-und-michael-woodford-ld.10031542",
+    "zeit": "2026-10-12T11:39:42+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Beckham, Yao Ming attend NBA China Games in a boost to Macao's live events",
+    "link": "https://www.cnbc.com/2026/10/12/beckham-yao-ming-nba-china-games-liev-events.html",
+    "zeit": "2026-10-12T11:37:44+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Brent tops $105 as doubts grow over supply boost from Trump’s ‘energy ceasefire’",
     "link": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html",
-    "zeit": "2026-10-12T11:19:41+00:00",
+    "zeit": "2026-10-12T11:37:31+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows",
+    "link": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
+    "zeit": "2026-10-12T11:32:33+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
+    "link": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
+    "zeit": "2026-10-12T11:30:46+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Global travel warnings after Iran-backed Houthi militants strike Riyadh airport",
+    "link": "https://www.cnbc.com/2026/10/12/us-iran-war-trump-hormuz-saudi.html",
+    "zeit": "2026-10-12T11:27:42+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -406,22 +446,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Global travel warnings after Iran-backed Houthi militants strike Riyadh airport",
-    "link": "https://www.cnbc.com/2026/10/12/us-iran-war-trump-hormuz-saudi.html",
-    "zeit": "2026-10-12T10:48:00+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
-    "link": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
-    "zeit": "2026-10-12T10:42:49+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "AI FOMO driving some family offices into tech investments, survey suggests",
     "link": "https://www.cnbc.com/2026/10/12/ai-fomo-driving-some-family-offices-to-ai-investments-survey-suggests.html",
     "zeit": "2026-10-12T10:25:28+00:00",
@@ -438,14 +462,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Die Träger des Wirtschaftsnobelpreises heissen Robert E. Hall und Michael Woodford",
-    "link": "https://www.nzz.ch/wirtschaft/die-traeger-des-wirtschaftsnobelpreises-heissen-robert-e-hall-und-michael-woodford-ld.10031542",
-    "zeit": "2026-10-12T10:01:27+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Trump turns to Russian diesel ahead of midterms, but analysts see little price relief",
     "link": "https://www.cnbc.com/2026/10/12/russia-ukraine-energy-ceasefire-diesel-prices.html",
     "zeit": "2026-10-12T09:31:22+00:00",
@@ -454,25 +470,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Beckham, Yao Ming attend NBA China Games in a boost to Macao's live events",
-    "link": "https://www.cnbc.com/2026/10/12/beckham-yao-ming-nba-china-games-liev-events.html",
-    "zeit": "2026-10-12T09:14:31+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
     "link": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
     "zeit": "2026-10-12T08:58:54+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Stellantis CEO urges incentives for carmakers who build in Europe as Chinese rivals gain ground",
-    "link": "https://www.cnbc.com/2026/10/12/stellantis-europe-cars-chinese-rivals-evs.html",
-    "zeit": "2026-10-12T08:41:50+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -686,9 +686,9 @@
     "sprache": "de"
    },
    {
-    "titel": "Tessiner Goldraffinerie plant Expansion in Asien",
-    "link": "https://www.finews.ch/news/finanzplatz/73918-vaccambi-joint-venture-hongkong-raffinerie-gold-edelmetall",
-    "zeit": "2026-10-09T09:27:09+00:00",
+    "titel": "«Schweizer wissen: Ein sicherer Hafen bietet nicht zwingend die höchste Rendite»",
+    "link": "https://www.finews.ch/news/finanzplatz/73919-lei-zhu-fidelity-asiatische-anleihen-singapur-sicherer-hafen",
+    "zeit": "2026-10-09T09:46:49+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
