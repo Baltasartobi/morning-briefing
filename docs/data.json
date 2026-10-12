@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-12T08:29:23+02:00",
+ "aktualisiert": "2026-10-12T09:01:13+02:00",
  "kernaussagen": [
   "SMI +1.10%, DAX +1.13% führt",
-  "Franken stärker: EUR/CHF 0.9305 (−0.19%)",
-  "Bitcoin +0.92% auf 83'673 USD · Brent über 100 USD"
+  "Franken stärker: EUR/CHF 0.9323 (−0.08%)",
+  "Bitcoin +1.39% auf 84'065 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9305199980735779,
-   "vortag": 0.9322699904441833,
-   "veraenderung_pct": -0.18771304327533933,
-   "datum": "2026-10-12",
-   "ist_heute": true,
+   "kurs": 0.9322699904441833,
+   "vortag": 0.9330199956893921,
+   "veraenderung_pct": -0.08038469150434269,
+   "datum": "2026-10-09",
+   "ist_heute": false,
    "verlauf": [
+    0.93193,
     0.93248,
     0.93652,
     0.93302,
-    0.93227,
-    0.93052
+    0.93227
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4207.2998046875,
+   "kurs": 4209.0,
    "vortag": 4216.2998046875,
-   "veraenderung_pct": -0.213457306569953,
+   "veraenderung_pct": -0.17313296078671492,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4140.700195,
     4157.0,
     4216.299805,
-    4207.299805
+    4209.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.44000244140625,
+   "kurs": 104.62000274658203,
    "vortag": 104.72000122070312,
-   "veraenderung_pct": -0.26737851034470683,
+   "veraenderung_pct": -0.09549128433482545,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.199997,
     104.279999,
     104.720001,
-    104.440002
+    104.620003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83673.0078125,
+   "kurs": 84065.046875,
    "vortag": 82912.2265625,
-   "veraenderung_pct": 0.9175742608076298,
+   "veraenderung_pct": 1.390410510361817,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81676.335938,
     82546.320312,
     82912.226562,
-    83673.007812
+    84065.046875
    ]
   }
  ],
@@ -223,17 +223,17 @@
    "name": "Schweiz",
    "quelle": "snb",
    "verfuegbar": true,
-   "wert": 0.566,
-   "vortag": 0.558,
-   "veraenderung_bp": 0.8,
-   "datum": "2026-10-08",
+   "wert": 0.579,
+   "vortag": 0.566,
+   "veraenderung_bp": 1.3,
+   "datum": "2026-10-09",
    "ist_heute": false,
    "verlauf": [
-    0.57,
     0.556,
     0.55,
     0.558,
-    0.566
+    0.566,
+    0.579
    ]
   },
   {
@@ -388,6 +388,14 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Maiestas stärkt Schweizer Unternehmergeschäft mit neuem Leiter",
+    "link": "https://www.finews.ch/news/finanzplatz/73930-maiestas-asset-management-ag-in-vaduz-christian-reinhardt-head-entrepreneurs-executives-desk",
+    "zeit": "2026-10-12T04:43:03+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "TikTok CEO sees major scientific breakthroughs from AI within three years",
@@ -681,14 +689,6 @@
     "titel": "Finma erlässt neue Regeln beim Onboarding neuer Kunden",
     "link": "https://www.finews.ch/news/banken/73910-finma-onboarding-regeln-video-online-identifizierung",
     "zeit": "2026-10-08T11:30:51+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Schroders verstärkt ETF-Vertrieb in der Schweiz",
-    "link": "https://www.finews.ch/news/banken/73904-schroders-schweiz-vertrieb-etf-hans-joerg-morath",
-    "zeit": "2026-10-08T06:14:14+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
