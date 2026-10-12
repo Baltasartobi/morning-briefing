@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-12T06:22:11+02:00",
+ "aktualisiert": "2026-10-12T06:53:25+02:00",
  "kernaussagen": [
   "SMI +1.10%, DAX +1.13% führt",
-  "Franken stärker: EUR/CHF 0.9305 (−0.19%)",
-  "Brent über 100 USD: 103.25 (−1.40%)"
+  "Franken stärker: EUR/CHF 0.9306 (−0.18%)",
+  "Brent über 100 USD: 103.38 (−1.28%)"
  ],
  "maerkte": [
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9305300116539001,
+   "kurs": 0.9305999875068665,
    "vortag": 0.9322699904441833,
-   "veraenderung_pct": -0.18663893594323966,
+   "veraenderung_pct": -0.17913297161064046,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93652,
     0.93302,
     0.93227,
-    0.93053
+    0.9306
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8313800096511841,
-   "vortag": 0.8329799771308899,
-   "veraenderung_pct": -0.19207754371440844,
-   "datum": "2026-10-09",
-   "ist_heute": false,
+   "kurs": 0.8303800225257874,
+   "vortag": 0.8313800096511841,
+   "veraenderung_pct": -0.12028039089083675,
+   "datum": "2026-10-12",
+   "ist_heute": true,
    "verlauf": [
-    0.82811,
     0.83112,
     0.83218,
     0.83298,
-    0.83138
+    0.83138,
+    0.83038
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4223.10009765625,
+   "kurs": 4221.89990234375,
    "vortag": 4216.2998046875,
-   "veraenderung_pct": 0.16128580233287781,
+   "veraenderung_pct": 0.1328201958035402,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4140.700195,
     4157.0,
     4216.299805,
-    4223.100098
+    4221.899902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 103.25,
+   "kurs": 103.37999725341797,
    "vortag": 104.72000122070312,
-   "veraenderung_pct": -1.4037444648277053,
+   "veraenderung_pct": -1.2796065237442367,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.199997,
     104.279999,
     104.720001,
-    103.25
+    103.379997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83465.8203125,
+   "kurs": 83967.6328125,
    "vortag": 82912.2265625,
-   "veraenderung_pct": 0.6676865077102967,
+   "veraenderung_pct": 1.272919922376503,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81676.335938,
     82546.320312,
     82912.226562,
-    83465.820312
+    83967.632812
    ]
   }
  ],
@@ -374,6 +374,22 @@
   ],
   "artikel": [
    {
+    "titel": "TikTok CEO sees major scientific breakthroughs from AI within three years",
+    "link": "https://www.cnbc.com/2026/10/12/tiktok-ceo-bytedance-ai-scientific-breakthroughs.html",
+    "zeit": "2026-10-12T04:24:33+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Afrikanische Länder glauben, Milliarden zu verlieren, weil die Wall Street sie unfair behandelt. Nun gründen sie eine eigene Rating-Agentur",
+    "link": "https://www.nzz.ch/wirtschaft/faire-ratings-fuer-afrika-kontinent-startet-eigene-kreditagentur-ld.10027099",
+    "zeit": "2026-10-12T04:24:23+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine",
     "link": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html",
     "zeit": "2026-10-12T04:21:21+00:00",
@@ -518,14 +534,6 @@
     "sprache": "de"
    },
    {
-    "titel": "AI’s quiet safety gatekeepers are stepping into the spotlight",
-    "link": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
-    "zeit": "2026-10-11T14:08:44+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Der Franken ist weiterhin ein sicherer Hafen – dies zeigen die Sorgen über Frankreich und eine mögliche Euro-Schuldenkrise",
     "link": "https://www.nzz.ch/wirtschaft/der-franken-ist-weiterhin-ein-sicherer-hafen-dies-zeigen-die-sorgen-ueber-frankreich-und-eine-moegliche-euro-schuldenkrise-ld.10027264",
     "zeit": "2026-10-11T13:06:47+00:00",
@@ -545,14 +553,6 @@
     "titel": "Die Stadt Rafah gibt es nicht mehr",
     "link": "https://www.nzz.ch/visuals/die-stadt-rafah-gibt-es-nicht-mehr-ld.10027308",
     "zeit": "2026-10-11T07:12:24+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Von der Schweiz schwärmen und dafür bezahlt werden: Nina Chuba übernimmt das Privileg von Roger Federer",
-    "link": "https://www.nzz.ch/wirtschaft/von-der-schweiz-schwaermen-und-dafuer-bezahlt-werden-nina-chuba-uebernimmt-das-privileg-von-roger-federer-ld.10029268",
-    "zeit": "2026-10-11T03:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
