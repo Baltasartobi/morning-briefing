@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-12T10:24:29+02:00",
+ "aktualisiert": "2026-10-12T10:54:01+02:00",
  "kernaussagen": [
-  "SMI +0.40%, Nasdaq +0.64% führt",
-  "Franken stärker: EUR/CHF 0.9315 (−0.08%)",
-  "Gold −0.35% auf 4'201.40 USD/Unze · Brent über 100 USD"
+  "SMI +0.38%, Nasdaq +0.64% führt",
+  "Franken stärker: EUR/CHF 0.9316 (−0.07%)",
+  "Gold −0.32% auf 4'202.70 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13843.16015625,
+   "kurs": 13840.4697265625,
    "vortag": 13787.400390625,
-   "veraenderung_pct": 0.40442551928001613,
+   "veraenderung_pct": 0.384911835690116,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13808.419922,
     13637.0,
     13787.400391,
-    13843.160156
+    13840.469727
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25218.169921875,
+   "kurs": 25226.5703125,
    "vortag": 25087.26953125,
-   "veraenderung_pct": 0.5217801421631085,
+   "veraenderung_pct": 0.5552648169880658,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25104.359375,
     24806.970703,
     25087.269531,
-    25218.169922
+    25226.570312
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6211.8798828125,
+   "kurs": 6206.6298828125,
    "vortag": 6173.3701171875,
-   "veraenderung_pct": 0.6238045815167181,
+   "veraenderung_pct": 0.5387618916999681,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6180.290039,
     6126.72998,
     6173.370117,
-    6211.879883
+    6206.629883
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9315299987792969,
+   "kurs": 0.93163001537323,
    "vortag": 0.9322699904441833,
-   "veraenderung_pct": -0.0793752531424885,
+   "veraenderung_pct": -0.06864696681360138,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93652,
     0.93302,
     0.93227,
-    0.93153
+    0.93163
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8321800231933594,
+   "kurs": 0.8323400020599365,
    "vortag": 0.8313800096511841,
-   "veraenderung_pct": 0.09622718045758649,
+   "veraenderung_pct": 0.1154697488041867,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83218,
     0.83298,
     0.83138,
-    0.83218
+    0.83234
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4201.39990234375,
+   "kurs": 4202.7001953125,
    "vortag": 4216.2998046875,
-   "veraenderung_pct": -0.35338811360579037,
+   "veraenderung_pct": -0.3225484430656622,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4140.700195,
     4157.0,
     4216.299805,
-    4201.399902
+    4202.700195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.75,
+   "kurs": 104.58000183105469,
    "vortag": 104.72000122070312,
-   "veraenderung_pct": 0.028646656748643196,
+   "veraenderung_pct": -0.13368925517235342,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.199997,
     104.279999,
     104.720001,
-    104.75
+    104.580002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83481.3984375,
+   "kurs": 83492.1875,
    "vortag": 83679.46875,
-   "veraenderung_pct": -0.23670120694928576,
+   "veraenderung_pct": -0.22380788596964019,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82546.320312,
     82912.226562,
     83679.46875,
-    83481.398438
+    83492.1875
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 76.11000061035156,
+   "kurs": 76.1500015258789,
    "vortag": 76.04000091552734,
-   "veraenderung_pct": 0.0920564097598886,
+   "veraenderung_pct": 0.1446615058221301,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     75.559998,
     76.0,
     76.040001,
-    76.110001
+    76.150002
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 119.72000122070312,
+   "kurs": 119.58000183105469,
    "vortag": 119.0999984741211,
-   "veraenderung_pct": 0.520573261566204,
+   "veraenderung_pct": 0.4030254937726907,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     120.019997,
     117.720001,
     119.099998,
-    119.720001
+    119.580002
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 361.1000061035156,
+   "kurs": 360.70001220703125,
    "vortag": 357.79998779296875,
-   "veraenderung_pct": 0.9223081115520726,
+   "veraenderung_pct": 0.8105155150929022,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     360.0,
     352.700012,
     357.799988,
-    361.100006
+    360.700012
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.06999969482422,
+   "kurs": 40.04999923706055,
    "vortag": 39.900001525878906,
-   "veraenderung_pct": 0.4260605575041154,
+   "veraenderung_pct": 0.37593409886049756,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.330002,
     38.830002,
     39.900002,
-    40.07
+    40.049999
    ]
   }
  ],
@@ -374,6 +374,30 @@
   ],
   "artikel": [
    {
+    "titel": "Zelenskyy says Ukraine is ready to agree to energy ceasefire, but warns Russia must do same",
+    "link": "https://www.cnbc.com/2026/10/12/russia-ukraine-energy-ceasefire-trump.html",
+    "zeit": "2026-10-12T08:48:11+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Stellantis CEO urges incentives for carmakers who build in Europe as Chinese rivals gain ground",
+    "link": "https://www.cnbc.com/2026/10/12/stellantis-europe-cars-chinese-rivals-evs.html",
+    "zeit": "2026-10-12T08:41:50+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Arbeitslosigkeit in der ICT – IT-Projektleiter backt jetzt Pizza",
+    "link": "https://www.srf.ch/news/wirtschaft/arbeitslosigkeit-in-der-ict-it-projektleiter-backt-jetzt-pizza",
+    "zeit": "2026-10-12T08:30:32+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "World Bank jobs council urges 'crisis-era' support measures as IMF warns of AI ‘tsunami’ hit",
     "link": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
     "zeit": "2026-10-12T08:11:46+00:00",
@@ -390,17 +414,17 @@
     "sprache": "de"
    },
    {
+    "titel": "S&P senkt Ausblick der Stadt Zürich",
+    "link": "https://www.finews.ch/news/finanzplatz/73932-s-und-p-rating-stadt-zuerich-ausblick",
+    "zeit": "2026-10-12T06:22:44+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "AI may change the price of your Big Mac and groceries — what this means for shoppers",
     "link": "https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html",
     "zeit": "2026-10-12T06:02:18+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine",
-    "link": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html",
-    "zeit": "2026-10-12T05:57:29+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -558,14 +582,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Justice Department investigates TV networks as White House press-access fight escalates",
-    "link": "https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html",
-    "zeit": "2026-10-11T20:18:38+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Multiple Krisen – Konsumentenstimmung in der Schweiz bleibt im Tief",
     "link": "https://www.srf.ch/news/wirtschaft/multiple-krisen-konsumentenstimmung-in-der-schweiz-bleibt-im-tief",
     "zeit": "2026-10-11T17:13:10+00:00",
@@ -586,14 +602,6 @@
     "link": "https://www.nzz.ch/wirtschaft/der-franken-ist-weiterhin-ein-sicherer-hafen-dies-zeigen-die-sorgen-ueber-frankreich-und-eine-moegliche-euro-schuldenkrise-ld.10027264",
     "zeit": "2026-10-11T13:06:47+00:00",
     "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Arbeitslosigkeit in der ICT – IT-Projektleiter backt jetzt Pizza",
-    "link": "https://www.srf.ch/news/wirtschaft/arbeitslosigkeit-in-der-ict-it-projektleiter-backt-jetzt-pizza",
-    "zeit": "2026-10-11T10:48:32+00:00",
-    "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -673,14 +681,6 @@
     "titel": "St. Galler Kantonalbank baut Deutschlandgeschäft aus",
     "link": "https://www.finews.ch/news/banken/73913-sgkb-ceo-christian-schmid-deutschland-expansion-wachstum",
     "zeit": "2026-10-09T03:52:03+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Mastercard führt Offline-Zahlungen europaweit ein",
-    "link": "https://www.finews.ch/news/finanzplatz/73911-mastercard-offline-zahlung-europa",
-    "zeit": "2026-10-08T12:14:43+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
