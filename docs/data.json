@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-12T17:52:52+02:00",
+ "aktualisiert": "2026-10-12T18:21:04+02:00",
  "kernaussagen": [
   "SMI +0.66%, DAX +0.76% führt",
   "Franken stärker: EUR/CHF 0.9313 (−0.10%)",
-  "Brent über 100 USD: 106.77 (+1.96%)"
+  "Brent über 100 USD: 106.91 (+2.09%)"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7814.18994140625,
+   "kurs": 7815.27001953125,
    "vortag": 7811.5400390625,
-   "veraenderung_pct": 0.033922918278572745,
+   "veraenderung_pct": 0.047749617234216224,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7801.77002,
     7765.359863,
     7811.540039,
-    7814.189941
+    7815.27002
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27306.6015625,
+   "kurs": 27310.330078125,
    "vortag": 27366.169921875,
-   "veraenderung_pct": -0.2176715248975447,
+   "veraenderung_pct": -0.2040469817640278,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27538.689453,
     27193.339844,
     27366.169922,
-    27306.601562
+    27310.330078
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8345800042152405,
+   "kurs": 0.8347200155258179,
    "vortag": 0.8313800096511841,
-   "veraenderung_pct": 0.38490155246804214,
+   "veraenderung_pct": 0.4017423844524526,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83218,
     0.83298,
     0.83138,
-    0.83458
+    0.83472
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4193.10009765625,
+   "kurs": 4188.7001953125,
    "vortag": 4216.2998046875,
-   "veraenderung_pct": -0.550238552900284,
+   "veraenderung_pct": -0.6545931421744755,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4140.700195,
     4157.0,
     4216.299805,
-    4193.100098
+    4188.700195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 106.7699966430664,
+   "kurs": 106.91000366210938,
    "vortag": 104.72000122070312,
-   "veraenderung_pct": 1.9575968281768885,
+   "veraenderung_pct": 2.091293368867242,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.199997,
     104.279999,
     104.720001,
-    106.769997
+    106.910004
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82613.7421875,
+   "kurs": 82865.6328125,
    "vortag": 83679.46875,
-   "veraenderung_pct": -1.2735818934079934,
+   "veraenderung_pct": -0.9725634610939116,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82546.320312,
     82912.226562,
     83679.46875,
-    82613.742188
+    82865.632812
    ]
   }
  ],
@@ -374,6 +374,46 @@
   ],
   "artikel": [
    {
+    "titel": "Rep. Ilhan Omar’s home raided in federal criminal investigation",
+    "link": "https://www.cnbc.com/2026/10/12/ilhan-omar-home-raided-dhs-immigration-investigation.html",
+    "zeit": "2026-10-12T16:16:14+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "MELDUNGEN WIRTSCHAFT - Cyberattacke stört Kühlanlagen in mehreren Supermarkt-Ketten in Frankreich",
+    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldugen-ld.10025518",
+    "zeit": "2026-10-12T16:02:11+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Nobelpreis 2026 – Wirtschaftsnobelpreis geht an Michael Woodford und Robert E. Hall",
+    "link": "https://www.srf.ch/news/international/nobelpreis-2026-wirtschaftsnobelpreis-geht-an-michael-woodford-und-robert-e-hall",
+    "zeit": "2026-10-12T15:59:08+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice'",
+    "link": "https://www.cnbc.com/2026/10/12/trump-russia-diesel-putin.html",
+    "zeit": "2026-10-12T15:55:38+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Delta delays debut of Saudi Arabia service until March after Riyadh airport attacks",
+    "link": "https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html",
+    "zeit": "2026-10-12T15:48:28+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
     "link": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
     "zeit": "2026-10-12T15:37:26+00:00",
@@ -388,14 +428,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Rep. Ilhan Omar’s home raided in federal criminal investigation",
-    "link": "https://www.cnbc.com/2026/10/12/ilhan-omar-home-raided-dhs-immigration-investigation.html",
-    "zeit": "2026-10-12T15:14:16+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "McDonald's is leaning into chicken and drinks to grow. New data shows it could be a tough task",
@@ -438,14 +470,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Zelenskyy accuses Russia of violating Trump’s energy ceasefire as drone attacks continue",
-    "link": "https://www.cnbc.com/2026/10/12/russia-ukraine-energy-ceasefire-trump.html",
-    "zeit": "2026-10-12T14:21:08+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
     "link": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
     "zeit": "2026-10-12T14:09:02+00:00",
@@ -457,14 +481,6 @@
     "titel": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
     "link": "https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html",
     "zeit": "2026-10-12T14:04:16+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Banks are set to report this week. Here's what the options market expects",
-    "link": "https://www.cnbc.com/2026/10/12/banks-are-set-to-report-this-week-heres-what-the-options-market-expects.html",
-    "zeit": "2026-10-12T13:27:20+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -498,14 +514,6 @@
     "link": "https://www.finews.ch/news/finanzplatz/73935-immobilien-raiffeisen-schweiz-transaktionspreisindex-q3-2026",
     "zeit": "2026-10-12T11:57:50+00:00",
     "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Nobelpreis 2026 – Wirtschaftsnobelpreis geht an Michael Woodford und Robert E. Hall",
-    "link": "https://www.srf.ch/news/international/nobelpreis-2026-wirtschaftsnobelpreis-geht-an-michael-woodford-und-robert-e-hall",
-    "zeit": "2026-10-12T10:03:28+00:00",
-    "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -616,14 +624,6 @@
    {
     "titel": "Mit KI zum Supermedikament: Sind Firmen wie Anthropic, Open AI und Co. die besseren Pharmakonzerne?",
     "link": "https://www.nzz.ch/wirtschaft/per-prompt-zum-supermedikament-sind-ki-firmen-wie-anthropic-openai-co-die-besseren-pharmakonzerne-ld.10026548",
-    "zeit": "2026-10-12T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Fernsteuerung von Schiffen: China macht bei dieser Zukunftstechnik vorwärts, Europa verliert sich in der Regulierung",
-    "link": "https://www.nzz.ch/wirtschaft/fernsteuerung-von-schiffen-china-macht-bei-dieser-zukunftstechnik-vorwaerts-europa-verliert-sich-in-der-regulierung-ld.10025855",
     "zeit": "2026-10-12T03:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
