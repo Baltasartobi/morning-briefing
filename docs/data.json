@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-12T11:53:59+02:00",
+ "aktualisiert": "2026-10-12T12:22:55+02:00",
  "kernaussagen": [
-  "SMI +0.29%, Nasdaq +0.64% führt",
-  "Franken stärker: EUR/CHF 0.9318 (−0.05%)",
-  "Brent über 100 USD: 106.06 (+1.28%)"
+  "SMI +0.31%, Nasdaq +0.64% führt",
+  "Franken stärker: EUR/CHF 0.9313 (−0.11%)",
+  "Brent über 100 USD: 105.73 (+0.96%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13827.7900390625,
+   "kurs": 13829.7900390625,
    "vortag": 13787.400390625,
-   "veraenderung_pct": 0.2929460760780156,
+   "veraenderung_pct": 0.30745207389728524,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13808.419922,
     13637.0,
     13787.400391,
-    13827.790039
+    13829.790039
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25236.23046875,
+   "kurs": 25224.5,
    "vortag": 25087.26953125,
-   "veraenderung_pct": 0.5937710252382988,
+   "veraenderung_pct": 0.54701237445971,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25104.359375,
     24806.970703,
     25087.269531,
-    25236.230469
+    25224.5
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6205.75,
+   "kurs": 6198.64990234375,
    "vortag": 6173.3701171875,
-   "veraenderung_pct": 0.5245090153002563,
+   "veraenderung_pct": 0.4094973195575502,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6180.290039,
     6126.72998,
     6173.370117,
-    6205.75
+    6198.649902
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9317899942398071,
+   "kurs": 0.9312700033187866,
    "vortag": 0.9322699904441833,
-   "veraenderung_pct": -0.051486823484203637,
+   "veraenderung_pct": -0.10726368280076226,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93652,
     0.93302,
     0.93227,
-    0.93179
+    0.93127
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4195.7998046875,
+   "kurs": 4198.60009765625,
    "vortag": 4216.2998046875,
-   "veraenderung_pct": -0.4862083094093306,
+   "veraenderung_pct": -0.41979242110753434,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4140.700195,
     4157.0,
     4216.299805,
-    4195.799805
+    4198.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 106.05999755859375,
+   "kurs": 105.7300033569336,
    "vortag": 104.72000122070312,
-   "veraenderung_pct": 1.2795992382262478,
+   "veraenderung_pct": 0.9644787284731171,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.199997,
     104.279999,
     104.720001,
-    106.059998
+    105.730003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83398.7109375,
+   "kurs": 83414.3203125,
    "vortag": 83679.46875,
-   "veraenderung_pct": -0.3355157683168297,
+   "veraenderung_pct": -0.31686199907907664,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82546.320312,
     82912.226562,
     83679.46875,
-    83398.710938
+    83414.320312
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 76.0,
+   "kurs": 76.01000213623047,
    "vortag": 76.04000091552734,
-   "veraenderung_pct": -0.05260509606224151,
+   "veraenderung_pct": -0.039451313697647095,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     75.559998,
     76.0,
     76.040001,
-    76.0
+    76.010002
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 119.4800033569336,
+   "kurs": 119.41999816894531,
    "vortag": 119.0999984741211,
-   "veraenderung_pct": 0.31906371761631913,
+   "veraenderung_pct": 0.26868152722416827,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     120.019997,
     117.720001,
     119.099998,
-    119.480003
+    119.419998
    ]
   },
   {
@@ -315,19 +315,7 @@
    "symbol": "ROP.SW",
    "einheit": "CHF",
    "dezimalen": 2,
-   "verfuegbar": true,
-   "kurs": 359.5,
-   "vortag": 357.79998779296875,
-   "veraenderung_pct": 0.4751291964869786,
-   "datum": "2026-10-12",
-   "ist_heute": true,
-   "verlauf": [
-    349.799988,
-    360.0,
-    352.700012,
-    357.799988,
-    359.5
-   ]
+   "verfuegbar": false
   },
   {
    "name": "UBS",
@@ -335,9 +323,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.02000045776367,
+   "kurs": 39.9900016784668,
    "vortag": 39.900001525878906,
-   "veraenderung_pct": 0.3007491912172755,
+   "veraenderung_pct": 0.22556428357407565,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +333,7 @@
     39.330002,
     38.830002,
     39.900002,
-    40.02
+    39.990002
    ]
   }
  ],
@@ -374,12 +362,44 @@
   ],
   "artikel": [
    {
-    "titel": "Oil turns higher amid skepticism Trump's 'energy ceasefire' between Russia and Ukraine will improve supply",
+    "titel": "Brent tops $106 as doubts grow over supply boost from Trump’s ‘energy ceasefire’",
     "link": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html",
-    "zeit": "2026-10-12T09:40:28+00:00",
+    "zeit": "2026-10-12T10:21:08+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
+    "link": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
+    "zeit": "2026-10-12T10:18:18+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Nobelpreis 2026 – Wirtschaftsnobelpreis geht an Michael Woodford und Robert E. Hall",
+    "link": "https://www.srf.ch/news/international/nobelpreis-2026-wirtschaftsnobelpreis-geht-an-michael-woodford-und-robert-e-hall",
+    "zeit": "2026-10-12T10:03:28+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "AI FOMO driving some family offices into tech investments, survey suggests",
+    "link": "https://www.cnbc.com/2026/10/12/ai-fomo-driving-some-family-offices-to-ai-investments-survey-suggests.html",
+    "zeit": "2026-10-12T10:03:14+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Die Träger des Wirtschaftsnobelpreises heissen Robert E. Hall und Michael Woodford",
+    "link": "https://www.nzz.ch/wirtschaft/die-traeger-des-wirtschaftsnobelpreises-heissen-robert-e-hall-und-michael-woodford-ld.10031542",
+    "zeit": "2026-10-12T10:01:27+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Trump turns to Russian diesel ahead of midterms, but analysts see little price relief",
@@ -434,6 +454,14 @@
     "link": "https://www.nzz.ch/pro/verschaerft-trump-den-druck-auf-russlands-schattenflotte-ld.10025500",
     "zeit": "2026-10-12T08:05:13+00:00",
     "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Staatschulden: Mehr Zins für Blutspender und andere Ideen",
+    "link": "https://www.finews.ch/news/finanzplatz/73933-rumaenien-12-5-milliarden-franken-von-seinen-buergern-erhalten-wer-blut-spendet-bekommt-ein-prozent-mehr-zins-und-andere-vorteile",
+    "zeit": "2026-10-12T07:51:22+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -558,28 +586,12 @@
     "sprache": "de"
    },
    {
-    "titel": "Judge orders Trump administration to immediately stop taxpayer-funded TV ads",
-    "link": "https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html",
-    "zeit": "2026-10-12T02:28:54+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "BNP Paribas macht ETFs zum Wachstumstreiber",
     "link": "https://www.finews.ch/news/banken/73924-bnp-paribas-etf-offensive-100-milliarden-axa-asset-management-schweiz",
     "zeit": "2026-10-12T02:27:16+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Why China is importing a record amount of gold — and what it means for prices",
-    "link": "https://www.cnbc.com/2026/10/12/china-gold-buying-interest-rate-.html",
-    "zeit": "2026-10-12T00:51:10+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Multiple Krisen – Konsumentenstimmung in der Schweiz bleibt im Tief",
@@ -593,14 +605,6 @@
     "titel": "Eine Gruppe wollte den Skibetrieb in Braunwald retten – doch ihr Übernahmeangebot blieb unbeantwortet",
     "link": "https://www.nzz.ch/wirtschaft/eine-gruppe-will-die-ueberschuldeten-sportbahnen-braunwald-uebernehmen-und-damit-nicht-nur-den-skibetrieb-retten-ld.10027158",
     "zeit": "2026-10-11T14:13:51+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Der Franken ist weiterhin ein sicherer Hafen – dies zeigen die Sorgen über Frankreich und eine mögliche Euro-Schuldenkrise",
-    "link": "https://www.nzz.ch/wirtschaft/der-franken-ist-weiterhin-ein-sicherer-hafen-dies-zeigen-die-sorgen-ueber-frankreich-und-eine-moegliche-euro-schuldenkrise-ld.10027264",
-    "zeit": "2026-10-11T13:06:47+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
@@ -674,22 +678,6 @@
     "link": "https://www.finews.ch/news/banken/73914-llb-schweiz-st-gallen-unternehmer-private-banking",
     "zeit": "2026-10-09T04:21:37+00:00",
     "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "St. Galler Kantonalbank baut Deutschlandgeschäft aus",
-    "link": "https://www.finews.ch/news/banken/73913-sgkb-ceo-christian-schmid-deutschland-expansion-wachstum",
-    "zeit": "2026-10-09T03:52:03+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Investitionen in Chips – Das Billionenunternehmen SpaceX braucht Geld",
-    "link": "https://www.srf.ch/news/wirtschaft/investitionen-in-chips-das-billionenunternehmen-spacex-braucht-geld",
-    "zeit": "2026-10-08T12:08:10+00:00",
-    "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    }
