@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-12T19:49:55+02:00",
+ "aktualisiert": "2026-10-12T20:23:22+02:00",
  "kernaussagen": [
   "SMI +0.66%, DAX +0.76% führt",
-  "Franken stärker: EUR/CHF 0.9312 (−0.11%)",
-  "Brent über 100 USD: 106.76 (+1.95%)"
+  "Franken stärker: EUR/CHF 0.9314 (−0.10%)",
+  "Brent über 100 USD: 106.83 (+2.01%)"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7805.31005859375,
+   "kurs": 7799.7998046875,
    "vortag": 7811.5400390625,
-   "veraenderung_pct": -0.07975354971742066,
+   "veraenderung_pct": -0.1502934673097922,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7801.77002,
     7765.359863,
     7811.540039,
-    7805.310059
+    7799.799805
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27255.9140625,
+   "kurs": 27235.744140625,
    "vortag": 27366.169921875,
-   "veraenderung_pct": -0.402891086658308,
+   "veraenderung_pct": -0.47659494047701534,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27538.689453,
     27193.339844,
     27366.169922,
-    27255.914062
+    27235.744141
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9312099814414978,
+   "kurs": 0.9313600063323975,
    "vortag": 0.9322699904441833,
-   "veraenderung_pct": -0.11370193329729439,
+   "veraenderung_pct": -0.09760950380397482,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93652,
     0.93302,
     0.93227,
-    0.93121
+    0.93136
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8345800042152405,
+   "kurs": 0.8346400260925293,
    "vortag": 0.8313800096511841,
-   "veraenderung_pct": 0.38490155246804214,
+   "veraenderung_pct": 0.3921211002791525,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83218,
     0.83298,
     0.83138,
-    0.83458
+    0.83464
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4193.0,
+   "kurs": 4195.10009765625,
    "vortag": 4216.2998046875,
-   "veraenderung_pct": -0.5526126169110746,
+   "veraenderung_pct": -0.5028035958847377,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4140.700195,
     4157.0,
     4216.299805,
-    4193.0
+    4195.100098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 106.76000213623047,
+   "kurs": 106.83000183105469,
    "vortag": 104.72000122070312,
-   "veraenderung_pct": 1.9480527996059926,
+   "veraenderung_pct": 2.014897427192186,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.199997,
     104.279999,
     104.720001,
-    106.760002
+    106.830002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82377.390625,
+   "kurs": 82418.828125,
    "vortag": 83679.46875,
-   "veraenderung_pct": -1.556030582471879,
+   "veraenderung_pct": -1.5065112671380332,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82546.320312,
     82912.226562,
     83679.46875,
-    82377.390625
+    82418.828125
    ]
   }
  ],
@@ -376,7 +376,7 @@
    {
     "titel": "Rep. Ilhan Omar blasts federal criminal raid on home: 'I will not be silenced'",
     "link": "https://www.cnbc.com/2026/10/12/ilhan-omar-home-raided-dhs-immigration-investigation.html",
-    "zeit": "2026-10-12T17:39:38+00:00",
+    "zeit": "2026-10-12T18:20:10+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
