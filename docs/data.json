@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-12T17:22:29+02:00",
+ "aktualisiert": "2026-10-12T17:52:52+02:00",
  "kernaussagen": [
-  "SMI +0.53%, DAX +0.68% führt",
-  "Franken stabil: EUR/CHF 0.9319 (−0.04%)",
-  "Brent über 100 USD: 106.71 (+1.90%)"
+  "SMI +0.66%, DAX +0.76% führt",
+  "Franken stärker: EUR/CHF 0.9313 (−0.10%)",
+  "Brent über 100 USD: 106.77 (+1.96%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13860.099609375,
+   "kurs": 13877.83984375,
    "vortag": 13787.400390625,
-   "veraenderung_pct": 0.5272873543255674,
+   "veraenderung_pct": 0.6559572549042381,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13808.419922,
     13637.0,
     13787.400391,
-    13860.099609
+    13877.839844
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25258.7109375,
+   "kurs": 25277.6796875,
    "vortag": 25087.26953125,
-   "veraenderung_pct": 0.6833800945792223,
+   "veraenderung_pct": 0.7589911529144899,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25104.359375,
     24806.970703,
     25087.269531,
-    25258.710938
+    25277.679688
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6196.89990234375,
+   "kurs": 6201.2099609375,
    "vortag": 6173.3701171875,
-   "veraenderung_pct": 0.381149756285315,
+   "veraenderung_pct": 0.45096670411013395,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6180.290039,
     6126.72998,
     6173.370117,
-    6196.899902
+    6201.209961
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7808.240234375,
+   "kurs": 7814.18994140625,
    "vortag": 7811.5400390625,
-   "veraenderung_pct": -0.04224269057060415,
+   "veraenderung_pct": 0.033922918278572745,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7801.77002,
     7765.359863,
     7811.540039,
-    7808.240234
+    7814.189941
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27280.134765625,
+   "kurs": 27306.6015625,
    "vortag": 27366.169921875,
-   "veraenderung_pct": -0.31438508383019315,
+   "veraenderung_pct": -0.2176715248975447,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27538.689453,
     27193.339844,
     27366.169922,
-    27280.134766
+    27306.601562
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9319199919700623,
+   "kurs": 0.9313200116157532,
    "vortag": 0.9322699904441833,
-   "veraenderung_pct": -0.03754260865507231,
+   "veraenderung_pct": -0.1018995396363187,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93652,
     0.93302,
     0.93227,
-    0.93192
+    0.93132
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8342599868774414,
+   "kurs": 0.8345800042152405,
    "vortag": 0.8313800096511841,
-   "veraenderung_pct": 0.3464092464125601,
+   "veraenderung_pct": 0.38490155246804214,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83218,
     0.83298,
     0.83138,
-    0.83426
+    0.83458
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4190.60009765625,
+   "kurs": 4193.10009765625,
    "vortag": 4216.2998046875,
-   "veraenderung_pct": -0.6095322491697197,
+   "veraenderung_pct": -0.550238552900284,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4140.700195,
     4157.0,
     4216.299805,
-    4190.600098
+    4193.100098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 106.70999908447266,
+   "kurs": 106.7699966430664,
    "vortag": 104.72000122070312,
-   "veraenderung_pct": 1.90030351467958,
+   "veraenderung_pct": 1.9575968281768885,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.199997,
     104.279999,
     104.720001,
-    106.709999
+    106.769997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82605.46875,
+   "kurs": 82613.7421875,
    "vortag": 83679.46875,
-   "veraenderung_pct": -1.2834689512772557,
+   "veraenderung_pct": -1.2735818934079934,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82546.320312,
     82912.226562,
     83679.46875,
-    82605.46875
+    82613.742188
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 76.05999755859375,
+   "kurs": 76.37999725341797,
    "vortag": 76.04000091552734,
-   "veraenderung_pct": 0.02629753133305268,
+   "veraenderung_pct": 0.4471282664348264,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     75.559998,
     76.0,
     76.040001,
-    76.059998
+    76.379997
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 119.63999938964844,
+   "kurs": 119.95999908447266,
    "vortag": 119.0999984741211,
-   "veraenderung_pct": 0.45340127829194277,
+   "veraenderung_pct": 0.7220828055160888,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     120.019997,
     117.720001,
     119.099998,
-    119.639999
+    119.959999
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 360.29998779296875,
+   "kurs": 360.0,
    "vortag": 357.79998779296875,
-   "veraenderung_pct": 0.6987143894053416,
+   "veraenderung_pct": 0.6148720743680558,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     360.0,
     352.700012,
     357.799988,
-    360.299988
+    360.0
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.959999084472656,
+   "kurs": 40.0099983215332,
    "vortag": 39.900001525878906,
-   "veraenderung_pct": 0.1503698152864441,
+   "veraenderung_pct": 0.2756811815732618,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.330002,
     38.830002,
     39.900002,
-    39.959999
+    40.009998
    ]
   }
  ],
@@ -374,9 +374,33 @@
   ],
   "artikel": [
    {
+    "titel": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
+    "link": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
+    "zeit": "2026-10-12T15:37:26+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Die EU begrenzt chinesische Autoimporte, für die Konsumenten könnte es teurer werden",
+    "link": "https://www.nzz.ch/wirtschaft/die-eu-begrenzt-chinesische-autoimporte-fuer-die-konsumenten-koennte-es-teurer-werden-ld.10031688",
+    "zeit": "2026-10-12T15:28:46+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Rep. Ilhan Omar’s home raided in federal criminal investigation",
     "link": "https://www.cnbc.com/2026/10/12/ilhan-omar-home-raided-dhs-immigration-investigation.html",
     "zeit": "2026-10-12T15:14:16+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "McDonald's is leaning into chicken and drinks to grow. New data shows it could be a tough task",
+    "link": "https://www.cnbc.com/2026/10/12/mcdonalds-chicken-beverage-growth.html",
+    "zeit": "2026-10-12T14:56:42+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -441,22 +465,6 @@
     "titel": "Banks are set to report this week. Here's what the options market expects",
     "link": "https://www.cnbc.com/2026/10/12/banks-are-set-to-report-this-week-heres-what-the-options-market-expects.html",
     "zeit": "2026-10-12T13:27:20+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Jim Cramer's top 10 things to watch in the stock market Monday",
-    "link": "https://www.cnbc.com/investingclub/2026/10/12/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
-    "zeit": "2026-10-12T13:06:04+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Intel, Broadcom CEOs warn capital crunch could become AI's biggest bottleneck",
-    "link": "https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html",
-    "zeit": "2026-10-12T13:04:31+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -616,14 +624,6 @@
    {
     "titel": "Fernsteuerung von Schiffen: China macht bei dieser Zukunftstechnik vorwärts, Europa verliert sich in der Regulierung",
     "link": "https://www.nzz.ch/wirtschaft/fernsteuerung-von-schiffen-china-macht-bei-dieser-zukunftstechnik-vorwaerts-europa-verliert-sich-in-der-regulierung-ld.10025855",
-    "zeit": "2026-10-12T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "In den Philippinen boomt das Geschäft mit dem Tod: Selbst Junge sorgen bereits für ihre Beerdigung vor",
-    "link": "https://www.nzz.ch/wirtschaft/in-den-philippinen-boomt-das-geschaeft-mit-dem-tod-selbst-junge-sorgen-bereits-fuer-ihre-beerdigung-vor-ld.10025030",
     "zeit": "2026-10-12T03:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
