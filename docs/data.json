@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-12T07:21:22+02:00",
+ "aktualisiert": "2026-10-12T07:51:26+02:00",
  "kernaussagen": [
   "SMI +1.10%, DAX +1.13% führt",
   "Franken stärker: EUR/CHF 0.9306 (−0.18%)",
-  "Bitcoin +1.35% auf 84'036 USD · Brent über 100 USD"
+  "Bitcoin +1.18% auf 83'891 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9305899739265442,
+   "kurs": 0.9306300282478333,
    "vortag": 0.9322699904441833,
-   "veraenderung_pct": -0.18020707894272903,
+   "veraenderung_pct": -0.17591064961436365,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93652,
     0.93302,
     0.93227,
-    0.93059
+    0.93063
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8309400081634521,
+   "kurs": 0.8306800127029419,
    "vortag": 0.8313800096511841,
-   "veraenderung_pct": -0.0529242323154433,
+   "veraenderung_pct": -0.084196990559815,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83218,
     0.83298,
     0.83138,
-    0.83094
+    0.83068
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4215.60009765625,
+   "kurs": 4210.2001953125,
    "vortag": 4216.2998046875,
-   "veraenderung_pct": -0.01659528647540709,
+   "veraenderung_pct": -0.1446673542573662,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4140.700195,
     4157.0,
     4216.299805,
-    4215.600098
+    4210.200195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 103.47000122070312,
+   "kurs": 103.8499984741211,
    "vortag": 104.72000122070312,
-   "veraenderung_pct": -1.193659267980296,
+   "veraenderung_pct": -0.8307894733007637,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.199997,
     104.279999,
     104.720001,
-    103.470001
+    103.849998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 84035.65625,
+   "kurs": 83890.75,
    "vortag": 82912.2265625,
-   "veraenderung_pct": 1.3549626322640673,
+   "veraenderung_pct": 1.1801919669379268,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81676.335938,
     82546.320312,
     82912.226562,
-    84035.65625
+    83890.75
    ]
   }
  ],
