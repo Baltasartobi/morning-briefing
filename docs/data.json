@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-12T13:53:31+02:00",
+ "aktualisiert": "2026-10-12T14:35:45+02:00",
  "kernaussagen": [
-  "SMI +0.49%, DAX +0.73% führt",
+  "SMI +0.50%, DAX +0.89% führt",
   "Franken stärker: EUR/CHF 0.9323 (−0.08%)",
-  "Brent über 100 USD: 106.01 (+1.23%)"
+  "Brent über 100 USD: 106.00 (+1.22%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13854.73046875,
+   "kurs": 13856.26953125,
    "vortag": 13787.400390625,
-   "veraenderung_pct": 0.4883449832267406,
+   "veraenderung_pct": 0.4995078018610988,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13808.419922,
     13637.0,
     13787.400391,
-    13854.730469
+    13856.269531
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25270.26953125,
+   "kurs": 25310.060546875,
    "vortag": 25087.26953125,
-   "veraenderung_pct": 0.7294536369214955,
+   "veraenderung_pct": 0.8880640252518557,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25104.359375,
     24806.970703,
     25087.269531,
-    25270.269531
+    25310.060547
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6204.2900390625,
+   "kurs": 6217.0498046875,
    "vortag": 6173.3701171875,
-   "veraenderung_pct": 0.5008596809854993,
+   "veraenderung_pct": 0.7075501172105314,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6180.290039,
     6126.72998,
     6173.370117,
-    6204.290039
+    6217.049805
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8328999876976013,
+   "kurs": 0.8329300284385681,
    "vortag": 0.8313800096511841,
-   "veraenderung_pct": 0.18282590737959126,
+   "veraenderung_pct": 0.18643926596628724,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83218,
     0.83298,
     0.83138,
-    0.8329
+    0.83293
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4196.0,
+   "kurs": 4187.60009765625,
    "vortag": 4216.2998046875,
-   "veraenderung_pct": -0.4814601813877606,
+   "veraenderung_pct": -0.6806846846930337,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4140.700195,
     4157.0,
     4216.299805,
-    4196.0
+    4187.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 106.01000213623047,
+   "kurs": 106.0,
    "vortag": 104.72000122070312,
-   "veraenderung_pct": 1.231857238817824,
+   "veraenderung_pct": 1.2223059247289392,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.199997,
     104.279999,
     104.720001,
-    106.010002
+    106.0
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83334.3984375,
+   "kurs": 82918.1875,
    "vortag": 83679.46875,
-   "veraenderung_pct": -0.4123715382693516,
+   "veraenderung_pct": -0.909758703505148,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82546.320312,
     82912.226562,
     83679.46875,
-    83334.398438
+    82918.1875
    ]
   }
  ],
@@ -239,35 +239,23 @@
   {
    "name": "Deutschland",
    "quelle": "bundesbank",
-   "verfuegbar": true,
-   "wert": 3.53,
-   "vortag": 3.53,
-   "veraenderung_bp": 0.0,
-   "datum": "2026-10-12",
-   "ist_heute": true,
-   "verlauf": [
-    3.52,
-    3.55,
-    3.57,
-    3.53,
-    3.53
-   ]
+   "verfuegbar": false
   },
   {
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.244,
-   "vortag": 5.231,
-   "veraenderung_bp": 1.3,
-   "datum": "2026-10-09",
-   "ist_heute": false,
+   "wert": 5.24,
+   "vortag": 5.244,
+   "veraenderung_bp": -0.4,
+   "datum": "2026-10-12",
+   "ist_heute": true,
    "verlauf": [
-    5.311,
     5.269,
     5.277,
     5.231,
-    5.244
+    5.244,
+    5.24
    ]
   }
  ],
@@ -278,9 +266,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 76.1500015258789,
+   "kurs": 76.06999969482422,
    "vortag": 76.04000091552734,
-   "veraenderung_pct": 0.1446615058221301,
+   "veraenderung_pct": 0.039451313697647095,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +276,7 @@
     75.559998,
     76.0,
     76.040001,
-    76.150002
+    76.07
    ]
   },
   {
@@ -297,9 +285,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 119.72000122070312,
+   "kurs": 119.63999938964844,
    "vortag": 119.0999984741211,
-   "veraenderung_pct": 0.520573261566204,
+   "veraenderung_pct": 0.45340127829194277,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +295,7 @@
     120.019997,
     117.720001,
     119.099998,
-    119.720001
+    119.639999
    ]
   },
   {
@@ -335,9 +323,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.97999954223633,
+   "kurs": 40.04999923706055,
    "vortag": 39.900001525878906,
-   "veraenderung_pct": 0.20049627393006197,
+   "veraenderung_pct": 0.37593409886049756,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +333,7 @@
     39.330002,
     38.830002,
     39.900002,
-    39.98
+    40.049999
    ]
   }
  ],
@@ -374,20 +362,60 @@
   ],
   "artikel": [
    {
+    "titel": "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
+    "link": "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
+    "zeit": "2026-10-12T12:31:05+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Plenty is working against this market. Here's why I'm staying invested anyway",
+    "link": "https://www.cnbc.com/investingclub/2026/10/11/plenty-is-working-against-this-market-why-im-staying-invested-anyway.html",
+    "zeit": "2026-10-12T12:18:10+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Saudi Arabia says drones and missiles still targeting Kingdom as Iran-backed Houthis step up attacks",
+    "link": "https://www.cnbc.com/2026/10/12/us-iran-war-trump-hormuz-saudi.html",
+    "zeit": "2026-10-12T12:15:55+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Health insurance open enrollment: Use this 'algorithm' to pick a plan, financial advisor says",
+    "link": "https://www.cnbc.com/2026/10/12/health-insurance-open-enrollment.html",
+    "zeit": "2026-10-12T12:15:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Beckham, Yao Ming attend NBA China Games in a boost to Macao's live events",
+    "link": "https://www.cnbc.com/2026/10/12/beckham-yao-ming-nba-china-games-liev-events.html",
+    "zeit": "2026-10-12T12:04:36+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "490 statt 580 Stellen – Zimmer Biomet streicht in Winterthur weniger Stellen als geplant",
+    "link": "https://www.srf.ch/news/wirtschaft/490-statt-580-stellen-zimmer-biomet-streicht-in-winterthur-weniger-stellen-als-geplant",
+    "zeit": "2026-10-12T12:00:27+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Die Träger des Wirtschaftsnobelpreises heissen Robert E. Hall und Michael Woodford",
     "link": "https://www.nzz.ch/wirtschaft/die-traeger-des-wirtschaftsnobelpreises-heissen-robert-e-hall-und-michael-woodford-ld.10031542",
     "zeit": "2026-10-12T11:39:42+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Beckham, Yao Ming attend NBA China Games in a boost to Macao's live events",
-    "link": "https://www.cnbc.com/2026/10/12/beckham-yao-ming-nba-china-games-liev-events.html",
-    "zeit": "2026-10-12T11:37:44+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Brent tops $105 as doubts grow over supply boost from Trump’s ‘energy ceasefire’",
@@ -414,14 +442,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Global travel warnings after Iran-backed Houthi militants strike Riyadh airport",
-    "link": "https://www.cnbc.com/2026/10/12/us-iran-war-trump-hormuz-saudi.html",
-    "zeit": "2026-10-12T11:27:42+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Judge orders Trump administration to immediately stop taxpayer-funded TV ads",
     "link": "https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html",
     "zeit": "2026-10-12T11:04:24+00:00",
@@ -430,25 +450,9 @@
     "sprache": "en"
    },
    {
-    "titel": "490 statt 580 Stellen – Zimmer Biomet streicht in Winterthur weniger Stellen als geplant",
-    "link": "https://www.srf.ch/news/wirtschaft/490-statt-580-stellen-zimmer-biomet-streicht-in-winterthur-weniger-stellen-als-geplant",
-    "zeit": "2026-10-12T10:53:36+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "India’s retail inflation jumps to 5.54% in September, above estimates",
     "link": "https://www.cnbc.com/2026/10/12/india-inflation-oil-energy-iran-war.html",
     "zeit": "2026-10-12T10:49:24+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "AI FOMO driving some family offices into tech investments, survey suggests",
-    "link": "https://www.cnbc.com/2026/10/12/ai-fomo-driving-some-family-offices-to-ai-investments-survey-suggests.html",
-    "zeit": "2026-10-12T10:25:28+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -460,22 +464,6 @@
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Trump turns to Russian diesel ahead of midterms, but analysts see little price relief",
-    "link": "https://www.cnbc.com/2026/10/12/russia-ukraine-energy-ceasefire-diesel-prices.html",
-    "zeit": "2026-10-12T09:31:22+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
-    "link": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
-    "zeit": "2026-10-12T08:58:54+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "US-Ökonomen erhalten Wirtschaftsnobelpreis",
