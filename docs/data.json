@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-12T14:35:45+02:00",
+ "aktualisiert": "2026-10-12T15:35:59+02:00",
  "kernaussagen": [
-  "SMI +0.50%, DAX +0.89% führt",
-  "Franken stärker: EUR/CHF 0.9323 (−0.08%)",
-  "Brent über 100 USD: 106.00 (+1.22%)"
+  "SMI +0.41%, DAX +0.66% führt",
+  "Franken stärker: EUR/CHF 0.9312 (−0.11%)",
+  "Brent über 100 USD: 106.61 (+1.80%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13856.26953125,
+   "kurs": 13844.1298828125,
    "vortag": 13787.400390625,
-   "veraenderung_pct": 0.4995078018610988,
+   "veraenderung_pct": 0.41145894498046953,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13808.419922,
     13637.0,
     13787.400391,
-    13856.269531
+    13844.129883
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25310.060546875,
+   "kurs": 25253.6796875,
    "vortag": 25087.26953125,
-   "veraenderung_pct": 0.8880640252518557,
+   "veraenderung_pct": 0.6633251021706865,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25104.359375,
     24806.970703,
     25087.269531,
-    25310.060547
+    25253.679688
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6217.0498046875,
+   "kurs": 6202.919921875,
    "vortag": 6173.3701171875,
-   "veraenderung_pct": 0.7075501172105314,
+   "veraenderung_pct": 0.4786656903209119,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6180.290039,
     6126.72998,
     6173.370117,
-    6217.049805
+    6202.919922
    ]
   },
   {
@@ -69,17 +69,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7811.5400390625,
-   "vortag": 7765.35986328125,
-   "veraenderung_pct": 0.5946946000482844,
-   "datum": "2026-10-09",
-   "ist_heute": false,
+   "kurs": 7820.10009765625,
+   "vortag": 7811.5400390625,
+   "veraenderung_pct": 0.1095822149146608,
+   "datum": "2026-10-12",
+   "ist_heute": true,
    "verlauf": [
-    7773.950195,
     7818.930176,
     7801.77002,
     7765.359863,
-    7811.540039
+    7811.540039,
+    7820.100098
    ]
   },
   {
@@ -88,17 +88,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27366.169921875,
-   "vortag": 27193.33984375,
-   "veraenderung_pct": 0.6355603214539318,
-   "datum": "2026-10-09",
-   "ist_heute": false,
+   "kurs": 27350.703125,
+   "vortag": 27366.169921875,
+   "veraenderung_pct": -0.05651794503634955,
+   "datum": "2026-10-12",
+   "ist_heute": true,
    "verlauf": [
-    27477.310547,
     27599.789062,
     27538.689453,
     27193.339844,
-    27366.169922
+    27366.169922,
+    27350.703125
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9322699904441833,
-   "vortag": 0.9330199956893921,
-   "veraenderung_pct": -0.08038469150434269,
-   "datum": "2026-10-09",
-   "ist_heute": false,
+   "kurs": 0.9312400221824646,
+   "vortag": 0.9322699904441833,
+   "veraenderung_pct": -0.11047961130101758,
+   "datum": "2026-10-12",
+   "ist_heute": true,
    "verlauf": [
-    0.93193,
     0.93248,
     0.93652,
     0.93302,
-    0.93227
+    0.93227,
+    0.93124
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8329300284385681,
+   "kurs": 0.8331199884414673,
    "vortag": 0.8313800096511841,
-   "veraenderung_pct": 0.18643926596628724,
+   "veraenderung_pct": 0.2092880235373018,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83218,
     0.83298,
     0.83138,
-    0.83293
+    0.83312
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4187.60009765625,
+   "kurs": 4198.2001953125,
    "vortag": 4216.2998046875,
-   "veraenderung_pct": -0.6806846846930337,
+   "veraenderung_pct": -0.42927709635063316,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4140.700195,
     4157.0,
     4216.299805,
-    4187.600098
+    4198.200195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 106.0,
+   "kurs": 106.61000061035156,
    "vortag": 104.72000122070312,
-   "veraenderung_pct": 1.2223059247289392,
+   "veraenderung_pct": 1.8048122303447656,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.199997,
     104.279999,
     104.720001,
-    106.0
+    106.610001
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82918.1875,
+   "kurs": 82479.203125,
    "vortag": 83679.46875,
-   "veraenderung_pct": -0.909758703505148,
+   "veraenderung_pct": -1.4343609524887224,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82546.320312,
     82912.226562,
     83679.46875,
-    82918.1875
+    82479.203125
    ]
   }
  ],
@@ -239,7 +239,19 @@
   {
    "name": "Deutschland",
    "quelle": "bundesbank",
-   "verfuegbar": false
+   "verfuegbar": true,
+   "wert": 3.53,
+   "vortag": 3.53,
+   "veraenderung_bp": 0.0,
+   "datum": "2026-10-12",
+   "ist_heute": true,
+   "verlauf": [
+    3.52,
+    3.55,
+    3.57,
+    3.53,
+    3.53
+   ]
   },
   {
    "name": "USA",
@@ -266,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 76.06999969482422,
+   "kurs": 75.98999786376953,
    "vortag": 76.04000091552734,
-   "veraenderung_pct": 0.039451313697647095,
+   "veraenderung_pct": -0.06575887842684702,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -276,7 +288,7 @@
     75.559998,
     76.0,
     76.040001,
-    76.07
+    75.989998
    ]
   },
   {
@@ -285,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 119.63999938964844,
+   "kurs": 119.66000366210938,
    "vortag": 119.0999984741211,
-   "veraenderung_pct": 0.45340127829194277,
+   "veraenderung_pct": 0.4701974770469519,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -295,7 +307,7 @@
     120.019997,
     117.720001,
     119.099998,
-    119.639999
+    119.660004
    ]
   },
   {
@@ -323,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.04999923706055,
+   "kurs": 39.93000030517578,
    "vortag": 39.900001525878906,
-   "veraenderung_pct": 0.37593409886049756,
+   "veraenderung_pct": 0.07518490764322205,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -333,7 +345,7 @@
     39.330002,
     38.830002,
     39.900002,
-    40.049999
+    39.93
    ]
   }
  ],
@@ -364,23 +376,87 @@
    {
     "titel": "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
     "link": "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
-    "zeit": "2026-10-12T12:31:05+00:00",
+    "zeit": "2026-10-12T13:29:26+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Plenty is working against this market. Here's why I'm staying invested anyway",
-    "link": "https://www.cnbc.com/investingclub/2026/10/11/plenty-is-working-against-this-market-why-im-staying-invested-anyway.html",
-    "zeit": "2026-10-12T12:18:10+00:00",
+    "titel": "Banks are set to report this week. Here's what the options market expects",
+    "link": "https://www.cnbc.com/2026/10/12/banks-are-set-to-report-this-week-heres-what-the-options-market-expects.html",
+    "zeit": "2026-10-12T13:27:20+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Saudi Arabia says drones and missiles still targeting Kingdom as Iran-backed Houthis step up attacks",
-    "link": "https://www.cnbc.com/2026/10/12/us-iran-war-trump-hormuz-saudi.html",
-    "zeit": "2026-10-12T12:15:55+00:00",
+    "titel": "Starbucks says it is not buying Chipotle after takeover speculation",
+    "link": "https://www.cnbc.com/2026/10/12/starbucks-denies-chipotle-takeover.html",
+    "zeit": "2026-10-12T13:23:41+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Rep. Ilhan Omar's home raided by DHS in fraud probe of immigration paperwork: Report",
+    "link": "https://www.cnbc.com/2026/10/12/ilhan-omar-home-raided-dhs-immigration-investigation.html",
+    "zeit": "2026-10-12T13:06:52+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Jim Cramer's top 10 things to watch in the stock market Monday",
+    "link": "https://www.cnbc.com/investingclub/2026/10/12/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+    "zeit": "2026-10-12T13:06:04+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Intel, Broadcom CEOs warn capital crunch could become AI's biggest bottleneck",
+    "link": "https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html",
+    "zeit": "2026-10-12T13:04:31+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+    "link": "https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html",
+    "zeit": "2026-10-12T13:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Millionen Follower, Millionen Stimmen: Brasilien ist Europas politisches Zukunftslabor",
+    "link": "https://www.nzz.ch/international/millionen-follower-gleich-millionen-stimmen-in-brasilien-verdraengen-social-media-die-parteibasis-ld.10027546",
+    "zeit": "2026-10-12T13:00:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "«Gemeinsame Aufgabe»: Der VW-Chef beschwört den Zusammenhalt zur Rettung der europäischen Industrie",
+    "link": "https://www.nzz.ch/wirtschaft/gemeinsame-aufgabe-der-vw-chef-beschwoert-den-zusammenhalt-zur-rettung-der-europaeischen-industrie-ld.10031424",
+    "zeit": "2026-10-12T12:52:03+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
+    "link": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
+    "zeit": "2026-10-12T12:38:25+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Zelenskyy accuses Russia of violating Trump’s energy ceasefire as drone attacks continue",
+    "link": "https://www.cnbc.com/2026/10/12/russia-ukraine-energy-ceasefire-trump.html",
+    "zeit": "2026-10-12T12:36:21+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -389,14 +465,6 @@
     "titel": "Health insurance open enrollment: Use this 'algorithm' to pick a plan, financial advisor says",
     "link": "https://www.cnbc.com/2026/10/12/health-insurance-open-enrollment.html",
     "zeit": "2026-10-12T12:15:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Beckham, Yao Ming attend NBA China Games in a boost to Macao's live events",
-    "link": "https://www.cnbc.com/2026/10/12/beckham-yao-ming-nba-china-games-liev-events.html",
-    "zeit": "2026-10-12T12:04:36+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -416,46 +484,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Brent tops $105 as doubts grow over supply boost from Trump’s ‘energy ceasefire’",
-    "link": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html",
-    "zeit": "2026-10-12T11:37:31+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows",
-    "link": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
-    "zeit": "2026-10-12T11:32:33+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
-    "link": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
-    "zeit": "2026-10-12T11:30:46+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Judge orders Trump administration to immediately stop taxpayer-funded TV ads",
-    "link": "https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html",
-    "zeit": "2026-10-12T11:04:24+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "India’s retail inflation jumps to 5.54% in September, above estimates",
-    "link": "https://www.cnbc.com/2026/10/12/india-inflation-oil-energy-iran-war.html",
-    "zeit": "2026-10-12T10:49:24+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Nobelpreis 2026 – Wirtschaftsnobelpreis geht an Michael Woodford und Robert E. Hall",
@@ -594,14 +622,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Ein St. Galler KMU mischt den Medtech-Markt auf. Der nächste grosse Schritt könnte ein Börsengang sein",
-    "link": "https://www.nzz.ch/wirtschaft/icotec-revolutioniert-wirbelsaeulenimplantate-ipo-in-aussicht-ld.10020058",
-    "zeit": "2026-10-12T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "BNP Paribas macht ETFs zum Wachstumstreiber",
     "link": "https://www.finews.ch/news/banken/73924-bnp-paribas-etf-offensive-100-milliarden-axa-asset-management-schweiz",
     "zeit": "2026-10-12T02:27:16+00:00",
@@ -614,14 +634,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/multiple-krisen-konsumentenstimmung-in-der-schweiz-bleibt-im-tief",
     "zeit": "2026-10-11T17:13:10+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Eine Gruppe wollte den Skibetrieb in Braunwald retten – doch ihr Übernahmeangebot blieb unbeantwortet",
-    "link": "https://www.nzz.ch/wirtschaft/eine-gruppe-will-die-ueberschuldeten-sportbahnen-braunwald-uebernehmen-und-damit-nicht-nur-den-skibetrieb-retten-ld.10027158",
-    "zeit": "2026-10-11T14:13:51+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
