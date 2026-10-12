@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-12T18:50:41+02:00",
+ "aktualisiert": "2026-10-12T19:20:36+02:00",
  "kernaussagen": [
   "SMI +0.66%, DAX +0.76% führt",
-  "Franken stärker: EUR/CHF 0.9313 (−0.10%)",
-  "Brent über 100 USD: 106.61 (+1.80%)"
+  "Franken stärker: EUR/CHF 0.9313 (−0.11%)",
+  "Brent über 100 USD: 106.65 (+1.84%)"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7803.6298828125,
+   "kurs": 7806.2099609375,
    "vortag": 7811.5400390625,
-   "veraenderung_pct": -0.1012624426226405,
+   "veraenderung_pct": -0.06823338417708547,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7801.77002,
     7765.359863,
     7811.540039,
-    7803.629883
+    7806.209961
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27256.431640625,
+   "kurs": 27253.51171875,
    "vortag": 27366.169921875,
-   "veraenderung_pct": -0.40099978025160965,
+   "veraenderung_pct": -0.41166960318750334,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27538.689453,
     27193.339844,
     27366.169922,
-    27256.431641
+    27253.511719
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9313399791717529,
+   "kurs": 0.9312700033187866,
    "vortag": 0.9322699904441833,
-   "veraenderung_pct": -0.09975771846815196,
+   "veraenderung_pct": -0.10726368280076226,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93652,
     0.93302,
     0.93227,
-    0.93134
+    0.93127
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8347899913787842,
+   "kurs": 0.8345199823379517,
    "vortag": 0.8313800096511841,
-   "veraenderung_pct": 0.4101592157635281,
+   "veraenderung_pct": 0.3776820046569318,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83218,
     0.83298,
     0.83138,
-    0.83479
+    0.83452
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4189.39990234375,
+   "kurs": 4192.2001953125,
    "vortag": 4216.2998046875,
-   "veraenderung_pct": -0.6379978556990573,
+   "veraenderung_pct": -0.5715819673972722,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4140.700195,
     4157.0,
     4216.299805,
-    4189.399902
+    4192.200195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 106.61000061035156,
+   "kurs": 106.6500015258789,
    "vortag": 104.72000122070312,
-   "veraenderung_pct": 1.8048122303447656,
+   "veraenderung_pct": 1.8430102011822935,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.199997,
     104.279999,
     104.720001,
-    106.610001
+    106.650002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82571.3671875,
+   "kurs": 82464.28125,
    "vortag": 83679.46875,
-   "veraenderung_pct": -1.3242215552426106,
+   "veraenderung_pct": -1.4521931342925787,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82546.320312,
     82912.226562,
     83679.46875,
-    82571.367188
+    82464.28125
    ]
   }
  ],
@@ -374,17 +374,49 @@
   ],
   "artikel": [
    {
-    "titel": "Cramer: Starbucks tells me Chipotle takeover won't happen and that's good for the stock",
-    "link": "https://www.cnbc.com/investingclub/2026/10/12/cramer-starbucks-tells-me-chipotle-takeover-wont-happen-and-thats-good-for-the-stock.html",
-    "zeit": "2026-10-12T16:37:59+00:00",
+    "titel": "Rep. Ilhan Omar blasts federal criminal raid on home: 'I will not be silenced'",
+    "link": "https://www.cnbc.com/2026/10/12/ilhan-omar-home-raided-dhs-immigration-investigation.html",
+    "zeit": "2026-10-12T17:18:18+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Rep. Ilhan Omar’s home raided in federal criminal investigation",
-    "link": "https://www.cnbc.com/2026/10/12/ilhan-omar-home-raided-dhs-immigration-investigation.html",
-    "zeit": "2026-10-12T16:16:14+00:00",
+    "titel": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+    "link": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
+    "zeit": "2026-10-12T17:15:21+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay",
+    "link": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html",
+    "zeit": "2026-10-12T17:14:59+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
+    "link": "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
+    "zeit": "2026-10-12T16:50:44+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "UnitedHealth shares are doing something unusual ahead of earnings",
+    "link": "https://www.cnbc.com/2026/10/12/unitedhealth-shares-are-doing-something-unusual-ahead-of-earnings.html",
+    "zeit": "2026-10-12T16:42:13+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Cramer: Starbucks tells me Chipotle takeover won't happen and that's good for the stock",
+    "link": "https://www.cnbc.com/investingclub/2026/10/12/cramer-starbucks-tells-me-chipotle-takeover-wont-happen-and-thats-good-for-the-stock.html",
+    "zeit": "2026-10-12T16:37:59+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -438,9 +470,9 @@
     "sprache": "de"
    },
    {
-    "titel": "McDonald's is leaning into chicken and drinks to grow. New data shows it could be a tough task",
-    "link": "https://www.cnbc.com/2026/10/12/mcdonalds-chicken-beverage-growth.html",
-    "zeit": "2026-10-12T14:56:42+00:00",
+    "titel": "Parenting in the digital age can be ‘a very anxiety provoking experience,’ says Emily Oster: How parents can lower that anxiety",
+    "link": "https://www.cnbc.com/make-it/2026/10/12/emily-oster-how-parents-can-lower-anxiety-.html",
+    "zeit": "2026-10-12T15:03:08+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -452,38 +484,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
-    "link": "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
-    "zeit": "2026-10-12T14:31:32+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows",
-    "link": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
-    "zeit": "2026-10-12T14:27:04+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Starbucks says it is not buying Chipotle after takeover speculation",
-    "link": "https://www.cnbc.com/2026/10/12/starbucks-denies-chipotle-takeover.html",
-    "zeit": "2026-10-12T14:22:48+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
-    "link": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
-    "zeit": "2026-10-12T14:09:02+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Millionen Follower, Millionen Stimmen: Brasilien zeigt, wie Europas Politik bald funktionieren könnte",
