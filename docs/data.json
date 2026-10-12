@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-12T16:56:25+02:00",
+ "aktualisiert": "2026-10-12T17:22:29+02:00",
  "kernaussagen": [
-  "SMI +0.59%, DAX +0.75% führt",
-  "Franken stabil: EUR/CHF 0.9321 (−0.02%)",
-  "Brent über 100 USD: 106.75 (+1.94%)"
+  "SMI +0.53%, DAX +0.68% führt",
+  "Franken stabil: EUR/CHF 0.9319 (−0.04%)",
+  "Brent über 100 USD: 106.71 (+1.90%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13868.150390625,
+   "kurs": 13860.099609375,
    "vortag": 13787.400390625,
-   "veraenderung_pct": 0.5856796619535976,
+   "veraenderung_pct": 0.5272873543255674,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13808.419922,
     13637.0,
     13787.400391,
-    13868.150391
+    13860.099609
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25275.029296875,
+   "kurs": 25258.7109375,
    "vortag": 25087.26953125,
-   "veraenderung_pct": 0.7484264694135767,
+   "veraenderung_pct": 0.6833800945792223,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25104.359375,
     24806.970703,
     25087.269531,
-    25275.029297
+    25258.710938
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6200.7900390625,
+   "kurs": 6196.89990234375,
    "vortag": 6173.3701171875,
-   "veraenderung_pct": 0.44416455444100666,
+   "veraenderung_pct": 0.381149756285315,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6180.290039,
     6126.72998,
     6173.370117,
-    6200.790039
+    6196.899902
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7807.64013671875,
+   "kurs": 7808.240234375,
    "vortag": 7811.5400390625,
-   "veraenderung_pct": -0.04992488452018051,
+   "veraenderung_pct": -0.04224269057060415,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7801.77002,
     7765.359863,
     7811.540039,
-    7807.640137
+    7808.240234
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27276.009765625,
+   "kurs": 27280.134765625,
    "vortag": 27366.169921875,
-   "veraenderung_pct": -0.329458439041308,
+   "veraenderung_pct": -0.31438508383019315,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27538.689453,
     27193.339844,
     27366.169922,
-    27276.009766
+    27280.134766
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9320600032806396,
+   "kurs": 0.9319199919700623,
    "vortag": 0.9322699904441833,
-   "veraenderung_pct": -0.022524286493830203,
+   "veraenderung_pct": -0.03754260865507231,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93652,
     0.93302,
     0.93227,
-    0.93206
+    0.93192
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8342700004577637,
+   "kurs": 0.8342599868774414,
    "vortag": 0.8313800096511841,
-   "veraenderung_pct": 0.3476136992747847,
+   "veraenderung_pct": 0.3464092464125601,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83218,
     0.83298,
     0.83138,
-    0.83427
+    0.83426
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4191.5,
+   "kurs": 4190.60009765625,
    "vortag": 4216.2998046875,
-   "veraenderung_pct": -0.5881888346727315,
+   "veraenderung_pct": -0.6095322491697197,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4140.700195,
     4157.0,
     4216.299805,
-    4191.5
+    4190.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 106.75,
+   "kurs": 106.70999908447266,
    "vortag": 104.72000122070312,
-   "veraenderung_pct": 1.9385014855171079,
+   "veraenderung_pct": 1.90030351467958,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.199997,
     104.279999,
     104.720001,
-    106.75
+    106.709999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82522.46875,
+   "kurs": 82605.46875,
    "vortag": 83679.46875,
-   "veraenderung_pct": -1.382656961478379,
+   "veraenderung_pct": -1.2834689512772557,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82546.320312,
     82912.226562,
     83679.46875,
-    82522.46875
+    82605.46875
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 76.29000091552734,
+   "kurs": 76.05999755859375,
    "vortag": 76.04000091552734,
-   "veraenderung_pct": 0.3287743253419073,
+   "veraenderung_pct": 0.02629753133305268,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     75.559998,
     76.0,
     76.040001,
-    76.290001
+    76.059998
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 119.55999755859375,
+   "kurs": 119.63999938964844,
    "vortag": 119.0999984741211,
-   "veraenderung_pct": 0.38622929501768155,
+   "veraenderung_pct": 0.45340127829194277,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     120.019997,
     117.720001,
     119.099998,
-    119.559998
+    119.639999
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 359.8999938964844,
+   "kurs": 360.29998779296875,
    "vortag": 357.79998779296875,
-   "veraenderung_pct": 0.586921792946149,
+   "veraenderung_pct": 0.6987143894053416,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     360.0,
     352.700012,
     357.799988,
-    359.899994
+    360.299988
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.0,
+   "kurs": 39.959999084472656,
    "vortag": 39.900001525878906,
-   "veraenderung_pct": 0.25062273257367984,
+   "veraenderung_pct": 0.1503698152864441,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.330002,
     38.830002,
     39.900002,
-    40.0
+    39.959999
    ]
   }
  ],
@@ -374,12 +374,20 @@
   ],
   "artikel": [
    {
-    "titel": "DOJ confirms search of Rep. Ilhan Omar’s home in federal investigation",
+    "titel": "Rep. Ilhan Omar’s home raided in federal criminal investigation",
     "link": "https://www.cnbc.com/2026/10/12/ilhan-omar-home-raided-dhs-immigration-investigation.html",
-    "zeit": "2026-10-12T14:31:43+00:00",
+    "zeit": "2026-10-12T15:14:16+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Die zwei amerikanischen Professoren Robert E. Hall und Michael Woodford erhalten den Wirtschaftsnobelpreis",
+    "link": "https://www.nzz.ch/wirtschaft/die-traeger-des-wirtschaftsnobelpreises-heissen-robert-e-hall-und-michael-woodford-ld.10031542",
+    "zeit": "2026-10-12T14:52:46+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
@@ -482,14 +490,6 @@
     "link": "https://www.finews.ch/news/finanzplatz/73935-immobilien-raiffeisen-schweiz-transaktionspreisindex-q3-2026",
     "zeit": "2026-10-12T11:57:50+00:00",
     "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Die Träger des Wirtschaftsnobelpreises heissen Robert E. Hall und Michael Woodford",
-    "link": "https://www.nzz.ch/wirtschaft/die-traeger-des-wirtschaftsnobelpreises-heissen-robert-e-hall-und-michael-woodford-ld.10031542",
-    "zeit": "2026-10-12T11:39:42+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
