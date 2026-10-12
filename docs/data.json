@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-12T19:20:36+02:00",
+ "aktualisiert": "2026-10-12T19:49:55+02:00",
  "kernaussagen": [
   "SMI +0.66%, DAX +0.76% führt",
-  "Franken stärker: EUR/CHF 0.9313 (−0.11%)",
-  "Brent über 100 USD: 106.65 (+1.84%)"
+  "Franken stärker: EUR/CHF 0.9312 (−0.11%)",
+  "Brent über 100 USD: 106.76 (+1.95%)"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7806.2099609375,
+   "kurs": 7805.31005859375,
    "vortag": 7811.5400390625,
-   "veraenderung_pct": -0.06823338417708547,
+   "veraenderung_pct": -0.07975354971742066,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7801.77002,
     7765.359863,
     7811.540039,
-    7806.209961
+    7805.310059
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27253.51171875,
+   "kurs": 27255.9140625,
    "vortag": 27366.169921875,
-   "veraenderung_pct": -0.41166960318750334,
+   "veraenderung_pct": -0.402891086658308,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27538.689453,
     27193.339844,
     27366.169922,
-    27253.511719
+    27255.914062
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9312700033187866,
+   "kurs": 0.9312099814414978,
    "vortag": 0.9322699904441833,
-   "veraenderung_pct": -0.10726368280076226,
+   "veraenderung_pct": -0.11370193329729439,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93652,
     0.93302,
     0.93227,
-    0.93127
+    0.93121
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8345199823379517,
+   "kurs": 0.8345800042152405,
    "vortag": 0.8313800096511841,
-   "veraenderung_pct": 0.3776820046569318,
+   "veraenderung_pct": 0.38490155246804214,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83218,
     0.83298,
     0.83138,
-    0.83452
+    0.83458
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4192.2001953125,
+   "kurs": 4193.0,
    "vortag": 4216.2998046875,
-   "veraenderung_pct": -0.5715819673972722,
+   "veraenderung_pct": -0.5526126169110746,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4140.700195,
     4157.0,
     4216.299805,
-    4192.200195
+    4193.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 106.6500015258789,
+   "kurs": 106.76000213623047,
    "vortag": 104.72000122070312,
-   "veraenderung_pct": 1.8430102011822935,
+   "veraenderung_pct": 1.9480527996059926,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.199997,
     104.279999,
     104.720001,
-    106.650002
+    106.760002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82464.28125,
+   "kurs": 82377.390625,
    "vortag": 83679.46875,
-   "veraenderung_pct": -1.4521931342925787,
+   "veraenderung_pct": -1.556030582471879,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82546.320312,
     82912.226562,
     83679.46875,
-    82464.28125
+    82377.390625
    ]
   }
  ],
@@ -376,7 +376,23 @@
    {
     "titel": "Rep. Ilhan Omar blasts federal criminal raid on home: 'I will not be silenced'",
     "link": "https://www.cnbc.com/2026/10/12/ilhan-omar-home-raided-dhs-immigration-investigation.html",
-    "zeit": "2026-10-12T17:18:18+00:00",
+    "zeit": "2026-10-12T17:39:38+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay",
+    "link": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html",
+    "zeit": "2026-10-12T17:34:35+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Why older Americans' wealth may be helping keep consumer spending strong",
+    "link": "https://www.cnbc.com/2026/10/12/baby-boomers-may-be-driving-resilient-consumer-spending.html",
+    "zeit": "2026-10-12T17:23:35+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -385,14 +401,6 @@
     "titel": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
     "link": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
     "zeit": "2026-10-12T17:15:21+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay",
-    "link": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html",
-    "zeit": "2026-10-12T17:14:59+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -468,14 +476,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Parenting in the digital age can be ‘a very anxiety provoking experience,’ says Emily Oster: How parents can lower that anxiety",
-    "link": "https://www.cnbc.com/make-it/2026/10/12/emily-oster-how-parents-can-lower-anxiety-.html",
-    "zeit": "2026-10-12T15:03:08+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Die zwei amerikanischen Professoren Robert E. Hall und Michael Woodford erhalten den Wirtschaftsnobelpreis",
