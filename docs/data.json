@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-12T12:22:55+02:00",
+ "aktualisiert": "2026-10-12T12:52:02+02:00",
  "kernaussagen": [
-  "SMI +0.31%, Nasdaq +0.64% führt",
+  "SMI +0.39%, DAX +0.68% führt",
   "Franken stärker: EUR/CHF 0.9313 (−0.11%)",
-  "Brent über 100 USD: 105.73 (+0.96%)"
+  "Brent über 100 USD: 105.62 (+0.86%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13829.7900390625,
+   "kurs": 13840.650390625,
    "vortag": 13787.400390625,
-   "veraenderung_pct": 0.30745207389728524,
+   "veraenderung_pct": 0.38622219193842344,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13808.419922,
     13637.0,
     13787.400391,
-    13829.790039
+    13840.650391
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25224.5,
+   "kurs": 25257.880859375,
    "vortag": 25087.26953125,
-   "veraenderung_pct": 0.54701237445971,
+   "veraenderung_pct": 0.6800713322447471,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25104.359375,
     24806.970703,
     25087.269531,
-    25224.5
+    25257.880859
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6198.64990234375,
+   "kurs": 6203.509765625,
    "vortag": 6173.3701171875,
-   "veraenderung_pct": 0.4094973195575502,
+   "veraenderung_pct": 0.48822033776312335,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6180.290039,
     6126.72998,
     6173.370117,
-    6198.649902
+    6203.509766
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8313800096511841,
-   "vortag": 0.8329799771308899,
-   "veraenderung_pct": -0.19207754371440844,
-   "datum": "2026-10-09",
-   "ist_heute": false,
+   "kurs": 0.8329399824142456,
+   "vortag": 0.8313800096511841,
+   "veraenderung_pct": 0.1876365494662302,
+   "datum": "2026-10-12",
+   "ist_heute": true,
    "verlauf": [
-    0.82811,
     0.83112,
     0.83218,
     0.83298,
-    0.83138
+    0.83138,
+    0.83294
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4198.60009765625,
+   "kurs": 4202.60009765625,
    "vortag": 4216.2998046875,
-   "veraenderung_pct": -0.41979242110753434,
+   "veraenderung_pct": -0.32492250707645276,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4140.700195,
     4157.0,
     4216.299805,
-    4198.600098
+    4202.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.7300033569336,
+   "kurs": 105.62000274658203,
    "vortag": 104.72000122070312,
-   "veraenderung_pct": 0.9644787284731171,
+   "veraenderung_pct": 0.859436130049418,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     100.199997,
     104.279999,
     104.720001,
-    105.730003
+    105.620003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83414.3203125,
+   "kurs": 83447.3828125,
    "vortag": 83679.46875,
-   "veraenderung_pct": -0.31686199907907664,
+   "veraenderung_pct": -0.27735111248540223,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82546.320312,
     82912.226562,
     83679.46875,
-    83414.320312
+    83447.382812
    ]
   }
  ],
@@ -241,15 +241,15 @@
    "quelle": "bundesbank",
    "verfuegbar": true,
    "wert": 3.53,
-   "vortag": 3.57,
-   "veraenderung_bp": -4.0,
-   "datum": "2026-10-09",
-   "ist_heute": false,
+   "vortag": 3.53,
+   "veraenderung_bp": 0.0,
+   "datum": "2026-10-12",
+   "ist_heute": true,
    "verlauf": [
-    3.51,
     3.52,
     3.55,
     3.57,
+    3.53,
     3.53
    ]
   },
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 119.41999816894531,
+   "kurs": 119.58000183105469,
    "vortag": 119.0999984741211,
-   "veraenderung_pct": 0.26868152722416827,
+   "veraenderung_pct": 0.4030254937726907,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     120.019997,
     117.720001,
     119.099998,
-    119.419998
+    119.580002
    ]
   },
   {
@@ -315,7 +315,19 @@
    "symbol": "ROP.SW",
    "einheit": "CHF",
    "dezimalen": 2,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 359.8999938964844,
+   "vortag": 357.79998779296875,
+   "veraenderung_pct": 0.586921792946149,
+   "datum": "2026-10-12",
+   "ist_heute": true,
+   "verlauf": [
+    349.799988,
+    360.0,
+    352.700012,
+    357.799988,
+    359.899994
+   ]
   },
   {
    "name": "UBS",
@@ -323,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.9900016784668,
+   "kurs": 39.97999954223633,
    "vortag": 39.900001525878906,
-   "veraenderung_pct": 0.22556428357407565,
+   "veraenderung_pct": 0.20049627393006197,
    "datum": "2026-10-12",
    "ist_heute": true,
    "verlauf": [
@@ -333,7 +345,7 @@
     39.330002,
     38.830002,
     39.900002,
-    39.990002
+    39.98
    ]
   }
  ],
@@ -362,9 +374,9 @@
   ],
   "artikel": [
    {
-    "titel": "Brent tops $106 as doubts grow over supply boost from Trump’s ‘energy ceasefire’",
-    "link": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html",
-    "zeit": "2026-10-12T10:21:08+00:00",
+    "titel": "India’s retail inflation jumps to 5.54% in September, above estimates",
+    "link": "https://www.cnbc.com/2026/10/12/india-inflation-oil-energy-iran-war.html",
+    "zeit": "2026-10-12T10:49:24+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -372,7 +384,23 @@
    {
     "titel": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
     "link": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
-    "zeit": "2026-10-12T10:18:18+00:00",
+    "zeit": "2026-10-12T10:42:49+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Brent tops $105 as doubts grow over supply boost from Trump’s ‘energy ceasefire’",
+    "link": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html",
+    "zeit": "2026-10-12T10:31:09+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "AI FOMO driving some family offices into tech investments, survey suggests",
+    "link": "https://www.cnbc.com/2026/10/12/ai-fomo-driving-some-family-offices-to-ai-investments-survey-suggests.html",
+    "zeit": "2026-10-12T10:25:28+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,14 +412,6 @@
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "AI FOMO driving some family offices into tech investments, survey suggests",
-    "link": "https://www.cnbc.com/2026/10/12/ai-fomo-driving-some-family-offices-to-ai-investments-survey-suggests.html",
-    "zeit": "2026-10-12T10:03:14+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Die Träger des Wirtschaftsnobelpreises heissen Robert E. Hall und Michael Woodford",
@@ -432,6 +452,14 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "US-Ökonomen erhalten Wirtschaftsnobelpreis",
+    "link": "https://www.finews.ch/news/finanzplatz/73934-nobelpreis-wirtschaft-2026",
+    "zeit": "2026-10-12T08:38:03+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Arbeitslosigkeit in der ICT – IT-Projektleiter backt jetzt Pizza",
@@ -496,14 +524,6 @@
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "TikTok CEO sees major scientific breakthroughs from AI within three years",
-    "link": "https://www.cnbc.com/2026/10/12/tiktok-ceo-bytedance-ai-scientific-breakthroughs.html",
-    "zeit": "2026-10-12T04:24:33+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Afrikanische Länder glauben, Milliarden zu verlieren, weil die Wall Street sie unfair behandelt. Nun gründen sie eine eigene Rating-Agentur",
@@ -669,14 +689,6 @@
     "titel": "Tessiner Goldraffinerie plant Expansion in Asien",
     "link": "https://www.finews.ch/news/finanzplatz/73918-vaccambi-joint-venture-hongkong-raffinerie-gold-edelmetall",
     "zeit": "2026-10-09T09:27:09+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "LLB will in der Ostschweiz mehr als das Firmenkonto",
-    "link": "https://www.finews.ch/news/banken/73914-llb-schweiz-st-gallen-unternehmer-private-banking",
-    "zeit": "2026-10-09T04:21:37+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
