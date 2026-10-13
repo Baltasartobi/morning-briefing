@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-13T12:53:02+02:00",
+ "aktualisiert": "2026-10-13T13:22:11+02:00",
  "kernaussagen": [
-  "SMI +1.10%, Nikkei 225 −1.82% am schwächsten",
+  "SMI +1.01%, Nikkei 225 −1.82% am schwächsten",
   "Franken stärker: EUR/CHF 0.9313 (−0.11%)",
-  "Brent über 100 USD: 104.59 (−1.93%)"
+  "Bitcoin +1.85% auf 83'277 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14031.0595703125,
+   "kurs": 14018.349609375,
    "vortag": 13877.83984375,
-   "veraenderung_pct": 1.104060345756941,
+   "veraenderung_pct": 1.0124757686138075,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13637.0,
     13787.400391,
     13877.839844,
-    14031.05957
+    14018.349609
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25364.3203125,
+   "kurs": 25344.330078125,
    "vortag": 25277.6796875,
-   "veraenderung_pct": 0.3427554509397579,
+   "veraenderung_pct": 0.2636728981812331,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     24806.970703,
     25087.269531,
     25277.679688,
-    25364.320312
+    25344.330078
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6199.47021484375,
+   "kurs": 6192.83984375,
    "vortag": 6201.2099609375,
-   "veraenderung_pct": -0.028054945804267817,
+   "veraenderung_pct": -0.13497554896907404,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6126.72998,
     6173.370117,
     6201.209961,
-    6199.470215
+    6192.839844
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9312800168991089,
+   "kurs": 0.9312599897384644,
    "vortag": 0.9322699904441833,
-   "veraenderung_pct": -0.10618957546866259,
+   "veraenderung_pct": -0.10833779013285083,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93652,
     0.93302,
     0.93227,
-    0.93128
+    0.93126
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8325899839401245,
+   "kurs": 0.8323900103569031,
    "vortag": 0.8313800096511841,
-   "veraenderung_pct": 0.1455380541863338,
+   "veraenderung_pct": 0.12148484375307245,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83218,
     0.83298,
     0.83138,
-    0.83259
+    0.83239
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4204.60009765625,
+   "kurs": 4209.60009765625,
    "vortag": 4190.60009765625,
-   "veraenderung_pct": 0.3340810307294717,
+   "veraenderung_pct": 0.45339568456141954,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4157.0,
     4216.299805,
     4190.600098,
-    4204.600098
+    4209.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.58999633789062,
+   "kurs": 104.69999694824219,
    "vortag": 106.6500015258789,
-   "veraenderung_pct": -1.9315566418331653,
+   "veraenderung_pct": -1.828414955215496,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.279999,
     104.720001,
     106.650002,
-    104.589996
+    104.699997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83239.578125,
+   "kurs": 83276.6171875,
    "vortag": 81762.5625,
-   "veraenderung_pct": 1.806469342249395,
+   "veraenderung_pct": 1.8517701026065536,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82912.226562,
     83679.46875,
     81762.5625,
-    83239.578125
+    83276.617188
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 77.36000061035156,
+   "kurs": 77.44000244140625,
    "vortag": 76.04000091552734,
-   "veraenderung_pct": 1.7359280364693808,
+   "veraenderung_pct": 1.8411382285938638,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     75.559998,
     76.0,
     76.040001,
-    77.360001
+    77.440002
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 121.63999938964844,
+   "kurs": 121.45999908447266,
    "vortag": 119.0999984741211,
-   "veraenderung_pct": 2.132662424911169,
+   "veraenderung_pct": 1.9815286654805142,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     120.019997,
     117.720001,
     119.099998,
-    121.639999
+    121.459999
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 365.79998779296875,
+   "kurs": 365.20001220703125,
    "vortag": 357.79998779296875,
-   "veraenderung_pct": 2.2358860460970575,
+   "veraenderung_pct": 2.068201416022486,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     360.0,
     352.700012,
     357.799988,
-    365.799988
+    365.200012
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.040000915527344,
+   "kurs": 40.04999923706055,
    "vortag": 39.900001525878906,
-   "veraenderung_pct": 0.35087564986089337,
+   "veraenderung_pct": 0.37593409886049756,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.330002,
     38.830002,
     39.900002,
-    40.040001
+    40.049999
    ]
   }
  ],
@@ -373,6 +373,22 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "Frankreich wird zum wirtschaftlichen und politischen Krisenherd: Droht anderen Ländern der Euro-Zone eine Ansteckung?",
+    "link": "https://www.nzz.ch/wirtschaft/frankreich-wird-zum-wirtschaftlichen-und-politischen-krisenherd-droht-anderen-laendern-der-euro-zone-eine-ansteckung-ld.10032455",
+    "zeit": "2026-10-13T11:20:14+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "The stock market is at a critical juncture. Wall Street is convinced it will resolve in the bulls' favor",
+    "link": "https://www.cnbc.com/2026/10/13/santoli-the-stock-market-is-at-a-critical-juncture.html",
+    "zeit": "2026-10-13T10:59:35+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
    {
     "titel": "UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs",
     "link": "https://www.cnbc.com/2026/10/13/unitedhealth-group-unh-earnings-q3-2026.html",
@@ -441,14 +457,6 @@
     "titel": "U.S. Treasury yields fall as energy prices pull back",
     "link": "https://www.cnbc.com/2026/10/13/us-treasurys-bonds-yields.html",
     "zeit": "2026-10-13T08:31:37+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Anthropic warns AI models could soon copy themselves across home devices",
-    "link": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html",
-    "zeit": "2026-10-13T08:27:20+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -577,14 +585,6 @@
     "titel": "Millionen Follower, Millionen Stimmen: Brasilien zeigt, wie Europas Politik bald funktionieren könnte",
     "link": "https://www.nzz.ch/international/millionen-follower-gleich-millionen-stimmen-in-brasilien-verdraengen-social-media-die-parteibasis-ld.10027546",
     "zeit": "2026-10-12T13:00:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "«Gemeinsame Aufgabe»: Der VW-Chef beschwört den Zusammenhalt zur Rettung der europäischen Industrie",
-    "link": "https://www.nzz.ch/wirtschaft/gemeinsame-aufgabe-der-vw-chef-beschwoert-den-zusammenhalt-zur-rettung-der-europaeischen-industrie-ld.10031424",
-    "zeit": "2026-10-12T12:52:03+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
