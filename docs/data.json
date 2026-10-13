@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-13T11:52:04+02:00",
+ "aktualisiert": "2026-10-13T12:22:31+02:00",
  "kernaussagen": [
-  "SMI +1.25%, Nikkei 225 −1.82% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9311 (−0.13%)",
-  "Bitcoin +2.17% auf 83'537 USD · Brent über 100 USD"
+  "SMI +1.30%, Nikkei 225 −1.82% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9315 (−0.08%)",
+  "Brent über 100 USD: 104.49 (−2.03%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14050.8798828125,
+   "kurs": 14058.5400390625,
    "vortag": 13877.83984375,
-   "veraenderung_pct": 1.2468802134247836,
+   "veraenderung_pct": 1.3020772493917976,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13637.0,
     13787.400391,
     13877.839844,
-    14050.879883
+    14058.540039
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25430.7109375,
+   "kurs": 25416.119140625,
    "vortag": 25277.6796875,
-   "veraenderung_pct": 0.6054007009024476,
+   "veraenderung_pct": 0.5476746870618054,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     24806.970703,
     25087.269531,
     25277.679688,
-    25430.710938
+    25416.119141
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6218.64990234375,
+   "kurs": 6211.490234375,
    "vortag": 6201.2099609375,
-   "veraenderung_pct": 0.28123449320547333,
+   "veraenderung_pct": 0.16577850939183403,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6126.72998,
     6173.370117,
     6201.209961,
-    6218.649902
+    6211.490234
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9310799837112427,
+   "kurs": 0.9315199851989746,
    "vortag": 0.9322699904441833,
-   "veraenderung_pct": -0.12764614812643682,
+   "veraenderung_pct": -0.08044936047457707,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93652,
     0.93302,
     0.93227,
-    0.93108
+    0.93152
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8331300020217896,
+   "kurs": 0.8329499959945679,
    "vortag": 0.8313800096511841,
-   "veraenderung_pct": 0.2104924763995264,
+   "veraenderung_pct": 0.1888410023284548,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83218,
     0.83298,
     0.83138,
-    0.83313
+    0.83295
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4208.89990234375,
+   "kurs": 4208.5,
    "vortag": 4190.60009765625,
-   "veraenderung_pct": 0.43668697229628517,
+   "veraenderung_pct": 0.4271441303540513,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4157.0,
     4216.299805,
     4190.600098,
-    4208.899902
+    4208.5
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.73999786376953,
+   "kurs": 104.48999786376953,
    "vortag": 106.6500015258789,
-   "veraenderung_pct": -1.7909082370204277,
+   "veraenderung_pct": -2.02531986048331,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.279999,
     104.720001,
     106.650002,
-    104.739998
+    104.489998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83537.1484375,
+   "kurs": 83415.28125,
    "vortag": 81762.5625,
-   "veraenderung_pct": 2.170413797268167,
+   "veraenderung_pct": 2.021363689524769,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82912.226562,
     83679.46875,
     81762.5625,
-    83537.148438
+    83415.28125
    ]
   }
  ],
@@ -240,17 +240,17 @@
    "name": "Deutschland",
    "quelle": "bundesbank",
    "verfuegbar": true,
-   "wert": 3.53,
+   "wert": 3.49,
    "vortag": 3.53,
-   "veraenderung_bp": 0.0,
-   "datum": "2026-10-12",
-   "ist_heute": false,
+   "veraenderung_bp": -4.0,
+   "datum": "2026-10-13",
+   "ist_heute": true,
    "verlauf": [
-    3.52,
     3.55,
     3.57,
     3.53,
-    3.53
+    3.53,
+    3.49
    ]
   },
   {
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 77.30999755859375,
+   "kurs": 77.45999908447266,
    "vortag": 76.04000091552734,
-   "veraenderung_pct": 1.6701691580425448,
+   "veraenderung_pct": 1.8674357599269165,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     75.559998,
     76.0,
     76.040001,
-    77.309998
+    77.459999
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 366.1000061035156,
+   "kurs": 366.5,
    "vortag": 357.79998779296875,
-   "veraenderung_pct": 2.3197368903627336,
+   "veraenderung_pct": 2.431529486821926,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     360.0,
     352.700012,
     357.799988,
-    366.100006
+    366.5
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.20000076293945,
+   "kurs": 40.16999816894531,
    "vortag": 39.900001525878906,
-   "veraenderung_pct": 0.7518777583654268,
+   "veraenderung_pct": 0.6766832900777953,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.330002,
     38.830002,
     39.900002,
-    40.200001
+    40.169998
    ]
   }
  ],
@@ -373,6 +373,22 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs",
+    "link": "https://www.cnbc.com/2026/10/13/unitedhealth-group-unh-earnings-q3-2026.html",
+    "zeit": "2026-10-13T10:01:37+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trump census plan to cut noncitizens from 2030 count spurs critics toward legal fight",
+    "link": "https://www.cnbc.com/2026/10/13/trump-census-rule-noncitizens.html",
+    "zeit": "2026-10-13T10:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
    {
     "titel": "In charts: How one of the world's biggest economies got trapped by debt",
     "link": "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html",
@@ -454,22 +470,6 @@
     "sprache": "de"
    },
    {
-    "titel": "As 'Cockroach' protests grow over alleged voter fraud, Modi defends India as ‘mother of democracy’",
-    "link": "https://www.cnbc.com/2026/10/13/cockroach-fraud-india-protest-modi.html",
-    "zeit": "2026-10-13T07:17:46+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
-    "link": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
-    "zeit": "2026-10-13T06:20:55+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Robert E. Hall und Michael Woodford erhalten den Wirtschaftsnobelpreis",
     "link": "https://www.nzz.ch/wirtschaft/die-traeger-des-wirtschaftsnobelpreises-heissen-robert-e-hall-und-michael-woodford-ld.10031542",
     "zeit": "2026-10-13T06:11:47+00:00",
@@ -510,7 +510,7 @@
     "sprache": "de"
    },
    {
-    "titel": "KOMMENTAR - Navi Pillay hat den Friedensnobelpreis erhalten. Dabei ist ihre Bilanz bei Frieden für Menschenrechte düster",
+    "titel": "KOMMENTAR - Navi Pillay hat den Friedensnobelpreis erhalten. Dabei ist ihre Bilanz bei Frieden und für Menschenrechte düster",
     "link": "https://www.nzz.ch/meinung/friedensnobelpreistraegerin-navi-pillay-gegen-israel-fuer-zensur-mit-diktatoren-ld.10031854",
     "zeit": "2026-10-13T03:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
