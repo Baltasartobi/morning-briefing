@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-13T19:20:30+02:00",
+ "aktualisiert": "2026-10-13T19:50:14+02:00",
  "kernaussagen": [
   "SMI +0.36%, Euro Stoxx 50 −0.55% am schwächsten",
-  "Franken stabil: EUR/CHF 0.9323 (+0.00%)",
-  "Bitcoin +1.66% auf 83'121 USD · Brent über 100 USD"
+  "Franken stabil: EUR/CHF 0.9323 (+0.01%)",
+  "Bitcoin +1.57% auf 83'047 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7797.8798828125,
+   "kurs": 7797.22998046875,
    "vortag": 7807.240234375,
-   "veraenderung_pct": -0.1198932181090906,
+   "veraenderung_pct": -0.12821757248067112,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7765.359863,
     7811.540039,
     7807.240234,
-    7797.879883
+    7797.22998
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27187.505859375,
+   "kurs": 27183.931640625,
    "vortag": 27245.900390625,
-   "veraenderung_pct": -0.2143241016549169,
+   "veraenderung_pct": -0.2274424743229364,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27193.339844,
     27366.169922,
     27245.900391,
-    27187.505859
+    27183.931641
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9322800040245056,
+   "kurs": 0.9323300123214722,
    "vortag": 0.9322699904441833,
-   "veraenderung_pct": 0.001074107332099672,
+   "veraenderung_pct": 0.0064382504965321274,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93652,
     0.93302,
     0.93227,
-    0.93228
+    0.93233
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8331300020217896,
+   "kurs": 0.8330600261688232,
    "vortag": 0.8313800096511841,
-   "veraenderung_pct": 0.2104924763995264,
+   "veraenderung_pct": 0.2020756450884731,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83218,
     0.83298,
     0.83138,
-    0.83313
+    0.83306
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4176.60009765625,
+   "kurs": 4178.89990234375,
    "vortag": 4190.60009765625,
-   "veraenderung_pct": -0.3340810307294606,
+   "veraenderung_pct": -0.27920095069543516,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4157.0,
     4216.299805,
     4190.600098,
-    4176.600098
+    4178.899902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.9800033569336,
+   "kurs": 105.63999938964844,
    "vortag": 106.6500015258789,
-   "veraenderung_pct": -0.6282214339985104,
+   "veraenderung_pct": -0.9470249618190429,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.279999,
     104.720001,
     106.650002,
-    105.980003
+    105.639999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83120.7421875,
+   "kurs": 83047.296875,
    "vortag": 81762.5625,
-   "veraenderung_pct": 1.6611266158640836,
+   "veraenderung_pct": 1.5712990587837705,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82912.226562,
     83679.46875,
     81762.5625,
-    83120.742188
+    83047.296875
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.229,
+   "wert": 5.219,
    "vortag": 5.24,
-   "veraenderung_bp": -1.1,
+   "veraenderung_bp": -2.1,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.231,
     5.244,
     5.24,
-    5.229
+    5.219
    ]
   }
  ],
@@ -296,7 +296,19 @@
    "symbol": "NOVN.SW",
    "einheit": "CHF",
    "dezimalen": 2,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 119.30000305175781,
+   "vortag": 119.0999984741211,
+   "veraenderung_pct": 0.16792995818566414,
+   "datum": "2026-10-13",
+   "ist_heute": true,
+   "verlauf": [
+    117.18,
+    120.019997,
+    117.720001,
+    119.099998,
+    119.300003
+   ]
   },
   {
    "name": "Roche GS",
@@ -362,6 +374,22 @@
   ],
   "artikel": [
    {
+    "titel": "Social Security cost-of-living adjustment for 2027 may be above average. Some say it's not enough",
+    "link": "https://www.cnbc.com/2026/10/13/social-security-cola-2027.html",
+    "zeit": "2026-10-13T17:34:44+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Kimberly Guilfoyle resigns as ambassador to Greece at White House's request",
+    "link": "https://www.cnbc.com/2026/10/13/kimberly-guilfoyle-resign-trump-ambassador.html",
+    "zeit": "2026-10-13T17:29:59+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Walmart to cover some GLP-1s, inhalers and insulin for employees at no cost as it expands benefits",
     "link": "https://www.cnbc.com/2026/10/13/walmart-glp-1s-inhalers-insulin-employee-benefits.html",
     "zeit": "2026-10-13T17:07:19+00:00",
@@ -426,25 +454,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Kimberly Guilfoyle resigns as ambassador to Greece at White House's request",
-    "link": "https://www.cnbc.com/2026/10/13/kimberly-guilfoyle-resign-trump-ambassador.html",
-    "zeit": "2026-10-13T15:54:34+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market",
     "link": "https://www.cnbc.com/2026/10/13/paul-tudor-jones-2027-really-challenging-year.html",
     "zeit": "2026-10-13T15:52:44+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "In charts: How one of the world's biggest economies got trapped by debt",
-    "link": "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html",
-    "zeit": "2026-10-13T15:52:24+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
