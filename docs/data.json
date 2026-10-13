@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-13T13:52:02+02:00",
+ "aktualisiert": "2026-10-13T14:27:54+02:00",
  "kernaussagen": [
-  "SMI +1.08%, Nikkei 225 −1.82% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9314 (−0.09%)",
-  "Bitcoin +1.85% auf 83'273 USD · Brent über 100 USD"
+  "SMI +0.83%, Nikkei 225 −1.82% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9313 (−0.10%)",
+  "Bitcoin +1.88% auf 83'298 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14027.6396484375,
+   "kurs": 13993.009765625,
    "vortag": 13877.83984375,
-   "veraenderung_pct": 1.0794173039470722,
+   "veraenderung_pct": 0.8298836358662021,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13637.0,
     13787.400391,
     13877.839844,
-    14027.639648
+    13993.009766
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25340.619140625,
+   "kurs": 25295.7109375,
    "vortag": 25277.6796875,
-   "veraenderung_pct": 0.24899220934477828,
+   "veraenderung_pct": 0.07133269438854839,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     24806.970703,
     25087.269531,
     25277.679688,
-    25340.619141
+    25295.710938
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6197.93017578125,
+   "kurs": 6184.830078125,
    "vortag": 6201.2099609375,
-   "veraenderung_pct": -0.05288943894675713,
+   "veraenderung_pct": -0.2641401100056284,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6126.72998,
     6173.370117,
     6201.209961,
-    6197.930176
+    6184.830078
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.931439995765686,
+   "kurs": 0.9312999844551086,
    "vortag": 0.9322699904441833,
-   "veraenderung_pct": -0.08902943213927594,
+   "veraenderung_pct": -0.10404775430050694,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93652,
     0.93302,
     0.93227,
-    0.93144
+    0.9313
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8325200080871582,
+   "kurs": 0.8319900035858154,
    "vortag": 0.8313800096511841,
-   "veraenderung_pct": 0.1371212228752583,
+   "veraenderung_pct": 0.0733712535242903,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83218,
     0.83298,
     0.83138,
-    0.83252
+    0.83199
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4209.5,
+   "kurs": 4206.0,
    "vortag": 4190.60009765625,
-   "veraenderung_pct": 0.4510070611204453,
+   "veraenderung_pct": 0.3674868034380774,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4157.0,
     4216.299805,
     4190.600098,
-    4209.5
+    4206.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.80999755859375,
+   "kurs": 104.69000244140625,
    "vortag": 106.6500015258789,
-   "veraenderung_pct": -1.7252732685978156,
+   "veraenderung_pct": -1.8377862695079794,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.279999,
     104.720001,
     106.650002,
-    104.809998
+    104.690002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83273.140625,
+   "kurs": 83297.59375,
    "vortag": 81762.5625,
-   "veraenderung_pct": 1.8475180801726943,
+   "veraenderung_pct": 1.8774255638086101,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82912.226562,
     83679.46875,
     81762.5625,
-    83273.140625
+    83297.59375
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 77.62999725341797,
+   "kurs": 77.48999786376953,
    "vortag": 76.04000091552734,
-   "veraenderung_pct": 2.0909998931443408,
+   "veraenderung_pct": 1.9068870736245636,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     75.559998,
     76.0,
     76.040001,
-    77.629997
+    77.489998
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 121.27999877929688,
+   "kurs": 120.72000122070312,
    "vortag": 119.0999984741211,
-   "veraenderung_pct": 1.8303949060498592,
+   "veraenderung_pct": 1.360203834875806,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     120.019997,
     117.720001,
     119.099998,
-    121.279999
+    120.720001
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 364.1000061035156,
+   "kurs": 363.29998779296875,
    "vortag": 357.79998779296875,
-   "veraenderung_pct": 1.7607653788384692,
+   "veraenderung_pct": 1.5371716566917382,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     360.0,
     352.700012,
     357.799988,
-    364.100006
+    363.299988
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.58000183105469,
+   "kurs": 40.619998931884766,
    "vortag": 39.900001525878906,
-   "veraenderung_pct": 1.7042613513053029,
+   "veraenderung_pct": 1.8045047079481291,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.330002,
     38.830002,
     39.900002,
-    40.580002
+    40.619999
    ]
   }
  ],
@@ -374,17 +374,49 @@
   ],
   "artikel": [
    {
-    "titel": "Micron, SoftBank and ASML slide as Wall Street chip rout spreads",
-    "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
-    "zeit": "2026-10-13T11:47:25+00:00",
+    "titel": "French supermarket fridges get hacked, heating to 122°F and sparking fires",
+    "link": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html",
+    "zeit": "2026-10-13T12:22:59+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "French supermarket fridges get hacked, heating to 122°F and sparking fires",
-    "link": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html",
-    "zeit": "2026-10-13T11:26:07+00:00",
+    "titel": "As 'Cockroach' protests grow over alleged voter fraud, Modi defends India as ‘mother of democracy’",
+    "link": "https://www.cnbc.com/2026/10/13/cockroach-fraud-india-protest-modi.html",
+    "zeit": "2026-10-13T12:19:37+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "BlackRock and Baillie Gifford bet big on Icon 3D printed homes",
+    "link": "https://www.cnbc.com/2026/10/13/blackrock-baillie-gifford-bet-big-on-icon-3d-printed-homes.html",
+    "zeit": "2026-10-13T12:18:44+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "«Trump ist der einzige Präsident, der versteht, worum es in den Beziehungen zwischen den USA und China eigentlich geht», sagt eine hochrangige Diplomatin",
+    "link": "https://www.nzz.ch/international/trump-ist-der-einzige-praesident-der-versteht-worum-es-in-den-beziehungen-zwischen-den-usa-und-china-eigentlich-geht-sagt-eine-hochrangige-diplomatin-ld.10025878",
+    "zeit": "2026-10-13T12:08:43+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms",
+    "link": "https://www.cnbc.com/2026/10/13/iran-us-war-houthis-saudi-arabia-airport.html",
+    "zeit": "2026-10-13T11:53:45+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Micron, SoftBank and ASML slide as Wall Street chip rout spreads",
+    "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+    "zeit": "2026-10-13T11:47:25+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -404,6 +436,14 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Swiss Re: Extremwetter treibt Schadenssummen in die Höhe",
+    "link": "https://www.finews.ch/news/versicherungen/73953-swiss-re-extremwetter-treibt-schadenssummen-in-die-hoehe",
+    "zeit": "2026-10-13T10:26:07+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs",
@@ -433,30 +473,6 @@
     "titel": "Trump 'not happy' with Kimberly Guilfoyle, weighs firing her as ambassador to Greece",
     "link": "https://www.cnbc.com/2026/10/12/trump-kimberly-guilfoyle-ambassador.html",
     "zeit": "2026-10-13T09:23:53+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
-    "link": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html",
-    "zeit": "2026-10-13T09:20:00+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "SpaceX agrees to testify to NYC Council about AI safety after receiving subpoena",
-    "link": "https://www.cnbc.com/2026/10/13/spacex-agrees-to-testify-to-nyc-council-about-ai-safety-.html",
-    "zeit": "2026-10-13T09:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "U.S. Treasury yields fall as energy prices pull back",
-    "link": "https://www.cnbc.com/2026/10/13/us-treasurys-bonds-yields.html",
-    "zeit": "2026-10-13T08:31:37+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -582,14 +598,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Millionen Follower, Millionen Stimmen: Brasilien zeigt, wie Europas Politik bald funktionieren könnte",
-    "link": "https://www.nzz.ch/international/millionen-follower-gleich-millionen-stimmen-in-brasilien-verdraengen-social-media-die-parteibasis-ld.10027546",
-    "zeit": "2026-10-12T13:00:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Cofra holt ehemaligen Unilever-Finanzchef an die Spitze",
     "link": "https://www.finews.ch/news/finanzplatz/73936-cofra-henry-schirmer-neuer-cfo-randstad-florian-brenninkmeyer",
     "zeit": "2026-10-12T12:32:40+00:00",
@@ -633,14 +641,6 @@
     "titel": "Staatschulden: Mehr Zins für Blutspender und andere Ideen",
     "link": "https://www.finews.ch/news/finanzplatz/73933-rumaenien-12-5-milliarden-franken-von-seinen-buergern-erhalten-wer-blut-spendet-bekommt-ein-prozent-mehr-zins-und-andere-vorteile",
     "zeit": "2026-10-12T07:51:22+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "S&P senkt Ausblick der Stadt Zürich",
-    "link": "https://www.finews.ch/news/finanzplatz/73932-s-und-p-rating-stadt-zuerich-ausblick",
-    "zeit": "2026-10-12T06:22:44+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
