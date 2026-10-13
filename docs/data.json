@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-13T16:55:08+02:00",
+ "aktualisiert": "2026-10-13T17:23:05+02:00",
  "kernaussagen": [
-  "SMI +0.35%, Nikkei 225 −1.82% am schwächsten",
+  "SMI +0.32%, Euro Stoxx 50 −0.49% am schwächsten",
   "Franken stabil: EUR/CHF 0.9320 (−0.03%)",
-  "Bitcoin +2.09% auf 83'469 USD · Brent über 100 USD"
+  "Bitcoin +2.27% auf 83'620 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13926.83984375,
+   "kurs": 13922.580078125,
    "vortag": 13877.83984375,
-   "veraenderung_pct": 0.35308088687928674,
+   "veraenderung_pct": 0.3223861557614782,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13637.0,
     13787.400391,
     13877.839844,
-    13926.839844
+    13922.580078
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25271.259765625,
+   "kurs": 25245.5,
    "vortag": 25277.6796875,
-   "veraenderung_pct": -0.02539759168708189,
+   "veraenderung_pct": -0.1273047522471482,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     24806.970703,
     25087.269531,
     25277.679688,
-    25271.259766
+    25245.5
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6173.77978515625,
+   "kurs": 6170.759765625,
    "vortag": 6201.2099609375,
-   "veraenderung_pct": -0.44233586596870156,
+   "veraenderung_pct": -0.49103635426490655,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6126.72998,
     6173.370117,
     6201.209961,
-    6173.779785
+    6170.759766
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7796.919921875,
+   "kurs": 7796.68017578125,
    "vortag": 7807.240234375,
-   "veraenderung_pct": -0.1321889962417222,
+   "veraenderung_pct": -0.13525981366955264,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7765.359863,
     7811.540039,
     7807.240234,
-    7796.919922
+    7796.680176
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27176.84375,
+   "kurs": 27189.416015625,
    "vortag": 27245.900390625,
-   "veraenderung_pct": -0.25345699585967996,
+   "veraenderung_pct": -0.20731329921266362,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27193.339844,
     27366.169922,
     27245.900391,
-    27176.84375
+    27189.416016
    ]
   },
   {
@@ -107,17 +107,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 67777.5234375,
-   "vortag": 69030.921875,
-   "veraenderung_pct": -1.8157057785924247,
-   "datum": "2026-10-13",
-   "ist_heute": true,
+   "kurs": 69030.921875,
+   "vortag": 69042.109375,
+   "veraenderung_pct": -0.016203879199627735,
+   "datum": "2026-10-09",
+   "ist_heute": false,
    "verlauf": [
+    69946.859375,
     70683.976562,
     70035.710938,
     69042.109375,
-    69030.921875,
-    67777.523438
+    69030.921875
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9319700002670288,
+   "kurs": 0.9319900274276733,
    "vortag": 0.9322699904441833,
-   "veraenderung_pct": -0.03217846549062875,
+   "veraenderung_pct": -0.030030250826440508,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93652,
     0.93302,
     0.93227,
-    0.93197
+    0.93199
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8327000141143799,
+   "kurs": 0.8325999975204468,
    "vortag": 0.8313800096511841,
-   "veraenderung_pct": 0.1587726969463299,
+   "veraenderung_pct": 0.1467425070485584,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83218,
     0.83298,
     0.83138,
-    0.8327
+    0.8326
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4191.5,
+   "kurs": 4190.10009765625,
    "vortag": 4190.60009765625,
-   "veraenderung_pct": 0.021474307325419772,
+   "veraenderung_pct": -0.011931465383197004,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4157.0,
     4216.299805,
     4190.600098,
-    4191.5
+    4190.100098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.81999969482422,
+   "kurs": 105.69999694824219,
    "vortag": 106.6500015258789,
-   "veraenderung_pct": -0.7782483067787727,
+   "veraenderung_pct": -0.8907684613639666,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.279999,
     104.720001,
     106.650002,
-    105.82
+    105.699997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83468.828125,
+   "kurs": 83619.75,
    "vortag": 81762.5625,
-   "veraenderung_pct": 2.0868543901128245,
+   "veraenderung_pct": 2.271439939275388,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82912.226562,
     83679.46875,
     81762.5625,
-    83468.828125
+    83619.75
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.215,
+   "wert": 5.221,
    "vortag": 5.24,
-   "veraenderung_bp": -2.5,
+   "veraenderung_bp": -1.9,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.231,
     5.244,
     5.24,
-    5.215
+    5.221
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 77.5199966430664,
+   "kurs": 77.22000122070312,
    "vortag": 76.04000091552734,
-   "veraenderung_pct": 1.9463383873222107,
+   "veraenderung_pct": 1.5518152169496258,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     75.559998,
     76.0,
     76.040001,
-    77.519997
+    77.220001
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 119.5,
+   "kurs": 119.41999816894531,
    "vortag": 119.0999984741211,
-   "veraenderung_pct": 0.3358535104984295,
+   "veraenderung_pct": 0.26868152722416827,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     120.019997,
     117.720001,
     119.099998,
-    119.5
+    119.419998
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.09000015258789,
+   "kurs": 40.11000061035156,
    "vortag": 39.900001525878906,
-   "veraenderung_pct": 0.4761870161477333,
+   "veraenderung_pct": 0.5263134747913512,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.330002,
     38.830002,
     39.900002,
-    40.09
+    40.110001
    ]
   }
  ],
@@ -374,9 +374,41 @@
   ],
   "artikel": [
    {
+    "titel": "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms",
+    "link": "https://www.cnbc.com/2026/10/13/iran-us-war-houthis-saudi-arabia-airport.html",
+    "zeit": "2026-10-13T15:20:17+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "AI companion startup Character.ai files for Chapter 11 bankruptcy, citing costs and litigation",
+    "link": "https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html",
+    "zeit": "2026-10-13T15:16:30+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs",
+    "link": "https://www.cnbc.com/2026/10/13/unitedhealth-group-unh-earnings-q3-2026.html",
+    "zeit": "2026-10-13T15:04:35+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "White House has asked Ambassador Kimberly Guilfoyle to resign, new Trump press secretary says",
     "link": "https://www.cnbc.com/2026/10/13/kimberly-guilfoyle-resign-trump-ambassador.html",
-    "zeit": "2026-10-13T14:54:52+00:00",
+    "zeit": "2026-10-13T14:59:56+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade",
+    "link": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html",
+    "zeit": "2026-10-13T14:55:51+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -422,33 +454,9 @@
     "sprache": "en"
    },
    {
-    "titel": "U.S. Treasury yields fall as energy prices pull back",
-    "link": "https://www.cnbc.com/2026/10/13/us-treasurys-bonds-yields.html",
-    "zeit": "2026-10-13T13:38:51+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Thousands of homeowners face adjustable-rate mortgage resets — and much higher payments",
     "link": "https://www.cnbc.com/2026/10/13/arm-mortgage-borrowers-rate-adjustment.html",
     "zeit": "2026-10-13T13:35:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market",
-    "link": "https://www.cnbc.com/2026/10/13/paul-tudor-jones-2027-really-challenging-year.html",
-    "zeit": "2026-10-13T13:33:24+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
-    "link": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html",
-    "zeit": "2026-10-13T13:29:11+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -460,14 +468,6 @@
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-    "link": "https://www.cnbc.com/investingclub/2026/10/13/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-    "zeit": "2026-10-13T12:54:50+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "«Trump ist der einzige Präsident, der versteht, worum es in den Beziehungen zwischen den USA und China eigentlich geht», sagt eine hochrangige Diplomatin",
