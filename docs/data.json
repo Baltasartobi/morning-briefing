@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-13T15:27:58+02:00",
+ "aktualisiert": "2026-10-13T15:56:21+02:00",
  "kernaussagen": [
-  "SMI +0.85%, Nikkei 225 −1.82% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9311 (−0.13%)",
-  "Bitcoin +1.92% auf 83'333 USD · Brent über 100 USD"
+  "SMI +0.74%, Nikkei 225 −1.82% am schwächsten",
+  "Franken stabil: EUR/CHF 0.9320 (−0.03%)",
+  "Bitcoin +1.71% auf 83'159 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13995.23046875,
+   "kurs": 13980.76953125,
    "vortag": 13877.83984375,
-   "veraenderung_pct": 0.8458854282921369,
+   "veraenderung_pct": 0.7416837826266898,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13637.0,
     13787.400391,
     13877.839844,
-    13995.230469
+    13980.769531
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25286.16015625,
+   "kurs": 25351.7109375,
    "vortag": 25277.6796875,
-   "veraenderung_pct": 0.03354923733049908,
+   "veraenderung_pct": 0.2928720156091247,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     24806.970703,
     25087.269531,
     25277.679688,
-    25286.160156
+    25351.710938
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6178.330078125,
+   "kurs": 6194.08984375,
    "vortag": 6201.2099609375,
-   "veraenderung_pct": -0.36895836387776937,
+   "veraenderung_pct": -0.11481819245519054,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6126.72998,
     6173.370117,
     6201.209961,
-    6178.330078
+    6194.089844
    ]
   },
   {
@@ -69,17 +69,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7807.240234375,
-   "vortag": 7811.5400390625,
-   "veraenderung_pct": -0.05504426356388592,
-   "datum": "2026-10-12",
-   "ist_heute": false,
+   "kurs": 7808.7099609375,
+   "vortag": 7807.240234375,
+   "veraenderung_pct": 0.018825174048431315,
+   "datum": "2026-10-13",
+   "ist_heute": true,
    "verlauf": [
-    7818.930176,
     7801.77002,
     7765.359863,
     7811.540039,
-    7807.240234
+    7807.240234,
+    7808.709961
    ]
   },
   {
@@ -88,17 +88,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27245.900390625,
-   "vortag": 27366.169921875,
-   "veraenderung_pct": -0.43948251287391216,
-   "datum": "2026-10-12",
-   "ist_heute": false,
+   "kurs": 27248.83203125,
+   "vortag": 27245.900390625,
+   "veraenderung_pct": 0.010759932991644128,
+   "datum": "2026-10-13",
+   "ist_heute": true,
    "verlauf": [
-    27599.789062,
     27538.689453,
     27193.339844,
     27366.169922,
-    27245.900391
+    27245.900391,
+    27248.832031
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9310700297355652,
+   "kurs": 0.9320200085639954,
    "vortag": 0.9322699904441833,
-   "veraenderung_pct": -0.1287138619625039,
+   "veraenderung_pct": -0.02681432232618519,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93652,
     0.93302,
     0.93227,
-    0.93107
+    0.93202
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4203.10009765625,
+   "kurs": 4202.7998046875,
    "vortag": 4190.60009765625,
-   "veraenderung_pct": 0.2982866345798696,
+   "veraenderung_pct": 0.2911207642569691,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4157.0,
     4216.299805,
     4190.600098,
-    4203.100098
+    4202.799805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.41999816894531,
+   "kurs": 105.29000091552734,
    "vortag": 106.6500015258789,
-   "veraenderung_pct": -1.1533083350543927,
+   "veraenderung_pct": -1.27519980393207,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.279999,
     104.720001,
     106.650002,
-    105.419998
+    105.290001
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83332.75,
+   "kurs": 83159.4296875,
    "vortag": 81762.5625,
-   "veraenderung_pct": 1.920423543476879,
+   "veraenderung_pct": 1.7084435037123535,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82912.226562,
     83679.46875,
     81762.5625,
-    83332.75
+    83159.429688
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.211,
+   "wert": 5.204,
    "vortag": 5.24,
-   "veraenderung_bp": -2.9,
+   "veraenderung_bp": -3.6,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.231,
     5.244,
     5.24,
-    5.211
+    5.204
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 77.73999786376953,
+   "kurs": 77.56999969482422,
    "vortag": 76.04000091552734,
-   "veraenderung_pct": 2.235661398966471,
+   "veraenderung_pct": 2.0120972657490466,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     75.559998,
     76.0,
     76.040001,
-    77.739998
+    77.57
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 120.9000015258789,
+   "kurs": 120.30000305175781,
    "vortag": 119.0999984741211,
-   "veraenderung_pct": 1.511337594306461,
+   "veraenderung_pct": 1.0075605314952663,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     120.019997,
     117.720001,
     119.099998,
-    120.900002
+    120.300003
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 362.20001220703125,
+   "kurs": 360.79998779296875,
    "vortag": 357.79998779296875,
-   "veraenderung_pct": 1.2297441487360894,
+   "veraenderung_pct": 0.8384572672863966,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     360.0,
     352.700012,
     357.799988,
-    362.200012
+    360.799988
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.5099983215332,
+   "kurs": 40.5,
    "vortag": 39.900001525878906,
-   "veraenderung_pct": 1.5288139657304356,
+   "veraenderung_pct": 1.5037555167308314,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.330002,
     38.830002,
     39.900002,
-    40.509998
+    40.5
    ]
   }
  ],
@@ -374,9 +374,49 @@
   ],
   "artikel": [
    {
+    "titel": "Micron, Seagate, Western Digital sink as chip sell-off deepens",
+    "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+    "zeit": "2026-10-13T13:51:11+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
+    "link": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html",
+    "zeit": "2026-10-13T13:40:00+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Martin Shkreli violated lifetime pharma industry ban, FTC and states say in contempt claim",
+    "link": "https://www.cnbc.com/2026/10/13/martin-shkreli-ftc-pharma-contempt.html",
+    "zeit": "2026-10-13T13:39:37+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "U.S. Treasury yields fall as energy prices pull back",
+    "link": "https://www.cnbc.com/2026/10/13/us-treasurys-bonds-yields.html",
+    "zeit": "2026-10-13T13:38:51+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market",
     "link": "https://www.cnbc.com/2026/10/13/paul-tudor-jones-2027-really-challenging-year.html",
-    "zeit": "2026-10-13T13:27:28+00:00",
+    "zeit": "2026-10-13T13:33:24+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
+    "link": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html",
+    "zeit": "2026-10-13T13:29:11+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -390,22 +430,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Martin Shkreli violated lifetime pharma industry ban, FTC and states say in contempt claim",
-    "link": "https://www.cnbc.com/2026/10/13/martin-shkreli-ftc-pharma-contempt.html",
-    "zeit": "2026-10-13T13:22:34+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Micron drops 5% as tech stocks rattled by China chip breakthrough claims",
-    "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
-    "zeit": "2026-10-13T13:13:57+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Six Flags shares decline following report of deadly roller coaster incident",
     "link": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
     "zeit": "2026-10-13T13:05:52+00:00",
@@ -417,14 +441,6 @@
     "titel": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
     "link": "https://www.cnbc.com/investingclub/2026/10/13/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
     "zeit": "2026-10-13T12:54:50+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "U.S. Treasury yields fall as energy prices pull back",
-    "link": "https://www.cnbc.com/2026/10/13/us-treasurys-bonds-yields.html",
-    "zeit": "2026-10-13T12:45:08+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -446,22 +462,6 @@
     "sprache": "en"
    },
    {
-    "titel": "As 'Cockroach' protests grow over alleged voter fraud, Modi defends India as ‘mother of democracy’",
-    "link": "https://www.cnbc.com/2026/10/13/cockroach-fraud-india-protest-modi.html",
-    "zeit": "2026-10-13T12:19:37+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "BlackRock and Baillie Gifford bet big on Icon 3D printed homes",
-    "link": "https://www.cnbc.com/2026/10/13/blackrock-baillie-gifford-bet-big-on-icon-3d-printed-homes.html",
-    "zeit": "2026-10-13T12:18:44+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "«Trump ist der einzige Präsident, der versteht, worum es in den Beziehungen zwischen den USA und China eigentlich geht», sagt eine hochrangige Diplomatin",
     "link": "https://www.nzz.ch/international/trump-ist-der-einzige-praesident-der-versteht-worum-es-in-den-beziehungen-zwischen-den-usa-und-china-eigentlich-geht-sagt-eine-hochrangige-diplomatin-ld.10025878",
     "zeit": "2026-10-13T12:08:43+00:00",
@@ -470,10 +470,26 @@
     "sprache": "de"
    },
    {
+    "titel": "US-Grossbanken mit starken Quartalsergebnissen – Aktienhandel boomt",
+    "link": "https://www.finews.ch/news/banken/73957-us-banken-jpmorgan-goldman-sachs-citi-ergebnisse-q3-2026",
+    "zeit": "2026-10-13T11:20:44+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Frankreich wird zum wirtschaftlichen und politischen Krisenherd: Droht anderen Ländern der Euro-Zone eine Ansteckung?",
     "link": "https://www.nzz.ch/wirtschaft/frankreich-wird-zum-wirtschaftlichen-und-politischen-krisenherd-droht-anderen-laendern-der-euro-zone-eine-ansteckung-ld.10032455",
     "zeit": "2026-10-13T11:20:14+00:00",
     "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "IWF warnt vor gefährlicher Mischung aus KI-Boom und Schuldenkrise",
+    "link": "https://www.finews.ch/news/finanzplatz/73955-internationaler-waehrungsfonds-iwf-staatsverschuldung-steigt-technologiekonzerne-finanzieren-ihre-ki-investitionen-zunehmend-mit-krediten-anleihemaerkte-unter-druck-finanzielle-verflechtungen-innerhalb-der-ki-branche",
+    "zeit": "2026-10-13T10:32:18+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -630,26 +646,10 @@
     "sprache": "de"
    },
    {
-    "titel": "US-Ökonomen erhalten Wirtschaftsnobelpreis",
-    "link": "https://www.finews.ch/news/finanzplatz/73934-nobelpreis-wirtschaft-2026",
-    "zeit": "2026-10-12T08:38:03+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Arbeitslosigkeit in der ICT – IT-Projektleiter backt jetzt Pizza",
     "link": "https://www.srf.ch/news/wirtschaft/arbeitslosigkeit-in-der-ict-it-projektleiter-backt-jetzt-pizza",
     "zeit": "2026-10-12T08:30:32+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Staatschulden: Mehr Zins für Blutspender und andere Ideen",
-    "link": "https://www.finews.ch/news/finanzplatz/73933-rumaenien-12-5-milliarden-franken-von-seinen-buergern-erhalten-wer-blut-spendet-bekommt-ein-prozent-mehr-zins-und-andere-vorteile",
-    "zeit": "2026-10-12T07:51:22+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
