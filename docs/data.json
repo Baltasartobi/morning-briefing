@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-13T19:50:14+02:00",
+ "aktualisiert": "2026-10-13T20:26:39+02:00",
  "kernaussagen": [
   "SMI +0.36%, Euro Stoxx 50 −0.55% am schwächsten",
-  "Franken stabil: EUR/CHF 0.9323 (+0.01%)",
-  "Bitcoin +1.57% auf 83'047 USD · Brent über 100 USD"
+  "Franken stabil: EUR/CHF 0.9325 (+0.03%)",
+  "Bitcoin +1.55% auf 83'029 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7797.22998046875,
+   "kurs": 7805.64990234375,
    "vortag": 7807.240234375,
-   "veraenderung_pct": -0.12821757248067112,
+   "veraenderung_pct": -0.02036996407831504,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7765.359863,
     7811.540039,
     7807.240234,
-    7797.22998
+    7805.649902
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27183.931640625,
+   "kurs": 27212.228515625,
    "vortag": 27245.900390625,
-   "veraenderung_pct": -0.2274424743229364,
+   "veraenderung_pct": -0.12358510644627785,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27193.339844,
     27366.169922,
     27245.900391,
-    27183.931641
+    27212.228516
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9323300123214722,
+   "kurs": 0.9325399994850159,
    "vortag": 0.9322699904441833,
-   "veraenderung_pct": 0.0064382504965321274,
+   "veraenderung_pct": 0.02896253699036233,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93652,
     0.93302,
     0.93227,
-    0.93233
+    0.93254
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8330600261688232,
+   "kurs": 0.8327699899673462,
    "vortag": 0.8313800096511841,
-   "veraenderung_pct": 0.2020756450884731,
+   "veraenderung_pct": 0.1671895282574054,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83218,
     0.83298,
     0.83138,
-    0.83306
+    0.83277
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4178.89990234375,
+   "kurs": 4182.0,
    "vortag": 4190.60009765625,
-   "veraenderung_pct": -0.27920095069543516,
+   "veraenderung_pct": -0.20522353495529,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4157.0,
     4216.299805,
     4190.600098,
-    4178.899902
+    4182.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.63999938964844,
+   "kurs": 105.88999938964844,
    "vortag": 106.6500015258789,
-   "veraenderung_pct": -0.9470249618190429,
+   "veraenderung_pct": -0.7126133383561717,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.279999,
     104.720001,
     106.650002,
-    105.639999
+    105.889999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83047.296875,
+   "kurs": 83028.5234375,
    "vortag": 81762.5625,
-   "veraenderung_pct": 1.5712990587837705,
+   "veraenderung_pct": 1.5483381376409255,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82912.226562,
     83679.46875,
     81762.5625,
-    83047.296875
+    83028.523438
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.219,
+   "wert": 5.217,
    "vortag": 5.24,
-   "veraenderung_bp": -2.1,
+   "veraenderung_bp": -2.3,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.231,
     5.244,
     5.24,
-    5.219
+    5.217
    ]
   }
  ],
@@ -374,9 +374,9 @@
   ],
   "artikel": [
    {
-    "titel": "Social Security cost-of-living adjustment for 2027 may be above average. Some say it's not enough",
-    "link": "https://www.cnbc.com/2026/10/13/social-security-cola-2027.html",
-    "zeit": "2026-10-13T17:34:44+00:00",
+    "titel": "We're upgrading our Goldman Sachs rating after a strong quarter bodes well for the future",
+    "link": "https://www.cnbc.com/investingclub/2026/10/13/were-upgrading-our-goldman-sachs-rating-after-a-strong-quarter-bodes-well-for-the-future.html",
+    "zeit": "2026-10-13T18:16:53+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,7 +384,23 @@
    {
     "titel": "Kimberly Guilfoyle resigns as ambassador to Greece at White House's request",
     "link": "https://www.cnbc.com/2026/10/13/kimberly-guilfoyle-resign-trump-ambassador.html",
-    "zeit": "2026-10-13T17:29:59+00:00",
+    "zeit": "2026-10-13T18:07:07+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "The latest inflation data is expected to show price increases are accelerating",
+    "link": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html",
+    "zeit": "2026-10-13T18:05:57+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Social Security cost-of-living adjustment for 2027 may be above average. Some say it's not enough",
+    "link": "https://www.cnbc.com/2026/10/13/social-security-cola-2027.html",
+    "zeit": "2026-10-13T17:34:44+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -406,14 +422,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Trump's diesel deal with Russia equals less than two weeks of U.S. demand",
-    "link": "https://www.cnbc.com/2026/10/13/trump-putin-zelenskyy-russia-ukraine-diesel-oil-price.html",
-    "zeit": "2026-10-13T16:53:43+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
     "link": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html",
     "zeit": "2026-10-13T16:52:27+00:00",
@@ -433,14 +441,6 @@
     "titel": "Why this little known Chinese chipmaker has caused a global stock rout",
     "link": "https://www.cnbc.com/2026/10/13/cxmt-memory-chip-stock-rout.html",
     "zeit": "2026-10-13T16:28:25+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Jim Cramer bucks all the stock market negativity with 3 buy recommendations",
-    "link": "https://www.cnbc.com/investingclub/2026/10/13/jim-cramer-bucks-all-the-stock-market-negativity-with-3-buy-recommendations.html",
-    "zeit": "2026-10-13T16:07:20+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
