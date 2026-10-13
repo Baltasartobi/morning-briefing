@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-13T07:51:23+02:00",
+ "aktualisiert": "2026-10-13T08:27:57+02:00",
  "kernaussagen": [
-  "SMI +0.66%, Nikkei 225 −1.96% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9310 (−0.13%)",
-  "Brent über 100 USD: 105.61 (−0.98%)"
+  "SMI +0.66%, Nikkei 225 −1.82% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9308 (−0.16%)",
+  "Brent über 100 USD: 105.50 (−1.08%)"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 67674.96875,
+   "kurs": 67775.421875,
    "vortag": 69030.921875,
-   "veraenderung_pct": -1.9642691828096082,
+   "veraenderung_pct": -1.8187501570288145,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     70035.710938,
     69042.109375,
     69030.921875,
-    67674.96875
+    67775.421875
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9310399889945984,
+   "kurs": 0.9308099746704102,
    "vortag": 0.9322699904441833,
-   "veraenderung_pct": -0.1319361839587807,
+   "veraenderung_pct": -0.15660868511679915,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93652,
     0.93302,
     0.93227,
-    0.93104
+    0.93081
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.833109974861145,
+   "kurs": 0.8331699967384338,
    "vortag": 0.8313800096511841,
-   "veraenderung_pct": 0.2080835706750772,
+   "veraenderung_pct": 0.21530311848618755,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83218,
     0.83298,
     0.83138,
-    0.83311
+    0.83317
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4217.0,
+   "kurs": 4211.5,
    "vortag": 4190.60009765625,
-   "veraenderung_pct": 0.6299790418683671,
+   "veraenderung_pct": 0.4987329226532333,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4157.0,
     4216.299805,
     4190.600098,
-    4217.0
+    4211.5
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.61000061035156,
+   "kurs": 105.5,
    "vortag": 106.6500015258789,
-   "veraenderung_pct": -0.9751532120465867,
+   "veraenderung_pct": -1.078294898664256,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.279999,
     104.720001,
     106.650002,
-    105.610001
+    105.5
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83561.640625,
+   "kurs": 83640.5390625,
    "vortag": 83679.46875,
-   "veraenderung_pct": -0.14080888270457947,
+   "veraenderung_pct": -0.04652238844430334,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82546.320312,
     82912.226562,
     83679.46875,
-    83561.640625
+    83640.539062
    ]
   }
  ],
@@ -374,6 +374,22 @@
   ],
   "artikel": [
    {
+    "titel": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
+    "link": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
+    "zeit": "2026-10-13T06:20:55+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Robert E. Hall und Michael Woodford erhalten den Wirtschaftsnobelpreis",
+    "link": "https://www.nzz.ch/wirtschaft/die-traeger-des-wirtschaftsnobelpreises-heissen-robert-e-hall-und-michael-woodford-ld.10031542",
+    "zeit": "2026-10-13T06:11:47+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
     "link": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
     "zeit": "2026-10-13T05:24:17+00:00",
@@ -502,14 +518,6 @@
     "sprache": "en"
    },
    {
-    "titel": "GM CEO: We're making leaps and bounds toward 'eyes-off, hands-off' driving",
-    "link": "https://www.cnbc.com/2026/10/12/cramer-gm-eyes-off-driving-2028.html",
-    "zeit": "2026-10-13T00:24:23+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Nobelpreis 2026 – Wirtschaftsnobelpreis geht an Michael Woodford und Robert E. Hall",
     "link": "https://www.srf.ch/news/international/nobelpreis-2026-wirtschaftsnobelpreis-geht-an-michael-woodford-und-robert-e-hall",
     "zeit": "2026-10-12T15:59:08+00:00",
@@ -521,14 +529,6 @@
     "titel": "Die EU begrenzt chinesische Autoimporte, für die Konsumenten könnte es teurer werden",
     "link": "https://www.nzz.ch/wirtschaft/die-eu-begrenzt-chinesische-autoimporte-fuer-die-konsumenten-koennte-es-teurer-werden-ld.10031688",
     "zeit": "2026-10-12T15:28:46+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Die zwei amerikanischen Professoren Robert E. Hall und Michael Woodford erhalten den Wirtschaftsnobelpreis",
-    "link": "https://www.nzz.ch/wirtschaft/die-traeger-des-wirtschaftsnobelpreises-heissen-robert-e-hall-und-michael-woodford-ld.10031542",
-    "zeit": "2026-10-12T14:52:46+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
@@ -546,6 +546,14 @@
     "link": "https://www.nzz.ch/wirtschaft/gemeinsame-aufgabe-der-vw-chef-beschwoert-den-zusammenhalt-zur-rettung-der-europaeischen-industrie-ld.10031424",
     "zeit": "2026-10-12T12:52:03+00:00",
     "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Cofra holt ehemaligen Unilever-Finanzchef an die Spitze",
+    "link": "https://www.finews.ch/news/finanzplatz/73936-cofra-henry-schirmer-neuer-cfo-randstad-florian-brenninkmeyer",
+    "zeit": "2026-10-12T12:32:40+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -633,14 +641,6 @@
     "titel": "John Bailer: «Wir mögen langweilige Unternehmen»",
     "link": "https://www.finews.ch/news/finanzplatz/73926-john-bailer-bny-investments-us-aktien-dividenden-regionalbanken-ki-bewertungen",
     "zeit": "2026-10-12T03:35:46+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "BNP Paribas macht ETFs zum Wachstumstreiber",
-    "link": "https://www.finews.ch/news/banken/73924-bnp-paribas-etf-offensive-100-milliarden-axa-asset-management-schweiz",
-    "zeit": "2026-10-12T02:27:16+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
