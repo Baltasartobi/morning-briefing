@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-13T13:22:11+02:00",
+ "aktualisiert": "2026-10-13T13:52:02+02:00",
  "kernaussagen": [
-  "SMI +1.01%, Nikkei 225 −1.82% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9313 (−0.11%)",
-  "Bitcoin +1.85% auf 83'277 USD · Brent über 100 USD"
+  "SMI +1.08%, Nikkei 225 −1.82% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9314 (−0.09%)",
+  "Bitcoin +1.85% auf 83'273 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14018.349609375,
+   "kurs": 14027.6396484375,
    "vortag": 13877.83984375,
-   "veraenderung_pct": 1.0124757686138075,
+   "veraenderung_pct": 1.0794173039470722,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13637.0,
     13787.400391,
     13877.839844,
-    14018.349609
+    14027.639648
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25344.330078125,
+   "kurs": 25340.619140625,
    "vortag": 25277.6796875,
-   "veraenderung_pct": 0.2636728981812331,
+   "veraenderung_pct": 0.24899220934477828,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     24806.970703,
     25087.269531,
     25277.679688,
-    25344.330078
+    25340.619141
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6192.83984375,
+   "kurs": 6197.93017578125,
    "vortag": 6201.2099609375,
-   "veraenderung_pct": -0.13497554896907404,
+   "veraenderung_pct": -0.05288943894675713,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6126.72998,
     6173.370117,
     6201.209961,
-    6192.839844
+    6197.930176
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9312599897384644,
+   "kurs": 0.931439995765686,
    "vortag": 0.9322699904441833,
-   "veraenderung_pct": -0.10833779013285083,
+   "veraenderung_pct": -0.08902943213927594,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93652,
     0.93302,
     0.93227,
-    0.93126
+    0.93144
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8323900103569031,
+   "kurs": 0.8325200080871582,
    "vortag": 0.8313800096511841,
-   "veraenderung_pct": 0.12148484375307245,
+   "veraenderung_pct": 0.1371212228752583,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83218,
     0.83298,
     0.83138,
-    0.83239
+    0.83252
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4209.60009765625,
+   "kurs": 4209.5,
    "vortag": 4190.60009765625,
-   "veraenderung_pct": 0.45339568456141954,
+   "veraenderung_pct": 0.4510070611204453,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4157.0,
     4216.299805,
     4190.600098,
-    4209.600098
+    4209.5
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.69999694824219,
+   "kurs": 104.80999755859375,
    "vortag": 106.6500015258789,
-   "veraenderung_pct": -1.828414955215496,
+   "veraenderung_pct": -1.7252732685978156,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.279999,
     104.720001,
     106.650002,
-    104.699997
+    104.809998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83276.6171875,
+   "kurs": 83273.140625,
    "vortag": 81762.5625,
-   "veraenderung_pct": 1.8517701026065536,
+   "veraenderung_pct": 1.8475180801726943,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82912.226562,
     83679.46875,
     81762.5625,
-    83276.617188
+    83273.140625
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 77.44000244140625,
+   "kurs": 77.62999725341797,
    "vortag": 76.04000091552734,
-   "veraenderung_pct": 1.8411382285938638,
+   "veraenderung_pct": 2.0909998931443408,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     75.559998,
     76.0,
     76.040001,
-    77.440002
+    77.629997
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 121.45999908447266,
+   "kurs": 121.27999877929688,
    "vortag": 119.0999984741211,
-   "veraenderung_pct": 1.9815286654805142,
+   "veraenderung_pct": 1.8303949060498592,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     120.019997,
     117.720001,
     119.099998,
-    121.459999
+    121.279999
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 365.20001220703125,
+   "kurs": 364.1000061035156,
    "vortag": 357.79998779296875,
-   "veraenderung_pct": 2.068201416022486,
+   "veraenderung_pct": 1.7607653788384692,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     360.0,
     352.700012,
     357.799988,
-    365.200012
+    364.100006
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.04999923706055,
+   "kurs": 40.58000183105469,
    "vortag": 39.900001525878906,
-   "veraenderung_pct": 0.37593409886049756,
+   "veraenderung_pct": 1.7042613513053029,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.330002,
     38.830002,
     39.900002,
-    40.049999
+    40.580002
    ]
   }
  ],
@@ -373,6 +373,22 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "Micron, SoftBank and ASML slide as Wall Street chip rout spreads",
+    "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+    "zeit": "2026-10-13T11:47:25+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "French supermarket fridges get hacked, heating to 122°F and sparking fires",
+    "link": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html",
+    "zeit": "2026-10-13T11:26:07+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
    {
     "titel": "Frankreich wird zum wirtschaftlichen und politischen Krisenherd: Droht anderen Ländern der Euro-Zone eine Ansteckung?",
     "link": "https://www.nzz.ch/wirtschaft/frankreich-wird-zum-wirtschaftlichen-und-politischen-krisenherd-droht-anderen-laendern-der-euro-zone-eine-ansteckung-ld.10032455",
@@ -430,25 +446,9 @@
     "sprache": "en"
    },
    {
-    "titel": "French supermarket fridges get hacked, heating to 122°F and sparking fires",
-    "link": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html",
-    "zeit": "2026-10-13T09:03:46+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "SpaceX agrees to testify to NYC Council about AI safety after receiving subpoena",
     "link": "https://www.cnbc.com/2026/10/13/spacex-agrees-to-testify-to-nyc-council-about-ai-safety-.html",
     "zeit": "2026-10-13T09:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Micron, SoftBank and ASML slide as Wall Street chip rout spreads",
-    "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
-    "zeit": "2026-10-13T08:56:10+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
