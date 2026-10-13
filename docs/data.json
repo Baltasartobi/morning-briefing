@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-13T15:56:21+02:00",
+ "aktualisiert": "2026-10-13T16:24:09+02:00",
  "kernaussagen": [
-  "SMI +0.74%, Nikkei 225 −1.82% am schwächsten",
+  "SMI +0.44%, Nikkei 225 −1.82% am schwächsten",
   "Franken stabil: EUR/CHF 0.9320 (−0.03%)",
-  "Bitcoin +1.71% auf 83'159 USD · Brent über 100 USD"
+  "Bitcoin +2.20% auf 83'558 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13980.76953125,
+   "kurs": 13938.9697265625,
    "vortag": 13877.83984375,
-   "veraenderung_pct": 0.7416837826266898,
+   "veraenderung_pct": 0.4404855762911053,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13637.0,
     13787.400391,
     13877.839844,
-    13980.769531
+    13938.969727
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25351.7109375,
+   "kurs": 25284.669921875,
    "vortag": 25277.6796875,
-   "veraenderung_pct": 0.2928720156091247,
+   "veraenderung_pct": 0.027653781760905716,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     24806.970703,
     25087.269531,
     25277.679688,
-    25351.710938
+    25284.669922
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6194.08984375,
+   "kurs": 6173.35009765625,
    "vortag": 6201.2099609375,
-   "veraenderung_pct": -0.11481819245519054,
+   "veraenderung_pct": -0.44926495727034554,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6126.72998,
     6173.370117,
     6201.209961,
-    6194.089844
+    6173.350098
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7808.7099609375,
+   "kurs": 7801.89013671875,
    "vortag": 7807.240234375,
-   "veraenderung_pct": 0.018825174048431315,
+   "veraenderung_pct": -0.06852738606266673,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7765.359863,
     7811.540039,
     7807.240234,
-    7808.709961
+    7801.890137
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27248.83203125,
+   "kurs": 27226.541015625,
    "vortag": 27245.900390625,
-   "veraenderung_pct": 0.010759932991644128,
+   "veraenderung_pct": -0.07105426769695722,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27193.339844,
     27366.169922,
     27245.900391,
-    27248.832031
+    27226.541016
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9320200085639954,
+   "kurs": 0.9320300221443176,
    "vortag": 0.9322699904441833,
-   "veraenderung_pct": -0.02681432232618519,
+   "veraenderung_pct": -0.02574021499408552,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93652,
     0.93302,
     0.93227,
-    0.93202
+    0.93203
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8313800096511841,
-   "vortag": 0.8329799771308899,
-   "veraenderung_pct": -0.19207754371440844,
-   "datum": "2026-10-09",
-   "ist_heute": false,
+   "kurs": 0.8328999876976013,
+   "vortag": 0.8313800096511841,
+   "veraenderung_pct": 0.18282590737959126,
+   "datum": "2026-10-13",
+   "ist_heute": true,
    "verlauf": [
-    0.82811,
     0.83112,
     0.83218,
     0.83298,
-    0.83138
+    0.83138,
+    0.8329
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4202.7998046875,
+   "kurs": 4194.0,
    "vortag": 4190.60009765625,
-   "veraenderung_pct": 0.2911207642569691,
+   "veraenderung_pct": 0.08113163424139369,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4157.0,
     4216.299805,
     4190.600098,
-    4202.799805
+    4194.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.29000091552734,
+   "kurs": 105.87000274658203,
    "vortag": 106.6500015258789,
-   "veraenderung_pct": -1.27519980393207,
+   "veraenderung_pct": -0.7313631206161797,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.279999,
     104.720001,
     106.650002,
-    105.290001
+    105.870003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83159.4296875,
+   "kurs": 83558.28125,
    "vortag": 81762.5625,
-   "veraenderung_pct": 1.7084435037123535,
+   "veraenderung_pct": 2.196260360602076,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82912.226562,
     83679.46875,
     81762.5625,
-    83159.429688
+    83558.28125
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.204,
+   "wert": 5.223,
    "vortag": 5.24,
-   "veraenderung_bp": -3.6,
+   "veraenderung_bp": -1.7,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.231,
     5.244,
     5.24,
-    5.204
+    5.223
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 77.56999969482422,
+   "kurs": 77.58000183105469,
    "vortag": 76.04000091552734,
-   "veraenderung_pct": 2.0120972657490466,
+   "veraenderung_pct": 2.025251048113641,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     75.559998,
     76.0,
     76.040001,
-    77.57
+    77.580002
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 120.30000305175781,
+   "kurs": 119.63999938964844,
    "vortag": 119.0999984741211,
-   "veraenderung_pct": 1.0075605314952663,
+   "veraenderung_pct": 0.45340127829194277,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     120.019997,
     117.720001,
     119.099998,
-    120.300003
+    119.639999
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 360.79998779296875,
+   "kurs": 360.70001220703125,
    "vortag": 357.79998779296875,
-   "veraenderung_pct": 0.8384572672863966,
+   "veraenderung_pct": 0.8105155150929022,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     360.0,
     352.700012,
     357.799988,
-    360.799988
+    360.700012
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.5,
+   "kurs": 39.939998626708984,
    "vortag": 39.900001525878906,
-   "veraenderung_pct": 1.5037555167308314,
+   "veraenderung_pct": 0.10024335664282624,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.330002,
     38.830002,
     39.900002,
-    40.5
+    39.939999
    ]
   }
  ],
@@ -373,6 +373,22 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "White House has asked Ambassador Kimberly Guilfoyle to resign, new Trump press secretary says",
+    "link": "https://www.cnbc.com/2026/10/13/kimberly-guilfoyle-resign-trump-ambassador.html",
+    "zeit": "2026-10-13T14:20:08+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "More homebuyers are taking a chance on adjustable-rate mortgages, hoping rates will fall—here’s how to think about that bet",
+    "link": "https://www.cnbc.com/make-it/2026/10/13/adjustable-rate-mortgage-arm-risks.html",
+    "zeit": "2026-10-13T14:00:02+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
    {
     "titel": "Micron, Seagate, Western Digital sink as chip sell-off deepens",
     "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
@@ -441,22 +457,6 @@
     "titel": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
     "link": "https://www.cnbc.com/investingclub/2026/10/13/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
     "zeit": "2026-10-13T12:54:50+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Why this little known Chinese chipmaker has caused a global stock rout",
-    "link": "https://www.cnbc.com/2026/10/13/cxmt-memory-chip-stock-rout.html",
-    "zeit": "2026-10-13T12:41:56+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "French supermarket fridges get hacked, heating to 122°F and sparking fires",
-    "link": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html",
-    "zeit": "2026-10-13T12:22:59+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
