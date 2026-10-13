@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-13T10:23:48+02:00",
+ "aktualisiert": "2026-10-13T10:53:16+02:00",
  "kernaussagen": [
-  "SMI +1.10%, Nikkei 225 −1.82% am schwächsten",
-  "Franken stabil: EUR/CHF 0.9319 (−0.04%)",
-  "Bitcoin +2.62% auf 83'905 USD · Brent über 100 USD"
+  "SMI +1.28%, Nikkei 225 −1.82% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9323 (−0.08%)",
+  "Bitcoin +2.15% auf 83'518 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14030.919921875,
+   "kurs": 14055.830078125,
    "vortag": 13877.83984375,
-   "veraenderung_pct": 1.1030540764882968,
+   "veraenderung_pct": 1.2825499961015785,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13637.0,
     13787.400391,
     13877.839844,
-    14030.919922
+    14055.830078
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25400.9296875,
+   "kurs": 25401.51953125,
    "vortag": 25277.6796875,
-   "veraenderung_pct": 0.48758430965065713,
+   "veraenderung_pct": 0.48991776650781915,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     24806.970703,
     25087.269531,
     25277.679688,
-    25400.929688
+    25401.519531
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6212.1201171875,
+   "kurs": 6216.009765625,
    "vortag": 6201.2099609375,
-   "veraenderung_pct": 0.17593592732265684,
+   "veraenderung_pct": 0.23865995153731223,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6126.72998,
     6173.370117,
     6201.209961,
-    6212.120117
+    6216.009766
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9319199919700623,
-   "vortag": 0.9322699904441833,
-   "veraenderung_pct": -0.03754260865507231,
-   "datum": "2026-10-13",
-   "ist_heute": true,
+   "kurs": 0.9322699904441833,
+   "vortag": 0.9330199956893921,
+   "veraenderung_pct": -0.08038469150434269,
+   "datum": "2026-10-09",
+   "ist_heute": false,
    "verlauf": [
+    0.93193,
     0.93248,
     0.93652,
     0.93302,
-    0.93227,
-    0.93192
+    0.93227
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.833079993724823,
+   "kurs": 0.8330900073051453,
    "vortag": 0.8313800096511841,
-   "veraenderung_pct": 0.20447738145064065,
+   "veraenderung_pct": 0.20568183431288745,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83218,
     0.83298,
     0.83138,
-    0.83308
+    0.83309
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4214.0,
+   "kurs": 4212.60009765625,
    "vortag": 4190.60009765625,
-   "veraenderung_pct": 0.5583902495692072,
+   "veraenderung_pct": 0.5249844768605794,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4157.0,
     4216.299805,
     4190.600098,
-    4214.0
+    4212.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.0199966430664,
+   "kurs": 105.05000305175781,
    "vortag": 106.6500015258789,
-   "veraenderung_pct": -1.5283683633300016,
+   "veraenderung_pct": -1.5002329594274277,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.279999,
     104.720001,
     106.650002,
-    105.019997
+    105.050003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83905.34375,
+   "kurs": 83518.34375,
    "vortag": 81762.5625,
-   "veraenderung_pct": 2.6207364158871593,
+   "veraenderung_pct": 2.1474146556989426,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82912.226562,
     83679.46875,
     81762.5625,
-    83905.34375
+    83518.34375
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 77.13999938964844,
+   "kurs": 77.2300033569336,
    "vortag": 76.04000091552734,
-   "veraenderung_pct": 1.4466050248251205,
+   "veraenderung_pct": 1.5649689993142202,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     75.559998,
     76.0,
     76.040001,
-    77.139999
+    77.230003
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 121.55999755859375,
+   "kurs": 121.80000305175781,
    "vortag": 119.0999984741211,
-   "veraenderung_pct": 2.0654904416368858,
+   "veraenderung_pct": 2.2670063914596916,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     120.019997,
     117.720001,
     119.099998,
-    121.559998
+    121.800003
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.27000045776367,
+   "kurs": 40.29999923706055,
    "vortag": 39.900001525878906,
-   "veraenderung_pct": 0.9273155832958624,
+   "veraenderung_pct": 1.0025004909390844,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.330002,
     38.830002,
     39.900002,
-    40.27
+    40.299999
    ]
   }
  ],
@@ -374,9 +374,9 @@
   ],
   "artikel": [
    {
-    "titel": "Cyberattack hits hundreds of French supermarkets, heating fridges to 122°F and sparking fires",
-    "link": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html",
-    "zeit": "2026-10-13T08:21:06+00:00",
+    "titel": "In charts: How one of the world's biggest economies got trapped by debt",
+    "link": "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html",
+    "zeit": "2026-10-13T08:45:40+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,7 +384,7 @@
    {
     "titel": "Micron, SoftBank and ASML slide as Wall Street chip rout spreads",
     "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
-    "zeit": "2026-10-13T08:14:01+00:00",
+    "zeit": "2026-10-13T08:42:55+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -392,14 +392,30 @@
    {
     "titel": "U.S. Treasury yields fall as energy prices pull back",
     "link": "https://www.cnbc.com/2026/10/13/us-treasurys-bonds-yields.html",
-    "zeit": "2026-10-13T07:58:17+00:00",
+    "zeit": "2026-10-13T08:31:37+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Milchschwemme in der Schweiz – Winterfutter im Sommer – deshalb gaben die Kühe mehr Milch",
-    "link": "https://www.srf.ch/news/wirtschaft/milchschwemme-in-der-schweiz-winterfutter-im-sommer-deshalb-gaben-die-kuehe-mehr-milch",
+    "titel": "Cyberattack hits hundreds of French supermarkets, heating fridges to 122°F and sparking fires",
+    "link": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html",
+    "zeit": "2026-10-13T08:28:59+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Anthropic warns AI models could soon copy themselves across home devices",
+    "link": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html",
+    "zeit": "2026-10-13T08:27:20+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Milchschwemme in der Schweiz – Warum die Kühe in der Schweiz mehr Milch geben",
+    "link": "https://www.srf.ch/news/wirtschaft/milchschwemme-in-der-schweiz-warum-die-kuehe-in-der-schweiz-mehr-milch-geben",
     "zeit": "2026-10-13T07:53:37+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
@@ -438,6 +454,14 @@
     "sprache": "de"
    },
    {
+    "titel": "Suva korrigiert noch jede zehnte Rechnung",
+    "link": "https://www.finews.ch/news/versicherungen/73946-schweizerische-unfallversicherungsanstalt-suva-drei-millionen-arztrechnungen-kontrolliert-300-000-korrigieren-lassen-ausbezahlte-leistungen-steigen",
+    "zeit": "2026-10-13T05:53:05+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
     "link": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
     "zeit": "2026-10-13T05:24:17+00:00",
@@ -460,22 +484,6 @@
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "IMF sees milder global slowdown as AI boom offsets war hit — warns resilience is nearing limits",
-    "link": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
-    "zeit": "2026-10-13T04:10:49+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
-    "link": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html",
-    "zeit": "2026-10-13T03:49:23+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Muss man sich bei Wohnungsbesichtigungen bald weniger drängeln?",
@@ -633,14 +641,6 @@
     "titel": "Schweizer Banken wollen ihre Kernbankensysteme plötzlich behalten",
     "link": "https://www.finews.ch/news/banken/73931-schweizer-banken-kernbankensoftware-ersetzen-zwei-drittel-auch-in-zehn-jahren-am-bisherigen-system-festhalten-hslu-studie",
     "zeit": "2026-10-12T05:38:10+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Maiestas stärkt Schweizer Unternehmergeschäft mit neuem Leiter",
-    "link": "https://www.finews.ch/news/finanzplatz/73930-maiestas-asset-management-ag-in-vaduz-christian-reinhardt-head-entrepreneurs-executives-desk",
-    "zeit": "2026-10-12T04:43:03+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
