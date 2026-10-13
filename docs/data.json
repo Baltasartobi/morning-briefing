@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-13T21:02:35+02:00",
+ "aktualisiert": "2026-10-13T21:34:11+02:00",
  "kernaussagen": [
   "SMI +0.36%, Euro Stoxx 50 −0.55% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9323 (−0.08%)",
-  "Bitcoin +1.67% auf 83'130 USD · Brent über 100 USD"
+  "Franken stabil: EUR/CHF 0.9324 (+0.01%)",
+  "Bitcoin +1.73% auf 83'181 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7803.77978515625,
+   "kurs": 7811.43994140625,
    "vortag": 7807.240234375,
-   "veraenderung_pct": -0.04432359085754234,
+   "veraenderung_pct": 0.053792465777591225,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7765.359863,
     7811.540039,
     7807.240234,
-    7803.779785
+    7811.439941
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27194.744140625,
+   "kurs": 27222.263671875,
    "vortag": 27245.900390625,
-   "veraenderung_pct": -0.1877576048747609,
+   "veraenderung_pct": -0.08675330384064761,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27193.339844,
     27366.169922,
     27245.900391,
-    27194.744141
+    27222.263672
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9322699904441833,
-   "vortag": 0.9330199956893921,
-   "veraenderung_pct": -0.08038469150434269,
-   "datum": "2026-10-09",
-   "ist_heute": false,
+   "kurs": 0.9323899745941162,
+   "vortag": 0.9322699904441833,
+   "veraenderung_pct": 0.01287010749704276,
+   "datum": "2026-10-13",
+   "ist_heute": true,
    "verlauf": [
-    0.93193,
     0.93248,
     0.93652,
     0.93302,
-    0.93227
+    0.93227,
+    0.93239
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8325700163841248,
+   "kurs": 0.8325200080871582,
    "vortag": 0.8313800096511841,
-   "veraenderung_pct": 0.14313631782414404,
+   "veraenderung_pct": 0.1371212228752583,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83218,
     0.83298,
     0.83138,
-    0.83257
+    0.83252
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4186.39990234375,
+   "kurs": 4185.0,
    "vortag": 4190.60009765625,
-   "veraenderung_pct": -0.1002289699475023,
+   "veraenderung_pct": -0.13363474265611908,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4157.0,
     4216.299805,
     4190.600098,
-    4186.399902
+    4185.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.7300033569336,
+   "kurs": 105.93000030517578,
    "vortag": 106.6500015258789,
-   "veraenderung_pct": -0.8626330574613927,
+   "veraenderung_pct": -0.6751066201611033,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.279999,
     104.720001,
     106.650002,
-    105.730003
+    105.93
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83130.4296875,
+   "kurs": 83181.0,
    "vortag": 81762.5625,
-   "veraenderung_pct": 1.6729749480393297,
+   "veraenderung_pct": 1.7348251530154846,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82912.226562,
     83679.46875,
     81762.5625,
-    83130.429688
+    83181.0
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.223,
+   "wert": 5.217,
    "vortag": 5.24,
-   "veraenderung_bp": -1.7,
+   "veraenderung_bp": -2.3,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.231,
     5.244,
     5.24,
-    5.223
+    5.217
    ]
   }
  ],
@@ -374,6 +374,38 @@
   ],
   "artikel": [
    {
+    "titel": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
+    "link": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html",
+    "zeit": "2026-10-13T19:23:39+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market",
+    "link": "https://www.cnbc.com/2026/10/13/paul-tudor-jones-2027-really-challenging-year.html",
+    "zeit": "2026-10-13T19:21:27+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Michael Dell says AI needs safeguards and controls, and government has a role to play",
+    "link": "https://www.cnbc.com/2026/10/13/michael-dell-ai-safeguards-government.html",
+    "zeit": "2026-10-13T19:08:28+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Glasfasernetzausbau: Swisscom gewinnt Streit vor Bundesverwaltungsgericht",
+    "link": "https://www.nzz.ch/wirtschaft/glasfasernetz-ausbau-swisscom-gewinnt-streit-vor-bundesverwaltungsgericht-ld.10033013",
+    "zeit": "2026-10-13T19:00:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Meta shares rise for a second straight day as new AI model family impresses",
     "link": "https://www.cnbc.com/investingclub/2026/10/13/meta-shares-rise-for-a-second-straight-day-as-new-ai-model-family-impresses.html",
     "zeit": "2026-10-13T18:55:33+00:00",
@@ -430,36 +462,12 @@
     "sprache": "en"
    },
    {
-    "titel": "The latest inflation data is expected to show price increases are accelerating",
-    "link": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html",
-    "zeit": "2026-10-13T18:05:57+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Autosalon Paris – Europa stemmt sich gegen die Flut chinesischer Autos",
     "link": "https://www.srf.ch/news/wirtschaft/autosalon-paris-europa-stemmt-sich-gegen-die-flut-chinesischer-autos",
     "zeit": "2026-10-13T17:00:58+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
-    "link": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html",
-    "zeit": "2026-10-13T16:52:27+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "The AI trade is cracking. Here's how to profit",
-    "link": "https://www.cnbc.com/2026/10/13/the-ai-trade-is-cracking-heres-how-to-profit.html",
-    "zeit": "2026-10-13T16:44:21+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Prognosen des IWF – Wieso die Weltwirtschaft trotz allem wächst",
@@ -634,14 +642,6 @@
     "link": "https://www.srf.ch/news/international/nobelpreis-2026-wirtschaftsnobelpreis-geht-an-michael-woodford-und-robert-e-hall",
     "zeit": "2026-10-12T15:59:08+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Die EU begrenzt chinesische Autoimporte, für die Konsumenten könnte es teurer werden",
-    "link": "https://www.nzz.ch/wirtschaft/die-eu-begrenzt-chinesische-autoimporte-fuer-die-konsumenten-koennte-es-teurer-werden-ld.10031688",
-    "zeit": "2026-10-12T15:28:46+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
