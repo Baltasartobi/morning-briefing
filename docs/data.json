@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-13T06:53:55+02:00",
+ "aktualisiert": "2026-10-13T07:21:46+02:00",
  "kernaussagen": [
-  "SMI +0.66%, Nikkei 225 −2.14% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9308 (−0.16%)",
-  "Brent über 100 USD: 105.39 (−1.18%)"
+  "SMI +0.66%, Nikkei 225 −2.07% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9310 (−0.14%)",
+  "Brent über 100 USD: 105.51 (−1.07%)"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 67554.2890625,
+   "kurs": 67603.171875,
    "vortag": 69030.921875,
-   "veraenderung_pct": -2.1390889363666066,
+   "veraenderung_pct": -2.068276014892778,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     70035.710938,
     69042.109375,
     69030.921875,
-    67554.289062
+    67603.171875
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9307699799537659,
+   "kurs": 0.9309999942779541,
    "vortag": 0.9322699904441833,
-   "veraenderung_pct": -0.16089872094915414,
+   "veraenderung_pct": -0.1362262197911357,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93652,
     0.93302,
     0.93227,
-    0.93077
+    0.931
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8313800096511841,
-   "vortag": 0.8329799771308899,
-   "veraenderung_pct": -0.19207754371440844,
-   "datum": "2026-10-09",
-   "ist_heute": false,
+   "kurs": 0.8331999778747559,
+   "vortag": 0.8313800096511841,
+   "veraenderung_pct": 0.2189093077106019,
+   "datum": "2026-10-13",
+   "ist_heute": true,
    "verlauf": [
-    0.82811,
     0.83112,
     0.83218,
     0.83298,
-    0.83138
+    0.83138,
+    0.8332
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4218.2001953125,
+   "kurs": 4222.89990234375,
    "vortag": 4190.60009765625,
-   "veraenderung_pct": 0.6586192195167095,
+   "veraenderung_pct": 0.7707680030257347,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4157.0,
     4216.299805,
     4190.600098,
-    4218.200195
+    4222.899902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.38999938964844,
+   "kurs": 105.51000213623047,
    "vortag": 106.6500015258789,
-   "veraenderung_pct": -1.1814365852819253,
+   "veraenderung_pct": -1.0689164306967314,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.279999,
     104.720001,
     106.650002,
-    105.389999
+    105.510002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83363.421875,
+   "kurs": 83573.609375,
    "vortag": 83679.46875,
-   "veraenderung_pct": -0.3776874778498196,
+   "veraenderung_pct": -0.12650579237812876,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82546.320312,
     82912.226562,
     83679.46875,
-    83363.421875
+    83573.609375
    ]
   }
  ],
@@ -374,6 +374,22 @@
   ],
   "artikel": [
    {
+    "titel": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
+    "link": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
+    "zeit": "2026-10-13T05:19:45+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
+    "link": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
+    "zeit": "2026-10-13T04:54:07+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
     "link": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html",
     "zeit": "2026-10-13T03:49:23+00:00",
@@ -422,12 +438,12 @@
     "sprache": "de"
    },
    {
-    "titel": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
-    "link": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
-    "zeit": "2026-10-13T03:19:43+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "UBS-Urgestein geht in Pension",
+    "link": "https://www.finews.ch/news/banken/73941-ubs-claudio-scarfone-pensionierung-finanzintermediaere-vermoegensverwalter",
+    "zeit": "2026-10-13T03:07:34+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
@@ -489,14 +505,6 @@
     "titel": "GM CEO: We're making leaps and bounds toward 'eyes-off, hands-off' driving",
     "link": "https://www.cnbc.com/2026/10/12/cramer-gm-eyes-off-driving-2028.html",
     "zeit": "2026-10-13T00:24:23+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "CNBC's The China Connection newsletter: How a gold-buying spree helps the yuan go global",
-    "link": "https://www.cnbc.com/2026/10/12/cnbc-china-connection-newsletter-gold-purchases-yuan-globalization.html",
-    "zeit": "2026-10-12T23:00:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -682,14 +690,6 @@
     "link": "https://www.srf.ch/news/schweiz/online-marktplatz-gehackt-keine-erpressung-ricardo-meldet-datenleck-bei-890-000-konten",
     "zeit": "2026-10-09T14:19:32+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Zürcher Techunternehmen wird zum Maschinenraum der Banken-KI",
-    "link": "https://www.finews.ch/news/banken/73923-phoeniqs-schweiz-ki-infrastruktur-banken-datensicherheit-digitale-souveraenitaet",
-    "zeit": "2026-10-09T11:06:46+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    }
