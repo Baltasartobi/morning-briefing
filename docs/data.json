@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-13T08:27:57+02:00",
+ "aktualisiert": "2026-10-13T09:01:04+02:00",
  "kernaussagen": [
   "SMI +0.66%, Nikkei 225 −1.82% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9308 (−0.16%)",
-  "Brent über 100 USD: 105.50 (−1.08%)"
+  "Franken stärker: EUR/CHF 0.9310 (−0.13%)",
+  "Brent über 100 USD: 105.40 (−1.17%)"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 67775.421875,
+   "kurs": 67777.5234375,
    "vortag": 69030.921875,
-   "veraenderung_pct": -1.8187501570288145,
+   "veraenderung_pct": -1.8157057785924247,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     70035.710938,
     69042.109375,
     69030.921875,
-    67775.421875
+    67777.523438
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9308099746704102,
+   "kurs": 0.9310200214385986,
    "vortag": 0.9322699904441833,
-   "veraenderung_pct": -0.15660868511679915,
+   "veraenderung_pct": -0.13407800512694745,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93652,
     0.93302,
     0.93227,
-    0.93081
+    0.93102
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8331699967384338,
-   "vortag": 0.8313800096511841,
-   "veraenderung_pct": 0.21530311848618755,
-   "datum": "2026-10-13",
-   "ist_heute": true,
+   "kurs": 0.8313800096511841,
+   "vortag": 0.8329799771308899,
+   "veraenderung_pct": -0.19207754371440844,
+   "datum": "2026-10-09",
+   "ist_heute": false,
    "verlauf": [
+    0.82811,
     0.83112,
     0.83218,
     0.83298,
-    0.83138,
-    0.83317
+    0.83138
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4211.5,
+   "kurs": 4214.0,
    "vortag": 4190.60009765625,
-   "veraenderung_pct": 0.4987329226532333,
+   "veraenderung_pct": 0.5583902495692072,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4157.0,
     4216.299805,
     4190.600098,
-    4211.5
+    4214.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.5,
+   "kurs": 105.4000015258789,
    "vortag": 106.6500015258789,
-   "veraenderung_pct": -1.078294898664256,
+   "veraenderung_pct": -1.1720581173144007,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.279999,
     104.720001,
     106.650002,
-    105.5
+    105.400002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83640.5390625,
+   "kurs": 83674.9296875,
    "vortag": 83679.46875,
-   "veraenderung_pct": -0.04652238844430334,
+   "veraenderung_pct": -0.005424344307869422,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82546.320312,
     82912.226562,
     83679.46875,
-    83640.539062
+    83674.929688
    ]
   }
  ],
@@ -223,17 +223,17 @@
    "name": "Schweiz",
    "quelle": "snb",
    "verfuegbar": true,
-   "wert": 0.579,
-   "vortag": 0.566,
-   "veraenderung_bp": 1.3,
-   "datum": "2026-10-09",
+   "wert": 0.572,
+   "vortag": 0.579,
+   "veraenderung_bp": -0.7,
+   "datum": "2026-10-12",
    "ist_heute": false,
    "verlauf": [
-    0.556,
     0.55,
     0.558,
     0.566,
-    0.579
+    0.579,
+    0.572
    ]
   },
   {
@@ -374,6 +374,22 @@
   ],
   "artikel": [
    {
+    "titel": "As 'Cockroach' protests grow over alleged voter fraud, Modi defends India as ‘mother of democracy’",
+    "link": "https://www.cnbc.com/2026/10/13/cockroach-fraud-india-protest-modi.html",
+    "zeit": "2026-10-13T06:52:39+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
+    "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+    "zeit": "2026-10-13T06:46:15+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
     "link": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
     "zeit": "2026-10-13T06:20:55+00:00",
@@ -406,12 +422,28 @@
     "sprache": "en"
    },
    {
+    "titel": "Bank Syz engagiert zwei erfahrene Banker für die Führung",
+    "link": "https://www.finews.ch/news/banken/73945-privatbank-syz-marc-brodard-leitung-des-privatkundengeschaefts-martin-freiermuth-neuer-chief-operating-officer-geschaeftsleitung",
+    "zeit": "2026-10-13T04:38:27+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
     "link": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html",
     "zeit": "2026-10-13T03:49:23+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Muss man sich bei Wohnungsbesichtigungen bald weniger drängeln?",
+    "link": "https://www.finews.ch/news/finanzplatz/73943-immobilienbarometer-zkb-leerstandsziffer-immobilienpreise-wohneigentum-zwex-referenzzinssatz",
+    "zeit": "2026-10-13T03:41:53+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "KOMMENTAR - Die Nato bleibt die beste Annäherung an den «ewigen Frieden» in Europa, muss aber mehr Führung übernehmen",
@@ -470,14 +502,6 @@
     "sprache": "en"
    },
    {
-    "titel": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
-    "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
-    "zeit": "2026-10-13T02:49:17+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "MELDUNGEN WIRTSCHAFT - Währungsfonds blickt deutlich optimistischer auf deutsche Wirtschaft",
     "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldugen-ld.10025518",
     "zeit": "2026-10-13T02:39:24+00:00",
@@ -505,14 +529,6 @@
     "titel": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
     "link": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
     "zeit": "2026-10-13T01:26:41+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Singapore PM Wong rejects weaker currency as shortcut to competitiveness",
-    "link": "https://www.cnbc.com/2026/10/13/singapore-pm-wong-rejects-weakening-currency-for-competitiveness.html",
-    "zeit": "2026-10-13T00:39:36+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -622,26 +638,10 @@
     "sprache": "de"
    },
    {
-    "titel": "Leiter Portfoliomanagement wechselt nach 22 Jahren zu Vermögensverwalter",
-    "link": "https://www.finews.ch/news/banken/73928-nicolai-nussbaumer-rahn-bodmer-alpen-partners-starkes-wachstum-reorganisation-leiter-portfoliomanagement",
-    "zeit": "2026-10-12T03:54:25+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Hilfe für Schweizer Winzer – Weinhändler kritisiert Parmelins «Schnapsidee»",
     "link": "https://www.srf.ch/news/wirtschaft/hilfe-fuer-schweizer-winzer-weinhaendler-kritisiert-parmelins-schnapsidee",
     "zeit": "2026-10-12T03:41:51+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "John Bailer: «Wir mögen langweilige Unternehmen»",
-    "link": "https://www.finews.ch/news/finanzplatz/73926-john-bailer-bny-investments-us-aktien-dividenden-regionalbanken-ki-bewertungen",
-    "zeit": "2026-10-12T03:35:46+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
