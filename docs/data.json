@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-13T17:52:55+02:00",
+ "aktualisiert": "2026-10-13T18:22:40+02:00",
  "kernaussagen": [
   "SMI +0.36%, Euro Stoxx 50 −0.55% am schwächsten",
-  "Franken stabil: EUR/CHF 0.9320 (−0.03%)",
-  "Bitcoin +1.80% auf 83'238 USD · Brent über 100 USD"
+  "Franken stabil: EUR/CHF 0.9322 (−0.01%)",
+  "Bitcoin +2.12% auf 83'498 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7788.93994140625,
+   "kurs": 7797.75,
    "vortag": 7807.240234375,
-   "veraenderung_pct": -0.23440156085083874,
+   "veraenderung_pct": -0.12155683814127904,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7765.359863,
     7811.540039,
     7807.240234,
-    7788.939941
+    7797.75
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27152.787109375,
+   "kurs": 27206.548828125,
    "vortag": 27245.900390625,
-   "veraenderung_pct": -0.34175152927609087,
+   "veraenderung_pct": -0.144431132522016,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27193.339844,
     27366.169922,
     27245.900391,
-    27152.787109
+    27206.548828
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9320300221443176,
+   "kurs": 0.9322199821472168,
    "vortag": 0.9322699904441833,
-   "veraenderung_pct": -0.02574021499408552,
+   "veraenderung_pct": -0.005364143164443558,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93652,
     0.93302,
     0.93227,
-    0.93203
+    0.93222
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8313800096511841,
-   "vortag": 0.8329799771308899,
-   "veraenderung_pct": -0.19207754371440844,
-   "datum": "2026-10-09",
-   "ist_heute": false,
+   "kurs": 0.8328199982643127,
+   "vortag": 0.8313800096511841,
+   "veraenderung_pct": 0.17320462320626895,
+   "datum": "2026-10-13",
+   "ist_heute": true,
    "verlauf": [
-    0.82811,
     0.83112,
     0.83218,
     0.83298,
-    0.83138
+    0.83138,
+    0.83282
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4183.89990234375,
+   "kurs": 4182.0,
    "vortag": 4190.60009765625,
-   "veraenderung_pct": -0.15988629686347622,
+   "veraenderung_pct": -0.20522353495529,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4157.0,
     4216.299805,
     4190.600098,
-    4183.899902
+    4182.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 106.08999633789062,
+   "kurs": 105.58000183105469,
    "vortag": 106.6500015258789,
-   "veraenderung_pct": -0.5250869010558712,
+   "veraenderung_pct": -1.0032814622741304,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.279999,
     104.720001,
     106.650002,
-    106.089996
+    105.580002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83237.7890625,
+   "kurs": 83497.53125,
    "vortag": 81762.5625,
-   "veraenderung_pct": 1.8042812228395988,
+   "veraenderung_pct": 2.121959851735311,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82912.226562,
     83679.46875,
     81762.5625,
-    83237.789062
+    83497.53125
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.225,
+   "wert": 5.227,
    "vortag": 5.24,
-   "veraenderung_bp": -1.5,
+   "veraenderung_bp": -1.3,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.231,
     5.244,
     5.24,
-    5.225
+    5.227
    ]
   }
  ],
@@ -374,9 +374,41 @@
   ],
   "artikel": [
    {
+    "titel": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
+    "link": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html",
+    "zeit": "2026-10-13T16:10:14+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Jim Cramer bucks all the stock market negativity with 3 buy recommendations",
+    "link": "https://www.cnbc.com/investingclub/2026/10/13/jim-cramer-bucks-all-the-stock-market-negativity-with-3-buy-recommendations.html",
+    "zeit": "2026-10-13T16:07:20+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms",
+    "link": "https://www.cnbc.com/2026/10/13/iran-us-war-houthis-saudi-arabia-airport.html",
+    "zeit": "2026-10-13T15:57:46+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Kimberly Guilfoyle resigns as ambassador to Greece at White House's request",
+    "link": "https://www.cnbc.com/2026/10/13/kimberly-guilfoyle-resign-trump-ambassador.html",
+    "zeit": "2026-10-13T15:54:34+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market",
     "link": "https://www.cnbc.com/2026/10/13/paul-tudor-jones-2027-really-challenging-year.html",
-    "zeit": "2026-10-13T15:52:34+00:00",
+    "zeit": "2026-10-13T15:52:44+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -414,41 +446,9 @@
     "sprache": "en"
    },
    {
-    "titel": "We're adding to a consumer staples stock in advance of a big catalyst",
-    "link": "https://www.cnbc.com/investingclub/2026/10/13/were-adding-to-a-consumer-staples-stock-in-advance-of-a-big-catalyst.html",
-    "zeit": "2026-10-13T15:40:28+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Kimberly Guilfoyle resigns as ambassador to Greece at White House's request",
-    "link": "https://www.cnbc.com/2026/10/13/kimberly-guilfoyle-resign-trump-ambassador.html",
-    "zeit": "2026-10-13T15:32:23+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms",
-    "link": "https://www.cnbc.com/2026/10/13/iran-us-war-houthis-saudi-arabia-airport.html",
-    "zeit": "2026-10-13T15:24:50+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs",
     "link": "https://www.cnbc.com/2026/10/13/unitedhealth-group-unh-earnings-q3-2026.html",
     "zeit": "2026-10-13T15:04:35+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade",
-    "link": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html",
-    "zeit": "2026-10-13T14:55:51+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
