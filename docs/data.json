@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-13T09:01:04+02:00",
+ "aktualisiert": "2026-10-13T09:26:15+02:00",
  "kernaussagen": [
-  "SMI +0.66%, Nikkei 225 −1.82% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9310 (−0.13%)",
-  "Brent über 100 USD: 105.40 (−1.17%)"
+  "SMI +1.14%, Nikkei 225 −1.82% am schwächsten",
+  "Franken stabil: EUR/CHF 0.9324 (+0.01%)",
+  "Bitcoin +2.26% auf 83'614 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,17 +12,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13877.83984375,
-   "vortag": 13787.400390625,
-   "veraenderung_pct": 0.6559572549042381,
-   "datum": "2026-10-12",
-   "ist_heute": false,
+   "kurs": 14036.1201171875,
+   "vortag": 13877.83984375,
+   "veraenderung_pct": 1.1405252922614073,
+   "datum": "2026-10-13",
+   "ist_heute": true,
    "verlauf": [
-    13788.929688,
     13808.419922,
     13637.0,
     13787.400391,
-    13877.839844
+    13877.839844,
+    14036.120117
    ]
   },
   {
@@ -31,17 +31,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25277.6796875,
-   "vortag": 25087.26953125,
-   "veraenderung_pct": 0.7589911529144899,
-   "datum": "2026-10-12",
-   "ist_heute": false,
+   "kurs": 25334.01953125,
+   "vortag": 25277.6796875,
+   "veraenderung_pct": 0.22288376325085846,
+   "datum": "2026-10-13",
+   "ist_heute": true,
    "verlauf": [
-    25449.189453,
     25104.359375,
     24806.970703,
     25087.269531,
-    25277.679688
+    25277.679688,
+    25334.019531
    ]
   },
   {
@@ -50,17 +50,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6201.2099609375,
-   "vortag": 6173.3701171875,
-   "veraenderung_pct": 0.45096670411013395,
-   "datum": "2026-10-12",
-   "ist_heute": false,
+   "kurs": 6205.64990234375,
+   "vortag": 6201.2099609375,
+   "veraenderung_pct": 0.07159798546119145,
+   "datum": "2026-10-13",
+   "ist_heute": true,
    "verlauf": [
-    6272.22998,
     6180.290039,
     6126.72998,
     6173.370117,
-    6201.209961
+    6201.209961,
+    6205.649902
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9310200214385986,
+   "kurs": 0.9323999881744385,
    "vortag": 0.9322699904441833,
-   "veraenderung_pct": -0.13407800512694745,
+   "veraenderung_pct": 0.013944214829142432,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93652,
     0.93302,
     0.93227,
-    0.93102
+    0.9324
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8313800096511841,
-   "vortag": 0.8329799771308899,
-   "veraenderung_pct": -0.19207754371440844,
-   "datum": "2026-10-09",
-   "ist_heute": false,
+   "kurs": 0.8333100080490112,
+   "vortag": 0.8313800096511841,
+   "veraenderung_pct": 0.232143950470598,
+   "datum": "2026-10-13",
+   "ist_heute": true,
    "verlauf": [
-    0.82811,
     0.83112,
     0.83218,
     0.83298,
-    0.83138
+    0.83138,
+    0.83331
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4214.0,
+   "kurs": 4213.39990234375,
    "vortag": 4190.60009765625,
-   "veraenderung_pct": 0.5583902495692072,
+   "veraenderung_pct": 0.5440701607450471,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4157.0,
     4216.299805,
     4190.600098,
-    4214.0
+    4213.399902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.4000015258789,
+   "kurs": 105.31999969482422,
    "vortag": 106.6500015258789,
-   "veraenderung_pct": -1.1720581173144007,
+   "veraenderung_pct": -1.2470715537045374,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.279999,
     104.720001,
     106.650002,
-    105.400002
+    105.32
    ]
   },
   {
@@ -204,17 +204,17 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83674.9296875,
-   "vortag": 83679.46875,
-   "veraenderung_pct": -0.005424344307869422,
+   "kurs": 83614.4375,
+   "vortag": 81762.5625,
+   "veraenderung_pct": 2.264942466792186,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
-    81676.335938,
     82546.320312,
     82912.226562,
     83679.46875,
-    83674.929688
+    81762.5625,
+    83614.4375
    ]
   }
  ],
@@ -278,17 +278,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 76.04000091552734,
-   "vortag": 76.0,
-   "veraenderung_pct": 0.05263278358860202,
-   "datum": "2026-10-09",
-   "ist_heute": false,
+   "kurs": 77.63999938964844,
+   "vortag": 76.04000091552734,
+   "veraenderung_pct": 2.104153675508935,
+   "datum": "2026-10-13",
+   "ist_heute": true,
    "verlauf": [
-    74.480003,
     75.199997,
     75.559998,
     76.0,
-    76.040001
+    76.040001,
+    77.639999
    ]
   },
   {
@@ -297,17 +297,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 119.0999984741211,
-   "vortag": 117.72000122070312,
-   "veraenderung_pct": 1.1722708453177244,
-   "datum": "2026-10-09",
-   "ist_heute": false,
+   "kurs": 122.0,
+   "vortag": 119.0999984741211,
+   "veraenderung_pct": 2.434929943772457,
+   "datum": "2026-10-13",
+   "ist_heute": true,
    "verlauf": [
-    116.480003,
     117.18,
     120.019997,
     117.720001,
-    119.099998
+    119.099998,
+    122.0
    ]
   },
   {
@@ -316,17 +316,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 357.79998779296875,
-   "vortag": 352.70001220703125,
-   "veraenderung_pct": 1.4459811197692574,
-   "datum": "2026-10-09",
-   "ist_heute": false,
+   "kurs": 367.1000061035156,
+   "vortag": 357.79998779296875,
+   "veraenderung_pct": 2.5992226461248658,
+   "datum": "2026-10-13",
+   "ist_heute": true,
    "verlauf": [
-    348.899994,
     349.799988,
     360.0,
     352.700012,
-    357.799988
+    357.799988,
+    367.100006
    ]
   },
   {
@@ -335,17 +335,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.900001525878906,
-   "vortag": 38.83000183105469,
-   "veraenderung_pct": 2.755600423300719,
-   "datum": "2026-10-09",
-   "ist_heute": false,
+   "kurs": 40.130001068115234,
+   "vortag": 39.900001525878906,
+   "veraenderung_pct": 0.576439933434969,
+   "datum": "2026-10-13",
+   "ist_heute": true,
    "verlauf": [
-    40.029999,
     40.57,
     39.330002,
     38.830002,
-    39.900002
+    39.900002,
+    40.130001
    ]
   }
  ],
@@ -374,17 +374,17 @@
   ],
   "artikel": [
    {
-    "titel": "As 'Cockroach' protests grow over alleged voter fraud, Modi defends India as ‘mother of democracy’",
-    "link": "https://www.cnbc.com/2026/10/13/cockroach-fraud-india-protest-modi.html",
-    "zeit": "2026-10-13T06:52:39+00:00",
+    "titel": "Tech stocks slide as Wall Street chip rout spreads. SK Hynix, SoftBank and ASML slump",
+    "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+    "zeit": "2026-10-13T07:22:07+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
-    "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
-    "zeit": "2026-10-13T06:46:15+00:00",
+    "titel": "As 'Cockroach' protests grow over alleged voter fraud, Modi defends India as ‘mother of democracy’",
+    "link": "https://www.cnbc.com/2026/10/13/cockroach-fraud-india-protest-modi.html",
+    "zeit": "2026-10-13T07:17:46+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
