@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-13T10:53:16+02:00",
+ "aktualisiert": "2026-10-13T11:23:01+02:00",
  "kernaussagen": [
-  "SMI +1.28%, Nikkei 225 −1.82% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9323 (−0.08%)",
-  "Bitcoin +2.15% auf 83'518 USD · Brent über 100 USD"
+  "SMI +1.22%, Nikkei 225 −1.82% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9316 (−0.08%)",
+  "Bitcoin +2.04% auf 83'430 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14055.830078125,
+   "kurs": 14046.6201171875,
    "vortag": 13877.83984375,
-   "veraenderung_pct": 1.2825499961015785,
+   "veraenderung_pct": 1.216185482306975,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13637.0,
     13787.400391,
     13877.839844,
-    14055.830078
+    14046.620117
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25401.51953125,
+   "kurs": 25433.900390625,
    "vortag": 25277.6796875,
-   "veraenderung_pct": 0.48991776650781915,
+   "veraenderung_pct": 0.618018366623474,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     24806.970703,
     25087.269531,
     25277.679688,
-    25401.519531
+    25433.900391
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6216.009765625,
+   "kurs": 6217.56982421875,
    "vortag": 6201.2099609375,
-   "veraenderung_pct": 0.23865995153731223,
+   "veraenderung_pct": 0.2638172773427039,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6126.72998,
     6173.370117,
     6201.209961,
-    6216.009766
+    6217.569824
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9322699904441833,
-   "vortag": 0.9330199956893921,
-   "veraenderung_pct": -0.08038469150434269,
-   "datum": "2026-10-09",
-   "ist_heute": false,
+   "kurs": 0.9315500259399414,
+   "vortag": 0.9322699904441833,
+   "veraenderung_pct": -0.07722703847830026,
+   "datum": "2026-10-13",
+   "ist_heute": true,
    "verlauf": [
-    0.93193,
     0.93248,
     0.93652,
     0.93302,
-    0.93227
+    0.93227,
+    0.93155
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8330900073051453,
+   "kurs": 0.8331300020217896,
    "vortag": 0.8313800096511841,
-   "veraenderung_pct": 0.20568183431288745,
+   "veraenderung_pct": 0.2104924763995264,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83218,
     0.83298,
     0.83138,
-    0.83309
+    0.83313
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4212.60009765625,
+   "kurs": 4211.60009765625,
    "vortag": 4190.60009765625,
-   "veraenderung_pct": 0.5249844768605794,
+   "veraenderung_pct": 0.5011215460942076,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4157.0,
     4216.299805,
     4190.600098,
-    4212.600098
+    4211.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.05000305175781,
+   "kurs": 104.94000244140625,
    "vortag": 106.6500015258789,
-   "veraenderung_pct": -1.5002329594274277,
+   "veraenderung_pct": -1.603374646045097,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.279999,
     104.720001,
     106.650002,
-    105.050003
+    104.940002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83518.34375,
+   "kurs": 83430.1875,
    "vortag": 81762.5625,
-   "veraenderung_pct": 2.1474146556989426,
+   "veraenderung_pct": 2.0395948329041236,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82912.226562,
     83679.46875,
     81762.5625,
-    83518.34375
+    83430.1875
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 77.2300033569336,
+   "kurs": 77.29000091552734,
    "vortag": 76.04000091552734,
-   "veraenderung_pct": 1.5649689993142202,
+   "veraenderung_pct": 1.6438716267094922,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     75.559998,
     76.0,
     76.040001,
-    77.230003
+    77.290001
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 121.80000305175781,
+   "kurs": 121.72000122070312,
    "vortag": 119.0999984741211,
-   "veraenderung_pct": 2.2670063914596916,
+   "veraenderung_pct": 2.1998344081854304,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     120.019997,
     117.720001,
     119.099998,
-    121.800003
+    121.720001
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 366.29998779296875,
+   "kurs": 365.8999938964844,
    "vortag": 357.79998779296875,
-   "veraenderung_pct": 2.3756289239781347,
+   "veraenderung_pct": 2.2638363275189644,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     360.0,
     352.700012,
     357.799988,
-    366.299988
+    365.899994
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.29999923706055,
+   "kurs": 40.2599983215332,
    "vortag": 39.900001525878906,
-   "veraenderung_pct": 1.0025004909390844,
+   "veraenderung_pct": 0.9022475736518487,
    "datum": "2026-10-13",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.330002,
     38.830002,
     39.900002,
-    40.299999
+    40.259998
    ]
   }
  ],
@@ -374,9 +374,25 @@
   ],
   "artikel": [
    {
+    "titel": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
+    "link": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html",
+    "zeit": "2026-10-13T09:20:00+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "In charts: How one of the world's biggest economies got trapped by debt",
     "link": "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html",
-    "zeit": "2026-10-13T08:45:40+00:00",
+    "zeit": "2026-10-13T09:03:57+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "French supermarket fridges get hacked, heating to 122°F and sparking fires",
+    "link": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html",
+    "zeit": "2026-10-13T09:03:46+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,7 +400,7 @@
    {
     "titel": "Micron, SoftBank and ASML slide as Wall Street chip rout spreads",
     "link": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
-    "zeit": "2026-10-13T08:42:55+00:00",
+    "zeit": "2026-10-13T08:56:10+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -393,14 +409,6 @@
     "titel": "U.S. Treasury yields fall as energy prices pull back",
     "link": "https://www.cnbc.com/2026/10/13/us-treasurys-bonds-yields.html",
     "zeit": "2026-10-13T08:31:37+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Cyberattack hits hundreds of French supermarkets, heating fridges to 122°F and sparking fires",
-    "link": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html",
-    "zeit": "2026-10-13T08:28:59+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -420,14 +428,6 @@
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "CNBC Daily Open: 'Boring' trumps disorder and volatility",
-    "link": "https://www.cnbc.com/2026/10/13/daily-open-imf-disorderly-markets-tech-stocks.html",
-    "zeit": "2026-10-13T07:24:31+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "As 'Cockroach' protests grow over alleged voter fraud, Modi defends India as ‘mother of democracy’",
@@ -502,7 +502,7 @@
     "sprache": "de"
    },
    {
-    "titel": "KOMMENTAR - Die Nobelpreisträgerin Navi Pillay eignet sich nicht für die Heldenverehrung – ihre Bilanz bei Frieden und Menschenrechten ist düster",
+    "titel": "KOMMENTAR - Navi Pillay hat den Friedensnobelpreis erhalten. Dabei ist ihre Bilanz bei Frieden für Menschenrechte düster",
     "link": "https://www.nzz.ch/meinung/friedensnobelpreistraegerin-navi-pillay-gegen-israel-fuer-zensur-mit-diktatoren-ld.10031854",
     "zeit": "2026-10-13T03:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
