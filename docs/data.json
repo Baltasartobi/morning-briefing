@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-14T07:34:42+02:00",
+ "aktualisiert": "2026-10-14T08:04:47+02:00",
  "kernaussagen": [
-  "SMI +0.36%, Nikkei 225 +0.72% führt",
-  "Franken schwächer: EUR/CHF 0.9324 (+0.17%)",
-  "Bitcoin +2.05% auf 83'436 USD · Brent über 100 USD"
+  "SMI +0.36%, Nikkei 225 +0.57% führt",
+  "Franken schwächer: EUR/CHF 0.9326 (+0.19%)",
+  "Bitcoin +1.91% auf 83'322 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 68262.2421875,
+   "kurs": 68163.21875,
    "vortag": 67777.5234375,
-   "veraenderung_pct": 0.715161495162886,
+   "veraenderung_pct": 0.5690607932224978,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     69042.109375,
     69030.921875,
     67777.523438,
-    68262.242188
+    68163.21875
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9323999881744385,
+   "kurs": 0.9325699806213379,
    "vortag": 0.9308300018310547,
-   "veraenderung_pct": 0.16866520635296922,
+   "veraenderung_pct": 0.18692766529446736,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93227,
     0.92988,
     0.93083,
-    0.9324
+    0.93257
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8319900035858154,
+   "kurs": 0.8322700262069702,
    "vortag": 0.834089994430542,
-   "veraenderung_pct": -0.25177029562143405,
+   "veraenderung_pct": -0.21819806444439704,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83138,
     0.82995,
     0.83409,
-    0.83199
+    0.83227
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4183.5,
+   "kurs": 4177.0,
    "vortag": 4177.2998046875,
-   "veraenderung_pct": 0.14842591153123585,
+   "veraenderung_pct": -0.007176997139723973,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4216.299805,
     4190.600098,
     4177.299805,
-    4183.5
+    4177.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 106.37000274658203,
+   "kurs": 106.18000030517578,
    "vortag": 105.69000244140625,
-   "veraenderung_pct": 0.6433913231790989,
+   "veraenderung_pct": 0.4636179888832803,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.720001,
     106.650002,
     105.690002,
-    106.370003
+    106.18
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83435.7421875,
+   "kurs": 83321.71875,
    "vortag": 81762.5625,
-   "veraenderung_pct": 2.0463885136916993,
+   "veraenderung_pct": 1.9069317329676316,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82912.226562,
     83679.46875,
     81762.5625,
-    83435.742188
+    83321.71875
    ]
   }
  ],
@@ -374,9 +374,17 @@
   ],
   "artikel": [
    {
+    "titel": "MELDUNGEN WIRTSCHAFT - Swisscom gewinnt vor Bundesverwaltungegericht +++ Open-AI findet Abhörgerät im Konferenzraum – FBI ermittelt",
+    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldugen-ld.10025518",
+    "zeit": "2026-10-14T05:59:51+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "ASML says it's getting order interest through 2030 as profit smashes expectations",
     "link": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
-    "zeit": "2026-10-14T05:28:18+00:00",
+    "zeit": "2026-10-14T05:56:11+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -420,6 +428,14 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Leonteq baut Plattform für strukturierte Währungsprodukte aus",
+    "link": "https://www.finews.ch/news/finanzplatz/73960-leonteq-erweitert-digitale-anlageplattform-lynqs-fx-pricer-professionelle-anleger-strukturierte-waehrungsprodukte",
+    "zeit": "2026-10-14T03:47:40+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "China's exports and imports surge past expectations in September",
@@ -500,14 +516,6 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
-   },
-   {
-    "titel": "MELDUNGEN WIRTSCHAFT - Open-AI findet Abhörgerät im Konferenzraum – FBI ermittelt +++ Bank of Amerika muss wegen Verstoss gegen Geldwäschegesetze über 1,2 Milliarden Dollar Strafe zahlen",
-    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldugen-ld.10025518",
-    "zeit": "2026-10-14T02:28:26+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
    },
    {
     "titel": "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says",
@@ -641,14 +649,6 @@
     "titel": "Bank Syz engagiert zwei erfahrene Banker für die Führung",
     "link": "https://www.finews.ch/news/banken/73945-privatbank-syz-marc-brodard-leitung-des-privatkundengeschaefts-martin-freiermuth-neuer-chief-operating-officer-geschaeftsleitung",
     "zeit": "2026-10-13T04:38:27+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Muss man sich bei Wohnungsbesichtigungen bald weniger drängeln?",
-    "link": "https://www.finews.ch/news/finanzplatz/73943-immobilienbarometer-zkb-leerstandsziffer-immobilienpreise-wohneigentum-zwex-referenzzinssatz",
-    "zeit": "2026-10-13T03:41:53+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
