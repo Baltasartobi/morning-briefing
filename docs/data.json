@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-14T16:32:31+02:00",
+ "aktualisiert": "2026-10-14T17:05:38+02:00",
  "kernaussagen": [
-  "SMI +1.27%, Nasdaq −0.86% am schwächsten",
-  "Franken schwächer: EUR/CHF 0.9323 (+0.16%)",
-  "Gold −1.52% auf 4'114.00 USD/Unze · Brent über 100 USD"
+  "SMI +1.22%, Nikkei 225 −1.82% am schwächsten",
+  "Franken schwächer: EUR/CHF 0.9308 (+0.10%)",
+  "Bitcoin −1.60% auf 81'767 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14104.5498046875,
+   "kurs": 14096.9697265625,
    "vortag": 13927.51953125,
-   "veraenderung_pct": 1.2710825717406893,
+   "veraenderung_pct": 1.2166573877874898,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13787.400391,
     13877.839844,
     13927.519531,
-    14104.549805
+    14096.969727
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25340.150390625,
+   "kurs": 25314.580078125,
    "vortag": 25259.900390625,
-   "veraenderung_pct": 0.317697214791024,
+   "veraenderung_pct": 0.21646834173698615,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25087.269531,
     25277.679688,
     25259.900391,
-    25340.150391
+    25314.580078
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6190.91015625,
+   "kurs": 6194.47021484375,
    "vortag": 6167.009765625,
-   "veraenderung_pct": 0.3875523395182823,
+   "veraenderung_pct": 0.44527980759516694,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6173.370117,
     6201.209961,
     6167.009766,
-    6190.910156
+    6194.470215
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7758.41015625,
+   "kurs": 7741.72998046875,
    "vortag": 7805.4501953125,
-   "veraenderung_pct": -0.6026563219985626,
+   "veraenderung_pct": -0.8163554087119329,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7811.540039,
     7807.240234,
     7805.450195,
-    7758.410156
+    7741.72998
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26971.408203125,
+   "kurs": 26917.65234375,
    "vortag": 27204.380859375,
-   "veraenderung_pct": -0.8563791892720607,
+   "veraenderung_pct": -1.0539791995530345,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27366.169922,
     27245.900391,
     27204.380859,
-    26971.408203
+    26917.652344
    ]
   },
   {
@@ -107,17 +107,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 67744.2890625,
-   "vortag": 67777.5234375,
-   "veraenderung_pct": -0.049034507775491676,
-   "datum": "2026-10-14",
-   "ist_heute": true,
+   "kurs": 67777.5234375,
+   "vortag": 69030.921875,
+   "veraenderung_pct": -1.8157057785924247,
+   "datum": "2026-10-13",
+   "ist_heute": false,
    "verlauf": [
+    70683.976562,
     70035.710938,
     69042.109375,
     69030.921875,
-    67777.523438,
-    67744.289062
+    67777.523438
    ]
   }
  ],
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9323400259017944,
-   "vortag": 0.9308300018310547,
-   "veraenderung_pct": 0.16222339930700436,
-   "datum": "2026-10-14",
-   "ist_heute": true,
+   "kurs": 0.9308300018310547,
+   "vortag": 0.9298800230026245,
+   "veraenderung_pct": 0.10216144071604205,
+   "datum": "2026-10-13",
+   "ist_heute": false,
    "verlauf": [
+    0.93652,
     0.93302,
     0.93227,
     0.92988,
-    0.93083,
-    0.93234
+    0.93083
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.834089994430542,
-   "vortag": 0.8299499750137329,
-   "veraenderung_pct": 0.4988275849686641,
-   "datum": "2026-10-13",
-   "ist_heute": false,
+   "kurs": 0.8390799760818481,
+   "vortag": 0.834089994430542,
+   "veraenderung_pct": 0.598254586990099,
+   "datum": "2026-10-14",
+   "ist_heute": true,
    "verlauf": [
-    0.83218,
     0.83298,
     0.83138,
     0.82995,
-    0.83409
+    0.83409,
+    0.83908
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4114.0,
+   "kurs": 4111.60009765625,
    "vortag": 4177.2998046875,
-   "veraenderung_pct": -1.5153282657967004,
+   "veraenderung_pct": -1.5727793096757425,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4216.299805,
     4190.600098,
     4177.299805,
-    4114.0
+    4111.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.87000274658203,
+   "kurs": 105.73999786376953,
    "vortag": 105.69000244140625,
-   "veraenderung_pct": 0.1703096802136761,
+   "veraenderung_pct": 0.04730383310473929,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.720001,
     106.650002,
     105.690002,
-    105.870003
+    105.739998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81942.5234375,
+   "kurs": 81767.1796875,
    "vortag": 83095.125,
-   "veraenderung_pct": -1.3870868627973043,
+   "veraenderung_pct": -1.598102551142444,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     83679.46875,
     81762.5625,
     83095.125,
-    81942.523438
+    81767.179688
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.272,
+   "wert": 5.257,
    "vortag": 5.217,
-   "veraenderung_bp": 5.5,
+   "veraenderung_bp": 4.0,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.244,
     5.24,
     5.217,
-    5.272
+    5.257
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 78.5999984741211,
+   "kurs": 78.31999969482422,
    "vortag": 77.30000305175781,
-   "veraenderung_pct": 1.6817533907377058,
+   "veraenderung_pct": 1.3195298871895966,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     76.040001,
     76.379997,
     77.300003,
-    78.599998
+    78.32
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 122.13999938964844,
+   "kurs": 121.87999725341797,
    "vortag": 119.30000305175781,
-   "veraenderung_pct": 2.3805500965984994,
+   "veraenderung_pct": 2.1626103400356422,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     119.099998,
     119.959999,
     119.300003,
-    122.139999
+    121.879997
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 369.5,
+   "kurs": 369.3999938964844,
    "vortag": 359.79998779296875,
-   "veraenderung_pct": 2.695945674298539,
+   "veraenderung_pct": 2.668150758537413,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     357.799988,
     360.0,
     359.799988,
-    369.5
+    369.399994
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.41999816894531,
+   "kurs": 39.4900016784668,
    "vortag": 40.09000015258789,
-   "veraenderung_pct": -1.6712446522635593,
+   "veraenderung_pct": -1.4966287648725873,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.900002,
     40.009998,
     40.09,
-    39.419998
+    39.490002
    ]
   }
  ],
@@ -374,9 +374,25 @@
   ],
   "artikel": [
    {
+    "titel": "Netflix to lay off roughly 1,000 employees, or 6% of workforce",
+    "link": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
+    "zeit": "2026-10-14T15:03:59+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Iran says it’s ‘counting the moments’ until it can strike U.S. warships; Saudi Aramco facilities attacked",
+    "link": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html",
+    "zeit": "2026-10-14T15:03:35+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty",
     "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-    "zeit": "2026-10-14T14:31:23+00:00",
+    "zeit": "2026-10-14T15:00:33+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,7 +400,31 @@
    {
     "titel": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
     "link": "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html",
-    "zeit": "2026-10-14T14:29:12+00:00",
+    "zeit": "2026-10-14T15:00:24+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "MELDUNGEN WIRTSCHAFT - Netflix kündigt laut Berichten den grössten Stellenabbau in seiner Geschichte an +++ Lufthansa erwirbt grossen Anteil an portugiesischer Fluggesellschaft",
+    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
+    "zeit": "2026-10-14T14:59:42+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Here's the inflation breakdown for September 2026 — in one chart",
+    "link": "https://www.cnbc.com/2026/10/14/cpi-inflation-breakdown-september-2026.html",
+    "zeit": "2026-10-14T14:56:25+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Bending Spoons skyrockets 35% as Berkshire Hathaway makes $330 million investment",
+    "link": "https://www.cnbc.com/2026/10/14/berkshire-hathaway-investment-bending-spoons.html",
+    "zeit": "2026-10-14T14:39:21+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -398,33 +438,9 @@
     "sprache": "en"
    },
    {
-    "titel": "MELDUNGEN WIRTSCHAFT - Lufthansa erwirbt grossen Anteil an portugiesischer Fluggesellschaft +++ Zuger Beauty-Konzern Galderma kauft US-Firma ZO Skin Health",
-    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
-    "zeit": "2026-10-14T14:17:41+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
     "link": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
     "zeit": "2026-10-14T14:08:16+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Netflix is laying off roughly 6% of its workforce",
-    "link": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
-    "zeit": "2026-10-14T14:06:57+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Consumer prices rose 3.7% annually in September as gas prices skyrocket",
-    "link": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
-    "zeit": "2026-10-14T13:53:28+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -441,22 +457,6 @@
     "titel": "Trump's diesel dilemma — by the numbers",
     "link": "https://www.cnbc.com/2026/10/14/trumps-diesel-dilemma-by-the-numbers.html",
     "zeit": "2026-10-14T13:35:46+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
-    "link": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
-    "zeit": "2026-10-14T13:25:24+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-    "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-    "zeit": "2026-10-14T13:11:07+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
