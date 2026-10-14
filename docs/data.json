@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-14T18:09:06+02:00",
+ "aktualisiert": "2026-10-14T19:06:43+02:00",
  "kernaussagen": [
   "SMI +1.45%, Nikkei 225 −1.82% am schwächsten",
-  "Franken schwächer: EUR/CHF 0.9327 (+0.20%)",
-  "Gold −1.79% auf 4'102.40 USD/Unze · Brent über 100 USD"
+  "Franken schwächer: EUR/CHF 0.9324 (+0.17%)",
+  "Gold −1.77% auf 4'103.40 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7732.58984375,
+   "kurs": 7720.490234375,
    "vortag": 7805.4501953125,
-   "veraenderung_pct": -0.9334548262988851,
+   "veraenderung_pct": -1.088469707852624,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7811.540039,
     7807.240234,
     7805.450195,
-    7732.589844
+    7720.490234
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26822.58984375,
+   "kurs": 26764.099609375,
    "vortag": 27204.380859375,
-   "veraenderung_pct": -1.4034174039782576,
+   "veraenderung_pct": -1.6184204017577253,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27366.169922,
     27245.900391,
     27204.380859,
-    26822.589844
+    26764.099609
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9326800107955933,
+   "kurs": 0.9323800206184387,
    "vortag": 0.9308300018310547,
-   "veraenderung_pct": 0.19874831718997843,
+   "veraenderung_pct": 0.1665200717998916,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93227,
     0.92988,
     0.93083,
-    0.93268
+    0.93238
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8384799957275391,
+   "kurs": 0.8381699919700623,
    "vortag": 0.834089994430542,
-   "veraenderung_pct": 0.5263222585464744,
+   "veraenderung_pct": 0.48915555476789496,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83138,
     0.82995,
     0.83409,
-    0.83848
+    0.83817
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4102.39990234375,
+   "kurs": 4103.39990234375,
    "vortag": 4177.2998046875,
-   "veraenderung_pct": -1.7930219482858778,
+   "veraenderung_pct": -1.769083039259578,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4216.299805,
     4190.600098,
     4177.299805,
-    4102.399902
+    4103.399902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 106.06999969482422,
+   "kurs": 106.62999725341797,
    "vortag": 105.69000244140625,
-   "veraenderung_pct": 0.3595394499386506,
+   "veraenderung_pct": 0.8893885800909551,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.720001,
     106.650002,
     105.690002,
-    106.07
+    106.629997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81640.4375,
+   "kurs": 81953.75,
    "vortag": 83095.125,
-   "veraenderung_pct": -1.750629173492424,
+   "veraenderung_pct": -1.3735763680480684,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     83679.46875,
     81762.5625,
     83095.125,
-    81640.4375
+    81953.75
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.244,
+   "wert": 5.234,
    "vortag": 5.217,
-   "veraenderung_bp": 2.7,
+   "veraenderung_bp": 1.7,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.244,
     5.24,
     5.217,
-    5.244
+    5.234
    ]
   }
  ],
@@ -374,33 +374,17 @@
   ],
   "artikel": [
    {
-    "titel": "Jim Cramer says this healthcare stock is still a buy. Plus, what to do with BNY",
-    "link": "https://www.cnbc.com/investingclub/2026/10/14/jim-cramer-says-this-healthcare-stock-is-still-a-buy-plus-what-to-do-with-bny.html",
-    "zeit": "2026-10-14T15:51:40+00:00",
+    "titel": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
+    "link": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
+    "zeit": "2026-10-14T17:06:17+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-    "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-    "zeit": "2026-10-14T15:49:35+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Abilene Christian University is giving Ivy League endowments a run for their money in the market",
-    "link": "https://www.cnbc.com/2026/10/14/abilene-christian-giving-ivy-endowment-billions-a-run-for-their-money.html",
-    "zeit": "2026-10-14T15:48:34+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
-    "link": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
-    "zeit": "2026-10-14T15:47:29+00:00",
+    "titel": "Fannie Mae sharply raises mortgage rate forecast for 2027",
+    "link": "https://www.cnbc.com/2026/10/14/fannie-mae-sharply-raises-mortgage-rate-forecast-for-2027-.html",
+    "zeit": "2026-10-14T16:53:40+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -408,7 +392,63 @@
    {
     "titel": "Treasury says largest U.S. banks let politics influence who received banking services",
     "link": "https://www.cnbc.com/2026/10/14/treasury-banks-debanking-trump-reputation-risk.html",
-    "zeit": "2026-10-14T15:44:54+00:00",
+    "zeit": "2026-10-14T16:49:44+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Bank of America shares drop 8% after third-quarter revenue miss and regulatory penalty",
+    "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+    "zeit": "2026-10-14T16:49:11+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
+    "link": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
+    "zeit": "2026-10-14T16:46:08+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trump's diesel dilemma — by the numbers",
+    "link": "https://www.cnbc.com/2026/10/14/trumps-diesel-dilemma-by-the-numbers.html",
+    "zeit": "2026-10-14T16:45:26+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "10-year Treasury yield jumps as September core inflation comes in hotter than expected",
+    "link": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
+    "zeit": "2026-10-14T16:43:56+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Ukraine warns Starlink limits are disrupting military operations as Russia pounds its energy infrastructure",
+    "link": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html",
+    "zeit": "2026-10-14T16:34:24+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "BlackRock's Larry Fink warns a data center moratorium could trigger a recession",
+    "link": "https://www.cnbc.com/2026/10/14/blackrocks-fink-warns-data-center-moratorium-could-spark-a-recession.html",
+    "zeit": "2026-10-14T16:27:12+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Iran says it’s ‘counting the moments’ until it can strike U.S. warships; Saudi Aramco facilities attacked",
+    "link": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html",
+    "zeit": "2026-10-14T16:26:14+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -422,47 +462,7 @@
     "sprache": "de"
    },
    {
-    "titel": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
-    "link": "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html",
-    "zeit": "2026-10-14T15:25:42+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Fannie Mae sharply raises mortgage rate forecast for 2027",
-    "link": "https://www.cnbc.com/2026/10/14/fannie-mae-sharply-raises-mortgage-rate-forecast-for-2027-.html",
-    "zeit": "2026-10-14T15:20:53+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "BlackRock's Larry Fink warns a data center moratorium could trigger a recession",
-    "link": "https://www.cnbc.com/2026/10/14/blackrocks-fink-warns-data-center-moratorium-could-spark-a-recession.html",
-    "zeit": "2026-10-14T15:19:08+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Netflix to lay off roughly 1,000 employees, or 6% of workforce",
-    "link": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
-    "zeit": "2026-10-14T15:03:59+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Iran says it’s ‘counting the moments’ until it can strike U.S. warships; Saudi Aramco facilities attacked",
-    "link": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html",
-    "zeit": "2026-10-14T15:03:35+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "MELDUNGEN WIRTSCHAFT - Netflix kündigt laut Berichten den grössten Stellenabbau in seiner Geschichte an +++ Lufthansa erwirbt grossen Anteil an portugiesischer Fluggesellschaft",
+    "titel": "MELDUNGEN WIRTSCHAFT - Netflix kündigt grössten Stellenabbau in seiner Geschichte an +++ Lufthansa erwirbt Anteil an portugiesischer Fluggesellschaft",
     "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
     "zeit": "2026-10-14T14:59:42+00:00",
     "quelle": "NZZ Wirtschaft",
@@ -518,7 +518,7 @@
     "sprache": "de"
    },
    {
-    "titel": "MELDUNGEN WIRTSCHAFT - Zuger Beauty-Konzern Galderma kauft US-Firma ZO Skin Health +++ Dating-App Bumble für 1,3 Milliarden Dollar verkauf",
+    "titel": "MELDUNGEN WIRTSCHAFT - XXXXALT!!!! Zuger Beauty-Konzern Galderma kauft US-Firma ZO Skin Health +++ Dating-App Bumble für 1,3 Milliarden Dollar verkauft",
     "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldugen-ld.10025518",
     "zeit": "2026-10-14T08:03:15+00:00",
     "quelle": "NZZ Wirtschaft",
