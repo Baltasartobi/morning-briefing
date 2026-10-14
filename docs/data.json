@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-14T20:03:40+02:00",
+ "aktualisiert": "2026-10-14T20:41:55+02:00",
  "kernaussagen": [
-  "SMI +1.45%, Nasdaq −1.97% am schwächsten",
-  "Franken stabil: EUR/CHF 0.9312 (+0.04%)",
-  "Bitcoin −1.91% auf 81'511 USD · Brent über 100 USD"
+  "SMI +1.45%, Nasdaq −2.06% am schwächsten",
+  "Franken stabil: EUR/CHF 0.9306 (−0.03%)",
+  "Bitcoin −1.95% auf 81'473 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7702.2998046875,
+   "kurs": 7702.22998046875,
    "vortag": 7805.4501953125,
-   "veraenderung_pct": -1.321517504357994,
+   "veraenderung_pct": -1.3224120615840773,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7811.540039,
     7807.240234,
     7805.450195,
-    7702.299805
+    7702.22998
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26668.935546875,
+   "kurs": 26643.736328125,
    "vortag": 27204.380859375,
-   "veraenderung_pct": -1.9682319375979418,
+   "veraenderung_pct": -2.060861205215758,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27366.169922,
     27245.900391,
     27204.380859,
-    26668.935547
+    26643.736328
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.931190013885498,
+   "kurs": 0.9305899739265442,
    "vortag": 0.9308300018310547,
-   "veraenderung_pct": 0.03867645582278367,
+   "veraenderung_pct": -0.02578643834409977,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93227,
     0.92988,
     0.93083,
-    0.93119
+    0.93059
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.835889995098114,
+   "kurs": 0.8343899846076965,
    "vortag": 0.834089994430542,
-   "veraenderung_pct": 0.21580413139963284,
+   "veraenderung_pct": 0.03596616422181231,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83138,
     0.82995,
     0.83409,
-    0.83589
+    0.83439
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4105.2001953125,
+   "kurs": 4116.2998046875,
    "vortag": 4177.2998046875,
-   "veraenderung_pct": -1.7259859896599838,
+   "veraenderung_pct": -1.4602734506043769,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4216.299805,
     4190.600098,
     4177.299805,
-    4105.200195
+    4116.299805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 106.79000091552734,
+   "kurs": 106.12000274658203,
    "vortag": 105.69000244140625,
-   "veraenderung_pct": 1.0407781707933328,
+   "veraenderung_pct": 0.4068505016963764,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.720001,
     106.650002,
     105.690002,
-    106.790001
+    106.120003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81510.609375,
+   "kurs": 81473.2734375,
    "vortag": 83095.125,
-   "veraenderung_pct": -1.9068695365702881,
+   "veraenderung_pct": -1.951801098439887,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     83679.46875,
     81762.5625,
     83095.125,
-    81510.609375
+    81473.273438
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.215,
+   "wert": 5.179,
    "vortag": 5.217,
-   "veraenderung_bp": -0.2,
+   "veraenderung_bp": -3.8,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.244,
     5.24,
     5.217,
-    5.215
+    5.179
    ]
   }
  ],
@@ -374,6 +374,38 @@
   ],
   "artikel": [
    {
+    "titel": "Trump to appeal order blocking White House from banning MS NOW, CNN and Politico",
+    "link": "https://www.cnbc.com/2026/10/14/trump-appeals-white-house-ban-judge.html",
+    "zeit": "2026-10-14T18:37:38+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
+    "link": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
+    "zeit": "2026-10-14T18:23:37+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
+    "link": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
+    "zeit": "2026-10-14T18:18:43+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Lisa Cook lawyer doubts Trump committee's fairness as president calls her 'automatic no vote'",
+    "link": "https://www.cnbc.com/2026/10/14/lisa-cook-trump-committee-hearing.html",
+    "zeit": "2026-10-14T18:02:17+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
     "link": "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html",
     "zeit": "2026-10-14T17:54:01+00:00",
@@ -417,38 +449,6 @@
     "titel": "Iran says it’s ‘counting the moments’ until it can strike U.S. warships; Saudi Aramco facilities attacked",
     "link": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html",
     "zeit": "2026-10-14T17:12:20+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-    "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-    "zeit": "2026-10-14T17:08:23+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Fannie Mae sharply raises mortgage rate forecast for 2027",
-    "link": "https://www.cnbc.com/2026/10/14/fannie-mae-sharply-raises-mortgage-rate-forecast-for-2027-.html",
-    "zeit": "2026-10-14T17:08:07+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
-    "link": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
-    "zeit": "2026-10-14T17:06:17+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "'The power of shrink' — tour the little-known $25B company that chipmakers can't live without",
-    "link": "https://www.cnbc.com/investingclub/2026/10/14/the-power-of-shrink-tour-the-little-known-25b-company-that-chipmakers-cant-live-without.html",
-    "zeit": "2026-10-14T17:04:50+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
