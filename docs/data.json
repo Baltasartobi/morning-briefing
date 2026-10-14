@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-14T12:36:41+02:00",
+ "aktualisiert": "2026-10-14T13:32:01+02:00",
  "kernaussagen": [
-  "SMI +1.05%, Euro Stoxx 50 +0.66% führt",
-  "Franken schwächer: EUR/CHF 0.9328 (+0.21%)",
-  "Brent über 100 USD: 106.51 (+0.78%)"
+  "SMI +0.87%, DAX +0.65% führt",
+  "Franken schwächer: EUR/CHF 0.9327 (+0.20%)",
+  "Brent über 100 USD: 106.22 (+0.50%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14073.990234375,
+   "kurs": 14048.2001953125,
    "vortag": 13927.51953125,
-   "veraenderung_pct": 1.0516639577948794,
+   "veraenderung_pct": 0.8664907185498505,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13787.400391,
     13877.839844,
     13927.519531,
-    14073.990234
+    14048.200195
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25408.6796875,
+   "kurs": 25425.240234375,
    "vortag": 25259.900390625,
-   "veraenderung_pct": 0.5889939967071989,
+   "veraenderung_pct": 0.6545546149950843,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25087.269531,
     25277.679688,
     25259.900391,
-    25408.679688
+    25425.240234
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6207.81005859375,
+   "kurs": 6207.08984375,
    "vortag": 6167.009765625,
-   "veraenderung_pct": 0.6615895631651325,
+   "veraenderung_pct": 0.6499110533018326,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6173.370117,
     6201.209961,
     6167.009766,
-    6207.810059
+    6207.089844
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9328100085258484,
+   "kurs": 0.932669997215271,
    "vortag": 0.9308300018310547,
-   "veraenderung_pct": 0.21271410363856713,
+   "veraenderung_pct": 0.19767254822007363,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93227,
     0.92988,
     0.93083,
-    0.93281
+    0.93267
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8337299823760986,
+   "kurs": 0.8334699869155884,
    "vortag": 0.834089994430542,
-   "veraenderung_pct": -0.04316225549367836,
+   "veraenderung_pct": -0.07433340755717,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83138,
     0.82995,
     0.83409,
-    0.83373
+    0.83347
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4164.7001953125,
+   "kurs": 4162.89990234375,
    "vortag": 4177.2998046875,
-   "veraenderung_pct": -0.3016209025950567,
+   "veraenderung_pct": -0.34471795219465085,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4216.299805,
     4190.600098,
     4177.299805,
-    4164.700195
+    4162.899902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 106.51000213623047,
+   "kurs": 106.22000122070312,
    "vortag": 105.69000244140625,
-   "veraenderung_pct": 0.7758536057171694,
+   "veraenderung_pct": 0.5014653865588636,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.720001,
     106.650002,
     105.690002,
-    106.510002
+    106.220001
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83305.8984375,
+   "kurs": 83335.3828125,
    "vortag": 83095.125,
-   "veraenderung_pct": 0.25365319265120423,
+   "veraenderung_pct": 0.2891358698840607,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     83679.46875,
     81762.5625,
     83095.125,
-    83305.898438
+    83335.382812
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 78.16000366210938,
+   "kurs": 78.08000183105469,
    "vortag": 77.30000305175781,
-   "veraenderung_pct": 1.1125492579550533,
+   "veraenderung_pct": 1.0090540084126687,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     76.040001,
     76.379997,
     77.300003,
-    78.160004
+    78.080002
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 120.9000015258789,
+   "kurs": 120.66000366210938,
    "vortag": 119.30000305175781,
-   "veraenderung_pct": 1.3411554343606635,
+   "veraenderung_pct": 1.1399837179899563,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     119.099998,
     119.959999,
     119.300003,
-    120.900002
+    120.660004
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 364.5,
+   "kurs": 363.5,
    "vortag": 359.79998779296875,
-   "veraenderung_pct": 1.306284704416294,
+   "veraenderung_pct": 1.028352510439845,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     357.799988,
     360.0,
     359.799988,
-    364.5
+    363.5
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.130001068115234,
+   "kurs": 39.93000030517578,
    "vortag": 40.09000015258789,
-   "veraenderung_pct": 0.0997777884138129,
+   "veraenderung_pct": -0.3991016383215973,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.900002,
     40.009998,
     40.09,
-    40.130001
+    39.93
    ]
   }
  ],
@@ -374,6 +374,62 @@
   ],
   "artikel": [
    {
+    "titel": "Morgan Stanley earnings are out – Here are the numbers",
+    "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+    "zeit": "2026-10-14T11:30:21+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Bank of America posts third-quarter profit drop due to $1.2 billion Treasury fine; shares decline",
+    "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+    "zeit": "2026-10-14T11:28:19+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Anthropic urges court in Washington, DC, to rehear appeal of Pentagon blacklisting",
+    "link": "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html",
+    "zeit": "2026-10-14T11:01:42+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Delta's business-class revamp: New seats, menus, plates and more Porsches",
+    "link": "https://www.cnbc.com/2026/10/14/delta-one-revamp.html",
+    "zeit": "2026-10-14T11:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Tech giants race to get AI gadgets on shelves for holiday rush",
+    "link": "https://www.cnbc.com/2026/10/14/tech-giants-race-to-get-ai-gadgets-on-shelves-for-holiday-rush.html",
+    "zeit": "2026-10-14T11:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Even more borrowers choose riskier mortgages, as higher interest rates crush affordability",
+    "link": "https://www.cnbc.com/2026/10/14/even-more-borrowers-choose-riskier-mortgages-as-higher-interest-rates-crush-affordability.html",
+    "zeit": "2026-10-14T11:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Diesel squeeze set to last well into 2027 as Iran war disrupts supply, IEA says",
+    "link": "https://www.cnbc.com/2026/10/14/diesel-deal-oil-price-iea-report.html",
+    "zeit": "2026-10-14T10:37:42+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
     "link": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
     "zeit": "2026-10-14T10:33:13+00:00",
@@ -382,9 +438,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Bank of America is set to report third-quarter earnings – here’s what the Street expects",
-    "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-    "zeit": "2026-10-14T10:15:01+00:00",
+    "titel": "How Trump’s tariffs and Iran war are becoming liabilities in Michigan’s Senate race",
+    "link": "https://www.cnbc.com/2026/10/14/mike-rogers-trump-tariffs-michigan-senate-election.html",
+    "zeit": "2026-10-14T10:30:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -404,30 +460,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Ukraine warns Starlink limits are disrupting military operations as Russia pounds its energy infrastructure",
-    "link": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html",
-    "zeit": "2026-10-14T09:18:18+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Scott Bessent's growth plans aren't enough to tame surging deficit and debt pile, IMF chief says",
-    "link": "https://www.cnbc.com/2026/10/14/bond-yields-debt-deficit-treasury.html",
-    "zeit": "2026-10-14T08:53:35+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "ASML says it's getting order interest through 2030 as profit smashes expectations",
-    "link": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
-    "zeit": "2026-10-14T08:45:13+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "DIE NEUESTEN ENTWICKLUNGEN - Signa-Insolvenz: René Benko wechselt vom Gefängnis in den Hausarrest",
@@ -486,28 +518,12 @@
     "sprache": "de"
    },
    {
-    "titel": "Judge extends block on Trump White House ban of MS NOW, CNN and Politico",
-    "link": "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html",
-    "zeit": "2026-10-14T05:19:36+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "200 Millionen Franken – Investition in Teakbäume – Tausende Anleger fürchten um ihr Geld",
     "link": "https://www.srf.ch/news/wirtschaft/200-millionen-franken-investition-in-teakbaeume-tausende-anleger-fuerchten-um-ihr-geld",
     "zeit": "2026-10-14T05:00:37+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "'Godzilla El Niño' is wreaking havoc with Philippine central bank's inflation forecasts",
-    "link": "https://www.cnbc.com/2026/10/14/godzilla-el-nino-asia-inflation-philippines.html",
-    "zeit": "2026-10-14T04:24:28+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Schweizer Firmen setzen beim IT-Outsourcing auf Wachstum statt nur auf Kostensenkung",
@@ -532,14 +548,6 @@
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "China's exports and imports surge past expectations in September",
-    "link": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
-    "zeit": "2026-10-14T03:41:36+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Der Währungsfonds warnt vor einer «gespaltenen Weltwirtschaft»: Nur ein Teil der Länder könne vom KI-Boom profitieren",
@@ -604,14 +612,6 @@
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "China's producer prices rise at fastest pace since June 2022, beating expectations",
-    "link": "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html",
-    "zeit": "2026-10-14T03:14:48+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Autosalon Paris – Europa stemmt sich gegen die Flut chinesischer Autos",
