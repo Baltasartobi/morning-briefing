@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-14T20:41:55+02:00",
+ "aktualisiert": "2026-10-14T21:34:13+02:00",
  "kernaussagen": [
-  "SMI +1.45%, Nasdaq −2.06% am schwächsten",
-  "Franken stabil: EUR/CHF 0.9306 (−0.03%)",
-  "Bitcoin −1.95% auf 81'473 USD · Brent über 100 USD"
+  "SMI +1.45%, Nikkei 225 −1.82% am schwächsten",
+  "Franken stabil: EUR/CHF 0.9312 (+0.04%)",
+  "Bitcoin −1.72% auf 81'665 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7702.22998046875,
+   "kurs": 7720.27001953125,
    "vortag": 7805.4501953125,
-   "veraenderung_pct": -1.3224120615840773,
+   "veraenderung_pct": -1.0912910037194856,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7811.540039,
     7807.240234,
     7805.450195,
-    7702.22998
+    7720.27002
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26643.736328125,
+   "kurs": 26719.69921875,
    "vortag": 27204.380859375,
-   "veraenderung_pct": -2.060861205215758,
+   "veraenderung_pct": -1.7816308451584217,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27366.169922,
     27245.900391,
     27204.380859,
-    26643.736328
+    26719.699219
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9305899739265442,
+   "kurs": 0.9312400221824646,
    "vortag": 0.9308300018310547,
-   "veraenderung_pct": -0.02578643834409977,
+   "veraenderung_pct": 0.044048897285575705,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93227,
     0.92988,
     0.93083,
-    0.93059
+    0.93124
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8343899846076965,
+   "kurs": 0.8352000117301941,
    "vortag": 0.834089994430542,
-   "veraenderung_pct": 0.03596616422181231,
+   "veraenderung_pct": 0.13308123908259972,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83138,
     0.82995,
     0.83409,
-    0.83439
+    0.8352
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4116.2998046875,
+   "kurs": 4126.7001953125,
    "vortag": 4177.2998046875,
-   "veraenderung_pct": -1.4602734506043769,
+   "veraenderung_pct": -1.2112994455945048,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4216.299805,
     4190.600098,
     4177.299805,
-    4116.299805
+    4126.700195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 106.12000274658203,
+   "kurs": 106.05999755859375,
    "vortag": 105.69000244140625,
-   "veraenderung_pct": 0.4068505016963764,
+   "veraenderung_pct": 0.35007579585648596,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.720001,
     106.650002,
     105.690002,
-    106.120003
+    106.059998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81473.2734375,
+   "kurs": 81664.953125,
    "vortag": 83095.125,
-   "veraenderung_pct": -1.951801098439887,
+   "veraenderung_pct": -1.7211260889251956,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     83679.46875,
     81762.5625,
     83095.125,
-    81473.273438
+    81664.953125
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.179,
+   "wert": 5.19,
    "vortag": 5.217,
-   "veraenderung_bp": -3.8,
+   "veraenderung_bp": -2.7,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.244,
     5.24,
     5.217,
-    5.179
+    5.19
    ]
   }
  ],
@@ -374,9 +374,17 @@
   ],
   "artikel": [
    {
-    "titel": "Trump to appeal order blocking White House from banning MS NOW, CNN and Politico",
-    "link": "https://www.cnbc.com/2026/10/14/trump-appeals-white-house-ban-judge.html",
-    "zeit": "2026-10-14T18:37:38+00:00",
+    "titel": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
+    "link": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
+    "zeit": "2026-10-14T19:22:00+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "10-year Treasury yields dip as traders look ahead to Thursday economic reports",
+    "link": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
+    "zeit": "2026-10-14T19:10:20+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,15 +392,39 @@
    {
     "titel": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
     "link": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
-    "zeit": "2026-10-14T18:23:37+00:00",
+    "zeit": "2026-10-14T19:04:29+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
-    "link": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
-    "zeit": "2026-10-14T18:18:43+00:00",
+    "titel": "Trump to appeal order blocking White House from banning MS NOW, CNN and Politico",
+    "link": "https://www.cnbc.com/2026/10/14/trump-appeals-white-house-ban-judge.html",
+    "zeit": "2026-10-14T19:01:39+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Treasury says largest U.S. banks let politics influence who received banking services",
+    "link": "https://www.cnbc.com/2026/10/14/treasury-banks-debanking-trump-reputation-risk.html",
+    "zeit": "2026-10-14T18:51:42+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+    "link": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+    "zeit": "2026-10-14T18:48:44+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "AI infrastructure stocks tumble. Here's a few reasons for the sell-off",
+    "link": "https://www.cnbc.com/investingclub/2026/10/14/ai-infrastructure-stocks-tumble-heres-a-few-reasons-for-the-sell-off-.html",
+    "zeit": "2026-10-14T18:41:11+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -417,38 +449,6 @@
     "titel": "'Office' is actually having a scarcity problem",
     "link": "https://www.cnbc.com/2026/10/14/office-is-actually-having-a-scarcity-problem.html",
     "zeit": "2026-10-14T17:35:44+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "OpenAI’s Sachin Katti to leave infrastructure role, stay on as advisor",
-    "link": "https://www.cnbc.com/2026/10/14/openais-sachin-katti-to-leave-infrastructure-role-stay-on-as-advisor.html",
-    "zeit": "2026-10-14T17:25:34+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "The steel stock that has the shorts and options traders on edge",
-    "link": "https://www.cnbc.com/2026/10/14/the-steel-stock-that-has-the-shorts-and-options-traders-on-edge.html",
-    "zeit": "2026-10-14T17:22:55+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "How high inflation became a 'fact of life' in the U.S.",
-    "link": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
-    "zeit": "2026-10-14T17:20:23+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Iran says it’s ‘counting the moments’ until it can strike U.S. warships; Saudi Aramco facilities attacked",
-    "link": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html",
-    "zeit": "2026-10-14T17:12:20+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
