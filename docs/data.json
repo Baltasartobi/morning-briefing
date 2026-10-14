@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-14T13:32:01+02:00",
+ "aktualisiert": "2026-10-14T14:03:13+02:00",
  "kernaussagen": [
-  "SMI +0.87%, DAX +0.65% führt",
-  "Franken schwächer: EUR/CHF 0.9327 (+0.20%)",
-  "Brent über 100 USD: 106.22 (+0.50%)"
+  "SMI +0.88%, Euro Stoxx 50 +0.50% führt",
+  "Franken schwächer: EUR/CHF 0.9326 (+0.19%)",
+  "Brent über 100 USD: 106.27 (+0.55%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14048.2001953125,
+   "kurs": 14050.48046875,
    "vortag": 13927.51953125,
-   "veraenderung_pct": 0.8664907185498505,
+   "veraenderung_pct": 0.8828631489196992,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13787.400391,
     13877.839844,
     13927.519531,
-    14048.200195
+    14050.480469
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25425.240234375,
+   "kurs": 25385.30078125,
    "vortag": 25259.900390625,
-   "veraenderung_pct": 0.6545546149950843,
+   "veraenderung_pct": 0.49644055869493275,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25087.269531,
     25277.679688,
     25259.900391,
-    25425.240234
+    25385.300781
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6207.08984375,
+   "kurs": 6197.7099609375,
    "vortag": 6167.009765625,
-   "veraenderung_pct": 0.6499110533018326,
+   "veraenderung_pct": 0.497813307895556,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6173.370117,
     6201.209961,
     6167.009766,
-    6207.089844
+    6197.709961
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.932669997215271,
+   "kurs": 0.9326300024986267,
    "vortag": 0.9308300018310547,
-   "veraenderung_pct": 0.19767254822007363,
+   "veraenderung_pct": 0.1933758757271642,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93227,
     0.92988,
     0.93083,
-    0.93267
+    0.93263
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8334699869155884,
+   "kurs": 0.8329799771308899,
    "vortag": 0.834089994430542,
-   "veraenderung_pct": -0.07433340755717,
+   "veraenderung_pct": -0.13308123908258862,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83138,
     0.82995,
     0.83409,
-    0.83347
+    0.83298
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4162.89990234375,
+   "kurs": 4161.0,
    "vortag": 4177.2998046875,
-   "veraenderung_pct": -0.34471795219465085,
+   "veraenderung_pct": -0.39019954156054304,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4216.299805,
     4190.600098,
     4177.299805,
-    4162.899902
+    4161.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 106.22000122070312,
+   "kurs": 106.2699966430664,
    "vortag": 105.69000244140625,
-   "veraenderung_pct": 0.5014653865588636,
+   "veraenderung_pct": 0.5487692196636029,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.720001,
     106.650002,
     105.690002,
-    106.220001
+    106.269997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83335.3828125,
+   "kurs": 83464.2109375,
    "vortag": 83095.125,
-   "veraenderung_pct": 0.2891358698840607,
+   "veraenderung_pct": 0.4441727929285877,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     83679.46875,
     81762.5625,
     83095.125,
-    83335.382812
+    83464.210938
    ]
   }
  ],
@@ -256,19 +256,7 @@
   {
    "name": "USA",
    "quelle": "yahoo",
-   "verfuegbar": true,
-   "wert": 5.217,
-   "vortag": 5.24,
-   "veraenderung_bp": -2.3,
-   "datum": "2026-10-13",
-   "ist_heute": false,
-   "verlauf": [
-    5.277,
-    5.231,
-    5.244,
-    5.24,
-    5.217
-   ]
+   "verfuegbar": false
   }
  ],
  "watchlist": [
@@ -278,9 +266,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 78.08000183105469,
+   "kurs": 78.16999816894531,
    "vortag": 77.30000305175781,
-   "veraenderung_pct": 1.0090540084126687,
+   "veraenderung_pct": 1.125478761760168,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +276,7 @@
     76.040001,
     76.379997,
     77.300003,
-    78.080002
+    78.169998
    ]
   },
   {
@@ -297,9 +285,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 120.66000366210938,
+   "kurs": 120.76000213623047,
    "vortag": 119.30000305175781,
-   "veraenderung_pct": 1.1399837179899563,
+   "veraenderung_pct": 1.2238047335499491,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +295,7 @@
     119.099998,
     119.959999,
     119.300003,
-    120.660004
+    120.760002
    ]
   },
   {
@@ -316,9 +304,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 363.5,
+   "kurs": 363.1000061035156,
    "vortag": 359.79998779296875,
-   "veraenderung_pct": 1.028352510439845,
+   "veraenderung_pct": 0.9171813292127462,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +314,7 @@
     357.799988,
     360.0,
     359.799988,
-    363.5
+    363.100006
    ]
   },
   {
@@ -335,9 +323,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.93000030517578,
+   "kurs": 39.86000061035156,
    "vortag": 40.09000015258789,
-   "veraenderung_pct": -0.3991016383215973,
+   "veraenderung_pct": -0.5737080103789483,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +333,7 @@
     39.900002,
     40.009998,
     40.09,
-    39.93
+    39.860001
    ]
   }
  ],
@@ -374,9 +362,9 @@
   ],
   "artikel": [
    {
-    "titel": "Morgan Stanley earnings are out – Here are the numbers",
-    "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-    "zeit": "2026-10-14T11:30:21+00:00",
+    "titel": "Even more borrowers choose riskier mortgages, as higher interest rates crush affordability",
+    "link": "https://www.cnbc.com/2026/10/14/even-more-borrowers-choose-riskier-mortgages-as-higher-interest-rates-crush-affordability.html",
+    "zeit": "2026-10-14T12:01:31+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,10 +372,26 @@
    {
     "titel": "Bank of America posts third-quarter profit drop due to $1.2 billion Treasury fine; shares decline",
     "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-    "zeit": "2026-10-14T11:28:19+00:00",
+    "zeit": "2026-10-14T11:58:23+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Morgan Stanley tops estimates as equities trading revenue exceeds expectations by $909 million",
+    "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+    "zeit": "2026-10-14T11:58:05+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Die Regierungen in Paris und Berlin wollen die Industrie vor China schützen. Zwei grossen Branchen macht das Angst.",
+    "link": "https://www.nzz.ch/wirtschaft/die-regierungen-in-paris-und-berlin-wollen-die-industrie-vor-china-schuetzen-zwei-grossen-branchen-macht-das-angst-ld.10033559",
+    "zeit": "2026-10-14T11:35:23+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Anthropic urges court in Washington, DC, to rehear appeal of Pentagon blacklisting",
@@ -409,22 +413,6 @@
     "titel": "Tech giants race to get AI gadgets on shelves for holiday rush",
     "link": "https://www.cnbc.com/2026/10/14/tech-giants-race-to-get-ai-gadgets-on-shelves-for-holiday-rush.html",
     "zeit": "2026-10-14T11:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Even more borrowers choose riskier mortgages, as higher interest rates crush affordability",
-    "link": "https://www.cnbc.com/2026/10/14/even-more-borrowers-choose-riskier-mortgages-as-higher-interest-rates-crush-affordability.html",
-    "zeit": "2026-10-14T11:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Diesel squeeze set to last well into 2027 as Iran war disrupts supply, IEA says",
-    "link": "https://www.cnbc.com/2026/10/14/diesel-deal-oil-price-iea-report.html",
-    "zeit": "2026-10-14T10:37:42+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -460,6 +448,14 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
+   },
+   {
+    "titel": "Ukraine warns Starlink limits are disrupting military operations as Russia pounds its energy infrastructure",
+    "link": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html",
+    "zeit": "2026-10-14T09:18:18+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
    },
    {
     "titel": "DIE NEUESTEN ENTWICKLUNGEN - Signa-Insolvenz: René Benko wechselt vom Gefängnis in den Hausarrest",
@@ -593,14 +589,6 @@
     "titel": "«Die Araber werden Gaza verlassen» – die Ikone der Siedlerbewegung in Israel will Siedlungen im Gazastreifen gründen. Ein Besuch",
     "link": "https://www.nzz.ch/international/israels-siedler-wollen-zurueckdie-araber-werden-gaza-verlassen-ld.10026087",
     "zeit": "2026-10-14T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "GASTKOMMENTAR - Mit dem Menschen, statt gegen ihn: KI verlangt nach einer Form der Kooperation",
-    "link": "https://www.nzz.ch/meinung/mit-dem-menschen-statt-gegen-ihn-ki-verlangt-nach-einer-form-der-kooperation-ld.10021934",
-    "zeit": "2026-10-14T03:25:00+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
