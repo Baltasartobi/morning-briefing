@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-14T09:39:57+02:00",
+ "aktualisiert": "2026-10-14T10:34:07+02:00",
  "kernaussagen": [
-  "SMI +0.44%, Euro Stoxx 50 +0.60% führt",
-  "Franken schwächer: EUR/CHF 0.9325 (+0.18%)",
-  "Brent über 100 USD: 106.23 (+0.51%)"
+  "SMI +0.53%, Euro Stoxx 50 +0.70% führt",
+  "Franken schwächer: EUR/CHF 0.9331 (+0.24%)",
+  "Bitcoin +0.80% auf 83'761 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13988.6201171875,
+   "kurs": 14001.4697265625,
    "vortag": 13927.51953125,
-   "veraenderung_pct": 0.4387040046894608,
+   "veraenderung_pct": 0.5309645780540828,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13787.400391,
     13877.839844,
     13927.519531,
-    13988.620117
+    14001.469727
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25328.810546875,
+   "kurs": 25365.3203125,
    "vortag": 25259.900390625,
-   "veraenderung_pct": 0.27280454469083004,
+   "veraenderung_pct": 0.41734100390247164,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25087.269531,
     25277.679688,
     25259.900391,
-    25328.810547
+    25365.320312
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6204.2998046875,
+   "kurs": 6209.919921875,
    "vortag": 6167.009765625,
-   "veraenderung_pct": 0.604669693736426,
+   "veraenderung_pct": 0.6958016588392901,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6173.370117,
     6201.209961,
     6167.009766,
-    6204.299805
+    6209.919922
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9325299859046936,
+   "kurs": 0.9331099987030029,
    "vortag": 0.9308300018310547,
-   "veraenderung_pct": 0.18263099280155792,
+   "veraenderung_pct": 0.24494234902863177,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93227,
     0.92988,
     0.93083,
-    0.93253
+    0.93311
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8321400284767151,
+   "kurs": 0.8330900073051453,
    "vortag": 0.834089994430542,
-   "veraenderung_pct": -0.2337836404761373,
+   "veraenderung_pct": -0.11988959609561256,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83138,
     0.82995,
     0.83409,
-    0.83214
+    0.83309
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4169.5,
+   "kurs": 4173.39990234375,
    "vortag": 4177.2998046875,
-   "veraenderung_pct": -0.1867188148369836,
+   "veraenderung_pct": -0.0933594074184918,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4216.299805,
     4190.600098,
     4177.299805,
-    4169.5
+    4173.399902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 106.2300033569336,
+   "kurs": 105.62999725341797,
    "vortag": 105.69000244140625,
-   "veraenderung_pct": 0.5109290406410061,
+   "veraenderung_pct": -0.056774705839890416,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.720001,
     106.650002,
     105.690002,
-    106.230003
+    105.629997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83381.7578125,
+   "kurs": 83760.859375,
    "vortag": 83095.125,
-   "veraenderung_pct": 0.34494540142999686,
+   "veraenderung_pct": 0.8011713984424462,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     83679.46875,
     81762.5625,
     83095.125,
-    83381.757812
+    83760.859375
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 77.63999938964844,
+   "kurs": 77.76000213623047,
    "vortag": 76.37999725341797,
-   "veraenderung_pct": 1.649649360486305,
+   "veraenderung_pct": 1.806762152967667,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     76.0,
     76.040001,
     76.379997,
-    77.639999
+    77.760002
    ]
   },
   {
@@ -296,7 +296,19 @@
    "symbol": "NOVN.SW",
    "einheit": "CHF",
    "dezimalen": 2,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 120.22000122070312,
+   "vortag": 119.30000305175781,
+   "veraenderung_pct": 0.7711635753656854,
+   "datum": "2026-10-14",
+   "ist_heute": true,
+   "verlauf": [
+    117.720001,
+    119.099998,
+    119.959999,
+    119.300003,
+    120.220001
+   ]
   },
   {
    "name": "Roche GS",
@@ -304,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 360.8999938964844,
+   "kurs": 361.79998779296875,
    "vortag": 359.79998779296875,
-   "veraenderung_pct": 0.30572710973757466,
+   "veraenderung_pct": 0.5558643879528979,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -314,7 +326,7 @@
     357.799988,
     360.0,
     359.799988,
-    360.899994
+    361.799988
    ]
   },
   {
@@ -323,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.060001373291016,
+   "kurs": 39.970001220703125,
    "vortag": 40.0099983215332,
-   "veraenderung_pct": 0.12497639054112053,
+   "veraenderung_pct": -0.09996776432892318,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -333,7 +345,7 @@
     38.830002,
     39.900002,
     40.009998,
-    40.060001
+    39.970001
    ]
   }
  ],
@@ -362,17 +374,41 @@
   ],
   "artikel": [
    {
-    "titel": "U.S. Treasury yields inch lower as investors await key inflation report",
-    "link": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
-    "zeit": "2026-10-14T07:21:38+00:00",
+    "titel": "DIE NEUESTEN ENTWICKLUNGEN - Signa-Insolvenz: René Benko wechselt vom Gefängnis in den Hausarrest",
+    "link": "https://www.nzz.ch/wirtschaft/signa-krise-die-wichtigsten-meldungen-ld.1767273",
+    "zeit": "2026-10-14T08:25:39+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "MELDUNGEN WIRTSCHAFT - Zuger Beauty-Konzern Galderma kauft US-Firma ZO Skin Health +++ Dating-App Bumble für 1,3 Milliarden Dollar verkauf",
+    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldugen-ld.10025518",
+    "zeit": "2026-10-14T08:03:15+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "ASML says it's getting order interest through 2030 as profit smashes expectations",
+    "link": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
+    "zeit": "2026-10-14T08:00:55+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "ASML says it's getting order interest through 2030 as profit smashes expectations",
-    "link": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
-    "zeit": "2026-10-14T07:10:36+00:00",
+    "titel": "Diesel squeeze set to last well into 2027 as Iran war disrupts supply, IEA says",
+    "link": "https://www.cnbc.com/2026/10/14/diesel-deal-oil-price-iea-report.html",
+    "zeit": "2026-10-14T08:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "U.S. Treasury yields inch lower as investors await key inflation report",
+    "link": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
+    "zeit": "2026-10-14T07:21:38+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,14 +420,6 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
-   },
-   {
-    "titel": "MELDUNGEN WIRTSCHAFT - Dating-App Bumble für 1,3 Milliarden Dollar verkauft +++ Open-AI findet Abhörgerät im Konferenzraum",
-    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldugen-ld.10025518",
-    "zeit": "2026-10-14T07:04:37+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
    },
    {
     "titel": "Verstoss gegen Geldwäscherei – Bank of America muss Milliardenstrafe zahlen",
@@ -448,14 +476,6 @@
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia",
-    "link": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
-    "zeit": "2026-10-14T04:07:00+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Leonteq baut Plattform für strukturierte Währungsprodukte aus",
@@ -590,14 +610,6 @@
     "link": "https://www.finews.ch/news/banken/73958-wak-staenderat-plb-bereitstellungsgebuehr-bankiervereinigung",
     "zeit": "2026-10-13T13:19:34+00:00",
     "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "«Trump ist der einzige Präsident, der versteht, worum es in den Beziehungen zwischen den USA und China eigentlich geht», sagt eine hochrangige Diplomatin",
-    "link": "https://www.nzz.ch/international/trump-ist-der-einzige-praesident-der-versteht-worum-es-in-den-beziehungen-zwischen-den-usa-und-china-eigentlich-geht-sagt-eine-hochrangige-diplomatin-ld.10025878",
-    "zeit": "2026-10-13T12:08:43+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
