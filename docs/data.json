@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-14T14:03:13+02:00",
+ "aktualisiert": "2026-10-14T14:41:38+02:00",
  "kernaussagen": [
-  "SMI +0.88%, Euro Stoxx 50 +0.50% führt",
-  "Franken schwächer: EUR/CHF 0.9326 (+0.19%)",
-  "Brent über 100 USD: 106.27 (+0.55%)"
+  "SMI +1.07%, Euro Stoxx 50 +0.71% führt",
+  "Franken schwächer: EUR/CHF 0.9330 (+0.24%)",
+  "Gold −0.65% auf 4'150.30 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14050.48046875,
+   "kurs": 14076.0400390625,
    "vortag": 13927.51953125,
-   "veraenderung_pct": 0.8828631489196992,
+   "veraenderung_pct": 1.0663816157590489,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13787.400391,
     13877.839844,
     13927.519531,
-    14050.480469
+    14076.040039
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25385.30078125,
+   "kurs": 25427.720703125,
    "vortag": 25259.900390625,
-   "veraenderung_pct": 0.49644055869493275,
+   "veraenderung_pct": 0.6643744033222099,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25087.269531,
     25277.679688,
     25259.900391,
-    25385.300781
+    25427.720703
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6197.7099609375,
+   "kurs": 6210.75,
    "vortag": 6167.009765625,
-   "veraenderung_pct": 0.497813307895556,
+   "veraenderung_pct": 0.7092616363088666,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6173.370117,
     6201.209961,
     6167.009766,
-    6197.709961
+    6210.75
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9326300024986267,
+   "kurs": 0.9330300092697144,
    "vortag": 0.9308300018310547,
-   "veraenderung_pct": 0.1933758757271642,
+   "veraenderung_pct": 0.2363490040428351,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93227,
     0.92988,
     0.93083,
-    0.93263
+    0.93303
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8329799771308899,
+   "kurs": 0.8378999829292297,
    "vortag": 0.834089994430542,
-   "veraenderung_pct": -0.13308123908258862,
+   "veraenderung_pct": 0.4567838631476473,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83138,
     0.82995,
     0.83409,
-    0.83298
+    0.8379
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4161.0,
+   "kurs": 4150.2998046875,
    "vortag": 4177.2998046875,
-   "veraenderung_pct": -0.39019954156054304,
+   "veraenderung_pct": -0.646350543710128,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4216.299805,
     4190.600098,
     4177.299805,
-    4161.0
+    4150.299805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 106.2699966430664,
+   "kurs": 105.86000061035156,
    "vortag": 105.69000244140625,
-   "veraenderung_pct": 0.5487692196636029,
+   "veraenderung_pct": 0.16084602613153365,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.720001,
     106.650002,
     105.690002,
-    106.269997
+    105.860001
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83464.2109375,
+   "kurs": 82565.34375,
    "vortag": 83095.125,
-   "veraenderung_pct": 0.4441727929285877,
+   "veraenderung_pct": -0.6375599651604058,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     83679.46875,
     81762.5625,
     83095.125,
-    83464.210938
+    82565.34375
    ]
   }
  ],
@@ -256,7 +256,19 @@
   {
    "name": "USA",
    "quelle": "yahoo",
-   "verfuegbar": false
+   "verfuegbar": true,
+   "wert": 5.188,
+   "vortag": 5.217,
+   "veraenderung_bp": -2.9,
+   "datum": "2026-10-14",
+   "ist_heute": true,
+   "verlauf": [
+    5.231,
+    5.244,
+    5.24,
+    5.217,
+    5.188
+   ]
   }
  ],
  "watchlist": [
@@ -266,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 78.16999816894531,
+   "kurs": 78.22000122070312,
    "vortag": 77.30000305175781,
-   "veraenderung_pct": 1.125478761760168,
+   "veraenderung_pct": 1.1901657601867122,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -276,7 +288,7 @@
     76.040001,
     76.379997,
     77.300003,
-    78.169998
+    78.220001
    ]
   },
   {
@@ -285,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 120.76000213623047,
+   "kurs": 120.91999816894531,
    "vortag": 119.30000305175781,
-   "veraenderung_pct": 1.2238047335499491,
+   "veraenderung_pct": 1.3579170794192352,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -295,7 +307,7 @@
     119.099998,
     119.959999,
     119.300003,
-    120.760002
+    120.919998
    ]
   },
   {
@@ -304,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 363.1000061035156,
+   "kurs": 364.0,
    "vortag": 359.79998779296875,
-   "veraenderung_pct": 0.9171813292127462,
+   "veraenderung_pct": 1.1673186074280695,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -314,7 +326,7 @@
     357.799988,
     360.0,
     359.799988,
-    363.100006
+    364.0
    ]
   },
   {
@@ -323,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.86000061035156,
+   "kurs": 39.97999954223633,
    "vortag": 40.09000015258789,
-   "veraenderung_pct": -0.5737080103789483,
+   "veraenderung_pct": -0.27438416047115277,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -333,7 +345,7 @@
     39.900002,
     40.009998,
     40.09,
-    39.860001
+    39.98
    ]
   }
  ],
@@ -362,17 +374,57 @@
   ],
   "artikel": [
    {
-    "titel": "Even more borrowers choose riskier mortgages, as higher interest rates crush affordability",
-    "link": "https://www.cnbc.com/2026/10/14/even-more-borrowers-choose-riskier-mortgages-as-higher-interest-rates-crush-affordability.html",
-    "zeit": "2026-10-14T12:01:31+00:00",
+    "titel": "Bank of America shares drop 5% after third-quarter revenue miss and regulatory penalty",
+    "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+    "zeit": "2026-10-14T12:36:54+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Bank of America posts third-quarter profit drop due to $1.2 billion Treasury fine; shares decline",
-    "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-    "zeit": "2026-10-14T11:58:23+00:00",
+    "titel": "Consumer prices rose 0.6% in September, putting annual inflation rate at 3.7%",
+    "link": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
+    "zeit": "2026-10-14T12:34:44+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Verstoss gegen Geldwäscherei – Bank of America muss Milliardenstrafe zahlen",
+    "link": "https://www.srf.ch/news/wirtschaft/verstoss-gegen-geldwaescherei-bank-of-america-muss-milliardenstrafe-zahlen",
+    "zeit": "2026-10-14T12:26:35+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "'Office' is actually having a scarcity problem",
+    "link": "https://www.cnbc.com/2026/10/14/office-is-actually-having-a-scarcity-problem.html",
+    "zeit": "2026-10-14T12:24:05+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Iran says it’s ‘counting the moments’ until it can attack American warships; Saudi Aramco facilities attacked as Houthi attacks escalate",
+    "link": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html",
+    "zeit": "2026-10-14T12:20:05+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Delta's business-class revamp: New seats, menus, plates and more Porsches",
+    "link": "https://www.cnbc.com/2026/10/14/delta-one-revamp.html",
+    "zeit": "2026-10-14T12:10:03+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Even more borrowers choose riskier mortgages, as higher interest rates crush affordability",
+    "link": "https://www.cnbc.com/2026/10/14/even-more-borrowers-choose-riskier-mortgages-as-higher-interest-rates-crush-affordability.html",
+    "zeit": "2026-10-14T12:01:31+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -386,7 +438,7 @@
     "sprache": "en"
    },
    {
-    "titel": "Die Regierungen in Paris und Berlin wollen die Industrie vor China schützen. Zwei grossen Branchen macht das Angst.",
+    "titel": "Die Regierungen in Paris und Berlin wollen die Industrie vor China schützen. Zwei grossen Branchen macht das Angst",
     "link": "https://www.nzz.ch/wirtschaft/die-regierungen-in-paris-und-berlin-wollen-die-industrie-vor-china-schuetzen-zwei-grossen-branchen-macht-das-angst-ld.10033559",
     "zeit": "2026-10-14T11:35:23+00:00",
     "quelle": "NZZ Wirtschaft",
@@ -397,14 +449,6 @@
     "titel": "Anthropic urges court in Washington, DC, to rehear appeal of Pentagon blacklisting",
     "link": "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html",
     "zeit": "2026-10-14T11:01:42+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Delta's business-class revamp: New seats, menus, plates and more Porsches",
-    "link": "https://www.cnbc.com/2026/10/14/delta-one-revamp.html",
-    "zeit": "2026-10-14T11:00:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -426,36 +470,12 @@
     "sprache": "en"
    },
    {
-    "titel": "How Trump’s tariffs and Iran war are becoming liabilities in Michigan’s Senate race",
-    "link": "https://www.cnbc.com/2026/10/14/mike-rogers-trump-tariffs-michigan-senate-election.html",
-    "zeit": "2026-10-14T10:30:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "South Texas Latino voters who flipped for Trump in 2024 are up for grabs in 2026",
-    "link": "https://www.cnbc.com/2026/10/14/texas-latino-voters-midterm-election-trump.html",
-    "zeit": "2026-10-14T10:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Enttäuschende Rendite bei grünen Anlagen: Erste Pensionskassen haben begonnen, ihre ESG-Fonds wieder zu verkaufen",
     "link": "https://www.nzz.ch/wirtschaft/enttaeuschende-rendite-bei-gruenen-anlagen-erste-pensionskassen-haben-begonnen-ihre-esg-fonds-wieder-zu-verkaufen-ld.10031907",
     "zeit": "2026-10-14T09:39:08+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Ukraine warns Starlink limits are disrupting military operations as Russia pounds its energy infrastructure",
-    "link": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html",
-    "zeit": "2026-10-14T09:18:18+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "DIE NEUESTEN ENTWICKLUNGEN - Signa-Insolvenz: René Benko wechselt vom Gefängnis in den Hausarrest",
@@ -494,14 +514,6 @@
     "link": "https://www.finews.ch/news/finanzplatz/73974-franzoesische-staatsanleihen-ezb-chefin-christine-lagarde-obligationenmarkt-eingreifen",
     "zeit": "2026-10-14T06:27:22+00:00",
     "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Verstoss gegen Geldwäscherei – Bank of America muss Milliardenstrafe zahlen",
-    "link": "https://www.srf.ch/news/wirtschaft/verstoss-gegen-geldwaescherei-bank-of-america-muss-milliardenstrafe-zahlen",
-    "zeit": "2026-10-14T06:15:50+00:00",
-    "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
