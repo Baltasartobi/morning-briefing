@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-14T08:04:47+02:00",
+ "aktualisiert": "2026-10-14T08:43:23+02:00",
  "kernaussagen": [
-  "SMI +0.36%, Nikkei 225 +0.57% führt",
-  "Franken schwächer: EUR/CHF 0.9326 (+0.19%)",
-  "Bitcoin +1.91% auf 83'322 USD · Brent über 100 USD"
+  "SMI +0.36%, Euro Stoxx 50 −0.55% am schwächsten",
+  "Franken schwächer: EUR/CHF 0.9330 (+0.23%)",
+  "Bitcoin +1.97% auf 83'372 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 68163.21875,
+   "kurs": 67862.921875,
    "vortag": 67777.5234375,
-   "veraenderung_pct": 0.5690607932224978,
+   "veraenderung_pct": 0.12599816748799508,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     69042.109375,
     69030.921875,
     67777.523438,
-    68163.21875
+    67862.921875
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9325699806213379,
+   "kurs": 0.9330000281333923,
    "vortag": 0.9308300018310547,
-   "veraenderung_pct": 0.18692766529446736,
+   "veraenderung_pct": 0.23312810051985267,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93227,
     0.92988,
     0.93083,
-    0.93257
+    0.933
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8322700262069702,
-   "vortag": 0.834089994430542,
-   "veraenderung_pct": -0.21819806444439704,
-   "datum": "2026-10-14",
-   "ist_heute": true,
+   "kurs": 0.834089994430542,
+   "vortag": 0.8299499750137329,
+   "veraenderung_pct": 0.4988275849686641,
+   "datum": "2026-10-13",
+   "ist_heute": false,
    "verlauf": [
+    0.83218,
     0.83298,
     0.83138,
     0.82995,
-    0.83409,
-    0.83227
+    0.83409
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4177.0,
+   "kurs": 4177.2001953125,
    "vortag": 4177.2998046875,
-   "veraenderung_pct": -0.007176997139723973,
+   "veraenderung_pct": -0.0023845397662869416,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4216.299805,
     4190.600098,
     4177.299805,
-    4177.0
+    4177.200195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 106.18000030517578,
+   "kurs": 105.91999816894531,
    "vortag": 105.69000244140625,
-   "veraenderung_pct": 0.4636179888832803,
+   "veraenderung_pct": 0.21761351331841539,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.720001,
     106.650002,
     105.690002,
-    106.18
+    105.919998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83321.71875,
+   "kurs": 83372.046875,
    "vortag": 81762.5625,
-   "veraenderung_pct": 1.9069317329676316,
+   "veraenderung_pct": 1.9684857296394132,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82912.226562,
     83679.46875,
     81762.5625,
-    83321.71875
+    83372.046875
    ]
   }
  ],
@@ -223,17 +223,17 @@
    "name": "Schweiz",
    "quelle": "snb",
    "verfuegbar": true,
-   "wert": 0.572,
-   "vortag": 0.579,
-   "veraenderung_bp": -0.7,
-   "datum": "2026-10-12",
+   "wert": 0.561,
+   "vortag": 0.572,
+   "veraenderung_bp": -1.1,
+   "datum": "2026-10-13",
    "ist_heute": false,
    "verlauf": [
-    0.55,
     0.558,
     0.566,
     0.579,
-    0.572
+    0.572,
+    0.561
    ]
   },
   {
@@ -374,7 +374,15 @@
   ],
   "artikel": [
    {
-    "titel": "MELDUNGEN WIRTSCHAFT - Swisscom gewinnt vor Bundesverwaltungegericht +++ Open-AI findet Abhörgerät im Konferenzraum – FBI ermittelt",
+    "titel": "Verstoss gegen Geldwäscherei – Bank of America muss Milliardenstrafe zahlen",
+    "link": "https://www.srf.ch/news/wirtschaft/verstoss-gegen-geldwaescherei-bank-of-america-muss-milliardenstrafe-zahlen",
+    "zeit": "2026-10-14T06:15:50+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "MELDUNGEN WIRTSCHAFT - Open-AI findet Abhörgerät im Konferenzraum – FBI ermittelt",
     "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldugen-ld.10025518",
     "zeit": "2026-10-14T05:59:51+00:00",
     "quelle": "NZZ Wirtschaft",
@@ -681,14 +689,6 @@
     "titel": "Hilfe für Schweizer Winzer – Weinhändler kritisiert Parmelins «Schnapsidee»",
     "link": "https://www.srf.ch/news/wirtschaft/hilfe-fuer-schweizer-winzer-weinhaendler-kritisiert-parmelins-schnapsidee",
     "zeit": "2026-10-12T03:41:51+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Multiple Krisen – Konsumentenstimmung in der Schweiz bleibt im Tief",
-    "link": "https://www.srf.ch/news/wirtschaft/multiple-krisen-konsumentenstimmung-in-der-schweiz-bleibt-im-tief",
-    "zeit": "2026-10-11T17:13:10+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
