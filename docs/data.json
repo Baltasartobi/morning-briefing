@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-14T14:41:38+02:00",
+ "aktualisiert": "2026-10-14T15:37:11+02:00",
  "kernaussagen": [
-  "SMI +1.07%, Euro Stoxx 50 +0.71% führt",
-  "Franken schwächer: EUR/CHF 0.9330 (+0.24%)",
-  "Gold −0.65% auf 4'150.30 USD/Unze · Brent über 100 USD"
+  "SMI +0.99%, Nasdaq −0.61% am schwächsten",
+  "Franken schwächer: EUR/CHF 0.9308 (+0.10%)",
+  "Gold −1.59% auf 4'110.70 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14076.0400390625,
+   "kurs": 14065.0498046875,
    "vortag": 13927.51953125,
-   "veraenderung_pct": 1.0663816157590489,
+   "veraenderung_pct": 0.9874714095996495,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13787.400391,
     13877.839844,
     13927.519531,
-    14076.040039
+    14065.049805
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25427.720703125,
+   "kurs": 25372.529296875,
    "vortag": 25259.900390625,
-   "veraenderung_pct": 0.6643744033222099,
+   "veraenderung_pct": 0.4458802469854639,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25087.269531,
     25277.679688,
     25259.900391,
-    25427.720703
+    25372.529297
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6210.75,
+   "kurs": 6184.2001953125,
    "vortag": 6167.009765625,
-   "veraenderung_pct": 0.7092616363088666,
+   "veraenderung_pct": 0.27874821576121533,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6173.370117,
     6201.209961,
     6167.009766,
-    6210.75
+    6184.200195
    ]
   },
   {
@@ -69,17 +69,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7805.4501953125,
-   "vortag": 7807.240234375,
-   "veraenderung_pct": -0.02292793623306366,
-   "datum": "2026-10-13",
-   "ist_heute": false,
+   "kurs": 7776.2001953125,
+   "vortag": 7805.4501953125,
+   "veraenderung_pct": -0.37473815434202473,
+   "datum": "2026-10-14",
+   "ist_heute": true,
    "verlauf": [
-    7801.77002,
     7765.359863,
     7811.540039,
     7807.240234,
-    7805.450195
+    7805.450195,
+    7776.200195
    ]
   },
   {
@@ -88,17 +88,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 27204.380859375,
-   "vortag": 27245.900390625,
-   "veraenderung_pct": -0.15238817823868267,
-   "datum": "2026-10-13",
-   "ist_heute": false,
+   "kurs": 27039.720703125,
+   "vortag": 27204.380859375,
+   "veraenderung_pct": -0.6052707359934462,
+   "datum": "2026-10-14",
+   "ist_heute": true,
    "verlauf": [
-    27538.689453,
     27193.339844,
     27366.169922,
     27245.900391,
-    27204.380859
+    27204.380859,
+    27039.720703
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9330300092697144,
-   "vortag": 0.9308300018310547,
-   "veraenderung_pct": 0.2363490040428351,
-   "datum": "2026-10-14",
-   "ist_heute": true,
+   "kurs": 0.9308300018310547,
+   "vortag": 0.9298800230026245,
+   "veraenderung_pct": 0.10216144071604205,
+   "datum": "2026-10-13",
+   "ist_heute": false,
    "verlauf": [
+    0.93652,
     0.93302,
     0.93227,
     0.92988,
-    0.93083,
-    0.93303
+    0.93083
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8378999829292297,
-   "vortag": 0.834089994430542,
-   "veraenderung_pct": 0.4567838631476473,
-   "datum": "2026-10-14",
-   "ist_heute": true,
+   "kurs": 0.834089994430542,
+   "vortag": 0.8299499750137329,
+   "veraenderung_pct": 0.4988275849686641,
+   "datum": "2026-10-13",
+   "ist_heute": false,
    "verlauf": [
+    0.83218,
     0.83298,
     0.83138,
     0.82995,
-    0.83409,
-    0.8379
+    0.83409
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4150.2998046875,
+   "kurs": 4110.7001953125,
    "vortag": 4177.2998046875,
-   "veraenderung_pct": -0.646350543710128,
+   "veraenderung_pct": -1.5943219900153238,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4216.299805,
     4190.600098,
     4177.299805,
-    4150.299805
+    4110.700195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.86000061035156,
+   "kurs": 105.7699966430664,
    "vortag": 105.69000244140625,
-   "veraenderung_pct": 0.16084602613153365,
+   "veraenderung_pct": 0.07568757669818016,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.720001,
     106.650002,
     105.690002,
-    105.860001
+    105.769997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82565.34375,
+   "kurs": 82858.890625,
    "vortag": 83095.125,
-   "veraenderung_pct": -0.6375599651604058,
+   "veraenderung_pct": -0.2842939041249437,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     83679.46875,
     81762.5625,
     83095.125,
-    82565.34375
+    82858.890625
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.188,
+   "wert": 5.314,
    "vortag": 5.217,
-   "veraenderung_bp": -2.9,
+   "veraenderung_bp": 9.7,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.244,
     5.24,
     5.217,
-    5.188
+    5.314
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 78.22000122070312,
+   "kurs": 78.51000213623047,
    "vortag": 77.30000305175781,
-   "veraenderung_pct": 1.1901657601867122,
+   "veraenderung_pct": 1.5653286373901842,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     76.040001,
     76.379997,
     77.300003,
-    78.220001
+    78.510002
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 120.91999816894531,
+   "kurs": 120.94000244140625,
    "vortag": 119.30000305175781,
-   "veraenderung_pct": 1.3579170794192352,
+   "veraenderung_pct": 1.3746851196113852,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     119.099998,
     119.959999,
     119.300003,
-    120.919998
+    120.940002
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 364.0,
+   "kurs": 365.70001220703125,
    "vortag": 359.79998779296875,
-   "veraenderung_pct": 1.1673186074280695,
+   "veraenderung_pct": 1.6398067299150165,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     357.799988,
     360.0,
     359.799988,
-    364.0
+    365.700012
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.97999954223633,
+   "kurs": 39.650001525878906,
    "vortag": 40.09000015258789,
-   "veraenderung_pct": -0.27438416047115277,
+   "veraenderung_pct": -1.09752712655099,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.900002,
     40.009998,
     40.09,
-    39.98
+    39.650002
    ]
   }
  ],
@@ -374,17 +374,65 @@
   ],
   "artikel": [
    {
-    "titel": "Bank of America shares drop 5% after third-quarter revenue miss and regulatory penalty",
-    "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-    "zeit": "2026-10-14T12:36:54+00:00",
+    "titel": "Trump's diesel dilemma — by the numbers",
+    "link": "https://www.cnbc.com/2026/10/14/trumps-diesel-dilemma-by-the-numbers.html",
+    "zeit": "2026-10-14T13:35:46+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Consumer prices rose 0.6% in September, putting annual inflation rate at 3.7%",
+    "titel": "Bank of America shares drop 7% after third-quarter revenue miss and regulatory penalty",
+    "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+    "zeit": "2026-10-14T13:33:39+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Consumer prices rose at 3.7% annual rate in September as gas costs skyrocket",
     "link": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
-    "zeit": "2026-10-14T12:34:44+00:00",
+    "zeit": "2026-10-14T13:31:46+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
+    "link": "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html",
+    "zeit": "2026-10-14T13:30:22+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
+    "link": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
+    "zeit": "2026-10-14T13:25:24+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+    "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+    "zeit": "2026-10-14T13:11:07+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+    "link": "https://www.cnbc.com/investingclub/2026/10/14/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+    "zeit": "2026-10-14T12:59:49+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Iran says it’s ‘counting the moments’ until it can attack U.S. warships; Saudi Aramco facilities attacked",
+    "link": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html",
+    "zeit": "2026-10-14T12:43:45+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -406,33 +454,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Iran says it’s ‘counting the moments’ until it can attack American warships; Saudi Aramco facilities attacked as Houthi attacks escalate",
-    "link": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html",
-    "zeit": "2026-10-14T12:20:05+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Delta's business-class revamp: New seats, menus, plates and more Porsches",
     "link": "https://www.cnbc.com/2026/10/14/delta-one-revamp.html",
     "zeit": "2026-10-14T12:10:03+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Even more borrowers choose riskier mortgages, as higher interest rates crush affordability",
-    "link": "https://www.cnbc.com/2026/10/14/even-more-borrowers-choose-riskier-mortgages-as-higher-interest-rates-crush-affordability.html",
-    "zeit": "2026-10-14T12:01:31+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Morgan Stanley tops estimates as equities trading revenue exceeds expectations by $909 million",
-    "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-    "zeit": "2026-10-14T11:58:05+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -444,30 +468,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Anthropic urges court in Washington, DC, to rehear appeal of Pentagon blacklisting",
-    "link": "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html",
-    "zeit": "2026-10-14T11:01:42+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Tech giants race to get AI gadgets on shelves for holiday rush",
-    "link": "https://www.cnbc.com/2026/10/14/tech-giants-race-to-get-ai-gadgets-on-shelves-for-holiday-rush.html",
-    "zeit": "2026-10-14T11:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
-    "link": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
-    "zeit": "2026-10-14T10:33:13+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Enttäuschende Rendite bei grünen Anlagen: Erste Pensionskassen haben begonnen, ihre ESG-Fonds wieder zu verkaufen",
