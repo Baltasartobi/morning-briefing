@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-14T10:34:07+02:00",
+ "aktualisiert": "2026-10-14T11:09:13+02:00",
  "kernaussagen": [
-  "SMI +0.53%, Euro Stoxx 50 +0.70% führt",
-  "Franken schwächer: EUR/CHF 0.9331 (+0.24%)",
-  "Bitcoin +0.80% auf 83'761 USD · Brent über 100 USD"
+  "SMI +0.63%, Euro Stoxx 50 +0.61% führt",
+  "Franken schwächer: EUR/CHF 0.9333 (+0.26%)",
+  "Bitcoin +0.34% auf 83'377 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14001.4697265625,
+   "kurs": 14015.1298828125,
    "vortag": 13927.51953125,
-   "veraenderung_pct": 0.5309645780540828,
+   "veraenderung_pct": 0.6290449018285127,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13787.400391,
     13877.839844,
     13927.519531,
-    14001.469727
+    14015.129883
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25365.3203125,
+   "kurs": 25366.41015625,
    "vortag": 25259.900390625,
-   "veraenderung_pct": 0.41734100390247164,
+   "veraenderung_pct": 0.42165552507298365,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25087.269531,
     25277.679688,
     25259.900391,
-    25365.320312
+    25366.410156
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6209.919921875,
+   "kurs": 6204.68994140625,
    "vortag": 6167.009765625,
-   "veraenderung_pct": 0.6958016588392901,
+   "veraenderung_pct": 0.6109958831471252,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6173.370117,
     6201.209961,
     6167.009766,
-    6209.919922
+    6204.689941
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9331099987030029,
+   "kurs": 0.9332799911499023,
    "vortag": 0.9308300018310547,
-   "veraenderung_pct": 0.24494234902863177,
+   "veraenderung_pct": 0.2632048079701077,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93227,
     0.92988,
     0.93083,
-    0.93311
+    0.93328
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8330900073051453,
+   "kurs": 0.8336499929428101,
    "vortag": 0.834089994430542,
-   "veraenderung_pct": -0.11988959609561256,
+   "veraenderung_pct": -0.052752279810330815,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83138,
     0.82995,
     0.83409,
-    0.83309
+    0.83365
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4173.39990234375,
+   "kurs": 4165.10009765625,
    "vortag": 4177.2998046875,
-   "veraenderung_pct": -0.0933594074184918,
+   "veraenderung_pct": -0.2920476767686253,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4216.299805,
     4190.600098,
     4177.299805,
-    4173.399902
+    4165.100098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.62999725341797,
+   "kurs": 105.69999694824219,
    "vortag": 105.69000244140625,
-   "veraenderung_pct": -0.056774705839890416,
+   "veraenderung_pct": 0.009456435429155974,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.720001,
     106.650002,
     105.690002,
-    105.629997
+    105.699997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83760.859375,
+   "kurs": 83376.859375,
    "vortag": 83095.125,
-   "veraenderung_pct": 0.8011713984424462,
+   "veraenderung_pct": 0.33905042564170706,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     83679.46875,
     81762.5625,
     83095.125,
-    83760.859375
+    83376.859375
    ]
   }
  ],
@@ -278,17 +278,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 77.76000213623047,
-   "vortag": 76.37999725341797,
-   "veraenderung_pct": 1.806762152967667,
+   "kurs": 77.86000061035156,
+   "vortag": 77.30000305175781,
+   "veraenderung_pct": 0.7244470070962183,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
-    75.559998,
     76.0,
     76.040001,
     76.379997,
-    77.760002
+    77.300003,
+    77.860001
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 120.22000122070312,
+   "kurs": 120.33999633789062,
    "vortag": 119.30000305175781,
-   "veraenderung_pct": 0.7711635753656854,
+   "veraenderung_pct": 0.871746235984272,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     119.099998,
     119.959999,
     119.300003,
-    120.220001
+    120.339996
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 361.79998779296875,
+   "kurs": 362.0,
    "vortag": 359.79998779296875,
-   "veraenderung_pct": 0.5558643879528979,
+   "veraenderung_pct": 0.6114542194751715,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     357.799988,
     360.0,
     359.799988,
-    361.799988
+    362.0
    ]
   },
   {
@@ -335,17 +335,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.970001220703125,
-   "vortag": 40.0099983215332,
-   "veraenderung_pct": -0.09996776432892318,
+   "kurs": 40.029998779296875,
+   "vortag": 40.09000015258789,
+   "veraenderung_pct": -0.14966668262070826,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
-    39.330002,
     38.830002,
     39.900002,
     40.009998,
-    39.970001
+    40.09,
+    40.029999
    ]
   }
  ],
@@ -374,6 +374,22 @@
   ],
   "artikel": [
    {
+    "titel": "Scott Bessent's growth plans aren't enough to tame surging deficit and debt pile, IMF chief says",
+    "link": "https://www.cnbc.com/2026/10/14/bond-yields-debt-deficit-treasury.html",
+    "zeit": "2026-10-14T08:53:35+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "ASML says it's getting order interest through 2030 as profit smashes expectations",
+    "link": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
+    "zeit": "2026-10-14T08:45:13+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "DIE NEUESTEN ENTWICKLUNGEN - Signa-Insolvenz: René Benko wechselt vom Gefängnis in den Hausarrest",
     "link": "https://www.nzz.ch/wirtschaft/signa-krise-die-wichtigsten-meldungen-ld.1767273",
     "zeit": "2026-10-14T08:25:39+00:00",
@@ -388,14 +404,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "ASML says it's getting order interest through 2030 as profit smashes expectations",
-    "link": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
-    "zeit": "2026-10-14T08:00:55+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Diesel squeeze set to last well into 2027 as Iran war disrupts supply, IEA says",
@@ -420,6 +428,14 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Die EZB will Frankreich nicht helfen",
+    "link": "https://www.finews.ch/news/finanzplatz/73974-franzoesische-staatsanleihen-ezb-chefin-christine-lagarde-obligationenmarkt-eingreifen",
+    "zeit": "2026-10-14T06:27:22+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Verstoss gegen Geldwäscherei – Bank of America muss Milliardenstrafe zahlen",
@@ -566,14 +582,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says",
-    "link": "https://www.cnbc.com/2026/10/14/taiwan-alaska-lng-project-trump-.html",
-    "zeit": "2026-10-14T02:09:00+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Glasfasernetzausbau: Swisscom gewinnt Streit vor Bundesverwaltungsgericht",
     "link": "https://www.nzz.ch/wirtschaft/glasfasernetz-ausbau-swisscom-gewinnt-streit-vor-bundesverwaltungsgericht-ld.10033013",
     "zeit": "2026-10-13T19:00:00+00:00",
@@ -649,14 +657,6 @@
     "titel": "Stellenangebot bei Banken weiter rückläufig",
     "link": "https://www.finews.ch/news/banken/73951-banken-stellenangebot-indeed-sept-2026",
     "zeit": "2026-10-13T07:30:01+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Investmentbanken vor Rekordjahr, Nichtbanken legen stärker zu",
-    "link": "https://www.finews.ch/news/banken/73950-corporate-und-investment-banking-boston-consulting-group-umsatzrekord-von-mehr-als-einer-billion-dollar-traditionelle-banken-geraten-zunehmend-unter-druck-hedgefonds-finanzinvestoren-und-spezialisierte-nichtbanken-gewinnen-an-bedeutung",
-    "zeit": "2026-10-13T07:25:27+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
