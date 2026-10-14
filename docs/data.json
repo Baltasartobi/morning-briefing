@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-14T12:04:36+02:00",
+ "aktualisiert": "2026-10-14T12:36:41+02:00",
  "kernaussagen": [
-  "SMI +0.89%, Euro Stoxx 50 +0.71% führt",
-  "Franken schwächer: EUR/CHF 0.9308 (+0.10%)",
-  "Gold −0.26% auf 4'166.50 USD/Unze · Brent über 100 USD"
+  "SMI +1.05%, Euro Stoxx 50 +0.66% führt",
+  "Franken schwächer: EUR/CHF 0.9328 (+0.21%)",
+  "Brent über 100 USD: 106.51 (+0.78%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14051.6201171875,
+   "kurs": 14073.990234375,
    "vortag": 13927.51953125,
-   "veraenderung_pct": 0.8910458582308767,
+   "veraenderung_pct": 1.0516639577948794,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13787.400391,
     13877.839844,
     13927.519531,
-    14051.620117
+    14073.990234
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25412.919921875,
+   "kurs": 25408.6796875,
    "vortag": 25259.900390625,
-   "veraenderung_pct": 0.6057804222648233,
+   "veraenderung_pct": 0.5889939967071989,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25087.269531,
     25277.679688,
     25259.900391,
-    25412.919922
+    25408.679688
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6210.60986328125,
+   "kurs": 6207.81005859375,
    "vortag": 6167.009765625,
-   "veraenderung_pct": 0.7069892754066665,
+   "veraenderung_pct": 0.6615895631651325,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6173.370117,
     6201.209961,
     6167.009766,
-    6210.609863
+    6207.810059
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9308300018310547,
-   "vortag": 0.9298800230026245,
-   "veraenderung_pct": 0.10216144071604205,
-   "datum": "2026-10-13",
-   "ist_heute": false,
+   "kurs": 0.9328100085258484,
+   "vortag": 0.9308300018310547,
+   "veraenderung_pct": 0.21271410363856713,
+   "datum": "2026-10-14",
+   "ist_heute": true,
    "verlauf": [
-    0.93652,
     0.93302,
     0.93227,
     0.92988,
-    0.93083
+    0.93083,
+    0.93281
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8334599733352661,
+   "kurs": 0.8337299823760986,
    "vortag": 0.834089994430542,
-   "veraenderung_pct": -0.07553394711394823,
+   "veraenderung_pct": -0.04316225549367836,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83138,
     0.82995,
     0.83409,
-    0.83346
+    0.83373
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4166.5,
+   "kurs": 4164.7001953125,
    "vortag": 4177.2998046875,
-   "veraenderung_pct": -0.258535541915883,
+   "veraenderung_pct": -0.3016209025950567,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4216.299805,
     4190.600098,
     4177.299805,
-    4166.5
+    4164.700195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.94000244140625,
+   "kurs": 106.51000213623047,
    "vortag": 105.69000244140625,
-   "veraenderung_pct": 0.23654082148270028,
+   "veraenderung_pct": 0.7758536057171694,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.720001,
     106.650002,
     105.690002,
-    105.940002
+    106.510002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83077.8828125,
+   "kurs": 83305.8984375,
    "vortag": 83095.125,
-   "veraenderung_pct": -0.020749938699771153,
+   "veraenderung_pct": 0.25365319265120423,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     83679.46875,
     81762.5625,
     83095.125,
-    83077.882812
+    83305.898438
    ]
   }
  ],
@@ -240,17 +240,17 @@
    "name": "Deutschland",
    "quelle": "bundesbank",
    "verfuegbar": true,
-   "wert": 3.49,
-   "vortag": 3.53,
-   "veraenderung_bp": -4.0,
-   "datum": "2026-10-13",
-   "ist_heute": false,
+   "wert": 3.51,
+   "vortag": 3.49,
+   "veraenderung_bp": 2.0,
+   "datum": "2026-10-14",
+   "ist_heute": true,
    "verlauf": [
-    3.55,
     3.57,
     3.53,
     3.53,
-    3.49
+    3.49,
+    3.51
    ]
   },
   {
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 78.0199966430664,
+   "kurs": 78.16000366210938,
    "vortag": 77.30000305175781,
-   "veraenderung_pct": 0.9314276363307616,
+   "veraenderung_pct": 1.1125492579550533,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     76.040001,
     76.379997,
     77.300003,
-    78.019997
+    78.160004
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 120.73999786376953,
+   "kurs": 120.9000015258789,
    "vortag": 119.30000305175781,
-   "veraenderung_pct": 1.2070366933578214,
+   "veraenderung_pct": 1.3411554343606635,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     119.099998,
     119.959999,
     119.300003,
-    120.739998
+    120.900002
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 363.29998779296875,
+   "kurs": 364.5,
    "vortag": 359.79998779296875,
-   "veraenderung_pct": 0.9727626789175714,
+   "veraenderung_pct": 1.306284704416294,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     357.799988,
     360.0,
     359.799988,
-    363.299988
+    364.5
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.09000015258789,
+   "kurs": 40.130001068115234,
    "vortag": 40.09000015258789,
-   "veraenderung_pct": 0.0,
+   "veraenderung_pct": 0.0997777884138129,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.900002,
     40.009998,
     40.09,
-    40.09
+    40.130001
    ]
   }
  ],
@@ -374,6 +374,22 @@
   ],
   "artikel": [
    {
+    "titel": "Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
+    "link": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
+    "zeit": "2026-10-14T10:33:13+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Bank of America is set to report third-quarter earnings – here’s what the Street expects",
+    "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+    "zeit": "2026-10-14T10:15:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "South Texas Latino voters who flipped for Trump in 2024 are up for grabs in 2026",
     "link": "https://www.cnbc.com/2026/10/14/texas-latino-voters-midterm-election-trump.html",
     "zeit": "2026-10-14T10:00:01+00:00",
@@ -393,14 +409,6 @@
     "titel": "Ukraine warns Starlink limits are disrupting military operations as Russia pounds its energy infrastructure",
     "link": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html",
     "zeit": "2026-10-14T09:18:18+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Oil prices choppy after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
-    "link": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
-    "zeit": "2026-10-14T08:53:37+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -601,14 +609,6 @@
     "titel": "China's producer prices rise at fastest pace since June 2022, beating expectations",
     "link": "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html",
     "zeit": "2026-10-14T03:14:48+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says",
-    "link": "https://www.cnbc.com/2026/10/14/taiwan-alaska-lng-project-trump-.html",
-    "zeit": "2026-10-14T02:09:00+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
