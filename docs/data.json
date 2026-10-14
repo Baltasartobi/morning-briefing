@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-14T08:43:23+02:00",
+ "aktualisiert": "2026-10-14T09:39:57+02:00",
  "kernaussagen": [
-  "SMI +0.36%, Euro Stoxx 50 −0.55% am schwächsten",
-  "Franken schwächer: EUR/CHF 0.9330 (+0.23%)",
-  "Bitcoin +1.97% auf 83'372 USD · Brent über 100 USD"
+  "SMI +0.44%, Euro Stoxx 50 +0.60% führt",
+  "Franken schwächer: EUR/CHF 0.9325 (+0.18%)",
+  "Brent über 100 USD: 106.23 (+0.51%)"
  ],
  "maerkte": [
   {
@@ -12,17 +12,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 13927.51953125,
-   "vortag": 13877.83984375,
-   "veraenderung_pct": 0.3579785331099261,
-   "datum": "2026-10-13",
-   "ist_heute": false,
+   "kurs": 13988.6201171875,
+   "vortag": 13927.51953125,
+   "veraenderung_pct": 0.4387040046894608,
+   "datum": "2026-10-14",
+   "ist_heute": true,
    "verlauf": [
-    13808.419922,
     13637.0,
     13787.400391,
     13877.839844,
-    13927.519531
+    13927.519531,
+    13988.620117
    ]
   },
   {
@@ -31,17 +31,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25259.900390625,
-   "vortag": 25277.6796875,
-   "veraenderung_pct": -0.07033595288333805,
-   "datum": "2026-10-13",
-   "ist_heute": false,
+   "kurs": 25328.810546875,
+   "vortag": 25259.900390625,
+   "veraenderung_pct": 0.27280454469083004,
+   "datum": "2026-10-14",
+   "ist_heute": true,
    "verlauf": [
-    25104.359375,
     24806.970703,
     25087.269531,
     25277.679688,
-    25259.900391
+    25259.900391,
+    25328.810547
    ]
   },
   {
@@ -50,17 +50,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6167.009765625,
-   "vortag": 6201.2099609375,
-   "veraenderung_pct": -0.5515084238065349,
-   "datum": "2026-10-13",
-   "ist_heute": false,
+   "kurs": 6204.2998046875,
+   "vortag": 6167.009765625,
+   "veraenderung_pct": 0.604669693736426,
+   "datum": "2026-10-14",
+   "ist_heute": true,
    "verlauf": [
-    6180.290039,
     6126.72998,
     6173.370117,
     6201.209961,
-    6167.009766
+    6167.009766,
+    6204.299805
    ]
   },
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 67862.921875,
+   "kurs": 67744.2890625,
    "vortag": 67777.5234375,
-   "veraenderung_pct": 0.12599816748799508,
+   "veraenderung_pct": -0.049034507775491676,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     69042.109375,
     69030.921875,
     67777.523438,
-    67862.921875
+    67744.289062
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9330000281333923,
+   "kurs": 0.9325299859046936,
    "vortag": 0.9308300018310547,
-   "veraenderung_pct": 0.23312810051985267,
+   "veraenderung_pct": 0.18263099280155792,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93227,
     0.92988,
     0.93083,
-    0.933
+    0.93253
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.834089994430542,
-   "vortag": 0.8299499750137329,
-   "veraenderung_pct": 0.4988275849686641,
-   "datum": "2026-10-13",
-   "ist_heute": false,
+   "kurs": 0.8321400284767151,
+   "vortag": 0.834089994430542,
+   "veraenderung_pct": -0.2337836404761373,
+   "datum": "2026-10-14",
+   "ist_heute": true,
    "verlauf": [
-    0.83218,
     0.83298,
     0.83138,
     0.82995,
-    0.83409
+    0.83409,
+    0.83214
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4177.2001953125,
+   "kurs": 4169.5,
    "vortag": 4177.2998046875,
-   "veraenderung_pct": -0.0023845397662869416,
+   "veraenderung_pct": -0.1867188148369836,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4216.299805,
     4190.600098,
     4177.299805,
-    4177.200195
+    4169.5
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.91999816894531,
+   "kurs": 106.2300033569336,
    "vortag": 105.69000244140625,
-   "veraenderung_pct": 0.21761351331841539,
+   "veraenderung_pct": 0.5109290406410061,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.720001,
     106.650002,
     105.690002,
-    105.919998
+    106.230003
    ]
   },
   {
@@ -204,17 +204,17 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83372.046875,
-   "vortag": 81762.5625,
-   "veraenderung_pct": 1.9684857296394132,
+   "kurs": 83381.7578125,
+   "vortag": 83095.125,
+   "veraenderung_pct": 0.34494540142999686,
    "datum": "2026-10-14",
    "ist_heute": true,
    "verlauf": [
-    82546.320312,
     82912.226562,
     83679.46875,
     81762.5625,
-    83372.046875
+    83095.125,
+    83381.757812
    ]
   }
  ],
@@ -278,17 +278,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 76.37999725341797,
-   "vortag": 76.04000091552734,
-   "veraenderung_pct": 0.4471282664348264,
-   "datum": "2026-10-12",
-   "ist_heute": false,
+   "kurs": 77.63999938964844,
+   "vortag": 76.37999725341797,
+   "veraenderung_pct": 1.649649360486305,
+   "datum": "2026-10-14",
+   "ist_heute": true,
    "verlauf": [
-    75.199997,
     75.559998,
     76.0,
     76.040001,
-    76.379997
+    76.379997,
+    77.639999
    ]
   },
   {
@@ -296,19 +296,7 @@
    "symbol": "NOVN.SW",
    "einheit": "CHF",
    "dezimalen": 2,
-   "verfuegbar": true,
-   "kurs": 119.30000305175781,
-   "vortag": 119.95999908447266,
-   "veraenderung_pct": -0.5501800914904043,
-   "datum": "2026-10-13",
-   "ist_heute": false,
-   "verlauf": [
-    120.019997,
-    117.720001,
-    119.099998,
-    119.959999,
-    119.300003
-   ]
+   "verfuegbar": false
   },
   {
    "name": "Roche GS",
@@ -316,17 +304,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 359.79998779296875,
-   "vortag": 360.0,
-   "veraenderung_pct": -0.05555894639757142,
-   "datum": "2026-10-13",
-   "ist_heute": false,
+   "kurs": 360.8999938964844,
+   "vortag": 359.79998779296875,
+   "veraenderung_pct": 0.30572710973757466,
+   "datum": "2026-10-14",
+   "ist_heute": true,
    "verlauf": [
-    360.0,
     352.700012,
     357.799988,
     360.0,
-    359.799988
+    359.799988,
+    360.899994
    ]
   },
   {
@@ -335,17 +323,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.0099983215332,
-   "vortag": 39.900001525878906,
-   "veraenderung_pct": 0.2756811815732618,
-   "datum": "2026-10-12",
-   "ist_heute": false,
+   "kurs": 40.060001373291016,
+   "vortag": 40.0099983215332,
+   "veraenderung_pct": 0.12497639054112053,
+   "datum": "2026-10-14",
+   "ist_heute": true,
    "verlauf": [
-    40.57,
     39.330002,
     38.830002,
     39.900002,
-    40.009998
+    40.009998,
+    40.060001
    ]
   }
  ],
@@ -374,6 +362,38 @@
   ],
   "artikel": [
    {
+    "titel": "U.S. Treasury yields inch lower as investors await key inflation report",
+    "link": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html",
+    "zeit": "2026-10-14T07:21:38+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "ASML says it's getting order interest through 2030 as profit smashes expectations",
+    "link": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
+    "zeit": "2026-10-14T07:10:36+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Russia pounds Ukraine's energy infrastructure, leaving 600,000 without power",
+    "link": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html",
+    "zeit": "2026-10-14T07:07:56+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "MELDUNGEN WIRTSCHAFT - Dating-App Bumble für 1,3 Milliarden Dollar verkauft +++ Open-AI findet Abhörgerät im Konferenzraum",
+    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldugen-ld.10025518",
+    "zeit": "2026-10-14T07:04:37+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Verstoss gegen Geldwäscherei – Bank of America muss Milliardenstrafe zahlen",
     "link": "https://www.srf.ch/news/wirtschaft/verstoss-gegen-geldwaescherei-bank-of-america-muss-milliardenstrafe-zahlen",
     "zeit": "2026-10-14T06:15:50+00:00",
@@ -382,20 +402,12 @@
     "sprache": "de"
    },
    {
-    "titel": "MELDUNGEN WIRTSCHAFT - Open-AI findet Abhörgerät im Konferenzraum – FBI ermittelt",
-    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldugen-ld.10025518",
-    "zeit": "2026-10-14T05:59:51+00:00",
-    "quelle": "NZZ Wirtschaft",
+    "titel": "Bank of America muss Milliarden-Busse zahlen",
+    "link": "https://www.finews.ch/news/banken/73970-bank-of-america-geldwaescherei-busse-us-treasury",
+    "zeit": "2026-10-14T05:22:26+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "ASML says it's getting order interest through 2030 as profit smashes expectations",
-    "link": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
-    "zeit": "2026-10-14T05:56:11+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Judge extends block on Trump White House ban of MS NOW, CNN and Politico",
@@ -428,6 +440,14 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "BBVA bündelt Wealth Management unter neuer Dachmarke",
+    "link": "https://www.finews.ch/news/banken/73961-bbva-global-wealth-private-banking-initiative-david-conde-schweiz-ceo",
+    "zeit": "2026-10-14T04:16:06+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia",
@@ -534,22 +554,6 @@
     "sprache": "en"
    },
    {
-    "titel": "South Korean carmaker Hyundai plans 'strategic' investment of $15.5 billion in India by 2032",
-    "link": "https://www.cnbc.com/2026/10/14/korea-india-hyundai-cars-investment.html",
-    "zeit": "2026-10-14T02:04:47+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklisting",
-    "link": "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html",
-    "zeit": "2026-10-14T01:35:51+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Glasfasernetzausbau: Swisscom gewinnt Streit vor Bundesverwaltungsgericht",
     "link": "https://www.nzz.ch/wirtschaft/glasfasernetz-ausbau-swisscom-gewinnt-streit-vor-bundesverwaltungsgericht-ld.10033013",
     "zeit": "2026-10-13T19:00:00+00:00",
@@ -574,8 +578,8 @@
     "sprache": "de"
    },
    {
-    "titel": "Wechseljahre am Arbeitsplatz – Wie Frauen trotz Hormonchaos ihre Stärken ausspielen können",
-    "link": "https://www.srf.ch/news/wirtschaft/wechseljahre-am-arbeitsplatz-wie-frauen-trotz-hormonchaos-ihre-staerken-ausspielen-koennen",
+    "titel": "Hormonchaos am Arbeitsplatz – Wie Frauen in den Wechseljahren ihre Stärken ausspielen können",
+    "link": "https://www.srf.ch/news/wirtschaft/hormonchaos-am-arbeitsplatz-wie-frauen-in-den-wechseljahren-ihre-staerken-ausspielen-koennen",
     "zeit": "2026-10-13T13:24:50+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
@@ -641,22 +645,6 @@
     "titel": "Investmentbanken vor Rekordjahr, Nichtbanken legen stärker zu",
     "link": "https://www.finews.ch/news/banken/73950-corporate-und-investment-banking-boston-consulting-group-umsatzrekord-von-mehr-als-einer-billion-dollar-traditionelle-banken-geraten-zunehmend-unter-druck-hedgefonds-finanzinvestoren-und-spezialisierte-nichtbanken-gewinnen-an-bedeutung",
     "zeit": "2026-10-13T07:25:27+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Suva korrigiert noch jede zehnte Rechnung",
-    "link": "https://www.finews.ch/news/versicherungen/73946-schweizerische-unfallversicherungsanstalt-suva-drei-millionen-arztrechnungen-kontrolliert-300-000-korrigieren-lassen-ausbezahlte-leistungen-steigen",
-    "zeit": "2026-10-13T05:53:05+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Bank Syz engagiert zwei erfahrene Banker für die Führung",
-    "link": "https://www.finews.ch/news/banken/73945-privatbank-syz-marc-brodard-leitung-des-privatkundengeschaefts-martin-freiermuth-neuer-chief-operating-officer-geschaeftsleitung",
-    "zeit": "2026-10-13T04:38:27+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
