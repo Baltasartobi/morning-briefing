@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-15T14:02:39+02:00",
+ "aktualisiert": "2026-10-15T14:42:02+02:00",
  "kernaussagen": [
-  "SMI +0.66%, Nikkei 225 −4.90% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9304 (−0.25%)",
-  "Gold +1.56% auf 4'172.10 USD/Unze · Brent über 100 USD"
+  "SMI +0.89%, Nikkei 225 −4.90% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9303 (−0.26%)",
+  "Brent über 100 USD: 104.20 (−1.75%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14223.509765625,
+   "kurs": 14255.509765625,
    "vortag": 14129.9296875,
-   "veraenderung_pct": 0.6622826878451171,
+   "veraenderung_pct": 0.888752321507269,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13877.839844,
     13927.519531,
     14129.929688,
-    14223.509766
+    14255.509766
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25206.859375,
+   "kurs": 25222.419921875,
    "vortag": 25298.609375,
-   "veraenderung_pct": -0.36266815554956144,
+   "veraenderung_pct": -0.3011606369174191,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25277.679688,
     25259.900391,
     25298.609375,
-    25206.859375
+    25222.419922
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6148.47021484375,
+   "kurs": 6151.3798828125,
    "vortag": 6190.3701171875,
-   "veraenderung_pct": -0.6768561741957169,
+   "veraenderung_pct": -0.6298530400750013,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6201.209961,
     6167.009766,
     6190.370117,
-    6148.470215
+    6151.379883
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.930429995059967,
+   "kurs": 0.9303100109100342,
    "vortag": 0.9327200055122375,
-   "veraenderung_pct": -0.245519602746469,
+   "veraenderung_pct": -0.25838350072483474,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92988,
     0.93083,
     0.93272,
-    0.93043
+    0.93031
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8302000164985657,
-   "vortag": 0.8325999975204468,
-   "veraenderung_pct": -0.2882513847019541,
-   "datum": "2026-10-15",
-   "ist_heute": true,
+   "kurs": 0.8325999975204468,
+   "vortag": 0.834089994430542,
+   "veraenderung_pct": -0.1786374276210423,
+   "datum": "2026-10-14",
+   "ist_heute": false,
    "verlauf": [
+    0.83298,
     0.83138,
     0.82995,
     0.83409,
-    0.8326,
-    0.8302
+    0.8326
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4172.10009765625,
+   "kurs": 4164.60009765625,
    "vortag": 4107.89990234375,
-   "veraenderung_pct": 1.562847119908417,
+   "veraenderung_pct": 1.3802720772273513,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4190.600098,
     4177.299805,
     4107.899902,
-    4172.100098
+    4164.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.8499984741211,
+   "kurs": 104.19999694824219,
    "vortag": 106.05999755859375,
-   "veraenderung_pct": -1.1408628251232789,
+   "veraenderung_pct": -1.7537249228428364,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.650002,
     105.690002,
     106.059998,
-    104.849998
+    104.199997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80828.046875,
+   "kurs": 80904.4921875,
    "vortag": 81562.4921875,
-   "veraenderung_pct": -0.9004694349108666,
+   "veraenderung_pct": -0.8067433722934281,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81762.5625,
     83095.125,
     81562.492188,
-    80828.046875
+    80904.492188
    ]
   }
  ],
@@ -257,17 +257,17 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.19,
-   "vortag": 5.217,
-   "veraenderung_bp": -2.7,
-   "datum": "2026-10-14",
-   "ist_heute": false,
+   "wert": 5.081,
+   "vortag": 5.19,
+   "veraenderung_bp": -10.9,
+   "datum": "2026-10-15",
+   "ist_heute": true,
    "verlauf": [
-    5.231,
     5.244,
     5.24,
     5.217,
-    5.19
+    5.19,
+    5.081
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 80.12999725341797,
+   "kurs": 80.37000274658203,
    "vortag": 78.88999938964844,
-   "veraenderung_pct": 1.5718061520637372,
+   "veraenderung_pct": 1.8760341847940065,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     76.379997,
     77.300003,
     78.889999,
-    80.129997
+    80.370003
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 123.9800033569336,
+   "kurs": 124.16000366210938,
    "vortag": 122.66000366210938,
-   "veraenderung_pct": 1.0761451617598228,
+   "veraenderung_pct": 1.2228925119976752,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     119.959999,
     119.300003,
     122.660004,
-    123.980003
+    124.160004
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 374.3999938964844,
+   "kurs": 375.8999938964844,
    "vortag": 370.8999938964844,
-   "veraenderung_pct": 0.9436505951997409,
+   "veraenderung_pct": 1.3480722788567823,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     360.0,
     359.799988,
     370.899994,
-    374.399994
+    375.899994
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.540000915527344,
+   "kurs": 39.54999923706055,
    "vortag": 39.470001220703125,
-   "veraenderung_pct": 0.1773491073202793,
+   "veraenderung_pct": 0.20268055202252722,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.009998,
     40.09,
     39.470001,
-    39.540001
+    39.549999
    ]
   }
  ],
@@ -373,6 +373,62 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+    "link": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
+    "zeit": "2026-10-15T12:41:14+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Mehr tanken als nötig – Kerosin knapp in Frankfurt: Wie Fluggesellschaften damit umgehen",
+    "link": "https://www.srf.ch/news/wirtschaft/mehr-tanken-als-noetig-kerosin-knapp-in-frankfurt-wie-fluggesellschaften-damit-umgehen",
+    "zeit": "2026-10-15T12:23:44+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI",
+    "link": "https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html",
+    "zeit": "2026-10-15T12:17:13+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
+    "link": "https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html",
+    "zeit": "2026-10-15T12:15:09+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+    "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+    "zeit": "2026-10-15T12:11:15+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Zwölf Jahre stand sie ungenutzt da – nun öffnet China seine neue Brücke nach Nordkorea",
+    "link": "https://www.nzz.ch/international/china-eroeffnet-nach-12-jahren-neue-bruecke-zu-nordkorea-ld.10033534",
+    "zeit": "2026-10-15T12:10:02+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Cboe to expand options trading hours for major stocks and ETFs",
+    "link": "https://www.cnbc.com/2026/10/15/cboe-stock-etf-options-extended-hours.html",
+    "zeit": "2026-10-15T12:01:59+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
    {
     "titel": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
     "link": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html",
@@ -406,22 +462,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Nvidia must work with Chinese AI companies on safety, Jensen Huang tells CNBC",
-    "link": "https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html",
-    "zeit": "2026-10-15T11:12:51+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-    "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-    "zeit": "2026-10-15T10:54:20+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "U.S. reportedly considers use of 'mother of all bombs' as Iran vows to fight on",
     "link": "https://www.cnbc.com/2026/10/15/us-iran-war-trump-hormuz.html",
     "zeit": "2026-10-15T10:44:57+00:00",
@@ -438,36 +478,12 @@
     "sprache": "de"
    },
    {
-    "titel": "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire'",
-    "link": "https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html",
-    "zeit": "2026-10-15T10:13:25+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "France is ‘putting the house in order’ and can slash deficit to 3% in three years, central bank governor tells CNBC",
-    "link": "https://www.cnbc.com/2026/10/15/france-budget-deficit-moulin-protests.html",
-    "zeit": "2026-10-15T10:05:53+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Boni für frühere CS-Kader wurden zu Recht gestrichen",
     "link": "https://www.finews.ch/news/banken/74008-ubs-cs-streichung-boni-bundesrat-bundesgericht-urteil",
     "zeit": "2026-10-15T09:21:02+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
-    "link": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
-    "zeit": "2026-10-15T09:02:31+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Klimakosten bis 2060 – Der Klimawandel kostet Milliarden – für Wintersport wirds teuer",
@@ -622,14 +638,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Enttäuschende Rendite bei grünen Anlagen: Erste Pensionskassen haben begonnen, ihre ESG-Fonds wieder zu verkaufen",
-    "link": "https://www.nzz.ch/wirtschaft/enttaeuschende-rendite-bei-gruenen-anlagen-erste-pensionskassen-haben-begonnen-ihre-esg-fonds-wieder-zu-verkaufen-ld.10031907",
-    "zeit": "2026-10-14T09:39:08+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Notfallplan von Postfinance erfüllt nicht alle Anforderungen",
     "link": "https://www.finews.ch/news/banken/73981-finma-notfallplan-raiffeisen-postfinance-zkb",
     "zeit": "2026-10-14T07:46:37+00:00",
@@ -681,14 +689,6 @@
     "titel": "Nobelpreis 2026 – Wirtschaftsnobelpreis geht an Michael Woodford und Robert E. Hall",
     "link": "https://www.srf.ch/news/international/nobelpreis-2026-wirtschaftsnobelpreis-geht-an-michael-woodford-und-robert-e-hall",
     "zeit": "2026-10-12T15:59:08+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "490 statt 580 Stellen – Zimmer Biomet streicht in Winterthur weniger Stellen als geplant",
-    "link": "https://www.srf.ch/news/wirtschaft/490-statt-580-stellen-zimmer-biomet-streicht-in-winterthur-weniger-stellen-als-geplant",
-    "zeit": "2026-10-12T12:00:27+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
