@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-15T12:04:46+02:00",
+ "aktualisiert": "2026-10-15T12:36:46+02:00",
  "kernaussagen": [
-  "SMI +0.49%, Nikkei 225 −4.90% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9303 (−0.26%)",
-  "Brent über 100 USD: 103.74 (−2.19%)"
+  "SMI +0.52%, Nikkei 225 −4.90% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9305 (−0.23%)",
+  "Brent über 100 USD: 104.13 (−1.82%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14199.169921875,
+   "kurs": 14203.3896484375,
    "vortag": 14129.9296875,
-   "veraenderung_pct": 0.4900253285496037,
+   "veraenderung_pct": 0.5198890763234765,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13877.839844,
     13927.519531,
     14129.929688,
-    14199.169922
+    14203.389648
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25203.19921875,
+   "kurs": 25200.73046875,
    "vortag": 25298.609375,
-   "veraenderung_pct": -0.3771359715300515,
+   "veraenderung_pct": -0.38689441304518013,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25277.679688,
     25259.900391,
     25298.609375,
-    25203.199219
+    25200.730469
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6147.60986328125,
+   "kurs": 6144.60009765625,
    "vortag": 6190.3701171875,
-   "veraenderung_pct": -0.6907543991194753,
+   "veraenderung_pct": -0.7393745230865889,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6201.209961,
     6167.009766,
     6190.370117,
-    6147.609863
+    6144.600098
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9302700161933899,
+   "kurs": 0.9305400252342224,
    "vortag": 0.9327200055122375,
-   "veraenderung_pct": -0.2626714667176233,
+   "veraenderung_pct": -0.23372290345782254,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92988,
     0.93083,
     0.93272,
-    0.93027
+    0.93054
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8294299840927124,
+   "kurs": 0.8302800059318542,
    "vortag": 0.8325999975204468,
-   "veraenderung_pct": -0.38073666072242496,
+   "veraenderung_pct": -0.2786441983547494,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82995,
     0.83409,
     0.8326,
-    0.82943
+    0.83028
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4178.7998046875,
+   "kurs": 4176.39990234375,
    "vortag": 4107.89990234375,
-   "veraenderung_pct": 1.725940359532574,
+   "veraenderung_pct": 1.6675187231538269,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4190.600098,
     4177.299805,
     4107.899902,
-    4178.799805
+    4176.399902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 103.73999786376953,
+   "kurs": 104.12999725341797,
    "vortag": 106.05999755859375,
-   "veraenderung_pct": -2.187440833705956,
+   "veraenderung_pct": -1.819725013768303,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.650002,
     105.690002,
     106.059998,
-    103.739998
+    104.129997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81107.28125,
+   "kurs": 81038.2578125,
    "vortag": 81562.4921875,
-   "veraenderung_pct": -0.5581130802790324,
+   "veraenderung_pct": -0.6427395251666246,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81762.5625,
     83095.125,
     81562.492188,
-    81107.28125
+    81038.257812
    ]
   }
  ],
@@ -240,17 +240,17 @@
    "name": "Deutschland",
    "quelle": "bundesbank",
    "verfuegbar": true,
-   "wert": 3.51,
-   "vortag": 3.49,
-   "veraenderung_bp": 2.0,
-   "datum": "2026-10-14",
-   "ist_heute": false,
+   "wert": 3.45,
+   "vortag": 3.51,
+   "veraenderung_bp": -6.0,
+   "datum": "2026-10-15",
+   "ist_heute": true,
    "verlauf": [
-    3.57,
     3.53,
     3.53,
     3.49,
-    3.51
+    3.51,
+    3.45
    ]
   },
   {
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 79.95999908447266,
+   "kurs": 80.11000061035156,
    "vortag": 78.88999938964844,
-   "veraenderung_pct": 1.3563185487419638,
+   "veraenderung_pct": 1.5464586514665424,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     76.379997,
     77.300003,
     78.889999,
-    79.959999
+    80.110001
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 123.62000274658203,
+   "kurs": 123.80000305175781,
    "vortag": 122.66000366210938,
-   "veraenderung_pct": 0.7826504612841623,
+   "veraenderung_pct": 0.9293978115219925,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     119.959999,
     119.300003,
     122.660004,
-    123.620003
+    123.800003
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 373.20001220703125,
+   "kurs": 374.0,
    "vortag": 370.8999938964844,
-   "veraenderung_pct": 0.6201181850622461,
+   "veraenderung_pct": 0.8358064584872427,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     360.0,
     359.799988,
     370.899994,
-    373.200012
+    374.0
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.630001068115234,
+   "kurs": 39.599998474121094,
    "vortag": 39.470001220703125,
-   "veraenderung_pct": 0.4053707688465469,
+   "veraenderung_pct": 0.32935710513679606,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.009998,
     40.09,
     39.470001,
-    39.630001
+    39.599998
    ]
   }
  ],
@@ -373,6 +373,30 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "Das Bundesgericht bestätigt: Die Streichung von Boni für CS-Kader war rechtmässig",
+    "link": "https://www.nzz.ch/wirtschaft/das-bundesgericht-bestaetigt-die-streichung-von-boni-fuer-cs-kader-war-rechtmaessig-ld.10034840",
+    "zeit": "2026-10-15T10:24:30+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire'",
+    "link": "https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html",
+    "zeit": "2026-10-15T10:13:25+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "France is ‘putting the house in order’ and can slash deficit to 3% in three years, central bank governor tells CNBC",
+    "link": "https://www.cnbc.com/2026/10/15/france-budget-deficit-moulin-protests.html",
+    "zeit": "2026-10-15T10:05:53+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
    {
     "titel": "What to know about Starshield, SpaceX's military-focused Starlink service",
     "link": "https://www.cnbc.com/2026/10/15/what-is-starshield-spacex-starlink-military.html",
@@ -438,14 +462,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire'",
-    "link": "https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html",
-    "zeit": "2026-10-15T07:46:30+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "India’s IDBI Bank falls 7% as government announces $5.5 billion stake sale to Canada's Fairfax",
     "link": "https://www.cnbc.com/2026/10/15/india-canada-fairfax-idbi-fdi.html",
     "zeit": "2026-10-15T06:12:04+00:00",
@@ -454,17 +470,25 @@
     "sprache": "en"
    },
    {
-    "titel": "From 'Dune' to 'Wicker,' how this ‘tiny’ European country became a hub for Hollywood",
-    "link": "https://www.cnbc.com/2026/10/15/hungary-film-industry-hollywood-movies.html",
-    "zeit": "2026-10-15T06:09:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "Decalia-Fondsmanager: «Bezahlt, um die Benchmark zu schlagen»",
+    "link": "https://www.finews.ch/news/finanzplatz/74004-decalia-future-society-fund-interview-quirien-lemey-iana-perova-de",
+    "zeit": "2026-10-15T05:50:02+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Europas ETF-Boom knackt den nächsten Rekord",
     "link": "https://www.finews.ch/news/finanzplatz/74002-etf-europa-rekord-zufluesse-2026-schweiz-pictet-six",
     "zeit": "2026-10-15T05:48:42+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Die ZKB frischt ihren Swiss Rating Guide auf",
+    "link": "https://www.finews.ch/news/finanzplatz/73998-swiss-rating-guide26-zkb-kapitalmarkt-frankenanleihen-creditresarch-inlandsegment-schuldnerportraets",
+    "zeit": "2026-10-15T04:49:11+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
@@ -598,14 +622,6 @@
     "sprache": "de"
    },
    {
-    "titel": "DIE NEUESTEN ENTWICKLUNGEN - Signa-Insolvenz: René Benko wechselt vom Gefängnis in den Hausarrest",
-    "link": "https://www.nzz.ch/wirtschaft/signa-krise-die-wichtigsten-meldungen-ld.1767273",
-    "zeit": "2026-10-14T08:25:39+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Notfallplan von Postfinance erfüllt nicht alle Anforderungen",
     "link": "https://www.finews.ch/news/banken/73981-finma-notfallplan-raiffeisen-postfinance-zkb",
     "zeit": "2026-10-14T07:46:37+00:00",
@@ -617,22 +633,6 @@
     "titel": "Geldwäscherei: Risiko-Bericht sieht stabile Lage",
     "link": "https://www.finews.ch/news/finanzplatz/73977-bundesrat-kggt-risiko-bericht-geldwaescherei-terrorismusfinanzierung",
     "zeit": "2026-10-14T07:09:27+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Die EZB will Frankreich nicht helfen",
-    "link": "https://www.finews.ch/news/finanzplatz/73974-franzoesische-staatsanleihen-ezb-chefin-christine-lagarde-obligationenmarkt-eingreifen",
-    "zeit": "2026-10-14T06:27:22+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Bank of America muss Milliarden-Busse zahlen",
-    "link": "https://www.finews.ch/news/banken/73970-bank-of-america-geldwaescherei-busse-us-treasury",
-    "zeit": "2026-10-14T05:22:26+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
