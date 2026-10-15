@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-15T21:12:32+02:00",
+ "aktualisiert": "2026-10-15T21:59:48+02:00",
  "kernaussagen": [
   "SMI +1.55%, Euro Stoxx 50 −0.36% am schwächsten",
-  "Franken schwächer: EUR/CHF 0.9327 (+0.20%)",
-  "Gold +1.76% auf 4'180.00 USD/Unze · Brent über 100 USD"
+  "Franken stärker: EUR/CHF 0.9275 (−0.56%)",
+  "Gold +2.10% auf 4'194.20 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7744.3701171875,
+   "kurs": 7742.56005859375,
    "vortag": 7718.93994140625,
-   "veraenderung_pct": 0.32945166012805505,
+   "veraenderung_pct": 0.30600208534847795,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7807.240234,
     7805.450195,
     7718.939941,
-    7744.370117
+    7742.560059
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26698.287109375,
+   "kurs": 26710.583984375,
    "vortag": 26692.869140625,
-   "veraenderung_pct": 0.020297438695915382,
+   "veraenderung_pct": 0.06636545384715031,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27245.900391,
     27204.380859,
     26692.869141,
-    26698.287109
+    26710.583984
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9327200055122375,
-   "vortag": 0.9308300018310547,
-   "veraenderung_pct": 0.20304498968286566,
-   "datum": "2026-10-14",
-   "ist_heute": false,
+   "kurs": 0.9274600148200989,
+   "vortag": 0.9327200055122375,
+   "veraenderung_pct": -0.563941017781644,
+   "datum": "2026-10-15",
+   "ist_heute": true,
    "verlauf": [
-    0.93302,
     0.93227,
     0.92988,
     0.93083,
-    0.93272
+    0.93272,
+    0.92746
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8271399736404419,
+   "kurs": 0.8271099925041199,
    "vortag": 0.8325999975204468,
-   "veraenderung_pct": -0.655779953911273,
+   "veraenderung_pct": -0.6593808590771855,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82995,
     0.83409,
     0.8326,
-    0.82714
+    0.82711
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4180.0,
+   "kurs": 4194.2001953125,
    "vortag": 4107.89990234375,
-   "veraenderung_pct": 1.755157120919959,
+   "veraenderung_pct": 2.1008372896211824,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4190.600098,
     4177.299805,
     4107.899902,
-    4180.0
+    4194.200195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.83999633789062,
+   "kurs": 105.76000213623047,
    "vortag": 106.05999755859375,
-   "veraenderung_pct": -0.20743091247157341,
+   "veraenderung_pct": -0.2828544496218277,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.650002,
     105.690002,
     106.059998,
-    105.839996
+    105.760002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82349.1875,
+   "kurs": 82287.4375,
    "vortag": 81562.4921875,
-   "veraenderung_pct": 0.9645307437289974,
+   "veraenderung_pct": 0.8888219242166651,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81762.5625,
     83095.125,
     81562.492188,
-    82349.1875
+    82287.4375
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.085,
+   "wert": 5.089,
    "vortag": 5.19,
-   "veraenderung_bp": -10.5,
+   "veraenderung_bp": -10.1,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.24,
     5.217,
     5.19,
-    5.085
+    5.089
    ]
   }
  ],
@@ -374,6 +374,70 @@
   ],
   "artikel": [
    {
+    "titel": "Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
+    "link": "https://www.cnbc.com/2026/10/15/harvards-endowment-jumps-27percent-with-spacex-as-top-holding.html",
+    "zeit": "2026-10-15T19:53:49+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
+    "link": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
+    "zeit": "2026-10-15T19:53:41+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Brian Sullivan: Why the 'real' price of oil is likely $30-$40 higher than where it is now",
+    "link": "https://www.cnbc.com/2026/10/15/brian-sullivan-why-the-real-price-of-oil-is-likely-30-40-higher-than-where-it-is-now.html",
+    "zeit": "2026-10-15T19:53:29+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
+    "link": "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html",
+    "zeit": "2026-10-15T19:43:40+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Some 'classic' money advice is actually pretty new—and not all of it is worthwhile, says historian",
+    "link": "https://www.cnbc.com/make-it/2026/10/15/money-advice-history-joseph-moore.html",
+    "zeit": "2026-10-15T19:30:53+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Tesla plans next-generation Roadster reveal after almost a decade of delays",
+    "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
+    "zeit": "2026-10-15T19:29:21+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "U.S. sues California in fight over checking citizenship of mail voters",
+    "link": "https://www.cnbc.com/2026/10/15/california-mail-ballots-voting-lawsuit.html",
+    "zeit": "2026-10-15T19:26:13+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Here's our monthly update on our 32 stocks, including 2 more names to buy",
+    "link": "https://www.cnbc.com/investingclub/2026/10/15/heres-our-monthly-update-on-our-32-stocks-including-2-more-names-to-buy.html",
+    "zeit": "2026-10-15T19:08:05+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Banks with Jeffrey Epstein ties eyed by Democrats Warren and Garcia",
     "link": "https://www.cnbc.com/2026/10/15/banks-congress-jeffrey-epstein-oversight.html",
     "zeit": "2026-10-15T19:07:36+00:00",
@@ -382,73 +446,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Nvidia, AMD, Dell sell-off in global tech rout on AI funding worries",
-    "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-    "zeit": "2026-10-15T19:07:31+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Democrat Talarico says he raised record $64 million over summer in Texas Senate race",
     "link": "https://www.cnbc.com/2026/10/15/james-talarico-texas-senate-fundraising-ken-paxton.html",
     "zeit": "2026-10-15T18:35:25+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Tesla plans next-generation Roadster reveal after almost a decade of delays",
-    "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
-    "zeit": "2026-10-15T18:19:35+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "BNY stock pops on strong earnings — showing exactly why we like this bank in this market",
-    "link": "https://www.cnbc.com/investingclub/2026/10/15/bny-stock-pops-on-strong-earnings-showing-exactly-why-we-like-this-bank-in-this-market.html",
-    "zeit": "2026-10-15T18:16:41+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Equal-weight failed. Now tech stocks look shaky again. So what should you do about S&P 500 risk?",
-    "link": "https://www.cnbc.com/2026/10/15/spx-sp500-tech-stocks-invest.html",
-    "zeit": "2026-10-15T18:02:23+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "U.S. sues California in fight over checking citizenship of mail voters",
-    "link": "https://www.cnbc.com/2026/10/15/california-mail-ballots-voting-lawsuit.html",
-    "zeit": "2026-10-15T17:55:19+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Who gets to have 'good debt'? A sociologist, theologian, philosopher and other experts weigh in",
-    "link": "https://www.cnbc.com/2026/10/15/good-debt-access.html",
-    "zeit": "2026-10-15T17:54:30+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Anduril CEO defends Trump administration contracts: 'We've done incredibly well under Biden'",
-    "link": "https://www.cnbc.com/2026/10/15/anduril-ceo-contracts-palmer-luckey-ethics.html",
-    "zeit": "2026-10-15T17:54:07+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trump says Nidal Hasan execution won't be livestreamed",
-    "link": "https://www.cnbc.com/2026/10/15/trump-nidal-hasan-execution-livestream.html",
-    "zeit": "2026-10-15T17:53:46+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
