@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-15T08:39:15+02:00",
+ "aktualisiert": "2026-10-15T09:40:54+02:00",
  "kernaussagen": [
-  "SMI +1.45%, Nikkei 225 −4.83% am schwächsten",
+  "SMI +0.55%, Nikkei 225 −4.90% am schwächsten",
   "Franken schwächer: EUR/CHF 0.9327 (+0.20%)",
-  "Bitcoin −2.60% auf 80'932 USD · Brent über 100 USD"
+  "Brent über 100 USD: 103.70 (−2.23%)"
  ],
  "maerkte": [
   {
@@ -12,17 +12,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14129.9296875,
-   "vortag": 13927.51953125,
-   "veraenderung_pct": 1.45331087704339,
-   "datum": "2026-10-14",
-   "ist_heute": false,
+   "kurs": 14207.4599609375,
+   "vortag": 14129.9296875,
+   "veraenderung_pct": 0.5486953944723982,
+   "datum": "2026-10-15",
+   "ist_heute": true,
    "verlauf": [
-    13637.0,
     13787.400391,
     13877.839844,
     13927.519531,
-    14129.929688
+    14129.929688,
+    14207.459961
    ]
   },
   {
@@ -31,17 +31,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25298.609375,
-   "vortag": 25259.900390625,
-   "veraenderung_pct": 0.15324282272057843,
-   "datum": "2026-10-14",
-   "ist_heute": false,
+   "kurs": 25215.01953125,
+   "vortag": 25298.609375,
+   "veraenderung_pct": -0.3304128006047735,
+   "datum": "2026-10-15",
+   "ist_heute": true,
    "verlauf": [
-    24806.970703,
     25087.269531,
     25277.679688,
     25259.900391,
-    25298.609375
+    25298.609375,
+    25215.019531
    ]
   },
   {
@@ -50,17 +50,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6190.3701171875,
-   "vortag": 6167.009765625,
-   "veraenderung_pct": 0.3787954365292334,
-   "datum": "2026-10-14",
-   "ist_heute": false,
+   "kurs": 6138.2099609375,
+   "vortag": 6190.3701171875,
+   "veraenderung_pct": -0.8426015773302153,
+   "datum": "2026-10-15",
+   "ist_heute": true,
    "verlauf": [
-    6126.72998,
     6173.370117,
     6201.209961,
     6167.009766,
-    6190.370117
+    6190.370117,
+    6138.209961
    ]
   },
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 64472.05078125,
+   "kurs": 64425.94921875,
    "vortag": 67744.2890625,
-   "veraenderung_pct": -4.830279166751716,
+   "veraenderung_pct": -4.8983314898891965,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     69030.921875,
     67777.523438,
     67744.289062,
-    64472.050781
+    64425.949219
    ]
   }
  ],
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8309100270271301,
-   "vortag": 0.8325999975204468,
-   "veraenderung_pct": -0.20297507787047087,
-   "datum": "2026-10-15",
-   "ist_heute": true,
+   "kurs": 0.8325999975204468,
+   "vortag": 0.834089994430542,
+   "veraenderung_pct": -0.1786374276210423,
+   "datum": "2026-10-14",
+   "ist_heute": false,
    "verlauf": [
+    0.83298,
     0.83138,
     0.82995,
     0.83409,
-    0.8326,
-    0.83091
+    0.8326
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4159.5,
+   "kurs": 4163.7998046875,
    "vortag": 4107.89990234375,
-   "veraenderung_pct": 1.2561186709250105,
+   "veraenderung_pct": 1.3607902741704203,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4190.600098,
     4177.299805,
     4107.899902,
-    4159.5
+    4163.799805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.37000274658203,
+   "kurs": 103.69999694824219,
    "vortag": 106.05999755859375,
-   "veraenderung_pct": -1.5934328219063598,
+   "veraenderung_pct": -2.225156199016276,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.650002,
     105.690002,
     106.059998,
-    104.370003
+    103.699997
    ]
   },
   {
@@ -204,17 +204,17 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80932.1328125,
-   "vortag": 83095.125,
-   "veraenderung_pct": -2.6030313902289715,
+   "kurs": 81193.0,
+   "vortag": 81562.4921875,
+   "veraenderung_pct": -0.45301728477177283,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
-    82912.226562,
     83679.46875,
     81762.5625,
     83095.125,
-    80932.132812
+    81562.492188,
+    81193.0
    ]
   }
  ],
@@ -278,17 +278,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 78.88999938964844,
-   "vortag": 77.30000305175781,
-   "veraenderung_pct": 2.056916267941178,
-   "datum": "2026-10-14",
-   "ist_heute": false,
+   "kurs": 80.5199966430664,
+   "vortag": 78.88999938964844,
+   "veraenderung_pct": 2.0661646165912595,
+   "datum": "2026-10-15",
+   "ist_heute": true,
    "verlauf": [
-    76.0,
     76.040001,
     76.379997,
     77.300003,
-    78.889999
+    78.889999,
+    80.519997
    ]
   },
   {
@@ -297,17 +297,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 122.66000366210938,
-   "vortag": 119.30000305175781,
-   "veraenderung_pct": 2.8164296097241914,
-   "datum": "2026-10-14",
-   "ist_heute": false,
+   "kurs": 124.31999969482422,
+   "vortag": 122.66000366210938,
+   "veraenderung_pct": 1.3533311455685482,
+   "datum": "2026-10-15",
+   "ist_heute": true,
    "verlauf": [
-    117.720001,
     119.099998,
     119.959999,
     119.300003,
-    122.660004
+    122.660004,
+    124.32
    ]
   },
   {
@@ -316,17 +316,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 370.8999938964844,
-   "vortag": 359.79998779296875,
-   "veraenderung_pct": 3.0850490495020866,
-   "datum": "2026-10-14",
-   "ist_heute": false,
+   "kurs": 373.8999938964844,
+   "vortag": 370.8999938964844,
+   "veraenderung_pct": 0.8088433673140605,
+   "datum": "2026-10-15",
+   "ist_heute": true,
    "verlauf": [
-    352.700012,
     357.799988,
     360.0,
     359.799988,
-    370.899994
+    370.899994,
+    373.899994
    ]
   },
   {
@@ -335,17 +335,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.09000015258789,
-   "vortag": 40.0099983215332,
-   "veraenderung_pct": 0.19995459737780497,
-   "datum": "2026-10-13",
-   "ist_heute": false,
+   "kurs": 39.34000015258789,
+   "vortag": 40.09000015258789,
+   "veraenderung_pct": -1.870790713757542,
+   "datum": "2026-10-15",
+   "ist_heute": true,
    "verlauf": [
-    39.330002,
     38.830002,
     39.900002,
     40.009998,
-    40.09
+    40.09,
+    39.34
    ]
   }
  ],
@@ -374,9 +374,25 @@
   ],
   "artikel": [
    {
+    "titel": "Tech stocks plunge as Fed rate hike fears, AI funding worries mount; ASML, SK Hynix slump",
+    "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+    "zeit": "2026-10-15T07:28:44+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
+    "link": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
+    "zeit": "2026-10-15T07:27:49+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "UK economy grew 0.1% in August, beating expectations",
     "link": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
-    "zeit": "2026-10-15T06:37:10+00:00",
+    "zeit": "2026-10-15T07:15:28+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -401,22 +417,6 @@
     "titel": "From 'Dune' to 'Wicker,' how this ‘tiny’ European country became a hub for Hollywood",
     "link": "https://www.cnbc.com/2026/10/15/hungary-film-industry-hollywood-movies.html",
     "zeit": "2026-10-15T06:09:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
-    "link": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
-    "zeit": "2026-10-15T05:59:57+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
-    "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-    "zeit": "2026-10-15T05:19:09+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -506,6 +506,14 @@
     "link": "https://www.nzz.ch/pro/schiffsverkehr-durch-die-arktis-chancen-und-risiken-fuer-nordeuropa-ld.10023647",
     "zeit": "2026-10-15T03:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Wenn der Algorithmus zum Fondsmanager wird: KI erobert den ETF-Markt",
+    "link": "https://www.finews.ch/news/finanzplatz/73995-ki-etf-algorithmen-asset-management-aktive-fonds-pictet-schweiz",
+    "zeit": "2026-10-15T03:22:36+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -626,14 +634,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/200-millionen-franken-investition-in-teakbaeume-tausende-anleger-fuerchten-um-ihr-geld",
     "zeit": "2026-10-14T05:00:37+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Schweizer Firmen setzen beim IT-Outsourcing auf Wachstum statt nur auf Kostensenkung",
-    "link": "https://www.finews.ch/news/finanzplatz/73962-schweizer-unternehmen-it-budgets-an-externe-dienstleister-studie-von-whitelane-research-skalierbarkeit-zugang-zu-neuen-technologien",
-    "zeit": "2026-10-14T04:22:33+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
