@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-15T16:34:24+02:00",
+ "aktualisiert": "2026-10-15T17:10:06+02:00",
  "kernaussagen": [
-  "SMI +1.19%, Nikkei 225 −4.90% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9294 (−0.35%)",
-  "Gold +1.63% auf 4'174.70 USD/Unze · Brent über 100 USD"
+  "SMI +1.40%, Euro Stoxx 50 −0.43% am schwächsten",
+  "Franken schwächer: EUR/CHF 0.9327 (+0.20%)",
+  "Gold +1.72% auf 4'178.60 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14298.7197265625,
+   "kurs": 14327.9296875,
    "vortag": 14129.9296875,
-   "veraenderung_pct": 1.194556822259485,
+   "veraenderung_pct": 1.401280858284526,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13877.839844,
     13927.519531,
     14129.929688,
-    14298.719727
+    14327.929688
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25240.900390625,
+   "kurs": 25365.75,
    "vortag": 25298.609375,
-   "veraenderung_pct": -0.22811129070211544,
+   "veraenderung_pct": 0.2653925518386391,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25277.679688,
     25259.900391,
     25298.609375,
-    25240.900391
+    25365.75
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6136.14013671875,
+   "kurs": 6163.60986328125,
    "vortag": 6190.3701171875,
-   "veraenderung_pct": -0.876037772251792,
+   "veraenderung_pct": -0.4322884318653353,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6201.209961,
     6167.009766,
     6190.370117,
-    6136.140137
+    6163.609863
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7706.509765625,
+   "kurs": 7729.14990234375,
    "vortag": 7718.93994140625,
-   "veraenderung_pct": -0.16103475186497462,
+   "veraenderung_pct": 0.13227154266004515,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7807.240234,
     7805.450195,
     7718.939941,
-    7706.509766
+    7729.149902
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26495.2265625,
+   "kurs": 26621.318359375,
    "vortag": 26692.869140625,
-   "veraenderung_pct": -0.7404321247137857,
+   "veraenderung_pct": -0.26805204368647306,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27245.900391,
     27204.380859,
     26692.869141,
-    26495.226562
+    26621.318359
    ]
   },
   {
@@ -107,17 +107,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 64425.94921875,
-   "vortag": 67744.2890625,
-   "veraenderung_pct": -4.8983314898891965,
-   "datum": "2026-10-15",
-   "ist_heute": true,
+   "kurs": 67744.2890625,
+   "vortag": 67777.5234375,
+   "veraenderung_pct": -0.049034507775491676,
+   "datum": "2026-10-14",
+   "ist_heute": false,
    "verlauf": [
+    70035.710938,
     69042.109375,
     69030.921875,
     67777.523438,
-    67744.289062,
-    64425.949219
+    67744.289062
    ]
   }
  ],
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9294400215148926,
-   "vortag": 0.9327200055122375,
-   "veraenderung_pct": -0.3516579442877532,
-   "datum": "2026-10-15",
-   "ist_heute": true,
+   "kurs": 0.9327200055122375,
+   "vortag": 0.9308300018310547,
+   "veraenderung_pct": 0.20304498968286566,
+   "datum": "2026-10-14",
+   "ist_heute": false,
    "verlauf": [
+    0.93302,
     0.93227,
     0.92988,
     0.93083,
-    0.93272,
-    0.92944
+    0.93272
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8284900188446045,
+   "kurs": 0.8292400240898132,
    "vortag": 0.8325999975204468,
-   "veraenderung_pct": -0.4936318385878158,
+   "veraenderung_pct": -0.40355193858273575,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82995,
     0.83409,
     0.8326,
-    0.82849
+    0.82924
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4174.7001953125,
+   "kurs": 4178.60009765625,
    "vortag": 4107.89990234375,
-   "veraenderung_pct": 1.6261421786504027,
+   "veraenderung_pct": 1.7210788235653585,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4190.600098,
     4177.299805,
     4107.899902,
-    4174.700195
+    4178.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.22000122070312,
+   "kurs": 105.4000015258789,
    "vortag": 106.05999755859375,
-   "veraenderung_pct": -0.7920010911055875,
+   "veraenderung_pct": -0.6222855439443342,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.650002,
     105.690002,
     106.059998,
-    105.220001
+    105.400002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81163.9296875,
+   "kurs": 82134.2578125,
    "vortag": 81562.4921875,
-   "veraenderung_pct": -0.48865905063784076,
+   "veraenderung_pct": 0.7010153928175722,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81762.5625,
     83095.125,
     81562.492188,
-    81163.929688
+    82134.257812
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.058,
+   "wert": 5.056,
    "vortag": 5.19,
-   "veraenderung_bp": -13.2,
+   "veraenderung_bp": -13.4,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.24,
     5.217,
     5.19,
-    5.058
+    5.056
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 80.91000366210938,
+   "kurs": 80.79000091552734,
    "vortag": 78.88999938964844,
-   "veraenderung_pct": 2.5605327520461296,
+   "veraenderung_pct": 2.408418735680984,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     76.379997,
     77.300003,
     78.889999,
-    80.910004
+    80.790001
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 125.5999984741211,
+   "kurs": 125.37999725341797,
    "vortag": 122.66000366210938,
-   "veraenderung_pct": 2.396865093947409,
+   "veraenderung_pct": 2.2175065303286168,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     119.959999,
     119.300003,
     122.660004,
-    125.599998
+    125.379997
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 378.3999938964844,
+   "kurs": 379.1000061035156,
    "vortag": 370.8999938964844,
-   "veraenderung_pct": 2.0221084182851623,
+   "veraenderung_pct": 2.210841828517207,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     360.0,
     359.799988,
     370.899994,
-    378.399994
+    379.100006
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.04999923706055,
+   "kurs": 39.369998931884766,
    "vortag": 39.470001220703125,
-   "veraenderung_pct": -1.064104308723146,
+   "veraenderung_pct": -0.25336277103003013,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.009998,
     40.09,
     39.470001,
-    39.049999
+    39.369999
    ]
   }
  ],
@@ -374,25 +374,41 @@
   ],
   "artikel": [
    {
-    "titel": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
-    "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-    "zeit": "2026-10-15T14:29:59+00:00",
+    "titel": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
+    "link": "https://www.cnbc.com/2026/10/15/elon-musk-starlink-ukraine-trump-energy-ceasefire.html",
+    "zeit": "2026-10-15T15:07:26+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Trump says Nidal Hasan execution won't be live-streamed",
+    "titel": "TSMC chip capacity is ‘fierce’ battleground for AI customers, amid record quarter",
+    "link": "https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html",
+    "zeit": "2026-10-15T15:04:22+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Der «Cyber Innovation Hub» soll die Bundeswehr schneller machen. Seine Macht bleibt begrenzt",
+    "link": "https://www.nzz.ch/deutschland/politik/der-cyber-innovation-hub-soll-die-bundeswehr-schneller-machen-seine-macht-bleibt-begrenzt-ld.10025795",
+    "zeit": "2026-10-15T15:00:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "USPS postmarks can lag mailing dates. What taxpayers and voters should know",
+    "link": "https://www.cnbc.com/2026/10/15/usps-postmark-rules-taxpayers-voters.html",
+    "zeit": "2026-10-15T14:55:48+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trump says Nidal Hasan execution won't be livestreamed",
     "link": "https://www.cnbc.com/2026/10/15/trump-nidal-hasan-execution-livestream.html",
-    "zeit": "2026-10-15T14:27:23+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Southwest is overhauling its frequent flyer program. Here's what's changing",
-    "link": "https://www.cnbc.com/2026/10/15/southwest-rapid-rewards-tiers-a-list.html",
-    "zeit": "2026-10-15T14:25:01+00:00",
+    "zeit": "2026-10-15T14:55:46+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -400,7 +416,39 @@
    {
     "titel": "U.S. reportedly considers use of 'mother of all bombs' as Iran vows to fight on",
     "link": "https://www.cnbc.com/2026/10/15/us-iran-war-trump-hormuz.html",
-    "zeit": "2026-10-15T14:19:26+00:00",
+    "zeit": "2026-10-15T14:51:06+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+    "link": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
+    "zeit": "2026-10-15T14:43:21+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
+    "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+    "zeit": "2026-10-15T14:40:22+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Bundesrätin Keller-Sutter gewinnt den Bonus-Streit im Fall CS: Das Bundesgericht urteilt, dass die Kürzungen für ehemalige Kader rechtmässig waren",
+    "link": "https://www.nzz.ch/wirtschaft/das-bundesgericht-bestaetigt-die-streichung-von-boni-fuer-cs-kader-war-rechtmaessig-ld.10034840",
+    "zeit": "2026-10-15T14:30:59+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Southwest is overhauling its frequent flyer program. Here's what's changing",
+    "link": "https://www.cnbc.com/2026/10/15/southwest-rapid-rewards-tiers-a-list.html",
+    "zeit": "2026-10-15T14:25:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -417,38 +465,6 @@
     "titel": "Tale of two markets: Our 3 biggest winners and losers over the past five weeks",
     "link": "https://www.cnbc.com/investingclub/2026/10/15/tale-of-two-markets-our-3-biggest-winners-and-losers-over-the-past-five-weeks.html",
     "zeit": "2026-10-15T14:02:19+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "College was supposed to be ‘good debt.’ For many borrowers, it isn’t paying off",
-    "link": "https://www.cnbc.com/2026/10/15/student-loans-college-degree-good-debt.html",
-    "zeit": "2026-10-15T13:58:36+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
-    "link": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html",
-    "zeit": "2026-10-15T13:50:00+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
-    "link": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
-    "zeit": "2026-10-15T13:46:36+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
-    "link": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
-    "zeit": "2026-10-15T13:42:32+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -490,14 +506,6 @@
     "link": "https://www.finews.ch/news/finanzplatz/74012-stefan-walter-direktor-finma-vermoegensverwaltungsgeschaeft-aufsichtsmitteilung-wettbewerbsfaehigkeit",
     "zeit": "2026-10-15T11:09:24+00:00",
     "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Das Bundesgericht bestätigt: Die Streichung von Boni für CS-Kader war rechtmässig",
-    "link": "https://www.nzz.ch/wirtschaft/das-bundesgericht-bestaetigt-die-streichung-von-boni-fuer-cs-kader-war-rechtmaessig-ld.10034840",
-    "zeit": "2026-10-15T10:24:30+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -618,14 +626,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/systemrelevante-bank-notfallplan-von-postfinance-faellt-erneut-durch",
     "zeit": "2026-10-14T15:36:51+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "MELDUNGEN WIRTSCHAFT - Netflix kündigt grössten Stellenabbau in seiner Geschichte an +++ Lufthansa erwirbt Anteil an portugiesischer Fluggesellschaft",
-    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
-    "zeit": "2026-10-14T14:59:42+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
