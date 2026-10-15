@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-15T13:30:33+02:00",
+ "aktualisiert": "2026-10-15T14:02:39+02:00",
  "kernaussagen": [
-  "SMI +0.58%, Nikkei 225 −4.90% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9308 (−0.21%)",
-  "Gold +1.71% auf 4'178.30 USD/Unze · Brent über 100 USD"
+  "SMI +0.66%, Nikkei 225 −4.90% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9304 (−0.25%)",
+  "Gold +1.56% auf 4'172.10 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14212.01953125,
+   "kurs": 14223.509765625,
    "vortag": 14129.9296875,
-   "veraenderung_pct": 0.5809642762951706,
+   "veraenderung_pct": 0.6622826878451171,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13877.839844,
     13927.519531,
     14129.929688,
-    14212.019531
+    14223.509766
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25166.08984375,
+   "kurs": 25206.859375,
    "vortag": 25298.609375,
-   "veraenderung_pct": -0.5238214056973223,
+   "veraenderung_pct": -0.36266815554956144,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25277.679688,
     25259.900391,
     25298.609375,
-    25166.089844
+    25206.859375
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6132.77978515625,
+   "kurs": 6148.47021484375,
    "vortag": 6190.3701171875,
-   "veraenderung_pct": -0.930321304559012,
+   "veraenderung_pct": -0.6768561741957169,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6201.209961,
     6167.009766,
     6190.370117,
-    6132.779785
+    6148.470215
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9307600259780884,
+   "kurs": 0.930429995059967,
    "vortag": 0.9327200055122375,
-   "veraenderung_pct": -0.21013589529182974,
+   "veraenderung_pct": -0.245519602746469,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92988,
     0.93083,
     0.93272,
-    0.93076
+    0.93043
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8298500180244446,
+   "kurs": 0.8302000164985657,
    "vortag": 0.8325999975204468,
-   "veraenderung_pct": -0.330288194113848,
+   "veraenderung_pct": -0.2882513847019541,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82995,
     0.83409,
     0.8326,
-    0.82985
+    0.8302
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4178.2998046875,
+   "kurs": 4172.10009765625,
    "vortag": 4107.89990234375,
-   "veraenderung_pct": 1.7137686900205118,
+   "veraenderung_pct": 1.562847119908417,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4190.600098,
     4177.299805,
     4107.899902,
-    4178.299805
+    4172.100098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.62999725341797,
+   "kurs": 104.8499984741211,
    "vortag": 106.05999755859375,
-   "veraenderung_pct": -1.3482937375948634,
+   "veraenderung_pct": -1.1408628251232789,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.650002,
     105.690002,
     106.059998,
-    104.629997
+    104.849998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80967.609375,
+   "kurs": 80828.046875,
    "vortag": 81562.4921875,
-   "veraenderung_pct": -0.7293583074097998,
+   "veraenderung_pct": -0.9004694349108666,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81762.5625,
     83095.125,
     81562.492188,
-    80967.609375
+    80828.046875
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 80.22000122070312,
+   "kurs": 80.12999725341797,
    "vortag": 78.88999938964844,
-   "veraenderung_pct": 1.685894082069428,
+   "veraenderung_pct": 1.5718061520637372,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     76.379997,
     77.300003,
     78.889999,
-    80.220001
+    80.129997
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 124.0999984741211,
+   "kurs": 123.9800033569336,
    "vortag": 122.66000366210938,
-   "veraenderung_pct": 1.173972581949756,
+   "veraenderung_pct": 1.0761451617598228,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     119.959999,
     119.300003,
     122.660004,
-    124.099998
+    123.980003
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.400001525878906,
+   "kurs": 39.540000915527344,
    "vortag": 39.470001220703125,
-   "veraenderung_pct": -0.1773491073202793,
+   "veraenderung_pct": 0.1773491073202793,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.009998,
     40.09,
     39.470001,
-    39.400002
+    39.540001
    ]
   }
  ],
@@ -374,9 +374,33 @@
   ],
   "artikel": [
    {
+    "titel": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
+    "link": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html",
+    "zeit": "2026-10-15T12:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "What to know about Starshield, SpaceX's military-focused Starlink service",
     "link": "https://www.cnbc.com/2026/10/15/what-is-starshield-spacex-starlink-military.html",
-    "zeit": "2026-10-15T11:29:06+00:00",
+    "zeit": "2026-10-15T11:54:43+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "You can take it with you: Five tax tips before selling your business",
+    "link": "https://www.cnbc.com/2026/10/15/you-can-take-it-with-you-five-tax-tips-for-selling-your-business.html",
+    "zeit": "2026-10-15T11:51:23+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "How lower fuel economy targets could boost pickups and V-8 engines",
+    "link": "https://www.cnbc.com/2026/10/15/cafe-fuel-economy-v8-trucks.html",
+    "zeit": "2026-10-15T11:30:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -430,17 +454,17 @@
     "sprache": "en"
    },
    {
+    "titel": "Boni für frühere CS-Kader wurden zu Recht gestrichen",
+    "link": "https://www.finews.ch/news/banken/74008-ubs-cs-streichung-boni-bundesrat-bundesgericht-urteil",
+    "zeit": "2026-10-15T09:21:02+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
     "link": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
     "zeit": "2026-10-15T09:02:31+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "UK economy grew 0.1% in August, beating expectations",
-    "link": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
-    "zeit": "2026-10-15T08:44:17+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -452,22 +476,6 @@
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
-    "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-    "zeit": "2026-10-15T08:18:14+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
-    "link": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
-    "zeit": "2026-10-15T08:09:37+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Decalia-Fondsmanager: «Bezahlt, um die Benchmark zu schlagen»",
@@ -625,14 +633,6 @@
     "titel": "Notfallplan von Postfinance erfüllt nicht alle Anforderungen",
     "link": "https://www.finews.ch/news/banken/73981-finma-notfallplan-raiffeisen-postfinance-zkb",
     "zeit": "2026-10-14T07:46:37+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Geldwäscherei: Risiko-Bericht sieht stabile Lage",
-    "link": "https://www.finews.ch/news/finanzplatz/73977-bundesrat-kggt-risiko-bericht-geldwaescherei-terrorismusfinanzierung",
-    "zeit": "2026-10-14T07:09:27+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
