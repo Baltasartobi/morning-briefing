@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-15T11:08:16+02:00",
+ "aktualisiert": "2026-10-15T12:04:46+02:00",
  "kernaussagen": [
-  "SMI +0.46%, Nikkei 225 −4.90% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9305 (−0.24%)",
-  "Brent über 100 USD: 104.11 (−1.84%)"
+  "SMI +0.49%, Nikkei 225 −4.90% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9303 (−0.26%)",
+  "Brent über 100 USD: 103.74 (−2.19%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14195.5703125,
+   "kurs": 14199.169921875,
    "vortag": 14129.9296875,
-   "veraenderung_pct": 0.464550259284513,
+   "veraenderung_pct": 0.4900253285496037,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13877.839844,
     13927.519531,
     14129.929688,
-    14195.570312
+    14199.169922
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25254.4296875,
+   "kurs": 25203.19921875,
    "vortag": 25298.609375,
-   "veraenderung_pct": -0.17463286951914236,
+   "veraenderung_pct": -0.3771359715300515,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25277.679688,
     25259.900391,
     25298.609375,
-    25254.429688
+    25203.199219
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6156.2900390625,
+   "kurs": 6147.60986328125,
    "vortag": 6190.3701171875,
-   "veraenderung_pct": -0.5505337722921722,
+   "veraenderung_pct": -0.6907543991194753,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6201.209961,
     6167.009766,
     6190.370117,
-    6156.290039
+    6147.609863
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9304500222206116,
+   "kurs": 0.9302700161933899,
    "vortag": 0.9327200055122375,
-   "veraenderung_pct": -0.2433724245444191,
+   "veraenderung_pct": -0.2626714667176233,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92988,
     0.93083,
     0.93272,
-    0.93045
+    0.93027
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8325999975204468,
-   "vortag": 0.834089994430542,
-   "veraenderung_pct": -0.1786374276210423,
-   "datum": "2026-10-14",
-   "ist_heute": false,
+   "kurs": 0.8294299840927124,
+   "vortag": 0.8325999975204468,
+   "veraenderung_pct": -0.38073666072242496,
+   "datum": "2026-10-15",
+   "ist_heute": true,
    "verlauf": [
-    0.83298,
     0.83138,
     0.82995,
     0.83409,
-    0.8326
+    0.8326,
+    0.82943
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4173.2001953125,
+   "kurs": 4178.7998046875,
    "vortag": 4107.89990234375,
-   "veraenderung_pct": 1.5896271701141718,
+   "veraenderung_pct": 1.725940359532574,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4190.600098,
     4177.299805,
     4107.899902,
-    4173.200195
+    4178.799805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.11000061035156,
+   "kurs": 103.73999786376953,
    "vortag": 106.05999755859375,
-   "veraenderung_pct": -1.8385790996882645,
+   "veraenderung_pct": -2.187440833705956,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.650002,
     105.690002,
     106.059998,
-    104.110001
+    103.739998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81229.109375,
+   "kurs": 81107.28125,
    "vortag": 81562.4921875,
-   "veraenderung_pct": -0.4087452498798161,
+   "veraenderung_pct": -0.5581130802790324,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81762.5625,
     83095.125,
     81562.492188,
-    81229.109375
+    81107.28125
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 79.94000244140625,
+   "kurs": 79.95999908447266,
    "vortag": 78.88999938964844,
-   "veraenderung_pct": 1.330971048144769,
+   "veraenderung_pct": 1.3563185487419638,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     76.379997,
     77.300003,
     78.889999,
-    79.940002
+    79.959999
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 124.05999755859375,
+   "kurs": 123.62000274658203,
    "vortag": 122.66000366210938,
-   "veraenderung_pct": 1.141361368568794,
+   "veraenderung_pct": 0.7826504612841623,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     119.959999,
     119.300003,
     122.660004,
-    124.059998
+    123.620003
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 372.6000061035156,
+   "kurs": 373.20001220703125,
    "vortag": 370.8999938964844,
-   "veraenderung_pct": 0.4583478660033835,
+   "veraenderung_pct": 0.6201181850622461,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     360.0,
     359.799988,
     370.899994,
-    372.600006
+    373.200012
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.52000045776367,
+   "kurs": 39.630001068115234,
    "vortag": 39.470001220703125,
-   "veraenderung_pct": 0.12667655311426884,
+   "veraenderung_pct": 0.4053707688465469,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.009998,
     40.09,
     39.470001,
-    39.52
+    39.630001
    ]
   }
  ],
@@ -373,6 +373,22 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "What to know about Starshield, SpaceX's military-focused Starlink service",
+    "link": "https://www.cnbc.com/2026/10/15/what-is-starshield-spacex-starlink-military.html",
+    "zeit": "2026-10-15T09:58:40+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+    "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+    "zeit": "2026-10-15T09:30:06+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
    {
     "titel": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
     "link": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
@@ -406,6 +422,14 @@
     "sprache": "en"
    },
    {
+    "titel": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
+    "link": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
+    "zeit": "2026-10-15T08:09:37+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
     "link": "https://www.cnbc.com/2026/10/15/elon-musk-starlink-ukraine-trump-energy-ceasefire.html",
     "zeit": "2026-10-15T07:51:22+00:00",
@@ -417,14 +441,6 @@
     "titel": "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire'",
     "link": "https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html",
     "zeit": "2026-10-15T07:46:30+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Inside India newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat",
-    "link": "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html",
-    "zeit": "2026-10-15T06:22:45+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -460,22 +476,6 @@
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Oil falls as investors assess Mideast tensions, International Energy Agency's report",
-    "link": "https://www.cnbc.com/2026/10/15/oil-prices-today-brent-wti.html",
-    "zeit": "2026-10-15T04:09:18+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO",
-    "link": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html",
-    "zeit": "2026-10-15T03:48:58+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Wall Street Journal: UBS erwägt erneut Wegzug aus der Schweiz",
