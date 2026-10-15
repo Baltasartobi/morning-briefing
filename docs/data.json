@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-15T09:40:54+02:00",
+ "aktualisiert": "2026-10-15T10:34:06+02:00",
  "kernaussagen": [
-  "SMI +0.55%, Nikkei 225 −4.90% am schwächsten",
-  "Franken schwächer: EUR/CHF 0.9327 (+0.20%)",
-  "Brent über 100 USD: 103.70 (−2.23%)"
+  "SMI +0.50%, Nikkei 225 −4.90% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9300 (−0.29%)",
+  "Brent über 100 USD: 103.60 (−2.32%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14207.4599609375,
+   "kurs": 14200.8701171875,
    "vortag": 14129.9296875,
-   "veraenderung_pct": 0.5486953944723982,
+   "veraenderung_pct": 0.502057910098852,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13877.839844,
     13927.519531,
     14129.929688,
-    14207.459961
+    14200.870117
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25215.01953125,
+   "kurs": 25221.490234375,
    "vortag": 25298.609375,
-   "veraenderung_pct": -0.3304128006047735,
+   "veraenderung_pct": -0.30483549305760915,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25277.679688,
     25259.900391,
     25298.609375,
-    25215.019531
+    25221.490234
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6138.2099609375,
+   "kurs": 6141.2900390625,
    "vortag": 6190.3701171875,
-   "veraenderung_pct": -0.8426015773302153,
+   "veraenderung_pct": -0.7928456165929298,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6201.209961,
     6167.009766,
     6190.370117,
-    6138.209961
+    6141.290039
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9327200055122375,
-   "vortag": 0.9308300018310547,
-   "veraenderung_pct": 0.20304498968286566,
-   "datum": "2026-10-14",
-   "ist_heute": false,
+   "kurs": 0.9300400018692017,
+   "vortag": 0.9327200055122375,
+   "veraenderung_pct": -0.2873320639846355,
+   "datum": "2026-10-15",
+   "ist_heute": true,
    "verlauf": [
-    0.93302,
     0.93227,
     0.92988,
     0.93083,
-    0.93272
+    0.93272,
+    0.93004
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8325999975204468,
-   "vortag": 0.834089994430542,
-   "veraenderung_pct": -0.1786374276210423,
-   "datum": "2026-10-14",
-   "ist_heute": false,
+   "kurs": 0.8286799788475037,
+   "vortag": 0.8325999975204468,
+   "veraenderung_pct": -0.4708165607275161,
+   "datum": "2026-10-15",
+   "ist_heute": true,
    "verlauf": [
-    0.83298,
     0.83138,
     0.82995,
     0.83409,
-    0.8326
+    0.8326,
+    0.82868
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4163.7998046875,
+   "kurs": 4179.2998046875,
    "vortag": 4107.89990234375,
-   "veraenderung_pct": 1.3607902741704203,
+   "veraenderung_pct": 1.7381120290446361,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4190.600098,
     4177.299805,
     4107.899902,
-    4163.799805
+    4179.299805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 103.69999694824219,
+   "kurs": 103.5999984741211,
    "vortag": 106.05999755859375,
-   "veraenderung_pct": -2.225156199016276,
+   "veraenderung_pct": -2.319441015556889,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.650002,
     105.690002,
     106.059998,
-    103.699997
+    103.599998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81193.0,
+   "kurs": 81186.6015625,
    "vortag": 81562.4921875,
-   "veraenderung_pct": -0.45301728477177283,
+   "veraenderung_pct": -0.46086211310939484,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81762.5625,
     83095.125,
     81562.492188,
-    81193.0
+    81186.601562
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 80.5199966430664,
+   "kurs": 80.37000274658203,
    "vortag": 78.88999938964844,
-   "veraenderung_pct": 2.0661646165912595,
+   "veraenderung_pct": 1.8760341847940065,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     76.379997,
     77.300003,
     78.889999,
-    80.519997
+    80.370003
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 124.31999969482422,
+   "kurs": 124.18000030517578,
    "vortag": 122.66000366210938,
-   "veraenderung_pct": 1.3533311455685482,
+   "veraenderung_pct": 1.2391950087116577,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     119.959999,
     119.300003,
     122.660004,
-    124.32
+    124.18
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 373.8999938964844,
+   "kurs": 373.29998779296875,
    "vortag": 370.8999938964844,
-   "veraenderung_pct": 0.8088433673140605,
+   "veraenderung_pct": 0.64707304825522,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     360.0,
     359.799988,
     370.899994,
-    373.899994
+    373.299988
    ]
   },
   {
@@ -335,17 +335,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.34000015258789,
-   "vortag": 40.09000015258789,
-   "veraenderung_pct": -1.870790713757542,
+   "kurs": 39.290000915527344,
+   "vortag": 39.470001220703125,
+   "veraenderung_pct": -0.45604332305255735,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
-    38.830002,
     39.900002,
     40.009998,
     40.09,
-    39.34
+    39.470001,
+    39.290001
    ]
   }
  ],
@@ -374,17 +374,33 @@
   ],
   "artikel": [
    {
-    "titel": "Tech stocks plunge as Fed rate hike fears, AI funding worries mount; ASML, SK Hynix slump",
+    "titel": "Klimakosten bis 2060 – Wie viel kostet der Klimawandel die Schweiz?",
+    "link": "https://www.srf.ch/news/schweiz/klimakosten-bis-2060-wie-viel-kostet-der-klimawandel-die-schweiz",
+    "zeit": "2026-10-15T08:19:12+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
     "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-    "zeit": "2026-10-15T07:28:44+00:00",
+    "zeit": "2026-10-15T08:18:14+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
-    "link": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
-    "zeit": "2026-10-15T07:27:49+00:00",
+    "titel": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
+    "link": "https://www.cnbc.com/2026/10/15/elon-musk-starlink-ukraine-trump-energy-ceasefire.html",
+    "zeit": "2026-10-15T07:51:22+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire'",
+    "link": "https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html",
+    "zeit": "2026-10-15T07:46:30+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -422,20 +438,20 @@
     "sprache": "en"
    },
    {
+    "titel": "Europas ETF-Boom knackt den nächsten Rekord",
+    "link": "https://www.finews.ch/news/finanzplatz/74002-etf-europa-rekord-zufluesse-2026-schweiz-pictet-six",
+    "zeit": "2026-10-15T05:48:42+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Die Zinsen auf Säule 3a-Sparguthaben sinken weiter",
     "link": "https://www.finews.ch/news/finanzplatz/73997-zinsen-saeule-3a-moneyland-rendite-vorsorge",
     "zeit": "2026-10-15T04:18:37+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
-    "link": "https://www.cnbc.com/2026/10/15/elon-musk-starlink-ukraine-trump-energy-ceasefire.html",
-    "zeit": "2026-10-15T04:11:52+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Oil falls as investors assess Mideast tensions, International Energy Agency's report",
@@ -622,14 +638,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Staatsverschuldung: Wer bezahlt am Ende die Zeche?",
-    "link": "https://www.finews.ch/news/finanzplatz/73969-icv-laenderstudie-staatsverschuldung-frankreich-wirtschaftswachstum-staatsanleihen-fiskalindex-zukunftsindex",
-    "zeit": "2026-10-14T05:20:45+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "200 Millionen Franken – Investition in Teakbäume – Tausende Anleger fürchten um ihr Geld",
     "link": "https://www.srf.ch/news/wirtschaft/200-millionen-franken-investition-in-teakbaeume-tausende-anleger-fuerchten-um-ihr-geld",
     "zeit": "2026-10-14T05:00:37+00:00",
@@ -681,14 +689,6 @@
     "titel": "490 statt 580 Stellen – Zimmer Biomet streicht in Winterthur weniger Stellen als geplant",
     "link": "https://www.srf.ch/news/wirtschaft/490-statt-580-stellen-zimmer-biomet-streicht-in-winterthur-weniger-stellen-als-geplant",
     "zeit": "2026-10-12T12:00:27+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Arbeitslosigkeit in der ICT – IT-Projektleiter backt jetzt Pizza",
-    "link": "https://www.srf.ch/news/wirtschaft/arbeitslosigkeit-in-der-ict-it-projektleiter-backt-jetzt-pizza",
-    "zeit": "2026-10-12T08:30:32+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
