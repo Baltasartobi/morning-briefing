@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-15T19:07:43+02:00",
+ "aktualisiert": "2026-10-15T20:00:38+02:00",
  "kernaussagen": [
-  "SMI +1.55%, Nasdaq −0.37% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9283 (−0.48%)",
-  "Gold +1.49% auf 4'169.00 USD/Unze · Brent über 100 USD"
+  "SMI +1.55%, Euro Stoxx 50 −0.36% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9279 (−0.52%)",
+  "Gold +1.61% auf 4'174.00 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7725.580078125,
+   "kurs": 7738.4501953125,
    "vortag": 7718.93994140625,
-   "veraenderung_pct": 0.08602394589354301,
+   "veraenderung_pct": 0.25275820325525444,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7807.240234,
     7805.450195,
     7718.939941,
-    7725.580078
+    7738.450195
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26595.236328125,
+   "kurs": 26657.2109375,
    "vortag": 26692.869140625,
-   "veraenderung_pct": -0.36576365015557055,
+   "veraenderung_pct": -0.13358700009782343,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27245.900391,
     27204.380859,
     26692.869141,
-    26595.236328
+    26657.210938
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9282699823379517,
+   "kurs": 0.9279099702835083,
    "vortag": 0.9327200055122375,
-   "veraenderung_pct": -0.47710171841355287,
+   "veraenderung_pct": -0.5156998027599502,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92988,
     0.93083,
     0.93272,
-    0.92827
+    0.92791
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8282099962234497,
+   "kurs": 0.8272299766540527,
    "vortag": 0.8325999975204468,
-   "veraenderung_pct": -0.5272641496602004,
+   "veraenderung_pct": -0.644970079556384,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82995,
     0.83409,
     0.8326,
-    0.82821
+    0.82723
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4169.0,
+   "kurs": 4174.0,
    "vortag": 4107.89990234375,
-   "veraenderung_pct": 1.4873803916543693,
+   "veraenderung_pct": 1.6090970867750798,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4190.600098,
     4177.299805,
     4107.899902,
-    4169.0
+    4174.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 106.36000061035156,
+   "kurs": 105.91999816894531,
    "vortag": 106.05999755859375,
-   "veraenderung_pct": 0.28286164309223594,
+   "veraenderung_pct": -0.1320001818509331,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.650002,
     105.690002,
     106.059998,
-    106.360001
+    105.919998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82021.6484375,
+   "kurs": 82298.0703125,
    "vortag": 81562.4921875,
-   "veraenderung_pct": 0.56295024549331,
+   "veraenderung_pct": 0.9018583239327915,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81762.5625,
     83095.125,
     81562.492188,
-    82021.648438
+    82298.070312
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.085,
+   "wert": 5.087,
    "vortag": 5.19,
-   "veraenderung_bp": -10.5,
+   "veraenderung_bp": -10.3,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.24,
     5.217,
     5.19,
-    5.085
+    5.087
    ]
   }
  ],
@@ -374,9 +374,41 @@
   ],
   "artikel": [
    {
+    "titel": "U.S. sues California in fight over checking citizenship of mail voters",
+    "link": "https://www.cnbc.com/2026/10/15/california-mail-ballots-voting-lawsuit.html",
+    "zeit": "2026-10-15T17:55:19+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Who gets to have 'good debt'? A sociologist, theologian, philosopher and other experts weigh in",
+    "link": "https://www.cnbc.com/2026/10/15/good-debt-access.html",
+    "zeit": "2026-10-15T17:54:30+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Anduril CEO defends Trump administration contracts: 'We've done incredibly well under Biden'",
+    "link": "https://www.cnbc.com/2026/10/15/anduril-ceo-contracts-palmer-luckey-ethics.html",
+    "zeit": "2026-10-15T17:54:07+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Trump says Nidal Hasan execution won't be livestreamed",
     "link": "https://www.cnbc.com/2026/10/15/trump-nidal-hasan-execution-livestream.html",
-    "zeit": "2026-10-15T17:00:16+00:00",
+    "zeit": "2026-10-15T17:53:46+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "She made college ‘good debt’ for herself. Can she do the same for her daughter?",
+    "link": "https://www.cnbc.com/2026/10/15/college-good-debt-cfp-daughter.html",
+    "zeit": "2026-10-15T17:53:35+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,7 +416,15 @@
    {
     "titel": "Apple and Meta team up to make Muse AI model run on Mac computers",
     "link": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html",
-    "zeit": "2026-10-15T17:00:01+00:00",
+    "zeit": "2026-10-15T17:52:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "How to weather the current AI stock storm that we were all dreading",
+    "link": "https://www.cnbc.com/investingclub/2026/10/15/cramer-how-to-weather-the-current-ai-stock-storm-that-we-were-all-dreading.html",
+    "zeit": "2026-10-15T17:06:17+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -406,49 +446,9 @@
     "sprache": "en"
    },
    {
-    "titel": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
-    "link": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
-    "zeit": "2026-10-15T16:52:16+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "International Energy Agency to release more than 20 million barrels of diesel as soon as possible",
     "link": "https://www.cnbc.com/2026/10/15/iea-diesel-price-ukraine-iran-oil.html",
     "zeit": "2026-10-15T16:47:03+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Banks with Jeffrey Epstein ties eyed by Democrats Warren and Garcia",
-    "link": "https://www.cnbc.com/2026/10/15/banks-congress-jeffrey-epstein-oversight.html",
-    "zeit": "2026-10-15T16:39:04+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
-    "link": "https://www.cnbc.com/2026/10/15/elon-musk-starlink-ukraine-trump-energy-ceasefire.html",
-    "zeit": "2026-10-15T16:35:32+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Nvidia, AMD, Dell sell-off in global tech rout on AI funding worries",
-    "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-    "zeit": "2026-10-15T16:19:09+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
-    "link": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
-    "zeit": "2026-10-15T16:15:44+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
