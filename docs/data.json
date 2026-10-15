@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-15T08:01:51+02:00",
+ "aktualisiert": "2026-10-15T08:39:15+02:00",
  "kernaussagen": [
-  "SMI +1.45%, Nikkei 225 −4.92% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9306 (−0.23%)",
-  "Bitcoin −3.15% auf 80'481 USD · Brent über 100 USD"
+  "SMI +1.45%, Nikkei 225 −4.83% am schwächsten",
+  "Franken schwächer: EUR/CHF 0.9327 (+0.20%)",
+  "Bitcoin −2.60% auf 80'932 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 64411.01171875,
+   "kurs": 64472.05078125,
    "vortag": 67744.2890625,
-   "veraenderung_pct": -4.920381319043388,
+   "veraenderung_pct": -4.830279166751716,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     69030.921875,
     67777.523438,
     67744.289062,
-    64411.011719
+    64472.050781
    ]
   }
  ],
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9305599927902222,
-   "vortag": 0.9327200055122375,
-   "veraenderung_pct": -0.23158211566708387,
-   "datum": "2026-10-15",
-   "ist_heute": true,
+   "kurs": 0.9327200055122375,
+   "vortag": 0.9308300018310547,
+   "veraenderung_pct": 0.20304498968286566,
+   "datum": "2026-10-14",
+   "ist_heute": false,
    "verlauf": [
+    0.93302,
     0.93227,
     0.92988,
     0.93083,
-    0.93272,
-    0.93056
+    0.93272
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8299599885940552,
+   "kurs": 0.8309100270271301,
    "vortag": 0.8325999975204468,
-   "veraenderung_pct": -0.31708010260074193,
+   "veraenderung_pct": -0.20297507787047087,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82995,
     0.83409,
     0.8326,
-    0.82996
+    0.83091
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4159.60009765625,
+   "kurs": 4159.5,
    "vortag": 4107.89990234375,
-   "veraenderung_pct": 1.2585553821066187,
+   "veraenderung_pct": 1.2561186709250105,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4190.600098,
     4177.299805,
     4107.899902,
-    4159.600098
+    4159.5
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.58999633789062,
+   "kurs": 104.37000274658203,
    "vortag": 106.05999755859375,
-   "veraenderung_pct": -1.3860091029051835,
+   "veraenderung_pct": -1.5934328219063598,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.650002,
     105.690002,
     106.059998,
-    104.589996
+    104.370003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80481.03125,
+   "kurs": 80932.1328125,
    "vortag": 83095.125,
-   "veraenderung_pct": -3.1459050696415747,
+   "veraenderung_pct": -2.6030313902289715,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     83679.46875,
     81762.5625,
     83095.125,
-    80481.03125
+    80932.132812
    ]
   }
  ],
@@ -223,17 +223,17 @@
    "name": "Schweiz",
    "quelle": "snb",
    "verfuegbar": true,
-   "wert": 0.561,
-   "vortag": 0.572,
-   "veraenderung_bp": -1.1,
-   "datum": "2026-10-13",
+   "wert": 0.568,
+   "vortag": 0.561,
+   "veraenderung_bp": 0.7,
+   "datum": "2026-10-14",
    "ist_heute": false,
    "verlauf": [
-    0.558,
     0.566,
     0.579,
     0.572,
-    0.561
+    0.561,
+    0.568
    ]
   },
   {
@@ -374,6 +374,38 @@
   ],
   "artikel": [
    {
+    "titel": "UK economy grew 0.1% in August, beating expectations",
+    "link": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
+    "zeit": "2026-10-15T06:37:10+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Inside India newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat",
+    "link": "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html",
+    "zeit": "2026-10-15T06:22:45+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "India’s IDBI Bank falls 7% as government announces $5.5 billion stake sale to Canada's Fairfax",
+    "link": "https://www.cnbc.com/2026/10/15/india-canada-fairfax-idbi-fdi.html",
+    "zeit": "2026-10-15T06:12:04+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "From 'Dune' to 'Wicker,' how this ‘tiny’ European country became a hub for Hollywood",
+    "link": "https://www.cnbc.com/2026/10/15/hungary-film-industry-hollywood-movies.html",
+    "zeit": "2026-10-15T06:09:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
     "link": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
     "zeit": "2026-10-15T05:59:57+00:00",
@@ -388,6 +420,14 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Die Zinsen auf Säule 3a-Sparguthaben sinken weiter",
+    "link": "https://www.finews.ch/news/finanzplatz/73997-zinsen-saeule-3a-moneyland-rendite-vorsorge",
+    "zeit": "2026-10-15T04:18:37+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
@@ -473,38 +513,6 @@
     "titel": "Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India",
     "link": "https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html",
     "zeit": "2026-10-15T01:56:53+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Inside India newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat",
-    "link": "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html",
-    "zeit": "2026-10-15T00:30:13+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Jim Cramer explains why even strong bank earnings couldn't save their stocks",
-    "link": "https://www.cnbc.com/2026/10/14/cramer-big-bank-earnings-stock-reaction.html",
-    "zeit": "2026-10-14T22:48:06+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Jim Cramer says don't give up on this unpredictable market. Here's why",
-    "link": "https://www.cnbc.com/2026/10/14/cramer-stock-market-selloff-inflation.html",
-    "zeit": "2026-10-14T22:19:32+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Traders pile into 'bubble puts' on CoreWeave as neocloud stocks plunge",
-    "link": "https://www.cnbc.com/2026/10/14/coreweave-put-options-ai-trade.html",
-    "zeit": "2026-10-14T21:19:09+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -625,14 +633,6 @@
     "titel": "Schweizer Firmen setzen beim IT-Outsourcing auf Wachstum statt nur auf Kostensenkung",
     "link": "https://www.finews.ch/news/finanzplatz/73962-schweizer-unternehmen-it-budgets-an-externe-dienstleister-studie-von-whitelane-research-skalierbarkeit-zugang-zu-neuen-technologien",
     "zeit": "2026-10-14T04:22:33+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "BBVA bündelt Wealth Management unter neuer Dachmarke",
-    "link": "https://www.finews.ch/news/banken/73961-bbva-global-wealth-private-banking-initiative-david-conde-schweiz-ceo",
-    "zeit": "2026-10-14T04:16:06+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
