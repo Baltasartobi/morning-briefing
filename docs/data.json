@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-15T07:31:06+02:00",
+ "aktualisiert": "2026-10-15T08:01:51+02:00",
  "kernaussagen": [
-  "SMI +1.45%, Nikkei 225 −4.31% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9305 (−0.23%)",
-  "Bitcoin −2.55% auf 80'978 USD · Brent über 100 USD"
+  "SMI +1.45%, Nikkei 225 −4.92% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9306 (−0.23%)",
+  "Bitcoin −3.15% auf 80'481 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 64826.1015625,
+   "kurs": 64411.01171875,
    "vortag": 67744.2890625,
-   "veraenderung_pct": -4.307650933214047,
+   "veraenderung_pct": -4.920381319043388,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     69030.921875,
     67777.523438,
     67744.289062,
-    64826.101562
+    64411.011719
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9305499792098999,
+   "kurs": 0.9305599927902222,
    "vortag": 0.9327200055122375,
-   "veraenderung_pct": -0.23265570476811437,
+   "veraenderung_pct": -0.23158211566708387,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92988,
     0.93083,
     0.93272,
-    0.93055
+    0.93056
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.830079972743988,
+   "kurs": 0.8299599885940552,
    "vortag": 0.8325999975204468,
-   "veraenderung_pct": -0.30266932307994043,
+   "veraenderung_pct": -0.31708010260074193,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82995,
     0.83409,
     0.8326,
-    0.83008
+    0.82996
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4164.7998046875,
+   "kurs": 4159.60009765625,
    "vortag": 4107.89990234375,
-   "veraenderung_pct": 1.3851336131945668,
+   "veraenderung_pct": 1.2585553821066187,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4190.600098,
     4177.299805,
     4107.899902,
-    4164.799805
+    4159.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.37000274658203,
+   "kurs": 104.58999633789062,
    "vortag": 106.05999755859375,
-   "veraenderung_pct": -1.5934328219063598,
+   "veraenderung_pct": -1.3860091029051835,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.650002,
     105.690002,
     106.059998,
-    104.370003
+    104.589996
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80978.3203125,
+   "kurs": 80481.03125,
    "vortag": 83095.125,
-   "veraenderung_pct": -2.547447503689293,
+   "veraenderung_pct": -3.1459050696415747,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     83679.46875,
     81762.5625,
     83095.125,
-    80978.320312
+    80481.03125
    ]
   }
  ],
@@ -374,6 +374,14 @@
   ],
   "artikel": [
    {
+    "titel": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
+    "link": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
+    "zeit": "2026-10-15T05:59:57+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
     "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
     "zeit": "2026-10-15T05:19:09+00:00",
@@ -404,6 +412,14 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Wall Street Journal: UBS erwägt erneut Wegzug aus der Schweiz",
+    "link": "https://www.finews.ch/news/banken/73996-ubs-wegzug-schweiz-notfallplan-eigenkapital-fusion-uebernahme",
+    "zeit": "2026-10-15T03:45:33+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Viel Staat, wenig Leistung: Frankreichs Schülerproteste zeigen, wie tief das Land in der Krise steckt",
@@ -489,14 +505,6 @@
     "titel": "Traders pile into 'bubble puts' on CoreWeave as neocloud stocks plunge",
     "link": "https://www.cnbc.com/2026/10/14/coreweave-put-options-ai-trade.html",
     "zeit": "2026-10-14T21:19:09+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trump to appeal order blocking White House from banning MS NOW, CNN and Politico",
-    "link": "https://www.cnbc.com/2026/10/14/trump-appeals-white-house-ban-judge.html",
-    "zeit": "2026-10-14T21:18:46+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -625,14 +633,6 @@
     "titel": "BBVA bündelt Wealth Management unter neuer Dachmarke",
     "link": "https://www.finews.ch/news/banken/73961-bbva-global-wealth-private-banking-initiative-david-conde-schweiz-ceo",
     "zeit": "2026-10-14T04:16:06+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Leonteq baut Plattform für strukturierte Währungsprodukte aus",
-    "link": "https://www.finews.ch/news/finanzplatz/73960-leonteq-erweitert-digitale-anlageplattform-lynqs-fx-pricer-professionelle-anleger-strukturierte-waehrungsprodukte",
-    "zeit": "2026-10-14T03:47:40+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
