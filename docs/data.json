@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-15T10:34:06+02:00",
+ "aktualisiert": "2026-10-15T11:08:16+02:00",
  "kernaussagen": [
-  "SMI +0.50%, Nikkei 225 −4.90% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9300 (−0.29%)",
-  "Brent über 100 USD: 103.60 (−2.32%)"
+  "SMI +0.46%, Nikkei 225 −4.90% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9305 (−0.24%)",
+  "Brent über 100 USD: 104.11 (−1.84%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14200.8701171875,
+   "kurs": 14195.5703125,
    "vortag": 14129.9296875,
-   "veraenderung_pct": 0.502057910098852,
+   "veraenderung_pct": 0.464550259284513,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13877.839844,
     13927.519531,
     14129.929688,
-    14200.870117
+    14195.570312
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25221.490234375,
+   "kurs": 25254.4296875,
    "vortag": 25298.609375,
-   "veraenderung_pct": -0.30483549305760915,
+   "veraenderung_pct": -0.17463286951914236,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25277.679688,
     25259.900391,
     25298.609375,
-    25221.490234
+    25254.429688
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6141.2900390625,
+   "kurs": 6156.2900390625,
    "vortag": 6190.3701171875,
-   "veraenderung_pct": -0.7928456165929298,
+   "veraenderung_pct": -0.5505337722921722,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6201.209961,
     6167.009766,
     6190.370117,
-    6141.290039
+    6156.290039
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9300400018692017,
+   "kurs": 0.9304500222206116,
    "vortag": 0.9327200055122375,
-   "veraenderung_pct": -0.2873320639846355,
+   "veraenderung_pct": -0.2433724245444191,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92988,
     0.93083,
     0.93272,
-    0.93004
+    0.93045
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8286799788475037,
-   "vortag": 0.8325999975204468,
-   "veraenderung_pct": -0.4708165607275161,
-   "datum": "2026-10-15",
-   "ist_heute": true,
+   "kurs": 0.8325999975204468,
+   "vortag": 0.834089994430542,
+   "veraenderung_pct": -0.1786374276210423,
+   "datum": "2026-10-14",
+   "ist_heute": false,
    "verlauf": [
+    0.83298,
     0.83138,
     0.82995,
     0.83409,
-    0.8326,
-    0.82868
+    0.8326
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4179.2998046875,
+   "kurs": 4173.2001953125,
    "vortag": 4107.89990234375,
-   "veraenderung_pct": 1.7381120290446361,
+   "veraenderung_pct": 1.5896271701141718,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4190.600098,
     4177.299805,
     4107.899902,
-    4179.299805
+    4173.200195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 103.5999984741211,
+   "kurs": 104.11000061035156,
    "vortag": 106.05999755859375,
-   "veraenderung_pct": -2.319441015556889,
+   "veraenderung_pct": -1.8385790996882645,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.650002,
     105.690002,
     106.059998,
-    103.599998
+    104.110001
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81186.6015625,
+   "kurs": 81229.109375,
    "vortag": 81562.4921875,
-   "veraenderung_pct": -0.46086211310939484,
+   "veraenderung_pct": -0.4087452498798161,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81762.5625,
     83095.125,
     81562.492188,
-    81186.601562
+    81229.109375
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 80.37000274658203,
+   "kurs": 79.94000244140625,
    "vortag": 78.88999938964844,
-   "veraenderung_pct": 1.8760341847940065,
+   "veraenderung_pct": 1.330971048144769,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     76.379997,
     77.300003,
     78.889999,
-    80.370003
+    79.940002
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 124.18000030517578,
+   "kurs": 124.05999755859375,
    "vortag": 122.66000366210938,
-   "veraenderung_pct": 1.2391950087116577,
+   "veraenderung_pct": 1.141361368568794,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     119.959999,
     119.300003,
     122.660004,
-    124.18
+    124.059998
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 373.29998779296875,
+   "kurs": 372.6000061035156,
    "vortag": 370.8999938964844,
-   "veraenderung_pct": 0.64707304825522,
+   "veraenderung_pct": 0.4583478660033835,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     360.0,
     359.799988,
     370.899994,
-    373.299988
+    372.600006
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.290000915527344,
+   "kurs": 39.52000045776367,
    "vortag": 39.470001220703125,
-   "veraenderung_pct": -0.45604332305255735,
+   "veraenderung_pct": 0.12667655311426884,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.009998,
     40.09,
     39.470001,
-    39.290001
+    39.52
    ]
   }
  ],
@@ -374,8 +374,24 @@
   ],
   "artikel": [
    {
-    "titel": "Klimakosten bis 2060 – Wie viel kostet der Klimawandel die Schweiz?",
-    "link": "https://www.srf.ch/news/schweiz/klimakosten-bis-2060-wie-viel-kostet-der-klimawandel-die-schweiz",
+    "titel": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
+    "link": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
+    "zeit": "2026-10-15T09:02:31+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "UK economy grew 0.1% in August, beating expectations",
+    "link": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
+    "zeit": "2026-10-15T08:44:17+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Klimakosten bis 2060 – Der Klimawandel kostet Milliarden – für Wintersport wirds teuer",
+    "link": "https://www.srf.ch/news/schweiz/klimakosten-bis-2060-der-klimawandel-kostet-milliarden-fuer-wintersport-wirds-teuer",
     "zeit": "2026-10-15T08:19:12+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
@@ -401,14 +417,6 @@
     "titel": "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire'",
     "link": "https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html",
     "zeit": "2026-10-15T07:46:30+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "UK economy grew 0.1% in August, beating expectations",
-    "link": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
-    "zeit": "2026-10-15T07:15:28+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -532,14 +540,6 @@
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India",
-    "link": "https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html",
-    "zeit": "2026-10-15T01:56:53+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Systemrelevante Bank – Notfallplan von Postfinance fällt erneut durch",
