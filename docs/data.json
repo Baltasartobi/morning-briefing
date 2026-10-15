@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-15T07:01:26+02:00",
+ "aktualisiert": "2026-10-15T07:31:06+02:00",
  "kernaussagen": [
-  "SMI +1.45%, Nikkei 225 −4.56% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9308 (−0.21%)",
-  "Bitcoin −1.84% auf 81'566 USD · Brent über 100 USD"
+  "SMI +1.45%, Nikkei 225 −4.31% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9305 (−0.23%)",
+  "Bitcoin −2.55% auf 80'978 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 64655.8515625,
+   "kurs": 64826.1015625,
    "vortag": 67744.2890625,
-   "veraenderung_pct": -4.558963630352142,
+   "veraenderung_pct": -4.307650933214047,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     69030.921875,
     67777.523438,
     67744.289062,
-    64655.851562
+    64826.101562
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9307500123977661,
+   "kurs": 0.9305499792098999,
    "vortag": 0.9327200055122375,
-   "veraenderung_pct": -0.21120948439286025,
+   "veraenderung_pct": -0.23265570476811437,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92988,
     0.93083,
     0.93272,
-    0.93075
+    0.93055
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8325999975204468,
-   "vortag": 0.834089994430542,
-   "veraenderung_pct": -0.1786374276210423,
-   "datum": "2026-10-14",
-   "ist_heute": false,
+   "kurs": 0.830079972743988,
+   "vortag": 0.8325999975204468,
+   "veraenderung_pct": -0.30266932307994043,
+   "datum": "2026-10-15",
+   "ist_heute": true,
    "verlauf": [
-    0.83298,
     0.83138,
     0.82995,
     0.83409,
-    0.8326
+    0.8326,
+    0.83008
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4166.0,
+   "kurs": 4164.7998046875,
    "vortag": 4107.89990234375,
-   "veraenderung_pct": 1.4143503745819297,
+   "veraenderung_pct": 1.3851336131945668,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4190.600098,
     4177.299805,
     4107.899902,
-    4166.0
+    4164.799805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.3499984741211,
+   "kurs": 104.37000274658203,
    "vortag": 106.05999755859375,
-   "veraenderung_pct": -1.6122941012967185,
+   "veraenderung_pct": -1.5934328219063598,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.650002,
     105.690002,
     106.059998,
-    104.349998
+    104.370003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81565.7265625,
+   "kurs": 80978.3203125,
    "vortag": 83095.125,
-   "veraenderung_pct": -1.8405393066079356,
+   "veraenderung_pct": -2.547447503689293,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     83679.46875,
     81762.5625,
     83095.125,
-    81565.726562
+    80978.320312
    ]
   }
  ],
@@ -374,6 +374,14 @@
   ],
   "artikel": [
    {
+    "titel": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
+    "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+    "zeit": "2026-10-15T05:19:09+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
     "link": "https://www.cnbc.com/2026/10/15/elon-musk-starlink-ukraine-trump-energy-ceasefire.html",
     "zeit": "2026-10-15T04:11:52+00:00",
@@ -449,14 +457,6 @@
     "titel": "Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India",
     "link": "https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html",
     "zeit": "2026-10-15T01:56:53+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
-    "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-    "zeit": "2026-10-15T01:07:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
