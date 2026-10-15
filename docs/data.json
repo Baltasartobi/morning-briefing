@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-15T14:42:02+02:00",
+ "aktualisiert": "2026-10-15T15:41:31+02:00",
  "kernaussagen": [
-  "SMI +0.89%, Nikkei 225 −4.90% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9303 (−0.26%)",
-  "Brent über 100 USD: 104.20 (−1.75%)"
+  "SMI +0.97%, Nikkei 225 −4.90% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9286 (−0.44%)",
+  "Gold +1.65% auf 4'175.80 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14255.509765625,
+   "kurs": 14266.7802734375,
    "vortag": 14129.9296875,
-   "veraenderung_pct": 0.888752321507269,
+   "veraenderung_pct": 0.9685156894911229,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13877.839844,
     13927.519531,
     14129.929688,
-    14255.509766
+    14266.780273
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25222.419921875,
+   "kurs": 25245.91015625,
    "vortag": 25298.609375,
-   "veraenderung_pct": -0.3011606369174191,
+   "veraenderung_pct": -0.208308757089537,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25277.679688,
     25259.900391,
     25298.609375,
-    25222.419922
+    25245.910156
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6151.3798828125,
+   "kurs": 6152.14013671875,
    "vortag": 6190.3701171875,
-   "veraenderung_pct": -0.6298530400750013,
+   "veraenderung_pct": -0.617571804997652,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6201.209961,
     6167.009766,
     6190.370117,
-    6151.379883
+    6152.140137
    ]
   },
   {
@@ -68,19 +68,7 @@
    "symbol": "^GSPC",
    "einheit": "",
    "dezimalen": 2,
-   "verfuegbar": true,
-   "kurs": 7718.93994140625,
-   "vortag": 7805.4501953125,
-   "veraenderung_pct": -1.1083313805295036,
-   "datum": "2026-10-14",
-   "ist_heute": false,
-   "verlauf": [
-    7765.359863,
-    7811.540039,
-    7807.240234,
-    7805.450195,
-    7718.939941
-   ]
+   "verfuegbar": false
   },
   {
    "name": "Nasdaq",
@@ -88,17 +76,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26692.869140625,
-   "vortag": 27204.380859375,
-   "veraenderung_pct": -1.8802549537668578,
-   "datum": "2026-10-14",
-   "ist_heute": false,
+   "kurs": 26421.671875,
+   "vortag": 26692.869140625,
+   "veraenderung_pct": -1.0159914402466885,
+   "datum": "2026-10-15",
+   "ist_heute": true,
    "verlauf": [
-    27193.339844,
     27366.169922,
     27245.900391,
     27204.380859,
-    26692.869141
+    26692.869141,
+    26421.671875
    ]
   },
   {
@@ -128,9 +116,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9303100109100342,
+   "kurs": 0.9285899996757507,
    "vortag": 0.9327200055122375,
-   "veraenderung_pct": -0.25838350072483474,
+   "veraenderung_pct": -0.4427916000599441,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +126,7 @@
     0.92988,
     0.93083,
     0.93272,
-    0.93031
+    0.92859
    ]
   },
   {
@@ -147,17 +135,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8325999975204468,
-   "vortag": 0.834089994430542,
-   "veraenderung_pct": -0.1786374276210423,
-   "datum": "2026-10-14",
-   "ist_heute": false,
+   "kurs": 0.8283799886703491,
+   "vortag": 0.8325999975204468,
+   "veraenderung_pct": -0.5068470889581067,
+   "datum": "2026-10-15",
+   "ist_heute": true,
    "verlauf": [
-    0.83298,
     0.83138,
     0.82995,
     0.83409,
-    0.8326
+    0.8326,
+    0.82838
    ]
   },
   {
@@ -166,9 +154,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4164.60009765625,
+   "kurs": 4175.7998046875,
    "vortag": 4107.89990234375,
-   "veraenderung_pct": 1.3802720772273513,
+   "veraenderung_pct": 1.6529103424601344,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +164,7 @@
     4190.600098,
     4177.299805,
     4107.899902,
-    4164.600098
+    4175.799805
    ]
   },
   {
@@ -185,9 +173,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.19999694824219,
+   "kurs": 105.08999633789062,
    "vortag": 106.05999755859375,
-   "veraenderung_pct": -1.7537249228428364,
+   "veraenderung_pct": -0.9145778267317439,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +183,7 @@
     106.650002,
     105.690002,
     106.059998,
-    104.199997
+    105.089996
    ]
   },
   {
@@ -204,9 +192,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80904.4921875,
+   "kurs": 80531.296875,
    "vortag": 81562.4921875,
-   "veraenderung_pct": -0.8067433722934281,
+   "veraenderung_pct": -1.2643008873851391,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +202,7 @@
     81762.5625,
     83095.125,
     81562.492188,
-    80904.492188
+    80531.296875
    ]
   }
  ],
@@ -257,9 +245,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.081,
+   "wert": 5.045,
    "vortag": 5.19,
-   "veraenderung_bp": -10.9,
+   "veraenderung_bp": -14.5,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +255,7 @@
     5.24,
     5.217,
     5.19,
-    5.081
+    5.045
    ]
   }
  ],
@@ -278,9 +266,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 80.37000274658203,
+   "kurs": 80.56999969482422,
    "vortag": 78.88999938964844,
-   "veraenderung_pct": 1.8760341847940065,
+   "veraenderung_pct": 2.129547874475235,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +276,7 @@
     76.379997,
     77.300003,
     78.889999,
-    80.370003
+    80.57
    ]
   },
   {
@@ -297,9 +285,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 124.16000366210938,
+   "kurs": 124.54000091552734,
    "vortag": 122.66000366210938,
-   "veraenderung_pct": 1.2228925119976752,
+   "veraenderung_pct": 1.5326897091873404,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +295,7 @@
     119.959999,
     119.300003,
     122.660004,
-    124.160004
+    124.540001
    ]
   },
   {
@@ -316,9 +304,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 375.8999938964844,
+   "kurs": 375.3999938964844,
    "vortag": 370.8999938964844,
-   "veraenderung_pct": 1.3480722788567823,
+   "veraenderung_pct": 1.2132650509711018,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +314,7 @@
     360.0,
     359.799988,
     370.899994,
-    375.899994
+    375.399994
    ]
   },
   {
@@ -335,9 +323,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.54999923706055,
+   "kurs": 39.4900016784668,
    "vortag": 39.470001220703125,
-   "veraenderung_pct": 0.20268055202252722,
+   "veraenderung_pct": 0.05067255420601047,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +333,7 @@
     40.009998,
     40.09,
     39.470001,
-    39.549999
+    39.490002
    ]
   }
  ],
@@ -374,16 +362,88 @@
   ],
   "artikel": [
    {
-    "titel": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
-    "link": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
-    "zeit": "2026-10-15T12:41:14+00:00",
+    "titel": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
+    "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+    "zeit": "2026-10-15T13:38:05+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Mehr tanken als nötig – Kerosin knapp in Frankfurt: Wie Fluggesellschaften damit umgehen",
-    "link": "https://www.srf.ch/news/wirtschaft/mehr-tanken-als-noetig-kerosin-knapp-in-frankfurt-wie-fluggesellschaften-damit-umgehen",
+    "titel": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+    "link": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
+    "zeit": "2026-10-15T13:29:04+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Merck CEO tells CNBC he expects breakthrough cancer vaccine will become faster to make",
+    "link": "https://www.cnbc.com/2026/10/14/merck-moderna-cancer-vaccine-manufacturing-time.html",
+    "zeit": "2026-10-15T13:24:53+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Treasury yields slide as investors flee to safety of bonds amid tech rout",
+    "link": "https://www.cnbc.com/2026/10/15/us-treasury-yields-investors-economic-data-.html",
+    "zeit": "2026-10-15T13:24:41+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "You can take it with you: Five tax tips before selling your business",
+    "link": "https://www.cnbc.com/2026/10/15/you-can-take-it-with-you-five-tax-tips-for-selling-your-business.html",
+    "zeit": "2026-10-15T13:24:04+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Bundesgericht zu CS-Boni – Die CS-Manager haben versagt, darum werden sie nicht belohnt",
+    "link": "https://www.srf.ch/news/wirtschaft/bundesgericht-zu-cs-boni-die-cs-manager-haben-versagt-darum-werden-sie-nicht-belohnt",
+    "zeit": "2026-10-15T12:56:30+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+    "link": "https://www.cnbc.com/investingclub/2026/10/15/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+    "zeit": "2026-10-15T12:54:30+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "College was supposed to be ‘good debt.’ For many borrowers, it isn’t paying off",
+    "link": "https://www.cnbc.com/2026/10/15/student-loans-college-degree-good-debt.html",
+    "zeit": "2026-10-15T12:53:06+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
+    "link": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
+    "zeit": "2026-10-15T12:40:58+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "The problem with 'good debt': Why borrowers should think twice about the label",
+    "link": "https://www.cnbc.com/2026/10/15/good-debt-vs-bad-debt-why-experts-say-rethink-labels.html",
+    "zeit": "2026-10-15T12:30:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Mehr tanken als nötig – Das ist bekannt zur Kerosinknappheit am Frankfurter Flughafen",
+    "link": "https://www.srf.ch/news/wirtschaft/mehr-tanken-als-noetig-das-ist-bekannt-zur-kerosinknappheit-am-frankfurter-flughafen",
     "zeit": "2026-10-15T12:23:44+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
@@ -398,76 +458,12 @@
     "sprache": "en"
    },
    {
-    "titel": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
-    "link": "https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html",
-    "zeit": "2026-10-15T12:15:09+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-    "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-    "zeit": "2026-10-15T12:11:15+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Zwölf Jahre stand sie ungenutzt da – nun öffnet China seine neue Brücke nach Nordkorea",
     "link": "https://www.nzz.ch/international/china-eroeffnet-nach-12-jahren-neue-bruecke-zu-nordkorea-ld.10033534",
     "zeit": "2026-10-15T12:10:02+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Cboe to expand options trading hours for major stocks and ETFs",
-    "link": "https://www.cnbc.com/2026/10/15/cboe-stock-etf-options-extended-hours.html",
-    "zeit": "2026-10-15T12:01:59+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
-    "link": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html",
-    "zeit": "2026-10-15T12:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "What to know about Starshield, SpaceX's military-focused Starlink service",
-    "link": "https://www.cnbc.com/2026/10/15/what-is-starshield-spacex-starlink-military.html",
-    "zeit": "2026-10-15T11:54:43+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "You can take it with you: Five tax tips before selling your business",
-    "link": "https://www.cnbc.com/2026/10/15/you-can-take-it-with-you-five-tax-tips-for-selling-your-business.html",
-    "zeit": "2026-10-15T11:51:23+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "How lower fuel economy targets could boost pickups and V-8 engines",
-    "link": "https://www.cnbc.com/2026/10/15/cafe-fuel-economy-v8-trucks.html",
-    "zeit": "2026-10-15T11:30:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "U.S. reportedly considers use of 'mother of all bombs' as Iran vows to fight on",
-    "link": "https://www.cnbc.com/2026/10/15/us-iran-war-trump-hormuz.html",
-    "zeit": "2026-10-15T10:44:57+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Das Bundesgericht bestätigt: Die Streichung von Boni für CS-Kader war rechtmässig",
@@ -681,14 +677,6 @@
     "titel": "Milchschwemme in der Schweiz – Warum die Kühe in der Schweiz mehr Milch geben",
     "link": "https://www.srf.ch/news/wirtschaft/milchschwemme-in-der-schweiz-warum-die-kuehe-in-der-schweiz-mehr-milch-geben",
     "zeit": "2026-10-13T07:53:37+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Nobelpreis 2026 – Wirtschaftsnobelpreis geht an Michael Woodford und Robert E. Hall",
-    "link": "https://www.srf.ch/news/international/nobelpreis-2026-wirtschaftsnobelpreis-geht-an-michael-woodford-und-robert-e-hall",
-    "zeit": "2026-10-12T15:59:08+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
