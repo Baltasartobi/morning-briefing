@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-15T06:30:17+02:00",
+ "aktualisiert": "2026-10-15T07:01:26+02:00",
  "kernaussagen": [
-  "SMI +1.45%, Nikkei 225 −5.09% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9306 (−0.23%)",
-  "Bitcoin −2.16% auf 81'300 USD · Brent über 100 USD"
+  "SMI +1.45%, Nikkei 225 −4.56% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9308 (−0.21%)",
+  "Bitcoin −1.84% auf 81'566 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 64295.7890625,
+   "kurs": 64655.8515625,
    "vortag": 67744.2890625,
-   "veraenderung_pct": -5.090465997537386,
+   "veraenderung_pct": -4.558963630352142,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     69030.921875,
     67777.523438,
     67744.289062,
-    64295.789062
+    64655.851562
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9305700063705444,
+   "kurs": 0.9307500123977661,
    "vortag": 0.9327200055122375,
-   "veraenderung_pct": -0.23050852656605336,
+   "veraenderung_pct": -0.21120948439286025,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92988,
     0.93083,
     0.93272,
-    0.93057
+    0.93075
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.829509973526001,
-   "vortag": 0.8325999975204468,
-   "veraenderung_pct": -0.37112947437523136,
-   "datum": "2026-10-15",
-   "ist_heute": true,
+   "kurs": 0.8325999975204468,
+   "vortag": 0.834089994430542,
+   "veraenderung_pct": -0.1786374276210423,
+   "datum": "2026-10-14",
+   "ist_heute": false,
    "verlauf": [
+    0.83298,
     0.83138,
     0.82995,
     0.83409,
-    0.8326,
-    0.82951
+    0.8326
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4166.2998046875,
+   "kurs": 4166.0,
    "vortag": 4107.89990234375,
-   "veraenderung_pct": 1.4216486217307756,
+   "veraenderung_pct": 1.4143503745819297,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4190.600098,
     4177.299805,
     4107.899902,
-    4166.299805
+    4166.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.4000015258789,
+   "kurs": 104.3499984741211,
    "vortag": 106.05999755859375,
-   "veraenderung_pct": -1.5651480962912245,
+   "veraenderung_pct": -1.6122941012967185,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.650002,
     105.690002,
     106.059998,
-    104.400002
+    104.349998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81299.9921875,
+   "kurs": 81565.7265625,
    "vortag": 83095.125,
-   "veraenderung_pct": -2.1603346917162702,
+   "veraenderung_pct": -1.8405393066079356,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     83679.46875,
     81762.5625,
     83095.125,
-    81299.992188
+    81565.726562
    ]
   }
  ],
