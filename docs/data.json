@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-15T15:41:31+02:00",
+ "aktualisiert": "2026-10-15T16:34:24+02:00",
  "kernaussagen": [
-  "SMI +0.97%, Nikkei 225 −4.90% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9286 (−0.44%)",
-  "Gold +1.65% auf 4'175.80 USD/Unze · Brent über 100 USD"
+  "SMI +1.19%, Nikkei 225 −4.90% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9294 (−0.35%)",
+  "Gold +1.63% auf 4'174.70 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14266.7802734375,
+   "kurs": 14298.7197265625,
    "vortag": 14129.9296875,
-   "veraenderung_pct": 0.9685156894911229,
+   "veraenderung_pct": 1.194556822259485,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13877.839844,
     13927.519531,
     14129.929688,
-    14266.780273
+    14298.719727
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25245.91015625,
+   "kurs": 25240.900390625,
    "vortag": 25298.609375,
-   "veraenderung_pct": -0.208308757089537,
+   "veraenderung_pct": -0.22811129070211544,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25277.679688,
     25259.900391,
     25298.609375,
-    25245.910156
+    25240.900391
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6152.14013671875,
+   "kurs": 6136.14013671875,
    "vortag": 6190.3701171875,
-   "veraenderung_pct": -0.617571804997652,
+   "veraenderung_pct": -0.876037772251792,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6201.209961,
     6167.009766,
     6190.370117,
-    6152.140137
+    6136.140137
    ]
   },
   {
@@ -68,7 +68,19 @@
    "symbol": "^GSPC",
    "einheit": "",
    "dezimalen": 2,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 7706.509765625,
+   "vortag": 7718.93994140625,
+   "veraenderung_pct": -0.16103475186497462,
+   "datum": "2026-10-15",
+   "ist_heute": true,
+   "verlauf": [
+    7811.540039,
+    7807.240234,
+    7805.450195,
+    7718.939941,
+    7706.509766
+   ]
   },
   {
    "name": "Nasdaq",
@@ -76,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26421.671875,
+   "kurs": 26495.2265625,
    "vortag": 26692.869140625,
-   "veraenderung_pct": -1.0159914402466885,
+   "veraenderung_pct": -0.7404321247137857,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -86,7 +98,7 @@
     27245.900391,
     27204.380859,
     26692.869141,
-    26421.671875
+    26495.226562
    ]
   },
   {
@@ -116,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9285899996757507,
+   "kurs": 0.9294400215148926,
    "vortag": 0.9327200055122375,
-   "veraenderung_pct": -0.4427916000599441,
+   "veraenderung_pct": -0.3516579442877532,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -126,7 +138,7 @@
     0.92988,
     0.93083,
     0.93272,
-    0.92859
+    0.92944
    ]
   },
   {
@@ -135,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8283799886703491,
+   "kurs": 0.8284900188446045,
    "vortag": 0.8325999975204468,
-   "veraenderung_pct": -0.5068470889581067,
+   "veraenderung_pct": -0.4936318385878158,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -145,7 +157,7 @@
     0.82995,
     0.83409,
     0.8326,
-    0.82838
+    0.82849
    ]
   },
   {
@@ -154,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4175.7998046875,
+   "kurs": 4174.7001953125,
    "vortag": 4107.89990234375,
-   "veraenderung_pct": 1.6529103424601344,
+   "veraenderung_pct": 1.6261421786504027,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -164,7 +176,7 @@
     4190.600098,
     4177.299805,
     4107.899902,
-    4175.799805
+    4174.700195
    ]
   },
   {
@@ -173,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.08999633789062,
+   "kurs": 105.22000122070312,
    "vortag": 106.05999755859375,
-   "veraenderung_pct": -0.9145778267317439,
+   "veraenderung_pct": -0.7920010911055875,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -183,7 +195,7 @@
     106.650002,
     105.690002,
     106.059998,
-    105.089996
+    105.220001
    ]
   },
   {
@@ -192,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80531.296875,
+   "kurs": 81163.9296875,
    "vortag": 81562.4921875,
-   "veraenderung_pct": -1.2643008873851391,
+   "veraenderung_pct": -0.48865905063784076,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -202,7 +214,7 @@
     81762.5625,
     83095.125,
     81562.492188,
-    80531.296875
+    81163.929688
    ]
   }
  ],
@@ -245,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.045,
+   "wert": 5.058,
    "vortag": 5.19,
-   "veraenderung_bp": -14.5,
+   "veraenderung_bp": -13.2,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -255,7 +267,7 @@
     5.24,
     5.217,
     5.19,
-    5.045
+    5.058
    ]
   }
  ],
@@ -266,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 80.56999969482422,
+   "kurs": 80.91000366210938,
    "vortag": 78.88999938964844,
-   "veraenderung_pct": 2.129547874475235,
+   "veraenderung_pct": 2.5605327520461296,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -276,7 +288,7 @@
     76.379997,
     77.300003,
     78.889999,
-    80.57
+    80.910004
    ]
   },
   {
@@ -285,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 124.54000091552734,
+   "kurs": 125.5999984741211,
    "vortag": 122.66000366210938,
-   "veraenderung_pct": 1.5326897091873404,
+   "veraenderung_pct": 2.396865093947409,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -295,7 +307,7 @@
     119.959999,
     119.300003,
     122.660004,
-    124.540001
+    125.599998
    ]
   },
   {
@@ -304,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 375.3999938964844,
+   "kurs": 378.3999938964844,
    "vortag": 370.8999938964844,
-   "veraenderung_pct": 1.2132650509711018,
+   "veraenderung_pct": 2.0221084182851623,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -314,7 +326,7 @@
     360.0,
     359.799988,
     370.899994,
-    375.399994
+    378.399994
    ]
   },
   {
@@ -323,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.4900016784668,
+   "kurs": 39.04999923706055,
    "vortag": 39.470001220703125,
-   "veraenderung_pct": 0.05067255420601047,
+   "veraenderung_pct": -1.064104308723146,
    "datum": "2026-10-15",
    "ist_heute": true,
    "verlauf": [
@@ -333,7 +345,7 @@
     40.009998,
     40.09,
     39.470001,
-    39.490002
+    39.049999
    ]
   }
  ],
@@ -364,7 +376,63 @@
    {
     "titel": "Nvidia, AMD, Micron fall as AI stock sell-off deepens",
     "link": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-    "zeit": "2026-10-15T13:38:05+00:00",
+    "zeit": "2026-10-15T14:29:59+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trump says Nidal Hasan execution won't be live-streamed",
+    "link": "https://www.cnbc.com/2026/10/15/trump-nidal-hasan-execution-livestream.html",
+    "zeit": "2026-10-15T14:27:23+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Southwest is overhauling its frequent flyer program. Here's what's changing",
+    "link": "https://www.cnbc.com/2026/10/15/southwest-rapid-rewards-tiers-a-list.html",
+    "zeit": "2026-10-15T14:25:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "U.S. reportedly considers use of 'mother of all bombs' as Iran vows to fight on",
+    "link": "https://www.cnbc.com/2026/10/15/us-iran-war-trump-hormuz.html",
+    "zeit": "2026-10-15T14:19:26+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off",
+    "link": "https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html",
+    "zeit": "2026-10-15T14:10:14+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Tale of two markets: Our 3 biggest winners and losers over the past five weeks",
+    "link": "https://www.cnbc.com/investingclub/2026/10/15/tale-of-two-markets-our-3-biggest-winners-and-losers-over-the-past-five-weeks.html",
+    "zeit": "2026-10-15T14:02:19+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "College was supposed to be ‘good debt.’ For many borrowers, it isn’t paying off",
+    "link": "https://www.cnbc.com/2026/10/15/student-loans-college-degree-good-debt.html",
+    "zeit": "2026-10-15T13:58:36+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
+    "link": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html",
+    "zeit": "2026-10-15T13:50:00+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -372,34 +440,26 @@
    {
     "titel": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
     "link": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
-    "zeit": "2026-10-15T13:29:04+00:00",
+    "zeit": "2026-10-15T13:46:36+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Merck CEO tells CNBC he expects breakthrough cancer vaccine will become faster to make",
-    "link": "https://www.cnbc.com/2026/10/14/merck-moderna-cancer-vaccine-manufacturing-time.html",
-    "zeit": "2026-10-15T13:24:53+00:00",
+    "titel": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
+    "link": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
+    "zeit": "2026-10-15T13:42:32+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Treasury yields slide as investors flee to safety of bonds amid tech rout",
-    "link": "https://www.cnbc.com/2026/10/15/us-treasury-yields-investors-economic-data-.html",
-    "zeit": "2026-10-15T13:24:41+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "You can take it with you: Five tax tips before selling your business",
-    "link": "https://www.cnbc.com/2026/10/15/you-can-take-it-with-you-five-tax-tips-for-selling-your-business.html",
-    "zeit": "2026-10-15T13:24:04+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "Dieses Familienunternehmen zeigt vor, wie ein deutscher Industriebetrieb aus der Krise finden kann",
+    "link": "https://www.nzz.ch/wirtschaft/dieses-familienunternehmen-zeigt-vor-wie-ein-deutscher-industriebetrieb-aus-der-krise-finden-kann-ld.10034066",
+    "zeit": "2026-10-15T13:39:22+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Bundesgericht zu CS-Boni – Die CS-Manager haben versagt, darum werden sie nicht belohnt",
@@ -410,38 +470,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Jim Cramer's top 10 things to watch in the stock market Thursday",
-    "link": "https://www.cnbc.com/investingclub/2026/10/15/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
-    "zeit": "2026-10-15T12:54:30+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "College was supposed to be ‘good debt.’ For many borrowers, it isn’t paying off",
-    "link": "https://www.cnbc.com/2026/10/15/student-loans-college-degree-good-debt.html",
-    "zeit": "2026-10-15T12:53:06+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
-    "link": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
-    "zeit": "2026-10-15T12:40:58+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "The problem with 'good debt': Why borrowers should think twice about the label",
-    "link": "https://www.cnbc.com/2026/10/15/good-debt-vs-bad-debt-why-experts-say-rethink-labels.html",
-    "zeit": "2026-10-15T12:30:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Mehr tanken als nötig – Das ist bekannt zur Kerosinknappheit am Frankfurter Flughafen",
     "link": "https://www.srf.ch/news/wirtschaft/mehr-tanken-als-noetig-das-ist-bekannt-zur-kerosinknappheit-am-frankfurter-flughafen",
     "zeit": "2026-10-15T12:23:44+00:00",
@@ -450,18 +478,18 @@
     "sprache": "de"
    },
    {
-    "titel": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI",
-    "link": "https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html",
-    "zeit": "2026-10-15T12:17:13+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Zwölf Jahre stand sie ungenutzt da – nun öffnet China seine neue Brücke nach Nordkorea",
     "link": "https://www.nzz.ch/international/china-eroeffnet-nach-12-jahren-neue-bruecke-zu-nordkorea-ld.10033534",
     "zeit": "2026-10-15T12:10:02+00:00",
     "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Stefan Walter widmet sich der Vermögensverwaltung und setzt neuen Akzent",
+    "link": "https://www.finews.ch/news/finanzplatz/74012-stefan-walter-direktor-finma-vermoegensverwaltungsgeschaeft-aufsichtsmitteilung-wettbewerbsfaehigkeit",
+    "zeit": "2026-10-15T11:09:24+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -610,14 +638,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Die Regierungen in Paris und Berlin wollen die Industrie vor China schützen. Zwei grossen Branchen macht das Angst",
-    "link": "https://www.nzz.ch/wirtschaft/die-regierungen-in-paris-und-berlin-wollen-die-industrie-vor-china-schuetzen-zwei-grossen-branchen-macht-das-angst-ld.10033559",
-    "zeit": "2026-10-14T11:35:23+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "US-Technologiefirma Lineal übernimmt Schweizer Cybersicherheits-Spezialisten",
     "link": "https://www.finews.ch/news/finanzplatz/73987-legal-tech-anbieter-lineal-uebernahme-digitale-forensik-und-cybersicherheit-forentec-aus-duebendorf",
     "zeit": "2026-10-14T11:22:36+00:00",
@@ -629,14 +649,6 @@
     "titel": "Fehlgeschlagene Zahlungen kosten Banken viele Millionen",
     "link": "https://www.finews.ch/news/banken/73983-fehler-im-internationalen-zahlungsverkehr-banken-kosten-studie-millionen-dollar-an-kundenumsaetzen",
     "zeit": "2026-10-14T10:54:06+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Notfallplan von Postfinance erfüllt nicht alle Anforderungen",
-    "link": "https://www.finews.ch/news/banken/73981-finma-notfallplan-raiffeisen-postfinance-zkb",
-    "zeit": "2026-10-14T07:46:37+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
