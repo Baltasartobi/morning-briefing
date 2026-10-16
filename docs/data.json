@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-16T08:03:15+02:00",
+ "aktualisiert": "2026-10-16T08:40:39+02:00",
  "kernaussagen": [
-  "SMI +1.55%, Nikkei 225 +1.87% führt",
-  "Franken stärker: EUR/CHF 0.9283 (−0.29%)",
-  "Brent über 100 USD: 105.23 (−0.65%)"
+  "SMI +1.55%, Nikkei 225 +1.43% führt",
+  "Franken stärker: EUR/CHF 0.9310 (−0.19%)",
+  "Gold +0.64% auf 4'196.90 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 65633.453125,
+   "kurs": 65349.890625,
    "vortag": 64425.94921875,
-   "veraenderung_pct": 1.874250858377069,
+   "veraenderung_pct": 1.4341137654221736,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     67777.523438,
     67744.289062,
     64425.949219,
-    65633.453125
+    65349.890625
    ]
   }
  ],
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9282699823379517,
-   "vortag": 0.9309599995613098,
-   "veraenderung_pct": -0.2889508920496886,
-   "datum": "2026-10-16",
-   "ist_heute": true,
+   "kurs": 0.9309599995613098,
+   "vortag": 0.9327200055122375,
+   "veraenderung_pct": -0.18869606532789795,
+   "datum": "2026-10-15",
+   "ist_heute": false,
    "verlauf": [
+    0.93227,
     0.92988,
     0.93083,
     0.93272,
-    0.93096,
-    0.92827
+    0.93096
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8269500136375427,
+   "kurs": 0.8263400197029114,
    "vortag": 0.83160001039505,
-   "veraenderung_pct": -0.5591626622633572,
+   "veraenderung_pct": -0.6325145053377224,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83409,
     0.8326,
     0.8316,
-    0.82695
+    0.82634
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4195.5,
+   "kurs": 4196.89990234375,
    "vortag": 4170.10009765625,
-   "veraenderung_pct": 0.609095747078725,
+   "veraenderung_pct": 0.6426657408670433,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4177.299805,
     4107.899902,
     4170.100098,
-    4195.5
+    4196.899902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.2300033569336,
+   "kurs": 105.30000305175781,
    "vortag": 105.91999816894531,
-   "veraenderung_pct": -0.651430158553401,
+   "veraenderung_pct": -0.5853428322370124,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     105.690002,
     106.059998,
     105.919998,
-    105.230003
+    105.300003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82016.53125,
+   "kurs": 82007.3828125,
    "vortag": 81562.4921875,
-   "veraenderung_pct": 0.5566762985322216,
+   "veraenderung_pct": 0.5454598223620488,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81762.5625,
     83095.125,
     81562.492188,
-    82016.53125
+    82007.382812
    ]
   }
  ],
@@ -223,17 +223,17 @@
    "name": "Schweiz",
    "quelle": "snb",
    "verfuegbar": true,
-   "wert": 0.568,
-   "vortag": 0.561,
-   "veraenderung_bp": 0.7,
-   "datum": "2026-10-14",
+   "wert": 0.53,
+   "vortag": 0.568,
+   "veraenderung_bp": -3.8,
+   "datum": "2026-10-15",
    "ist_heute": false,
    "verlauf": [
-    0.566,
     0.579,
     0.572,
     0.561,
-    0.568
+    0.568,
+    0.53
    ]
   },
   {
@@ -374,17 +374,33 @@
   ],
   "artikel": [
    {
-    "titel": "One Singapore ship was sunk, but here's why others are still transiting the Strait of Hormuz",
-    "link": "https://www.cnbc.com/2026/10/16/strait-hormuz-singapore-ships-attacked.html",
-    "zeit": "2026-10-16T05:56:28+00:00",
+    "titel": "What to know about Starshield, SpaceX's military-focused Starlink service",
+    "link": "https://www.cnbc.com/2026/10/15/what-is-starshield-spacex-starlink-military.html",
+    "zeit": "2026-10-16T06:25:31+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Fed's Warsh withholds Fed rate signal, praises recent global tightening with 'no free riders'",
+    "titel": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
     "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
-    "zeit": "2026-10-16T05:07:20+00:00",
+    "zeit": "2026-10-16T06:18:12+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
+    "link": "https://www.cnbc.com/2026/10/16/g20-russia-ukraine-trump-diesel-europe-.html",
+    "zeit": "2026-10-16T06:11:35+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "One Singapore ship was sunk, but here's why others are still transiting the Strait of Hormuz",
+    "link": "https://www.cnbc.com/2026/10/16/strait-hormuz-singapore-ships-attacked.html",
+    "zeit": "2026-10-16T05:56:28+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -396,6 +412,22 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Unicredit: EZB gibt grünes Licht für Übernahme von Commerzbank-Anteilen",
+    "link": "https://www.finews.ch/news/banken/74019-unicredit-commerzbank-genehmigung-ezb-bankenaufsicht",
+    "zeit": "2026-10-16T04:38:13+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "London hat um UBS-Hauptsitz geweibelt",
+    "link": "https://www.finews.ch/news/banken/74018-ubs-hauptsitz-london-britische-regierung-gespraeche-reeves",
+    "zeit": "2026-10-16T04:14:53+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Hybe shares jump 10% as K-pop sensation BTS' tour lifts earnings hopes",
@@ -422,7 +454,7 @@
     "sprache": "de"
    },
    {
-    "titel": "Visa und Open AI wollen mit Shopping-Agenten Geld verdienen",
+    "titel": "Visa und Open AI wollen Shopping-Agenten mit Lizenz zum Zahlen ausrüsten",
     "link": "https://www.nzz.ch/wirtschaft/visa-und-open-ai-wollen-mit-shopping-agenten-geld-verdienen-ld.10034745",
     "zeit": "2026-10-16T03:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
@@ -462,14 +494,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
-    "link": "https://www.cnbc.com/2026/10/16/g20-russia-ukraine-trump-diesel-europe-.html",
-    "zeit": "2026-10-16T02:25:32+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "India's rupee forecast to weaken toward 100-per-dollar level even as RBI pushes back",
     "link": "https://www.cnbc.com/2026/10/16/india-rupee-rbi-dollar-iran-war.html",
     "zeit": "2026-10-16T00:54:25+00:00",
@@ -489,14 +513,6 @@
     "titel": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
     "link": "https://www.cnbc.com/2026/10/15/netflix-bela-bajaria-peter-rice.html",
     "zeit": "2026-10-15T23:08:05+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "People in China are spending nearly as much of their income as Americans on healthcare",
-    "link": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
-    "zeit": "2026-10-15T23:00:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -622,14 +638,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Wenn der Algorithmus zum Fondsmanager wird: KI erobert den ETF-Markt",
-    "link": "https://www.finews.ch/news/finanzplatz/73995-ki-etf-algorithmen-asset-management-aktive-fonds-pictet-schweiz",
-    "zeit": "2026-10-15T03:22:36+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Systemrelevante Bank – Notfallplan von Postfinance fällt erneut durch",
     "link": "https://www.srf.ch/news/wirtschaft/systemrelevante-bank-notfallplan-von-postfinance-faellt-erneut-durch",
     "zeit": "2026-10-14T15:36:51+00:00",
@@ -642,14 +650,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/verstoss-gegen-geldwaescherei-bank-of-america-muss-milliardenstrafe-zahlen",
     "zeit": "2026-10-14T12:26:35+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Hamilton-Lane-Executive Co-Chairman: «Diese Konzentration ist nicht nachhaltig»",
-    "link": "https://www.finews.ch/news/finanzplatz/73989-amilton-lane-erik-hirsch-ki-aktienmarkt-konzentration-private-markets-schweiz",
-    "zeit": "2026-10-14T11:38:05+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
