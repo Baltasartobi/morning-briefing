@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-16T07:03:37+02:00",
+ "aktualisiert": "2026-10-16T07:32:45+02:00",
  "kernaussagen": [
-  "SMI +1.55%, Nikkei 225 +1.88% führt",
-  "Franken stärker: EUR/CHF 0.9283 (−0.29%)",
-  "Bitcoin +0.88% auf 82'281 USD · Brent über 100 USD"
+  "SMI +1.55%, Nikkei 225 +1.90% führt",
+  "Franken stärker: EUR/CHF 0.9287 (−0.25%)",
+  "Bitcoin +0.71% auf 82'138 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 65634.5625,
+   "kurs": 65650.03125,
    "vortag": 64425.94921875,
-   "veraenderung_pct": 1.8759727965300232,
+   "veraenderung_pct": 1.8999829200712082,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     67777.523438,
     67744.289062,
     64425.949219,
-    65634.5625
+    65650.03125
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9283000230789185,
+   "kurs": 0.9286500215530396,
    "vortag": 0.9309599995613098,
-   "veraenderung_pct": -0.2857240357958202,
+   "veraenderung_pct": -0.24812859944131072,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93083,
     0.93272,
     0.93096,
-    0.9283
+    0.92865
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8268799781799316,
+   "kurs": 0.8273100256919861,
    "vortag": 0.83160001039505,
-   "veraenderung_pct": -0.5675844343575931,
+   "veraenderung_pct": -0.5158711699661978,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83409,
     0.8326,
     0.8316,
-    0.82688
+    0.82731
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4194.2998046875,
+   "kurs": 4194.5,
    "vortag": 4170.10009765625,
-   "veraenderung_pct": 0.5803147757736271,
+   "veraenderung_pct": 0.5851155073582914,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4177.299805,
     4107.899902,
     4170.100098,
-    4194.299805
+    4194.5
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.4000015258789,
+   "kurs": 105.36000061035156,
    "vortag": 105.91999816894531,
-   "veraenderung_pct": -0.49093339506766087,
+   "veraenderung_pct": -0.5286986105310754,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     105.690002,
     106.059998,
     105.919998,
-    105.400002
+    105.360001
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82280.7421875,
+   "kurs": 82138.0703125,
    "vortag": 81562.4921875,
-   "veraenderung_pct": 0.8806131111698479,
+   "veraenderung_pct": 0.705689722767211,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81762.5625,
     83095.125,
     81562.492188,
-    82280.742188
+    82138.070312
    ]
   }
  ],
@@ -374,6 +374,14 @@
   ],
   "artikel": [
    {
+    "titel": "Fed's Warsh withholds Fed rate signal, praises recent global tightening with 'no free riders'",
+    "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
+    "zeit": "2026-10-16T05:07:20+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "The IPO drought is driving private equity-owned companies to the debt market to pay investors",
     "link": "https://www.cnbc.com/2026/10/16/private-equity-portfolios-ipo-debt.html",
     "zeit": "2026-10-16T05:00:01+00:00",
@@ -385,14 +393,6 @@
     "titel": "One Singapore ship was sunk, but here's why others are still transiting the Strait of Hormuz",
     "link": "https://www.cnbc.com/2026/10/16/strait-hormuz-singapore-ships-attacked.html",
     "zeit": "2026-10-16T04:29:27+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Fed's Warsh says AI path will be 'very bumpy' but ultimately 'very good' for wealth",
-    "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
-    "zeit": "2026-10-16T04:08:27+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
