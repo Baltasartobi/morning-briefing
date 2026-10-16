@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-16T18:04:12+02:00",
+ "aktualisiert": "2026-10-16T18:34:50+02:00",
  "kernaussagen": [
   "SMI +0.29%, Nikkei 225 −4.90% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9310 (−0.19%)",
-  "Bitcoin −1.14% auf 81'207 USD · Brent über 100 USD"
+  "Franken stärker: EUR/CHF 0.9255 (−0.58%)",
+  "Brent über 100 USD: 107.88 (+1.85%)"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7695.919921875,
+   "kurs": 7692.81005859375,
    "vortag": 7744.06005859375,
-   "veraenderung_pct": -0.6216395063378677,
+   "veraenderung_pct": -0.6617975533793397,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7805.450195,
     7718.939941,
     7744.060059,
-    7695.919922
+    7692.810059
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26338.85546875,
+   "kurs": 26328.251953125,
    "vortag": 26713.029296875,
-   "veraenderung_pct": -1.400716571552496,
+   "veraenderung_pct": -1.4404107429141777,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27204.380859,
     26692.869141,
     26713.029297,
-    26338.855469
+    26328.251953
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9309599995613098,
-   "vortag": 0.9327200055122375,
-   "veraenderung_pct": -0.18869606532789795,
-   "datum": "2026-10-15",
-   "ist_heute": false,
+   "kurs": 0.9255200028419495,
+   "vortag": 0.9309599995613098,
+   "veraenderung_pct": -0.5843426916219641,
+   "datum": "2026-10-16",
+   "ist_heute": true,
    "verlauf": [
-    0.93227,
     0.92988,
     0.93083,
     0.93272,
-    0.93096
+    0.93096,
+    0.92552
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.83160001039505,
-   "vortag": 0.8325999975204468,
-   "veraenderung_pct": -0.12010414705437844,
-   "datum": "2026-10-15",
-   "ist_heute": false,
+   "kurs": 0.8249199986457825,
+   "vortag": 0.83160001039505,
+   "veraenderung_pct": -0.8032722060806963,
+   "datum": "2026-10-16",
+   "ist_heute": true,
    "verlauf": [
-    0.83138,
     0.82995,
     0.83409,
     0.8326,
-    0.8316
+    0.8316,
+    0.82492
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4193.2001953125,
+   "kurs": 4188.2998046875,
    "vortag": 4170.10009765625,
-   "veraenderung_pct": 0.5539458793623053,
+   "veraenderung_pct": 0.4364333374510254,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4177.299805,
     4107.899902,
     4170.100098,
-    4193.200195
+    4188.299805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 106.66999816894531,
+   "kurs": 107.87999725341797,
    "vortag": 105.91999816894531,
-   "veraenderung_pct": 0.7080815832376963,
+   "veraenderung_pct": 1.8504523398370942,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     105.690002,
     106.059998,
     105.919998,
-    106.669998
+    107.879997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81206.796875,
+   "kurs": 81453.75,
    "vortag": 82141.4609375,
-   "veraenderung_pct": -1.137871242892996,
+   "veraenderung_pct": -0.8372275458105927,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     83095.125,
     81562.492188,
     82141.460938,
-    81206.796875
+    81453.75
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.092,
+   "wert": 5.123,
    "vortag": 5.089,
-   "veraenderung_bp": 0.3,
+   "veraenderung_bp": 3.4,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.217,
     5.19,
     5.089,
-    5.092
+    5.123
    ]
   }
  ],
@@ -374,6 +374,54 @@
   ],
   "artikel": [
    {
+    "titel": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
+    "link": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
+    "zeit": "2026-10-16T16:27:44+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
+    "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
+    "zeit": "2026-10-16T16:27:31+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Why Trump and the GOP's billion-dollar midterm blitz isn’t working",
+    "link": "https://www.cnbc.com/2026/10/16/republicans-midterms-spending-trump-musk-2026.html",
+    "zeit": "2026-10-16T16:18:13+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Older Americans feel less of the affordability crunch. How that could affect the midterm elections",
+    "link": "https://www.cnbc.com/2026/10/16/affordability-inflation-midterms.html",
+    "zeit": "2026-10-16T16:12:41+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "U.S. raises Mastercard, Citigroup China market access in bilateral Bangkok talks, official says",
+    "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+    "zeit": "2026-10-16T16:11:09+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "What we want to see when Capital One and Meta report earnings next week",
+    "link": "https://www.cnbc.com/investingclub/2026/10/16/what-we-want-to-see-when-capital-one-and-meta-report-earnings-next-week-.html",
+    "zeit": "2026-10-16T16:06:29+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Tesla unveils long-delayed Roadster developed with SpaceX, fueling merger speculation",
     "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
     "zeit": "2026-10-16T15:52:41+00:00",
@@ -385,14 +433,6 @@
     "titel": "Sickle cell gene therapies offer new hope, but access remains a major challenge",
     "link": "https://www.cnbc.com/2026/10/16/sickle-cell-gene-therapies-offer-new-hope-accessing-them-is-hard.html",
     "zeit": "2026-10-16T15:50:15+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
-    "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
-    "zeit": "2026-10-16T15:46:07+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -420,46 +460,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Kimberly-Clark is having its best week in four years. Here's what is propelling shares higher",
-    "link": "https://www.cnbc.com/investingclub/2026/10/16/kimberly-clark-stock-q3-kenvue-deal-cramer.html",
-    "zeit": "2026-10-16T15:12:25+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
-    "link": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
-    "zeit": "2026-10-16T15:01:34+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "E.l.f. Beauty CFO Mandy Fields on consumers, pricing and building a foundation in cosmetics",
-    "link": "https://www.cnbc.com/2026/10/16/elf-beauty-cfo-mandy-fields-tariffs-marketing-makeup.html",
-    "zeit": "2026-10-16T14:30:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Blue Origin plans $330 million Florida expansion to ramp New Glenn launches",
-    "link": "https://www.cnbc.com/2026/10/16/blue-origin-new-glenn-florida-expansion.html",
-    "zeit": "2026-10-16T14:26:05+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations",
-    "link": "https://www.cnbc.com/2026/10/16/coreweave-openai-anthropic-perps.html",
-    "zeit": "2026-10-16T13:43:53+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "EU setzt auf Heimatschutz – «Made in Europe» – für die Schweiz kein Problem (mehr)?",
