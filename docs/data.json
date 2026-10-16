@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-16T15:39:38+02:00",
+ "aktualisiert": "2026-10-16T16:33:31+02:00",
  "kernaussagen": [
-  "SMI +0.06%, Nikkei 225 +1.39% führt",
-  "Franken stärker: EUR/CHF 0.9266 (−0.47%)",
-  "Bitcoin −0.38% auf 81'830 USD · Brent über 100 USD"
+  "SMI +0.08%, Nikkei 225 +1.39% führt",
+  "Franken stärker: EUR/CHF 0.9255 (−0.59%)",
+  "Gold +1.11% auf 4'216.40 USD/Unze"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14358.830078125,
+   "kurs": 14360.8896484375,
    "vortag": 14349.509765625,
-   "veraenderung_pct": 0.06495213183050907,
+   "veraenderung_pct": 0.0793050285227137,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13927.519531,
     14129.929688,
     14349.509766,
-    14358.830078
+    14360.889648
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25660.33984375,
+   "kurs": 25647.390625,
    "vortag": 25382.619140625,
-   "veraenderung_pct": 1.0941372975986852,
+   "veraenderung_pct": 1.043121211834408,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25259.900391,
     25298.609375,
     25382.619141,
-    25660.339844
+    25647.390625
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6216.240234375,
+   "kurs": 6211.2001953125,
    "vortag": 6168.259765625,
-   "veraenderung_pct": 0.7778607025824336,
+   "veraenderung_pct": 0.696151448205895,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6167.009766,
     6190.370117,
     6168.259766,
-    6216.240234
+    6211.200195
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7742.0,
+   "kurs": 7739.4599609375,
    "vortag": 7744.06005859375,
-   "veraenderung_pct": -0.026601789993396796,
+   "veraenderung_pct": -0.05940162681389305,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7805.450195,
     7718.939941,
     7744.060059,
-    7742.0
+    7739.459961
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26559.474609375,
+   "kurs": 26528.419921875,
    "vortag": 26713.029296875,
-   "veraenderung_pct": -0.5748306782936252,
+   "veraenderung_pct": -0.6910836391797681,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27204.380859,
     26692.869141,
     26713.029297,
-    26559.474609
+    26528.419922
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9265900254249573,
+   "kurs": 0.9254900217056274,
    "vortag": 0.9309599995613098,
-   "veraenderung_pct": -0.4694051450558345,
+   "veraenderung_pct": -0.5875631453832519,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93083,
     0.93272,
     0.93096,
-    0.92659
+    0.92549
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8236799836158752,
+   "kurs": 0.8222500085830688,
    "vortag": 0.83160001039505,
-   "veraenderung_pct": -0.9523841606750794,
+   "veraenderung_pct": -1.1243388281752753,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83409,
     0.8326,
     0.8316,
-    0.82368
+    0.82225
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4180.60009765625,
+   "kurs": 4216.39990234375,
    "vortag": 4170.10009765625,
-   "veraenderung_pct": 0.25179251706455297,
+   "veraenderung_pct": 1.1102804154154988,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4177.299805,
     4107.899902,
     4170.100098,
-    4180.600098
+    4216.399902
    ]
   },
   {
@@ -184,19 +184,7 @@
    "symbol": "BZ=F",
    "einheit": "USD/Fass",
    "dezimalen": 2,
-   "verfuegbar": true,
-   "kurs": 105.66999816894531,
-   "vortag": 105.91999816894531,
-   "veraenderung_pct": -0.23602719441255804,
-   "datum": "2026-10-16",
-   "ist_heute": true,
-   "verlauf": [
-    106.650002,
-    105.690002,
-    106.059998,
-    105.919998,
-    105.669998
-   ]
+   "verfuegbar": false
   },
   {
    "name": "Bitcoin",
@@ -204,9 +192,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81829.640625,
+   "kurs": 82309.21875,
    "vortag": 82141.4609375,
-   "veraenderung_pct": -0.37961378935937873,
+   "veraenderung_pct": 0.20423037353529683,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +202,7 @@
     83095.125,
     81562.492188,
     82141.460938,
-    81829.640625
+    82309.21875
    ]
   }
  ],
@@ -257,9 +245,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.129,
+   "wert": 5.085,
    "vortag": 5.089,
-   "veraenderung_bp": 4.0,
+   "veraenderung_bp": -0.4,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +255,7 @@
     5.217,
     5.19,
     5.089,
-    5.129
+    5.085
    ]
   }
  ],
@@ -278,9 +266,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 82.19000244140625,
+   "kurs": 82.05999755859375,
    "vortag": 81.06999969482422,
-   "veraenderung_pct": 1.3815255344740596,
+   "veraenderung_pct": 1.2211642623612073,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +276,7 @@
     77.300003,
     78.889999,
     81.07,
-    82.190002
+    82.059998
    ]
   },
   {
@@ -297,9 +285,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 124.33999633789062,
+   "kurs": 124.31999969482422,
    "vortag": 125.9000015258789,
-   "veraenderung_pct": -1.2390827395404092,
+   "veraenderung_pct": -1.2549656965094802,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +295,7 @@
     119.300003,
     122.660004,
     125.900002,
-    124.339996
+    124.32
    ]
   },
   {
@@ -316,9 +304,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 376.79998779296875,
+   "kurs": 376.8999938964844,
    "vortag": 379.70001220703125,
-   "veraenderung_pct": -0.7637672691148789,
+   "veraenderung_pct": -0.7374290809925355,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +314,7 @@
     359.799988,
     370.899994,
     379.700012,
-    376.799988
+    376.899994
    ]
   },
   {
@@ -335,9 +323,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.650001525878906,
+   "kurs": 39.70000076293945,
    "vortag": 39.41999816894531,
-   "veraenderung_pct": 0.5834687154166129,
+   "veraenderung_pct": 0.7103059538311252,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +333,7 @@
     40.09,
     39.470001,
     39.419998,
-    39.650002
+    39.700001
    ]
   }
  ],
@@ -374,9 +362,57 @@
   ],
   "artikel": [
    {
+    "titel": "Blue Origin plans $330 million Florida expansion to ramp New Glenn launches",
+    "link": "https://www.cnbc.com/2026/10/16/blue-origin-new-glenn-florida-expansion.html",
+    "zeit": "2026-10-16T14:26:05+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Europe's answer to SpaceX pops 19% as Ukraine's Starshield limits raise concerns",
+    "link": "https://www.cnbc.com/2026/10/16/eutelsat-starshield-ukraine-spacex.html",
+    "zeit": "2026-10-16T14:04:19+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "AI 'espionage' is a reality that companies need to be 'wary of,' DNI Jay Clayton says",
+    "link": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
+    "zeit": "2026-10-16T14:02:14+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Tesla unveils long-delayed Roadster developed with SpaceX, fueling merger speculation",
+    "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
+    "zeit": "2026-10-16T13:44:52+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations",
+    "link": "https://www.cnbc.com/2026/10/16/coreweave-openai-anthropic-perps.html",
+    "zeit": "2026-10-16T13:43:53+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Our top 10 things to watch in the stock market Friday",
     "link": "https://www.cnbc.com/investingclub/2026/10/16/our-top-10-things-to-watch-in-the-stock-market-friday-.html",
     "zeit": "2026-10-16T13:19:30+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Sickle cell gene therapies offer new hope, but access remains a major challenge",
+    "link": "https://www.cnbc.com/2026/10/16/sickle-cell-gene-therapies-offer-new-hope-accessing-them-is-hard.html",
+    "zeit": "2026-10-16T13:19:09+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -414,30 +450,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Elon Musk cash infusion helps GOP Senate super PAC raise record $273 million",
-    "link": "https://www.cnbc.com/2026/10/15/elon-musk-senate-leadership-fund-fundraising.html",
-    "zeit": "2026-10-16T12:17:29+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Europe's answer to SpaceX pops 19% as Ukraine's Starshield limits raise concerns",
-    "link": "https://www.cnbc.com/2026/10/16/eutelsat-starshield-ukraine-spacex.html",
-    "zeit": "2026-10-16T12:16:24+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Tesla unveils long-delayed Roadster, showing off its flying-car ambitions",
-    "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
-    "zeit": "2026-10-16T11:57:48+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "MELDUNGEN WIRTSCHAFT - Deutsche Regierung plant Kooperation mit US-Chiphersteller Nvidia +++ Inflation in der Euro-Zone steigt wegen Energiekosten",
     "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
     "zeit": "2026-10-16T11:48:53+00:00",
@@ -452,30 +464,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "I watched Nvidia's Jensen Huang work the room in London. He brought big checks — and a blunt message",
-    "link": "https://www.cnbc.com/2026/10/16/nvidia-jensen-huang-london.html",
-    "zeit": "2026-10-16T11:33:44+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Banking tax raid fears hit London lenders' shares ahead of crucial budget",
-    "link": "https://www.cnbc.com/2026/10/16/banking-tax-london-uk-lenders.html",
-    "zeit": "2026-10-16T11:19:29+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
-    "link": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
-    "zeit": "2026-10-16T11:02:24+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Partners Group schränkt Einstieg von Hedgefonds bei Krisenfirmen ein",
