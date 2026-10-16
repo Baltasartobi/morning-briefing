@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-16T17:05:40+02:00",
+ "aktualisiert": "2026-10-16T18:04:12+02:00",
  "kernaussagen": [
-  "SMI +0.13%, Nikkei 225 −4.90% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9260 (−0.53%)",
-  "Gold +0.93% auf 4'208.90 USD/Unze · Brent über 100 USD"
+  "SMI +0.29%, Nikkei 225 −4.90% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9310 (−0.19%)",
+  "Bitcoin −1.14% auf 81'207 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14368.6298828125,
+   "kurs": 14391.3095703125,
    "vortag": 14349.509765625,
-   "veraenderung_pct": 0.13324578678850507,
+   "veraenderung_pct": 0.2912977890550117,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13927.519531,
     14129.929688,
     14349.509766,
-    14368.629883
+    14391.30957
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25677.69921875,
+   "kurs": 25622.609375,
    "vortag": 25382.619140625,
-   "veraenderung_pct": 1.1625280925116277,
+   "veraenderung_pct": 0.9454904280972842,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25259.900391,
     25298.609375,
     25382.619141,
-    25677.699219
+    25622.609375
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6217.990234375,
+   "kurs": 6204.22998046875,
    "vortag": 6168.259765625,
-   "veraenderung_pct": 0.8062317515734607,
+   "veraenderung_pct": 0.5831501300286979,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6167.009766,
     6190.370117,
     6168.259766,
-    6217.990234
+    6204.22998
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7731.8798828125,
+   "kurs": 7695.919921875,
    "vortag": 7744.06005859375,
-   "veraenderung_pct": -0.15728410793680592,
+   "veraenderung_pct": -0.6216395063378677,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7805.450195,
     7718.939941,
     7744.060059,
-    7731.879883
+    7695.919922
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26476.087890625,
+   "kurs": 26338.85546875,
    "vortag": 26713.029296875,
-   "veraenderung_pct": -0.8869881570403471,
+   "veraenderung_pct": -1.400716571552496,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27204.380859,
     26692.869141,
     26713.029297,
-    26476.087891
+    26338.855469
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9259899854660034,
-   "vortag": 0.9309599995613098,
-   "veraenderung_pct": -0.5338590377297003,
-   "datum": "2026-10-16",
-   "ist_heute": true,
+   "kurs": 0.9309599995613098,
+   "vortag": 0.9327200055122375,
+   "veraenderung_pct": -0.18869606532789795,
+   "datum": "2026-10-15",
+   "ist_heute": false,
    "verlauf": [
+    0.93227,
     0.92988,
     0.93083,
     0.93272,
-    0.93096,
-    0.92599
+    0.93096
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4208.89990234375,
+   "kurs": 4193.2001953125,
    "vortag": 4170.10009765625,
-   "veraenderung_pct": 0.9304286175122467,
+   "veraenderung_pct": 0.5539458793623053,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4177.299805,
     4107.899902,
     4170.100098,
-    4208.899902
+    4193.200195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.81999969482422,
+   "kurs": 106.66999816894531,
    "vortag": 105.91999816894531,
-   "veraenderung_pct": -0.09440943716935157,
+   "veraenderung_pct": 0.7080815832376963,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     105.690002,
     106.059998,
     105.919998,
-    105.82
+    106.669998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81625.46875,
+   "kurs": 81206.796875,
    "vortag": 82141.4609375,
-   "veraenderung_pct": -0.6281750794432606,
+   "veraenderung_pct": -1.137871242892996,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     83095.125,
     81562.492188,
     82141.460938,
-    81625.46875
+    81206.796875
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.1,
+   "wert": 5.092,
    "vortag": 5.089,
-   "veraenderung_bp": 1.1,
+   "veraenderung_bp": 0.3,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.217,
     5.19,
     5.089,
-    5.1
+    5.092
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 82.02999877929688,
+   "kurs": 82.43000030517578,
    "vortag": 81.06999969482422,
-   "veraenderung_pct": 1.184160710603721,
+   "veraenderung_pct": 1.6775633594067862,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     77.300003,
     78.889999,
     81.07,
-    82.029999
+    82.43
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 124.4000015258789,
+   "kurs": 124.69999694824219,
    "vortag": 125.9000015258789,
-   "veraenderung_pct": -1.1914217488644518,
+   "veraenderung_pct": -0.953141035022198,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     119.300003,
     122.660004,
     125.900002,
-    124.400002
+    124.699997
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 377.5,
+   "kurs": 379.20001220703125,
    "vortag": 379.70001220703125,
-   "veraenderung_pct": -0.5794079895450999,
+   "veraenderung_pct": -0.13168290332510324,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     359.799988,
     370.899994,
     379.700012,
-    377.5
+    379.200012
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.7599983215332,
+   "kurs": 39.630001068115234,
    "vortag": 39.41999816894531,
-   "veraenderung_pct": 0.8625067691041544,
+   "veraenderung_pct": 0.5327318846386042,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.09,
     39.470001,
     39.419998,
-    39.759998
+    39.630001
    ]
   }
  ],
@@ -374,9 +374,57 @@
   ],
   "artikel": [
    {
+    "titel": "Tesla unveils long-delayed Roadster developed with SpaceX, fueling merger speculation",
+    "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
+    "zeit": "2026-10-16T15:52:41+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Sickle cell gene therapies offer new hope, but access remains a major challenge",
+    "link": "https://www.cnbc.com/2026/10/16/sickle-cell-gene-therapies-offer-new-hope-accessing-them-is-hard.html",
+    "zeit": "2026-10-16T15:50:15+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
+    "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
+    "zeit": "2026-10-16T15:46:07+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Europe's answer to SpaceX rises 18% as Ukraine's Starshield limits raise concerns",
+    "link": "https://www.cnbc.com/2026/10/16/eutelsat-starshield-ukraine-spacex.html",
+    "zeit": "2026-10-16T15:45:35+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images",
     "link": "https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html",
-    "zeit": "2026-10-16T15:03:55+00:00",
+    "zeit": "2026-10-16T15:44:51+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "KOMMENTAR - Putin darf sich freuen, sollte Le Pen Frankreichs Präsidentin werden",
+    "link": "https://www.nzz.ch/meinung/putin-darf-sich-freuen-sollte-le-pen-frankreichs-praesidentin-werden-ld.10035600",
+    "zeit": "2026-10-16T15:20:30+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Kimberly-Clark is having its best week in four years. Here's what is propelling shares higher",
+    "link": "https://www.cnbc.com/investingclub/2026/10/16/kimberly-clark-stock-q3-kenvue-deal-cramer.html",
+    "zeit": "2026-10-16T15:12:25+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -390,9 +438,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Sickle cell gene therapies offer new hope, but access remains a major challenge",
-    "link": "https://www.cnbc.com/2026/10/16/sickle-cell-gene-therapies-offer-new-hope-accessing-them-is-hard.html",
-    "zeit": "2026-10-16T14:43:09+00:00",
+    "titel": "E.l.f. Beauty CFO Mandy Fields on consumers, pricing and building a foundation in cosmetics",
+    "link": "https://www.cnbc.com/2026/10/16/elf-beauty-cfo-mandy-fields-tariffs-marketing-makeup.html",
+    "zeit": "2026-10-16T14:30:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -406,33 +454,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Europe's answer to SpaceX pops 19% as Ukraine's Starshield limits raise concerns",
-    "link": "https://www.cnbc.com/2026/10/16/eutelsat-starshield-ukraine-spacex.html",
-    "zeit": "2026-10-16T14:04:19+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Tesla unveils long-delayed Roadster developed with SpaceX, fueling merger speculation",
-    "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
-    "zeit": "2026-10-16T13:44:52+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations",
     "link": "https://www.cnbc.com/2026/10/16/coreweave-openai-anthropic-perps.html",
     "zeit": "2026-10-16T13:43:53+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Our top 10 things to watch in the stock market Friday",
-    "link": "https://www.cnbc.com/investingclub/2026/10/16/our-top-10-things-to-watch-in-the-stock-market-friday-.html",
-    "zeit": "2026-10-16T13:19:30+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -444,22 +468,6 @@
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Stock fixing scandal could see Turkish companies frozen out of global indexes",
-    "link": "https://www.cnbc.com/2026/10/16/stock-fixing-turkey-msci-indonesia.html",
-    "zeit": "2026-10-16T12:58:15+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Fed's Warsh withholds rate signal, praises recent global tightening",
-    "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
-    "zeit": "2026-10-16T12:36:00+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "MELDUNGEN WIRTSCHAFT - Deutsche Regierung plant Kooperation mit US-Chiphersteller Nvidia +++ Inflation in der Euro-Zone steigt wegen Energiekosten",
@@ -585,14 +593,6 @@
     "titel": "Blockade statt Stärke: Der EU-Gipfel zeigt, wie gespalten die Europäer bei wichtigen Fragen sind",
     "link": "https://www.nzz.ch/wirtschaft/blockade-statt-staerke-der-eu-gipfel-zeigt-wie-gespalten-die-europaeer-bei-wichtigen-fragen-sind-ld.10034936",
     "zeit": "2026-10-15T15:56:43+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Der «Cyber Innovation Hub» soll die Bundeswehr schneller machen. Seine Macht bleibt begrenzt",
-    "link": "https://www.nzz.ch/deutschland/politik/der-cyber-innovation-hub-soll-die-bundeswehr-schneller-machen-seine-macht-bleibt-begrenzt-ld.10025795",
-    "zeit": "2026-10-15T15:00:00+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
