@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-16T10:32:45+02:00",
+ "aktualisiert": "2026-10-16T11:07:02+02:00",
  "kernaussagen": [
-  "SMI +0.06%, Nikkei 225 +1.39% führt",
-  "Franken stärker: EUR/CHF 0.9310 (−0.19%)",
-  "Brent über 100 USD: 102.60 (−3.13%)"
+  "SMI +0.13%, Nikkei 225 +1.39% führt",
+  "Franken stärker: EUR/CHF 0.9261 (−0.52%)",
+  "Brent über 100 USD: 102.54 (−3.19%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14358.6201171875,
+   "kurs": 14367.8203125,
    "vortag": 14349.509765625,
-   "veraenderung_pct": 0.06348893942234035,
+   "veraenderung_pct": 0.12760398908444603,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13927.519531,
     14129.929688,
     14349.509766,
-    14358.620117
+    14367.820312
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25591.08984375,
+   "kurs": 25639.970703125,
    "vortag": 25382.619140625,
-   "veraenderung_pct": 0.8213128124013869,
+   "veraenderung_pct": 1.0138889177441435,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25259.900391,
     25298.609375,
     25382.619141,
-    25591.089844
+    25639.970703
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6202.33984375,
+   "kurs": 6211.2998046875,
    "vortag": 6168.259765625,
-   "veraenderung_pct": 0.5525071806301796,
+   "veraenderung_pct": 0.6977663181819471,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6167.009766,
     6190.370117,
     6168.259766,
-    6202.339844
+    6211.299805
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9309599995613098,
-   "vortag": 0.9327200055122375,
-   "veraenderung_pct": -0.18869606532789795,
-   "datum": "2026-10-15",
-   "ist_heute": false,
+   "kurs": 0.9261400103569031,
+   "vortag": 0.9309599995613098,
+   "veraenderung_pct": -0.5177439639380887,
+   "datum": "2026-10-16",
+   "ist_heute": true,
    "verlauf": [
-    0.93227,
     0.92988,
     0.93083,
     0.93272,
-    0.93096
+    0.93096,
+    0.92614
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8244199752807617,
+   "kurs": 0.8234300017356873,
    "vortag": 0.83160001039505,
-   "veraenderung_pct": -0.8634000751007065,
+   "veraenderung_pct": -0.9824445114522851,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83409,
     0.8326,
     0.8316,
-    0.82442
+    0.82343
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4204.60009765625,
+   "kurs": 4207.89990234375,
    "vortag": 4170.10009765625,
-   "veraenderung_pct": 0.8273182703549598,
+   "veraenderung_pct": 0.9064483777918131,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4177.299805,
     4107.899902,
     4170.100098,
-    4204.600098
+    4207.899902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 102.5999984741211,
+   "kurs": 102.54000091552734,
    "vortag": 105.91999816894531,
-   "veraenderung_pct": -3.1344408536797097,
+   "veraenderung_pct": -3.191085075385647,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     105.690002,
     106.059998,
     105.919998,
-    102.599998
+    102.540001
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82154.7890625,
+   "kurs": 82118.3203125,
    "vortag": 82141.4609375,
-   "veraenderung_pct": 0.016225819273096853,
+   "veraenderung_pct": -0.028171674494081866,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     83095.125,
     81562.492188,
     82141.460938,
-    82154.789062
+    82118.320312
    ]
   }
  ],
@@ -278,17 +278,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 81.91000366210938,
-   "vortag": 78.88999938964844,
-   "veraenderung_pct": 3.828120542306923,
+   "kurs": 81.81999969482422,
+   "vortag": 81.06999969482422,
+   "veraenderung_pct": 0.9251264374284807,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
-    76.040001,
     76.379997,
     77.300003,
     78.889999,
-    81.910004
+    81.07,
+    81.82
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 124.41999816894531,
+   "kurs": 124.58000183105469,
    "vortag": 125.9000015258789,
-   "veraenderung_pct": -1.175538791895392,
+   "veraenderung_pct": -1.0484508966053463,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     119.300003,
     122.660004,
     125.900002,
-    124.419998
+    124.580002
    ]
   },
   {
@@ -316,17 +316,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 377.20001220703125,
-   "vortag": 370.8999938964844,
-   "veraenderung_pct": 1.6985760081476675,
+   "kurs": 376.8999938964844,
+   "vortag": 379.70001220703125,
+   "veraenderung_pct": -0.7374290809925355,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
-    357.799988,
     360.0,
     359.799988,
     370.899994,
-    377.200012
+    379.700012,
+    376.899994
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.630001068115234,
+   "kurs": 39.650001525878906,
    "vortag": 39.41999816894531,
-   "veraenderung_pct": 0.5327318846386042,
+   "veraenderung_pct": 0.5834687154166129,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.09,
     39.470001,
     39.419998,
-    39.630001
+    39.650002
    ]
   }
  ],
@@ -376,7 +376,7 @@
    {
     "titel": "Zelenskyy praises 'real leaders' in Europe, as his strained relationship with Trump overshadows EU summit",
     "link": "https://www.cnbc.com/2026/10/16/zelenskyy-trump-eu-summit-russia-ukraine.html",
-    "zeit": "2026-10-16T08:13:42+00:00",
+    "zeit": "2026-10-16T08:52:54+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
