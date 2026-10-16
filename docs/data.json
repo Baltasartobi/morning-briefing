@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-16T21:07:20+02:00",
+ "aktualisiert": "2026-10-16T21:57:04+02:00",
  "kernaussagen": [
   "SMI +0.29%, Nikkei 225 −4.90% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9258 (−0.55%)",
-  "Brent über 100 USD: 109.70 (+3.57%)"
+  "Franken stärker: EUR/CHF 0.9281 (−0.30%)",
+  "Brent über 100 USD: 109.57 (+3.45%)"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7633.7099609375,
+   "kurs": 7660.68994140625,
    "vortag": 7744.06005859375,
-   "veraenderung_pct": -1.4249643832990655,
+   "veraenderung_pct": -1.076568577163639,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7805.450195,
     7718.939941,
     7744.060059,
-    7633.709961
+    7660.689941
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26030.427734375,
+   "kurs": 26154.44140625,
    "vortag": 26713.029296875,
-   "veraenderung_pct": -2.555313195347164,
+   "veraenderung_pct": -2.091069060034856,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27204.380859,
     26692.869141,
     26713.029297,
-    26030.427734
+    26154.441406
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.925819993019104,
+   "kurs": 0.9281299710273743,
    "vortag": 0.9309599995613098,
-   "veraenderung_pct": -0.5521189465313103,
+   "veraenderung_pct": -0.3039903470900107,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93083,
     0.93272,
     0.93096,
-    0.92582
+    0.92813
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.83160001039505,
-   "vortag": 0.8325999975204468,
-   "veraenderung_pct": -0.12010414705437844,
-   "datum": "2026-10-15",
-   "ist_heute": false,
+   "kurs": 0.8240900039672852,
+   "vortag": 0.83160001039505,
+   "veraenderung_pct": -0.903079164729359,
+   "datum": "2026-10-16",
+   "ist_heute": true,
    "verlauf": [
-    0.83138,
     0.82995,
     0.83409,
     0.8326,
-    0.8316
+    0.8316,
+    0.82409
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4178.0,
+   "kurs": 4190.10009765625,
    "vortag": 4170.10009765625,
-   "veraenderung_pct": 0.18944155197113677,
+   "veraenderung_pct": 0.4796047944086723,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4177.299805,
     4107.899902,
     4170.100098,
-    4178.0
+    4190.100098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.69999694824219,
+   "kurs": 109.56999969482422,
    "vortag": 105.91999816894531,
-   "veraenderung_pct": 3.5687300270414113,
+   "veraenderung_pct": 3.4459984790190967,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     105.690002,
     106.059998,
     105.919998,
-    109.699997
+    109.57
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80962.296875,
+   "kurs": 81541.25,
    "vortag": 82141.4609375,
-   "veraenderung_pct": -1.4355284761701559,
+   "veraenderung_pct": -0.7307039960692818,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     83095.125,
     81562.492188,
     82141.460938,
-    80962.296875
+    81541.25
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.102,
+   "wert": 5.098,
    "vortag": 5.089,
-   "veraenderung_bp": 1.3,
+   "veraenderung_bp": 0.9,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.217,
     5.19,
     5.089,
-    5.102
+    5.098
    ]
   }
  ],
@@ -374,9 +374,17 @@
   ],
   "artikel": [
    {
-    "titel": "Here's who Netflix just brought in to run content — and what it means for the streamer",
-    "link": "https://www.cnbc.com/2026/10/16/netflix-peter-rice-chief-content-officer.html",
-    "zeit": "2026-10-16T19:00:24+00:00",
+    "titel": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
+    "link": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
+    "zeit": "2026-10-16T19:53:15+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Debt is eating up a bigger chunk of your raise, research shows",
+    "link": "https://www.cnbc.com/2026/10/16/debt-payments-rise-more-than-income.html",
+    "zeit": "2026-10-16T19:47:46+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,10 +392,58 @@
    {
     "titel": "Katie Zacharia out as Trump's White House press secretary",
     "link": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
-    "zeit": "2026-10-16T18:55:24+00:00",
+    "zeit": "2026-10-16T19:47:26+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Here's who Netflix just brought in to run content — and what it means for the streamer",
+    "link": "https://www.cnbc.com/2026/10/16/netflix-peter-rice-chief-content-officer.html",
+    "zeit": "2026-10-16T19:40:00+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images",
+    "link": "https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html",
+    "zeit": "2026-10-16T19:30:51+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trump says White House didn't order Starlink restrictions in Ukraine",
+    "link": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
+    "zeit": "2026-10-16T19:28:46+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Wall Street's fear gauge is ripping. Traders see it going even higher",
+    "link": "https://www.cnbc.com/2026/10/16/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-higher.html",
+    "zeit": "2026-10-16T19:28:10+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "The affordability crisis isn't hitting all voters equally. Here's why",
+    "link": "https://www.cnbc.com/2026/10/16/affordability-inflation-midterms.html",
+    "zeit": "2026-10-16T19:22:21+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Neuer Elektro-Trend – Weshalb Citroën die Ente wiederauferstehen lässt",
+    "link": "https://www.srf.ch/news/wirtschaft/neuer-elektro-trend-weshalb-citroen-die-ente-wiederauferstehen-laesst",
+    "zeit": "2026-10-16T19:16:28+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
@@ -406,60 +462,12 @@
     "sprache": "en"
    },
    {
-    "titel": "Trump says White House didn't order Starlink restrictions in Ukraine",
-    "link": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
-    "zeit": "2026-10-16T18:27:02+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "The Austin Powers steamroller: How to trade CoreWeave's slow moving crisis",
-    "link": "https://www.cnbc.com/2026/10/16/playing-the-coreweave-disconnect.html",
-    "zeit": "2026-10-16T18:24:35+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "IWF-Tagung in Bangkok – Bund und SNB: Zwei Perspektiven auf die globale Wirtschaftslage",
     "link": "https://www.srf.ch/news/wirtschaft/iwf-tagung-in-bangkok-bund-und-snb-zwei-perspektiven-auf-die-globale-wirtschaftslage",
     "zeit": "2026-10-16T18:11:27+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Debt is eating up a bigger chunk of your raise, research shows",
-    "link": "https://www.cnbc.com/2026/10/16/debt-payments-rise-more-than-income.html",
-    "zeit": "2026-10-16T18:08:00+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-    "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-    "zeit": "2026-10-16T18:04:20+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
-    "link": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
-    "zeit": "2026-10-16T18:00:15+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Why Trump and the GOP's billion-dollar midterm blitz isn’t working",
-    "link": "https://www.cnbc.com/2026/10/16/republicans-midterms-spending-trump-musk-2026.html",
-    "zeit": "2026-10-16T17:55:05+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "KOMMENTAR - Putin darf sich freuen, sollte Le Pen Frankreichs Präsidentin werden",
@@ -681,14 +689,6 @@
     "titel": "200 Millionen Franken – Investition in Teakbäume – Tausende Anleger fürchten um ihr Geld",
     "link": "https://www.srf.ch/news/wirtschaft/200-millionen-franken-investition-in-teakbaeume-tausende-anleger-fuerchten-um-ihr-geld",
     "zeit": "2026-10-14T05:00:37+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Autosalon Paris – Europa stemmt sich gegen die Flut chinesischer Autos",
-    "link": "https://www.srf.ch/news/wirtschaft/autosalon-paris-europa-stemmt-sich-gegen-die-flut-chinesischer-autos",
-    "zeit": "2026-10-13T17:00:58+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
