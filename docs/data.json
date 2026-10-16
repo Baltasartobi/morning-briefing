@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-16T14:01:40+02:00",
+ "aktualisiert": "2026-10-16T14:39:22+02:00",
  "kernaussagen": [
-  "SMI −0.19%, Nikkei 225 +1.39% führt",
-  "Franken stärker: EUR/CHF 0.9266 (−0.46%)",
-  "Gold +0.66% auf 4'197.70 USD/Unze · Brent über 100 USD"
+  "SMI −0.23%, Nikkei 225 +1.39% führt",
+  "Franken stärker: EUR/CHF 0.9267 (−0.46%)",
+  "Gold +0.65% auf 4'197.10 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14322.9599609375,
+   "kurs": 14316.7998046875,
    "vortag": 14349.509765625,
-   "veraenderung_pct": -0.1850223813994134,
+   "veraenderung_pct": -0.22795176610045376,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13927.519531,
     14129.929688,
     14349.509766,
-    14322.959961
+    14316.799805
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25588.279296875,
+   "kurs": 25612.080078125,
    "vortag": 25382.619140625,
-   "veraenderung_pct": 0.8102400903177154,
+   "veraenderung_pct": 0.9040081176364678,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25259.900391,
     25298.609375,
     25382.619141,
-    25588.279297
+    25612.080078
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6199.43017578125,
+   "kurs": 6209.5,
    "vortag": 6168.259765625,
-   "veraenderung_pct": 0.5053355620650013,
+   "veraenderung_pct": 0.6685878342028717,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6167.009766,
     6190.370117,
     6168.259766,
-    6199.430176
+    6209.5
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.926639974117279,
+   "kurs": 0.9267200231552124,
    "vortag": 0.9309599995613098,
-   "veraenderung_pct": -0.46403985628452604,
+   "veraenderung_pct": -0.4554413087668019,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93083,
     0.93272,
     0.93096,
-    0.92664
+    0.92672
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8231099843978882,
+   "kurs": 0.8240200281143188,
    "vortag": 0.83160001039505,
-   "veraenderung_pct": -1.0209266343237156,
+   "veraenderung_pct": -0.911493769357985,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83409,
     0.8326,
     0.8316,
-    0.82311
+    0.82402
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4197.7001953125,
+   "kurs": 4197.10009765625,
    "vortag": 4170.10009765625,
-   "veraenderung_pct": 0.6618569581042566,
+   "veraenderung_pct": 0.6474664724517076,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4177.299805,
     4107.899902,
     4170.100098,
-    4197.700195
+    4197.100098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 106.52999877929688,
+   "kurs": 105.88999938964844,
    "vortag": 105.91999816894531,
-   "veraenderung_pct": 0.5759069306049192,
+   "veraenderung_pct": -0.02832211085297409,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     105.690002,
     106.059998,
     105.919998,
-    106.529999
+    105.889999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82501.84375,
+   "kurs": 82152.859375,
    "vortag": 82141.4609375,
-   "veraenderung_pct": 0.43873435946581996,
+   "veraenderung_pct": 0.013876594560047195,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     83095.125,
     81562.492188,
     82141.460938,
-    82501.84375
+    82152.859375
    ]
   }
  ],
@@ -257,17 +257,17 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.089,
-   "vortag": 5.19,
-   "veraenderung_bp": -10.1,
-   "datum": "2026-10-15",
-   "ist_heute": false,
+   "wert": 5.104,
+   "vortag": 5.089,
+   "veraenderung_bp": 1.5,
+   "datum": "2026-10-16",
+   "ist_heute": true,
    "verlauf": [
-    5.244,
     5.24,
     5.217,
     5.19,
-    5.089
+    5.089,
+    5.104
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 81.62999725341797,
+   "kurs": 81.80999755859375,
    "vortag": 81.06999969482422,
-   "veraenderung_pct": 0.6907580618006337,
+   "veraenderung_pct": 0.9127887832183879,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     77.300003,
     78.889999,
     81.07,
-    81.629997
+    81.809998
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 124.19999694824219,
+   "kurs": 123.91999816894531,
    "vortag": 125.9000015258789,
-   "veraenderung_pct": -1.3502816179770116,
+   "veraenderung_pct": -1.5726793748502055,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     119.300003,
     122.660004,
     125.900002,
-    124.199997
+    123.919998
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 376.3999938964844,
+   "kurs": 375.0,
    "vortag": 379.70001220703125,
-   "veraenderung_pct": -0.8691119843176498,
+   "veraenderung_pct": -1.2378225061706272,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     359.799988,
     370.899994,
     379.700012,
-    376.399994
+    375.0
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.56999969482422,
+   "kurs": 39.619998931884766,
    "vortag": 39.41999816894531,
-   "veraenderung_pct": 0.38052139230457804,
+   "veraenderung_pct": 0.5073586307190903,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.09,
     39.470001,
     39.419998,
-    39.57
+    39.619999
    ]
   }
  ],
@@ -374,9 +374,33 @@
   ],
   "artikel": [
    {
-    "titel": "Europe's answer to SpaceX set for 25% weekly gain as Ukraine's Starshield limits raise concerns",
+    "titel": "Fed's Warsh withholds rate signal, praises recent global tightening",
+    "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
+    "zeit": "2026-10-16T12:36:00+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Phoenix Suns owner Mat Ishbia predicts team will win opening round playoff series — and the NBA season hasn't even started",
+    "link": "https://www.cnbc.com/2026/10/16/owner-mat-ishbia-says-phoenix-suns-will-win-first-round-playoff-series.html",
+    "zeit": "2026-10-16T12:24:49+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Elon Musk cash infusion helps GOP Senate super PAC raise record $273 million",
+    "link": "https://www.cnbc.com/2026/10/15/elon-musk-senate-leadership-fund-fundraising.html",
+    "zeit": "2026-10-16T12:17:29+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Europe's answer to SpaceX pops 19% as Ukraine's Starshield limits raise concerns",
     "link": "https://www.cnbc.com/2026/10/16/eutelsat-starshield-ukraine-spacex.html",
-    "zeit": "2026-10-16T11:58:43+00:00",
+    "zeit": "2026-10-16T12:16:24+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -385,14 +409,6 @@
     "titel": "Tesla unveils long-delayed Roadster, showing off its flying-car ambitions",
     "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
     "zeit": "2026-10-16T11:57:48+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Fed's Warsh withholds rate signal, praises recent global tightening",
-    "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
-    "zeit": "2026-10-16T11:53:52+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -454,28 +470,12 @@
     "sprache": "en"
    },
    {
-    "titel": "U.S. Starlink curbs embolden Russia to intensify attacks on Ukraine, minister tells CNBC",
-    "link": "https://www.cnbc.com/2026/10/16/zelenskyy-trump-eu-summit-russia-ukraine.html",
-    "zeit": "2026-10-16T10:25:46+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Partners Group schränkt Einstieg von Hedgefonds bei Krisenfirmen ein",
     "link": "https://www.finews.ch/news/finanzplatz/74029-partners-group-privatre-equity-hedgefunds-schulden",
     "zeit": "2026-10-16T09:49:09+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Trump says he won't use nuclear weapons or send ground troops to Iran",
-    "link": "https://www.cnbc.com/2026/10/16/us-iran-war-trump-hormuz.html",
-    "zeit": "2026-10-16T09:46:54+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Hackerangriff auf IT-Dienstleister zieht weitere Kreise",
