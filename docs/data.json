@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-16T08:40:39+02:00",
+ "aktualisiert": "2026-10-16T09:37:39+02:00",
  "kernaussagen": [
-  "SMI +1.55%, Nikkei 225 +1.43% führt",
+  "SMI −0.09%, Nikkei 225 +1.39% führt",
   "Franken stärker: EUR/CHF 0.9310 (−0.19%)",
-  "Gold +0.64% auf 4'196.90 USD/Unze · Brent über 100 USD"
+  "Gold +0.91% auf 4'208.20 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,17 +12,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14349.509765625,
-   "vortag": 14129.9296875,
-   "veraenderung_pct": 1.5540068703898235,
-   "datum": "2026-10-15",
-   "ist_heute": false,
+   "kurs": 14336.240234375,
+   "vortag": 14349.509765625,
+   "veraenderung_pct": -0.09247376019624332,
+   "datum": "2026-10-16",
+   "ist_heute": true,
    "verlauf": [
-    13787.400391,
     13877.839844,
     13927.519531,
     14129.929688,
-    14349.509766
+    14349.509766,
+    14336.240234
    ]
   },
   {
@@ -31,17 +31,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25382.619140625,
-   "vortag": 25298.609375,
-   "veraenderung_pct": 0.33207266209667186,
-   "datum": "2026-10-15",
-   "ist_heute": false,
+   "kurs": 25540.41015625,
+   "vortag": 25382.619140625,
+   "veraenderung_pct": 0.621649857135731,
+   "datum": "2026-10-16",
+   "ist_heute": true,
    "verlauf": [
-    25087.269531,
     25277.679688,
     25259.900391,
     25298.609375,
-    25382.619141
+    25382.619141,
+    25540.410156
    ]
   },
   {
@@ -50,17 +50,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6168.259765625,
-   "vortag": 6190.3701171875,
-   "veraenderung_pct": -0.35717333768316983,
-   "datum": "2026-10-15",
-   "ist_heute": false,
+   "kurs": 6197.33984375,
+   "vortag": 6168.259765625,
+   "veraenderung_pct": 0.47144704065578136,
+   "datum": "2026-10-16",
+   "ist_heute": true,
    "verlauf": [
-    6173.370117,
     6201.209961,
     6167.009766,
     6190.370117,
-    6168.259766
+    6168.259766,
+    6197.339844
    ]
   },
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 65349.890625,
+   "kurs": 65324.2890625,
    "vortag": 64425.94921875,
-   "veraenderung_pct": 1.4341137654221736,
+   "veraenderung_pct": 1.3943757983290395,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     67777.523438,
     67744.289062,
     64425.949219,
-    65349.890625
+    65324.289062
    ]
   }
  ],
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8263400197029114,
+   "kurs": 0.8251100182533264,
    "vortag": 0.83160001039505,
-   "veraenderung_pct": -0.6325145053377224,
+   "veraenderung_pct": -0.7804223257092735,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83409,
     0.8326,
     0.8316,
-    0.82634
+    0.82511
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4196.89990234375,
+   "kurs": 4208.2001953125,
    "vortag": 4170.10009765625,
-   "veraenderung_pct": 0.6426657408670433,
+   "veraenderung_pct": 0.9136494751688096,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4177.299805,
     4107.899902,
     4170.100098,
-    4196.899902
+    4208.200195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.30000305175781,
+   "kurs": 105.38999938964844,
    "vortag": 105.91999816894531,
-   "veraenderung_pct": -0.5853428322370124,
+   "veraenderung_pct": -0.5003764996781013,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     105.690002,
     106.059998,
     105.919998,
-    105.300003
+    105.389999
    ]
   },
   {
@@ -204,17 +204,17 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82007.3828125,
-   "vortag": 81562.4921875,
-   "veraenderung_pct": 0.5454598223620488,
+   "kurs": 82050.5390625,
+   "vortag": 82141.4609375,
+   "veraenderung_pct": -0.11068938141869378,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
-    83679.46875,
     81762.5625,
     83095.125,
     81562.492188,
-    82007.382812
+    82141.460938,
+    82050.539062
    ]
   }
  ],
@@ -278,17 +278,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 78.88999938964844,
-   "vortag": 77.30000305175781,
-   "veraenderung_pct": 2.056916267941178,
-   "datum": "2026-10-14",
-   "ist_heute": false,
+   "kurs": 81.63999938964844,
+   "vortag": 78.88999938964844,
+   "veraenderung_pct": 3.4858664232171988,
+   "datum": "2026-10-16",
+   "ist_heute": true,
    "verlauf": [
-    76.0,
     76.040001,
     76.379997,
     77.300003,
-    78.889999
+    78.889999,
+    81.639999
    ]
   },
   {
@@ -297,17 +297,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 125.9000015258789,
-   "vortag": 122.66000366210938,
-   "veraenderung_pct": 2.641446084328125,
-   "datum": "2026-10-15",
-   "ist_heute": false,
+   "kurs": 124.86000061035156,
+   "vortag": 125.9000015258789,
+   "veraenderung_pct": -0.8260531397321524,
+   "datum": "2026-10-16",
+   "ist_heute": true,
    "verlauf": [
-    119.099998,
     119.959999,
     119.300003,
     122.660004,
-    125.900002
+    125.900002,
+    124.860001
    ]
   },
   {
@@ -316,17 +316,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 370.8999938964844,
-   "vortag": 359.79998779296875,
-   "veraenderung_pct": 3.0850490495020866,
-   "datum": "2026-10-14",
-   "ist_heute": false,
+   "kurs": 377.20001220703125,
+   "vortag": 370.8999938964844,
+   "veraenderung_pct": 1.6985760081476675,
+   "datum": "2026-10-16",
+   "ist_heute": true,
    "verlauf": [
-    352.700012,
     357.799988,
     360.0,
     359.799988,
-    370.899994
+    370.899994,
+    377.200012
    ]
   },
   {
@@ -335,17 +335,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.41999816894531,
-   "vortag": 39.470001220703125,
-   "veraenderung_pct": -0.1266862179157613,
-   "datum": "2026-10-15",
-   "ist_heute": false,
+   "kurs": 39.54999923706055,
+   "vortag": 39.41999816894531,
+   "veraenderung_pct": 0.3297845615265693,
+   "datum": "2026-10-16",
+   "ist_heute": true,
    "verlauf": [
-    39.900002,
     40.009998,
     40.09,
     39.470001,
-    39.419998
+    39.419998,
+    39.549999
    ]
   }
  ],
@@ -374,17 +374,33 @@
   ],
   "artikel": [
    {
-    "titel": "What to know about Starshield, SpaceX's military-focused Starlink service",
-    "link": "https://www.cnbc.com/2026/10/15/what-is-starshield-spacex-starlink-military.html",
-    "zeit": "2026-10-16T06:25:31+00:00",
+    "titel": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
+    "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
+    "zeit": "2026-10-16T07:11:22+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
-    "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
-    "zeit": "2026-10-16T06:18:12+00:00",
+    "titel": "Fliegendes Auto – Teslas neuer Roadster hebt ab – dank Raketendüsen",
+    "link": "https://www.srf.ch/news/wirtschaft/fliegendes-auto-teslas-neuer-roadster-hebt-ab-dank-raketenduesen",
+    "zeit": "2026-10-16T06:47:46+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Marco Rubio to visit Indian billionaire Ambani's refinery in Gujarat as U.S. diesel prices surge",
+    "link": "https://www.cnbc.com/2026/10/16/marco-rubio-reliance-jamnagar-refinery.html",
+    "zeit": "2026-10-16T06:45:02+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "What to know about Starshield, SpaceX's military-focused Starlink service",
+    "link": "https://www.cnbc.com/2026/10/15/what-is-starshield-spacex-starlink-military.html",
+    "zeit": "2026-10-16T06:25:31+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -404,6 +420,14 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Admicasa bekommt neuen Finanzchef",
+    "link": "https://www.finews.ch/news/finanzplatz/74023-admicasa-cfo-cyril-notz",
+    "zeit": "2026-10-16T05:23:12+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "The IPO drought is driving private equity-owned companies to the debt market to pay investors",
@@ -454,7 +478,7 @@
     "sprache": "de"
    },
    {
-    "titel": "Visa und Open AI wollen Shopping-Agenten mit Lizenz zum Zahlen ausrüsten",
+    "titel": "Visa und Open AI wollen KI-Agenten selbständig einkaufen und zahlen lassen",
     "link": "https://www.nzz.ch/wirtschaft/visa-und-open-ai-wollen-mit-shopping-agenten-geld-verdienen-ld.10034745",
     "zeit": "2026-10-16T03:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
@@ -505,14 +529,6 @@
     "titel": "Gasping for clean air: Singapore battles relentless haze as Prime Minister Wong warns of action",
     "link": "https://www.cnbc.com/2026/10/16/singapore-haze-wong-warning-indonesia.html",
     "zeit": "2026-10-16T00:06:48+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
-    "link": "https://www.cnbc.com/2026/10/15/netflix-bela-bajaria-peter-rice.html",
-    "zeit": "2026-10-15T23:08:05+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -630,14 +646,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Wall Street Journal: UBS erwägt erneut Wegzug aus der Schweiz",
-    "link": "https://www.finews.ch/news/banken/73996-ubs-wegzug-schweiz-notfallplan-eigenkapital-fusion-uebernahme",
-    "zeit": "2026-10-15T03:45:33+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Systemrelevante Bank – Notfallplan von Postfinance fällt erneut durch",
     "link": "https://www.srf.ch/news/wirtschaft/systemrelevante-bank-notfallplan-von-postfinance-faellt-erneut-durch",
     "zeit": "2026-10-14T15:36:51+00:00",
@@ -681,14 +689,6 @@
     "titel": "Hormonchaos am Arbeitsplatz – Wie Frauen in den Wechseljahren ihre Stärken ausspielen können",
     "link": "https://www.srf.ch/news/wirtschaft/hormonchaos-am-arbeitsplatz-wie-frauen-in-den-wechseljahren-ihre-staerken-ausspielen-koennen",
     "zeit": "2026-10-13T13:24:50+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Milchschwemme in der Schweiz – Warum die Kühe in der Schweiz mehr Milch geben",
-    "link": "https://www.srf.ch/news/wirtschaft/milchschwemme-in-der-schweiz-warum-die-kuehe-in-der-schweiz-mehr-milch-geben",
-    "zeit": "2026-10-13T07:53:37+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
