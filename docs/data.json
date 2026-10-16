@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-16T20:00:36+02:00",
+ "aktualisiert": "2026-10-16T20:32:37+02:00",
  "kernaussagen": [
   "SMI +0.29%, Nikkei 225 −4.90% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9256 (−0.57%)",
-  "Brent über 100 USD: 109.48 (+3.36%)"
+  "Franken stärker: EUR/CHF 0.9310 (−0.19%)",
+  "Brent über 100 USD: 109.43 (+3.31%)"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7657.89013671875,
+   "kurs": 7649.9599609375,
    "vortag": 7744.06005859375,
-   "veraenderung_pct": -1.1127227994490507,
+   "veraenderung_pct": -1.2151261346665998,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7805.450195,
     7718.939941,
     7744.060059,
-    7657.890137
+    7649.959961
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26164.55078125,
+   "kurs": 26131.37890625,
    "vortag": 26713.029296875,
-   "veraenderung_pct": -2.0532246999375836,
+   "veraenderung_pct": -2.1774033343835097,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27204.380859,
     26692.869141,
     26713.029297,
-    26164.550781
+    26131.378906
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9256100058555603,
-   "vortag": 0.9309599995613098,
-   "veraenderung_pct": -0.5746749278455088,
-   "datum": "2026-10-16",
-   "ist_heute": true,
+   "kurs": 0.9309599995613098,
+   "vortag": 0.9327200055122375,
+   "veraenderung_pct": -0.18869606532789795,
+   "datum": "2026-10-15",
+   "ist_heute": false,
    "verlauf": [
+    0.93227,
     0.92988,
     0.93083,
     0.93272,
-    0.93096,
-    0.92561
+    0.93096
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8244699835777283,
+   "kurs": 0.8245199918746948,
    "vortag": 0.83160001039505,
-   "veraenderung_pct": -0.8573865714521456,
+   "veraenderung_pct": -0.8513730678035847,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83409,
     0.8326,
     0.8316,
-    0.82447
+    0.82452
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4181.7001953125,
+   "kurs": 4181.10009765625,
    "vortag": 4170.10009765625,
-   "veraenderung_pct": 0.27817312257731874,
+   "veraenderung_pct": 0.2637826369247698,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4177.299805,
     4107.899902,
     4170.100098,
-    4181.700195
+    4181.100098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.4800033569336,
+   "kurs": 109.43000030517578,
    "vortag": 105.91999816894531,
-   "veraenderung_pct": 3.3610321464601745,
+   "veraenderung_pct": 3.3138238263863196,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     105.690002,
     106.059998,
     105.919998,
-    109.480003
+    109.43
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81113.2734375,
+   "kurs": 81344.46875,
    "vortag": 82141.4609375,
-   "veraenderung_pct": -1.2517277977102559,
+   "veraenderung_pct": -0.9702678506125162,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     83095.125,
     81562.492188,
     82141.460938,
-    81113.273438
+    81344.46875
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.102,
+   "wert": 5.104,
    "vortag": 5.089,
-   "veraenderung_bp": 1.3,
+   "veraenderung_bp": 1.5,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.217,
     5.19,
     5.089,
-    5.102
+    5.104
    ]
   }
  ],
@@ -374,17 +374,65 @@
   ],
   "artikel": [
    {
-    "titel": "Why Trump and the GOP's billion-dollar midterm blitz isn’t working",
-    "link": "https://www.cnbc.com/2026/10/16/republicans-midterms-spending-trump-musk-2026.html",
-    "zeit": "2026-10-16T17:55:05+00:00",
+    "titel": "Katie Zacharia out as Trump's White House press secretary",
+    "link": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
+    "zeit": "2026-10-16T18:28:23+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Katie Zacharia out as Trump's White House press secretary: Reports",
-    "link": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
-    "zeit": "2026-10-16T17:54:08+00:00",
+    "titel": "Trump says White House didn't order Starlink restrictions in Ukraine",
+    "link": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
+    "zeit": "2026-10-16T18:27:02+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "The Austin Powers steamroller: How to trade CoreWeave's slow moving crisis",
+    "link": "https://www.cnbc.com/2026/10/16/playing-the-coreweave-disconnect.html",
+    "zeit": "2026-10-16T18:24:35+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "IWF-Tagung in Bangkok – Bund und SNB: Zwei Perspektiven auf die globale Wirtschaftslage",
+    "link": "https://www.srf.ch/news/wirtschaft/iwf-tagung-in-bangkok-bund-und-snb-zwei-perspektiven-auf-die-globale-wirtschaftslage",
+    "zeit": "2026-10-16T18:11:27+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Debt is eating up a bigger chunk of your raise, research shows",
+    "link": "https://www.cnbc.com/2026/10/16/debt-payments-rise-more-than-income.html",
+    "zeit": "2026-10-16T18:08:00+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+    "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+    "zeit": "2026-10-16T18:04:20+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+    "link": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
+    "zeit": "2026-10-16T18:00:15+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Why Trump and the GOP's billion-dollar midterm blitz isn’t working",
+    "link": "https://www.cnbc.com/2026/10/16/republicans-midterms-spending-trump-musk-2026.html",
+    "zeit": "2026-10-16T17:55:05+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -398,14 +446,6 @@
     "sprache": "en"
    },
    {
-    "titel": "IWF-Tagung in Bangkok – Bund und SNB: Zwei Perspektiven auf die globale Wirtschaftslage",
-    "link": "https://www.srf.ch/news/wirtschaft/iwf-tagung-in-bangkok-bund-und-snb-zwei-perspektiven-auf-die-globale-wirtschaftslage",
-    "zeit": "2026-10-16T17:32:08+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Here's who Netflix just brought in to run content — and what it means for the streamer",
     "link": "https://www.cnbc.com/2026/10/16/netflix-peter-rice-chief-content-officer.html",
     "zeit": "2026-10-16T17:02:50+00:00",
@@ -417,46 +457,6 @@
     "titel": "Prediction market odds on Tesla-SpaceX merger are above 50% for early 2027",
     "link": "https://www.cnbc.com/2026/10/16/tesla-spacex-merger-odds-rise-on-kalshi.html",
     "zeit": "2026-10-16T17:02:40+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-    "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-    "zeit": "2026-10-16T16:46:18+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
-    "link": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
-    "zeit": "2026-10-16T16:27:44+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Schwab to create 'tax-aware' strategy that's been attracting billions from wealthy investors",
-    "link": "https://www.cnbc.com/2026/10/16/tax-strategies-capital-gains-wealthy-investors-schwab.html",
-    "zeit": "2026-10-16T16:21:14+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Older Americans feel less of the affordability crunch. How that could affect the midterm elections",
-    "link": "https://www.cnbc.com/2026/10/16/affordability-inflation-midterms.html",
-    "zeit": "2026-10-16T16:12:41+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "What we want to see when Capital One and Meta report earnings next week",
-    "link": "https://www.cnbc.com/investingclub/2026/10/16/what-we-want-to-see-when-capital-one-and-meta-report-earnings-next-week-.html",
-    "zeit": "2026-10-16T16:06:29+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
