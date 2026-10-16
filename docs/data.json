@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-16T06:30:02+02:00",
+ "aktualisiert": "2026-10-16T07:03:37+02:00",
  "kernaussagen": [
-  "SMI +1.55%, Nikkei 225 +1.75% führt",
-  "Franken stärker: EUR/CHF 0.9284 (−0.27%)",
-  "Gold +0.78% auf 4'202.50 USD/Unze · Brent über 100 USD"
+  "SMI +1.55%, Nikkei 225 +1.88% führt",
+  "Franken stärker: EUR/CHF 0.9283 (−0.29%)",
+  "Bitcoin +0.88% auf 82'281 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 65554.953125,
+   "kurs": 65634.5625,
    "vortag": 64425.94921875,
-   "veraenderung_pct": 1.752405544568103,
+   "veraenderung_pct": 1.8759727965300232,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     67777.523438,
     67744.289062,
     64425.949219,
-    65554.953125
+    65634.5625
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9284300208091736,
+   "kurs": 0.9283000230789185,
    "vortag": 0.9309599995613098,
-   "veraenderung_pct": -0.27176019950678754,
+   "veraenderung_pct": -0.2857240357958202,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93083,
     0.93272,
     0.93096,
-    0.92843
+    0.9283
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8266800045967102,
+   "kurs": 0.8268799781799316,
    "vortag": 0.83160001039505,
-   "veraenderung_pct": -0.5916312814862268,
+   "veraenderung_pct": -0.5675844343575931,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83409,
     0.8326,
     0.8316,
-    0.82668
+    0.82688
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4202.5,
+   "kurs": 4194.2998046875,
    "vortag": 4170.10009765625,
-   "veraenderung_pct": 0.7769574251217604,
+   "veraenderung_pct": 0.5803147757736271,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4177.299805,
     4107.899902,
     4170.100098,
-    4202.5
+    4194.299805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.20999908447266,
+   "kurs": 105.4000015258789,
    "vortag": 105.91999816894531,
-   "veraenderung_pct": -0.6703163677742818,
+   "veraenderung_pct": -0.49093339506766087,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     105.690002,
     106.059998,
     105.919998,
-    105.209999
+    105.400002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81979.7890625,
+   "kurs": 82280.7421875,
    "vortag": 81562.4921875,
-   "veraenderung_pct": 0.5116284014969663,
+   "veraenderung_pct": 0.8806131111698479,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81762.5625,
     83095.125,
     81562.492188,
-    81979.789062
+    82280.742188
    ]
   }
  ],
@@ -374,6 +374,22 @@
   ],
   "artikel": [
    {
+    "titel": "The IPO drought is driving private equity-owned companies to the debt market to pay investors",
+    "link": "https://www.cnbc.com/2026/10/16/private-equity-portfolios-ipo-debt.html",
+    "zeit": "2026-10-16T05:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "One Singapore ship was sunk, but here's why others are still transiting the Strait of Hormuz",
+    "link": "https://www.cnbc.com/2026/10/16/strait-hormuz-singapore-ships-attacked.html",
+    "zeit": "2026-10-16T04:29:27+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Fed's Warsh says AI path will be 'very bumpy' but ultimately 'very good' for wealth",
     "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
     "zeit": "2026-10-16T04:08:27+00:00",
@@ -470,14 +486,6 @@
     "sprache": "en"
    },
    {
-    "titel": "A lot changed in stock market in just a few months. The single biggest risk did not",
-    "link": "https://www.cnbc.com/2026/10/15/spx-sp500-tech-stocks-invest.html",
-    "zeit": "2026-10-15T23:12:24+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
     "link": "https://www.cnbc.com/2026/10/15/netflix-bela-bajaria-peter-rice.html",
     "zeit": "2026-10-15T23:08:05+00:00",
@@ -489,14 +497,6 @@
     "titel": "People in China are spending nearly as much of their income as Americans on healthcare",
     "link": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
     "zeit": "2026-10-15T23:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
-    "link": "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html",
-    "zeit": "2026-10-15T22:48:12+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -546,6 +546,14 @@
     "link": "https://www.srf.ch/news/wirtschaft/mehr-tanken-als-noetig-das-ist-bekannt-zur-kerosinknappheit-am-frankfurter-flughafen",
     "zeit": "2026-10-15T12:23:44+00:00",
     "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Zwei Wealth beruft neuen Partner",
+    "link": "https://www.finews.ch/news/finanzplatz/74013-zwei-wealth-neuer-partner-zwei-wealth",
+    "zeit": "2026-10-15T12:17:09+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -641,14 +649,6 @@
     "titel": "Hamilton-Lane-Executive Co-Chairman: «Diese Konzentration ist nicht nachhaltig»",
     "link": "https://www.finews.ch/news/finanzplatz/73989-amilton-lane-erik-hirsch-ki-aktienmarkt-konzentration-private-markets-schweiz",
     "zeit": "2026-10-14T11:38:05+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "US-Technologiefirma Lineal übernimmt Schweizer Cybersicherheits-Spezialisten",
-    "link": "https://www.finews.ch/news/finanzplatz/73987-legal-tech-anbieter-lineal-uebernahme-digitale-forensik-und-cybersicherheit-forentec-aus-duebendorf",
-    "zeit": "2026-10-14T11:22:36+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
