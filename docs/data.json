@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-15T21:59:48+02:00",
+ "aktualisiert": "2026-10-16T06:30:02+02:00",
  "kernaussagen": [
-  "SMI +1.55%, Euro Stoxx 50 −0.36% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9275 (−0.56%)",
-  "Gold +2.10% auf 4'194.20 USD/Unze · Brent über 100 USD"
+  "SMI +1.55%, Nikkei 225 +1.75% führt",
+  "Franken stärker: EUR/CHF 0.9284 (−0.27%)",
+  "Gold +0.78% auf 4'202.50 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -16,7 +16,7 @@
    "vortag": 14129.9296875,
    "veraenderung_pct": 1.5540068703898235,
    "datum": "2026-10-15",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     13787.400391,
     13877.839844,
@@ -35,7 +35,7 @@
    "vortag": 25298.609375,
    "veraenderung_pct": 0.33207266209667186,
    "datum": "2026-10-15",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     25087.269531,
     25277.679688,
@@ -54,7 +54,7 @@
    "vortag": 6190.3701171875,
    "veraenderung_pct": -0.35717333768316983,
    "datum": "2026-10-15",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     6173.370117,
     6201.209961,
@@ -69,17 +69,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7742.56005859375,
+   "kurs": 7744.06005859375,
    "vortag": 7718.93994140625,
-   "veraenderung_pct": 0.30600208534847795,
+   "veraenderung_pct": 0.3254348055326872,
    "datum": "2026-10-15",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     7811.540039,
     7807.240234,
     7805.450195,
     7718.939941,
-    7742.560059
+    7744.060059
    ]
   },
   {
@@ -88,17 +88,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26710.583984375,
+   "kurs": 26713.029296875,
    "vortag": 26692.869140625,
-   "veraenderung_pct": 0.06636545384715031,
+   "veraenderung_pct": 0.0755263742679313,
    "datum": "2026-10-15",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     27366.169922,
     27245.900391,
     27204.380859,
     26692.869141,
-    26710.583984
+    26713.029297
    ]
   },
   {
@@ -107,17 +107,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 67744.2890625,
-   "vortag": 67777.5234375,
-   "veraenderung_pct": -0.049034507775491676,
-   "datum": "2026-10-14",
-   "ist_heute": false,
+   "kurs": 65554.953125,
+   "vortag": 64425.94921875,
+   "veraenderung_pct": 1.752405544568103,
+   "datum": "2026-10-16",
+   "ist_heute": true,
    "verlauf": [
-    70035.710938,
-    69042.109375,
     69030.921875,
     67777.523438,
-    67744.289062
+    67744.289062,
+    64425.949219,
+    65554.953125
    ]
   }
  ],
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9274600148200989,
-   "vortag": 0.9327200055122375,
-   "veraenderung_pct": -0.563941017781644,
-   "datum": "2026-10-15",
+   "kurs": 0.9284300208091736,
+   "vortag": 0.9309599995613098,
+   "veraenderung_pct": -0.27176019950678754,
+   "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
-    0.93227,
     0.92988,
     0.93083,
     0.93272,
-    0.92746
+    0.93096,
+    0.92843
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8271099925041199,
-   "vortag": 0.8325999975204468,
-   "veraenderung_pct": -0.6593808590771855,
-   "datum": "2026-10-15",
+   "kurs": 0.8266800045967102,
+   "vortag": 0.83160001039505,
+   "veraenderung_pct": -0.5916312814862268,
+   "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
-    0.83138,
     0.82995,
     0.83409,
     0.8326,
-    0.82711
+    0.8316,
+    0.82668
    ]
   },
   {
@@ -166,17 +166,17 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4194.2001953125,
-   "vortag": 4107.89990234375,
-   "veraenderung_pct": 2.1008372896211824,
-   "datum": "2026-10-15",
+   "kurs": 4202.5,
+   "vortag": 4170.10009765625,
+   "veraenderung_pct": 0.7769574251217604,
+   "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
-    4216.299805,
     4190.600098,
     4177.299805,
     4107.899902,
-    4194.200195
+    4170.100098,
+    4202.5
    ]
   },
   {
@@ -185,17 +185,17 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.76000213623047,
-   "vortag": 106.05999755859375,
-   "veraenderung_pct": -0.2828544496218277,
-   "datum": "2026-10-15",
+   "kurs": 105.20999908447266,
+   "vortag": 105.91999816894531,
+   "veraenderung_pct": -0.6703163677742818,
+   "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
-    104.720001,
     106.650002,
     105.690002,
     106.059998,
-    105.760002
+    105.919998,
+    105.209999
    ]
   },
   {
@@ -204,17 +204,17 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82287.4375,
+   "kurs": 81979.7890625,
    "vortag": 81562.4921875,
-   "veraenderung_pct": 0.8888219242166651,
-   "datum": "2026-10-15",
+   "veraenderung_pct": 0.5116284014969663,
+   "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
     83679.46875,
     81762.5625,
     83095.125,
     81562.492188,
-    82287.4375
+    81979.789062
    ]
   }
  ],
@@ -244,7 +244,7 @@
    "vortag": 3.51,
    "veraenderung_bp": -6.0,
    "datum": "2026-10-15",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     3.53,
     3.53,
@@ -261,7 +261,7 @@
    "vortag": 5.19,
    "veraenderung_bp": -10.1,
    "datum": "2026-10-15",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     5.244,
     5.24,
@@ -278,17 +278,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 81.06999969482422,
-   "vortag": 78.88999938964844,
-   "veraenderung_pct": 2.7633417696056206,
-   "datum": "2026-10-15",
-   "ist_heute": true,
+   "kurs": 78.88999938964844,
+   "vortag": 77.30000305175781,
+   "veraenderung_pct": 2.056916267941178,
+   "datum": "2026-10-14",
+   "ist_heute": false,
    "verlauf": [
+    76.0,
     76.040001,
     76.379997,
     77.300003,
-    78.889999,
-    81.07
+    78.889999
    ]
   },
   {
@@ -301,7 +301,7 @@
    "vortag": 122.66000366210938,
    "veraenderung_pct": 2.641446084328125,
    "datum": "2026-10-15",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     119.099998,
     119.959999,
@@ -316,17 +316,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 379.70001220703125,
-   "vortag": 370.8999938964844,
-   "veraenderung_pct": 2.3726121475760698,
-   "datum": "2026-10-15",
-   "ist_heute": true,
+   "kurs": 370.8999938964844,
+   "vortag": 359.79998779296875,
+   "veraenderung_pct": 3.0850490495020866,
+   "datum": "2026-10-14",
+   "ist_heute": false,
    "verlauf": [
+    352.700012,
     357.799988,
     360.0,
     359.799988,
-    370.899994,
-    379.700012
+    370.899994
    ]
   },
   {
@@ -339,7 +339,7 @@
    "vortag": 39.470001220703125,
    "veraenderung_pct": -0.1266862179157613,
    "datum": "2026-10-15",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     39.900002,
     40.009998,
@@ -374,25 +374,121 @@
   ],
   "artikel": [
    {
-    "titel": "Harvard’s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
-    "link": "https://www.cnbc.com/2026/10/15/harvards-endowment-jumps-27percent-with-spacex-as-top-holding.html",
-    "zeit": "2026-10-15T19:53:49+00:00",
+    "titel": "Fed's Warsh says AI path will be 'very bumpy' but ultimately 'very good' for wealth",
+    "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
+    "zeit": "2026-10-16T04:08:27+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
-    "link": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
-    "zeit": "2026-10-15T19:53:41+00:00",
+    "titel": "Hybe shares jump 10% as K-pop sensation BTS' tour lifts earnings hopes",
+    "link": "https://www.cnbc.com/2026/10/16/bts-concerts-hybe-katseye-cortis.html",
+    "zeit": "2026-10-16T03:53:48+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Brian Sullivan: Why the 'real' price of oil is likely $30-$40 higher than where it is now",
-    "link": "https://www.cnbc.com/2026/10/15/brian-sullivan-why-the-real-price-of-oil-is-likely-30-40-higher-than-where-it-is-now.html",
-    "zeit": "2026-10-15T19:53:29+00:00",
+    "titel": "Tesla reveals next-generation Roadster after almost a decade of delays",
+    "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
+    "zeit": "2026-10-16T03:47:50+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Chips, Strom, Kühlung: Diese Schweizer Unternehmen erwecken die KI zum Leben",
+    "link": "https://www.nzz.ch/wirtschaft/chips-und-datenzentren-schweizer-firmen-liefern-fuer-den-ki-boom-ld.10026543",
+    "zeit": "2026-10-16T03:32:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Visa und Open AI wollen mit Shopping-Agenten Geld verdienen",
+    "link": "https://www.nzz.ch/wirtschaft/visa-und-open-ai-wollen-mit-shopping-agenten-geld-verdienen-ld.10034745",
+    "zeit": "2026-10-16T03:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Nervöse Finanzmärkte und hohe Schulden: Wie viel Wahlkampf kann sich Meloni leisten?",
+    "link": "https://www.nzz.ch/wirtschaft/nervoese-finanzmaerkte-und-hohe-schulden-wie-viel-wahlkampf-kann-sich-meloni-leisten-ld.10033714",
+    "zeit": "2026-10-16T03:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "«Lächerlicher» Diesel-Deal, Starlink-Beschränkung: Trump treibt einmal mehr einen EU-Gipfel vor sich her",
+    "link": "https://www.nzz.ch/international/laecherlicher-diesel-deal-starlink-beschraenkung-trump-treibt-einmal-mehr-einen-eu-gipfel-vor-sich-her-ld.10034156",
+    "zeit": "2026-10-16T03:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Estland verlegt Truppen an die russische Grenze. Der Verteidigungsminister sagt: «Wir müssen bereit sein, wenn von der anderen Seite der Grenze plötzlich Geräusche von Panzern ertönen»",
+    "link": "https://www.nzz.ch/international/martin-herem-ueber-russlands-bedrohung-estland-ruestet-sich-fuer-den-ernstfall-ld.10032867",
+    "zeit": "2026-10-16T03:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "«Europa schlafwandelt in eine Energiekrise»: Einer der erfahrensten Ölexperten sieht schwarz",
+    "link": "https://www.nzz.ch/pro/europa-vor-energiekrise-carlyle-experte-jeff-currie-warnt-ld.10031568",
+    "zeit": "2026-10-16T03:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
+    "link": "https://www.cnbc.com/2026/10/16/g20-russia-ukraine-trump-diesel-europe-.html",
+    "zeit": "2026-10-16T02:25:32+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "India's rupee forecast to weaken toward 100-per-dollar level even as RBI pushes back",
+    "link": "https://www.cnbc.com/2026/10/16/india-rupee-rbi-dollar-iran-war.html",
+    "zeit": "2026-10-16T00:54:25+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Gasping for clean air: Singapore battles relentless haze as Prime Minister Wong warns of action",
+    "link": "https://www.cnbc.com/2026/10/16/singapore-haze-wong-warning-indonesia.html",
+    "zeit": "2026-10-16T00:06:48+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "A lot changed in stock market in just a few months. The single biggest risk did not",
+    "link": "https://www.cnbc.com/2026/10/15/spx-sp500-tech-stocks-invest.html",
+    "zeit": "2026-10-15T23:12:24+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
+    "link": "https://www.cnbc.com/2026/10/15/netflix-bela-bajaria-peter-rice.html",
+    "zeit": "2026-10-15T23:08:05+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "People in China are spending nearly as much of their income as Americans on healthcare",
+    "link": "https://www.cnbc.com/2026/10/15/chinese-spending-nearly-as-much-of-income-as-americans-on-healthcare.html",
+    "zeit": "2026-10-15T23:00:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -400,55 +496,7 @@
    {
     "titel": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
     "link": "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html",
-    "zeit": "2026-10-15T19:43:40+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Some 'classic' money advice is actually pretty new—and not all of it is worthwhile, says historian",
-    "link": "https://www.cnbc.com/make-it/2026/10/15/money-advice-history-joseph-moore.html",
-    "zeit": "2026-10-15T19:30:53+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Tesla plans next-generation Roadster reveal after almost a decade of delays",
-    "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
-    "zeit": "2026-10-15T19:29:21+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "U.S. sues California in fight over checking citizenship of mail voters",
-    "link": "https://www.cnbc.com/2026/10/15/california-mail-ballots-voting-lawsuit.html",
-    "zeit": "2026-10-15T19:26:13+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Here's our monthly update on our 32 stocks, including 2 more names to buy",
-    "link": "https://www.cnbc.com/investingclub/2026/10/15/heres-our-monthly-update-on-our-32-stocks-including-2-more-names-to-buy.html",
-    "zeit": "2026-10-15T19:08:05+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Banks with Jeffrey Epstein ties eyed by Democrats Warren and Garcia",
-    "link": "https://www.cnbc.com/2026/10/15/banks-congress-jeffrey-epstein-oversight.html",
-    "zeit": "2026-10-15T19:07:36+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Democrat Talarico says he raised record $64 million over summer in Texas Senate race",
-    "link": "https://www.cnbc.com/2026/10/15/james-talarico-texas-senate-fundraising-ken-paxton.html",
-    "zeit": "2026-10-15T18:35:25+00:00",
+    "zeit": "2026-10-15T22:48:12+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -498,14 +546,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/mehr-tanken-als-noetig-das-ist-bekannt-zur-kerosinknappheit-am-frankfurter-flughafen",
     "zeit": "2026-10-15T12:23:44+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Zwölf Jahre stand sie ungenutzt da – nun öffnet China seine neue Brücke nach Nordkorea",
-    "link": "https://www.nzz.ch/international/china-eroeffnet-nach-12-jahren-neue-bruecke-zu-nordkorea-ld.10033534",
-    "zeit": "2026-10-15T12:10:02+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -574,46 +614,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Viel Staat, wenig Leistung: Frankreichs Schülerproteste zeigen, wie tief das Land in der Krise steckt",
-    "link": "https://www.nzz.ch/meinung/viel-staat-wenig-leistung-frankreichs-schuelerproteste-zeigen-wie-tief-das-land-in-der-krise-steckt-ld.10030923",
-    "zeit": "2026-10-15T03:33:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Adidas klagt in Australien gegen einen Modehändler wegen Kleidung mit vier Streifen",
-    "link": "https://www.nzz.ch/wirtschaft/adidas-klagt-in-australien-gegen-einen-modehaendler-wegen-kleidung-mit-vier-streifen-ld.10029592",
-    "zeit": "2026-10-15T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "«Kenne mehrere Leute, die weggezogen sind»: Die Startup-Szene befürchtet, dass Berlin wegen der Politik gerade seinen Status als Gründermetropole verspielt",
-    "link": "https://www.nzz.ch/wirtschaft/kenne-mehrere-leute-die-weggezogen-sind-die-startup-szene-befuerchtet-dass-berlin-wegen-der-politik-gerade-seinen-status-als-gruendermetropole-verspielt-ld.10029269",
-    "zeit": "2026-10-15T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Riad im Würgegriff der Huthi: eine Woche im Herzen Saudiarabiens",
-    "link": "https://www.nzz.ch/international/saudiarabien-im-wuergegriff-der-huthi-eine-reportage-ld.10031605",
-    "zeit": "2026-10-15T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "48 Biersorten, E-Busse und präparierte Smartphones: die trügerische Kulisse von Pjongjang",
-    "link": "https://www.nzz.ch/international/48-biersorten-e-busse-und-praeparierte-smartphones-die-truegerische-kulisse-von-pjongjang-ld.10027326",
-    "zeit": "2026-10-15T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Wenn der Algorithmus zum Fondsmanager wird: KI erobert den ETF-Markt",
     "link": "https://www.finews.ch/news/finanzplatz/73995-ki-etf-algorithmen-asset-management-aktive-fonds-pictet-schweiz",
     "zeit": "2026-10-15T03:22:36+00:00",
@@ -638,17 +638,17 @@
     "sprache": "de"
    },
    {
-    "titel": "US-Technologiefirma Lineal übernimmt Schweizer Cybersicherheits-Spezialisten",
-    "link": "https://www.finews.ch/news/finanzplatz/73987-legal-tech-anbieter-lineal-uebernahme-digitale-forensik-und-cybersicherheit-forentec-aus-duebendorf",
-    "zeit": "2026-10-14T11:22:36+00:00",
+    "titel": "Hamilton-Lane-Executive Co-Chairman: «Diese Konzentration ist nicht nachhaltig»",
+    "link": "https://www.finews.ch/news/finanzplatz/73989-amilton-lane-erik-hirsch-ki-aktienmarkt-konzentration-private-markets-schweiz",
+    "zeit": "2026-10-14T11:38:05+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
    {
-    "titel": "Fehlgeschlagene Zahlungen kosten Banken viele Millionen",
-    "link": "https://www.finews.ch/news/banken/73983-fehler-im-internationalen-zahlungsverkehr-banken-kosten-studie-millionen-dollar-an-kundenumsaetzen",
-    "zeit": "2026-10-14T10:54:06+00:00",
+    "titel": "US-Technologiefirma Lineal übernimmt Schweizer Cybersicherheits-Spezialisten",
+    "link": "https://www.finews.ch/news/finanzplatz/73987-legal-tech-anbieter-lineal-uebernahme-digitale-forensik-und-cybersicherheit-forentec-aus-duebendorf",
+    "zeit": "2026-10-14T11:22:36+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
