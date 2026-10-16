@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-16T12:36:10+02:00",
+ "aktualisiert": "2026-10-16T13:30:38+02:00",
  "kernaussagen": [
-  "SMI +0.14%, Nikkei 225 +1.39% führt",
-  "Franken stärker: EUR/CHF 0.9269 (−0.44%)",
-  "Gold +0.82% auf 4'204.40 USD/Unze · Brent über 100 USD"
+  "SMI +0.00%, Nikkei 225 +1.39% führt",
+  "Franken stärker: EUR/CHF 0.9260 (−0.53%)",
+  "Gold +0.68% auf 4'198.30 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14368.91015625,
+   "kurs": 14349.8603515625,
    "vortag": 14349.509765625,
-   "veraenderung_pct": 0.13519897851475005,
+   "veraenderung_pct": 0.002443191044343429,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13927.519531,
     14129.929688,
     14349.509766,
-    14368.910156
+    14349.860352
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25650.599609375,
+   "kurs": 25634.48046875,
    "vortag": 25382.619140625,
-   "veraenderung_pct": 1.0557636596339126,
+   "veraenderung_pct": 0.9922590207481541,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25259.900391,
     25298.609375,
     25382.619141,
-    25650.599609
+    25634.480469
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6215.4599609375,
+   "kurs": 6213.0400390625,
    "vortag": 6168.259765625,
-   "veraenderung_pct": 0.7652108877700181,
+   "veraenderung_pct": 0.7259790465870886,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6167.009766,
     6190.370117,
     6168.259766,
-    6215.459961
+    6213.040039
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9268699884414673,
+   "kurs": 0.9260299801826477,
    "vortag": 0.9309599995613098,
-   "veraenderung_pct": -0.43933263746775975,
+   "veraenderung_pct": -0.5295629652171119,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93083,
     0.93272,
     0.93096,
-    0.92687
+    0.92603
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8225299715995789,
+   "kurs": 0.822700023651123,
    "vortag": 0.83160001039505,
-   "veraenderung_pct": -1.0906732421951837,
+   "veraenderung_pct": -1.070224462803826,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83409,
     0.8326,
     0.8316,
-    0.82253
+    0.8227
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4204.39990234375,
+   "kurs": 4198.2998046875,
    "vortag": 4170.10009765625,
-   "veraenderung_pct": 0.8225175387702954,
+   "veraenderung_pct": 0.6762357346553616,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4177.299805,
     4107.899902,
     4170.100098,
-    4204.399902
+    4198.299805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.68000030517578,
+   "kurs": 106.27999877929688,
    "vortag": 105.91999816894531,
-   "veraenderung_pct": -0.22658408980212874,
+   "veraenderung_pct": 0.3398797361923611,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     105.690002,
     106.059998,
     105.919998,
-    105.68
+    106.279999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82097.9296875,
+   "kurs": 82684.421875,
    "vortag": 82141.4609375,
-   "veraenderung_pct": -0.05299546599630833,
+   "veraenderung_pct": 0.6610071592385358,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     83095.125,
     81562.492188,
     82141.460938,
-    82097.929688
+    82684.421875
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 81.66000366210938,
+   "kurs": 81.7300033569336,
    "vortag": 81.06999969482422,
-   "veraenderung_pct": 0.7277710244309121,
+   "veraenderung_pct": 0.8141157821559775,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     77.300003,
     78.889999,
     81.07,
-    81.660004
+    81.730003
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 377.0,
+   "kurs": 377.29998779296875,
    "vortag": 379.70001220703125,
-   "veraenderung_pct": -0.7110908928702031,
+   "veraenderung_pct": -0.6320843657897757,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     359.799988,
     370.899994,
     379.700012,
-    377.0
+    377.299988
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.790000915527344,
+   "kurs": 39.66999816894531,
    "vortag": 39.41999816894531,
-   "veraenderung_pct": 0.938616853801677,
+   "veraenderung_pct": 0.6341958691336247,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.09,
     39.470001,
     39.419998,
-    39.790001
+    39.669998
    ]
   }
  ],
@@ -374,12 +374,68 @@
   ],
   "artikel": [
    {
-    "titel": "Tesla reveals next-generation Roadster after almost a decade of delays",
-    "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
-    "zeit": "2026-10-16T10:27:18+00:00",
+    "titel": "Banking tax raid fears hit London lenders' shares ahead of crucial budget",
+    "link": "https://www.cnbc.com/2026/10/16/banking-tax-london-uk-lenders.html",
+    "zeit": "2026-10-16T11:19:29+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "I watched Nvidia's Jensen Huang work the room in London. He brought big checks — and a blunt message",
+    "link": "https://www.cnbc.com/2026/10/16/nvidia-jensen-huang-london.html",
+    "zeit": "2026-10-16T11:18:18+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
+    "link": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
+    "zeit": "2026-10-16T11:02:24+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Nike's India campus is a long-term growth bet amid turnaround",
+    "link": "https://www.cnbc.com/2026/10/16/nike-india-campus-china-sales.html",
+    "zeit": "2026-10-16T11:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Tesla reveals next-generation Roadster after almost a decade of delays",
+    "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
+    "zeit": "2026-10-16T10:57:11+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
+    "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
+    "zeit": "2026-10-16T10:56:50+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Norway's $2 trillion wealth fund was frozen out of major defense companies. That may be about to change",
+    "link": "https://www.cnbc.com/2026/10/16/norway-sovereign-wealth-fund-defense-investment.html",
+    "zeit": "2026-10-16T10:56:47+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "MELDUNGEN WIRTSCHAFT - Inflation in der Euro-Zone steigt wegen Energiekosten +++ Netflix kündigt grössten Stellenabbau in seiner Geschichte an",
+    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
+    "zeit": "2026-10-16T10:48:35+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "U.S. Starlink curbs embolden Russia to intensify attacks on Ukraine, minister tells CNBC",
@@ -406,14 +462,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Fed's Warsh withholds rate signal, praises recent global tightening with 'no free riders'",
-    "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
-    "zeit": "2026-10-16T07:11:22+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Hackerangriff auf IT-Dienstleister zieht weitere Kreise",
     "link": "https://www.finews.ch/news/finanzplatz/74026-hacker-daten-pensionskasse-stadt-zuerich",
     "zeit": "2026-10-16T07:05:56+00:00",
@@ -430,22 +478,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Marco Rubio to visit Indian billionaire Ambani's refinery in Gujarat as U.S. diesel prices surge",
-    "link": "https://www.cnbc.com/2026/10/16/marco-rubio-reliance-jamnagar-refinery.html",
-    "zeit": "2026-10-16T06:45:02+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "What to know about Starshield, SpaceX's military-focused Starlink service",
-    "link": "https://www.cnbc.com/2026/10/15/what-is-starshield-spacex-starlink-military.html",
-    "zeit": "2026-10-16T06:25:31+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Partners Group baut Stellen im Private-Equity-Geschäft ab",
     "link": "https://www.finews.ch/news/finanzplatz/74024-partners-group-stellenabbau-private-equity",
     "zeit": "2026-10-16T06:14:50+00:00",
@@ -454,28 +486,12 @@
     "sprache": "de"
    },
    {
-    "titel": "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
-    "link": "https://www.cnbc.com/2026/10/16/g20-russia-ukraine-trump-diesel-europe-.html",
-    "zeit": "2026-10-16T06:11:35+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Admicasa bekommt neuen Finanzchef",
     "link": "https://www.finews.ch/news/finanzplatz/74023-admicasa-cfo-cyril-notz",
     "zeit": "2026-10-16T05:23:12+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "The IPO drought is driving private equity-owned companies to the debt market to pay investors",
-    "link": "https://www.cnbc.com/2026/10/16/private-equity-portfolios-ipo-debt.html",
-    "zeit": "2026-10-16T05:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Unicredit: EZB gibt grünes Licht für Übernahme von Commerzbank-Anteilen",
@@ -492,14 +508,6 @@
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Hybe shares jump 10% as K-pop sensation BTS' tour lifts earnings hopes",
-    "link": "https://www.cnbc.com/2026/10/16/bts-concerts-hybe-katseye-cortis.html",
-    "zeit": "2026-10-16T03:53:48+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Chips, Strom, Kühlung: Diese Schweizer Unternehmen erwecken die KI zum Leben",
@@ -569,14 +577,6 @@
     "titel": "Bundesrätin Keller-Sutter gewinnt den Bonus-Streit im Fall CS: Die Kürzungen waren laut Bundesgericht rechtmässig",
     "link": "https://www.nzz.ch/wirtschaft/das-bundesgericht-bestaetigt-die-streichung-von-boni-fuer-cs-kader-war-rechtmaessig-ld.10034840",
     "zeit": "2026-10-15T14:30:59+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Dieses Familienunternehmen zeigt vor, wie ein deutscher Industriebetrieb aus der Krise finden kann",
-    "link": "https://www.nzz.ch/wirtschaft/dieses-familienunternehmen-zeigt-vor-wie-ein-deutscher-industriebetrieb-aus-der-krise-finden-kann-ld.10034066",
-    "zeit": "2026-10-15T13:39:22+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
