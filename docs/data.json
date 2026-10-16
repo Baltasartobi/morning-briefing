@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-16T18:34:50+02:00",
+ "aktualisiert": "2026-10-16T19:06:44+02:00",
  "kernaussagen": [
   "SMI +0.29%, Nikkei 225 −4.90% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9255 (−0.58%)",
-  "Brent über 100 USD: 107.88 (+1.85%)"
+  "Franken stärker: EUR/CHF 0.9255 (−0.59%)",
+  "Brent über 100 USD: 109.44 (+3.32%)"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7692.81005859375,
+   "kurs": 7668.8701171875,
    "vortag": 7744.06005859375,
-   "veraenderung_pct": -0.6617975533793397,
+   "veraenderung_pct": -0.9709369611978991,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7805.450195,
     7718.939941,
     7744.060059,
-    7692.810059
+    7668.870117
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26328.251953125,
+   "kurs": 26227.0234375,
    "vortag": 26713.029296875,
-   "veraenderung_pct": -1.4404107429141777,
+   "veraenderung_pct": -1.8193588378681347,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27204.380859,
     26692.869141,
     26713.029297,
-    26328.251953
+    26227.023438
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9255200028419495,
+   "kurs": 0.9254999756813049,
    "vortag": 0.9309599995613098,
-   "veraenderung_pct": -0.5843426916219641,
+   "veraenderung_pct": -0.5864939291245319,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93083,
     0.93272,
     0.93096,
-    0.92552
+    0.9255
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8249199986457825,
+   "kurs": 0.8249800205230713,
    "vortag": 0.83160001039505,
-   "veraenderung_pct": -0.8032722060806963,
+   "veraenderung_pct": -0.7960545682092923,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83409,
     0.8326,
     0.8316,
-    0.82492
+    0.82498
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4188.2998046875,
+   "kurs": 4180.7998046875,
    "vortag": 4170.10009765625,
-   "veraenderung_pct": 0.4364333374510254,
+   "veraenderung_pct": 0.2565815395477733,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4177.299805,
     4107.899902,
     4170.100098,
-    4188.299805
+    4180.799805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 107.87999725341797,
+   "kurs": 109.44000244140625,
    "vortag": 105.91999816894531,
-   "veraenderung_pct": 1.8504523398370942,
+   "veraenderung_pct": 3.32326693099676,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     105.690002,
     106.059998,
     105.919998,
-    107.879997
+    109.440002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81453.75,
+   "kurs": 81145.40625,
    "vortag": 82141.4609375,
-   "veraenderung_pct": -0.8372275458105927,
+   "veraenderung_pct": -1.2126089262740058,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     83095.125,
     81562.492188,
     82141.460938,
-    81453.75
+    81145.40625
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.123,
+   "wert": 5.131,
    "vortag": 5.089,
-   "veraenderung_bp": 3.4,
+   "veraenderung_bp": 4.2,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.217,
     5.19,
     5.089,
-    5.123
+    5.131
    ]
   }
  ],
@@ -374,6 +374,38 @@
   ],
   "artikel": [
    {
+    "titel": "Here's who Netflix just brought in to run content — and what it means for the streamer",
+    "link": "https://www.cnbc.com/2026/10/16/netflix-peter-rice-chief-content-officer.html",
+    "zeit": "2026-10-16T17:02:50+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Prediction market odds on Tesla-SpaceX merger are above 50% for early 2027",
+    "link": "https://www.cnbc.com/2026/10/16/tesla-spacex-merger-odds-rise-on-kalshi.html",
+    "zeit": "2026-10-16T17:02:40+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Why Trump and the GOP's billion-dollar midterm blitz isn’t working",
+    "link": "https://www.cnbc.com/2026/10/16/republicans-midterms-spending-trump-musk-2026.html",
+    "zeit": "2026-10-16T16:53:12+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+    "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+    "zeit": "2026-10-16T16:46:18+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
     "link": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
     "zeit": "2026-10-16T16:27:44+00:00",
@@ -382,17 +414,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
-    "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
-    "zeit": "2026-10-16T16:27:31+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Why Trump and the GOP's billion-dollar midterm blitz isn’t working",
-    "link": "https://www.cnbc.com/2026/10/16/republicans-midterms-spending-trump-musk-2026.html",
-    "zeit": "2026-10-16T16:18:13+00:00",
+    "titel": "Schwab to create 'tax-aware' strategy that's been attracting billions from wealthy investors",
+    "link": "https://www.cnbc.com/2026/10/16/tax-strategies-capital-gains-wealthy-investors-schwab.html",
+    "zeit": "2026-10-16T16:21:14+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -401,14 +425,6 @@
     "titel": "Older Americans feel less of the affordability crunch. How that could affect the midterm elections",
     "link": "https://www.cnbc.com/2026/10/16/affordability-inflation-midterms.html",
     "zeit": "2026-10-16T16:12:41+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "U.S. raises Mastercard, Citigroup China market access in bilateral Bangkok talks, official says",
-    "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-    "zeit": "2026-10-16T16:11:09+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -433,22 +449,6 @@
     "titel": "Sickle cell gene therapies offer new hope, but access remains a major challenge",
     "link": "https://www.cnbc.com/2026/10/16/sickle-cell-gene-therapies-offer-new-hope-accessing-them-is-hard.html",
     "zeit": "2026-10-16T15:50:15+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Europe's answer to SpaceX rises 18% as Ukraine's Starshield limits raise concerns",
-    "link": "https://www.cnbc.com/2026/10/16/eutelsat-starshield-ukraine-spacex.html",
-    "zeit": "2026-10-16T15:45:35+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images",
-    "link": "https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html",
-    "zeit": "2026-10-16T15:44:51+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
