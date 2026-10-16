@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-16T14:39:22+02:00",
+ "aktualisiert": "2026-10-16T15:39:38+02:00",
  "kernaussagen": [
-  "SMI −0.23%, Nikkei 225 +1.39% führt",
-  "Franken stärker: EUR/CHF 0.9267 (−0.46%)",
-  "Gold +0.65% auf 4'197.10 USD/Unze · Brent über 100 USD"
+  "SMI +0.06%, Nikkei 225 +1.39% führt",
+  "Franken stärker: EUR/CHF 0.9266 (−0.47%)",
+  "Bitcoin −0.38% auf 81'830 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14316.7998046875,
+   "kurs": 14358.830078125,
    "vortag": 14349.509765625,
-   "veraenderung_pct": -0.22795176610045376,
+   "veraenderung_pct": 0.06495213183050907,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13927.519531,
     14129.929688,
     14349.509766,
-    14316.799805
+    14358.830078
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25612.080078125,
+   "kurs": 25660.33984375,
    "vortag": 25382.619140625,
-   "veraenderung_pct": 0.9040081176364678,
+   "veraenderung_pct": 1.0941372975986852,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25259.900391,
     25298.609375,
     25382.619141,
-    25612.080078
+    25660.339844
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6209.5,
+   "kurs": 6216.240234375,
    "vortag": 6168.259765625,
-   "veraenderung_pct": 0.6685878342028717,
+   "veraenderung_pct": 0.7778607025824336,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6167.009766,
     6190.370117,
     6168.259766,
-    6209.5
+    6216.240234
    ]
   },
   {
@@ -69,17 +69,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7744.06005859375,
-   "vortag": 7718.93994140625,
-   "veraenderung_pct": 0.3254348055326872,
-   "datum": "2026-10-15",
-   "ist_heute": false,
+   "kurs": 7742.0,
+   "vortag": 7744.06005859375,
+   "veraenderung_pct": -0.026601789993396796,
+   "datum": "2026-10-16",
+   "ist_heute": true,
    "verlauf": [
-    7811.540039,
     7807.240234,
     7805.450195,
     7718.939941,
-    7744.060059
+    7744.060059,
+    7742.0
    ]
   },
   {
@@ -88,17 +88,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26713.029296875,
-   "vortag": 26692.869140625,
-   "veraenderung_pct": 0.0755263742679313,
-   "datum": "2026-10-15",
-   "ist_heute": false,
+   "kurs": 26559.474609375,
+   "vortag": 26713.029296875,
+   "veraenderung_pct": -0.5748306782936252,
+   "datum": "2026-10-16",
+   "ist_heute": true,
    "verlauf": [
-    27366.169922,
     27245.900391,
     27204.380859,
     26692.869141,
-    26713.029297
+    26713.029297,
+    26559.474609
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9267200231552124,
+   "kurs": 0.9265900254249573,
    "vortag": 0.9309599995613098,
-   "veraenderung_pct": -0.4554413087668019,
+   "veraenderung_pct": -0.4694051450558345,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93083,
     0.93272,
     0.93096,
-    0.92672
+    0.92659
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8240200281143188,
+   "kurs": 0.8236799836158752,
    "vortag": 0.83160001039505,
-   "veraenderung_pct": -0.911493769357985,
+   "veraenderung_pct": -0.9523841606750794,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.83409,
     0.8326,
     0.8316,
-    0.82402
+    0.82368
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4197.10009765625,
+   "kurs": 4180.60009765625,
    "vortag": 4170.10009765625,
-   "veraenderung_pct": 0.6474664724517076,
+   "veraenderung_pct": 0.25179251706455297,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4177.299805,
     4107.899902,
     4170.100098,
-    4197.100098
+    4180.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.88999938964844,
+   "kurs": 105.66999816894531,
    "vortag": 105.91999816894531,
-   "veraenderung_pct": -0.02832211085297409,
+   "veraenderung_pct": -0.23602719441255804,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     105.690002,
     106.059998,
     105.919998,
-    105.889999
+    105.669998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82152.859375,
+   "kurs": 81829.640625,
    "vortag": 82141.4609375,
-   "veraenderung_pct": 0.013876594560047195,
+   "veraenderung_pct": -0.37961378935937873,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     83095.125,
     81562.492188,
     82141.460938,
-    82152.859375
+    81829.640625
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.104,
+   "wert": 5.129,
    "vortag": 5.089,
-   "veraenderung_bp": 1.5,
+   "veraenderung_bp": 4.0,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.217,
     5.19,
     5.089,
-    5.104
+    5.129
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 81.80999755859375,
+   "kurs": 82.19000244140625,
    "vortag": 81.06999969482422,
-   "veraenderung_pct": 0.9127887832183879,
+   "veraenderung_pct": 1.3815255344740596,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     77.300003,
     78.889999,
     81.07,
-    81.809998
+    82.190002
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 123.91999816894531,
+   "kurs": 124.33999633789062,
    "vortag": 125.9000015258789,
-   "veraenderung_pct": -1.5726793748502055,
+   "veraenderung_pct": -1.2390827395404092,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     119.300003,
     122.660004,
     125.900002,
-    123.919998
+    124.339996
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 375.0,
+   "kurs": 376.79998779296875,
    "vortag": 379.70001220703125,
-   "veraenderung_pct": -1.2378225061706272,
+   "veraenderung_pct": -0.7637672691148789,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     359.799988,
     370.899994,
     379.700012,
-    375.0
+    376.799988
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.619998931884766,
+   "kurs": 39.650001525878906,
    "vortag": 39.41999816894531,
-   "veraenderung_pct": 0.5073586307190903,
+   "veraenderung_pct": 0.5834687154166129,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     40.09,
     39.470001,
     39.419998,
-    39.619999
+    39.650002
    ]
   }
  ],
@@ -373,6 +373,30 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "Our top 10 things to watch in the stock market Friday",
+    "link": "https://www.cnbc.com/investingclub/2026/10/16/our-top-10-things-to-watch-in-the-stock-market-friday-.html",
+    "zeit": "2026-10-16T13:19:30+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "EU setzt auf Heimatschutz – «Made in Europe» – für die Schweiz kein Problem (mehr)?",
+    "link": "https://www.srf.ch/news/international/eu-setzt-auf-heimatschutz-made-in-europe-fuer-die-schweiz-kein-problem-mehr",
+    "zeit": "2026-10-16T13:00:43+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Stock fixing scandal could see Turkish companies frozen out of global indexes",
+    "link": "https://www.cnbc.com/2026/10/16/stock-fixing-turkey-msci-indonesia.html",
+    "zeit": "2026-10-16T12:58:15+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
    {
     "titel": "Fed's Warsh withholds rate signal, praises recent global tightening",
     "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
@@ -422,7 +446,7 @@
     "sprache": "de"
    },
    {
-    "titel": "Die EZB erlaubt Unicredit die Übernahme der Commerzbank. Jetzt kann es ganz schnell gehen.",
+    "titel": "Die EZB erlaubt Unicredit die Übernahme der Commerzbank. Jetzt kann es ganz schnell gehen",
     "link": "https://www.nzz.ch/wirtschaft/die-ezb-erlaubt-unicredit-die-uebernahme-der-commerzbank-jetzt-kann-es-ganz-schnell-gehen-ld.10035634",
     "zeit": "2026-10-16T11:38:46+00:00",
     "quelle": "NZZ Wirtschaft",
@@ -449,22 +473,6 @@
     "titel": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
     "link": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
     "zeit": "2026-10-16T11:02:24+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Nike's India campus is a long-term growth bet amid turnaround",
-    "link": "https://www.cnbc.com/2026/10/16/nike-india-campus-china-sales.html",
-    "zeit": "2026-10-16T11:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Norway's $2 trillion wealth fund was frozen out of major defense companies. That may be about to change",
-    "link": "https://www.cnbc.com/2026/10/16/norway-sovereign-wealth-fund-defense-investment.html",
-    "zeit": "2026-10-16T10:56:47+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -681,14 +689,6 @@
     "titel": "Prognosen des IWF – Wieso die Weltwirtschaft trotz allem wächst",
     "link": "https://www.srf.ch/news/wirtschaft/prognosen-des-iwf-wieso-die-weltwirtschaft-trotz-allem-waechst",
     "zeit": "2026-10-13T14:43:41+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Hormonchaos am Arbeitsplatz – Wie Frauen in den Wechseljahren ihre Stärken ausspielen können",
-    "link": "https://www.srf.ch/news/wirtschaft/hormonchaos-am-arbeitsplatz-wie-frauen-in-den-wechseljahren-ihre-staerken-ausspielen-koennen",
-    "zeit": "2026-10-13T13:24:50+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
