@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-16T16:33:31+02:00",
+ "aktualisiert": "2026-10-16T17:05:40+02:00",
  "kernaussagen": [
-  "SMI +0.08%, Nikkei 225 +1.39% führt",
-  "Franken stärker: EUR/CHF 0.9255 (−0.59%)",
-  "Gold +1.11% auf 4'216.40 USD/Unze"
+  "SMI +0.13%, Nikkei 225 −4.90% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9260 (−0.53%)",
+  "Gold +0.93% auf 4'208.90 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14360.8896484375,
+   "kurs": 14368.6298828125,
    "vortag": 14349.509765625,
-   "veraenderung_pct": 0.0793050285227137,
+   "veraenderung_pct": 0.13324578678850507,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     13927.519531,
     14129.929688,
     14349.509766,
-    14360.889648
+    14368.629883
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25647.390625,
+   "kurs": 25677.69921875,
    "vortag": 25382.619140625,
-   "veraenderung_pct": 1.043121211834408,
+   "veraenderung_pct": 1.1625280925116277,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25259.900391,
     25298.609375,
     25382.619141,
-    25647.390625
+    25677.699219
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6211.2001953125,
+   "kurs": 6217.990234375,
    "vortag": 6168.259765625,
-   "veraenderung_pct": 0.696151448205895,
+   "veraenderung_pct": 0.8062317515734607,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6167.009766,
     6190.370117,
     6168.259766,
-    6211.200195
+    6217.990234
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7739.4599609375,
+   "kurs": 7731.8798828125,
    "vortag": 7744.06005859375,
-   "veraenderung_pct": -0.05940162681389305,
+   "veraenderung_pct": -0.15728410793680592,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7805.450195,
     7718.939941,
     7744.060059,
-    7739.459961
+    7731.879883
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26528.419921875,
+   "kurs": 26476.087890625,
    "vortag": 26713.029296875,
-   "veraenderung_pct": -0.6910836391797681,
+   "veraenderung_pct": -0.8869881570403471,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     27204.380859,
     26692.869141,
     26713.029297,
-    26528.419922
+    26476.087891
    ]
   },
   {
@@ -107,17 +107,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 65324.2890625,
-   "vortag": 64425.94921875,
-   "veraenderung_pct": 1.3943757983290395,
-   "datum": "2026-10-16",
-   "ist_heute": true,
+   "kurs": 64425.94921875,
+   "vortag": 67744.2890625,
+   "veraenderung_pct": -4.8983314898891965,
+   "datum": "2026-10-15",
+   "ist_heute": false,
    "verlauf": [
+    69042.109375,
     69030.921875,
     67777.523438,
     67744.289062,
-    64425.949219,
-    65324.289062
+    64425.949219
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9254900217056274,
+   "kurs": 0.9259899854660034,
    "vortag": 0.9309599995613098,
-   "veraenderung_pct": -0.5875631453832519,
+   "veraenderung_pct": -0.5338590377297003,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93083,
     0.93272,
     0.93096,
-    0.92549
+    0.92599
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8222500085830688,
-   "vortag": 0.83160001039505,
-   "veraenderung_pct": -1.1243388281752753,
-   "datum": "2026-10-16",
-   "ist_heute": true,
+   "kurs": 0.83160001039505,
+   "vortag": 0.8325999975204468,
+   "veraenderung_pct": -0.12010414705437844,
+   "datum": "2026-10-15",
+   "ist_heute": false,
    "verlauf": [
+    0.83138,
     0.82995,
     0.83409,
     0.8326,
-    0.8316,
-    0.82225
+    0.8316
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4216.39990234375,
+   "kurs": 4208.89990234375,
    "vortag": 4170.10009765625,
-   "veraenderung_pct": 1.1102804154154988,
+   "veraenderung_pct": 0.9304286175122467,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4177.299805,
     4107.899902,
     4170.100098,
-    4216.399902
+    4208.899902
    ]
   },
   {
@@ -184,7 +184,19 @@
    "symbol": "BZ=F",
    "einheit": "USD/Fass",
    "dezimalen": 2,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 105.81999969482422,
+   "vortag": 105.91999816894531,
+   "veraenderung_pct": -0.09440943716935157,
+   "datum": "2026-10-16",
+   "ist_heute": true,
+   "verlauf": [
+    106.650002,
+    105.690002,
+    106.059998,
+    105.919998,
+    105.82
+   ]
   },
   {
    "name": "Bitcoin",
@@ -192,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82309.21875,
+   "kurs": 81625.46875,
    "vortag": 82141.4609375,
-   "veraenderung_pct": 0.20423037353529683,
+   "veraenderung_pct": -0.6281750794432606,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -202,7 +214,7 @@
     83095.125,
     81562.492188,
     82141.460938,
-    82309.21875
+    81625.46875
    ]
   }
  ],
@@ -245,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.085,
+   "wert": 5.1,
    "vortag": 5.089,
-   "veraenderung_bp": -0.4,
+   "veraenderung_bp": 1.1,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -255,7 +267,7 @@
     5.217,
     5.19,
     5.089,
-    5.085
+    5.1
    ]
   }
  ],
@@ -266,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 82.05999755859375,
+   "kurs": 82.02999877929688,
    "vortag": 81.06999969482422,
-   "veraenderung_pct": 1.2211642623612073,
+   "veraenderung_pct": 1.184160710603721,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -276,7 +288,7 @@
     77.300003,
     78.889999,
     81.07,
-    82.059998
+    82.029999
    ]
   },
   {
@@ -285,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 124.31999969482422,
+   "kurs": 124.4000015258789,
    "vortag": 125.9000015258789,
-   "veraenderung_pct": -1.2549656965094802,
+   "veraenderung_pct": -1.1914217488644518,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -295,7 +307,7 @@
     119.300003,
     122.660004,
     125.900002,
-    124.32
+    124.400002
    ]
   },
   {
@@ -304,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 376.8999938964844,
+   "kurs": 377.5,
    "vortag": 379.70001220703125,
-   "veraenderung_pct": -0.7374290809925355,
+   "veraenderung_pct": -0.5794079895450999,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -314,7 +326,7 @@
     359.799988,
     370.899994,
     379.700012,
-    376.899994
+    377.5
    ]
   },
   {
@@ -323,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.70000076293945,
+   "kurs": 39.7599983215332,
    "vortag": 39.41999816894531,
-   "veraenderung_pct": 0.7103059538311252,
+   "veraenderung_pct": 0.8625067691041544,
    "datum": "2026-10-16",
    "ist_heute": true,
    "verlauf": [
@@ -333,7 +345,7 @@
     40.09,
     39.470001,
     39.419998,
-    39.700001
+    39.759998
    ]
   }
  ],
@@ -362,6 +374,30 @@
   ],
   "artikel": [
    {
+    "titel": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images",
+    "link": "https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html",
+    "zeit": "2026-10-16T15:03:55+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
+    "link": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
+    "zeit": "2026-10-16T15:01:34+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Sickle cell gene therapies offer new hope, but access remains a major challenge",
+    "link": "https://www.cnbc.com/2026/10/16/sickle-cell-gene-therapies-offer-new-hope-accessing-them-is-hard.html",
+    "zeit": "2026-10-16T14:43:09+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Blue Origin plans $330 million Florida expansion to ramp New Glenn launches",
     "link": "https://www.cnbc.com/2026/10/16/blue-origin-new-glenn-florida-expansion.html",
     "zeit": "2026-10-16T14:26:05+00:00",
@@ -373,14 +409,6 @@
     "titel": "Europe's answer to SpaceX pops 19% as Ukraine's Starshield limits raise concerns",
     "link": "https://www.cnbc.com/2026/10/16/eutelsat-starshield-ukraine-spacex.html",
     "zeit": "2026-10-16T14:04:19+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "AI 'espionage' is a reality that companies need to be 'wary of,' DNI Jay Clayton says",
-    "link": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
-    "zeit": "2026-10-16T14:02:14+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -410,14 +438,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Sickle cell gene therapies offer new hope, but access remains a major challenge",
-    "link": "https://www.cnbc.com/2026/10/16/sickle-cell-gene-therapies-offer-new-hope-accessing-them-is-hard.html",
-    "zeit": "2026-10-16T13:19:09+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "EU setzt auf Heimatschutz – «Made in Europe» – für die Schweiz kein Problem (mehr)?",
     "link": "https://www.srf.ch/news/international/eu-setzt-auf-heimatschutz-made-in-europe-fuer-die-schweiz-kein-problem-mehr",
     "zeit": "2026-10-16T13:00:43+00:00",
@@ -437,14 +457,6 @@
     "titel": "Fed's Warsh withholds rate signal, praises recent global tightening",
     "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
     "zeit": "2026-10-16T12:36:00+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Phoenix Suns owner Mat Ishbia predicts team will win opening round playoff series — and the NBA season hasn't even started",
-    "link": "https://www.cnbc.com/2026/10/16/owner-mat-ishbia-says-phoenix-suns-will-win-first-round-playoff-series.html",
-    "zeit": "2026-10-16T12:24:49+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
