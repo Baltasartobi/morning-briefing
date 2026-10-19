@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-19T08:47:01+02:00",
+ "aktualisiert": "2026-10-19T09:48:23+02:00",
  "kernaussagen": [
-  "SMI +0.29%, Nasdaq −2.15% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9247 (−0.37%)",
-  "Brent über 100 USD: 107.28 (−2.35%)"
+  "SMI −0.41%, Nasdaq −2.15% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9245 (−0.40%)",
+  "Brent über 100 USD: 106.98 (−2.62%)"
  ],
  "maerkte": [
   {
@@ -12,17 +12,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14391.3095703125,
-   "vortag": 14349.509765625,
-   "veraenderung_pct": 0.2912977890550117,
-   "datum": "2026-10-16",
-   "ist_heute": false,
+   "kurs": 14332.2900390625,
+   "vortag": 14391.3095703125,
+   "veraenderung_pct": -0.41010535533020365,
+   "datum": "2026-10-19",
+   "ist_heute": true,
    "verlauf": [
-    13877.839844,
     13927.519531,
     14129.929688,
     14349.509766,
-    14391.30957
+    14391.30957,
+    14332.290039
    ]
   },
   {
@@ -31,17 +31,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25622.609375,
-   "vortag": 25382.619140625,
-   "veraenderung_pct": 0.9454904280972842,
-   "datum": "2026-10-16",
-   "ist_heute": false,
+   "kurs": 25445.419921875,
+   "vortag": 25622.609375,
+   "veraenderung_pct": -0.6915355517923327,
+   "datum": "2026-10-19",
+   "ist_heute": true,
    "verlauf": [
-    25277.679688,
     25259.900391,
     25298.609375,
     25382.619141,
-    25622.609375
+    25622.609375,
+    25445.419922
    ]
   },
   {
@@ -50,17 +50,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6204.22998046875,
-   "vortag": 6168.259765625,
-   "veraenderung_pct": 0.5831501300286979,
-   "datum": "2026-10-16",
-   "ist_heute": false,
+   "kurs": 6161.06005859375,
+   "vortag": 6204.22998046875,
+   "veraenderung_pct": -0.6958143397472583,
+   "datum": "2026-10-19",
+   "ist_heute": true,
    "verlauf": [
-    6201.209961,
     6167.009766,
     6190.370117,
     6168.259766,
-    6204.22998
+    6204.22998,
+    6161.060059
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9246799945831299,
+   "kurs": 0.9244599938392639,
    "vortag": 0.9281299710273743,
-   "veraenderung_pct": -0.37171264283444305,
+   "veraenderung_pct": -0.3954162997287902,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93272,
     0.93096,
     0.92813,
-    0.92468
+    0.92446
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8240699768066406,
+   "kurs": 0.824720025062561,
    "vortag": 0.827750027179718,
-   "veraenderung_pct": -0.44458474808100057,
+   "veraenderung_pct": -0.3660527958519899,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8326,
     0.8316,
     0.82775,
-    0.82407
+    0.82472
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4194.7998046875,
+   "kurs": 4205.7001953125,
    "vortag": 4181.10009765625,
-   "veraenderung_pct": 0.3276579539181368,
+   "veraenderung_pct": 0.5883642362458641,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4107.899902,
     4170.100098,
     4181.100098,
-    4194.799805
+    4205.700195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 107.27999877929688,
+   "kurs": 106.9800033569336,
    "vortag": 109.86000061035156,
-   "veraenderung_pct": -2.348445127180876,
+   "veraenderung_pct": -2.6215157813740286,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.059998,
     105.919998,
     109.860001,
-    107.279999
+    106.980003
    ]
   },
   {
@@ -204,17 +204,17 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82731.2421875,
-   "vortag": 81382.1484375,
-   "veraenderung_pct": 1.657726879791177,
+   "kurs": 82643.5,
+   "vortag": 82017.6015625,
+   "veraenderung_pct": 0.7631269697920162,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
-    81562.492188,
     82141.460938,
     81500.804688,
     81382.148438,
-    82731.242188
+    82017.601562,
+    82643.5
    ]
   }
  ],
@@ -278,17 +278,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 82.43000030517578,
-   "vortag": 81.06999969482422,
-   "veraenderung_pct": 1.6775633594067862,
-   "datum": "2026-10-16",
-   "ist_heute": false,
+   "kurs": 82.0999984741211,
+   "vortag": 82.43000030517578,
+   "veraenderung_pct": -0.40034190201739817,
+   "datum": "2026-10-19",
+   "ist_heute": true,
    "verlauf": [
-    76.379997,
     77.300003,
     78.889999,
     81.07,
-    82.43
+    82.43,
+    82.099998
    ]
   },
   {
@@ -297,17 +297,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 124.69999694824219,
-   "vortag": 125.9000015258789,
-   "veraenderung_pct": -0.953141035022198,
-   "datum": "2026-10-16",
-   "ist_heute": false,
+   "kurs": 124.77999877929688,
+   "vortag": 124.69999694824219,
+   "veraenderung_pct": 0.06415543946476365,
+   "datum": "2026-10-19",
+   "ist_heute": true,
    "verlauf": [
-    119.959999,
     119.300003,
     122.660004,
     125.900002,
-    124.699997
+    124.699997,
+    124.779999
    ]
   },
   {
@@ -316,17 +316,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 379.20001220703125,
-   "vortag": 379.70001220703125,
-   "veraenderung_pct": -0.13168290332510324,
-   "datum": "2026-10-16",
-   "ist_heute": false,
+   "kurs": 378.0,
+   "vortag": 379.20001220703125,
+   "veraenderung_pct": -0.31645890516904807,
+   "datum": "2026-10-19",
+   "ist_heute": true,
    "verlauf": [
-    360.0,
     359.799988,
     370.899994,
     379.700012,
-    379.200012
+    379.200012,
+    378.0
    ]
   },
   {
@@ -335,17 +335,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.630001068115234,
-   "vortag": 39.41999816894531,
-   "veraenderung_pct": 0.5327318846386042,
-   "datum": "2026-10-16",
-   "ist_heute": false,
+   "kurs": 38.95000076293945,
+   "vortag": 39.630001068115234,
+   "veraenderung_pct": -1.7158725380981177,
+   "datum": "2026-10-19",
+   "ist_heute": true,
    "verlauf": [
-    40.009998,
     40.09,
     39.470001,
     39.419998,
-    39.630001
+    39.630001,
+    38.950001
    ]
   }
  ],
@@ -438,6 +438,14 @@
     "sprache": "en"
    },
    {
+    "titel": "Christian Staub präsidiert Bank in Deutschland",
+    "link": "https://www.finews.ch/news/banken/74032-fidelity-fil-fondsbank-frankfurt-christian-staub-aufsichtsratsvorsitzender-rentenreform",
+    "zeit": "2026-10-19T03:53:24+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "«Wirtschaftlich inaktiv»: Immer mehr Briten scheiden aus dem Arbeitsleben aus, und die sozialen Kosten explodieren",
     "link": "https://www.nzz.ch/wirtschaft/wirtschaftlich-inaktiv-immer-mehr-briten-scheiden-aus-dem-arbeitsleben-aus-und-die-sozialen-kosten-explodieren-ld.10033949",
     "zeit": "2026-10-19T03:31:00+00:00",
@@ -516,6 +524,14 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "ETFs: Der Preiskampf erreicht eine neue Dimension",
+    "link": "https://www.finews.ch/news/finanzplatz/74030-etf-preiskampf-gebuehren-anbieter-vertrieb-asset-management",
+    "zeit": "2026-10-19T02:35:09+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "China's CXMT sees shares drop over 6% as investors look past chipmaker's profit turnaround",
@@ -673,22 +689,6 @@
     "titel": "Angelo Accardi: «Wir wachsen, indem wir Marktanteile gewinnen»",
     "link": "https://www.finews.ch/news/finanzplatz/74014-angelo-accardi-forvismazars-big4-revisionswesen-wirtschaftspruefung-akquisitionen-unternehmensberatung",
     "zeit": "2026-10-15T12:30:01+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Zwei Wealth beruft neuen Partner",
-    "link": "https://www.finews.ch/news/finanzplatz/74013-zwei-wealth-neuer-partner-zwei-wealth",
-    "zeit": "2026-10-15T12:17:09+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Stefan Walter widmet sich der Vermögensverwaltung und setzt neuen Akzent",
-    "link": "https://www.finews.ch/news/finanzplatz/74012-stefan-walter-direktor-finma-vermoegensverwaltungsgeschaeft-aufsichtsmitteilung-wettbewerbsfaehigkeit",
-    "zeit": "2026-10-15T11:09:24+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
