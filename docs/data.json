@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-19T07:10:50+02:00",
+ "aktualisiert": "2026-10-19T08:04:01+02:00",
  "kernaussagen": [
   "SMI +0.29%, Nasdaq −2.15% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9255 (−0.28%)",
-  "Brent über 100 USD: 107.78 (−1.89%)"
+  "Franken stärker: EUR/CHF 0.9281 (−0.30%)",
+  "Brent über 100 USD: 107.82 (−1.86%)"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 64887.94921875,
+   "kurs": 64896.078125,
    "vortag": 65324.2890625,
-   "veraenderung_pct": -0.6679595752393519,
+   "veraenderung_pct": -0.6555156491489744,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     67744.289062,
     64425.949219,
     65324.289062,
-    64887.949219
+    64896.078125
    ]
   }
  ],
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9255200028419495,
-   "vortag": 0.9281299710273743,
-   "veraenderung_pct": -0.2812071872364763,
-   "datum": "2026-10-19",
-   "ist_heute": true,
+   "kurs": 0.9281299710273743,
+   "vortag": 0.9309599995613098,
+   "veraenderung_pct": -0.3039903470900107,
+   "datum": "2026-10-16",
+   "ist_heute": false,
    "verlauf": [
+    0.92988,
     0.93083,
     0.93272,
     0.93096,
-    0.92813,
-    0.92552
+    0.92813
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8244699835777283,
+   "kurs": 0.8241299986839294,
    "vortag": 0.827750027179718,
-   "veraenderung_pct": -0.3962601624025841,
+   "veraenderung_pct": -0.4373335399483591,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8326,
     0.8316,
     0.82775,
-    0.82447
+    0.82413
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4203.89990234375,
+   "kurs": 4203.5,
    "vortag": 4181.10009765625,
-   "veraenderung_pct": 0.5453063584935691,
+   "veraenderung_pct": 0.5357418339806408,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4107.899902,
     4170.100098,
     4181.100098,
-    4203.899902
+    4203.5
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 107.77999877929688,
+   "kurs": 107.81999969482422,
    "vortag": 109.86000061035156,
-   "veraenderung_pct": -1.89332042554049,
+   "veraenderung_pct": -1.856909616051039,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.059998,
     105.919998,
     109.860001,
-    107.779999
+    107.82
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82580.0703125,
+   "kurs": 82698.453125,
    "vortag": 81382.1484375,
-   "veraenderung_pct": 1.471971308204023,
+   "veraenderung_pct": 1.6174366403104878,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82141.460938,
     81500.804688,
     81382.148438,
-    82580.070312
+    82698.453125
    ]
   }
  ],
@@ -374,6 +374,38 @@
   ],
   "artikel": [
    {
+    "titel": "Lindt-Chef Adalbert Lechner muss per sofort gehen",
+    "link": "https://www.nzz.ch/wirtschaft/lindt-chef-adalbert-lechner-muss-per-sofort-gehen-ld.10037970",
+    "zeit": "2026-10-19T06:00:38+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "MELDUNGEN WIRTSCHAFT - Lindt-Chef Adalbert Lechner muss per sofort gehen",
+    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
+    "zeit": "2026-10-19T05:50:56+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Entscheid des Verwaltungsrats – Lindt-Chef Lechner muss per sofort gehen",
+    "link": "https://www.srf.ch/news/wirtschaft/entscheid-des-verwaltungsrats-lindt-chef-lechner-muss-per-sofort-gehen",
+    "zeit": "2026-10-19T05:42:20+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates",
+    "link": "https://www.cnbc.com/2026/10/19/takaichi-weak-yen-jgb-yields.html",
+    "zeit": "2026-10-19T05:29:51+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "India’s Finance Minister says easy exits and excess liquidity fuel equity market's underperformance",
     "link": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
     "zeit": "2026-10-19T04:46:26+00:00",
@@ -462,6 +494,14 @@
     "sprache": "en"
    },
    {
+    "titel": "Julius Bär rekrutiert Personalchefin aus internationalem Konsumgüterunternehmen",
+    "link": "https://www.finews.ch/news/banken/74031-juliusbaer-francis-hoefman-hr-personalchefin-reckitt",
+    "zeit": "2026-10-19T03:18:04+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Indonesian stocks plunge to six-year low as MSCI downgrade fears mount",
     "link": "https://www.cnbc.com/2026/10/19/indonesian-stocks-msci-downgrade-fears-mount.html",
     "zeit": "2026-10-19T03:00:33+00:00",
@@ -526,34 +566,10 @@
     "sprache": "en"
    },
    {
-    "titel": "Roth conversions: When the ‘juice isn't really worth the squeeze,’ according to a top-ranked advisor",
-    "link": "https://www.cnbc.com/2026/10/18/roth-conversion-2026.html",
-    "zeit": "2026-10-18T13:30:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Abstimmung vom 29. November – Wie (un)sozial ist die Mehrwertsteuer?",
     "link": "https://www.srf.ch/news/wirtschaft/abstimmung-vom-29-november-wie-un-sozial-ist-die-mehrwertsteuer",
     "zeit": "2026-10-18T05:27:26+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Ein fliegender Raketen-Tesla: Warum Elon Musks neuste Ankündigung ein genialer Marketing-Gag ist",
-    "link": "https://www.nzz.ch/wirtschaft/ein-fliegender-raketen-tesla-warum-elon-musks-neuste-ankuendigung-ein-genialer-marketing-gag-ist-ld.10034909",
-    "zeit": "2026-10-18T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Laisser-faire war einmal: Der Hang zum Wohlfahrtsstaat erfasst auch die Schweiz",
-    "link": "https://www.nzz.ch/wirtschaft/laisser-faire-war-einmal-der-hang-zum-wohlfahrtsstaat-erfasst-auch-die-schweiz-ld.10033799",
-    "zeit": "2026-10-18T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -662,14 +678,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Mehr tanken als nötig – Das ist bekannt zur Kerosinknappheit am Frankfurter Flughafen",
-    "link": "https://www.srf.ch/news/wirtschaft/mehr-tanken-als-noetig-das-ist-bekannt-zur-kerosinknappheit-am-frankfurter-flughafen",
-    "zeit": "2026-10-15T12:23:44+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Zwei Wealth beruft neuen Partner",
     "link": "https://www.finews.ch/news/finanzplatz/74013-zwei-wealth-neuer-partner-zwei-wealth",
     "zeit": "2026-10-15T12:17:09+00:00",
@@ -681,14 +689,6 @@
     "titel": "Stefan Walter widmet sich der Vermögensverwaltung und setzt neuen Akzent",
     "link": "https://www.finews.ch/news/finanzplatz/74012-stefan-walter-direktor-finma-vermoegensverwaltungsgeschaeft-aufsichtsmitteilung-wettbewerbsfaehigkeit",
     "zeit": "2026-10-15T11:09:24+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Sven Holstenson: «Technologie wird zum entscheidenden Erfolgsfaktor»",
-    "link": "https://www.finews.ch/news/banken/74011-interview-sven-holstenson-pictet-technologie-beratung-privat-assets",
-    "zeit": "2026-10-15T11:08:40+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
