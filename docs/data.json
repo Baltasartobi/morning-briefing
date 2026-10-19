@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-19T10:39:12+02:00",
+ "aktualisiert": "2026-10-19T11:36:10+02:00",
  "kernaussagen": [
   "SMI −0.44%, Nasdaq −2.15% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9244 (−0.40%)",
-  "Brent über 100 USD: 107.18 (−2.44%)"
+  "Franken stärker: EUR/CHF 0.9247 (−0.37%)",
+  "Brent über 100 USD: 108.40 (−1.33%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14327.509765625,
+   "kurs": 14328.25,
    "vortag": 14391.3095703125,
-   "veraenderung_pct": -0.4433217448057025,
+   "veraenderung_pct": -0.43817812412696444,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14129.929688,
     14349.509766,
     14391.30957,
-    14327.509766
+    14328.25
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25357.26953125,
+   "kurs": 25356.029296875,
    "vortag": 25622.609375,
-   "veraenderung_pct": -1.0355691720020266,
+   "veraenderung_pct": -1.0404095625994425,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25298.609375,
     25382.619141,
     25622.609375,
-    25357.269531
+    25356.029297
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6147.419921875,
+   "kurs": 6145.0498046875,
    "vortag": 6204.22998046875,
-   "veraenderung_pct": -0.9156665496377614,
+   "veraenderung_pct": -0.9538681829582729,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6190.370117,
     6168.259766,
     6204.22998,
-    6147.419922
+    6145.049805
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9244199991226196,
+   "kurs": 0.9246600270271301,
    "vortag": 0.9281299710273743,
-   "veraenderung_pct": -0.39972547170823436,
+   "veraenderung_pct": -0.3738640178167274,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93272,
     0.93096,
     0.92813,
-    0.92442
+    0.92466
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.827750027179718,
-   "vortag": 0.83160001039505,
-   "veraenderung_pct": -0.4629609388175804,
-   "datum": "2026-10-16",
-   "ist_heute": false,
+   "kurs": 0.8246099948883057,
+   "vortag": 0.827750027179718,
+   "veraenderung_pct": -0.37934547729475687,
+   "datum": "2026-10-19",
+   "ist_heute": true,
    "verlauf": [
-    0.82995,
     0.83409,
     0.8326,
     0.8316,
-    0.82775
+    0.82775,
+    0.82461
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4197.7998046875,
+   "kurs": 4190.0,
    "vortag": 4181.10009765625,
-   "veraenderung_pct": 0.39940940520919455,
+   "veraenderung_pct": 0.212860303170892,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4107.899902,
     4170.100098,
     4181.100098,
-    4197.799805
+    4190.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 107.18000030517578,
+   "kurs": 108.4000015258789,
    "vortag": 109.86000061035156,
-   "veraenderung_pct": -2.4394686785785935,
+   "veraenderung_pct": -1.3289632954317399,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.059998,
     105.919998,
     109.860001,
-    107.18
+    108.400002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82833.8203125,
+   "kurs": 82975.796875,
    "vortag": 82017.6015625,
-   "veraenderung_pct": 0.9951751019907862,
+   "veraenderung_pct": 1.1682800938403792,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81500.804688,
     81382.148438,
     82017.601562,
-    82833.820312
+    82975.796875
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 82.30000305175781,
+   "kurs": 82.26000213623047,
    "vortag": 82.43000030517578,
-   "veraenderung_pct": -0.1577062391564854,
+   "veraenderung_pct": -0.20623337172865908,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     78.889999,
     81.07,
     82.43,
-    82.300003
+    82.260002
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 124.58000183105469,
+   "kurs": 124.63999938964844,
    "vortag": 124.69999694824219,
-   "veraenderung_pct": -0.09622704099768731,
+   "veraenderung_pct": -0.048113520498849205,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     122.660004,
     125.900002,
     124.699997,
-    124.580002
+    124.639999
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 377.6000061035156,
+   "kurs": 378.8999938964844,
    "vortag": 379.20001220703125,
-   "veraenderung_pct": -0.42194252426397405,
+   "veraenderung_pct": -0.07911875023439707,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     370.899994,
     379.700012,
     379.200012,
-    377.600006
+    378.899994
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.95000076293945,
+   "kurs": 38.86000061035156,
    "vortag": 39.630001068115234,
-   "veraenderung_pct": -1.7158725380981177,
+   "veraenderung_pct": -1.94297359831056,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.470001,
     39.419998,
     39.630001,
-    38.950001
+    38.860001
    ]
   }
  ],
@@ -374,9 +374,33 @@
   ],
   "artikel": [
    {
-    "titel": "Lindt-Chef Adalbert Lechner muss per sofort gehen",
+    "titel": "Elon Musk says he'll give a SpaceX share to every child in America next year",
+    "link": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
+    "zeit": "2026-10-19T09:14:30+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall",
+    "link": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html",
+    "zeit": "2026-10-19T09:07:09+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
+    "link": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
+    "zeit": "2026-10-19T09:05:41+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Lindt-Chef Adalbert Lechner muss per sofort gehen – seine Position übernimmt vorerst ein Lindt-Urgestein",
     "link": "https://www.nzz.ch/wirtschaft/lindt-chef-adalbert-lechner-muss-per-sofort-gehen-ld.10037970",
-    "zeit": "2026-10-19T08:32:43+00:00",
+    "zeit": "2026-10-19T08:50:31+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
@@ -385,6 +409,14 @@
     "titel": "India’s finance minister says market liquidity makes it easier for investors to exit",
     "link": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
     "zeit": "2026-10-19T08:23:33+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "In pictures: More than 500,000 took to the streets as France protests erupted into violence",
+    "link": "https://www.cnbc.com/2026/10/19/france-protests-paris-violence-pictures.html",
+    "zeit": "2026-10-19T08:10:26+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -414,6 +446,14 @@
     "sprache": "en"
    },
    {
+    "titel": "Der «Röstigraben» beim Anlegen lässt sich nur teilweise erklären",
+    "link": "https://www.finews.ch/news/banken/74038-umfrage-deutschschweiz-besitzen-58-prozent-der-bevoelkerung-wertschriften-westschweiz-37-prozent-hochschule-luzern-einkommen-und-vermoegen-unterschied-nur-teilweise-erklaeren-finanzwissen-risikobereitschaft",
+    "zeit": "2026-10-19T06:01:52+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "MELDUNGEN WIRTSCHAFT - Hohe Investitionen in KI geplant – Friedrich Merz will mit Chipshersteller Nvidia zusammenarbeiten",
     "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
     "zeit": "2026-10-19T05:50:56+00:00",
@@ -441,14 +481,6 @@
     "titel": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
     "link": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
     "zeit": "2026-10-19T04:36:39+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine",
-    "link": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
-    "zeit": "2026-10-19T03:56:03+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -518,14 +550,6 @@
     "sprache": "de"
    },
    {
-    "titel": "France hit by worst unrest in years as attempts to rein in government spending meet citizen ire",
-    "link": "https://www.cnbc.com/2026/10/19/france-protests-worst-in-years-unrest-macron-.html",
-    "zeit": "2026-10-19T03:18:51+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Julius Bär rekrutiert Personalchefin aus internationalem Konsumgüterunternehmen",
     "link": "https://www.finews.ch/news/banken/74031-juliusbaer-francis-hoefman-hr-personalchefin-reckitt",
     "zeit": "2026-10-19T03:18:04+00:00",
@@ -550,14 +574,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Why I am taking the other side of the trade that crushed the market Friday",
-    "link": "https://www.cnbc.com/investingclub/2026/10/18/jim-cramer-why-i-am-taking-the-other-side-of-the-trade-that-crushed-the-market-friday.html",
-    "zeit": "2026-10-18T22:23:08+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Switcher-Mode – Wie nachhaltig kann Mode sein?",
     "link": "https://www.srf.ch/news/wirtschaft/switcher-mode-wie-nachhaltig-kann-mode-sein",
     "zeit": "2026-10-18T17:45:37+00:00",
@@ -580,14 +596,6 @@
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "The bloated workweek is coming for Sundays—as some embrace flexibility, others worry about job security",
-    "link": "https://www.cnbc.com/make-it/2026/10/18/why-people-are-working-sundays.html",
-    "zeit": "2026-10-18T14:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Abstimmung vom 29. November – Wie (un)sozial ist die Mehrwertsteuer?",
@@ -673,14 +681,6 @@
     "titel": "Unicredit: EZB gibt grünes Licht für Übernahme von Commerzbank-Anteilen",
     "link": "https://www.finews.ch/news/banken/74019-unicredit-commerzbank-genehmigung-ezb-bankenaufsicht",
     "zeit": "2026-10-16T04:38:13+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "London hat um UBS-Hauptsitz geweibelt",
-    "link": "https://www.finews.ch/news/banken/74018-ubs-hauptsitz-london-britische-regierung-gespraeche-reeves",
-    "zeit": "2026-10-16T04:14:53+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
