@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-19T09:48:23+02:00",
+ "aktualisiert": "2026-10-19T10:39:12+02:00",
  "kernaussagen": [
-  "SMI −0.41%, Nasdaq −2.15% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9245 (−0.40%)",
-  "Brent über 100 USD: 106.98 (−2.62%)"
+  "SMI −0.44%, Nasdaq −2.15% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9244 (−0.40%)",
+  "Brent über 100 USD: 107.18 (−2.44%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14332.2900390625,
+   "kurs": 14327.509765625,
    "vortag": 14391.3095703125,
-   "veraenderung_pct": -0.41010535533020365,
+   "veraenderung_pct": -0.4433217448057025,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14129.929688,
     14349.509766,
     14391.30957,
-    14332.290039
+    14327.509766
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25445.419921875,
+   "kurs": 25357.26953125,
    "vortag": 25622.609375,
-   "veraenderung_pct": -0.6915355517923327,
+   "veraenderung_pct": -1.0355691720020266,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25298.609375,
     25382.619141,
     25622.609375,
-    25445.419922
+    25357.269531
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6161.06005859375,
+   "kurs": 6147.419921875,
    "vortag": 6204.22998046875,
-   "veraenderung_pct": -0.6958143397472583,
+   "veraenderung_pct": -0.9156665496377614,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6190.370117,
     6168.259766,
     6204.22998,
-    6161.060059
+    6147.419922
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9244599938392639,
+   "kurs": 0.9244199991226196,
    "vortag": 0.9281299710273743,
-   "veraenderung_pct": -0.3954162997287902,
+   "veraenderung_pct": -0.39972547170823436,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93272,
     0.93096,
     0.92813,
-    0.92446
+    0.92442
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.824720025062561,
-   "vortag": 0.827750027179718,
-   "veraenderung_pct": -0.3660527958519899,
-   "datum": "2026-10-19",
-   "ist_heute": true,
+   "kurs": 0.827750027179718,
+   "vortag": 0.83160001039505,
+   "veraenderung_pct": -0.4629609388175804,
+   "datum": "2026-10-16",
+   "ist_heute": false,
    "verlauf": [
+    0.82995,
     0.83409,
     0.8326,
     0.8316,
-    0.82775,
-    0.82472
+    0.82775
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4205.7001953125,
+   "kurs": 4197.7998046875,
    "vortag": 4181.10009765625,
-   "veraenderung_pct": 0.5883642362458641,
+   "veraenderung_pct": 0.39940940520919455,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4107.899902,
     4170.100098,
     4181.100098,
-    4205.700195
+    4197.799805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 106.9800033569336,
+   "kurs": 107.18000030517578,
    "vortag": 109.86000061035156,
-   "veraenderung_pct": -2.6215157813740286,
+   "veraenderung_pct": -2.4394686785785935,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.059998,
     105.919998,
     109.860001,
-    106.980003
+    107.18
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82643.5,
+   "kurs": 82833.8203125,
    "vortag": 82017.6015625,
-   "veraenderung_pct": 0.7631269697920162,
+   "veraenderung_pct": 0.9951751019907862,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81500.804688,
     81382.148438,
     82017.601562,
-    82643.5
+    82833.820312
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 82.0999984741211,
+   "kurs": 82.30000305175781,
    "vortag": 82.43000030517578,
-   "veraenderung_pct": -0.40034190201739817,
+   "veraenderung_pct": -0.1577062391564854,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     78.889999,
     81.07,
     82.43,
-    82.099998
+    82.300003
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 124.77999877929688,
+   "kurs": 124.58000183105469,
    "vortag": 124.69999694824219,
-   "veraenderung_pct": 0.06415543946476365,
+   "veraenderung_pct": -0.09622704099768731,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     122.660004,
     125.900002,
     124.699997,
-    124.779999
+    124.580002
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 378.0,
+   "kurs": 377.6000061035156,
    "vortag": 379.20001220703125,
-   "veraenderung_pct": -0.31645890516904807,
+   "veraenderung_pct": -0.42194252426397405,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     370.899994,
     379.700012,
     379.200012,
-    378.0
+    377.600006
    ]
   },
   {
@@ -374,6 +374,30 @@
   ],
   "artikel": [
    {
+    "titel": "Lindt-Chef Adalbert Lechner muss per sofort gehen",
+    "link": "https://www.nzz.ch/wirtschaft/lindt-chef-adalbert-lechner-muss-per-sofort-gehen-ld.10037970",
+    "zeit": "2026-10-19T08:32:43+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "India’s finance minister says market liquidity makes it easier for investors to exit",
+    "link": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
+    "zeit": "2026-10-19T08:23:33+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "China's CXMT shares fall nearly 8% as investors look past chipmaker's profit turnaround",
+    "link": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
+    "zeit": "2026-10-19T07:48:53+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Entscheid des Verwaltungsrats – Lindt-Chef Lechner muss per sofort gehen",
     "link": "https://www.srf.ch/news/wirtschaft/entscheid-des-verwaltungsrats-lindt-chef-lechner-muss-per-sofort-gehen",
     "zeit": "2026-10-19T06:27:42+00:00",
@@ -388,14 +412,6 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
-   },
-   {
-    "titel": "Lindt-Chef Adalbert Lechner muss per sofort gehen",
-    "link": "https://www.nzz.ch/wirtschaft/lindt-chef-adalbert-lechner-muss-per-sofort-gehen-ld.10037970",
-    "zeit": "2026-10-19T06:00:38+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
    },
    {
     "titel": "MELDUNGEN WIRTSCHAFT - Hohe Investitionen in KI geplant – Friedrich Merz will mit Chipshersteller Nvidia zusammenarbeiten",
@@ -414,12 +430,12 @@
     "sprache": "en"
    },
    {
-    "titel": "India’s Finance Minister says easy exits and excess liquidity fuel equity market's underperformance",
-    "link": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
-    "zeit": "2026-10-19T04:46:26+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "El Niño und Iran-Krieg: Agrarrohstoffe drohen zum nächsten Preistreiber zu werden",
+    "link": "https://www.finews.ch/news/finanzplatz/74036-el-nino-wetterphaenomen-iran-krieg-preise-fuer-wichtige-agrarrohstoffe-deutlich-veraendern-zucker-kaffee-und-mais-wisdomtree",
+    "zeit": "2026-10-19T05:14:03+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
@@ -532,14 +548,6 @@
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "China's CXMT sees shares drop over 6% as investors look past chipmaker's profit turnaround",
-    "link": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
-    "zeit": "2026-10-19T01:56:34+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Why I am taking the other side of the trade that crushed the market Friday",
@@ -682,14 +690,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/bundesgericht-zu-cs-boni-die-cs-manager-haben-versagt-darum-werden-sie-nicht-belohnt",
     "zeit": "2026-10-15T12:56:30+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Angelo Accardi: «Wir wachsen, indem wir Marktanteile gewinnen»",
-    "link": "https://www.finews.ch/news/finanzplatz/74014-angelo-accardi-forvismazars-big4-revisionswesen-wirtschaftspruefung-akquisitionen-unternehmensberatung",
-    "zeit": "2026-10-15T12:30:01+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    }
