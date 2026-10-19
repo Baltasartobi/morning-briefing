@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-19T14:06:32+02:00",
+ "aktualisiert": "2026-10-19T15:19:47+02:00",
  "kernaussagen": [
-  "SMI −0.45%, Nasdaq −2.15% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9262 (−0.21%)",
-  "Brent über 100 USD: 108.35 (−1.37%)"
+  "SMI −0.60%, Nasdaq −2.15% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9256 (−0.28%)",
+  "Brent über 100 USD: 107.92 (−1.77%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14326.73046875,
+   "kurs": 14305.4501953125,
    "vortag": 14391.3095703125,
-   "veraenderung_pct": -0.448736796654825,
+   "veraenderung_pct": -0.5966057124996982,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14129.929688,
     14349.509766,
     14391.30957,
-    14326.730469
+    14305.450195
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25290.0390625,
+   "kurs": 25258.810546875,
    "vortag": 25622.609375,
-   "veraenderung_pct": -1.2979564556937273,
+   "veraenderung_pct": -1.4198352041379425,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25298.609375,
     25382.619141,
     25622.609375,
-    25290.039062
+    25258.810547
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6129.39990234375,
+   "kurs": 6121.06982421875,
    "vortag": 6204.22998046875,
-   "veraenderung_pct": -1.2061138668387428,
+   "veraenderung_pct": -1.3403783630167254,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6190.370117,
     6168.259766,
     6204.22998,
-    6129.399902
+    6121.069824
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9261699914932251,
+   "kurs": 0.925570011138916,
    "vortag": 0.9281299710273743,
-   "veraenderung_pct": -0.21117511505199804,
+   "veraenderung_pct": -0.2758191167584578,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93272,
     0.93096,
     0.92813,
-    0.92617
+    0.92557
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.824999988079071,
+   "kurs": 0.8245700001716614,
    "vortag": 0.827750027179718,
-   "veraenderung_pct": -0.33223062643885637,
+   "veraenderung_pct": -0.3841772157823442,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8326,
     0.8316,
     0.82775,
-    0.825
+    0.82457
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4185.7001953125,
+   "kurs": 4184.39990234375,
    "vortag": 4181.10009765625,
-   "veraenderung_pct": 0.1100212276388346,
+   "veraenderung_pct": 0.07892192510170482,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4107.899902,
     4170.100098,
     4181.100098,
-    4185.700195
+    4184.399902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 108.3499984741211,
+   "kurs": 107.91999816894531,
    "vortag": 109.86000061035156,
-   "veraenderung_pct": -1.3744785434565032,
+   "veraenderung_pct": -1.7658860646533214,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.059998,
     105.919998,
     109.860001,
-    108.349998
+    107.919998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82328.796875,
+   "kurs": 82505.59375,
    "vortag": 82017.6015625,
-   "veraenderung_pct": 0.37942503386039217,
+   "veraenderung_pct": 0.5949847084081528,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81500.804688,
     81382.148438,
     82017.601562,
-    82328.796875
+    82505.59375
    ]
   }
  ],
@@ -258,15 +258,15 @@
    "quelle": "yahoo",
    "verfuegbar": true,
    "wert": 5.098,
-   "vortag": 5.089,
-   "veraenderung_bp": 0.9,
-   "datum": "2026-10-16",
-   "ist_heute": false,
+   "vortag": 5.098,
+   "veraenderung_bp": 0.0,
+   "datum": "2026-10-19",
+   "ist_heute": true,
    "verlauf": [
-    5.24,
     5.217,
     5.19,
     5.089,
+    5.098,
     5.098
    ]
   }
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 82.08999633789062,
+   "kurs": 81.97000122070312,
    "vortag": 82.43000030517578,
-   "veraenderung_pct": -0.412475999061479,
+   "veraenderung_pct": -0.5580481411738836,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     78.889999,
     81.07,
     82.43,
-    82.089996
+    81.970001
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 124.4000015258789,
+   "kurs": 123.91999816894531,
    "vortag": 124.69999694824219,
-   "veraenderung_pct": -0.2405737206936709,
+   "veraenderung_pct": -0.6255002392827835,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     122.660004,
     125.900002,
     124.699997,
-    124.400002
+    123.919998
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 378.79998779296875,
+   "kurs": 378.29998779296875,
    "vortag": 379.20001220703125,
-   "veraenderung_pct": -0.1054916669791961,
+   "veraenderung_pct": -0.2373482028189211,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     370.899994,
     379.700012,
     379.200012,
-    378.799988
+    378.299988
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.93000030517578,
+   "kurs": 38.86000061035156,
    "vortag": 39.630001068115234,
-   "veraenderung_pct": -1.7663405098988116,
+   "veraenderung_pct": -1.94297359831056,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.470001,
     39.419998,
     39.630001,
-    38.93
+    38.860001
    ]
   }
  ],
@@ -376,7 +376,63 @@
    {
     "titel": "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall",
     "link": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html",
-    "zeit": "2026-10-19T11:22:47+00:00",
+    "zeit": "2026-10-19T12:59:13+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Boomers are buying into the promise of monthly income from options ETFs, but there's a tax catch",
+    "link": "https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html",
+    "zeit": "2026-10-19T12:58:03+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "MELDUNGEN WIRTSCHAFT - Roche stellt Investitionen in Deutschland auf Prüfstand – hohe Investitionen in KI geplant",
+    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
+    "zeit": "2026-10-19T12:51:15+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
+    "link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
+    "zeit": "2026-10-19T12:34:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
+    "link": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
+    "zeit": "2026-10-19T12:33:07+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Wirtschaft der zwei Geschwindigkeiten: Chinas Exporte gehen durch die Decke, die Konsumenten üben Zurückhaltung",
+    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-der-zwei-geschwindigkeiten-chinas-exporte-gehen-durch-die-decke-die-konsumenten-ueben-zurueckhaltung-ld.10038021",
+    "zeit": "2026-10-19T12:29:29+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Elon Musk says he'll give a SpaceX share to every child in America next year",
+    "link": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
+    "zeit": "2026-10-19T12:07:51+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Google says it can build data centers the right way. Some experts and residents are skeptical",
+    "link": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
+    "zeit": "2026-10-19T12:00:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -398,28 +454,12 @@
     "sprache": "en"
    },
    {
-    "titel": "Elon Musk says he'll give a SpaceX share to every child in America next year",
-    "link": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
-    "zeit": "2026-10-19T10:21:39+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Lindt-Chef Adalbert Lechner muss per sofort gehen – seine Position übernimmt vorerst ein Lindt-Urgestein",
     "link": "https://www.nzz.ch/wirtschaft/lindt-chef-adalbert-lechner-muss-per-sofort-gehen-ld.10037970",
     "zeit": "2026-10-19T10:13:26+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Robot factories and hypersonic missiles: JPMorgan Chase’s first $5 billion of defense investments",
-    "link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
-    "zeit": "2026-10-19T10:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "India’s finance minister says market liquidity makes it easier for investors to exit",
@@ -438,14 +478,6 @@
     "sprache": "en"
    },
    {
-    "titel": "China's CXMT shares fall nearly 8% as investors look past chipmaker's profit turnaround",
-    "link": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
-    "zeit": "2026-10-19T07:48:53+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Entscheid des Verwaltungsrats – Lindt-Chef Lechner muss per sofort gehen",
     "link": "https://www.srf.ch/news/wirtschaft/entscheid-des-verwaltungsrats-lindt-chef-lechner-muss-per-sofort-gehen",
     "zeit": "2026-10-19T06:27:42+00:00",
@@ -454,36 +486,12 @@
     "sprache": "de"
    },
    {
-    "titel": "OpenAI bugging suspect WhatsApp'ed Saudi royal days before arrest, feds reveal",
-    "link": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-    "zeit": "2026-10-19T06:06:58+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Der «Röstigraben» beim Anlegen lässt sich nur teilweise erklären",
     "link": "https://www.finews.ch/news/banken/74038-umfrage-deutschschweiz-besitzen-58-prozent-der-bevoelkerung-wertschriften-westschweiz-37-prozent-hochschule-luzern-einkommen-und-vermoegen-unterschied-nur-teilweise-erklaeren-finanzwissen-risikobereitschaft",
     "zeit": "2026-10-19T06:01:52+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "MELDUNGEN WIRTSCHAFT - Hohe Investitionen in KI geplant – Friedrich Merz will mit Chipshersteller Nvidia zusammenarbeiten",
-    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
-    "zeit": "2026-10-19T05:50:56+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates",
-    "link": "https://www.cnbc.com/2026/10/19/takaichi-weak-yen-jgb-yields.html",
-    "zeit": "2026-10-19T05:29:51+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "El Niño und Iran-Krieg: Agrarrohstoffe drohen zum nächsten Preistreiber zu werden",
@@ -558,7 +566,7 @@
     "sprache": "de"
    },
    {
-    "titel": "Julius Bär rekrutiert Personalchefin aus internationalem Konsumgüterunternehmen",
+    "titel": "Julius Bär rekrutiert Personalchefin aus Konsumgüterkonzern",
     "link": "https://www.finews.ch/news/banken/74031-juliusbaer-francis-hoefman-hr-personalchefin-reckitt",
     "zeit": "2026-10-19T03:18:04+00:00",
     "quelle": "finews.ch",
@@ -578,14 +586,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/switcher-mode-wie-nachhaltig-kann-mode-sein",
     "zeit": "2026-10-18T17:45:37+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Iran-Krieg steht vor neuer Eskalation: Benzinpreise in der Schweiz ziehen an",
-    "link": "https://www.nzz.ch/wirtschaft/iran-krieg-steht-vor-neuer-eskalation-benzinpreise-in-der-schweiz-ziehen-an-ld.10036649",
-    "zeit": "2026-10-18T16:20:26+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
