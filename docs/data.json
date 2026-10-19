@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-19T18:39:07+02:00",
+ "aktualisiert": "2026-10-19T19:30:06+02:00",
  "kernaussagen": [
-  "SMI −0.16%, Nasdaq +1.42% führt",
-  "Franken stärker: EUR/CHF 0.9260 (−0.23%)",
-  "Gold −0.45% auf 4'162.30 USD/Unze · Brent über 100 USD"
+  "SMI −0.16%, Nikkei 225 +1.39% führt",
+  "Franken stärker: EUR/CHF 0.9262 (−0.21%)",
+  "Gold −0.60% auf 4'156.00 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7706.47998046875,
+   "kurs": 7700.31982421875,
    "vortag": 7659.43994140625,
-   "veraenderung_pct": 0.6141446296641817,
+   "veraenderung_pct": 0.5337189549787791,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7718.939941,
     7744.060059,
     7659.439941,
-    7706.47998
+    7700.319824
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26510.78515625,
+   "kurs": 26468.009765625,
    "vortag": 26140.029296875,
-   "veraenderung_pct": 1.4183452327626966,
+   "veraenderung_pct": 1.2547058192823535,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26692.869141,
     26713.029297,
     26140.029297,
-    26510.785156
+    26468.009766
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9260299801826477,
+   "kurs": 0.9261500239372253,
    "vortag": 0.9281299710273743,
-   "veraenderung_pct": -0.22626042798747914,
+   "veraenderung_pct": -0.2133264900342824,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93272,
     0.93096,
     0.92813,
-    0.92603
+    0.92615
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8259299993515015,
+   "kurs": 0.8261500000953674,
    "vortag": 0.827750027179718,
-   "veraenderung_pct": -0.21987650479670107,
+   "veraenderung_pct": -0.19329834271369917,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8326,
     0.8316,
     0.82775,
-    0.82593
+    0.82615
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4162.2998046875,
+   "kurs": 4156.0,
    "vortag": 4181.10009765625,
-   "veraenderung_pct": -0.4496494350682667,
+   "veraenderung_pct": -0.6003228114610293,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4107.899902,
     4170.100098,
     4181.100098,
-    4162.299805
+    4156.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.52999877929688,
+   "kurs": 110.19000244140625,
    "vortag": 109.86000061035156,
-   "veraenderung_pct": -0.30038396979910065,
+   "veraenderung_pct": 0.30038396979910065,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.059998,
     105.919998,
     109.860001,
-    109.529999
+    110.190002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81927.5625,
+   "kurs": 81887.2421875,
    "vortag": 82017.6015625,
-   "veraenderung_pct": -0.10978017009115604,
+   "veraenderung_pct": -0.15894073042438395,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81500.804688,
     81382.148438,
     82017.601562,
-    81927.5625
+    81887.242188
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.146,
+   "wert": 5.148,
    "vortag": 5.098,
-   "veraenderung_bp": 4.8,
+   "veraenderung_bp": 5.0,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.19,
     5.089,
     5.098,
-    5.146
+    5.148
    ]
   }
  ],
@@ -374,17 +374,25 @@
   ],
   "artikel": [
    {
-    "titel": "Anthropic is AI trade's last big hope for a major IPO this year",
-    "link": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
-    "zeit": "2026-10-19T16:31:30+00:00",
+    "titel": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
+    "link": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
+    "zeit": "2026-10-19T17:01:26+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
-    "link": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
-    "zeit": "2026-10-19T16:30:58+00:00",
+    "titel": "Elon Musk says he'll give a SpaceX share to every child in America next year",
+    "link": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
+    "zeit": "2026-10-19T16:58:20+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Anthropic is AI trade's last big hope for a major IPO this year",
+    "link": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
+    "zeit": "2026-10-19T16:42:14+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -398,25 +406,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Elon Musk says he'll give a SpaceX share to every child in America next year",
-    "link": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
-    "zeit": "2026-10-19T16:00:23+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "We're buying more of a beaten-up stock before another overhang is lifted",
     "link": "https://www.cnbc.com/investingclub/2026/10/19/were-buying-more-of-a-beaten-up-stock-before-another-overhang-is-lifted.html",
     "zeit": "2026-10-19T15:43:16+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Credit stress is threatening to unwind the AI bull. All eyes are on Oracle to hold the line",
-    "link": "https://www.cnbc.com/2026/10/19/oracle-debt-faces-an-ai-stress-test-why-some-investors-arent-worried-.html",
-    "zeit": "2026-10-19T15:15:43+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -457,6 +449,14 @@
     "titel": "Google says it can build data centers the right way. Some experts and residents are skeptical",
     "link": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
     "zeit": "2026-10-19T13:36:41+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall",
+    "link": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html",
+    "zeit": "2026-10-19T12:59:13+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
