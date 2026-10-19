@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-19T18:05:05+02:00",
+ "aktualisiert": "2026-10-19T18:39:07+02:00",
  "kernaussagen": [
-  "SMI −0.16%, Nasdaq +1.53% führt",
-  "Franken stärker: EUR/CHF 0.9281 (−0.30%)",
-  "Brent über 100 USD: 108.69 (−1.06%)"
+  "SMI −0.16%, Nasdaq +1.42% führt",
+  "Franken stärker: EUR/CHF 0.9260 (−0.23%)",
+  "Gold −0.45% auf 4'162.30 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7711.5498046875,
+   "kurs": 7706.47998046875,
    "vortag": 7659.43994140625,
-   "veraenderung_pct": 0.6803351639269151,
+   "veraenderung_pct": 0.6141446296641817,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7718.939941,
     7744.060059,
     7659.439941,
-    7711.549805
+    7706.47998
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26541.14453125,
+   "kurs": 26510.78515625,
    "vortag": 26140.029296875,
-   "veraenderung_pct": 1.5344865524804518,
+   "veraenderung_pct": 1.4183452327626966,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26692.869141,
     26713.029297,
     26140.029297,
-    26541.144531
+    26510.785156
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9281299710273743,
-   "vortag": 0.9309599995613098,
-   "veraenderung_pct": -0.3039903470900107,
-   "datum": "2026-10-16",
-   "ist_heute": false,
+   "kurs": 0.9260299801826477,
+   "vortag": 0.9281299710273743,
+   "veraenderung_pct": -0.22626042798747914,
+   "datum": "2026-10-19",
+   "ist_heute": true,
    "verlauf": [
-    0.92988,
     0.93083,
     0.93272,
     0.93096,
-    0.92813
+    0.92813,
+    0.92603
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8268899917602539,
+   "kurs": 0.8259299993515015,
    "vortag": 0.827750027179718,
-   "veraenderung_pct": -0.1039003794894966,
+   "veraenderung_pct": -0.21987650479670107,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8326,
     0.8316,
     0.82775,
-    0.82689
+    0.82593
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4160.7001953125,
+   "kurs": 4162.2998046875,
    "vortag": 4181.10009765625,
-   "veraenderung_pct": -0.4879075331199356,
+   "veraenderung_pct": -0.4496494350682667,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4107.899902,
     4170.100098,
     4181.100098,
-    4160.700195
+    4162.299805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 108.69000244140625,
+   "kurs": 109.52999877929688,
    "vortag": 109.86000061035156,
-   "veraenderung_pct": -1.0649901351220903,
+   "veraenderung_pct": -0.30038396979910065,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.059998,
     105.919998,
     109.860001,
-    108.690002
+    109.529999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81763.1875,
+   "kurs": 81927.5625,
    "vortag": 82017.6015625,
-   "veraenderung_pct": -0.310194467593794,
+   "veraenderung_pct": -0.10978017009115604,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81500.804688,
     81382.148438,
     82017.601562,
-    81763.1875
+    81927.5625
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.136,
+   "wert": 5.146,
    "vortag": 5.098,
-   "veraenderung_bp": 3.8,
+   "veraenderung_bp": 4.8,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.19,
     5.089,
     5.098,
-    5.136
+    5.146
    ]
   }
  ],
@@ -374,9 +374,25 @@
   ],
   "artikel": [
    {
+    "titel": "Anthropic is AI trade's last big hope for a major IPO this year",
+    "link": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
+    "zeit": "2026-10-19T16:31:30+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
     "link": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
-    "zeit": "2026-10-19T16:04:03+00:00",
+    "zeit": "2026-10-19T16:30:58+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Cornell sexual assault case has some prospective students rethinking plans, consultants say",
+    "link": "https://www.cnbc.com/2026/10/19/cornell-sexual-assault-case-concerns-applicants.html",
+    "zeit": "2026-10-19T16:17:37+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -393,14 +409,6 @@
     "titel": "We're buying more of a beaten-up stock before another overhang is lifted",
     "link": "https://www.cnbc.com/investingclub/2026/10/19/were-buying-more-of-a-beaten-up-stock-before-another-overhang-is-lifted.html",
     "zeit": "2026-10-19T15:43:16+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Anthropic is AI trade's last big hope for a major IPO this year",
-    "link": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
-    "zeit": "2026-10-19T15:25:27+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -449,14 +457,6 @@
     "titel": "Google says it can build data centers the right way. Some experts and residents are skeptical",
     "link": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
     "zeit": "2026-10-19T13:36:41+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall",
-    "link": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html",
-    "zeit": "2026-10-19T12:59:13+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
