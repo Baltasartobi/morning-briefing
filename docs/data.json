@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-19T16:15:14+02:00",
+ "aktualisiert": "2026-10-19T17:12:48+02:00",
  "kernaussagen": [
-  "SMI −0.51%, DAX −1.55% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9257 (−0.26%)",
-  "Brent über 100 USD: 108.05 (−1.65%)"
+  "SMI −0.46%, DAX −1.59% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9263 (−0.20%)",
+  "Brent über 100 USD: 108.11 (−1.59%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14318.6201171875,
+   "kurs": 14324.6298828125,
    "vortag": 14391.3095703125,
-   "veraenderung_pct": -0.5050926934053956,
+   "veraenderung_pct": -0.46333300784212605,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14129.929688,
     14349.509766,
     14391.30957,
-    14318.620117
+    14324.629883
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25225.890625,
+   "kurs": 25215.0390625,
    "vortag": 25622.609375,
-   "veraenderung_pct": -1.5483151781843008,
+   "veraenderung_pct": -1.5906666902461009,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25298.609375,
     25382.619141,
     25622.609375,
-    25225.890625
+    25215.039062
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6121.4501953125,
+   "kurs": 6119.27001953125,
    "vortag": 6204.22998046875,
-   "veraenderung_pct": -1.334247528167798,
+   "veraenderung_pct": -1.369387679131151,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6190.370117,
     6168.259766,
     6204.22998,
-    6121.450195
+    6119.27002
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7712.33984375,
+   "kurs": 7712.60009765625,
    "vortag": 7659.43994140625,
-   "veraenderung_pct": 0.6906497439555404,
+   "veraenderung_pct": 0.6940475629637177,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7718.939941,
     7744.060059,
     7659.439941,
-    7712.339844
+    7712.600098
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26473.03125,
+   "kurs": 26532.462890625,
    "vortag": 26140.029296875,
-   "veraenderung_pct": 1.2739157609314988,
+   "veraenderung_pct": 1.501274498559635,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26692.869141,
     26713.029297,
     26140.029297,
-    26473.03125
+    26532.462891
    ]
   },
   {
@@ -107,17 +107,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 64916.69921875,
-   "vortag": 65324.2890625,
-   "veraenderung_pct": -0.6239483806092849,
-   "datum": "2026-10-19",
-   "ist_heute": true,
+   "kurs": 65324.2890625,
+   "vortag": 64425.94921875,
+   "veraenderung_pct": 1.3943757983290395,
+   "datum": "2026-10-16",
+   "ist_heute": false,
    "verlauf": [
+    69030.921875,
     67777.523438,
     67744.289062,
     64425.949219,
-    65324.289062,
-    64916.699219
+    65324.289062
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9257000088691711,
+   "kurs": 0.9262700080871582,
    "vortag": 0.9281299710273743,
-   "veraenderung_pct": -0.2618127023215622,
+   "veraenderung_pct": -0.20039897409597218,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93272,
     0.93096,
     0.92813,
-    0.9257
+    0.92627
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8257200121879578,
+   "kurs": 0.825980007648468,
    "vortag": 0.827750027179718,
-   "veraenderung_pct": -0.245244932057187,
+   "veraenderung_pct": -0.21383503148658667,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8326,
     0.8316,
     0.82775,
-    0.82572
+    0.82598
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4168.2001953125,
+   "kurs": 4166.7001953125,
    "vortag": 4181.10009765625,
-   "veraenderung_pct": -0.30852890489230234,
+   "veraenderung_pct": -0.3444046305378312,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4107.899902,
     4170.100098,
     4181.100098,
-    4168.200195
+    4166.700195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 108.05000305175781,
+   "kurs": 108.11000061035156,
    "vortag": 109.86000061035156,
-   "veraenderung_pct": -1.647549197649656,
+   "veraenderung_pct": -1.5929364557413894,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.059998,
     105.919998,
     109.860001,
-    108.050003
+    108.110001
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82167.2734375,
+   "kurs": 82107.8828125,
    "vortag": 82017.6015625,
-   "veraenderung_pct": 0.1824875053020758,
+   "veraenderung_pct": 0.11007545731656077,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81500.804688,
     81382.148438,
     82017.601562,
-    82167.273438
+    82107.882812
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.096,
+   "wert": 5.127,
    "vortag": 5.098,
-   "veraenderung_bp": -0.2,
+   "veraenderung_bp": 2.9,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.19,
     5.089,
     5.098,
-    5.096
+    5.127
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 82.16999816894531,
+   "kurs": 82.2699966430664,
    "vortag": 82.43000030517578,
-   "veraenderung_pct": -0.3154217339171206,
+   "veraenderung_pct": -0.194108530288728,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     78.889999,
     81.07,
     82.43,
-    82.169998
+    82.269997
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 124.08000183105469,
+   "kurs": 123.94000244140625,
    "vortag": 124.69999694824219,
-   "veraenderung_pct": -0.4971893603532562,
+   "veraenderung_pct": -0.6094583203168691,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     122.660004,
     125.900002,
     124.699997,
-    124.080002
+    123.940002
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 379.6000061035156,
+   "kurs": 378.70001220703125,
    "vortag": 379.20001220703125,
-   "veraenderung_pct": 0.10548361909492598,
+   "veraenderung_pct": -0.131856535839725,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     370.899994,
     379.700012,
     379.200012,
-    379.600006
+    378.700012
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.90999984741211,
+   "kurs": 38.88999938964844,
    "vortag": 39.630001068115234,
-   "veraenderung_pct": -1.8168084816995167,
+   "veraenderung_pct": -1.8672764535002107,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.470001,
     39.419998,
     39.630001,
-    38.91
+    38.889999
    ]
   }
  ],
@@ -374,20 +374,36 @@
   ],
   "artikel": [
    {
-    "titel": "DATENANALYSE - In Frankreich eskalieren die Schülerproteste. Sind französische Schulen wirklich so schlecht?",
+    "titel": "Credit stress is threatening to unwind the AI bull. All eyes are on Oracle to hold the line",
+    "link": "https://www.cnbc.com/2026/10/19/oracle-debt-faces-an-ai-stress-test-why-some-investors-arent-worried-.html",
+    "zeit": "2026-10-19T15:11:40+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "OpenAI bugging suspect's conduct could pose danger to U.S. national security, feds warn",
+    "link": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+    "zeit": "2026-10-19T15:10:54+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
+    "link": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
+    "zeit": "2026-10-19T14:20:08+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "DATENANALYSE - Frankreich brennt. Begonnen hat alles mit Schülerprotesten. Doch sind französische Schulen wirklich so schlecht?",
     "link": "https://www.nzz.ch/pro/in-frankreich-eskalieren-die-schuelerproteste-sind-franzoesische-schulen-wirklich-so-schlecht-ld.10027261",
     "zeit": "2026-10-19T14:00:00+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
-    "link": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
-    "zeit": "2026-10-19T13:50:32+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "NYSE becomes latest exchange to extend options hours as appetite for around-the-clock trading grows",
@@ -401,14 +417,6 @@
     "titel": "Google says it can build data centers the right way. Some experts and residents are skeptical",
     "link": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
     "zeit": "2026-10-19T13:36:41+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "OpenAI bugging suspect communicated with Saudi royal on WhatsApp days before arrest, feds say",
-    "link": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-    "zeit": "2026-10-19T13:21:27+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -465,14 +473,6 @@
     "titel": "Elon Musk says he'll give a SpaceX share to every child in America next year",
     "link": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
     "zeit": "2026-10-19T12:07:51+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Credit stress is threatening to unwind the AI bull. All eyes are on Oracle to hold the line",
-    "link": "https://www.cnbc.com/2026/10/19/oracle-debt-faces-an-ai-stress-test-why-some-investors-arent-worried-.html",
-    "zeit": "2026-10-19T11:57:07+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
