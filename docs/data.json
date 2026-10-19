@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-19T19:59:33+02:00",
+ "aktualisiert": "2026-10-19T20:34:21+02:00",
  "kernaussagen": [
   "SMI −0.16%, Nikkei 225 +1.39% führt",
-  "Franken stärker: EUR/CHF 0.9263 (−0.20%)",
-  "Brent über 100 USD: 110.42 (+0.51%)"
+  "Franken stärker: EUR/CHF 0.9266 (−0.16%)",
+  "Gold −0.37% auf 4'165.70 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7702.5498046875,
+   "kurs": 7697.580078125,
    "vortag": 7659.43994140625,
-   "veraenderung_pct": 0.5628331002140552,
+   "veraenderung_pct": 0.49794941941601056,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7718.939941,
     7744.060059,
     7659.439941,
-    7702.549805
+    7697.580078
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26463.58203125,
+   "kurs": 26435.23828125,
    "vortag": 26140.029296875,
-   "veraenderung_pct": 1.2377672981938037,
+   "veraenderung_pct": 1.1293368535370885,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26692.869141,
     26713.029297,
     26140.029297,
-    26463.582031
+    26435.238281
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.926289975643158,
+   "kurs": 0.9266300201416016,
    "vortag": 0.9281299710273743,
-   "veraenderung_pct": -0.19824759911368783,
+   "veraenderung_pct": -0.16161000426614391,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93272,
     0.93096,
     0.92813,
-    0.92629
+    0.92663
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8258699774742126,
-   "vortag": 0.827750027179718,
-   "veraenderung_pct": -0.22712771292935363,
-   "datum": "2026-10-19",
-   "ist_heute": true,
+   "kurs": 0.827750027179718,
+   "vortag": 0.83160001039505,
+   "veraenderung_pct": -0.4629609388175804,
+   "datum": "2026-10-16",
+   "ist_heute": false,
    "verlauf": [
+    0.82995,
     0.83409,
     0.8326,
     0.8316,
-    0.82775,
-    0.82587
+    0.82775
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4163.10009765625,
+   "kurs": 4165.7001953125,
    "vortag": 4181.10009765625,
-   "veraenderung_pct": -0.4305087077463243,
+   "veraenderung_pct": -0.3683217809681838,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4107.899902,
     4170.100098,
     4181.100098,
-    4163.100098
+    4165.700195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.41999816894531,
+   "kurs": 109.69999694824219,
    "vortag": 109.86000061035156,
-   "veraenderung_pct": 0.5097374435486524,
+   "veraenderung_pct": -0.14564323795780432,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.059998,
     105.919998,
     109.860001,
-    110.419998
+    109.699997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81828.3671875,
+   "kurs": 81808.7734375,
    "vortag": 82017.6015625,
-   "veraenderung_pct": -0.23072410238160757,
+   "veraenderung_pct": -0.2546137914565372,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81500.804688,
     81382.148438,
     82017.601562,
-    81828.367188
+    81808.773438
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.142,
+   "wert": 5.14,
    "vortag": 5.098,
-   "veraenderung_bp": 4.4,
+   "veraenderung_bp": 4.2,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.19,
     5.089,
     5.098,
-    5.142
+    5.14
    ]
   }
  ],
@@ -374,6 +374,14 @@
   ],
   "artikel": [
    {
+    "titel": "OpenAI bugging suspect's conduct could pose danger to U.S. national security, feds warn",
+    "link": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+    "zeit": "2026-10-19T18:00:44+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop",
     "link": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html",
     "zeit": "2026-10-19T17:25:57+00:00",
@@ -417,14 +425,6 @@
     "titel": "Cornell sexual assault case has some prospective students rethinking plans, consultants say",
     "link": "https://www.cnbc.com/2026/10/19/cornell-sexual-assault-case-concerns-applicants.html",
     "zeit": "2026-10-19T16:17:37+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "OpenAI bugging suspect's conduct could pose danger to U.S. national security, feds warn",
-    "link": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-    "zeit": "2026-10-19T15:10:54+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
