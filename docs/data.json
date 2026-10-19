@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-19T15:19:47+02:00",
+ "aktualisiert": "2026-10-19T16:15:14+02:00",
  "kernaussagen": [
-  "SMI −0.60%, Nasdaq −2.15% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9256 (−0.28%)",
-  "Brent über 100 USD: 107.92 (−1.77%)"
+  "SMI −0.51%, DAX −1.55% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9257 (−0.26%)",
+  "Brent über 100 USD: 108.05 (−1.65%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14305.4501953125,
+   "kurs": 14318.6201171875,
    "vortag": 14391.3095703125,
-   "veraenderung_pct": -0.5966057124996982,
+   "veraenderung_pct": -0.5050926934053956,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14129.929688,
     14349.509766,
     14391.30957,
-    14305.450195
+    14318.620117
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25258.810546875,
+   "kurs": 25225.890625,
    "vortag": 25622.609375,
-   "veraenderung_pct": -1.4198352041379425,
+   "veraenderung_pct": -1.5483151781843008,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25298.609375,
     25382.619141,
     25622.609375,
-    25258.810547
+    25225.890625
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6121.06982421875,
+   "kurs": 6121.4501953125,
    "vortag": 6204.22998046875,
-   "veraenderung_pct": -1.3403783630167254,
+   "veraenderung_pct": -1.334247528167798,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6190.370117,
     6168.259766,
     6204.22998,
-    6121.069824
+    6121.450195
    ]
   },
   {
@@ -69,17 +69,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7659.43994140625,
-   "vortag": 7744.06005859375,
-   "veraenderung_pct": -1.0927099809045937,
-   "datum": "2026-10-16",
-   "ist_heute": false,
+   "kurs": 7712.33984375,
+   "vortag": 7659.43994140625,
+   "veraenderung_pct": 0.6906497439555404,
+   "datum": "2026-10-19",
+   "ist_heute": true,
    "verlauf": [
-    7807.240234,
     7805.450195,
     7718.939941,
     7744.060059,
-    7659.439941
+    7659.439941,
+    7712.339844
    ]
   },
   {
@@ -88,17 +88,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26140.029296875,
-   "vortag": 26713.029296875,
-   "veraenderung_pct": -2.1450206699957897,
-   "datum": "2026-10-16",
-   "ist_heute": false,
+   "kurs": 26473.03125,
+   "vortag": 26140.029296875,
+   "veraenderung_pct": 1.2739157609314988,
+   "datum": "2026-10-19",
+   "ist_heute": true,
    "verlauf": [
-    27245.900391,
     27204.380859,
     26692.869141,
     26713.029297,
-    26140.029297
+    26140.029297,
+    26473.03125
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.925570011138916,
+   "kurs": 0.9257000088691711,
    "vortag": 0.9281299710273743,
-   "veraenderung_pct": -0.2758191167584578,
+   "veraenderung_pct": -0.2618127023215622,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93272,
     0.93096,
     0.92813,
-    0.92557
+    0.9257
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8245700001716614,
+   "kurs": 0.8257200121879578,
    "vortag": 0.827750027179718,
-   "veraenderung_pct": -0.3841772157823442,
+   "veraenderung_pct": -0.245244932057187,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8326,
     0.8316,
     0.82775,
-    0.82457
+    0.82572
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4184.39990234375,
+   "kurs": 4168.2001953125,
    "vortag": 4181.10009765625,
-   "veraenderung_pct": 0.07892192510170482,
+   "veraenderung_pct": -0.30852890489230234,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4107.899902,
     4170.100098,
     4181.100098,
-    4184.399902
+    4168.200195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 107.91999816894531,
+   "kurs": 108.05000305175781,
    "vortag": 109.86000061035156,
-   "veraenderung_pct": -1.7658860646533214,
+   "veraenderung_pct": -1.647549197649656,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.059998,
     105.919998,
     109.860001,
-    107.919998
+    108.050003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82505.59375,
+   "kurs": 82167.2734375,
    "vortag": 82017.6015625,
-   "veraenderung_pct": 0.5949847084081528,
+   "veraenderung_pct": 0.1824875053020758,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81500.804688,
     81382.148438,
     82017.601562,
-    82505.59375
+    82167.273438
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.098,
+   "wert": 5.096,
    "vortag": 5.098,
-   "veraenderung_bp": 0.0,
+   "veraenderung_bp": -0.2,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.19,
     5.089,
     5.098,
-    5.098
+    5.096
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 81.97000122070312,
+   "kurs": 82.16999816894531,
    "vortag": 82.43000030517578,
-   "veraenderung_pct": -0.5580481411738836,
+   "veraenderung_pct": -0.3154217339171206,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     78.889999,
     81.07,
     82.43,
-    81.970001
+    82.169998
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 123.91999816894531,
+   "kurs": 124.08000183105469,
    "vortag": 124.69999694824219,
-   "veraenderung_pct": -0.6255002392827835,
+   "veraenderung_pct": -0.4971893603532562,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     122.660004,
     125.900002,
     124.699997,
-    123.919998
+    124.080002
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 378.29998779296875,
+   "kurs": 379.6000061035156,
    "vortag": 379.20001220703125,
-   "veraenderung_pct": -0.2373482028189211,
+   "veraenderung_pct": 0.10548361909492598,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     370.899994,
     379.700012,
     379.200012,
-    378.299988
+    379.600006
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.86000061035156,
+   "kurs": 38.90999984741211,
    "vortag": 39.630001068115234,
-   "veraenderung_pct": -1.94297359831056,
+   "veraenderung_pct": -1.8168084816995167,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.470001,
     39.419998,
     39.630001,
-    38.860001
+    38.91
    ]
   }
  ],
@@ -373,6 +373,46 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "DATENANALYSE - In Frankreich eskalieren die Schülerproteste. Sind französische Schulen wirklich so schlecht?",
+    "link": "https://www.nzz.ch/pro/in-frankreich-eskalieren-die-schuelerproteste-sind-franzoesische-schulen-wirklich-so-schlecht-ld.10027261",
+    "zeit": "2026-10-19T14:00:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
+    "link": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
+    "zeit": "2026-10-19T13:50:32+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "NYSE becomes latest exchange to extend options hours as appetite for around-the-clock trading grows",
+    "link": "https://www.cnbc.com/2026/10/19/nyse-extends-options-trading-hours.html",
+    "zeit": "2026-10-19T13:46:50+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Google says it can build data centers the right way. Some experts and residents are skeptical",
+    "link": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
+    "zeit": "2026-10-19T13:36:41+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "OpenAI bugging suspect communicated with Saudi royal on WhatsApp days before arrest, feds say",
+    "link": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+    "zeit": "2026-10-19T13:21:27+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
    {
     "titel": "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall",
     "link": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html",
@@ -430,25 +470,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Google says it can build data centers the right way. Some experts and residents are skeptical",
-    "link": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
-    "zeit": "2026-10-19T12:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why.",
-    "link": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
-    "zeit": "2026-10-19T11:20:02+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
-    "link": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
-    "zeit": "2026-10-19T10:36:47+00:00",
+    "titel": "Credit stress is threatening to unwind the AI bull. All eyes are on Oracle to hold the line",
+    "link": "https://www.cnbc.com/2026/10/19/oracle-debt-faces-an-ai-stress-test-why-some-investors-arent-worried-.html",
+    "zeit": "2026-10-19T11:57:07+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -460,22 +484,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "India’s finance minister says market liquidity makes it easier for investors to exit",
-    "link": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
-    "zeit": "2026-10-19T08:23:33+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "In pictures: More than 500,000 took to the streets as France protests erupted into violence",
-    "link": "https://www.cnbc.com/2026/10/19/france-protests-paris-violence-pictures.html",
-    "zeit": "2026-10-19T08:10:26+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Entscheid des Verwaltungsrats – Lindt-Chef Lechner muss per sofort gehen",
@@ -552,14 +560,6 @@
    {
     "titel": "Die chinesische Stadt Changchun stemmt sich gegen den Niedergang",
     "link": "https://www.nzz.ch/wirtschaft/nie-da-gewesene-probleme-und-herausforderungen-changchun-stemmt-sich-gegen-den-niedergang-ld.10025900",
-    "zeit": "2026-10-19T03:29:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "GASTKOMMENTAR - Angst und Rache machen blind – wie Russland den Krieg weiter eskalieren lassen wird",
-    "link": "https://www.nzz.ch/meinung/angst-und-rache-machen-blind-wie-russland-den-krieg-weiter-eskalieren-lassen-wird-ld.10025546",
     "zeit": "2026-10-19T03:29:00+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
