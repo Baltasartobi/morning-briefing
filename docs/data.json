@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-19T08:04:01+02:00",
+ "aktualisiert": "2026-10-19T08:47:01+02:00",
  "kernaussagen": [
   "SMI +0.29%, Nasdaq −2.15% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9281 (−0.30%)",
-  "Brent über 100 USD: 107.82 (−1.86%)"
+  "Franken stärker: EUR/CHF 0.9247 (−0.37%)",
+  "Brent über 100 USD: 107.28 (−2.35%)"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 64896.078125,
+   "kurs": 64916.69921875,
    "vortag": 65324.2890625,
-   "veraenderung_pct": -0.6555156491489744,
+   "veraenderung_pct": -0.6239483806092849,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     67744.289062,
     64425.949219,
     65324.289062,
-    64896.078125
+    64916.699219
    ]
   }
  ],
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9281299710273743,
-   "vortag": 0.9309599995613098,
-   "veraenderung_pct": -0.3039903470900107,
-   "datum": "2026-10-16",
-   "ist_heute": false,
+   "kurs": 0.9246799945831299,
+   "vortag": 0.9281299710273743,
+   "veraenderung_pct": -0.37171264283444305,
+   "datum": "2026-10-19",
+   "ist_heute": true,
    "verlauf": [
-    0.92988,
     0.93083,
     0.93272,
     0.93096,
-    0.92813
+    0.92813,
+    0.92468
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8241299986839294,
+   "kurs": 0.8240699768066406,
    "vortag": 0.827750027179718,
-   "veraenderung_pct": -0.4373335399483591,
+   "veraenderung_pct": -0.44458474808100057,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8326,
     0.8316,
     0.82775,
-    0.82413
+    0.82407
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4203.5,
+   "kurs": 4194.7998046875,
    "vortag": 4181.10009765625,
-   "veraenderung_pct": 0.5357418339806408,
+   "veraenderung_pct": 0.3276579539181368,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4107.899902,
     4170.100098,
     4181.100098,
-    4203.5
+    4194.799805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 107.81999969482422,
+   "kurs": 107.27999877929688,
    "vortag": 109.86000061035156,
-   "veraenderung_pct": -1.856909616051039,
+   "veraenderung_pct": -2.348445127180876,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.059998,
     105.919998,
     109.860001,
-    107.82
+    107.279999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82698.453125,
+   "kurs": 82731.2421875,
    "vortag": 81382.1484375,
-   "veraenderung_pct": 1.6174366403104878,
+   "veraenderung_pct": 1.657726879791177,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82141.460938,
     81500.804688,
     81382.148438,
-    82698.453125
+    82731.242188
    ]
   }
  ],
@@ -223,17 +223,17 @@
    "name": "Schweiz",
    "quelle": "snb",
    "verfuegbar": true,
-   "wert": 0.53,
-   "vortag": 0.568,
-   "veraenderung_bp": -3.8,
-   "datum": "2026-10-15",
+   "wert": 0.572,
+   "vortag": 0.53,
+   "veraenderung_bp": 4.2,
+   "datum": "2026-10-16",
    "ist_heute": false,
    "verlauf": [
-    0.579,
     0.572,
     0.561,
     0.568,
-    0.53
+    0.53,
+    0.572
    ]
   },
   {
@@ -374,6 +374,22 @@
   ],
   "artikel": [
    {
+    "titel": "Entscheid des Verwaltungsrats – Lindt-Chef Lechner muss per sofort gehen",
+    "link": "https://www.srf.ch/news/wirtschaft/entscheid-des-verwaltungsrats-lindt-chef-lechner-muss-per-sofort-gehen",
+    "zeit": "2026-10-19T06:27:42+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "OpenAI bugging suspect WhatsApp'ed Saudi royal days before arrest, feds reveal",
+    "link": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+    "zeit": "2026-10-19T06:06:58+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Lindt-Chef Adalbert Lechner muss per sofort gehen",
     "link": "https://www.nzz.ch/wirtschaft/lindt-chef-adalbert-lechner-muss-per-sofort-gehen-ld.10037970",
     "zeit": "2026-10-19T06:00:38+00:00",
@@ -382,18 +398,10 @@
     "sprache": "de"
    },
    {
-    "titel": "MELDUNGEN WIRTSCHAFT - Lindt-Chef Adalbert Lechner muss per sofort gehen",
+    "titel": "MELDUNGEN WIRTSCHAFT - Hohe Investitionen in KI geplant – Friedrich Merz will mit Chipshersteller Nvidia zusammenarbeiten",
     "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
     "zeit": "2026-10-19T05:50:56+00:00",
     "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Entscheid des Verwaltungsrats – Lindt-Chef Lechner muss per sofort gehen",
-    "link": "https://www.srf.ch/news/wirtschaft/entscheid-des-verwaltungsrats-lindt-chef-lechner-muss-per-sofort-gehen",
-    "zeit": "2026-10-19T05:42:20+00:00",
-    "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -446,7 +454,7 @@
     "sprache": "de"
    },
    {
-    "titel": "Europa reagiert jetzt auf die russischen Sabotageaktionen. Das stärkt den Kontinent",
+    "titel": "Europa reagiert jetzt auf die russischen Sabotageaktionen. Statt den Kreml zu ignorieren, warnen sie jetzt vor ihm",
     "link": "https://www.nzz.ch/pro/russische-sabotage-europas-neue-strategie-im-kampf-gegen-putin-ld.10034894",
     "zeit": "2026-10-19T03:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
@@ -553,14 +561,6 @@
     "titel": "The bloated workweek is coming for Sundays—as some embrace flexibility, others worry about job security",
     "link": "https://www.cnbc.com/make-it/2026/10/18/why-people-are-working-sundays.html",
     "zeit": "2026-10-18T14:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "I've studied over 200 kids—parents who raise resilient, successful children teach them these 6 lessons early on",
-    "link": "https://www.cnbc.com/make-it/2026/10/18/parenting-lessons-resilient-successful-well-adjusted.html",
-    "zeit": "2026-10-18T13:37:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
