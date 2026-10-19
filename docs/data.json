@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-19T06:33:31+02:00",
+ "aktualisiert": "2026-10-19T07:10:50+02:00",
  "kernaussagen": [
   "SMI +0.29%, Nasdaq −2.15% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9256 (−0.27%)",
-  "Brent über 100 USD: 107.88 (−1.80%)"
+  "Franken stärker: EUR/CHF 0.9255 (−0.28%)",
+  "Brent über 100 USD: 107.78 (−1.89%)"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 64791.41015625,
+   "kurs": 64887.94921875,
    "vortag": 65324.2890625,
-   "veraenderung_pct": -0.8157439045990422,
+   "veraenderung_pct": -0.6679595752393519,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     67744.289062,
     64425.949219,
     65324.289062,
-    64791.410156
+    64887.949219
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9256200194358826,
+   "kurs": 0.9255200028419495,
    "vortag": 0.9281299710273743,
-   "veraenderung_pct": -0.27043104628043935,
+   "veraenderung_pct": -0.2812071872364763,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93272,
     0.93096,
     0.92813,
-    0.92562
+    0.92552
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8241999745368958,
+   "kurs": 0.8244699835777283,
    "vortag": 0.827750027179718,
-   "veraenderung_pct": -0.4288797977957004,
+   "veraenderung_pct": -0.3962601624025841,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8326,
     0.8316,
     0.82775,
-    0.8242
+    0.82447
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4198.0,
+   "kurs": 4203.89990234375,
    "vortag": 4181.10009765625,
-   "veraenderung_pct": 0.4041975066137127,
+   "veraenderung_pct": 0.5453063584935691,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4107.899902,
     4170.100098,
     4181.100098,
-    4198.0
+    4203.899902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 107.87999725341797,
+   "kurs": 107.77999877929688,
    "vortag": 109.86000061035156,
-   "veraenderung_pct": -1.8022968741427725,
+   "veraenderung_pct": -1.89332042554049,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.059998,
     105.919998,
     109.860001,
-    107.879997
+    107.779999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82526.609375,
+   "kurs": 82580.0703125,
    "vortag": 81382.1484375,
-   "veraenderung_pct": 1.4062800742830284,
+   "veraenderung_pct": 1.471971308204023,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82141.460938,
     81500.804688,
     81382.148438,
-    82526.609375
+    82580.070312
    ]
   }
  ],
@@ -374,6 +374,22 @@
   ],
   "artikel": [
    {
+    "titel": "India’s Finance Minister says easy exits and excess liquidity fuel equity market's underperformance",
+    "link": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
+    "zeit": "2026-10-19T04:46:26+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
+    "link": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
+    "zeit": "2026-10-19T04:36:39+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine",
     "link": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
     "zeit": "2026-10-19T03:56:03+00:00",
@@ -414,7 +430,7 @@
     "sprache": "de"
    },
    {
-    "titel": "Japan fliegt ins Marssystem – rund um das Programm ist ein boomendes Weltraum-Ökosystem entstanden",
+    "titel": "Eine japanische Raumsonde soll heute zum Mars aufbrechen – rund um das Programm ist ein boomendes Weltraum-Ökosystem entstanden",
     "link": "https://www.nzz.ch/wirtschaft/japan-fliegt-ins-marssystem-rund-um-das-programm-ist-ein-boomendes-weltraum-oekosystem-entstanden-ld.10035645",
     "zeit": "2026-10-19T03:29:00+00:00",
     "quelle": "NZZ Wirtschaft",
@@ -438,14 +454,6 @@
     "sprache": "de"
    },
    {
-    "titel": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
-    "link": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
-    "zeit": "2026-10-19T03:26:06+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "France hit by worst unrest in years as attempts to rein in government spending meet citizen ire",
     "link": "https://www.cnbc.com/2026/10/19/france-protests-worst-in-years-unrest-macron-.html",
     "zeit": "2026-10-19T03:18:51+00:00",
@@ -465,14 +473,6 @@
     "titel": "China's CXMT sees shares drop over 6% as investors look past chipmaker's profit turnaround",
     "link": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
     "zeit": "2026-10-19T01:56:34+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "India’s Finance Minister blames easy exits and excess liquidity for equity market's underperformance",
-    "link": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
-    "zeit": "2026-10-18T23:00:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
