@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-19T19:30:06+02:00",
+ "aktualisiert": "2026-10-19T19:59:33+02:00",
  "kernaussagen": [
   "SMI −0.16%, Nikkei 225 +1.39% führt",
-  "Franken stärker: EUR/CHF 0.9262 (−0.21%)",
-  "Gold −0.60% auf 4'156.00 USD/Unze · Brent über 100 USD"
+  "Franken stärker: EUR/CHF 0.9263 (−0.20%)",
+  "Brent über 100 USD: 110.42 (+0.51%)"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7700.31982421875,
+   "kurs": 7702.5498046875,
    "vortag": 7659.43994140625,
-   "veraenderung_pct": 0.5337189549787791,
+   "veraenderung_pct": 0.5628331002140552,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7718.939941,
     7744.060059,
     7659.439941,
-    7700.319824
+    7702.549805
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26468.009765625,
+   "kurs": 26463.58203125,
    "vortag": 26140.029296875,
-   "veraenderung_pct": 1.2547058192823535,
+   "veraenderung_pct": 1.2377672981938037,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26692.869141,
     26713.029297,
     26140.029297,
-    26468.009766
+    26463.582031
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9261500239372253,
+   "kurs": 0.926289975643158,
    "vortag": 0.9281299710273743,
-   "veraenderung_pct": -0.2133264900342824,
+   "veraenderung_pct": -0.19824759911368783,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93272,
     0.93096,
     0.92813,
-    0.92615
+    0.92629
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8261500000953674,
+   "kurs": 0.8258699774742126,
    "vortag": 0.827750027179718,
-   "veraenderung_pct": -0.19329834271369917,
+   "veraenderung_pct": -0.22712771292935363,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8326,
     0.8316,
     0.82775,
-    0.82615
+    0.82587
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4156.0,
+   "kurs": 4163.10009765625,
    "vortag": 4181.10009765625,
-   "veraenderung_pct": -0.6003228114610293,
+   "veraenderung_pct": -0.4305087077463243,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4107.899902,
     4170.100098,
     4181.100098,
-    4156.0
+    4163.100098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.19000244140625,
+   "kurs": 110.41999816894531,
    "vortag": 109.86000061035156,
-   "veraenderung_pct": 0.30038396979910065,
+   "veraenderung_pct": 0.5097374435486524,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.059998,
     105.919998,
     109.860001,
-    110.190002
+    110.419998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81887.2421875,
+   "kurs": 81828.3671875,
    "vortag": 82017.6015625,
-   "veraenderung_pct": -0.15894073042438395,
+   "veraenderung_pct": -0.23072410238160757,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81500.804688,
     81382.148438,
     82017.601562,
-    81887.242188
+    81828.367188
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.148,
+   "wert": 5.142,
    "vortag": 5.098,
-   "veraenderung_bp": 5.0,
+   "veraenderung_bp": 4.4,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.19,
     5.089,
     5.098,
-    5.148
+    5.142
    ]
   }
  ],
@@ -374,6 +374,22 @@
   ],
   "artikel": [
    {
+    "titel": "Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop",
+    "link": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html",
+    "zeit": "2026-10-19T17:25:57+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Apple's iPhone Duo is proving itself the catalyst that Jim Cramer said it would be",
+    "link": "https://www.cnbc.com/investingclub/2026/10/19/apples-iphone-duo-is-proving-the-catalyst-that-jim-cramer-said-it-would-be.html",
+    "zeit": "2026-10-19T17:25:20+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
     "link": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
     "zeit": "2026-10-19T17:01:26+00:00",
@@ -401,14 +417,6 @@
     "titel": "Cornell sexual assault case has some prospective students rethinking plans, consultants say",
     "link": "https://www.cnbc.com/2026/10/19/cornell-sexual-assault-case-concerns-applicants.html",
     "zeit": "2026-10-19T16:17:37+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "We're buying more of a beaten-up stock before another overhang is lifted",
-    "link": "https://www.cnbc.com/investingclub/2026/10/19/were-buying-more-of-a-beaten-up-stock-before-another-overhang-is-lifted.html",
-    "zeit": "2026-10-19T15:43:16+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -449,14 +457,6 @@
     "titel": "Google says it can build data centers the right way. Some experts and residents are skeptical",
     "link": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
     "zeit": "2026-10-19T13:36:41+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall",
-    "link": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html",
-    "zeit": "2026-10-19T12:59:13+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
