@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-19T12:33:20+02:00",
+ "aktualisiert": "2026-10-19T13:06:37+02:00",
  "kernaussagen": [
-  "SMI −0.45%, Nasdaq −2.15% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9245 (−0.39%)",
-  "Brent über 100 USD: 108.67 (−1.08%)"
+  "SMI −0.33%, Nasdaq −2.15% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9259 (−0.24%)",
+  "Brent über 100 USD: 108.31 (−1.41%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14327.0498046875,
+   "kurs": 14344.1103515625,
    "vortag": 14391.3095703125,
-   "veraenderung_pct": -0.44651784683695794,
+   "veraenderung_pct": -0.32797028317260724,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14129.929688,
     14349.509766,
     14391.30957,
-    14327.049805
+    14344.110352
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25296.8203125,
+   "kurs": 25357.150390625,
    "vortag": 25622.609375,
-   "veraenderung_pct": -1.271490571986289,
+   "veraenderung_pct": -1.0360341544058738,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25298.609375,
     25382.619141,
     25622.609375,
-    25296.820312
+    25357.150391
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6132.7001953125,
+   "kurs": 6145.0,
    "vortag": 6204.22998046875,
-   "veraenderung_pct": -1.1529196271161668,
+   "veraenderung_pct": -0.9546709366868966,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6190.370117,
     6168.259766,
     6204.22998,
-    6132.700195
+    6145.0
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9244800209999084,
+   "kurs": 0.9258700013160706,
    "vortag": 0.9281299710273743,
-   "veraenderung_pct": -0.39325850273164153,
+   "veraenderung_pct": -0.24349711590523349,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93272,
     0.93096,
     0.92813,
-    0.92448
+    0.92587
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8249499797821045,
+   "kurs": 0.8251699805259705,
    "vortag": 0.827750027179718,
-   "veraenderung_pct": -0.33827209974897077,
+   "veraenderung_pct": -0.31169393766596887,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8326,
     0.8316,
     0.82775,
-    0.82495
+    0.82517
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4186.10009765625,
+   "kurs": 4190.2001953125,
    "vortag": 4181.10009765625,
-   "veraenderung_pct": 0.11958575215176293,
+   "veraenderung_pct": 0.21764840457541013,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4107.899902,
     4170.100098,
     4181.100098,
-    4186.100098
+    4190.200195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 108.66999816894531,
+   "kurs": 108.30999755859375,
    "vortag": 109.86000061035156,
-   "veraenderung_pct": -1.083199012192726,
+   "veraenderung_pct": -1.4108893529459543,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.059998,
     105.919998,
     109.860001,
-    108.669998
+    108.309998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82119.40625,
+   "kurs": 82180.890625,
    "vortag": 82017.6015625,
-   "veraenderung_pct": 0.12412541400936838,
+   "veraenderung_pct": 0.19909026768549776,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81500.804688,
     81382.148438,
     82017.601562,
-    82119.40625
+    82180.890625
    ]
   }
  ],
@@ -240,17 +240,17 @@
    "name": "Deutschland",
    "quelle": "bundesbank",
    "verfuegbar": true,
-   "wert": 3.48,
-   "vortag": 3.45,
-   "veraenderung_bp": 3.0,
-   "datum": "2026-10-16",
-   "ist_heute": false,
+   "wert": 3.49,
+   "vortag": 3.48,
+   "veraenderung_bp": 1.0,
+   "datum": "2026-10-19",
+   "ist_heute": true,
    "verlauf": [
-    3.53,
     3.49,
     3.51,
     3.45,
-    3.48
+    3.48,
+    3.49
    ]
   },
   {
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 82.06999969482422,
+   "kurs": 82.05999755859375,
    "vortag": 82.43000030517578,
-   "veraenderung_pct": -0.4367349375455021,
+   "veraenderung_pct": -0.44886903458958294,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     78.889999,
     81.07,
     82.43,
-    82.07
+    82.059998
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 124.5,
+   "kurs": 124.62000274658203,
    "vortag": 124.69999694824219,
-   "veraenderung_pct": -0.16038248046245096,
+   "veraenderung_pct": -0.06414932126530548,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     122.660004,
     125.900002,
     124.699997,
-    124.5
+    124.620003
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 378.8999938964844,
+   "kurs": 379.1000061035156,
    "vortag": 379.20001220703125,
-   "veraenderung_pct": -0.07911875023439707,
+   "veraenderung_pct": -0.026372916744799024,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     370.899994,
     379.700012,
     379.200012,
-    378.899994
+    379.100006
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.93000030517578,
+   "kurs": 39.040000915527344,
    "vortag": 39.630001068115234,
-   "veraenderung_pct": -1.7663405098988116,
+   "veraenderung_pct": -1.4887714778856864,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.470001,
     39.419998,
     39.630001,
-    38.93
+    39.040001
    ]
   }
  ],
@@ -374,17 +374,25 @@
   ],
   "artikel": [
    {
-    "titel": "Elon Musk says he'll give a SpaceX share to every child in America next year",
-    "link": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
-    "zeit": "2026-10-19T10:21:39+00:00",
+    "titel": "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall",
+    "link": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html",
+    "zeit": "2026-10-19T10:37:43+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall",
-    "link": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html",
-    "zeit": "2026-10-19T10:18:43+00:00",
+    "titel": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
+    "link": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
+    "zeit": "2026-10-19T10:36:47+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Elon Musk says he'll give a SpaceX share to every child in America next year",
+    "link": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
+    "zeit": "2026-10-19T10:21:39+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -396,14 +404,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
-    "link": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
-    "zeit": "2026-10-19T10:13:22+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Robot factories and hypersonic missiles: JPMorgan Chase’s first $5 billion of defense investments",
