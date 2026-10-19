@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-19T20:34:21+02:00",
+ "aktualisiert": "2026-10-19T21:13:57+02:00",
  "kernaussagen": [
   "SMI −0.16%, Nikkei 225 +1.39% führt",
-  "Franken stärker: EUR/CHF 0.9266 (−0.16%)",
-  "Gold −0.37% auf 4'165.70 USD/Unze · Brent über 100 USD"
+  "Franken stärker: EUR/CHF 0.9269 (−0.13%)",
+  "Brent über 100 USD: 109.21 (−0.59%)"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7697.580078125,
+   "kurs": 7703.75,
    "vortag": 7659.43994140625,
-   "veraenderung_pct": 0.49794941941601056,
+   "veraenderung_pct": 0.5785025920004072,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7718.939941,
     7744.060059,
     7659.439941,
-    7697.580078
+    7703.75
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26435.23828125,
+   "kurs": 26468.580078125,
    "vortag": 26140.029296875,
-   "veraenderung_pct": 1.1293368535370885,
+   "veraenderung_pct": 1.2568875785050393,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26692.869141,
     26713.029297,
     26140.029297,
-    26435.238281
+    26468.580078
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9266300201416016,
+   "kurs": 0.9269099831581116,
    "vortag": 0.9281299710273743,
-   "veraenderung_pct": -0.16161000426614391,
+   "veraenderung_pct": -0.13144580041006826,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93272,
     0.93096,
     0.92813,
-    0.92663
+    0.92691
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.827750027179718,
-   "vortag": 0.83160001039505,
-   "veraenderung_pct": -0.4629609388175804,
-   "datum": "2026-10-16",
-   "ist_heute": false,
+   "kurs": 0.8267899751663208,
+   "vortag": 0.827750027179718,
+   "veraenderung_pct": -0.1159833261097254,
+   "datum": "2026-10-19",
+   "ist_heute": true,
    "verlauf": [
-    0.82995,
     0.83409,
     0.8326,
     0.8316,
-    0.82775
+    0.82775,
+    0.82679
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4165.7001953125,
+   "kurs": 4164.5,
    "vortag": 4181.10009765625,
-   "veraenderung_pct": -0.3683217809681838,
+   "veraenderung_pct": -0.3970270328030545,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4107.899902,
     4170.100098,
     4181.100098,
-    4165.700195
+    4164.5
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.69999694824219,
+   "kurs": 109.20999908447266,
    "vortag": 109.86000061035156,
-   "veraenderung_pct": -0.14564323795780432,
+   "veraenderung_pct": -0.5916635010628779,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.059998,
     105.919998,
     109.860001,
-    109.699997
+    109.209999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81808.7734375,
+   "kurs": 81799.75,
    "vortag": 82017.6015625,
-   "veraenderung_pct": -0.2546137914565372,
+   "veraenderung_pct": -0.26561562195157595,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81500.804688,
     81382.148438,
     82017.601562,
-    81808.773438
+    81799.75
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.14,
+   "wert": 5.133,
    "vortag": 5.098,
-   "veraenderung_bp": 4.2,
+   "veraenderung_bp": 3.5,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.19,
     5.089,
     5.098,
-    5.14
+    5.133
    ]
   }
  ],
@@ -374,9 +374,25 @@
   ],
   "artikel": [
    {
-    "titel": "OpenAI bugging suspect's conduct could pose danger to U.S. national security, feds warn",
+    "titel": "Crushed tech stocks bounce — plus, new doctor survey keeps us positive on Lilly",
+    "link": "https://www.cnbc.com/investingclub/2026/10/19/crushed-tech-stocks-bounce-new-doctor-survey-keeps-us-positive-on-lilly.html",
+    "zeit": "2026-10-19T19:13:00+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "OpenAI bugging case: Saudi consulate offers to pay bail for suspect",
     "link": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-    "zeit": "2026-10-19T18:00:44+00:00",
+    "zeit": "2026-10-19T19:04:43+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
+    "link": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
+    "zeit": "2026-10-19T18:36:21+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -385,14 +401,6 @@
     "titel": "Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop",
     "link": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html",
     "zeit": "2026-10-19T17:25:57+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Apple's iPhone Duo is proving itself the catalyst that Jim Cramer said it would be",
-    "link": "https://www.cnbc.com/investingclub/2026/10/19/apples-iphone-duo-is-proving-the-catalyst-that-jim-cramer-said-it-would-be.html",
-    "zeit": "2026-10-19T17:25:20+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -425,14 +433,6 @@
     "titel": "Cornell sexual assault case has some prospective students rethinking plans, consultants say",
     "link": "https://www.cnbc.com/2026/10/19/cornell-sexual-assault-case-concerns-applicants.html",
     "zeit": "2026-10-19T16:17:37+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
-    "link": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
-    "zeit": "2026-10-19T14:20:08+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
