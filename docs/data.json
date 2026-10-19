@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-19T13:06:37+02:00",
+ "aktualisiert": "2026-10-19T14:06:32+02:00",
  "kernaussagen": [
-  "SMI −0.33%, Nasdaq −2.15% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9259 (−0.24%)",
-  "Brent über 100 USD: 108.31 (−1.41%)"
+  "SMI −0.45%, Nasdaq −2.15% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9262 (−0.21%)",
+  "Brent über 100 USD: 108.35 (−1.37%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14344.1103515625,
+   "kurs": 14326.73046875,
    "vortag": 14391.3095703125,
-   "veraenderung_pct": -0.32797028317260724,
+   "veraenderung_pct": -0.448736796654825,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14129.929688,
     14349.509766,
     14391.30957,
-    14344.110352
+    14326.730469
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25357.150390625,
+   "kurs": 25290.0390625,
    "vortag": 25622.609375,
-   "veraenderung_pct": -1.0360341544058738,
+   "veraenderung_pct": -1.2979564556937273,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25298.609375,
     25382.619141,
     25622.609375,
-    25357.150391
+    25290.039062
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6145.0,
+   "kurs": 6129.39990234375,
    "vortag": 6204.22998046875,
-   "veraenderung_pct": -0.9546709366868966,
+   "veraenderung_pct": -1.2061138668387428,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6190.370117,
     6168.259766,
     6204.22998,
-    6145.0
+    6129.399902
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9258700013160706,
+   "kurs": 0.9261699914932251,
    "vortag": 0.9281299710273743,
-   "veraenderung_pct": -0.24349711590523349,
+   "veraenderung_pct": -0.21117511505199804,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93272,
     0.93096,
     0.92813,
-    0.92587
+    0.92617
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8251699805259705,
+   "kurs": 0.824999988079071,
    "vortag": 0.827750027179718,
-   "veraenderung_pct": -0.31169393766596887,
+   "veraenderung_pct": -0.33223062643885637,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8326,
     0.8316,
     0.82775,
-    0.82517
+    0.825
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4190.2001953125,
+   "kurs": 4185.7001953125,
    "vortag": 4181.10009765625,
-   "veraenderung_pct": 0.21764840457541013,
+   "veraenderung_pct": 0.1100212276388346,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4107.899902,
     4170.100098,
     4181.100098,
-    4190.200195
+    4185.700195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 108.30999755859375,
+   "kurs": 108.3499984741211,
    "vortag": 109.86000061035156,
-   "veraenderung_pct": -1.4108893529459543,
+   "veraenderung_pct": -1.3744785434565032,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     106.059998,
     105.919998,
     109.860001,
-    108.309998
+    108.349998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82180.890625,
+   "kurs": 82328.796875,
    "vortag": 82017.6015625,
-   "veraenderung_pct": 0.19909026768549776,
+   "veraenderung_pct": 0.37942503386039217,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81500.804688,
     81382.148438,
     82017.601562,
-    82180.890625
+    82328.796875
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 82.05999755859375,
+   "kurs": 82.08999633789062,
    "vortag": 82.43000030517578,
-   "veraenderung_pct": -0.44886903458958294,
+   "veraenderung_pct": -0.412475999061479,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     78.889999,
     81.07,
     82.43,
-    82.059998
+    82.089996
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 124.62000274658203,
+   "kurs": 124.4000015258789,
    "vortag": 124.69999694824219,
-   "veraenderung_pct": -0.06414932126530548,
+   "veraenderung_pct": -0.2405737206936709,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     122.660004,
     125.900002,
     124.699997,
-    124.620003
+    124.400002
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 379.1000061035156,
+   "kurs": 378.79998779296875,
    "vortag": 379.20001220703125,
-   "veraenderung_pct": -0.026372916744799024,
+   "veraenderung_pct": -0.1054916669791961,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     370.899994,
     379.700012,
     379.200012,
-    379.100006
+    378.799988
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.040000915527344,
+   "kurs": 38.93000030517578,
    "vortag": 39.630001068115234,
-   "veraenderung_pct": -1.4887714778856864,
+   "veraenderung_pct": -1.7663405098988116,
    "datum": "2026-10-19",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.470001,
     39.419998,
     39.630001,
-    39.040001
+    38.93
    ]
   }
  ],
@@ -376,7 +376,15 @@
    {
     "titel": "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall",
     "link": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html",
-    "zeit": "2026-10-19T10:37:43+00:00",
+    "zeit": "2026-10-19T11:22:47+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why.",
+    "link": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
+    "zeit": "2026-10-19T11:20:02+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -486,14 +494,6 @@
     "sprache": "de"
    },
    {
-    "titel": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
-    "link": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
-    "zeit": "2026-10-19T04:36:39+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Christian Staub präsidiert Bank in Deutschland",
     "link": "https://www.finews.ch/news/banken/74032-fidelity-fil-fondsbank-frankfurt-christian-staub-aufsichtsratsvorsitzender-rentenreform",
     "zeit": "2026-10-19T03:53:24+00:00",
@@ -542,7 +542,7 @@
     "sprache": "de"
    },
    {
-    "titel": "«Nie da gewesene Probleme und Herausforderungen»: Changchun in China stemmt sich gegen den Niedergang",
+    "titel": "Die chinesische Stadt Changchun stemmt sich gegen den Niedergang",
     "link": "https://www.nzz.ch/wirtschaft/nie-da-gewesene-probleme-und-herausforderungen-changchun-stemmt-sich-gegen-den-niedergang-ld.10025900",
     "zeit": "2026-10-19T03:29:00+00:00",
     "quelle": "NZZ Wirtschaft",
