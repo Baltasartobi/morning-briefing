@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-20T09:17:46+02:00",
+ "aktualisiert": "2026-10-20T10:09:46+02:00",
  "kernaussagen": [
-  "SMI +0.05%, Nikkei 225 −1.30% am schwächsten",
-  "Franken schwächer: EUR/CHF 0.9263 (+0.18%)",
-  "Brent über 100 USD: 110.10 (+0.50%)"
+  "SMI −0.06%, Nikkei 225 −1.30% am schwächsten",
+  "Franken schwächer: EUR/CHF 0.9259 (+0.14%)",
+  "Brent über 100 USD: 110.66 (+1.01%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14375.349609375,
+   "kurs": 14360.58984375,
    "vortag": 14368.7802734375,
-   "veraenderung_pct": 0.045719510024411214,
+   "veraenderung_pct": -0.05700156541916801,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14349.509766,
     14391.30957,
     14368.780273,
-    14375.349609
+    14360.589844
    ]
   },
   {
@@ -31,17 +31,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25319.76953125,
-   "vortag": 25622.609375,
-   "veraenderung_pct": -1.1819242892782023,
-   "datum": "2026-10-19",
-   "ist_heute": false,
+   "kurs": 25089.5390625,
+   "vortag": 25319.76953125,
+   "veraenderung_pct": -0.9092913285243198,
+   "datum": "2026-10-20",
+   "ist_heute": true,
    "verlauf": [
-    25259.900391,
     25298.609375,
     25382.619141,
     25622.609375,
-    25319.769531
+    25319.769531,
+    25089.539062
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6113.990234375,
+   "kurs": 6083.68017578125,
    "vortag": 6144.81005859375,
-   "veraenderung_pct": -0.5015586149102691,
+   "veraenderung_pct": -0.994821357041098,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6168.259766,
     6204.22998,
     6144.810059,
-    6113.990234
+    6083.680176
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9263200163841248,
+   "kurs": 0.9258900284767151,
    "vortag": 0.9246399998664856,
-   "veraenderung_pct": 0.1816941207260836,
+   "veraenderung_pct": 0.13519084296698125,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93096,
     0.92813,
     0.92464,
-    0.92632
+    0.92589
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8248999714851379,
+   "kurs": 0.8246999979019165,
    "vortag": 0.8237500190734863,
-   "veraenderung_pct": 0.13959968255237154,
+   "veraenderung_pct": 0.11532367908151375,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8316,
     0.82775,
     0.82375,
-    0.8249
+    0.8247
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4151.7001953125,
+   "kurs": 4142.7998046875,
    "vortag": 4160.10009765625,
-   "veraenderung_pct": -0.20191587093018049,
+   "veraenderung_pct": -0.41586242067821466,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4170.100098,
     4181.100098,
     4160.100098,
-    4151.700195
+    4142.799805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.0999984741211,
+   "kurs": 110.66000366210938,
    "vortag": 109.55000305175781,
-   "veraenderung_pct": 0.5020496641186201,
+   "veraenderung_pct": 1.0132364942309735,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     105.919998,
     109.860001,
     109.550003,
-    110.099998
+    110.660004
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81647.8984375,
+   "kurs": 81303.09375,
    "vortag": 81853.5390625,
-   "veraenderung_pct": -0.2512299741163071,
+   "veraenderung_pct": -0.6724758865706448,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81382.148438,
     82017.601562,
     81853.539062,
-    81647.898438
+    81303.09375
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 82.68000030517578,
+   "kurs": 83.12999725341797,
    "vortag": 82.55000305175781,
-   "veraenderung_pct": 0.15747698196506565,
+   "veraenderung_pct": 0.7025974321242634,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     81.07,
     82.43,
     82.550003,
-    82.68
+    83.129997
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 124.5199966430664,
+   "kurs": 124.94000244140625,
    "vortag": 124.69999694824219,
-   "veraenderung_pct": -0.14434667969598358,
+   "veraenderung_pct": 0.19246631839429096,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     122.660004,
     125.900002,
     124.699997,
-    124.519997
+    124.940002
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 384.3999938964844,
+   "kurs": 385.8999938964844,
    "vortag": 380.1000061035156,
-   "veraenderung_pct": 1.1312780120813049,
+   "veraenderung_pct": 1.5259109970624962,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     379.700012,
     379.200012,
     380.100006,
-    384.399994
+    385.899994
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.91999816894531,
+   "kurs": 38.66999816894531,
    "vortag": 39.08000183105469,
-   "veraenderung_pct": -0.4094259329901817,
+   "veraenderung_pct": -1.0491393114100855,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.419998,
     39.630001,
     39.080002,
-    38.919998
+    38.669998
    ]
   }
  ],
@@ -373,6 +373,14 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "What’s making Europe so angry? The frustration behind the protests",
+    "link": "https://www.cnbc.com/2026/10/20/france-protests-europe-cost-living-violence.html",
+    "zeit": "2026-10-20T07:19:16+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
    {
     "titel": "CNBC Daily Open: Tech rebounds in the U.S., but Asia isn’t buying it yet",
     "link": "https://www.cnbc.com/2026/10/20/daily-open-tech-stocks-rebound.html",
@@ -404,6 +412,14 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "AllianceBernstein verstärkt Schweizer Vertriebsteam",
+    "link": "https://www.finews.ch/news/finanzplatz/74062-alliancebernstein-schweiz-vertrieb-institutionelle-julian-jantschik",
+    "zeit": "2026-10-20T05:35:02+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "The world’s finance chiefs see new risks — and less China angst",
@@ -518,14 +534,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Top venture capitalist Jenny Lee says Asian startups are speeding toward IPOs",
-    "link": "https://www.cnbc.com/2026/10/20/venture-capital-jenny-lee-granite-asia-startups.html",
-    "zeit": "2026-10-20T01:52:05+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "DATENANALYSE - Begonnen hat alles mit Schülerprotesten. Doch sind französische Schulen wirklich so schlecht?",
     "link": "https://www.nzz.ch/pro/in-frankreich-eskalieren-die-schuelerproteste-sind-franzoesische-schulen-wirklich-so-schlecht-ld.10027261",
     "zeit": "2026-10-19T14:00:00+00:00",
@@ -618,14 +626,6 @@
     "link": "https://www.nzz.ch/wirtschaft/wirtschaftlich-inaktiv-immer-mehr-briten-scheiden-aus-dem-arbeitsleben-aus-und-die-sozialen-kosten-explodieren-ld.10033949",
     "zeit": "2026-10-19T03:31:00+00:00",
     "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Julius Bär rekrutiert Personalchefin aus Konsumgüterkonzern",
-    "link": "https://www.finews.ch/news/banken/74031-juliusbaer-francis-hoefman-hr-personalchefin-reckitt",
-    "zeit": "2026-10-19T03:18:04+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
