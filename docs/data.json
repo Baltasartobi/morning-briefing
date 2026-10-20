@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-20T10:09:46+02:00",
+ "aktualisiert": "2026-10-20T11:09:07+02:00",
  "kernaussagen": [
-  "SMI −0.06%, Nikkei 225 −1.30% am schwächsten",
-  "Franken schwächer: EUR/CHF 0.9259 (+0.14%)",
-  "Brent über 100 USD: 110.66 (+1.01%)"
+  "SMI −0.20%, Nikkei 225 −1.30% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9246 (−0.38%)",
+  "Brent über 100 USD: 111.21 (+1.52%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14360.58984375,
+   "kurs": 14340.0400390625,
    "vortag": 14368.7802734375,
-   "veraenderung_pct": -0.05700156541916801,
+   "veraenderung_pct": -0.20001860859498732,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14349.509766,
     14391.30957,
     14368.780273,
-    14360.589844
+    14340.040039
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25089.5390625,
+   "kurs": 25086.779296875,
    "vortag": 25319.76953125,
-   "veraenderung_pct": -0.9092913285243198,
+   "veraenderung_pct": -0.920190976017532,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25382.619141,
     25622.609375,
     25319.769531,
-    25089.539062
+    25086.779297
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6083.68017578125,
+   "kurs": 6094.0,
    "vortag": 6144.81005859375,
-   "veraenderung_pct": -0.994821357041098,
+   "veraenderung_pct": -0.8268776106869269,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6168.259766,
     6204.22998,
     6144.810059,
-    6083.680176
+    6094.0
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9258900284767151,
-   "vortag": 0.9246399998664856,
-   "veraenderung_pct": 0.13519084296698125,
-   "datum": "2026-10-20",
-   "ist_heute": true,
+   "kurs": 0.9246399998664856,
+   "vortag": 0.9281299710273743,
+   "veraenderung_pct": -0.3760218148138761,
+   "datum": "2026-10-19",
+   "ist_heute": false,
    "verlauf": [
+    0.93083,
     0.93272,
     0.93096,
     0.92813,
-    0.92464,
-    0.92589
+    0.92464
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8246999979019165,
+   "kurs": 0.8244600296020508,
    "vortag": 0.8237500190734863,
-   "veraenderung_pct": 0.11532367908151375,
+   "veraenderung_pct": 0.08619247491647997,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8316,
     0.82775,
     0.82375,
-    0.8247
+    0.82446
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4142.7998046875,
+   "kurs": 4139.2998046875,
    "vortag": 4160.10009765625,
-   "veraenderung_pct": -0.41586242067821466,
+   "veraenderung_pct": -0.4999950116697627,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4170.100098,
     4181.100098,
     4160.100098,
-    4142.799805
+    4139.299805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.66000366210938,
+   "kurs": 111.20999908447266,
    "vortag": 109.55000305175781,
-   "veraenderung_pct": 1.0132364942309735,
+   "veraenderung_pct": 1.5152861583495936,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     105.919998,
     109.860001,
     109.550003,
-    110.660004
+    111.209999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81303.09375,
+   "kurs": 81353.6171875,
    "vortag": 81853.5390625,
-   "veraenderung_pct": -0.6724758865706448,
+   "veraenderung_pct": -0.6107516922613243,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81382.148438,
     82017.601562,
     81853.539062,
-    81303.09375
+    81353.617188
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.12999725341797,
+   "kurs": 82.69000244140625,
    "vortag": 82.55000305175781,
-   "veraenderung_pct": 0.7025974321242634,
+   "veraenderung_pct": 0.16959343970062157,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     81.07,
     82.43,
     82.550003,
-    83.129997
+    82.690002
    ]
   },
   {
@@ -297,17 +297,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 124.94000244140625,
-   "vortag": 124.69999694824219,
-   "veraenderung_pct": 0.19246631839429096,
+   "kurs": 124.83999633789062,
+   "vortag": 124.19999694824219,
+   "veraenderung_pct": 0.5152974278374023,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
-    119.300003,
     122.660004,
     125.900002,
     124.699997,
-    124.940002
+    124.199997,
+    124.839996
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 385.8999938964844,
+   "kurs": 385.6000061035156,
    "vortag": 380.1000061035156,
-   "veraenderung_pct": 1.5259109970624962,
+   "veraenderung_pct": 1.4469876115977165,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     379.700012,
     379.200012,
     380.100006,
-    385.899994
+    385.600006
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.66999816894531,
+   "kurs": 38.56999969482422,
    "vortag": 39.08000183105469,
-   "veraenderung_pct": -1.0491393114100855,
+   "veraenderung_pct": -1.305020758277442,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.419998,
     39.630001,
     39.080002,
-    38.669998
+    38.57
    ]
   }
  ],
@@ -374,6 +374,54 @@
   ],
   "artikel": [
    {
+    "titel": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
+    "link": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
+    "zeit": "2026-10-20T08:59:25+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Chips, Strom, Kühlung: Diese Schweizer Unternehmen erwecken die KI zum Leben",
+    "link": "https://www.nzz.ch/wirtschaft/chips-und-datenzentren-schweizer-firmen-liefern-fuer-den-ki-boom-ld.10026543",
+    "zeit": "2026-10-20T08:57:10+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "France curfews calm unrest as Macron faces criticism over Gulf trip",
+    "link": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
+    "zeit": "2026-10-20T08:48:33+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "MELDUNGEN WIRTSCHAFT - ABB meldet Rekord bei Aufträgen im dritten Quartal",
+    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
+    "zeit": "2026-10-20T08:17:58+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
+    "link": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
+    "zeit": "2026-10-20T08:17:14+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "U.S. Treasury yields move lower as investors await housing, employment data",
+    "link": "https://www.cnbc.com/2026/10/20/us-treasury-yields-investors-economy.html",
+    "zeit": "2026-10-20T07:43:14+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "What’s making Europe so angry? The frustration behind the protests",
     "link": "https://www.cnbc.com/2026/10/20/france-protests-europe-cost-living-violence.html",
     "zeit": "2026-10-20T07:19:16+00:00",
@@ -390,6 +438,14 @@
     "sprache": "en"
    },
    {
+    "titel": "Finma genehmigt ersten Schweizer Bitcoin-ETF",
+    "link": "https://www.finews.ch/news/finanzplatz/74067-erster-schweizer-bitcoin-etf-finma-genehmigung-blackrock-marktleader",
+    "zeit": "2026-10-20T06:47:51+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Eine japanische Raumsonde ist zum Mars aufgebrochen – rund um das Programm ist ein boomendes Weltraum-Ökosystem entstanden",
     "link": "https://www.nzz.ch/wirtschaft/japan-fliegt-ins-marssystem-rund-um-das-programm-ist-ein-boomendes-weltraum-oekosystem-entstanden-ld.10035645",
     "zeit": "2026-10-20T06:40:35+00:00",
@@ -398,12 +454,20 @@
     "sprache": "de"
    },
    {
-    "titel": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
-    "link": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
-    "zeit": "2026-10-20T06:25:26+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "Langjähriger CEO der Incore Bank tritt nach Differenzen ab",
+    "link": "https://www.finews.ch/news/banken/74066-incore-ceo-ruecktritt-mark-dambacher",
+    "zeit": "2026-10-20T06:36:39+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Schweizer Vermögende wollen KI, aber keinen Roboter als Anlageberater",
+    "link": "https://www.finews.ch/news/finanzplatz/74064-kuenstliche-intelligenz-vermoegende-schweizer-anleger-persoenliche-beratung-neue-avaloq-studie-digitalisierung",
+    "zeit": "2026-10-20T06:19:48+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Copper is outshining gold this year. Investors say the rally can survive an AI correction",
@@ -412,6 +476,14 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Digitales Gold: Studie sieht Marktpotenzial von 700 Milliarden Dollar",
+    "link": "https://www.finews.ch/news/finanzplatz/74063-studie-world-gold-council-unerschlossene-nachfragepotenzial-fuer-digitales-gold-700-milliarden-us-dollar-vertrauen-regulierung-und-eine-gemeinsame-infrastruktur",
+    "zeit": "2026-10-20T05:49:42+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "AllianceBernstein verstärkt Schweizer Vertriebsteam",
@@ -430,6 +502,14 @@
     "sprache": "en"
    },
    {
+    "titel": "Europas ETF-Markt auf Rekordkurs – Rohstoffe legen kräftig zu",
+    "link": "https://www.finews.ch/news/banken/74061-europaeischer-etf-markt-boom-mittelzufluesse-im-september-rekordquartal-rohstoff-etfs",
+    "zeit": "2026-10-20T04:53:48+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "'Cannot play hide and seek': Minister's warning over haze sends Singapore agricultural stocks lower",
     "link": "https://www.cnbc.com/2026/10/20/singapore-haze-shanmugam-indonesia-malaysia.html",
     "zeit": "2026-10-20T04:48:52+00:00",
@@ -446,9 +526,9 @@
     "sprache": "de"
    },
    {
-    "titel": "Bank Indonesia faces mounting pressure to hike after MSCI threat fuels market rout",
-    "link": "https://www.cnbc.com/2026/10/20/indonesia-msci-inflation-interest-rate-.html",
-    "zeit": "2026-10-20T03:59:35+00:00",
+    "titel": "General Motors is set to report earnings before the bell. Here's what Wall Street expects",
+    "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+    "zeit": "2026-10-20T04:01:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -510,41 +590,9 @@
     "sprache": "de"
    },
    {
-    "titel": "BlackRock, GIC among investors chasing Indian telecom major Jio's IPO as anchor bids top $26 billion",
-    "link": "https://www.cnbc.com/2026/10/20/jio-ipo-gic-blackrock-.html",
-    "zeit": "2026-10-20T02:44:35+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments",
-    "link": "https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html",
-    "zeit": "2026-10-20T02:16:25+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "JD Vance refrains from endorsing Israeli leader Netanyahu as Trump offers praise",
-    "link": "https://www.cnbc.com/2026/10/20/vance-israel-netanyahu-midterms-election-.html",
-    "zeit": "2026-10-20T01:53:34+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "DATENANALYSE - Begonnen hat alles mit Schülerprotesten. Doch sind französische Schulen wirklich so schlecht?",
     "link": "https://www.nzz.ch/pro/in-frankreich-eskalieren-die-schuelerproteste-sind-franzoesische-schulen-wirklich-so-schlecht-ld.10027261",
     "zeit": "2026-10-19T14:00:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "MELDUNGEN WIRTSCHAFT - Roche stellt Investitionen in Deutschland auf Prüfstand",
-    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
-    "zeit": "2026-10-19T12:51:15+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
@@ -574,58 +622,10 @@
     "sprache": "de"
    },
    {
-    "titel": "Aon warnt: Die einstigen Cashcows der Versicherer geraten unter Druck",
-    "link": "https://www.finews.ch/news/versicherungen/74041-aon-trendbarometer-2026-2027-schweiz-versicherungen-cyber-ki-rueckversicherung",
-    "zeit": "2026-10-19T07:02:38+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Entscheid des Verwaltungsrats – Lindt-Chef Lechner muss per sofort gehen",
     "link": "https://www.srf.ch/news/wirtschaft/entscheid-des-verwaltungsrats-lindt-chef-lechner-muss-per-sofort-gehen",
     "zeit": "2026-10-19T06:27:42+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Der «Röstigraben» beim Anlegen lässt sich nur teilweise erklären",
-    "link": "https://www.finews.ch/news/banken/74038-umfrage-deutschschweiz-besitzen-58-prozent-der-bevoelkerung-wertschriften-westschweiz-37-prozent-hochschule-luzern-einkommen-und-vermoegen-unterschied-nur-teilweise-erklaeren-finanzwissen-risikobereitschaft",
-    "zeit": "2026-10-19T06:01:52+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "El Niño und Iran-Krieg: Agrarrohstoffe drohen zum nächsten Preistreiber zu werden",
-    "link": "https://www.finews.ch/news/finanzplatz/74036-el-nino-wetterphaenomen-iran-krieg-preise-fuer-wichtige-agrarrohstoffe-deutlich-veraendern-zucker-kaffee-und-mais-wisdomtree",
-    "zeit": "2026-10-19T05:14:03+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Sustainable Finance tritt in die nächste Phase ein",
-    "link": "https://www.finews.ch/news/banken/74034-august-benz-building-bridges-2026-sustainable-finance-klimaanpassung",
-    "zeit": "2026-10-19T04:33:42+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Christian Staub präsidiert Bank in Deutschland",
-    "link": "https://www.finews.ch/news/banken/74032-fidelity-fil-fondsbank-frankfurt-christian-staub-aufsichtsratsvorsitzender-rentenreform",
-    "zeit": "2026-10-19T03:53:24+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "«Wirtschaftlich inaktiv»: Immer mehr Briten scheiden aus dem Arbeitsleben aus, und die sozialen Kosten explodieren",
-    "link": "https://www.nzz.ch/wirtschaft/wirtschaftlich-inaktiv-immer-mehr-briten-scheiden-aus-dem-arbeitsleben-aus-und-die-sozialen-kosten-explodieren-ld.10033949",
-    "zeit": "2026-10-19T03:31:00+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
