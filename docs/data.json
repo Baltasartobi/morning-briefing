@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-20T13:07:04+02:00",
+ "aktualisiert": "2026-10-20T14:02:25+02:00",
  "kernaussagen": [
   "SMI +0.11%, Nikkei 225 −1.30% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9246 (−0.38%)",
-  "Brent über 100 USD: 111.36 (+1.65%)"
+  "Franken stärker: EUR/CHF 0.9234 (−0.14%)",
+  "Brent über 100 USD: 111.41 (+1.70%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14384.8701171875,
+   "kurs": 14383.98046875,
    "vortag": 14368.7802734375,
-   "veraenderung_pct": 0.11197779800240504,
+   "veraenderung_pct": 0.10578626037311967,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14349.509766,
     14391.30957,
     14368.780273,
-    14384.870117
+    14383.980469
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25120.359375,
+   "kurs": 25129.029296875,
    "vortag": 25319.76953125,
-   "veraenderung_pct": -0.7875670274324009,
+   "veraenderung_pct": -0.7533253181455146,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25382.619141,
     25622.609375,
     25319.769531,
-    25120.359375
+    25129.029297
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6089.22998046875,
+   "kurs": 6083.5400390625,
    "vortag": 6144.81005859375,
-   "veraenderung_pct": -0.9045044125858603,
+   "veraenderung_pct": -0.9971019274316095,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6168.259766,
     6204.22998,
     6144.810059,
-    6089.22998
+    6083.540039
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9246399998664856,
-   "vortag": 0.9281299710273743,
-   "veraenderung_pct": -0.3760218148138761,
-   "datum": "2026-10-19",
-   "ist_heute": false,
+   "kurs": 0.9233700037002563,
+   "vortag": 0.9246399998664856,
+   "veraenderung_pct": -0.13735033812214414,
+   "datum": "2026-10-20",
+   "ist_heute": true,
    "verlauf": [
-    0.93083,
     0.93272,
     0.93096,
     0.92813,
-    0.92464
+    0.92464,
+    0.92337
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8242599964141846,
+   "kurs": 0.8235599994659424,
    "vortag": 0.8237500190734863,
-   "veraenderung_pct": 0.061909235677082286,
+   "veraenderung_pct": -0.023067630123718708,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8316,
     0.82775,
     0.82375,
-    0.82426
+    0.82356
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4138.2998046875,
+   "kurs": 4140.2998046875,
    "vortag": 4160.10009765625,
-   "veraenderung_pct": -0.5240328948102002,
+   "veraenderung_pct": -0.47595712852931404,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4170.100098,
     4181.100098,
     4160.100098,
-    4138.299805
+    4140.299805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.36000061035156,
+   "kurs": 111.41000366210938,
    "vortag": 109.55000305175781,
-   "veraenderung_pct": 1.6522113264922478,
+   "veraenderung_pct": 1.6978553706409105,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     105.919998,
     109.860001,
     109.550003,
-    111.360001
+    111.410004
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81403.2578125,
+   "kurs": 81412.21875,
    "vortag": 81853.5390625,
-   "veraenderung_pct": -0.5501060249284762,
+   "veraenderung_pct": -0.5391584988927889,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81382.148438,
     82017.601562,
     81853.539062,
-    81403.257812
+    81412.21875
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.16000366210938,
+   "kurs": 83.2300033569336,
    "vortag": 82.55000305175781,
-   "veraenderung_pct": 0.7389468053309534,
+   "veraenderung_pct": 0.8237435251812419,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     81.07,
     82.43,
     82.550003,
-    83.160004
+    83.230003
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 125.33999633789062,
+   "kurs": 125.54000091552734,
    "vortag": 124.19999694824219,
-   "veraenderung_pct": 0.9178739272622582,
+   "veraenderung_pct": 1.0789082127301342,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     125.900002,
     124.699997,
     124.199997,
-    125.339996
+    125.540001
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 387.20001220703125,
+   "kurs": 387.0,
    "vortag": 380.1000061035156,
-   "veraenderung_pct": 1.8679310680100425,
+   "veraenderung_pct": 1.815310125147751,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     379.700012,
     379.200012,
     380.100006,
-    387.200012
+    387.0
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.630001068115234,
+   "kurs": 38.5,
    "vortag": 39.08000183105469,
-   "veraenderung_pct": -1.1514860334061239,
+   "veraenderung_pct": -1.4841397233348985,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.419998,
     39.630001,
     39.080002,
-    38.630001
+    38.5
    ]
   }
  ],
@@ -374,9 +374,9 @@
   ],
   "artikel": [
    {
-    "titel": "U.S. oil surges to top $107, Brent crude at five-month high amid Mideast tensions",
+    "titel": "U.S. oil surges to top $110, Brent crude at five-month high amid Mideast tensions",
     "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
-    "zeit": "2026-10-20T10:48:27+00:00",
+    "zeit": "2026-10-20T11:49:45+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,7 +384,15 @@
    {
     "titel": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
     "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
-    "zeit": "2026-10-20T10:46:05+00:00",
+    "zeit": "2026-10-20T11:45:30+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'",
+    "link": "https://www.cnbc.com/2026/10/20/best-buy-gamers-beta-ign.html",
+    "zeit": "2026-10-20T11:00:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -428,6 +436,14 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Nachfolge: Nur zwei Prozent der reichen Unternehmerfamilien sind gut vorbereitet",
+    "link": "https://www.finews.ch/news/banken/74073-nachfolgeplanung-herausforderungen-fuer-sehr-vermoegende-familien-family-barometer-2026-von-julius-baer-2-3-prozent-der-unternehmerfamilien-umfassend-vorbereitet-hindernis-mangelnde-einigkeit-innerhalb-der-familie",
+    "zeit": "2026-10-20T08:58:56+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Chips, Strom, Kühlung: Diese Schweizer Unternehmen erwecken die KI zum Leben",
@@ -500,14 +516,6 @@
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Copper is outshining gold this year. Investors say the rally can survive an AI correction",
-    "link": "https://www.cnbc.com/2026/10/20/copper-prices-ai-spending-demand.html",
-    "zeit": "2026-10-20T05:57:34+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Digitales Gold: Studie sieht Marktpotenzial von 700 Milliarden Dollar",
@@ -585,14 +593,6 @@
     "titel": "Banque Heritage holt Anlagespezialistin von Edmond de Rothschild",
     "link": "https://www.finews.ch/news/banken/74055-banque-heritage-agnes-krafft-edmond-de-rothschild-investment-solutions",
     "zeit": "2026-10-20T03:26:03+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Rentenranking: Weshalb die Schweiz hinter der Weltspitze zurückbleibt",
-    "link": "https://www.finews.ch/news/finanzplatz/74054-schweizer-altersvorsorge-rentensystemen-weltweit-marsh-cfa-institute-global-pension-index-groesste-schwaeche-hoehe-der-renten-im-verhaeltnis-zum-frueheren-einkommen",
-    "zeit": "2026-10-20T03:22:01+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
