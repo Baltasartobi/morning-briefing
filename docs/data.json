@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-19T21:13:57+02:00",
+ "aktualisiert": "2026-10-20T06:30:36+02:00",
  "kernaussagen": [
-  "SMI −0.16%, Nikkei 225 +1.39% führt",
-  "Franken stärker: EUR/CHF 0.9269 (−0.13%)",
-  "Brent über 100 USD: 109.21 (−0.59%)"
+  "SMI −0.16%, DAX −1.18% am schwächsten",
+  "Franken schwächer: EUR/CHF 0.9264 (+0.19%)",
+  "Gold +0.14% auf 4'165.90 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -16,7 +16,7 @@
    "vortag": 14391.3095703125,
    "veraenderung_pct": -0.15654792751783608,
    "datum": "2026-10-19",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     13927.519531,
     14129.929688,
@@ -35,7 +35,7 @@
    "vortag": 25622.609375,
    "veraenderung_pct": -1.1819242892782023,
    "datum": "2026-10-19",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     25259.900391,
     25298.609375,
@@ -54,7 +54,7 @@
    "vortag": 6204.22998046875,
    "veraenderung_pct": -0.957732419044055,
    "datum": "2026-10-19",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     6167.009766,
     6190.370117,
@@ -69,17 +69,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7703.75,
+   "kurs": 7690.72998046875,
    "vortag": 7659.43994140625,
-   "veraenderung_pct": 0.5785025920004072,
+   "veraenderung_pct": 0.4085160181666714,
    "datum": "2026-10-19",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     7805.450195,
     7718.939941,
     7744.060059,
     7659.439941,
-    7703.75
+    7690.72998
    ]
   },
   {
@@ -88,17 +88,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26468.580078125,
+   "kurs": 26430.890625,
    "vortag": 26140.029296875,
-   "veraenderung_pct": 1.2568875785050393,
+   "veraenderung_pct": 1.1127046753531156,
    "datum": "2026-10-19",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     27204.380859,
     26692.869141,
     26713.029297,
     26140.029297,
-    26468.580078
+    26430.890625
    ]
   },
   {
@@ -107,17 +107,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 65324.2890625,
-   "vortag": 64425.94921875,
-   "veraenderung_pct": 1.3943757983290395,
-   "datum": "2026-10-16",
-   "ist_heute": false,
+   "kurs": 64276.71875,
+   "vortag": 64916.69921875,
+   "veraenderung_pct": -0.9858487514798897,
+   "datum": "2026-10-20",
+   "ist_heute": true,
    "verlauf": [
-    69030.921875,
-    67777.523438,
     67744.289062,
     64425.949219,
-    65324.289062
+    65324.289062,
+    64916.699219,
+    64276.71875
    ]
   }
  ],
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9269099831581116,
-   "vortag": 0.9281299710273743,
-   "veraenderung_pct": -0.13144580041006826,
-   "datum": "2026-10-19",
+   "kurs": 0.9264000058174133,
+   "vortag": 0.9246399998664856,
+   "veraenderung_pct": 0.19034499385510717,
+   "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
-    0.93083,
     0.93272,
     0.93096,
     0.92813,
-    0.92691
+    0.92464,
+    0.9264
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8267899751663208,
-   "vortag": 0.827750027179718,
-   "veraenderung_pct": -0.1159833261097254,
-   "datum": "2026-10-19",
+   "kurs": 0.8247600197792053,
+   "vortag": 0.8237500190734863,
+   "veraenderung_pct": 0.1226100980070477,
+   "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
-    0.83409,
     0.8326,
     0.8316,
     0.82775,
-    0.82679
+    0.82375,
+    0.82476
    ]
   },
   {
@@ -166,17 +166,17 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4164.5,
-   "vortag": 4181.10009765625,
-   "veraenderung_pct": -0.3970270328030545,
-   "datum": "2026-10-19",
+   "kurs": 4165.89990234375,
+   "vortag": 4160.10009765625,
+   "veraenderung_pct": 0.1394150273155148,
+   "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
-    4177.299805,
     4107.899902,
     4170.100098,
     4181.100098,
-    4164.5
+    4160.100098,
+    4165.899902
    ]
   },
   {
@@ -185,17 +185,17 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.20999908447266,
-   "vortag": 109.86000061035156,
-   "veraenderung_pct": -0.5916635010628779,
-   "datum": "2026-10-19",
+   "kurs": 109.63999938964844,
+   "vortag": 109.55000305175781,
+   "veraenderung_pct": 0.08215092230359211,
+   "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
-    105.690002,
     106.059998,
     105.919998,
     109.860001,
-    109.209999
+    109.550003,
+    109.639999
    ]
   },
   {
@@ -204,17 +204,17 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81799.75,
+   "kurs": 81980.8515625,
    "vortag": 82017.6015625,
-   "veraenderung_pct": -0.26561562195157595,
-   "datum": "2026-10-19",
+   "veraenderung_pct": -0.044807455107054306,
+   "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
     82141.460938,
     81500.804688,
     81382.148438,
     82017.601562,
-    81799.75
+    81980.851562
    ]
   }
  ],
@@ -244,7 +244,7 @@
    "vortag": 3.48,
    "veraenderung_bp": 1.0,
    "datum": "2026-10-19",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     3.49,
     3.51,
@@ -257,17 +257,17 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.133,
+   "wert": 5.136,
    "vortag": 5.098,
-   "veraenderung_bp": 3.5,
+   "veraenderung_bp": 3.8,
    "datum": "2026-10-19",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     5.217,
     5.19,
     5.089,
     5.098,
-    5.133
+    5.136
    ]
   }
  ],
@@ -282,7 +282,7 @@
    "vortag": 82.43000030517578,
    "veraenderung_pct": 0.14558139771654321,
    "datum": "2026-10-19",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     77.300003,
     78.889999,
@@ -297,17 +297,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 124.19999694824219,
-   "vortag": 124.69999694824219,
-   "veraenderung_pct": -0.4009623193555689,
-   "datum": "2026-10-19",
-   "ist_heute": true,
+   "kurs": 124.69999694824219,
+   "vortag": 125.9000015258789,
+   "veraenderung_pct": -0.953141035022198,
+   "datum": "2026-10-16",
+   "ist_heute": false,
    "verlauf": [
+    119.959999,
     119.300003,
     122.660004,
     125.900002,
-    124.699997,
-    124.199997
+    124.699997
    ]
   },
   {
@@ -320,7 +320,7 @@
    "vortag": 379.20001220703125,
    "veraenderung_pct": 0.2373401549346399,
    "datum": "2026-10-19",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     359.799988,
     370.899994,
@@ -339,7 +339,7 @@
    "vortag": 39.630001068115234,
    "veraenderung_pct": -1.3878355342842874,
    "datum": "2026-10-19",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     40.09,
     39.470001,
@@ -374,25 +374,105 @@
   ],
   "artikel": [
    {
-    "titel": "Crushed tech stocks bounce — plus, new doctor survey keeps us positive on Lilly",
-    "link": "https://www.cnbc.com/investingclub/2026/10/19/crushed-tech-stocks-bounce-new-doctor-survey-keeps-us-positive-on-lilly.html",
-    "zeit": "2026-10-19T19:13:00+00:00",
+    "titel": "Bank Indonesia faces mounting pressure to hike after MSCI threat fuels market rout",
+    "link": "https://www.cnbc.com/2026/10/20/indonesia-msci-inflation-interest-rate-.html",
+    "zeit": "2026-10-20T03:59:35+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "OpenAI bugging case: Saudi consulate offers to pay bail for suspect",
+    "titel": "«Wir betrachten die Ukraine langfristig als Sicherheitspartner», sagt der Europa-Chef von Lockheed Martin",
+    "link": "https://www.nzz.ch/wirtschaft/wir-betrachten-die-ukraine-langfristig-als-sicherheitspartner-sagt-der-europa-chef-von-lockheed-martin-ld.10031999",
+    "zeit": "2026-10-20T03:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Ein erfundener General, Phantasiemilliarden und endlose Nachsicht mit Putin: Wie Donald Trump Fake News über die Ukraine verbreitet",
+    "link": "https://www.nzz.ch/international/ukraine-fake-news-von-trump-ein-erfundener-general-phantasiemilliarden-und-endlose-nachsicht-mit-putin-ld.10038220",
+    "zeit": "2026-10-20T03:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "GASTKOMMENTAR - Das Völkerrecht wird idealistisch überhöht – um es zu bewahren, sollte man sich von der Illusion seiner Unfehlbarkeit befreien",
+    "link": "https://www.nzz.ch/meinung/das-voelkerrecht-wird-idealistisch-ueberhoeht-um-es-zu-bewahren-sollte-man-sich-von-der-illusion-seiner-unfehlbarkeit-befreien-ld.10032481",
+    "zeit": "2026-10-20T03:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Kiews Einwohner rüsten sich für einen harten Winter",
+    "link": "https://www.nzz.ch/international/kiew-vor-dem-winter-sorgen-um-energieversorgung-und-sicherheit-ld.10026309",
+    "zeit": "2026-10-20T03:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "BlackRock, GIC among investors chasing Indian telecom major Jio's IPO as anchor bids top $26 billion",
+    "link": "https://www.cnbc.com/2026/10/20/jio-ipo-gic-blackrock-.html",
+    "zeit": "2026-10-20T02:44:35+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments",
+    "link": "https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html",
+    "zeit": "2026-10-20T02:16:25+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "JD Vance refrains from endorsing Israeli leader Netanyahu as Trump offers praise",
+    "link": "https://www.cnbc.com/2026/10/20/vance-israel-netanyahu-midterms-election-.html",
+    "zeit": "2026-10-20T01:53:34+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Top venture capitalist Jenny Lee says Asian startups are speeding toward IPOs",
+    "link": "https://www.cnbc.com/2026/10/20/venture-capital-jenny-lee-granite-asia-startups.html",
+    "zeit": "2026-10-20T01:52:05+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Three big takeaways from the IMF-World Bank meetings",
+    "link": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
+    "zeit": "2026-10-20T00:33:34+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "CNBC's The China Connection newsletter: Navigating a tech-heavy world",
+    "link": "https://www.cnbc.com/2026/10/19/cnbcs-the-china-connection-newsletter-navigating-a-tech-heavy-world.html",
+    "zeit": "2026-10-19T23:00:02+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
+    "link": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html",
+    "zeit": "2026-10-19T21:00:02+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay",
     "link": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-    "zeit": "2026-10-19T19:04:43+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
-    "link": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
-    "zeit": "2026-10-19T18:36:21+00:00",
+    "zeit": "2026-10-19T20:54:40+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -400,39 +480,7 @@
    {
     "titel": "Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop",
     "link": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html",
-    "zeit": "2026-10-19T17:25:57+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
-    "link": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
-    "zeit": "2026-10-19T17:01:26+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Elon Musk says he'll give a SpaceX share to every child in America next year",
-    "link": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
-    "zeit": "2026-10-19T16:58:20+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Anthropic is AI trade's last big hope for a major IPO this year",
-    "link": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
-    "zeit": "2026-10-19T16:42:14+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Cornell sexual assault case has some prospective students rethinking plans, consultants say",
-    "link": "https://www.cnbc.com/2026/10/19/cornell-sexual-assault-case-concerns-applicants.html",
-    "zeit": "2026-10-19T16:17:37+00:00",
+    "zeit": "2026-10-19T19:46:07+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -446,23 +494,7 @@
     "sprache": "de"
    },
    {
-    "titel": "NYSE becomes latest exchange to extend options hours as appetite for around-the-clock trading grows",
-    "link": "https://www.cnbc.com/2026/10/19/nyse-extends-options-trading-hours.html",
-    "zeit": "2026-10-19T13:46:50+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Google says it can build data centers the right way. Some experts and residents are skeptical",
-    "link": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
-    "zeit": "2026-10-19T13:36:41+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "MELDUNGEN WIRTSCHAFT - Roche stellt Investitionen in Deutschland auf Prüfstand – hohe Investitionen in KI geplant",
+    "titel": "MELDUNGEN WIRTSCHAFT - Roche stellt Investitionen in Deutschland auf Prüfstand",
     "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
     "zeit": "2026-10-19T12:51:15+00:00",
     "quelle": "NZZ Wirtschaft",
@@ -482,6 +514,14 @@
     "link": "https://www.nzz.ch/wirtschaft/lindt-chef-adalbert-lechner-muss-per-sofort-gehen-ld.10037970",
     "zeit": "2026-10-19T10:13:26+00:00",
     "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Aon warnt: Die einstigen Cashcows der Versicherer geraten unter Druck",
+    "link": "https://www.finews.ch/news/versicherungen/74041-aon-trendbarometer-2026-2027-schweiz-versicherungen-cyber-ki-rueckversicherung",
+    "zeit": "2026-10-19T07:02:38+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -529,38 +569,6 @@
     "titel": "Er ging in Zuoz ins Internat, jetzt soll er den grössten Fleischkonzern der Welt in Brasilien führen",
     "link": "https://www.nzz.ch/wirtschaft/er-ging-in-zuoz-ins-internat-jetzt-soll-er-den-groessten-fleischkonzern-der-welt-in-brasilien-fuehren-ld.10025417",
     "zeit": "2026-10-19T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Europa reagiert jetzt auf die russischen Sabotageaktionen. Statt den Kreml zu ignorieren, warnen sie jetzt vor ihm",
-    "link": "https://www.nzz.ch/pro/russische-sabotage-europas-neue-strategie-im-kampf-gegen-putin-ld.10034894",
-    "zeit": "2026-10-19T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "KOMMENTAR - Pedro Sánchez sieht sich als Retter vor den Rechtsnationalen in Spanien. Dabei bereitet er ihnen den Weg",
-    "link": "https://www.nzz.ch/meinung/pedro-sanchez-sieht-sich-als-retter-vor-den-rechtsnationalen-in-spanien-dabei-bereitet-er-ihnen-den-weg-ld.10034595",
-    "zeit": "2026-10-19T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Eine japanische Raumsonde soll heute zum Mars aufbrechen – rund um das Programm ist ein boomendes Weltraum-Ökosystem entstanden",
-    "link": "https://www.nzz.ch/wirtschaft/japan-fliegt-ins-marssystem-rund-um-das-programm-ist-ein-boomendes-weltraum-oekosystem-entstanden-ld.10035645",
-    "zeit": "2026-10-19T03:29:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Die chinesische Stadt Changchun stemmt sich gegen den Niedergang",
-    "link": "https://www.nzz.ch/wirtschaft/nie-da-gewesene-probleme-und-herausforderungen-changchun-stemmt-sich-gegen-den-niedergang-ld.10025900",
-    "zeit": "2026-10-19T03:29:00+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
@@ -673,14 +681,6 @@
     "titel": "Admicasa bekommt neuen Finanzchef",
     "link": "https://www.finews.ch/news/finanzplatz/74023-admicasa-cfo-cyril-notz",
     "zeit": "2026-10-16T05:23:12+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Unicredit: EZB gibt grünes Licht für Übernahme von Commerzbank-Anteilen",
-    "link": "https://www.finews.ch/news/banken/74019-unicredit-commerzbank-genehmigung-ezb-bankenaufsicht",
-    "zeit": "2026-10-16T04:38:13+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
