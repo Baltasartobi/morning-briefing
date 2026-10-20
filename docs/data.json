@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-20T08:06:32+02:00",
+ "aktualisiert": "2026-10-20T09:17:46+02:00",
  "kernaussagen": [
-  "SMI −0.16%, Nikkei 225 −1.42% am schwächsten",
-  "Franken schwächer: EUR/CHF 0.9267 (+0.22%)",
-  "Brent über 100 USD: 110.40 (+0.78%)"
+  "SMI +0.05%, Nikkei 225 −1.30% am schwächsten",
+  "Franken schwächer: EUR/CHF 0.9263 (+0.18%)",
+  "Brent über 100 USD: 110.10 (+0.50%)"
  ],
  "maerkte": [
   {
@@ -12,17 +12,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14368.7802734375,
-   "vortag": 14391.3095703125,
-   "veraenderung_pct": -0.15654792751783608,
-   "datum": "2026-10-19",
-   "ist_heute": false,
+   "kurs": 14375.349609375,
+   "vortag": 14368.7802734375,
+   "veraenderung_pct": 0.045719510024411214,
+   "datum": "2026-10-20",
+   "ist_heute": true,
    "verlauf": [
-    13927.519531,
     14129.929688,
     14349.509766,
     14391.30957,
-    14368.780273
+    14368.780273,
+    14375.349609
    ]
   },
   {
@@ -50,17 +50,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6144.81005859375,
-   "vortag": 6204.22998046875,
-   "veraenderung_pct": -0.957732419044055,
-   "datum": "2026-10-19",
-   "ist_heute": false,
+   "kurs": 6113.990234375,
+   "vortag": 6144.81005859375,
+   "veraenderung_pct": -0.5015586149102691,
+   "datum": "2026-10-20",
+   "ist_heute": true,
    "verlauf": [
-    6167.009766,
     6190.370117,
     6168.259766,
     6204.22998,
-    6144.810059
+    6144.810059,
+    6113.990234
    ]
   },
   {
@@ -87,7 +87,19 @@
    "symbol": "^IXIC",
    "einheit": "",
    "dezimalen": 2,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 26430.890625,
+   "vortag": 26140.029296875,
+   "veraenderung_pct": 1.1127046753531156,
+   "datum": "2026-10-19",
+   "ist_heute": false,
+   "verlauf": [
+    27204.380859,
+    26692.869141,
+    26713.029297,
+    26140.029297,
+    26430.890625
+   ]
   },
   {
    "name": "Nikkei 225",
@@ -95,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 63992.48828125,
+   "kurs": 64075.421875,
    "vortag": 64916.69921875,
-   "veraenderung_pct": -1.423687508179805,
+   "veraenderung_pct": -1.2959336409190225,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -105,7 +117,7 @@
     64425.949219,
     65324.289062,
     64916.699219,
-    63992.488281
+    64075.421875
    ]
   }
  ],
@@ -116,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9266899824142456,
+   "kurs": 0.9263200163841248,
    "vortag": 0.9246399998664856,
-   "veraenderung_pct": 0.22170602051132526,
+   "veraenderung_pct": 0.1816941207260836,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -126,7 +138,7 @@
     0.93096,
     0.92813,
     0.92464,
-    0.92669
+    0.92632
    ]
   },
   {
@@ -135,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8237500190734863,
-   "vortag": 0.827750027179718,
-   "veraenderung_pct": -0.48323865598173255,
-   "datum": "2026-10-19",
-   "ist_heute": false,
+   "kurs": 0.8248999714851379,
+   "vortag": 0.8237500190734863,
+   "veraenderung_pct": 0.13959968255237154,
+   "datum": "2026-10-20",
+   "ist_heute": true,
    "verlauf": [
-    0.83409,
     0.8326,
     0.8316,
     0.82775,
-    0.82375
+    0.82375,
+    0.8249
    ]
   },
   {
@@ -154,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4140.2001953125,
+   "kurs": 4151.7001953125,
    "vortag": 4160.10009765625,
-   "veraenderung_pct": -0.47835152704526207,
+   "veraenderung_pct": -0.20191587093018049,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -164,7 +176,7 @@
     4170.100098,
     4181.100098,
     4160.100098,
-    4140.200195
+    4151.700195
    ]
   },
   {
@@ -173,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.4000015258789,
+   "kurs": 110.0999984741211,
    "vortag": 109.55000305175781,
-   "veraenderung_pct": 0.7759000004039285,
+   "veraenderung_pct": 0.5020496641186201,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -183,7 +195,7 @@
     105.919998,
     109.860001,
     109.550003,
-    110.400002
+    110.099998
    ]
   },
   {
@@ -192,17 +204,17 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81580.5703125,
-   "vortag": 82017.6015625,
-   "veraenderung_pct": -0.5328505609457079,
+   "kurs": 81647.8984375,
+   "vortag": 81853.5390625,
+   "veraenderung_pct": -0.2512299741163071,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
-    82141.460938,
     81500.804688,
     81382.148438,
     82017.601562,
-    81580.570312
+    81853.539062,
+    81647.898438
    ]
   }
  ],
@@ -211,17 +223,17 @@
    "name": "Schweiz",
    "quelle": "snb",
    "verfuegbar": true,
-   "wert": 0.572,
-   "vortag": 0.53,
-   "veraenderung_bp": 4.2,
-   "datum": "2026-10-16",
+   "wert": 0.577,
+   "vortag": 0.572,
+   "veraenderung_bp": 0.5,
+   "datum": "2026-10-19",
    "ist_heute": false,
    "verlauf": [
-    0.572,
     0.561,
     0.568,
     0.53,
-    0.572
+    0.572,
+    0.577
    ]
   },
   {
@@ -266,17 +278,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 82.55000305175781,
-   "vortag": 82.43000030517578,
-   "veraenderung_pct": 0.14558139771654321,
-   "datum": "2026-10-19",
-   "ist_heute": false,
+   "kurs": 82.68000030517578,
+   "vortag": 82.55000305175781,
+   "veraenderung_pct": 0.15747698196506565,
+   "datum": "2026-10-20",
+   "ist_heute": true,
    "verlauf": [
-    77.300003,
     78.889999,
     81.07,
     82.43,
-    82.550003
+    82.550003,
+    82.68
    ]
   },
   {
@@ -285,17 +297,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 124.69999694824219,
-   "vortag": 125.9000015258789,
-   "veraenderung_pct": -0.953141035022198,
-   "datum": "2026-10-16",
-   "ist_heute": false,
+   "kurs": 124.5199966430664,
+   "vortag": 124.69999694824219,
+   "veraenderung_pct": -0.14434667969598358,
+   "datum": "2026-10-20",
+   "ist_heute": true,
    "verlauf": [
-    119.959999,
     119.300003,
     122.660004,
     125.900002,
-    124.699997
+    124.699997,
+    124.519997
    ]
   },
   {
@@ -304,17 +316,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 380.1000061035156,
-   "vortag": 379.20001220703125,
-   "veraenderung_pct": 0.2373401549346399,
-   "datum": "2026-10-19",
-   "ist_heute": false,
+   "kurs": 384.3999938964844,
+   "vortag": 380.1000061035156,
+   "veraenderung_pct": 1.1312780120813049,
+   "datum": "2026-10-20",
+   "ist_heute": true,
    "verlauf": [
-    359.799988,
     370.899994,
     379.700012,
     379.200012,
-    380.100006
+    380.100006,
+    384.399994
    ]
   },
   {
@@ -323,17 +335,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.08000183105469,
-   "vortag": 39.630001068115234,
-   "veraenderung_pct": -1.3878355342842874,
-   "datum": "2026-10-19",
-   "ist_heute": false,
+   "kurs": 38.91999816894531,
+   "vortag": 39.08000183105469,
+   "veraenderung_pct": -0.4094259329901817,
+   "datum": "2026-10-20",
+   "ist_heute": true,
    "verlauf": [
-    40.09,
     39.470001,
     39.419998,
     39.630001,
-    39.080002
+    39.080002,
+    38.919998
    ]
   }
  ],
@@ -361,6 +373,38 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "CNBC Daily Open: Tech rebounds in the U.S., but Asia isn’t buying it yet",
+    "link": "https://www.cnbc.com/2026/10/20/daily-open-tech-stocks-rebound.html",
+    "zeit": "2026-10-20T07:14:27+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Eine japanische Raumsonde ist zum Mars aufgebrochen – rund um das Programm ist ein boomendes Weltraum-Ökosystem entstanden",
+    "link": "https://www.nzz.ch/wirtschaft/japan-fliegt-ins-marssystem-rund-um-das-programm-ist-ein-boomendes-weltraum-oekosystem-entstanden-ld.10035645",
+    "zeit": "2026-10-20T06:40:35+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
+    "link": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
+    "zeit": "2026-10-20T06:25:26+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Copper is outshining gold this year. Investors say the rally can survive an AI correction",
+    "link": "https://www.cnbc.com/2026/10/20/copper-prices-ai-spending-demand.html",
+    "zeit": "2026-10-20T05:57:34+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
    {
     "titel": "The world’s finance chiefs see new risks — and less China angst",
     "link": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
@@ -482,30 +526,6 @@
     "sprache": "en"
    },
    {
-    "titel": "CNBC's The China Connection newsletter: Navigating a tech-heavy world",
-    "link": "https://www.cnbc.com/2026/10/19/cnbcs-the-china-connection-newsletter-navigating-a-tech-heavy-world.html",
-    "zeit": "2026-10-19T23:00:02+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
-    "link": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html",
-    "zeit": "2026-10-19T21:00:02+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay",
-    "link": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-    "zeit": "2026-10-19T20:54:40+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "DATENANALYSE - Begonnen hat alles mit Schülerprotesten. Doch sind französische Schulen wirklich so schlecht?",
     "link": "https://www.nzz.ch/pro/in-frankreich-eskalieren-die-schuelerproteste-sind-franzoesische-schulen-wirklich-so-schlecht-ld.10027261",
     "zeit": "2026-10-19T14:00:00+00:00",
@@ -526,6 +546,14 @@
     "link": "https://www.nzz.ch/wirtschaft/wirtschaft-der-zwei-geschwindigkeiten-chinas-exporte-gehen-durch-die-decke-die-konsumenten-ueben-zurueckhaltung-ld.10038021",
     "zeit": "2026-10-19T12:29:29+00:00",
     "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "So verläuft der ETF-«Röschtigraben»",
+    "link": "https://www.finews.ch/news/finanzplatz/74053-deutschschweiz-besitzen-58-prozent-der-bevoelkerung-wertschriften-westschweiz-37-prozent-bei-etfs-unterschiede-region-aktiv-passiv",
+    "zeit": "2026-10-19T11:21:27+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -594,25 +622,9 @@
     "sprache": "de"
    },
    {
-    "titel": "Er ging in Zuoz ins Internat, jetzt soll er den grössten Fleischkonzern der Welt in Brasilien führen",
-    "link": "https://www.nzz.ch/wirtschaft/er-ging-in-zuoz-ins-internat-jetzt-soll-er-den-groessten-fleischkonzern-der-welt-in-brasilien-fuehren-ld.10025417",
-    "zeit": "2026-10-19T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Julius Bär rekrutiert Personalchefin aus Konsumgüterkonzern",
     "link": "https://www.finews.ch/news/banken/74031-juliusbaer-francis-hoefman-hr-personalchefin-reckitt",
     "zeit": "2026-10-19T03:18:04+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "ETFs: Der Preiskampf erreicht eine neue Dimension",
-    "link": "https://www.finews.ch/news/finanzplatz/74030-etf-preiskampf-gebuehren-anbieter-vertrieb-asset-management",
-    "zeit": "2026-10-19T02:35:09+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
