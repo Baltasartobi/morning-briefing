@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-20T11:09:07+02:00",
+ "aktualisiert": "2026-10-20T12:04:16+02:00",
  "kernaussagen": [
-  "SMI −0.20%, Nikkei 225 −1.30% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9246 (−0.38%)",
-  "Brent über 100 USD: 111.21 (+1.52%)"
+  "SMI −0.19%, Nikkei 225 −1.30% am schwächsten",
+  "Franken stabil: EUR/CHF 0.9249 (+0.03%)",
+  "Brent über 100 USD: 111.53 (+1.81%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14340.0400390625,
+   "kurs": 14341.0302734375,
    "vortag": 14368.7802734375,
-   "veraenderung_pct": -0.20001860859498732,
+   "veraenderung_pct": -0.19312703981770873,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14349.509766,
     14391.30957,
     14368.780273,
-    14340.040039
+    14341.030273
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25086.779296875,
+   "kurs": 25074.55078125,
    "vortag": 25319.76953125,
-   "veraenderung_pct": -0.920190976017532,
+   "veraenderung_pct": -0.9684872909184516,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25382.619141,
     25622.609375,
     25319.769531,
-    25086.779297
+    25074.550781
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6094.0,
+   "kurs": 6082.4599609375,
    "vortag": 6144.81005859375,
-   "veraenderung_pct": -0.8268776106869269,
+   "veraenderung_pct": -1.0146790065390432,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6168.259766,
     6204.22998,
     6144.810059,
-    6094.0
+    6082.459961
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9246399998664856,
-   "vortag": 0.9281299710273743,
-   "veraenderung_pct": -0.3760218148138761,
-   "datum": "2026-10-19",
-   "ist_heute": false,
+   "kurs": 0.9249299764633179,
+   "vortag": 0.9246399998664856,
+   "veraenderung_pct": 0.031361026656218094,
+   "datum": "2026-10-20",
+   "ist_heute": true,
    "verlauf": [
-    0.93083,
     0.93272,
     0.93096,
     0.92813,
-    0.92464
+    0.92464,
+    0.92493
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8244600296020508,
+   "kurs": 0.8245900273323059,
    "vortag": 0.8237500190734863,
-   "veraenderung_pct": 0.08619247491647997,
+   "veraenderung_pct": 0.10197368611468693,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8316,
     0.82775,
     0.82375,
-    0.82446
+    0.82459
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4139.2998046875,
+   "kurs": 4131.60009765625,
    "vortag": 4160.10009765625,
-   "veraenderung_pct": -0.4999950116697627,
+   "veraenderung_pct": -0.6850796695025863,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4170.100098,
     4181.100098,
     4160.100098,
-    4139.299805
+    4131.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.20999908447266,
+   "kurs": 111.52999877929688,
    "vortag": 109.55000305175781,
-   "veraenderung_pct": 1.5152861583495936,
+   "veraenderung_pct": 1.8073899337123667,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     105.919998,
     109.860001,
     109.550003,
-    111.209999
+    111.529999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81353.6171875,
+   "kurs": 81409.0390625,
    "vortag": 81853.5390625,
-   "veraenderung_pct": -0.6107516922613243,
+   "veraenderung_pct": -0.5430431049054607,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81382.148438,
     82017.601562,
     81853.539062,
-    81353.617188
+    81409.039062
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 82.69000244140625,
+   "kurs": 82.80999755859375,
    "vortag": 82.55000305175781,
-   "veraenderung_pct": 0.16959343970062157,
+   "veraenderung_pct": 0.3149539639301091,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     81.07,
     82.43,
     82.550003,
-    82.690002
+    82.809998
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 124.83999633789062,
+   "kurs": 125.04000091552734,
    "vortag": 124.19999694824219,
-   "veraenderung_pct": 0.5152974278374023,
+   "veraenderung_pct": 0.6763317133052782,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     125.900002,
     124.699997,
     124.199997,
-    124.839996
+    125.040001
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 385.6000061035156,
+   "kurs": 386.0,
    "vortag": 380.1000061035156,
-   "veraenderung_pct": 1.4469876115977165,
+   "veraenderung_pct": 1.5522214684936309,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     379.700012,
     379.200012,
     380.100006,
-    385.600006
+    386.0
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.56999969482422,
+   "kurs": 38.4900016784668,
    "vortag": 39.08000183105469,
-   "veraenderung_pct": -1.305020758277442,
+   "veraenderung_pct": -1.5097239635210369,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.419998,
     39.630001,
     39.080002,
-    38.57
+    38.490002
    ]
   }
  ],
@@ -374,6 +374,22 @@
   ],
   "artikel": [
    {
+    "titel": "France curfews calm unrest as Macron faces criticism over Gulf trip",
+    "link": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
+    "zeit": "2026-10-20T10:02:57+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "U.S. Treasury yields move lower as investors await housing data",
+    "link": "https://www.cnbc.com/2026/10/20/us-treasury-yields-investors-economy.html",
+    "zeit": "2026-10-20T09:57:07+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
     "link": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
     "zeit": "2026-10-20T08:59:25+00:00",
@@ -388,14 +404,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "France curfews calm unrest as Macron faces criticism over Gulf trip",
-    "link": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
-    "zeit": "2026-10-20T08:48:33+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "MELDUNGEN WIRTSCHAFT - ABB meldet Rekord bei Aufträgen im dritten Quartal",
@@ -414,25 +422,17 @@
     "sprache": "en"
    },
    {
-    "titel": "U.S. Treasury yields move lower as investors await housing, employment data",
-    "link": "https://www.cnbc.com/2026/10/20/us-treasury-yields-investors-economy.html",
-    "zeit": "2026-10-20T07:43:14+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "AXA Schweiz ernennt neuen Chief Investment Officer",
+    "link": "https://www.finews.ch/news/versicherungen/74072-axa-schweiz-cio",
+    "zeit": "2026-10-20T07:43:32+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "What’s making Europe so angry? The frustration behind the protests",
     "link": "https://www.cnbc.com/2026/10/20/france-protests-europe-cost-living-violence.html",
     "zeit": "2026-10-20T07:19:16+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "CNBC Daily Open: Tech rebounds in the U.S., but Asia isn’t buying it yet",
-    "link": "https://www.cnbc.com/2026/10/20/daily-open-tech-stocks-rebound.html",
-    "zeit": "2026-10-20T07:14:27+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -534,6 +534,14 @@
     "sprache": "en"
    },
    {
+    "titel": "Bank Indonesia faces mounting pressure to hike after MSCI threat fuels market rout",
+    "link": "https://www.cnbc.com/2026/10/20/indonesia-msci-inflation-interest-rate-.html",
+    "zeit": "2026-10-20T03:59:35+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Sparkasse Schwyz mit neuem Geschäftsleitungsmitglied",
     "link": "https://www.finews.ch/news/banken/74057-sparkasse-schwyz-wechsel-in-der-geschaeftsleitung-patrik-rickenbacher-leitung-des-privat-und-firmenkundengeschaefts-corinna-strickler",
     "zeit": "2026-10-20T03:53:05+00:00",
@@ -550,7 +558,7 @@
     "sprache": "de"
    },
    {
-    "titel": "Ein erfundener General, Phantasiemilliarden und endlose Nachsicht mit Putin: Wie Donald Trump Fake News über die Ukraine verbreitet",
+    "titel": "Ein erfundener General, Phantasiemilliarden und endlose Nachsicht mit Putin: Die Fake News, die Donald Trump über die Ukraine verbreitet",
     "link": "https://www.nzz.ch/international/ukraine-fake-news-von-trump-ein-erfundener-general-phantasiemilliarden-und-endlose-nachsicht-mit-putin-ld.10038220",
     "zeit": "2026-10-20T03:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
@@ -602,14 +610,6 @@
     "link": "https://www.nzz.ch/wirtschaft/wirtschaft-der-zwei-geschwindigkeiten-chinas-exporte-gehen-durch-die-decke-die-konsumenten-ueben-zurueckhaltung-ld.10038021",
     "zeit": "2026-10-19T12:29:29+00:00",
     "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "So verläuft der ETF-«Röschtigraben»",
-    "link": "https://www.finews.ch/news/finanzplatz/74053-deutschschweiz-besitzen-58-prozent-der-bevoelkerung-wertschriften-westschweiz-37-prozent-bei-etfs-unterschiede-region-aktiv-passiv",
-    "zeit": "2026-10-19T11:21:27+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
