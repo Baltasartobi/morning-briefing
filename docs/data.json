@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-20T17:10:40+02:00",
+ "aktualisiert": "2026-10-20T18:07:55+02:00",
  "kernaussagen": [
-  "SMI +0.78%, Nikkei 225 −0.62% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9246 (−0.38%)",
-  "Brent über 100 USD: 106.89 (−2.43%)"
+  "SMI +0.76%, Nikkei 225 −0.62% am schwächsten",
+  "Franken schwächer: EUR/CHF 0.9274 (+0.30%)",
+  "Brent über 100 USD: 108.40 (−1.05%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14480.490234375,
+   "kurs": 14478.3701171875,
    "vortag": 14368.7802734375,
-   "veraenderung_pct": 0.777449155820209,
+   "veraenderung_pct": 0.7626941303611634,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14349.509766,
     14391.30957,
     14368.780273,
-    14480.490234
+    14478.370117
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25377.380859375,
+   "kurs": 25304.419921875,
    "vortag": 25319.76953125,
-   "veraenderung_pct": 0.2275349625670886,
+   "veraenderung_pct": -0.060623021690842105,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25382.619141,
     25622.609375,
     25319.769531,
-    25377.380859
+    25304.419922
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6146.5,
+   "kurs": 6121.66015625,
    "vortag": 6144.81005859375,
-   "veraenderung_pct": 0.027501930737239277,
+   "veraenderung_pct": -0.3767391037803325,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6168.259766,
     6204.22998,
     6144.810059,
-    6146.5
+    6121.660156
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7734.5400390625,
+   "kurs": 7724.47021484375,
    "vortag": 7690.72998046875,
-   "veraenderung_pct": 0.569647597887446,
+   "veraenderung_pct": 0.4387130280309792,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7744.060059,
     7659.439941,
     7690.72998,
-    7734.540039
+    7724.470215
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26545.6953125,
+   "kurs": 26493.884765625,
    "vortag": 26430.890625,
-   "veraenderung_pct": 0.43435799848308143,
+   "veraenderung_pct": 0.23833529304311263,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26713.029297,
     26140.029297,
     26430.890625,
-    26545.695312
+    26493.884766
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9246399998664856,
-   "vortag": 0.9281299710273743,
-   "veraenderung_pct": -0.3760218148138761,
-   "datum": "2026-10-19",
-   "ist_heute": false,
+   "kurs": 0.9273899793624878,
+   "vortag": 0.9246399998664856,
+   "veraenderung_pct": 0.297410829771505,
+   "datum": "2026-10-20",
+   "ist_heute": true,
    "verlauf": [
-    0.93083,
     0.93272,
     0.93096,
     0.92813,
-    0.92464
+    0.92464,
+    0.92739
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8256800174713135,
+   "kurs": 0.8258399963378906,
    "vortag": 0.8237500190734863,
-   "veraenderung_pct": 0.23429418551006442,
+   "veraenderung_pct": 0.2537149882867462,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8316,
     0.82775,
     0.82375,
-    0.82568
+    0.82584
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4162.10009765625,
+   "kurs": 4149.5,
    "vortag": 4160.10009765625,
-   "veraenderung_pct": 0.048075766280875065,
+   "veraenderung_pct": -0.25480390873821035,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4170.100098,
     4181.100098,
     4160.100098,
-    4162.100098
+    4149.5
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 106.88999938964844,
+   "kurs": 108.4000015258789,
    "vortag": 109.55000305175781,
-   "veraenderung_pct": -2.4281182911995325,
+   "veraenderung_pct": -1.049750336689248,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     105.919998,
     109.860001,
     109.550003,
-    106.889999
+    108.400002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82914.4921875,
+   "kurs": 82578.0234375,
    "vortag": 81853.5390625,
-   "veraenderung_pct": 1.2961603580633252,
+   "veraenderung_pct": 0.885098412723262,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81382.148438,
     82017.601562,
     81853.539062,
-    82914.492188
+    82578.023438
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.096,
+   "wert": 5.113,
    "vortag": 5.136,
-   "veraenderung_bp": -4.0,
+   "veraenderung_bp": -2.3,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.089,
     5.098,
     5.136,
-    5.096
+    5.113
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.3499984741211,
+   "kurs": 83.11000061035156,
    "vortag": 82.55000305175781,
-   "veraenderung_pct": 0.9691040494107517,
+   "veraenderung_pct": 0.6783737588024641,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     81.07,
     82.43,
     82.550003,
-    83.349998
+    83.110001
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 126.16000366210938,
+   "kurs": 126.5,
    "vortag": 124.19999694824219,
-   "veraenderung_pct": 1.5781052834356935,
+   "veraenderung_pct": 1.8518543544862487,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     125.900002,
     124.699997,
     124.199997,
-    126.160004
+    126.5
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 389.0,
+   "kurs": 389.8999938964844,
    "vortag": 380.1000061035156,
-   "veraenderung_pct": 2.3414874384560136,
+   "veraenderung_pct": 2.578265623678999,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     379.700012,
     379.200012,
     380.100006,
-    389.0
+    389.899994
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.2599983215332,
+   "kurs": 39.099998474121094,
    "vortag": 39.08000183105469,
-   "veraenderung_pct": 0.46058465211094024,
+   "veraenderung_pct": 0.051168480372276726,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.419998,
     39.630001,
     39.080002,
-    39.259998
+    39.099998
    ]
   }
  ],
@@ -374,9 +374,41 @@
   ],
   "artikel": [
    {
+    "titel": "Jim Cramer says this is the 'magic elixir' driving Tuesday's stock market",
+    "link": "https://www.cnbc.com/investingclub/2026/10/20/jim-cramer-says-this-is-the-magic-elixir-driving-tuesdays-stock-market.html",
+    "zeit": "2026-10-20T16:01:17+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Oil prices fall as traders hope for diplomatic progress in Middle East",
+    "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
+    "zeit": "2026-10-20T15:46:16+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Data center stocks remain under pressure after Korea IPO plunges 30%",
+    "link": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
+    "zeit": "2026-10-20T15:45:47+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
+    "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+    "zeit": "2026-10-20T15:43:44+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay",
     "link": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-    "zeit": "2026-10-20T15:10:18+00:00",
+    "zeit": "2026-10-20T15:15:42+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -385,14 +417,6 @@
     "titel": "France to deploy military as it braces for fresh unrest this weekend",
     "link": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
     "zeit": "2026-10-20T15:01:38+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Oil prices fall as traders monitor conflict in the Middle East",
-    "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
-    "zeit": "2026-10-20T15:01:37+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -452,30 +476,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Data center stocks slide as Korea IPO plunges 30%, pressuring tech sentiment",
-    "link": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
-    "zeit": "2026-10-20T13:50:24+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
-    "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
-    "zeit": "2026-10-20T13:46:36+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Apple shares aren't cheap. Here's how to get long for less",
-    "link": "https://www.cnbc.com/2026/10/20/apple-shares-arent-cheap-heres-how-to-get-long-for-less.html",
-    "zeit": "2026-10-20T13:43:53+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Der Nvidia-Chef lästert über Deutschland. Dann ist er plötzlich der beste Werbebotschafter, den sich der Kanzler wünschen könnte",
