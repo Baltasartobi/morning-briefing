@@ -1,9 +1,8 @@
 {
- "aktualisiert": "2026-10-20T06:30:36+02:00",
+ "aktualisiert": "2026-10-20T07:04:04+02:00",
  "kernaussagen": [
-  "SMI −0.16%, DAX −1.18% am schwächsten",
-  "Franken schwächer: EUR/CHF 0.9264 (+0.19%)",
-  "Gold +0.14% auf 4'165.90 USD/Unze · Brent über 100 USD"
+  "SMI −0.16%, Nikkei 225 −1.27% am schwächsten",
+  "Brent über 100 USD: 109.83 (+0.26%)"
  ],
  "maerkte": [
   {
@@ -107,9 +106,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 64276.71875,
+   "kurs": 64094.05078125,
    "vortag": 64916.69921875,
-   "veraenderung_pct": -0.9858487514798897,
+   "veraenderung_pct": -1.2672370089673257,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +116,7 @@
     64425.949219,
     65324.289062,
     64916.699219,
-    64276.71875
+    64094.050781
    ]
   }
  ],
@@ -127,19 +126,7 @@
    "symbol": "EURCHF=X",
    "einheit": "",
    "dezimalen": 4,
-   "verfuegbar": true,
-   "kurs": 0.9264000058174133,
-   "vortag": 0.9246399998664856,
-   "veraenderung_pct": 0.19034499385510717,
-   "datum": "2026-10-20",
-   "ist_heute": true,
-   "verlauf": [
-    0.93272,
-    0.93096,
-    0.92813,
-    0.92464,
-    0.9264
-   ]
+   "verfuegbar": false
   },
   {
    "name": "USD/CHF",
@@ -147,9 +134,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8247600197792053,
+   "kurs": 0.8246300220489502,
    "vortag": 0.8237500190734863,
-   "veraenderung_pct": 0.1226100980070477,
+   "veraenderung_pct": 0.10682888680884073,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +144,7 @@
     0.8316,
     0.82775,
     0.82375,
-    0.82476
+    0.82463
    ]
   },
   {
@@ -166,9 +153,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4165.89990234375,
+   "kurs": 4162.2001953125,
    "vortag": 4160.10009765625,
-   "veraenderung_pct": 0.1394150273155148,
+   "veraenderung_pct": 0.05048190204446357,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +163,7 @@
     4170.100098,
     4181.100098,
     4160.100098,
-    4165.899902
+    4162.200195
    ]
   },
   {
@@ -185,9 +172,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.63999938964844,
+   "kurs": 109.83000183105469,
    "vortag": 109.55000305175781,
-   "veraenderung_pct": 0.08215092230359211,
+   "veraenderung_pct": 0.2555899329045097,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +182,7 @@
     105.919998,
     109.860001,
     109.550003,
-    109.639999
+    109.830002
    ]
   },
   {
@@ -204,9 +191,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81980.8515625,
+   "kurs": 81961.171875,
    "vortag": 82017.6015625,
-   "veraenderung_pct": -0.044807455107054306,
+   "veraenderung_pct": -0.06880192352003434,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +201,7 @@
     81500.804688,
     81382.148438,
     82017.601562,
-    81980.851562
+    81961.171875
    ]
   }
  ],
@@ -374,6 +361,22 @@
   ],
   "artikel": [
    {
+    "titel": "'Cannot play hide and seek': Minister's warning over haze sends Singapore agricultural stocks lower",
+    "link": "https://www.cnbc.com/2026/10/20/singapore-haze-shanmugam-indonesia-malaysia.html",
+    "zeit": "2026-10-20T04:48:52+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Verschärfung geplant – Heimatschutz für Schweizer Immobilien: Streit um Lex Koller",
+    "link": "https://www.srf.ch/news/wirtschaft/verschaerfung-geplant-heimatschutz-fuer-schweizer-immobilien-streit-um-lex-koller",
+    "zeit": "2026-10-20T04:42:31+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Bank Indonesia faces mounting pressure to hike after MSCI threat fuels market rout",
     "link": "https://www.cnbc.com/2026/10/20/indonesia-msci-inflation-interest-rate-.html",
     "zeit": "2026-10-20T03:59:35+00:00",
@@ -406,7 +409,7 @@
     "sprache": "de"
    },
    {
-    "titel": "Kiews Einwohner rüsten sich für einen harten Winter",
+    "titel": "Es wird ein harter Winter in Kiew. Wie Alexandra, Wadim und Karina sich auf die Kälte und russische Angriffe vorbereiten",
     "link": "https://www.nzz.ch/international/kiew-vor-dem-winter-sorgen-um-energieversorgung-und-sicherheit-ld.10026309",
     "zeit": "2026-10-20T03:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
@@ -478,14 +481,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop",
-    "link": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html",
-    "zeit": "2026-10-19T19:46:07+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "DATENANALYSE - Begonnen hat alles mit Schülerprotesten. Doch sind französische Schulen wirklich so schlecht?",
     "link": "https://www.nzz.ch/pro/in-frankreich-eskalieren-die-schuelerproteste-sind-franzoesische-schulen-wirklich-so-schlecht-ld.10027261",
     "zeit": "2026-10-19T14:00:00+00:00",
@@ -545,6 +540,14 @@
     "titel": "El Niño und Iran-Krieg: Agrarrohstoffe drohen zum nächsten Preistreiber zu werden",
     "link": "https://www.finews.ch/news/finanzplatz/74036-el-nino-wetterphaenomen-iran-krieg-preise-fuer-wichtige-agrarrohstoffe-deutlich-veraendern-zucker-kaffee-und-mais-wisdomtree",
     "zeit": "2026-10-19T05:14:03+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Sustainable Finance tritt in die nächste Phase ein",
+    "link": "https://www.finews.ch/news/banken/74034-august-benz-building-bridges-2026-sustainable-finance-klimaanpassung",
+    "zeit": "2026-10-19T04:33:42+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
@@ -674,22 +677,6 @@
     "link": "https://www.finews.ch/news/finanzplatz/74024-partners-group-stellenabbau-private-equity",
     "zeit": "2026-10-16T06:14:50+00:00",
     "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Admicasa bekommt neuen Finanzchef",
-    "link": "https://www.finews.ch/news/finanzplatz/74023-admicasa-cfo-cyril-notz",
-    "zeit": "2026-10-16T05:23:12+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Bundesgericht zu CS-Boni – Die CS-Manager haben versagt, darum werden sie nicht belohnt",
-    "link": "https://www.srf.ch/news/wirtschaft/bundesgericht-zu-cs-boni-die-cs-manager-haben-versagt-darum-werden-sie-nicht-belohnt",
-    "zeit": "2026-10-15T12:56:30+00:00",
-    "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    }
