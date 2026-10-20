@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-20T20:02:04+02:00",
+ "aktualisiert": "2026-10-20T20:36:33+02:00",
  "kernaussagen": [
   "SMI +0.76%, Nikkei 225 −0.62% am schwächsten",
-  "Franken schwächer: EUR/CHF 0.9270 (+0.25%)",
-  "Bitcoin +1.02% auf 82'685 USD · Brent über 100 USD"
+  "Franken stärker: EUR/CHF 0.9246 (−0.38%)",
+  "Bitcoin +0.73% auf 82'454 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7721.7900390625,
+   "kurs": 7712.9599609375,
    "vortag": 7690.72998046875,
-   "veraenderung_pct": 0.4038635951675529,
+   "veraenderung_pct": 0.28904903078388333,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7744.060059,
     7659.439941,
     7690.72998,
-    7721.790039
+    7712.959961
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26486.83984375,
+   "kurs": 26440.083984375,
    "vortag": 26430.890625,
-   "veraenderung_pct": 0.2116811708837485,
+   "veraenderung_pct": 0.03478263182816743,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26713.029297,
     26140.029297,
     26430.890625,
-    26486.839844
+    26440.083984
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9269599914550781,
-   "vortag": 0.9246399998664856,
-   "veraenderung_pct": 0.25090755201240267,
-   "datum": "2026-10-20",
-   "ist_heute": true,
+   "kurs": 0.9246399998664856,
+   "vortag": 0.9281299710273743,
+   "veraenderung_pct": -0.3760218148138761,
+   "datum": "2026-10-19",
+   "ist_heute": false,
    "verlauf": [
+    0.93083,
     0.93272,
     0.93096,
     0.92813,
-    0.92464,
-    0.92696
+    0.92464
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8250899910926819,
+   "kurs": 0.8247399926185608,
    "vortag": 0.8237500190734863,
-   "veraenderung_pct": 0.16266731267609025,
+   "veraenderung_pct": 0.12017887977568975,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8316,
     0.82775,
     0.82375,
-    0.82509
+    0.82474
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4143.60009765625,
+   "kurs": 4143.2001953125,
    "vortag": 4160.10009765625,
-   "veraenderung_pct": -0.39662507181728035,
+   "veraenderung_pct": -0.40623787762393837,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4170.100098,
     4181.100098,
     4160.100098,
-    4143.600098
+    4143.200195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 108.70999908447266,
+   "kurs": 108.75,
    "vortag": 109.55000305175781,
-   "veraenderung_pct": -0.7667767630168743,
+   "veraenderung_pct": -0.7302629205586109,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     105.919998,
     109.860001,
     109.550003,
-    108.709999
+    108.75
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82684.6796875,
+   "kurs": 82453.6875,
    "vortag": 81853.5390625,
-   "veraenderung_pct": 1.0153997426615602,
+   "veraenderung_pct": 0.7331979097956243,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81382.148438,
     82017.601562,
     81853.539062,
-    82684.679688
+    82453.6875
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.117,
+   "wert": 5.123,
    "vortag": 5.136,
-   "veraenderung_bp": -1.9,
+   "veraenderung_bp": -1.3,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.089,
     5.098,
     5.136,
-    5.117
+    5.123
    ]
   }
  ],
@@ -374,9 +374,33 @@
   ],
   "artikel": [
    {
-    "titel": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-    "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
-    "zeit": "2026-10-20T17:50:11+00:00",
+    "titel": "Mike Bloomberg spent $80M to boost Democrats in midterms: NYT",
+    "link": "https://www.cnbc.com/2026/10/20/mike-bloomberg-democrats-house-trump.html",
+    "zeit": "2026-10-20T18:30:53+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Seilbahnen steigern Umsatz – Skigebiete mit Rekordergebnis – aber Tageskarten werden teurer",
+    "link": "https://www.srf.ch/news/wirtschaft/seilbahnen-steigern-umsatz-skigebiete-mit-rekordergebnis-aber-tageskarten-werden-teurer",
+    "zeit": "2026-10-20T18:28:45+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Traders are betting Netflix's stock drama may be coming to an end",
+    "link": "https://www.cnbc.com/2026/10/20/traders-are-betting-netflixs-stock-drama-may-be-coming-to-an-end.html",
+    "zeit": "2026-10-20T18:10:13+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Stocks try for back-to-back gains — plus, Qnity gets iPhone business from Apple",
+    "link": "https://www.cnbc.com/investingclub/2026/10/20/stocks-try-for-back-to-back-gains-plus-qnity-gets-iphone-business-from-apple.html",
+    "zeit": "2026-10-20T18:09:42+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,7 +408,15 @@
    {
     "titel": "Trump sued over 50% tariffs on Canada in latest trade challenge",
     "link": "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html",
-    "zeit": "2026-10-20T17:49:38+00:00",
+    "zeit": "2026-10-20T18:06:13+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+    "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+    "zeit": "2026-10-20T18:03:57+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -393,14 +425,6 @@
     "titel": "If Elon Musk gifts SpaceX stock through Trump Accounts, it will come with a catch",
     "link": "https://www.cnbc.com/2026/10/20/musk-spacex-trump-account-stock-rules.html",
     "zeit": "2026-10-20T17:29:38+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "What Amazon must do to get its stumbling stock back to record highs and beyond",
-    "link": "https://www.cnbc.com/investingclub/2026/10/20/what-amazon-must-do-to-get-its-stumbling-stock-back-to-record-highs-and-beyond.html",
-    "zeit": "2026-10-20T16:49:28+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -433,22 +457,6 @@
     "titel": "Here's what to expect when Netflix reports earnings after the bell",
     "link": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
     "zeit": "2026-10-20T16:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Data center stocks remain under pressure after Korea IPO plunges 30%",
-    "link": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
-    "zeit": "2026-10-20T15:45:47+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
-    "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
-    "zeit": "2026-10-20T15:43:44+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -681,14 +689,6 @@
     "titel": "EU setzt auf Heimatschutz – «Made in Europe» – für die Schweiz kein Problem (mehr)?",
     "link": "https://www.srf.ch/news/international/eu-setzt-auf-heimatschutz-made-in-europe-fuer-die-schweiz-kein-problem-mehr",
     "zeit": "2026-10-16T13:00:43+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Fliegendes Auto – Teslas neuer Roadster hebt ab – dank Raketendüsen",
-    "link": "https://www.srf.ch/news/wirtschaft/fliegendes-auto-teslas-neuer-roadster-hebt-ab-dank-raketenduesen",
-    "zeit": "2026-10-16T06:47:46+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
