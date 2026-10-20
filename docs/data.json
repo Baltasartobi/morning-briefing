@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-20T14:02:25+02:00",
+ "aktualisiert": "2026-10-20T14:40:46+02:00",
  "kernaussagen": [
-  "SMI +0.11%, Nikkei 225 −1.30% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9234 (−0.14%)",
-  "Brent über 100 USD: 111.41 (+1.70%)"
+  "SMI +0.09%, Nikkei 225 −1.30% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9237 (−0.11%)",
+  "Brent über 100 USD: 110.79 (+1.13%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14383.98046875,
+   "kurs": 14381.7802734375,
    "vortag": 14368.7802734375,
-   "veraenderung_pct": 0.10578626037311967,
+   "veraenderung_pct": 0.09047392856325054,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14349.509766,
     14391.30957,
     14368.780273,
-    14383.980469
+    14381.780273
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25129.029296875,
+   "kurs": 25088.390625,
    "vortag": 25319.76953125,
-   "veraenderung_pct": -0.7533253181455146,
+   "veraenderung_pct": -0.9138270629376333,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25382.619141,
     25622.609375,
     25319.769531,
-    25129.029297
+    25088.390625
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6083.5400390625,
+   "kurs": 6077.60986328125,
    "vortag": 6144.81005859375,
-   "veraenderung_pct": -0.9971019274316095,
+   "veraenderung_pct": -1.093608991518269,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6168.259766,
     6204.22998,
     6144.810059,
-    6083.540039
+    6077.609863
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9233700037002563,
+   "kurs": 0.9236599802970886,
    "vortag": 0.9246399998664856,
-   "veraenderung_pct": -0.13735033812214414,
+   "veraenderung_pct": -0.10598931146591495,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93096,
     0.92813,
     0.92464,
-    0.92337
+    0.92366
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8235599994659424,
-   "vortag": 0.8237500190734863,
-   "veraenderung_pct": -0.023067630123718708,
-   "datum": "2026-10-20",
-   "ist_heute": true,
+   "kurs": 0.8237500190734863,
+   "vortag": 0.827750027179718,
+   "veraenderung_pct": -0.48323865598173255,
+   "datum": "2026-10-19",
+   "ist_heute": false,
    "verlauf": [
+    0.83409,
     0.8326,
     0.8316,
     0.82775,
-    0.82375,
-    0.82356
+    0.82375
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4140.2998046875,
+   "kurs": 4137.2998046875,
    "vortag": 4160.10009765625,
-   "veraenderung_pct": -0.47595712852931404,
+   "veraenderung_pct": -0.5480707779506377,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4170.100098,
     4181.100098,
     4160.100098,
-    4140.299805
+    4137.299805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.41000366210938,
+   "kurs": 110.79000091552734,
    "vortag": 109.55000305175781,
-   "veraenderung_pct": 1.6978553706409105,
+   "veraenderung_pct": 1.131901258992829,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     105.919998,
     109.860001,
     109.550003,
-    111.410004
+    110.790001
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81412.21875,
+   "kurs": 81453.2890625,
    "vortag": 81853.5390625,
-   "veraenderung_pct": -0.5391584988927889,
+   "veraenderung_pct": -0.4889831332697603,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81382.148438,
     82017.601562,
     81853.539062,
-    81412.21875
+    81453.289062
    ]
   }
  ],
@@ -257,17 +257,17 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.136,
-   "vortag": 5.098,
-   "veraenderung_bp": 3.8,
-   "datum": "2026-10-19",
-   "ist_heute": false,
+   "wert": 5.09,
+   "vortag": 5.136,
+   "veraenderung_bp": -4.6,
+   "datum": "2026-10-20",
+   "ist_heute": true,
    "verlauf": [
-    5.217,
     5.19,
     5.089,
     5.098,
-    5.136
+    5.136,
+    5.09
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.2300033569336,
+   "kurs": 83.30000305175781,
    "vortag": 82.55000305175781,
-   "veraenderung_pct": 0.8237435251812419,
+   "veraenderung_pct": 0.9085402450315527,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     81.07,
     82.43,
     82.550003,
-    83.230003
+    83.300003
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 125.54000091552734,
+   "kurs": 125.27999877929688,
    "vortag": 124.19999694824219,
-   "veraenderung_pct": 1.0789082127301342,
+   "veraenderung_pct": 0.8695667130368401,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     125.900002,
     124.699997,
     124.199997,
-    125.540001
+    125.279999
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 387.0,
+   "kurs": 386.1000061035156,
    "vortag": 380.1000061035156,
-   "veraenderung_pct": 1.815310125147751,
+   "veraenderung_pct": 1.5785319399247655,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     379.700012,
     379.200012,
     380.100006,
-    387.0
+    386.100006
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.5,
+   "kurs": 38.47999954223633,
    "vortag": 39.08000183105469,
-   "veraenderung_pct": -1.4841397233348985,
+   "veraenderung_pct": -1.5353179649586712,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.419998,
     39.630001,
     39.080002,
-    38.5
+    38.48
    ]
   }
  ],
@@ -374,9 +374,17 @@
   ],
   "artikel": [
    {
-    "titel": "U.S. oil surges to top $110, Brent crude at five-month high amid Mideast tensions",
-    "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
-    "zeit": "2026-10-20T11:49:45+00:00",
+    "titel": "Apple adds U.S. titanium supplier for iPhone Duo as supply stays tight",
+    "link": "https://www.cnbc.com/2026/10/20/apple-adds-us-titanium-supplier-for-iphone-duo.html",
+    "zeit": "2026-10-20T12:29:26+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "UK to deploy fighter jets to defend Saudi cities from Houthi attacks",
+    "link": "https://www.cnbc.com/2026/10/20/uk-fighter-jets-saudi-houthi-attacks-iran.html",
+    "zeit": "2026-10-20T12:23:29+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,7 +392,31 @@
    {
     "titel": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
     "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
-    "zeit": "2026-10-20T11:45:30+00:00",
+    "zeit": "2026-10-20T12:11:32+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "U.S. Treasury yields move lower as investors await housing data",
+    "link": "https://www.cnbc.com/2026/10/20/us-treasury-yields-investors-economy.html",
+    "zeit": "2026-10-20T12:08:44+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Draymond Green says he's 'not Steph Curry,' wants to play another year even if he leaves Golden State Warriors",
+    "link": "https://www.cnbc.com/2026/10/20/draymond-green-says-hell-play-in-2027-with-or-without-the-warriors.html",
+    "zeit": "2026-10-20T12:00:02+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "AI rally fades away from Wall Street as a tiny IPO makes big waves",
+    "link": "https://www.cnbc.com/2026/10/20/ai-rally-fades-elice-ipo-dives.html",
+    "zeit": "2026-10-20T11:34:03+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -414,25 +446,17 @@
     "sprache": "en"
    },
    {
+    "titel": "Google-Cloud-Störung trifft Revolut und britische Banken",
+    "link": "https://www.finews.ch/news/banken/74077-google-cloud-outage-revolut-uk-banks",
+    "zeit": "2026-10-20T10:11:14+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "France curfews calm unrest as Macron faces criticism over Gulf trip",
     "link": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
     "zeit": "2026-10-20T10:02:57+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Walmart launches joint membership with Sam's Club as it leans into delivery, gas discounts",
-    "link": "https://www.cnbc.com/2026/10/20/walmart-sams-club-plus-membership.html",
-    "zeit": "2026-10-20T10:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "U.S. Treasury yields move lower as investors await housing data",
-    "link": "https://www.cnbc.com/2026/10/20/us-treasury-yields-investors-economy.html",
-    "zeit": "2026-10-20T09:57:07+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -462,28 +486,12 @@
     "sprache": "de"
    },
    {
-    "titel": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
-    "link": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
-    "zeit": "2026-10-20T08:17:14+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "AXA Schweiz ernennt neuen Chief Investment Officer",
     "link": "https://www.finews.ch/news/versicherungen/74072-axa-schweiz-cio",
     "zeit": "2026-10-20T07:43:32+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "What’s making Europe so angry? The frustration behind the protests",
-    "link": "https://www.cnbc.com/2026/10/20/france-protests-europe-cost-living-violence.html",
-    "zeit": "2026-10-20T07:19:16+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Finma genehmigt ersten Schweizer Bitcoin-ETF",
@@ -586,14 +594,6 @@
     "link": "https://www.nzz.ch/international/kiew-vor-dem-winter-sorgen-um-energieversorgung-und-sicherheit-ld.10026309",
     "zeit": "2026-10-20T03:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Banque Heritage holt Anlagespezialistin von Edmond de Rothschild",
-    "link": "https://www.finews.ch/news/banken/74055-banque-heritage-agnes-krafft-edmond-de-rothschild-investment-solutions",
-    "zeit": "2026-10-20T03:26:03+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
