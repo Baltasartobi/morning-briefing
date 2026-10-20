@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-20T20:36:33+02:00",
+ "aktualisiert": "2026-10-20T21:33:46+02:00",
  "kernaussagen": [
   "SMI +0.76%, Nikkei 225 −0.62% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9246 (−0.38%)",
-  "Bitcoin +0.73% auf 82'454 USD · Brent über 100 USD"
+  "Franken schwächer: EUR/CHF 0.9268 (+0.23%)",
+  "Bitcoin +0.70% auf 82'423 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7712.9599609375,
+   "kurs": 7710.75,
    "vortag": 7690.72998046875,
-   "veraenderung_pct": 0.28904903078388333,
+   "veraenderung_pct": 0.2603136448957599,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7744.060059,
     7659.439941,
     7690.72998,
-    7712.959961
+    7710.75
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26440.083984375,
+   "kurs": 26428.330078125,
    "vortag": 26430.890625,
-   "veraenderung_pct": 0.03478263182816743,
+   "veraenderung_pct": -0.009687705614347397,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26713.029297,
     26140.029297,
     26430.890625,
-    26440.083984
+    26428.330078
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9246399998664856,
-   "vortag": 0.9281299710273743,
-   "veraenderung_pct": -0.3760218148138761,
-   "datum": "2026-10-19",
-   "ist_heute": false,
+   "kurs": 0.9267799854278564,
+   "vortag": 0.9246399998664856,
+   "veraenderung_pct": 0.23143986434501773,
+   "datum": "2026-10-20",
+   "ist_heute": true,
    "verlauf": [
-    0.93083,
     0.93272,
     0.93096,
     0.92813,
-    0.92464
+    0.92464,
+    0.92678
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8247399926185608,
+   "kurs": 0.8248800039291382,
    "vortag": 0.8237500190734863,
-   "veraenderung_pct": 0.12017887977568975,
+   "veraenderung_pct": 0.1371757000895535,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8316,
     0.82775,
     0.82375,
-    0.82474
+    0.82488
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4143.2001953125,
+   "kurs": 4139.2998046875,
    "vortag": 4160.10009765625,
-   "veraenderung_pct": -0.40623787762393837,
+   "veraenderung_pct": -0.4999950116697627,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4170.100098,
     4181.100098,
     4160.100098,
-    4143.200195
+    4139.299805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 108.75,
+   "kurs": 109.2300033569336,
    "vortag": 109.55000305175781,
-   "veraenderung_pct": -0.7302629205586109,
+   "veraenderung_pct": -0.2921037753627731,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     105.919998,
     109.860001,
     109.550003,
-    108.75
+    109.230003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82453.6875,
+   "kurs": 82422.7734375,
    "vortag": 81853.5390625,
-   "veraenderung_pct": 0.7331979097956243,
+   "veraenderung_pct": 0.6954303766454784,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81382.148438,
     82017.601562,
     81853.539062,
-    82453.6875
+    82422.773438
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.123,
+   "wert": 5.117,
    "vortag": 5.136,
-   "veraenderung_bp": -1.3,
+   "veraenderung_bp": -1.9,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.089,
     5.098,
     5.136,
-    5.123
+    5.117
    ]
   }
  ],
@@ -374,6 +374,30 @@
   ],
   "artikel": [
    {
+    "titel": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+    "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+    "zeit": "2026-10-20T19:28:43+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
+    "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+    "zeit": "2026-10-20T19:07:15+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "We're booking big profits in an AI stock and trimming a credit-exposed bank",
+    "link": "https://www.cnbc.com/investingclub/2026/10/20/were-booking-big-profits-in-an-ai-stock-and-trimming-a-credit-exposed-bank.html",
+    "zeit": "2026-10-20T19:00:39+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Mike Bloomberg spent $80M to boost Democrats in midterms: NYT",
     "link": "https://www.cnbc.com/2026/10/20/mike-bloomberg-democrats-house-trump.html",
     "zeit": "2026-10-20T18:30:53+00:00",
@@ -398,41 +422,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Stocks try for back-to-back gains — plus, Qnity gets iPhone business from Apple",
-    "link": "https://www.cnbc.com/investingclub/2026/10/20/stocks-try-for-back-to-back-gains-plus-qnity-gets-iphone-business-from-apple.html",
-    "zeit": "2026-10-20T18:09:42+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Trump sued over 50% tariffs on Canada in latest trade challenge",
     "link": "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html",
     "zeit": "2026-10-20T18:06:13+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-    "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
-    "zeit": "2026-10-20T18:03:57+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "If Elon Musk gifts SpaceX stock through Trump Accounts, it will come with a catch",
-    "link": "https://www.cnbc.com/2026/10/20/musk-spacex-trump-account-stock-rules.html",
-    "zeit": "2026-10-20T17:29:38+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "What options traders expect from SpaceX earnings after the bell",
-    "link": "https://www.cnbc.com/2026/10/20/spacex-reports-after-the-bell-heres-what-options-traders-expect-.html",
-    "zeit": "2026-10-20T16:34:36+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -457,6 +449,14 @@
     "titel": "Here's what to expect when Netflix reports earnings after the bell",
     "link": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
     "zeit": "2026-10-20T16:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Data center stocks remain under pressure after Korea IPO plunges 30%",
+    "link": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
+    "zeit": "2026-10-20T15:45:47+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
