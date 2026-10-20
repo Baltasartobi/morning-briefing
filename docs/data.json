@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-20T18:07:55+02:00",
+ "aktualisiert": "2026-10-20T19:11:59+02:00",
  "kernaussagen": [
   "SMI +0.76%, Nikkei 225 −0.62% am schwächsten",
-  "Franken schwächer: EUR/CHF 0.9274 (+0.30%)",
-  "Brent über 100 USD: 108.40 (−1.05%)"
+  "Franken schwächer: EUR/CHF 0.9277 (+0.33%)",
+  "Bitcoin +1.08% auf 82'737 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7724.47021484375,
+   "kurs": 7714.1201171875,
    "vortag": 7690.72998046875,
-   "veraenderung_pct": 0.4387130280309792,
+   "veraenderung_pct": 0.30413415603136595,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7744.060059,
     7659.439941,
     7690.72998,
-    7724.470215
+    7714.120117
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26493.884765625,
+   "kurs": 26460.77734375,
    "vortag": 26430.890625,
-   "veraenderung_pct": 0.23833529304311263,
+   "veraenderung_pct": 0.11307495904708809,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26713.029297,
     26140.029297,
     26430.890625,
-    26493.884766
+    26460.777344
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9273899793624878,
+   "kurs": 0.9276700019836426,
    "vortag": 0.9246399998664856,
-   "veraenderung_pct": 0.297410829771505,
+   "veraenderung_pct": 0.3276953319772513,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93096,
     0.92813,
     0.92464,
-    0.92739
+    0.92767
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8258399963378906,
+   "kurs": 0.8260899782180786,
    "vortag": 0.8237500190734863,
-   "veraenderung_pct": 0.2537149882867462,
+   "veraenderung_pct": 0.28406180156743677,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8316,
     0.82775,
     0.82375,
-    0.82584
+    0.82609
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4149.5,
+   "kurs": 4136.89990234375,
    "vortag": 4160.10009765625,
-   "veraenderung_pct": -0.25480390873821035,
+   "veraenderung_pct": -0.5576835837572958,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4170.100098,
     4181.100098,
     4160.100098,
-    4149.5
+    4136.899902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 108.4000015258789,
+   "kurs": 109.0199966430664,
    "vortag": 109.55000305175781,
-   "veraenderung_pct": -1.049750336689248,
+   "veraenderung_pct": -0.4838031893445005,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     105.919998,
     109.860001,
     109.550003,
-    108.400002
+    109.019997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82578.0234375,
+   "kurs": 82736.5234375,
    "vortag": 81853.5390625,
-   "veraenderung_pct": 0.885098412723262,
+   "veraenderung_pct": 1.078736955192361,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81382.148438,
     82017.601562,
     81853.539062,
-    82578.023438
+    82736.523438
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.113,
+   "wert": 5.132,
    "vortag": 5.136,
-   "veraenderung_bp": -2.3,
+   "veraenderung_bp": -0.4,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.089,
     5.098,
     5.136,
-    5.113
+    5.132
    ]
   }
  ],
@@ -374,9 +374,25 @@
   ],
   "artikel": [
    {
-    "titel": "Jim Cramer says this is the 'magic elixir' driving Tuesday's stock market",
-    "link": "https://www.cnbc.com/investingclub/2026/10/20/jim-cramer-says-this-is-the-magic-elixir-driving-tuesdays-stock-market.html",
-    "zeit": "2026-10-20T16:01:17+00:00",
+    "titel": "What Amazon must do to get its stumbling stock back to record highs and beyond",
+    "link": "https://www.cnbc.com/investingclub/2026/10/20/what-amazon-must-do-to-get-its-stumbling-stock-back-to-record-highs-and-beyond.html",
+    "zeit": "2026-10-20T16:49:28+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trump sued over 50% tariffs on Canada in latest trade challenge",
+    "link": "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html",
+    "zeit": "2026-10-20T16:43:42+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "What options traders expect from SpaceX earnings after the bell",
+    "link": "https://www.cnbc.com/2026/10/20/spacex-reports-after-the-bell-heres-what-options-traders-expect-.html",
+    "zeit": "2026-10-20T16:34:36+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,7 +400,23 @@
    {
     "titel": "Oil prices fall as traders hope for diplomatic progress in Middle East",
     "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
-    "zeit": "2026-10-20T15:46:16+00:00",
+    "zeit": "2026-10-20T16:19:38+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
+    "link": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
+    "zeit": "2026-10-20T16:11:02+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Here's what to expect when Netflix reports earnings after the bell",
+    "link": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+    "zeit": "2026-10-20T16:00:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -436,38 +468,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "September data shows housing market in a deep freeze",
-    "link": "https://www.cnbc.com/2026/10/20/september-data-shows-housing-market-in-a-deep-freeze.html",
-    "zeit": "2026-10-20T14:18:58+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC",
-    "link": "https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html",
-    "zeit": "2026-10-20T14:12:38+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 50%",
-    "link": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
-    "zeit": "2026-10-20T14:09:16+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "What options traders expect from SpaceX earnings after the bell",
-    "link": "https://www.cnbc.com/2026/10/20/spacex-reports-after-the-bell-heres-what-options-traders-expect-.html",
-    "zeit": "2026-10-20T14:01:49+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Strassenschlachten und rekordhohe Schulden: Die Märkte verlieren das Vertrauen in Frankreich",
