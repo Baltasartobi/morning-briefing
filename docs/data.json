@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-20T14:40:46+02:00",
+ "aktualisiert": "2026-10-20T15:41:12+02:00",
  "kernaussagen": [
-  "SMI +0.09%, Nikkei 225 −1.30% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9237 (−0.11%)",
-  "Brent über 100 USD: 110.79 (+1.13%)"
+  "SMI +0.07%, Nikkei 225 −1.30% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9241 (−0.06%)",
+  "Gold −0.55% auf 4'137.20 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14381.7802734375,
+   "kurs": 14379.1904296875,
    "vortag": 14368.7802734375,
-   "veraenderung_pct": 0.09047392856325054,
+   "veraenderung_pct": 0.0724498256072792,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14349.509766,
     14391.30957,
     14368.780273,
-    14381.780273
+    14379.19043
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25088.390625,
+   "kurs": 25120.76953125,
    "vortag": 25319.76953125,
-   "veraenderung_pct": -0.9138270629376333,
+   "veraenderung_pct": -0.7859471222847914,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25382.619141,
     25622.609375,
     25319.769531,
-    25088.390625
+    25120.769531
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6077.60986328125,
+   "kurs": 6089.43017578125,
    "vortag": 6144.81005859375,
-   "veraenderung_pct": -1.093608991518269,
+   "veraenderung_pct": -0.9012464548851074,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6168.259766,
     6204.22998,
     6144.810059,
-    6077.609863
+    6089.430176
    ]
   },
   {
@@ -69,17 +69,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7690.72998046875,
-   "vortag": 7659.43994140625,
-   "veraenderung_pct": 0.4085160181666714,
-   "datum": "2026-10-19",
-   "ist_heute": false,
+   "kurs": 7679.68994140625,
+   "vortag": 7690.72998046875,
+   "veraenderung_pct": -0.14354995027178186,
+   "datum": "2026-10-20",
+   "ist_heute": true,
    "verlauf": [
-    7805.450195,
     7718.939941,
     7744.060059,
     7659.439941,
-    7690.72998
+    7690.72998,
+    7679.689941
    ]
   },
   {
@@ -88,17 +88,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26430.890625,
-   "vortag": 26140.029296875,
-   "veraenderung_pct": 1.1127046753531156,
-   "datum": "2026-10-19",
-   "ist_heute": false,
+   "kurs": 26234.6640625,
+   "vortag": 26430.890625,
+   "veraenderung_pct": -0.7424137358216676,
+   "datum": "2026-10-20",
+   "ist_heute": true,
    "verlauf": [
-    27204.380859,
     26692.869141,
     26713.029297,
     26140.029297,
-    26430.890625
+    26430.890625,
+    26234.664062
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9236599802970886,
+   "kurs": 0.9240800142288208,
    "vortag": 0.9246399998664856,
-   "veraenderung_pct": -0.10598931146591495,
+   "veraenderung_pct": -0.0605625581572955,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93096,
     0.92813,
     0.92464,
-    0.92366
+    0.92408
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8237500190734863,
-   "vortag": 0.827750027179718,
-   "veraenderung_pct": -0.48323865598173255,
-   "datum": "2026-10-19",
-   "ist_heute": false,
+   "kurs": 0.8226600289344788,
+   "vortag": 0.8237500190734863,
+   "veraenderung_pct": -0.1323204993953775,
+   "datum": "2026-10-20",
+   "ist_heute": true,
    "verlauf": [
-    0.83409,
     0.8326,
     0.8316,
     0.82775,
-    0.82375
+    0.82375,
+    0.82266
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4137.2998046875,
+   "kurs": 4137.2001953125,
    "vortag": 4160.10009765625,
-   "veraenderung_pct": -0.5480707779506377,
+   "veraenderung_pct": -0.5504651764665858,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4170.100098,
     4181.100098,
     4160.100098,
-    4137.299805
+    4137.200195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.79000091552734,
+   "kurs": 110.08000183105469,
    "vortag": 109.55000305175781,
-   "veraenderung_pct": 1.131901258992829,
+   "veraenderung_pct": 0.4837962250411554,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     105.919998,
     109.860001,
     109.550003,
-    110.790001
+    110.080002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81453.2890625,
+   "kurs": 81565.1328125,
    "vortag": 81853.5390625,
-   "veraenderung_pct": -0.4889831332697603,
+   "veraenderung_pct": -0.3523442642837771,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81382.148438,
     82017.601562,
     81853.539062,
-    81453.289062
+    81565.132812
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.09,
+   "wert": 5.106,
    "vortag": 5.136,
-   "veraenderung_bp": -4.6,
+   "veraenderung_bp": -3.0,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.089,
     5.098,
     5.136,
-    5.09
+    5.106
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.30000305175781,
+   "kurs": 83.2300033569336,
    "vortag": 82.55000305175781,
-   "veraenderung_pct": 0.9085402450315527,
+   "veraenderung_pct": 0.8237435251812419,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     81.07,
     82.43,
     82.550003,
-    83.300003
+    83.230003
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 125.27999877929688,
+   "kurs": 125.19999694824219,
    "vortag": 124.19999694824219,
-   "veraenderung_pct": 0.8695667130368401,
+   "veraenderung_pct": 0.8051529988496897,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     125.900002,
     124.699997,
     124.199997,
-    125.279999
+    125.199997
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 386.1000061035156,
+   "kurs": 386.0,
    "vortag": 380.1000061035156,
-   "veraenderung_pct": 1.5785319399247655,
+   "veraenderung_pct": 1.5522214684936309,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     379.700012,
     379.200012,
     380.100006,
-    386.100006
+    386.0
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.47999954223633,
+   "kurs": 38.58000183105469,
    "vortag": 39.08000183105469,
-   "veraenderung_pct": -1.5353179649586712,
+   "veraenderung_pct": -1.2794267568398077,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.419998,
     39.630001,
     39.080002,
-    38.48
+    38.580002
    ]
   }
  ],
@@ -374,6 +374,86 @@
   ],
   "artikel": [
    {
+    "titel": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
+    "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+    "zeit": "2026-10-20T13:38:36+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 50%",
+    "link": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
+    "zeit": "2026-10-20T13:34:57+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "U.S. crude oil tops $105, Brent crude at five-month highs amid Mideast tensions",
+    "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
+    "zeit": "2026-10-20T13:11:31+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Der Nvidia-Chef lästert über Deutschland. Dann ist er plötzlich der beste Werbebotschafter, den sich der Kanzler wünschen könnte",
+    "link": "https://www.nzz.ch/wirtschaft/der-nvidia-chef-laestert-ueber-deutschland-dann-ist-er-ploetzlich-der-beste-werbebotschafter-den-sich-der-kanzler-wuenschen-koennte-ld.10039176",
+    "zeit": "2026-10-20T13:10:04+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+    "link": "https://www.cnbc.com/investingclub/2026/10/20/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+    "zeit": "2026-10-20T13:05:15+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Data center stocks slide as Korea IPO plunges 30%, pressuring tech sentiment",
+    "link": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
+    "zeit": "2026-10-20T13:03:55+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
+    "link": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html",
+    "zeit": "2026-10-20T13:03:31+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "UK to deploy fighter jets to defend Saudi cities from Houthi attacks",
+    "link": "https://www.cnbc.com/2026/10/20/uk-fighter-jets-saudi-houthi-attacks-iran.html",
+    "zeit": "2026-10-20T12:58:24+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
+    "link": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
+    "zeit": "2026-10-20T12:50:24+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'",
+    "link": "https://www.cnbc.com/2026/10/20/best-buy-gamers-beta-ign.html",
+    "zeit": "2026-10-20T12:45:30+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Apple adds U.S. titanium supplier for iPhone Duo as supply stays tight",
     "link": "https://www.cnbc.com/2026/10/20/apple-adds-us-titanium-supplier-for-iphone-duo.html",
     "zeit": "2026-10-20T12:29:26+00:00",
@@ -382,68 +462,12 @@
     "sprache": "en"
    },
    {
-    "titel": "UK to deploy fighter jets to defend Saudi cities from Houthi attacks",
-    "link": "https://www.cnbc.com/2026/10/20/uk-fighter-jets-saudi-houthi-attacks-iran.html",
-    "zeit": "2026-10-20T12:23:29+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
-    "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
-    "zeit": "2026-10-20T12:11:32+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "U.S. Treasury yields move lower as investors await housing data",
-    "link": "https://www.cnbc.com/2026/10/20/us-treasury-yields-investors-economy.html",
-    "zeit": "2026-10-20T12:08:44+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Draymond Green says he's 'not Steph Curry,' wants to play another year even if he leaves Golden State Warriors",
-    "link": "https://www.cnbc.com/2026/10/20/draymond-green-says-hell-play-in-2027-with-or-without-the-warriors.html",
-    "zeit": "2026-10-20T12:00:02+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "AI rally fades away from Wall Street as a tiny IPO makes big waves",
-    "link": "https://www.cnbc.com/2026/10/20/ai-rally-fades-elice-ipo-dives.html",
-    "zeit": "2026-10-20T11:34:03+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'",
-    "link": "https://www.cnbc.com/2026/10/20/best-buy-gamers-beta-ign.html",
-    "zeit": "2026-10-20T11:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "HSBC CEO warns the AI boom won’t make every data center a good bet",
-    "link": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
-    "zeit": "2026-10-20T10:39:17+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Zelenskyy to meet with U.S. envoy as tensions with Trump mount",
-    "link": "https://www.cnbc.com/2026/10/20/zelenskyy-witkoff-trump-ukraine-russia.html",
-    "zeit": "2026-10-20T10:30:49+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "Commerzbank-Übernahme: Bafin büsst UniCredit-Partner",
+    "link": "https://www.finews.ch/news/banken/74079-commerzbank-unicredit-nomura-stimmrechtsmeldungen-deutsche-finanzaufsicht-busse-320000-euro",
+    "zeit": "2026-10-20T10:46:37+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Google-Cloud-Störung trifft Revolut und britische Banken",
@@ -454,15 +478,7 @@
     "sprache": "de"
    },
    {
-    "titel": "France curfews calm unrest as Macron faces criticism over Gulf trip",
-    "link": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
-    "zeit": "2026-10-20T10:02:57+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Nachfolge: Nur zwei Prozent der reichen Unternehmerfamilien sind gut vorbereitet",
+    "titel": "Nachfolge: Reiche Unternehmerfamilien sind kaum vorbereitet",
     "link": "https://www.finews.ch/news/banken/74073-nachfolgeplanung-herausforderungen-fuer-sehr-vermoegende-familien-family-barometer-2026-von-julius-baer-2-3-prozent-der-unternehmerfamilien-umfassend-vorbereitet-hindernis-mangelnde-einigkeit-innerhalb-der-familie",
     "zeit": "2026-10-20T08:58:56+00:00",
     "quelle": "finews.ch",
@@ -558,14 +574,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Sparkasse Schwyz mit neuem Geschäftsleitungsmitglied",
-    "link": "https://www.finews.ch/news/banken/74057-sparkasse-schwyz-wechsel-in-der-geschaeftsleitung-patrik-rickenbacher-leitung-des-privat-und-firmenkundengeschaefts-corinna-strickler",
-    "zeit": "2026-10-20T03:53:05+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "«Eine absolute Preisstabilität über zehn Jahre ist in der Praxis unmöglich», sagt der Europa-Chef von Lockheed Martin zum F-35-Fixpreisdebakel",
     "link": "https://www.nzz.ch/wirtschaft/wir-betrachten-die-ukraine-langfristig-als-sicherheitspartner-sagt-der-europa-chef-von-lockheed-martin-ld.10031999",
     "zeit": "2026-10-20T03:30:00+00:00",
@@ -609,14 +617,6 @@
     "titel": "Wirtschaft der zwei Geschwindigkeiten: Chinas Exporte gehen durch die Decke, die Konsumenten üben Zurückhaltung",
     "link": "https://www.nzz.ch/wirtschaft/wirtschaft-der-zwei-geschwindigkeiten-chinas-exporte-gehen-durch-die-decke-die-konsumenten-ueben-zurueckhaltung-ld.10038021",
     "zeit": "2026-10-19T12:29:29+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Lindt-Chef Adalbert Lechner muss per sofort gehen – seine Position übernimmt vorerst ein Lindt-Urgestein",
-    "link": "https://www.nzz.ch/wirtschaft/lindt-chef-adalbert-lechner-muss-per-sofort-gehen-ld.10037970",
-    "zeit": "2026-10-19T10:13:26+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
