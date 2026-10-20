@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-20T07:34:55+02:00",
+ "aktualisiert": "2026-10-20T08:06:32+02:00",
  "kernaussagen": [
-  "SMI −0.16%, Nikkei 225 −1.48% am schwächsten",
-  "Franken schwächer: EUR/CHF 0.9265 (+0.20%)",
-  "Brent über 100 USD: 109.94 (+0.36%)"
+  "SMI −0.16%, Nikkei 225 −1.42% am schwächsten",
+  "Franken schwächer: EUR/CHF 0.9267 (+0.22%)",
+  "Brent über 100 USD: 110.40 (+0.78%)"
  ],
  "maerkte": [
   {
@@ -87,19 +87,7 @@
    "symbol": "^IXIC",
    "einheit": "",
    "dezimalen": 2,
-   "verfuegbar": true,
-   "kurs": 26430.890625,
-   "vortag": 26140.029296875,
-   "veraenderung_pct": 1.1127046753531156,
-   "datum": "2026-10-19",
-   "ist_heute": false,
-   "verlauf": [
-    27204.380859,
-    26692.869141,
-    26713.029297,
-    26140.029297,
-    26430.890625
-   ]
+   "verfuegbar": false
   },
   {
    "name": "Nikkei 225",
@@ -107,9 +95,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 63953.44921875,
+   "kurs": 63992.48828125,
    "vortag": 64916.69921875,
-   "veraenderung_pct": -1.4838246731463278,
+   "veraenderung_pct": -1.423687508179805,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +105,7 @@
     64425.949219,
     65324.289062,
     64916.699219,
-    63953.449219
+    63992.488281
    ]
   }
  ],
@@ -128,9 +116,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9264799952507019,
+   "kurs": 0.9266899824142456,
    "vortag": 0.9246399998664856,
-   "veraenderung_pct": 0.19899586698413074,
+   "veraenderung_pct": 0.22170602051132526,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +126,7 @@
     0.93096,
     0.92813,
     0.92464,
-    0.92648
+    0.92669
    ]
   },
   {
@@ -147,17 +135,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.824720025062561,
-   "vortag": 0.8237500190734863,
-   "veraenderung_pct": 0.1177548973128717,
-   "datum": "2026-10-20",
-   "ist_heute": true,
+   "kurs": 0.8237500190734863,
+   "vortag": 0.827750027179718,
+   "veraenderung_pct": -0.48323865598173255,
+   "datum": "2026-10-19",
+   "ist_heute": false,
    "verlauf": [
+    0.83409,
     0.8326,
     0.8316,
     0.82775,
-    0.82375,
-    0.82472
+    0.82375
    ]
   },
   {
@@ -166,9 +154,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4154.2998046875,
+   "kurs": 4140.2001953125,
    "vortag": 4160.10009765625,
-   "veraenderung_pct": -0.13942676456313308,
+   "veraenderung_pct": -0.47835152704526207,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +164,7 @@
     4170.100098,
     4181.100098,
     4160.100098,
-    4154.299805
+    4140.200195
    ]
   },
   {
@@ -185,9 +173,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.94000244140625,
+   "kurs": 110.4000015258789,
    "vortag": 109.55000305175781,
-   "veraenderung_pct": 0.3560012585889005,
+   "veraenderung_pct": 0.7759000004039285,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +183,7 @@
     105.919998,
     109.860001,
     109.550003,
-    109.940002
+    110.400002
    ]
   },
   {
@@ -204,9 +192,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81871.8203125,
+   "kurs": 81580.5703125,
    "vortag": 82017.6015625,
-   "veraenderung_pct": -0.17774385890680922,
+   "veraenderung_pct": -0.5328505609457079,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +202,7 @@
     81500.804688,
     81382.148438,
     82017.601562,
-    81871.820312
+    81580.570312
    ]
   }
  ],
@@ -406,6 +394,14 @@
     "sprache": "en"
    },
    {
+    "titel": "Sparkasse Schwyz mit neuem Geschäftsleitungsmitglied",
+    "link": "https://www.finews.ch/news/banken/74057-sparkasse-schwyz-wechsel-in-der-geschaeftsleitung-patrik-rickenbacher-leitung-des-privat-und-firmenkundengeschaefts-corinna-strickler",
+    "zeit": "2026-10-20T03:53:05+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "«Wir betrachten die Ukraine langfristig als Sicherheitspartner», sagt der Europa-Chef von Lockheed Martin",
     "link": "https://www.nzz.ch/wirtschaft/wir-betrachten-die-ukraine-langfristig-als-sicherheitspartner-sagt-der-europa-chef-von-lockheed-martin-ld.10031999",
     "zeit": "2026-10-20T03:30:00+00:00",
@@ -446,7 +442,7 @@
     "sprache": "de"
    },
    {
-    "titel": "Schweizer Rentensystem bleibt weltweit auf Rang 11",
+    "titel": "Rentenranking: Weshalb die Schweiz hinter der Weltspitze zurückbleibt",
     "link": "https://www.finews.ch/news/finanzplatz/74054-schweizer-altersvorsorge-rentensystemen-weltweit-marsh-cfa-institute-global-pension-index-groesste-schwaeche-hoehe-der-renten-im-verhaeltnis-zum-frueheren-einkommen",
     "zeit": "2026-10-20T03:22:01+00:00",
     "quelle": "finews.ch",
@@ -674,14 +670,6 @@
     "link": "https://www.srf.ch/news/international/eu-setzt-auf-heimatschutz-made-in-europe-fuer-die-schweiz-kein-problem-mehr",
     "zeit": "2026-10-16T13:00:43+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Partners Group schränkt Einstieg von Hedgefonds bei Krisenfirmen ein",
-    "link": "https://www.finews.ch/news/finanzplatz/74029-partners-group-privatre-equity-hedgefunds-schulden",
-    "zeit": "2026-10-16T09:49:09+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
