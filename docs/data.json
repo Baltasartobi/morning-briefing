@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-20T19:11:59+02:00",
+ "aktualisiert": "2026-10-20T20:02:04+02:00",
  "kernaussagen": [
   "SMI +0.76%, Nikkei 225 −0.62% am schwächsten",
-  "Franken schwächer: EUR/CHF 0.9277 (+0.33%)",
-  "Bitcoin +1.08% auf 82'737 USD · Brent über 100 USD"
+  "Franken schwächer: EUR/CHF 0.9270 (+0.25%)",
+  "Bitcoin +1.02% auf 82'685 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7714.1201171875,
+   "kurs": 7721.7900390625,
    "vortag": 7690.72998046875,
-   "veraenderung_pct": 0.30413415603136595,
+   "veraenderung_pct": 0.4038635951675529,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7744.060059,
     7659.439941,
     7690.72998,
-    7714.120117
+    7721.790039
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26460.77734375,
+   "kurs": 26486.83984375,
    "vortag": 26430.890625,
-   "veraenderung_pct": 0.11307495904708809,
+   "veraenderung_pct": 0.2116811708837485,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26713.029297,
     26140.029297,
     26430.890625,
-    26460.777344
+    26486.839844
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9276700019836426,
+   "kurs": 0.9269599914550781,
    "vortag": 0.9246399998664856,
-   "veraenderung_pct": 0.3276953319772513,
+   "veraenderung_pct": 0.25090755201240267,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.93096,
     0.92813,
     0.92464,
-    0.92767
+    0.92696
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8260899782180786,
+   "kurs": 0.8250899910926819,
    "vortag": 0.8237500190734863,
-   "veraenderung_pct": 0.28406180156743677,
+   "veraenderung_pct": 0.16266731267609025,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8316,
     0.82775,
     0.82375,
-    0.82609
+    0.82509
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4136.89990234375,
+   "kurs": 4143.60009765625,
    "vortag": 4160.10009765625,
-   "veraenderung_pct": -0.5576835837572958,
+   "veraenderung_pct": -0.39662507181728035,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4170.100098,
     4181.100098,
     4160.100098,
-    4136.899902
+    4143.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.0199966430664,
+   "kurs": 108.70999908447266,
    "vortag": 109.55000305175781,
-   "veraenderung_pct": -0.4838031893445005,
+   "veraenderung_pct": -0.7667767630168743,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     105.919998,
     109.860001,
     109.550003,
-    109.019997
+    108.709999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82736.5234375,
+   "kurs": 82684.6796875,
    "vortag": 81853.5390625,
-   "veraenderung_pct": 1.078736955192361,
+   "veraenderung_pct": 1.0153997426615602,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81382.148438,
     82017.601562,
     81853.539062,
-    82736.523438
+    82684.679688
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.132,
+   "wert": 5.117,
    "vortag": 5.136,
-   "veraenderung_bp": -0.4,
+   "veraenderung_bp": -1.9,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.089,
     5.098,
     5.136,
-    5.132
+    5.117
    ]
   }
  ],
@@ -374,9 +374,9 @@
   ],
   "artikel": [
    {
-    "titel": "What Amazon must do to get its stumbling stock back to record highs and beyond",
-    "link": "https://www.cnbc.com/investingclub/2026/10/20/what-amazon-must-do-to-get-its-stumbling-stock-back-to-record-highs-and-beyond.html",
-    "zeit": "2026-10-20T16:49:28+00:00",
+    "titel": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+    "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+    "zeit": "2026-10-20T17:50:11+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,7 +384,23 @@
    {
     "titel": "Trump sued over 50% tariffs on Canada in latest trade challenge",
     "link": "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html",
-    "zeit": "2026-10-20T16:43:42+00:00",
+    "zeit": "2026-10-20T17:49:38+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "If Elon Musk gifts SpaceX stock through Trump Accounts, it will come with a catch",
+    "link": "https://www.cnbc.com/2026/10/20/musk-spacex-trump-account-stock-rules.html",
+    "zeit": "2026-10-20T17:29:38+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "What Amazon must do to get its stumbling stock back to record highs and beyond",
+    "link": "https://www.cnbc.com/investingclub/2026/10/20/what-amazon-must-do-to-get-its-stumbling-stock-back-to-record-highs-and-beyond.html",
+    "zeit": "2026-10-20T16:49:28+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -433,22 +449,6 @@
     "titel": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
     "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
     "zeit": "2026-10-20T15:43:44+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay",
-    "link": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-    "zeit": "2026-10-20T15:15:42+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "France to deploy military as it braces for fresh unrest this weekend",
-    "link": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
-    "zeit": "2026-10-20T15:01:38+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
