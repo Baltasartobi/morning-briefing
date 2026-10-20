@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-20T16:32:43+02:00",
+ "aktualisiert": "2026-10-20T17:10:40+02:00",
  "kernaussagen": [
-  "SMI +0.47%, Nikkei 225 −1.30% am schwächsten",
-  "Franken schwächer: EUR/CHF 0.9283 (+0.40%)",
-  "Brent über 100 USD: 107.67 (−1.72%)"
+  "SMI +0.78%, Nikkei 225 −0.62% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9246 (−0.38%)",
+  "Brent über 100 USD: 106.89 (−2.43%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14435.7900390625,
+   "kurs": 14480.490234375,
    "vortag": 14368.7802734375,
-   "veraenderung_pct": 0.46635667293817296,
+   "veraenderung_pct": 0.777449155820209,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14349.509766,
     14391.30957,
     14368.780273,
-    14435.790039
+    14480.490234
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25262.48046875,
+   "kurs": 25377.380859375,
    "vortag": 25319.76953125,
-   "veraenderung_pct": -0.22626217995109776,
+   "veraenderung_pct": 0.2275349625670886,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25382.619141,
     25622.609375,
     25319.769531,
-    25262.480469
+    25377.380859
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6118.97021484375,
+   "kurs": 6146.5,
    "vortag": 6144.81005859375,
-   "veraenderung_pct": -0.4205149305447131,
+   "veraenderung_pct": 0.027501930737239277,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6168.259766,
     6204.22998,
     6144.810059,
-    6118.970215
+    6146.5
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7742.18994140625,
+   "kurs": 7734.5400390625,
    "vortag": 7690.72998046875,
-   "veraenderung_pct": 0.6691167297276923,
+   "veraenderung_pct": 0.569647597887446,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7744.060059,
     7659.439941,
     7690.72998,
-    7742.189941
+    7734.540039
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26582.79296875,
+   "kurs": 26545.6953125,
    "vortag": 26430.890625,
-   "veraenderung_pct": 0.5747151918003235,
+   "veraenderung_pct": 0.43435799848308143,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26713.029297,
     26140.029297,
     26430.890625,
-    26582.792969
+    26545.695312
    ]
   },
   {
@@ -107,17 +107,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 64075.421875,
-   "vortag": 64916.69921875,
-   "veraenderung_pct": -1.2959336409190225,
-   "datum": "2026-10-20",
-   "ist_heute": true,
+   "kurs": 64916.69921875,
+   "vortag": 65324.2890625,
+   "veraenderung_pct": -0.6239483806092849,
+   "datum": "2026-10-19",
+   "ist_heute": false,
    "verlauf": [
+    67777.523438,
     67744.289062,
     64425.949219,
     65324.289062,
-    64916.699219,
-    64075.421875
+    64916.699219
    ]
   }
  ],
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9283400177955627,
-   "vortag": 0.9246399998664856,
-   "veraenderung_pct": 0.4001576753775993,
-   "datum": "2026-10-20",
-   "ist_heute": true,
+   "kurs": 0.9246399998664856,
+   "vortag": 0.9281299710273743,
+   "veraenderung_pct": -0.3760218148138761,
+   "datum": "2026-10-19",
+   "ist_heute": false,
    "verlauf": [
+    0.93083,
     0.93272,
     0.93096,
     0.92813,
-    0.92464,
-    0.92834
+    0.92464
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8237500190734863,
-   "vortag": 0.827750027179718,
-   "veraenderung_pct": -0.48323865598173255,
-   "datum": "2026-10-19",
-   "ist_heute": false,
+   "kurs": 0.8256800174713135,
+   "vortag": 0.8237500190734863,
+   "veraenderung_pct": 0.23429418551006442,
+   "datum": "2026-10-20",
+   "ist_heute": true,
    "verlauf": [
-    0.83409,
     0.8326,
     0.8316,
     0.82775,
-    0.82375
+    0.82375,
+    0.82568
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4159.2998046875,
+   "kurs": 4162.10009765625,
    "vortag": 4160.10009765625,
-   "veraenderung_pct": -0.01923734886093431,
+   "veraenderung_pct": 0.048075766280875065,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4170.100098,
     4181.100098,
     4160.100098,
-    4159.299805
+    4162.100098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 107.66999816894531,
+   "kurs": 106.88999938964844,
    "vortag": 109.55000305175781,
-   "veraenderung_pct": -1.7161157740217314,
+   "veraenderung_pct": -2.4281182911995325,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     105.919998,
     109.860001,
     109.550003,
-    107.669998
+    106.889999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82987.9765625,
+   "kurs": 82914.4921875,
    "vortag": 81853.5390625,
-   "veraenderung_pct": 1.3859357982478837,
+   "veraenderung_pct": 1.2961603580633252,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81382.148438,
     82017.601562,
     81853.539062,
-    82987.976562
+    82914.492188
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.102,
+   "wert": 5.096,
    "vortag": 5.136,
-   "veraenderung_bp": -3.4,
+   "veraenderung_bp": -4.0,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.089,
     5.098,
     5.136,
-    5.102
+    5.096
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.30000305175781,
+   "kurs": 83.3499984741211,
    "vortag": 82.55000305175781,
-   "veraenderung_pct": 0.9085402450315527,
+   "veraenderung_pct": 0.9691040494107517,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     81.07,
     82.43,
     82.550003,
-    83.300003
+    83.349998
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 125.76000213623047,
+   "kurs": 126.16000366210938,
    "vortag": 124.19999694824219,
-   "veraenderung_pct": 1.256042855329853,
+   "veraenderung_pct": 1.5781052834356935,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     125.900002,
     124.699997,
     124.199997,
-    125.760002
+    126.160004
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.970001220703125,
+   "kurs": 39.2599983215332,
    "vortag": 39.08000183105469,
-   "veraenderung_pct": -0.28147544830500193,
+   "veraenderung_pct": 0.46058465211094024,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.419998,
     39.630001,
     39.080002,
-    38.970001
+    39.259998
    ]
   }
  ],
@@ -373,6 +373,46 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay",
+    "link": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+    "zeit": "2026-10-20T15:10:18+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "France to deploy military as it braces for fresh unrest this weekend",
+    "link": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
+    "zeit": "2026-10-20T15:01:38+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Oil prices fall as traders monitor conflict in the Middle East",
+    "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
+    "zeit": "2026-10-20T15:01:37+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Der Abstieg des Goldhasen",
+    "link": "https://www.nzz.ch/wirtschaft/der-abstieg-des-goldhasen-ld.10038080",
+    "zeit": "2026-10-20T15:00:43+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "MELDUNGEN WIRTSCHAFT - VW ruft weltweit mehr als 70 000 E-Autos zurück",
+    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
+    "zeit": "2026-10-20T14:38:22+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
    {
     "titel": "September data shows housing market in a deep freeze",
     "link": "https://www.cnbc.com/2026/10/20/september-data-shows-housing-market-in-a-deep-freeze.html",
@@ -438,36 +478,12 @@
     "sprache": "en"
    },
    {
-    "titel": "U.S. crude oil tops $105, Brent crude at five-month highs amid Mideast tensions",
-    "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
-    "zeit": "2026-10-20T13:11:31+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Der Nvidia-Chef lästert über Deutschland. Dann ist er plötzlich der beste Werbebotschafter, den sich der Kanzler wünschen könnte",
     "link": "https://www.nzz.ch/wirtschaft/der-nvidia-chef-laestert-ueber-deutschland-dann-ist-er-ploetzlich-der-beste-werbebotschafter-den-sich-der-kanzler-wuenschen-koennte-ld.10039176",
     "zeit": "2026-10-20T13:10:04+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-    "link": "https://www.cnbc.com/investingclub/2026/10/20/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-    "zeit": "2026-10-20T13:05:15+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
-    "link": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html",
-    "zeit": "2026-10-20T13:03:31+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Commerzbank-Übernahme: Bafin büsst UniCredit-Partner",
@@ -497,14 +513,6 @@
     "titel": "Chips, Strom, Kühlung: Diese Schweizer Unternehmen erwecken die KI zum Leben",
     "link": "https://www.nzz.ch/wirtschaft/chips-und-datenzentren-schweizer-firmen-liefern-fuer-den-ki-boom-ld.10026543",
     "zeit": "2026-10-20T08:57:10+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "MELDUNGEN WIRTSCHAFT - ABB meldet Rekord bei Aufträgen im dritten Quartal",
-    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
-    "zeit": "2026-10-20T08:17:58+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
@@ -609,14 +617,6 @@
     "titel": "Es wird ein harter Winter in Kiew. Wie Alexandra, Wadim und Karina sich auf die Kälte und russische Angriffe vorbereiten",
     "link": "https://www.nzz.ch/international/kiew-vor-dem-winter-sorgen-um-energieversorgung-und-sicherheit-ld.10026309",
     "zeit": "2026-10-20T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "DATENANALYSE - Begonnen hat alles mit Schülerprotesten. Doch sind französische Schulen wirklich so schlecht?",
-    "link": "https://www.nzz.ch/pro/in-frankreich-eskalieren-die-schuelerproteste-sind-franzoesische-schulen-wirklich-so-schlecht-ld.10027261",
-    "zeit": "2026-10-19T14:00:00+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
