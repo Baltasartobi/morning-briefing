@@ -1,8 +1,9 @@
 {
- "aktualisiert": "2026-10-20T07:04:04+02:00",
+ "aktualisiert": "2026-10-20T07:34:55+02:00",
  "kernaussagen": [
-  "SMI −0.16%, Nikkei 225 −1.27% am schwächsten",
-  "Brent über 100 USD: 109.83 (+0.26%)"
+  "SMI −0.16%, Nikkei 225 −1.48% am schwächsten",
+  "Franken schwächer: EUR/CHF 0.9265 (+0.20%)",
+  "Brent über 100 USD: 109.94 (+0.36%)"
  ],
  "maerkte": [
   {
@@ -106,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 64094.05078125,
+   "kurs": 63953.44921875,
    "vortag": 64916.69921875,
-   "veraenderung_pct": -1.2672370089673257,
+   "veraenderung_pct": -1.4838246731463278,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -116,7 +117,7 @@
     64425.949219,
     65324.289062,
     64916.699219,
-    64094.050781
+    63953.449219
    ]
   }
  ],
@@ -126,7 +127,19 @@
    "symbol": "EURCHF=X",
    "einheit": "",
    "dezimalen": 4,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 0.9264799952507019,
+   "vortag": 0.9246399998664856,
+   "veraenderung_pct": 0.19899586698413074,
+   "datum": "2026-10-20",
+   "ist_heute": true,
+   "verlauf": [
+    0.93272,
+    0.93096,
+    0.92813,
+    0.92464,
+    0.92648
+   ]
   },
   {
    "name": "USD/CHF",
@@ -134,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8246300220489502,
+   "kurs": 0.824720025062561,
    "vortag": 0.8237500190734863,
-   "veraenderung_pct": 0.10682888680884073,
+   "veraenderung_pct": 0.1177548973128717,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -144,7 +157,7 @@
     0.8316,
     0.82775,
     0.82375,
-    0.82463
+    0.82472
    ]
   },
   {
@@ -153,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4162.2001953125,
+   "kurs": 4154.2998046875,
    "vortag": 4160.10009765625,
-   "veraenderung_pct": 0.05048190204446357,
+   "veraenderung_pct": -0.13942676456313308,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -163,7 +176,7 @@
     4170.100098,
     4181.100098,
     4160.100098,
-    4162.200195
+    4154.299805
    ]
   },
   {
@@ -172,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.83000183105469,
+   "kurs": 109.94000244140625,
    "vortag": 109.55000305175781,
-   "veraenderung_pct": 0.2555899329045097,
+   "veraenderung_pct": 0.3560012585889005,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -182,7 +195,7 @@
     105.919998,
     109.860001,
     109.550003,
-    109.830002
+    109.940002
    ]
   },
   {
@@ -191,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81961.171875,
+   "kurs": 81871.8203125,
    "vortag": 82017.6015625,
-   "veraenderung_pct": -0.06880192352003434,
+   "veraenderung_pct": -0.17774385890680922,
    "datum": "2026-10-20",
    "ist_heute": true,
    "verlauf": [
@@ -201,7 +214,7 @@
     81500.804688,
     81382.148438,
     82017.601562,
-    81961.171875
+    81871.820312
    ]
   }
  ],
@@ -361,6 +374,14 @@
   ],
   "artikel": [
    {
+    "titel": "The world’s finance chiefs see new risks — and less China angst",
+    "link": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
+    "zeit": "2026-10-20T05:27:53+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "'Cannot play hide and seek': Minister's warning over haze sends Singapore agricultural stocks lower",
     "link": "https://www.cnbc.com/2026/10/20/singapore-haze-shanmugam-indonesia-malaysia.html",
     "zeit": "2026-10-20T04:48:52+00:00",
@@ -417,6 +438,22 @@
     "sprache": "de"
    },
    {
+    "titel": "Banque Heritage holt Anlagespezialistin von Edmond de Rothschild",
+    "link": "https://www.finews.ch/news/banken/74055-banque-heritage-agnes-krafft-edmond-de-rothschild-investment-solutions",
+    "zeit": "2026-10-20T03:26:03+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Schweizer Rentensystem bleibt weltweit auf Rang 11",
+    "link": "https://www.finews.ch/news/finanzplatz/74054-schweizer-altersvorsorge-rentensystemen-weltweit-marsh-cfa-institute-global-pension-index-groesste-schwaeche-hoehe-der-renten-im-verhaeltnis-zum-frueheren-einkommen",
+    "zeit": "2026-10-20T03:22:01+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "BlackRock, GIC among investors chasing Indian telecom major Jio's IPO as anchor bids top $26 billion",
     "link": "https://www.cnbc.com/2026/10/20/jio-ipo-gic-blackrock-.html",
     "zeit": "2026-10-20T02:44:35+00:00",
@@ -444,14 +481,6 @@
     "titel": "Top venture capitalist Jenny Lee says Asian startups are speeding toward IPOs",
     "link": "https://www.cnbc.com/2026/10/20/venture-capital-jenny-lee-granite-asia-startups.html",
     "zeit": "2026-10-20T01:52:05+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Three big takeaways from the IMF-World Bank meetings",
-    "link": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
-    "zeit": "2026-10-20T00:33:34+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -657,26 +686,10 @@
     "sprache": "de"
    },
    {
-    "titel": "Hackerangriff auf IT-Dienstleister zieht weitere Kreise",
-    "link": "https://www.finews.ch/news/finanzplatz/74026-hacker-daten-pensionskasse-stadt-zuerich",
-    "zeit": "2026-10-16T07:05:56+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Fliegendes Auto – Teslas neuer Roadster hebt ab – dank Raketendüsen",
     "link": "https://www.srf.ch/news/wirtschaft/fliegendes-auto-teslas-neuer-roadster-hebt-ab-dank-raketenduesen",
     "zeit": "2026-10-16T06:47:46+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Partners Group baut Stellen im Private-Equity-Geschäft ab",
-    "link": "https://www.finews.ch/news/finanzplatz/74024-partners-group-stellenabbau-private-equity",
-    "zeit": "2026-10-16T06:14:50+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    }
