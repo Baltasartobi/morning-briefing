@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-21T16:33:48+02:00",
+ "aktualisiert": "2026-10-21T17:08:47+02:00",
  "kernaussagen": [
-  "SMI +0.28%, DAX +1.33% führt",
-  "Franken schwächer: EUR/CHF 0.9272 (+0.28%)",
-  "Bitcoin +1.28% auf 84'002 USD · Brent über 100 USD"
+  "SMI +0.40%, Nikkei 225 −1.30% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9265 (−0.08%)",
+  "Bitcoin +2.02% auf 84'619 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14519.5703125,
+   "kurs": 14536.9599609375,
    "vortag": 14478.3701171875,
-   "veraenderung_pct": 0.2845637663564826,
+   "veraenderung_pct": 0.4046715429691039,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14391.30957,
     14368.780273,
     14478.370117,
-    14519.570312
+    14536.959961
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25640.439453125,
+   "kurs": 25608.91015625,
    "vortag": 25304.419921875,
-   "veraenderung_pct": 1.3279084534932206,
+   "veraenderung_pct": 1.2033084943859018,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25622.609375,
     25319.769531,
     25304.419922,
-    25640.439453
+    25608.910156
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6196.2001953125,
+   "kurs": 6195.1298828125,
    "vortag": 6121.66015625,
-   "veraenderung_pct": 1.217644187359812,
+   "veraenderung_pct": 1.2001601638648607,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6204.22998,
     6144.810059,
     6121.660156,
-    6196.200195
+    6195.129883
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7724.27978515625,
+   "kurs": 7735.97998046875,
    "vortag": 7712.56982421875,
-   "veraenderung_pct": 0.15182956140933346,
+   "veraenderung_pct": 0.30353250321946135,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7659.439941,
     7690.72998,
     7712.569824,
-    7724.279785
+    7735.97998
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26577.482421875,
+   "kurs": 26633.396484375,
    "vortag": 26424.8203125,
-   "veraenderung_pct": 0.577722412374504,
+   "veraenderung_pct": 0.789319168147129,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26140.029297,
     26430.890625,
     26424.820312,
-    26577.482422
+    26633.396484
    ]
   },
   {
@@ -107,17 +107,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 64621.23828125,
-   "vortag": 64075.421875,
-   "veraenderung_pct": 0.8518342763544906,
-   "datum": "2026-10-21",
-   "ist_heute": true,
+   "kurs": 64075.421875,
+   "vortag": 64916.69921875,
+   "veraenderung_pct": -1.2959336409190225,
+   "datum": "2026-10-20",
+   "ist_heute": false,
    "verlauf": [
+    67744.289062,
     64425.949219,
     65324.289062,
     64916.699219,
-    64075.421875,
-    64621.238281
+    64075.421875
    ]
   }
  ],
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9272000193595886,
-   "vortag": 0.9246399998664856,
-   "veraenderung_pct": 0.2768666176536483,
-   "datum": "2026-10-20",
-   "ist_heute": false,
+   "kurs": 0.9264900088310242,
+   "vortag": 0.9272000193595886,
+   "veraenderung_pct": -0.07657576722818193,
+   "datum": "2026-10-21",
+   "ist_heute": true,
    "verlauf": [
-    0.93272,
     0.93096,
     0.92813,
     0.92464,
-    0.9272
+    0.9272,
+    0.92649
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8249300122261047,
+   "kurs": 0.8258000016212463,
    "vortag": 0.8268499970436096,
-   "veraenderung_pct": -0.2322047317372844,
+   "veraenderung_pct": -0.12698741320886775,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82775,
     0.82375,
     0.82685,
-    0.82493
+    0.8258
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4146.2001953125,
+   "kurs": 4150.5,
    "vortag": 4142.60009765625,
-   "veraenderung_pct": 0.08690430095550372,
+   "veraenderung_pct": 0.19069912995510752,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4181.100098,
     4160.100098,
     4142.600098,
-    4146.200195
+    4150.5
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 108.86000061035156,
+   "kurs": 109.2300033569336,
    "vortag": 108.79000091552734,
-   "veraenderung_pct": 0.06434386821871918,
+   "veraenderung_pct": 0.40445117906369177,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     109.860001,
     109.550003,
     108.790001,
-    108.860001
+    109.230003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 84001.6484375,
+   "kurs": 84619.0625,
    "vortag": 82941.0,
-   "veraenderung_pct": 1.2787987093235031,
+   "veraenderung_pct": 2.0232002266671545,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82017.601562,
     81853.539062,
     82941.0,
-    84001.648438
+    84619.0625
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.102,
+   "wert": 5.106,
    "vortag": 5.117,
-   "veraenderung_bp": -1.5,
+   "veraenderung_bp": -1.1,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.098,
     5.136,
     5.117,
-    5.102
+    5.106
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.41999816894531,
+   "kurs": 83.43000030517578,
    "vortag": 83.11000061035156,
-   "veraenderung_pct": 0.37299669873318564,
+   "veraenderung_pct": 0.3850315154303674,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     82.43,
     82.550003,
     83.110001,
-    83.419998
+    83.43
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 126.94000244140625,
+   "kurs": 126.87999725341797,
    "vortag": 126.5,
-   "veraenderung_pct": 0.3478280169219472,
+   "veraenderung_pct": 0.30039308570590784,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     124.699997,
     124.199997,
     126.5,
-    126.940002
+    126.879997
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 391.1000061035156,
+   "kurs": 391.6000061035156,
    "vortag": 389.8999938964844,
-   "veraenderung_pct": 0.3077743590193194,
+   "veraenderung_pct": 0.4360123707728425,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     379.200012,
     380.100006,
     389.899994,
-    391.100006
+    391.600006
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.33000183105469,
+   "kurs": 39.4900016784668,
    "vortag": 39.099998474121094,
-   "veraenderung_pct": 0.5882439025818087,
+   "veraenderung_pct": 0.9974506894260715,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.630001,
     39.080002,
     39.099998,
-    39.330002
+    39.490002
    ]
   }
  ],
@@ -374,6 +374,30 @@
   ],
   "artikel": [
    {
+    "titel": "Cybersicherheit – Gravierende PHP-Sicherheitslücke bedroht Millionen Webseiten",
+    "link": "https://www.srf.ch/news/wirtschaft/cybersicherheit-gravierende-php-sicherheitsluecke-bedroht-millionen-webseiten",
+    "zeit": "2026-10-21T15:07:10+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Putin will wieder mit der Ukraine verhandeln – und hofft auf einen Dreiergipfel mit Trump und Xi",
+    "link": "https://www.nzz.ch/international/putin-will-einen-dreiergipfel-mit-trump-und-xi-ld.10040005",
+    "zeit": "2026-10-21T14:56:35+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "The political ad wars are still being fought over the airwaves even as digital gains share",
+    "link": "https://www.cnbc.com/2026/10/21/why-broadcast-tv-still-dominates-political-ad-spending.html",
+    "zeit": "2026-10-21T14:40:02+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Witkoff calls Putin a 'humanitarian' at Russia peace talks without Ukraine",
     "link": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html",
     "zeit": "2026-10-21T14:30:17+00:00",
@@ -388,6 +412,14 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Nach Betrugswelle – EU startet Ermittlungen gegen Booking.com",
+    "link": "https://www.srf.ch/news/wirtschaft/nach-betrugswelle-eu-startet-ermittlungen-gegen-booking-com",
+    "zeit": "2026-10-21T14:05:28+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "MELDUNGEN WIRTSCHAFT - Die EU ermittelt gegen die Reiseplattform Booking wegen möglicher Verstösse gegen den Verbraucherschutz",
@@ -460,14 +492,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck",
-    "link": "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html",
-    "zeit": "2026-10-21T12:43:49+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Beliebtester Streamingdienst – Bei Netflix läuft nicht mehr alles rund",
@@ -582,14 +606,6 @@
     "sprache": "de"
    },
    {
-    "titel": "GASTBEITRAG - Demografie: Die Rechnung kommt später",
-    "link": "https://www.nzz.ch/meinung/demografie-die-rechnung-kommt-spaeter-ld.10025725",
-    "zeit": "2026-10-21T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Seilbahnen steigern Umsatz – Skigebiete mit Rekordergebnis – aber Tageskarten werden teurer",
     "link": "https://www.srf.ch/news/wirtschaft/seilbahnen-steigern-umsatz-skigebiete-mit-rekordergebnis-aber-tageskarten-werden-teurer",
     "zeit": "2026-10-20T18:28:45+00:00",
@@ -673,22 +689,6 @@
     "titel": "Wandel in der Autobranche – Geely – der unbekannte Riese auf Europas Strassen",
     "link": "https://www.srf.ch/news/wirtschaft/wandel-in-der-autobranche-geely-der-unbekannte-riese-auf-europas-strassen",
     "zeit": "2026-10-18T14:49:48+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Abstimmung vom 29. November – Wie (un)sozial ist die Mehrwertsteuer?",
-    "link": "https://www.srf.ch/news/wirtschaft/abstimmung-vom-29-november-wie-un-sozial-ist-die-mehrwertsteuer",
-    "zeit": "2026-10-18T05:27:26+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Zeitungsmarkt – Ungewisse Zukunft für Frühzusteller in der Schweiz",
-    "link": "https://www.srf.ch/news/wirtschaft/zeitungsmarkt-ungewisse-zukunft-fuer-fruehzusteller-in-der-schweiz",
-    "zeit": "2026-10-17T06:00:41+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
