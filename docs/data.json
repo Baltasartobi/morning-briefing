@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-21T06:32:31+02:00",
+ "aktualisiert": "2026-10-21T07:06:32+02:00",
  "kernaussagen": [
-  "SMI +0.76%, Nikkei 225 +0.82% führt",
-  "Franken stärker: EUR/CHF 0.9266 (−0.06%)",
-  "Brent über 100 USD: 110.37 (+1.45%)"
+  "SMI +0.76%, Nikkei 225 +0.87% führt",
+  "Franken schwächer: EUR/CHF 0.9272 (+0.28%)",
+  "Brent über 100 USD: 110.18 (+1.28%)"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 64598.0703125,
+   "kurs": 64630.30078125,
    "vortag": 64075.421875,
-   "veraenderung_pct": 0.8156769354084048,
+   "veraenderung_pct": 0.8659777649727696,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     65324.289062,
     64916.699219,
     64075.421875,
-    64598.070312
+    64630.300781
    ]
   }
  ],
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9266200065612793,
-   "vortag": 0.9272000193595886,
-   "veraenderung_pct": -0.06255530481006355,
-   "datum": "2026-10-21",
-   "ist_heute": true,
+   "kurs": 0.9272000193595886,
+   "vortag": 0.9246399998664856,
+   "veraenderung_pct": 0.2768666176536483,
+   "datum": "2026-10-20",
+   "ist_heute": false,
    "verlauf": [
+    0.93272,
     0.93096,
     0.92813,
     0.92464,
-    0.9272,
-    0.92662
+    0.9272
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8254500031471252,
+   "kurs": 0.8253999948501587,
    "vortag": 0.8268499970436096,
-   "veraenderung_pct": -0.1693165509451533,
+   "veraenderung_pct": -0.1753646004275744,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82775,
     0.82375,
     0.82685,
-    0.82545
+    0.8254
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4143.60009765625,
+   "kurs": 4132.2998046875,
    "vortag": 4142.60009765625,
-   "veraenderung_pct": 0.024139428774838656,
+   "veraenderung_pct": -0.24864318847908073,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4181.100098,
     4160.100098,
     4142.600098,
-    4143.600098
+    4132.299805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.37000274658203,
+   "kurs": 110.18000030517578,
    "vortag": 108.79000091552734,
-   "veraenderung_pct": 1.4523410403144643,
+   "veraenderung_pct": 1.2776903924541116,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     109.860001,
     109.550003,
     108.790001,
-    110.370003
+    110.18
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82787.9921875,
+   "kurs": 82849.6875,
    "vortag": 81853.5390625,
-   "veraenderung_pct": 1.1416160323703073,
+   "veraenderung_pct": 1.2169888423998243,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81382.148438,
     82017.601562,
     81853.539062,
-    82787.992188
+    82849.6875
    ]
   }
  ],
@@ -374,6 +374,14 @@
   ],
   "artikel": [
    {
+    "titel": "U.S. eyes refining muscle of Indian billionaire Ambani's Reliance as Rubio visits Jamnagar plant",
+    "link": "https://www.cnbc.com/2026/10/21/rubio-reliance-venezuela-oil-diesel.html",
+    "zeit": "2026-10-21T04:47:43+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "SpaceX und Tesla – Elon Musk: «Ich denke, eine Fusion wäre eine gute Idee»",
     "link": "https://www.srf.ch/news/wirtschaft/spacex-und-tesla-elon-musk-ich-denke-eine-fusion-waere-eine-gute-idee",
     "zeit": "2026-10-21T04:00:15+00:00",
@@ -513,14 +521,6 @@
     "titel": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
     "link": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
     "zeit": "2026-10-20T20:23:58+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 51%",
-    "link": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
-    "zeit": "2026-10-20T20:10:30+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
