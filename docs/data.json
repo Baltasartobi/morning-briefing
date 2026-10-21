@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-21T13:05:13+02:00",
+ "aktualisiert": "2026-10-21T13:37:10+02:00",
  "kernaussagen": [
-  "SMI +0.24%, Nikkei 225 +0.85% führt",
-  "Franken stärker: EUR/CHF 0.9262 (−0.11%)",
-  "Brent über 100 USD: 110.67 (+1.73%)"
+  "SMI +0.17%, Nikkei 225 +0.85% führt",
+  "Franken stärker: EUR/CHF 0.9257 (−0.17%)",
+  "Brent über 100 USD: 109.64 (+0.78%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14513.41015625,
+   "kurs": 14502.349609375,
    "vortag": 14478.3701171875,
-   "veraenderung_pct": 0.24201646165200597,
+   "veraenderung_pct": 0.16562287048480506,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14391.30957,
     14368.780273,
     14478.370117,
-    14513.410156
+    14502.349609
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25482.220703125,
+   "kurs": 25497.01953125,
    "vortag": 25304.419921875,
-   "veraenderung_pct": 0.7026471335795925,
+   "veraenderung_pct": 0.7611303083399301,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25622.609375,
     25319.769531,
     25304.419922,
-    25482.220703
+    25497.019531
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6169.89013671875,
+   "kurs": 6172.4599609375,
    "vortag": 6121.66015625,
-   "veraenderung_pct": 0.7878578561651972,
+   "veraenderung_pct": 0.8298370603868843,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6204.22998,
     6144.810059,
     6121.660156,
-    6169.890137
+    6172.459961
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9261800050735474,
+   "kurs": 0.9256500005722046,
    "vortag": 0.9272000193595886,
-   "veraenderung_pct": -0.1100101666030806,
+   "veraenderung_pct": -0.16717199687448225,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92813,
     0.92464,
     0.9272,
-    0.92618
+    0.92565
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8248400092124939,
+   "kurs": 0.8241699934005737,
    "vortag": 0.8268499970436096,
-   "veraenderung_pct": -0.24308977907750995,
+   "veraenderung_pct": -0.32412210831689325,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82775,
     0.82375,
     0.82685,
-    0.82484
+    0.82417
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4144.5,
+   "kurs": 4149.89990234375,
    "vortag": 4142.60009765625,
-   "veraenderung_pct": 0.045862557306097784,
+   "veraenderung_pct": 0.17621311532411976,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4181.100098,
     4160.100098,
     4142.600098,
-    4144.5
+    4149.899902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.66999816894531,
+   "kurs": 109.63999938964844,
    "vortag": 108.79000091552734,
-   "veraenderung_pct": 1.7280974699850793,
+   "veraenderung_pct": 0.7813204035002297,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     109.860001,
     109.550003,
     108.790001,
-    110.669998
+    109.639999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83407.8828125,
+   "kurs": 83353.109375,
    "vortag": 82941.0,
-   "veraenderung_pct": 0.5629095531763495,
+   "veraenderung_pct": 0.4968705163911791,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82017.601562,
     81853.539062,
     82941.0,
-    83407.882812
+    83353.109375
    ]
   }
  ],
@@ -277,19 +277,7 @@
    "symbol": "NESN.SW",
    "einheit": "CHF",
    "dezimalen": 2,
-   "verfuegbar": true,
-   "kurs": 83.33999633789062,
-   "vortag": 83.11000061035156,
-   "veraenderung_pct": 0.27673652490673994,
-   "datum": "2026-10-21",
-   "ist_heute": true,
-   "verlauf": [
-    81.07,
-    82.43,
-    82.550003,
-    83.110001,
-    83.339996
-   ]
+   "verfuegbar": false
   },
   {
    "name": "Novartis",
@@ -297,9 +285,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 126.77999877929688,
+   "kurs": 126.63999938964844,
    "vortag": 126.5,
-   "veraenderung_pct": 0.22134290853508265,
+   "veraenderung_pct": 0.11067145426753022,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +295,7 @@
     124.699997,
     124.199997,
     126.5,
-    126.779999
+    126.639999
    ]
   },
   {
@@ -316,9 +304,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 390.70001220703125,
+   "kurs": 390.29998779296875,
    "vortag": 389.8999938964844,
-   "veraenderung_pct": 0.20518551502191062,
+   "veraenderung_pct": 0.10258884399740875,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +314,7 @@
     379.200012,
     380.100006,
     389.899994,
-    390.700012
+    390.299988
    ]
   },
   {
@@ -374,6 +362,38 @@
   ],
   "artikel": [
    {
+    "titel": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
+    "link": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
+    "zeit": "2026-10-21T11:27:59+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Raketen, Elektroautos, Roboter und Superintelligenz: Elon Musk will SpaceX und Tesla verschmelzen – es wäre die grösste Fusion überhaupt",
+    "link": "https://www.nzz.ch/wirtschaft/musk-bestaetigt-tesla-und-spacex-pruefen-zusammenschluss-ld.10039941",
+    "zeit": "2026-10-21T11:25:48+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+    "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+    "zeit": "2026-10-21T11:20:58+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "House committee says Webull messages point to China access to U.S. customer data",
+    "link": "https://www.cnbc.com/2026/10/21/webull-us-customer-data-china-access.html",
+    "zeit": "2026-10-21T11:05:18+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Mortgage rates drop for the first time in 2 months, but demand still falls further",
     "link": "https://www.cnbc.com/2026/10/21/mortgage-rates-drop-for-the-first-time-in-2-months-but-demand-falls.html",
     "zeit": "2026-10-21T11:00:01+00:00",
@@ -414,14 +434,6 @@
     "sprache": "en"
    },
    {
-    "titel": "House committee says Webull messages point to China access to U.S. customer data",
-    "link": "https://www.cnbc.com/2026/10/21/webull-us-customer-data-china-access.html",
-    "zeit": "2026-10-21T10:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "French supermarket giant's shares plunge 14% after warning ‘unprecedented’ unrest will hit business",
     "link": "https://www.cnbc.com/2026/10/21/carrefour-french-protests-guidance-cut.html",
     "zeit": "2026-10-21T08:12:51+00:00",
@@ -433,22 +445,6 @@
     "titel": "Oil prices climb as traders assess Middle East developments",
     "link": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
     "zeit": "2026-10-21T07:54:59+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "UK inflation jumps to 3.5% — cementing rate hike expectations",
-    "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
-    "zeit": "2026-10-21T07:50:10+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it",
-    "link": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
-    "zeit": "2026-10-21T07:49:48+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -474,14 +470,6 @@
     "link": "https://www.finews.ch/news/finanzplatz/74089-erster-schweizer-bitcoin-etf-bit-asset-management-dominik-oggenfuss-ceo-interview",
     "zeit": "2026-10-21T05:21:15+00:00",
     "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Musk bestätigt: Tesla und SpaceX prüfen Zusammenschluss",
-    "link": "https://www.nzz.ch/wirtschaft/musk-bestaetigt-tesla-und-spacex-pruefen-zusammenschluss-ld.10039941",
-    "zeit": "2026-10-21T05:03:30+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
