@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-21T19:06:56+02:00",
+ "aktualisiert": "2026-10-21T20:01:43+02:00",
  "kernaussagen": [
   "SMI +0.51%, Euro Stoxx 50 +1.40% führt",
   "Franken stärker: EUR/CHF 0.9260 (−0.13%)",
-  "Bitcoin +1.71% auf 84'359 USD · Brent über 100 USD"
+  "Bitcoin +2.02% auf 84'613 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7761.33984375,
+   "kurs": 7763.66015625,
    "vortag": 7712.56982421875,
-   "veraenderung_pct": 0.632344609420632,
+   "veraenderung_pct": 0.662429426192257,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7659.439941,
     7690.72998,
     7712.569824,
-    7761.339844
+    7763.660156
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26755.6796875,
+   "kurs": 26739.193359375,
    "vortag": 26424.8203125,
-   "veraenderung_pct": 1.2520780504361229,
+   "veraenderung_pct": 1.189688494215746,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26140.029297,
     26430.890625,
     26424.820312,
-    26755.679688
+    26739.193359
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.926010012626648,
+   "kurs": 0.9259799718856812,
    "vortag": 0.9272000193595886,
-   "veraenderung_pct": -0.12834412296093278,
+   "veraenderung_pct": -0.1315840647576949,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92813,
     0.92464,
     0.9272,
-    0.92601
+    0.92598
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8244900107383728,
+   "kurs": 0.8238099813461304,
    "vortag": 0.8268499970436096,
-   "veraenderung_pct": -0.2854189168137955,
+   "veraenderung_pct": -0.36766229767778436,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82775,
     0.82375,
     0.82685,
-    0.82449
+    0.82381
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4150.2998046875,
+   "kurs": 4154.2998046875,
    "vortag": 4142.60009765625,
-   "veraenderung_pct": 0.18586652946797066,
+   "veraenderung_pct": 0.2824242445673031,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4181.100098,
     4160.100098,
     4142.600098,
-    4150.299805
+    4154.299805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 108.47000122070312,
+   "kurs": 108.79000091552734,
    "vortag": 108.79000091552734,
-   "veraenderung_pct": -0.2941443994220472,
+   "veraenderung_pct": 0.0,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     109.860001,
     109.550003,
     108.790001,
-    108.470001
+    108.790001
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 84359.078125,
+   "kurs": 84613.1015625,
    "vortag": 82941.0,
-   "veraenderung_pct": 1.7097432210848584,
+   "veraenderung_pct": 2.0160132654537533,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82017.601562,
     81853.539062,
     82941.0,
-    84359.078125
+    84613.101562
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.109,
+   "wert": 5.111,
    "vortag": 5.117,
-   "veraenderung_bp": -0.8,
+   "veraenderung_bp": -0.6,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.098,
     5.136,
     5.117,
-    5.109
+    5.111
    ]
   }
  ],
@@ -334,19 +334,7 @@
    "symbol": "UBSG.SW",
    "einheit": "CHF",
    "dezimalen": 2,
-   "verfuegbar": true,
-   "kurs": 39.540000915527344,
-   "vortag": 39.099998474121094,
-   "veraenderung_pct": 1.1253259810162675,
-   "datum": "2026-10-21",
-   "ist_heute": true,
-   "verlauf": [
-    39.419998,
-    39.630001,
-    39.080002,
-    39.099998,
-    39.540001
-   ]
+   "verfuegbar": false
   }
  ],
  "news": {
@@ -374,9 +362,49 @@
   ],
   "artikel": [
    {
+    "titel": "Bundesstaat New Mexico – US-Richter verhängt Milliardenstrafe für Meta",
+    "link": "https://www.srf.ch/news/wirtschaft/bundesstaat-new-mexico-us-richter-verhaengt-milliardenstrafe-fuer-meta",
+    "zeit": "2026-10-21T17:58:03+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Trump-aligned super PACs pour millions into once-safe GOP House seats",
+    "link": "https://www.cnbc.com/2026/10/21/trump-pac-spending-midterm-election-house-republicans.html",
+    "zeit": "2026-10-21T17:51:21+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
+    "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+    "zeit": "2026-10-21T17:45:23+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
     "link": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
-    "zeit": "2026-10-21T17:02:41+00:00",
+    "zeit": "2026-10-21T17:34:00+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "How Ukraine’s drone strikes on Russia crippled the world’s second-largest diesel supplier",
+    "link": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
+    "zeit": "2026-10-21T17:27:34+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Expanding AI trade is turning safety stocks into a 'Texas hedge'",
+    "link": "https://www.cnbc.com/2026/10/21/expanding-ai-trade-is-turning-safety-stocks-into-a-texas-hedge.html",
+    "zeit": "2026-10-21T17:14:14+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -390,17 +418,17 @@
     "sprache": "en"
    },
    {
-    "titel": "Meta and Tesla bulls get confidence boost after SpaceX earnings",
-    "link": "https://www.cnbc.com/2026/10/21/meta-tesla-options-earnings.html",
-    "zeit": "2026-10-21T16:35:48+00:00",
+    "titel": "Meta stock advances ahead of after-the-bell earnings. What we're looking for",
+    "link": "https://www.cnbc.com/investingclub/2026/10/21/meta-stock-advances-ahead-of-after-the-bell-earnings-what-were-looking-for.html",
+    "zeit": "2026-10-21T16:47:59+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "How Ukraine’s drone strikes on Russia crippled the world’s second largest diesel supplier",
-    "link": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
-    "zeit": "2026-10-21T16:18:27+00:00",
+    "titel": "Meta and Tesla bulls get confidence boost after SpaceX earnings",
+    "link": "https://www.cnbc.com/2026/10/21/meta-tesla-options-earnings.html",
+    "zeit": "2026-10-21T16:35:48+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -417,38 +445,6 @@
     "titel": "Tesla earnings loom after Musk calls SpaceX merger a 'good idea'",
     "link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
     "zeit": "2026-10-21T16:01:25+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Musk's SpaceX stock gift is 'tip of the iceberg' for Trump Accounts, Altimeter's Gerstner says",
-    "link": "https://www.cnbc.com/2026/10/21/musk-spacex-stock-trump-account.html",
-    "zeit": "2026-10-21T15:58:45+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
-    "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
-    "zeit": "2026-10-21T15:30:50+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "EBay to lay off 9% of workforce in its second round of job cuts this year",
-    "link": "https://www.cnbc.com/2026/10/21/ebay-layoffs-workforce-cuts.html",
-    "zeit": "2026-10-21T15:17:03+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "A $50 sports bet costs a young investor hundreds later. Here's how",
-    "link": "https://www.cnbc.com/2026/10/21/sports-betting-young-investors-compounding.html",
-    "zeit": "2026-10-21T15:16:20+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -566,7 +562,7 @@
     "sprache": "de"
    },
    {
-    "titel": "Wenn Jeep seine Arbeiter nach Hause schickt, wird es kritisch",
+    "titel": "Wie soll Amerikas Industrie in die Zukunft geführt werden? In Ohio prallen zwei gegensätzliche Strategien aufeinander",
     "link": "https://www.nzz.ch/wirtschaft/wenn-jeep-seine-arbeiter-nach-hause-schickt-wird-es-kritisch-ld.10032145",
     "zeit": "2026-10-21T03:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
@@ -681,14 +677,6 @@
     "titel": "Switcher-Mode – Wie nachhaltig kann Mode sein?",
     "link": "https://www.srf.ch/news/wirtschaft/switcher-mode-wie-nachhaltig-kann-mode-sein",
     "zeit": "2026-10-18T17:45:37+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Wandel in der Autobranche – Geely – der unbekannte Riese auf Europas Strassen",
-    "link": "https://www.srf.ch/news/wirtschaft/wandel-in-der-autobranche-geely-der-unbekannte-riese-auf-europas-strassen",
-    "zeit": "2026-10-18T14:49:48+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
