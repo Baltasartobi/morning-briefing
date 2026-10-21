@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-21T07:06:32+02:00",
+ "aktualisiert": "2026-10-21T08:03:06+02:00",
  "kernaussagen": [
-  "SMI +0.76%, Nikkei 225 +0.87% führt",
+  "SMI +0.76%, Nikkei 225 +1.05% führt",
   "Franken schwächer: EUR/CHF 0.9272 (+0.28%)",
-  "Brent über 100 USD: 110.18 (+1.28%)"
+  "Brent über 100 USD: 110.58 (+1.65%)"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 64630.30078125,
+   "kurs": 64748.80078125,
    "vortag": 64075.421875,
-   "veraenderung_pct": 0.8659777649727696,
+   "veraenderung_pct": 1.0509160713192633,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     65324.289062,
     64916.699219,
     64075.421875,
-    64630.300781
+    64748.800781
    ]
   }
  ],
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8253999948501587,
-   "vortag": 0.8268499970436096,
-   "veraenderung_pct": -0.1753646004275744,
-   "datum": "2026-10-21",
-   "ist_heute": true,
+   "kurs": 0.8268499970436096,
+   "vortag": 0.8237500190734863,
+   "veraenderung_pct": 0.3763250862937717,
+   "datum": "2026-10-20",
+   "ist_heute": false,
    "verlauf": [
+    0.8326,
     0.8316,
     0.82775,
     0.82375,
-    0.82685,
-    0.8254
+    0.82685
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4132.2998046875,
+   "kurs": 4135.0,
    "vortag": 4142.60009765625,
-   "veraenderung_pct": -0.24864318847908073,
+   "veraenderung_pct": -0.18346201605484724,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4181.100098,
     4160.100098,
     4142.600098,
-    4132.299805
+    4135.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.18000030517578,
+   "kurs": 110.58000183105469,
    "vortag": 108.79000091552734,
-   "veraenderung_pct": 1.2776903924541116,
+   "veraenderung_pct": 1.6453726449705997,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     109.860001,
     109.550003,
     108.790001,
-    110.18
+    110.580002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82849.6875,
+   "kurs": 82545.6328125,
    "vortag": 81853.5390625,
-   "veraenderung_pct": 1.2169888423998243,
+   "veraenderung_pct": 0.8455269716212799,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81382.148438,
     82017.601562,
     81853.539062,
-    82849.6875
+    82545.632812
    ]
   }
  ],
@@ -374,6 +374,22 @@
   ],
   "artikel": [
    {
+    "titel": "Oil prices climb as traders assess Middle East developments",
+    "link": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
+    "zeit": "2026-10-21T05:27:19+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Musk bestätigt: Tesla und SpaceX prüfen Zusammenschluss",
+    "link": "https://www.nzz.ch/wirtschaft/musk-bestaetigt-tesla-und-spacex-pruefen-zusammenschluss-ld.10039941",
+    "zeit": "2026-10-21T05:03:30+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "U.S. eyes refining muscle of Indian billionaire Ambani's Reliance as Rubio visits Jamnagar plant",
     "link": "https://www.cnbc.com/2026/10/21/rubio-reliance-venezuela-oil-diesel.html",
     "zeit": "2026-10-21T04:47:43+00:00",
@@ -518,14 +534,6 @@
     "sprache": "en"
    },
    {
-    "titel": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
-    "link": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
-    "zeit": "2026-10-20T20:23:58+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Seilbahnen steigern Umsatz – Skigebiete mit Rekordergebnis – aber Tageskarten werden teurer",
     "link": "https://www.srf.ch/news/wirtschaft/seilbahnen-steigern-umsatz-skigebiete-mit-rekordergebnis-aber-tageskarten-werden-teurer",
     "zeit": "2026-10-20T18:28:45+00:00",
@@ -537,14 +545,6 @@
     "titel": "Der Abstieg des Goldhasen",
     "link": "https://www.nzz.ch/wirtschaft/der-abstieg-des-goldhasen-ld.10038080",
     "zeit": "2026-10-20T15:00:43+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "MELDUNGEN WIRTSCHAFT - VW ruft weltweit mehr als 70 000 E-Autos zurück",
-    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
-    "zeit": "2026-10-20T14:38:22+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
@@ -590,6 +590,14 @@
     "sprache": "de"
    },
    {
+    "titel": "Zwei Wealth baut Partnerteam mit weiterem erfahrenen Banker aus",
+    "link": "https://www.finews.ch/news/finanzplatz/74069-wealth-management-dienstleister-zwei-wealth-expansion-stefan-wuethrich-neuer-partner-15-beraterinnen-und-berater",
+    "zeit": "2026-10-20T07:04:29+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Finma genehmigt ersten Schweizer Bitcoin-ETF",
     "link": "https://www.finews.ch/news/finanzplatz/74067-erster-schweizer-bitcoin-etf-finma-genehmigung-blackrock-marktleader",
     "zeit": "2026-10-20T06:47:51+00:00",
@@ -617,14 +625,6 @@
     "titel": "Digitales Gold: Studie sieht Marktpotenzial von 700 Milliarden Dollar",
     "link": "https://www.finews.ch/news/finanzplatz/74063-studie-world-gold-council-unerschlossene-nachfragepotenzial-fuer-digitales-gold-700-milliarden-us-dollar-vertrauen-regulierung-und-eine-gemeinsame-infrastruktur",
     "zeit": "2026-10-20T05:49:42+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "AllianceBernstein verstärkt Schweizer Vertriebsteam",
-    "link": "https://www.finews.ch/news/finanzplatz/74062-alliancebernstein-schweiz-vertrieb-institutionelle-julian-jantschik",
-    "zeit": "2026-10-20T05:35:02+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
