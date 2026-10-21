@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-21T09:42:47+02:00",
+ "aktualisiert": "2026-10-21T10:35:20+02:00",
  "kernaussagen": [
-  "SMI −0.20%, Nikkei 225 +0.85% führt",
-  "Franken stärker: EUR/CHF 0.9258 (−0.15%)",
-  "Brent über 100 USD: 109.62 (+0.76%)"
+  "SMI +0.01%, Nikkei 225 +0.85% führt",
+  "Franken stärker: EUR/CHF 0.9254 (−0.20%)",
+  "Brent über 100 USD: 109.75 (+0.88%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14449.3701171875,
+   "kurs": 14479.5400390625,
    "vortag": 14478.3701171875,
-   "veraenderung_pct": -0.20029878891943964,
+   "veraenderung_pct": 0.008080480506644783,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14391.30957,
     14368.780273,
     14478.370117,
-    14449.370117
+    14479.540039
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25323.4609375,
+   "kurs": 25347.369140625,
    "vortag": 25304.419921875,
-   "veraenderung_pct": 0.07524778550065392,
+   "veraenderung_pct": 0.1697301059759626,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25622.609375,
     25319.769531,
     25304.419922,
-    25323.460938
+    25347.369141
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6142.43994140625,
+   "kurs": 6145.85986328125,
    "vortag": 6121.66015625,
-   "veraenderung_pct": 0.33944689227862757,
+   "veraenderung_pct": 0.3953128140663509,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6204.22998,
     6144.810059,
     6121.660156,
-    6142.439941
+    6145.859863
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9257699847221375,
+   "kurs": 0.9253799915313721,
    "vortag": 0.9272000193595886,
-   "veraenderung_pct": -0.15423151505528088,
+   "veraenderung_pct": -0.19629290230964713,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92813,
     0.92464,
     0.9272,
-    0.92577
+    0.92538
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8247900009155273,
+   "kurs": 0.8244799971580505,
    "vortag": 0.8268499970436096,
-   "veraenderung_pct": -0.24913782855993105,
+   "veraenderung_pct": -0.28662996843841215,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82775,
     0.82375,
     0.82685,
-    0.82479
+    0.82448
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4138.7001953125,
+   "kurs": 4137.2998046875,
    "vortag": 4142.60009765625,
-   "veraenderung_pct": -0.094141414855764,
+   "veraenderung_pct": -0.12794604460489856,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4181.100098,
     4160.100098,
     4142.600098,
-    4138.700195
+    4137.299805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.62000274658203,
+   "kurs": 109.75,
    "vortag": 108.79000091552734,
-   "veraenderung_pct": 0.762939446704447,
+   "veraenderung_pct": 0.8824331982661526,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     109.860001,
     109.550003,
     108.790001,
-    109.620003
+    109.75
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82926.5,
+   "kurs": 83033.421875,
    "vortag": 82941.0,
-   "veraenderung_pct": -0.017482306699945216,
+   "veraenderung_pct": 0.11143086651956846,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82017.601562,
     81853.539062,
     82941.0,
-    82926.5
+    83033.421875
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 82.73999786376953,
+   "kurs": 83.02999877929688,
    "vortag": 82.55000305175781,
-   "veraenderung_pct": 0.23015724407979832,
+   "veraenderung_pct": 0.5814605812165974,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     81.07,
     82.43,
     82.550003,
-    82.739998
+    83.029999
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 126.13999938964844,
+   "kurs": 126.5999984741211,
    "vortag": 124.19999694824219,
-   "veraenderung_pct": 1.5619987834739613,
+   "veraenderung_pct": 1.932368425805242,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     125.900002,
     124.699997,
     124.199997,
-    126.139999
+    126.599998
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 387.70001220703125,
+   "kurs": 390.3999938964844,
    "vortag": 380.1000061035156,
-   "veraenderung_pct": 1.9994753963371137,
+   "veraenderung_pct": 2.7098099520060703,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     379.700012,
     379.200012,
     380.100006,
-    387.700012
+    390.399994
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.04999923706055,
+   "kurs": 38.959999084472656,
    "vortag": 39.08000183105469,
-   "veraenderung_pct": -0.07677224306140706,
+   "veraenderung_pct": -0.3070694497426363,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.419998,
     39.630001,
     39.080002,
-    39.049999
+    38.959999
    ]
   }
  ],
@@ -374,9 +374,33 @@
   ],
   "artikel": [
    {
+    "titel": "SpaceX up 10% in premarket after earnings beat and Musk hints at Tesla tie-up",
+    "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
+    "zeit": "2026-10-21T08:25:42+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Oil prices climb as traders assess Middle East developments",
+    "link": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
+    "zeit": "2026-10-21T07:54:59+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "UK inflation jumps to 3.5% — cementing rate hike expectations",
     "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
-    "zeit": "2026-10-21T07:29:33+00:00",
+    "zeit": "2026-10-21T07:50:10+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it",
+    "link": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
+    "zeit": "2026-10-21T07:49:48+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -398,25 +422,9 @@
     "sprache": "de"
    },
    {
-    "titel": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it.",
-    "link": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
-    "zeit": "2026-10-21T07:03:48+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "'MAKE DEALS': Trump says data centers should pay communities a 'dividend' to win support",
     "link": "https://www.cnbc.com/2026/10/21/trump-data-centers-community-dividend.html",
     "zeit": "2026-10-21T06:52:28+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Oil prices climb as traders assess Middle East developments",
-    "link": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
-    "zeit": "2026-10-21T05:27:19+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -537,14 +545,6 @@
     "titel": "Capital One's strong quarter and progressing Discover integration are rewarded on Wall Street",
     "link": "https://www.cnbc.com/investingclub/2026/10/20/capital-one-strong-quarter-and-progressing-discover-integration-are-rewarded.html",
     "zeit": "2026-10-20T23:34:14+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Elon Musk ordered Starlink slowdown for Ukraine: Report",
-    "link": "https://www.cnbc.com/2026/10/20/trump-musk-starlink-ukraine-zelenskyy.html",
-    "zeit": "2026-10-20T23:06:56+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
