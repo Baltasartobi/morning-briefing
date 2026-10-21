@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-21T08:03:06+02:00",
+ "aktualisiert": "2026-10-21T08:42:04+02:00",
  "kernaussagen": [
-  "SMI +0.76%, Nikkei 225 +1.05% führt",
-  "Franken schwächer: EUR/CHF 0.9272 (+0.28%)",
-  "Brent über 100 USD: 110.58 (+1.65%)"
+  "SMI +0.76%, Nikkei 225 +0.94% führt",
+  "Franken stärker: EUR/CHF 0.9262 (−0.11%)",
+  "Brent über 100 USD: 110.38 (+1.46%)"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 64748.80078125,
+   "kurs": 64676.9296875,
    "vortag": 64075.421875,
-   "veraenderung_pct": 1.0509160713192633,
+   "veraenderung_pct": 0.9387496717125687,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     65324.289062,
     64916.699219,
     64075.421875,
-    64748.800781
+    64676.929688
    ]
   }
  ],
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9272000193595886,
-   "vortag": 0.9246399998664856,
-   "veraenderung_pct": 0.2768666176536483,
-   "datum": "2026-10-20",
-   "ist_heute": false,
+   "kurs": 0.9262099862098694,
+   "vortag": 0.9272000193595886,
+   "veraenderung_pct": -0.10677665326226382,
+   "datum": "2026-10-21",
+   "ist_heute": true,
    "verlauf": [
-    0.93272,
     0.93096,
     0.92813,
     0.92464,
-    0.9272
+    0.9272,
+    0.92621
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8268499970436096,
-   "vortag": 0.8237500190734863,
-   "veraenderung_pct": 0.3763250862937717,
-   "datum": "2026-10-20",
-   "ist_heute": false,
+   "kurs": 0.8254200220108032,
+   "vortag": 0.8268499970436096,
+   "veraenderung_pct": -0.1729424971783633,
+   "datum": "2026-10-21",
+   "ist_heute": true,
    "verlauf": [
-    0.8326,
     0.8316,
     0.82775,
     0.82375,
-    0.82685
+    0.82685,
+    0.82542
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4135.0,
+   "kurs": 4135.2001953125,
    "vortag": 4142.60009765625,
-   "veraenderung_pct": -0.18346201605484724,
+   "veraenderung_pct": -0.1786294155676882,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4181.100098,
     4160.100098,
     4142.600098,
-    4135.0
+    4135.200195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.58000183105469,
+   "kurs": 110.37999725341797,
    "vortag": 108.79000091552734,
-   "veraenderung_pct": 1.6453726449705997,
+   "veraenderung_pct": 1.4615280122345142,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     109.860001,
     109.550003,
     108.790001,
-    110.580002
+    110.379997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82545.6328125,
+   "kurs": 82737.71875,
    "vortag": 81853.5390625,
-   "veraenderung_pct": 0.8455269716212799,
+   "veraenderung_pct": 1.0801972616295563,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81382.148438,
     82017.601562,
     81853.539062,
-    82545.632812
+    82737.71875
    ]
   }
  ],
@@ -223,17 +223,17 @@
    "name": "Schweiz",
    "quelle": "snb",
    "verfuegbar": true,
-   "wert": 0.577,
-   "vortag": 0.572,
-   "veraenderung_bp": 0.5,
-   "datum": "2026-10-19",
+   "wert": 0.539,
+   "vortag": 0.577,
+   "veraenderung_bp": -3.8,
+   "datum": "2026-10-20",
    "ist_heute": false,
    "verlauf": [
-    0.561,
     0.568,
     0.53,
     0.572,
-    0.577
+    0.577,
+    0.539
    ]
   },
   {
@@ -374,6 +374,14 @@
   ],
   "artikel": [
    {
+    "titel": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+    "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+    "zeit": "2026-10-21T06:30:27+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Oil prices climb as traders assess Middle East developments",
     "link": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
     "zeit": "2026-10-21T05:27:19+00:00",
@@ -502,6 +510,14 @@
     "sprache": "en"
    },
    {
+    "titel": "Elon Musk ordered Starlink slowdown for Ukraine: Report",
+    "link": "https://www.cnbc.com/2026/10/20/trump-musk-starlink-ukraine-zelenskyy.html",
+    "zeit": "2026-10-20T23:06:56+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
     "link": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
     "zeit": "2026-10-20T22:29:45+00:00",
@@ -513,22 +529,6 @@
     "titel": "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says certification process should be faster",
     "link": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
     "zeit": "2026-10-20T22:01:11+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Obsessed with CoreWeave and the AI trade? You're missing out on some great stocks",
-    "link": "https://www.cnbc.com/investingclub/2026/10/20/obsessed-with-the-ai-trade-youre-missing-out-on-some-great-stocks.html",
-    "zeit": "2026-10-20T21:17:47+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Prediction-market odds rise for Marine Le Pen in France 2027 presidential race as protests roil nation",
-    "link": "https://www.cnbc.com/2026/10/20/marine-le-pen-france-2027-election-odds-kalshi.html",
-    "zeit": "2026-10-20T20:34:23+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
