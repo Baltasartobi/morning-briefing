@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-21T14:38:15+02:00",
+ "aktualisiert": "2026-10-21T15:39:57+02:00",
  "kernaussagen": [
-  "SMI +0.09%, Euro Stoxx 50 +1.00% führt",
-  "Franken stärker: EUR/CHF 0.9254 (−0.19%)",
-  "Bitcoin +0.71% auf 83'534 USD · Brent über 100 USD"
+  "SMI +0.25%, DAX +1.41% führt",
+  "Franken stärker: EUR/CHF 0.9257 (−0.17%)",
+  "Bitcoin +0.72% auf 83'536 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14491.0498046875,
+   "kurs": 14514.01953125,
    "vortag": 14478.3701171875,
-   "veraenderung_pct": 0.08757676034920614,
+   "veraenderung_pct": 0.2462253262898617,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14391.30957,
     14368.780273,
     14478.370117,
-    14491.049805
+    14514.019531
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25529.2109375,
+   "kurs": 25660.109375,
    "vortag": 25304.419921875,
-   "veraenderung_pct": 0.8883468434329744,
+   "veraenderung_pct": 1.405641600254648,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25622.609375,
     25319.769531,
     25304.419922,
-    25529.210938
+    25660.109375
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6182.60986328125,
+   "kurs": 6206.2099609375,
    "vortag": 6121.66015625,
-   "veraenderung_pct": 0.9956401609295895,
+   "veraenderung_pct": 1.3811580932204803,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6204.22998,
     6144.810059,
     6121.660156,
-    6182.609863
+    6206.209961
    ]
   },
   {
@@ -69,17 +69,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7712.56982421875,
-   "vortag": 7690.72998046875,
-   "veraenderung_pct": 0.2839762129923207,
-   "datum": "2026-10-20",
-   "ist_heute": false,
+   "kurs": 7734.7900390625,
+   "vortag": 7712.56982421875,
+   "veraenderung_pct": 0.28810390505606964,
+   "datum": "2026-10-21",
+   "ist_heute": true,
    "verlauf": [
-    7718.939941,
     7744.060059,
     7659.439941,
     7690.72998,
-    7712.569824
+    7712.569824,
+    7734.790039
    ]
   },
   {
@@ -88,17 +88,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26424.8203125,
-   "vortag": 26430.890625,
-   "veraenderung_pct": -0.02296673459144527,
-   "datum": "2026-10-20",
-   "ist_heute": false,
+   "kurs": 26593.21484375,
+   "vortag": 26424.8203125,
+   "veraenderung_pct": 0.6372589454102906,
+   "datum": "2026-10-21",
+   "ist_heute": true,
    "verlauf": [
-    26692.869141,
     26713.029297,
     26140.029297,
     26430.890625,
-    26424.820312
+    26424.820312,
+    26593.214844
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9254299998283386,
+   "kurs": 0.9256600141525269,
    "vortag": 0.9272000193595886,
-   "veraenderung_pct": -0.19089942777099633,
+   "veraenderung_pct": -0.16609201627556525,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92813,
     0.92464,
     0.9272,
-    0.92543
+    0.92566
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8243200182914734,
+   "kurs": 0.8242800235748291,
    "vortag": 0.8268499970436096,
-   "veraenderung_pct": -0.30597795986964105,
+   "veraenderung_pct": -0.3108149577274455,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82775,
     0.82375,
     0.82685,
-    0.82432
+    0.82428
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4149.7998046875,
+   "kurs": 4155.89990234375,
    "vortag": 4142.60009765625,
-   "veraenderung_pct": 0.17379681508054023,
+   "veraenderung_pct": 0.3210496879731295,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4181.100098,
     4160.100098,
     4142.600098,
-    4149.799805
+    4155.899902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 108.97000122070312,
+   "kurs": 108.47000122070312,
    "vortag": 108.79000091552734,
-   "veraenderung_pct": 0.16545666298464212,
+   "veraenderung_pct": -0.2941443994220472,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     109.860001,
     109.550003,
     108.790001,
-    108.970001
+    108.470001
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83533.921875,
+   "kurs": 83536.046875,
    "vortag": 82941.0,
-   "veraenderung_pct": 0.7148718667486564,
+   "veraenderung_pct": 0.7174339289374387,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82017.601562,
     81853.539062,
     82941.0,
-    83533.921875
+    83536.046875
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.098,
+   "wert": 5.096,
    "vortag": 5.117,
-   "veraenderung_bp": -1.9,
+   "veraenderung_bp": -2.1,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.098,
     5.136,
     5.117,
-    5.098
+    5.096
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.25,
+   "kurs": 83.5,
    "vortag": 83.11000061035156,
-   "veraenderung_pct": 0.16845071425857228,
+   "veraenderung_pct": 0.46925687255965354,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     82.43,
     82.550003,
     83.110001,
-    83.25
+    83.5
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 126.33999633789062,
+   "kurs": 126.26000213623047,
    "vortag": 126.5,
-   "veraenderung_pct": -0.12648510838685345,
+   "veraenderung_pct": -0.1897216314383665,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     124.699997,
     124.199997,
     126.5,
-    126.339996
+    126.260002
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 389.3999938964844,
+   "kurs": 389.6000061035156,
    "vortag": 389.8999938964844,
-   "veraenderung_pct": -0.12823801175353422,
+   "veraenderung_pct": -0.07693967624128328,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     379.200012,
     380.100006,
     389.899994,
-    389.399994
+    389.600006
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.209999084472656,
+   "kurs": 39.52000045776367,
    "vortag": 39.099998474121094,
-   "veraenderung_pct": 0.28133149525406687,
+   "veraenderung_pct": 1.074173913128318,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.630001,
     39.080002,
     39.099998,
-    39.209999
+    39.52
    ]
   }
  ],
@@ -374,28 +374,84 @@
   ],
   "artikel": [
    {
-    "titel": "Prediction-market odds rise for Marine Le Pen in France 2027 presidential race as protests roil nation",
-    "link": "https://www.cnbc.com/2026/10/20/marine-le-pen-france-2027-election-odds-kalshi.html",
-    "zeit": "2026-10-21T12:31:32+00:00",
+    "titel": "SpaceX stock jumps 8% after earnings beat and Musk hints at Tesla tie-up",
+    "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
+    "zeit": "2026-10-21T13:35:22+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Beliebtester Streamingdienst – Trotz Umsatzplus ist Netflix in der Krise",
-    "link": "https://www.srf.ch/news/wirtschaft/beliebtester-streamingdienst-trotz-umsatzplus-ist-netflix-in-der-krise",
-    "zeit": "2026-10-21T12:29:55+00:00",
-    "quelle": "SRF Wirtschaft",
+    "titel": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+    "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
+    "zeit": "2026-10-21T13:30:57+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Mortgage rates drop for the first time in 2 months, but demand still falls further",
+    "link": "https://www.cnbc.com/2026/10/21/mortgage-rates-drop-for-the-first-time-in-2-months-but-demand-falls.html",
+    "zeit": "2026-10-21T13:13:48+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Our top 10 things to watch in the stock market Wednesday",
+    "link": "https://www.cnbc.com/investingclub/2026/10/21/our-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+    "zeit": "2026-10-21T13:08:24+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "OpenAI expands ChatGPT Ads to 26 new countries as diversification push accelerates",
+    "link": "https://www.cnbc.com/2026/10/21/openai-chatgpt-ads-26-countries.html",
+    "zeit": "2026-10-21T13:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Oil prices little changed as traders assess Middle East developments",
+    "link": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
+    "zeit": "2026-10-21T12:48:55+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Die Milliardärsfamilie Ambani schafft mit ihrem Telekomriesen Jio den grössten Börsengang Indiens",
+    "link": "https://www.nzz.ch/wirtschaft/die-milliardaersfamilie-ambani-schafft-mit-ihrem-telekomriesen-jio-den-groessten-boersengang-indiens-ld.10039972",
+    "zeit": "2026-10-21T12:44:23+00:00",
+    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
    {
-    "titel": "SpaceX up 8% in premarket after earnings beat and Musk hints at Tesla tie-up",
-    "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
-    "zeit": "2026-10-21T12:23:13+00:00",
+    "titel": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck",
+    "link": "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html",
+    "zeit": "2026-10-21T12:43:49+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Tokenized stock trading takes off overseas as Goldman, other U.S. companies object",
+    "link": "https://www.cnbc.com/2026/10/21/tokenized-stocks-us-companies-object.html",
+    "zeit": "2026-10-21T12:33:34+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Beliebtester Streamingdienst – Bei Netflix läuft nicht mehr alles rund",
+    "link": "https://www.srf.ch/news/wirtschaft/beliebtester-streamingdienst-bei-netflix-laeuft-nicht-mehr-alles-rund",
+    "zeit": "2026-10-21T12:29:55+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Investors are questioning neoclouds' business model but Nebius says AI computing prices are rising",
@@ -414,22 +470,6 @@
     "sprache": "en"
    },
    {
-    "titel": "United Airlines set to open its biggest airport lounge in $2.6 billion overhaul at Houston hub",
-    "link": "https://www.cnbc.com/2026/10/21/united-airlines-biggest-airport-lounge-houston.html",
-    "zeit": "2026-10-21T12:09:51+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck",
-    "link": "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html",
-    "zeit": "2026-10-21T11:54:28+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Raketen, Elektroautos, Roboter und Superintelligenz: Elon Musk will SpaceX und Tesla verschmelzen – es wäre die grösste Fusion überhaupt",
     "link": "https://www.nzz.ch/wirtschaft/musk-bestaetigt-tesla-und-spacex-pruefen-zusammenschluss-ld.10039941",
     "zeit": "2026-10-21T11:25:48+00:00",
@@ -438,36 +478,12 @@
     "sprache": "de"
    },
    {
-    "titel": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-    "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
-    "zeit": "2026-10-21T11:20:58+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "House committee says Webull messages point to China access to U.S. customer data",
-    "link": "https://www.cnbc.com/2026/10/21/webull-us-customer-data-china-access.html",
-    "zeit": "2026-10-21T11:05:18+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Mortgage rates drop for the first time in 2 months, but demand still falls further",
-    "link": "https://www.cnbc.com/2026/10/21/mortgage-rates-drop-for-the-first-time-in-2-months-but-demand-falls.html",
-    "zeit": "2026-10-21T11:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "French 10-year bond yield hits 5% for first time since 2002 amid unrest",
-    "link": "https://www.cnbc.com/2026/10/21/france-protests-bonds-debt.html",
-    "zeit": "2026-10-21T10:40:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "ETF-Boom in Deutschland: Was Schweizer Anbieter aufhorchen lässt",
+    "link": "https://www.finews.ch/news/finanzplatz/74103-deutschland-etfs-im-wert-von-697-milliarden-euro-untersuchung-des-fondsverbands-bvi-zeigt-starke-konzentration-aktien-etfs-entfallen-96-prozent-des-vermoegens-auf-indizes-von-nur-fuenf-anbietern",
+    "zeit": "2026-10-21T11:04:36+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Lieferkettenprobleme – Nachhaltigkeit – für Unternehmen nicht nur nett, sondern wichtig",
@@ -582,14 +598,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Der Abstieg des Goldhasen",
-    "link": "https://www.nzz.ch/wirtschaft/der-abstieg-des-goldhasen-ld.10038080",
-    "zeit": "2026-10-20T15:00:43+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Commerzbank-Übernahme: Bafin büsst UniCredit-Partner",
     "link": "https://www.finews.ch/news/banken/74079-commerzbank-unicredit-nomura-stimmrechtsmeldungen-deutsche-finanzaufsicht-busse-320000-euro",
     "zeit": "2026-10-20T10:46:37+00:00",
@@ -633,14 +641,6 @@
     "titel": "Zwei Wealth baut Partnerteam mit weiterem erfahrenen Banker aus",
     "link": "https://www.finews.ch/news/finanzplatz/74069-wealth-management-dienstleister-zwei-wealth-expansion-stefan-wuethrich-neuer-partner-15-beraterinnen-und-berater",
     "zeit": "2026-10-20T07:04:29+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Finma genehmigt ersten Schweizer Bitcoin-ETF",
-    "link": "https://www.finews.ch/news/finanzplatz/74067-erster-schweizer-bitcoin-etf-finma-genehmigung-blackrock-marktleader",
-    "zeit": "2026-10-20T06:47:51+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
