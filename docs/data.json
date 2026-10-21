@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-21T20:01:43+02:00",
+ "aktualisiert": "2026-10-21T20:36:01+02:00",
  "kernaussagen": [
   "SMI +0.51%, Euro Stoxx 50 +1.40% führt",
-  "Franken stärker: EUR/CHF 0.9260 (−0.13%)",
-  "Bitcoin +2.02% auf 84'613 USD · Brent über 100 USD"
+  "Franken schwächer: EUR/CHF 0.9272 (+0.28%)",
+  "Bitcoin +2.08% auf 84'666 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7763.66015625,
+   "kurs": 7769.52001953125,
    "vortag": 7712.56982421875,
-   "veraenderung_pct": 0.662429426192257,
+   "veraenderung_pct": 0.7384075166965376,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7659.439941,
     7690.72998,
     7712.569824,
-    7763.660156
+    7769.52002
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26739.193359375,
+   "kurs": 26763.2578125,
    "vortag": 26424.8203125,
-   "veraenderung_pct": 1.189688494215746,
+   "veraenderung_pct": 1.2807561073174378,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26140.029297,
     26430.890625,
     26424.820312,
-    26739.193359
+    26763.257812
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9259799718856812,
-   "vortag": 0.9272000193595886,
-   "veraenderung_pct": -0.1315840647576949,
-   "datum": "2026-10-21",
-   "ist_heute": true,
+   "kurs": 0.9272000193595886,
+   "vortag": 0.9246399998664856,
+   "veraenderung_pct": 0.2768666176536483,
+   "datum": "2026-10-20",
+   "ist_heute": false,
    "verlauf": [
+    0.93272,
     0.93096,
     0.92813,
     0.92464,
-    0.9272,
-    0.92598
+    0.9272
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8238099813461304,
+   "kurs": 0.8242899775505066,
    "vortag": 0.8268499970436096,
-   "veraenderung_pct": -0.36766229767778436,
+   "veraenderung_pct": -0.3096111147434688,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82775,
     0.82375,
     0.82685,
-    0.82381
+    0.82429
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4154.2998046875,
+   "kurs": 4158.10009765625,
    "vortag": 4142.60009765625,
-   "veraenderung_pct": 0.2824242445673031,
+   "veraenderung_pct": 0.37416114600994366,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4181.100098,
     4160.100098,
     4142.600098,
-    4154.299805
+    4158.100098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 108.79000091552734,
+   "kurs": 108.8499984741211,
    "vortag": 108.79000091552734,
-   "veraenderung_pct": 0.0,
+   "veraenderung_pct": 0.05514988334298643,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     109.860001,
     109.550003,
     108.790001,
-    108.790001
+    108.849998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 84613.1015625,
+   "kurs": 84666.3515625,
    "vortag": 82941.0,
-   "veraenderung_pct": 2.0160132654537533,
+   "veraenderung_pct": 2.0802155297138913,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82017.601562,
     81853.539062,
     82941.0,
-    84613.101562
+    84666.351562
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.111,
+   "wert": 5.106,
    "vortag": 5.117,
-   "veraenderung_bp": -0.6,
+   "veraenderung_bp": -1.1,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.098,
     5.136,
     5.117,
-    5.111
+    5.106
    ]
   }
  ],
@@ -334,7 +334,19 @@
    "symbol": "UBSG.SW",
    "einheit": "CHF",
    "dezimalen": 2,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 39.540000915527344,
+   "vortag": 39.099998474121094,
+   "veraenderung_pct": 1.1253259810162675,
+   "datum": "2026-10-21",
+   "ist_heute": true,
+   "verlauf": [
+    39.419998,
+    39.630001,
+    39.080002,
+    39.099998,
+    39.540001
+   ]
   }
  ],
  "news": {
@@ -362,6 +374,38 @@
   ],
   "artikel": [
    {
+    "titel": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
+    "link": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
+    "zeit": "2026-10-21T18:33:02+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Meta wird in New Mexico zu Milliardenstrafe verurteilt",
+    "link": "https://www.nzz.ch/wirtschaft/facebook-mutterkonzern-meta-in-new-mexico-zu-milliardentrafe-verurteilt-ld.10040767",
+    "zeit": "2026-10-21T18:15:25+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Capital One delivered a strong quarter. Why we're not declaring victory just yet",
+    "link": "https://www.cnbc.com/investingclub/2026/10/21/capital-one-delivered-a-strong-quarter-why-were-not-declaring-victory-just-yet.html",
+    "zeit": "2026-10-21T18:06:31+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "GM aims to develop vehicles in as little as two years with AI, software push",
+    "link": "https://www.cnbc.com/2026/10/21/gm-vehicle-development-ai-software.html",
+    "zeit": "2026-10-21T18:03:55+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Bundesstaat New Mexico – US-Richter verhängt Milliardenstrafe für Meta",
     "link": "https://www.srf.ch/news/wirtschaft/bundesstaat-new-mexico-us-richter-verhaengt-milliardenstrafe-fuer-meta",
     "zeit": "2026-10-21T17:58:03+00:00",
@@ -381,14 +425,6 @@
     "titel": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
     "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
     "zeit": "2026-10-21T17:45:23+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
-    "link": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
-    "zeit": "2026-10-21T17:34:00+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -418,14 +454,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Meta stock advances ahead of after-the-bell earnings. What we're looking for",
-    "link": "https://www.cnbc.com/investingclub/2026/10/21/meta-stock-advances-ahead-of-after-the-bell-earnings-what-were-looking-for.html",
-    "zeit": "2026-10-21T16:47:59+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Meta and Tesla bulls get confidence boost after SpaceX earnings",
     "link": "https://www.cnbc.com/2026/10/21/meta-tesla-options-earnings.html",
     "zeit": "2026-10-21T16:35:48+00:00",
@@ -437,14 +465,6 @@
     "titel": "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
     "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
     "zeit": "2026-10-21T16:08:50+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Tesla earnings loom after Musk calls SpaceX merger a 'good idea'",
-    "link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
-    "zeit": "2026-10-21T16:01:25+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -474,7 +494,7 @@
     "sprache": "de"
    },
    {
-    "titel": "MELDUNGEN WIRTSCHAFT - Die EU ermittelt gegen die Reiseplattform Booking wegen möglicher Verstösse gegen den Verbraucherschutz",
+    "titel": "MELDUNGEN WIRTSCHAFT - Facebook-Mutterkonzern Meta in New Mexico zu Milliardentrafe verurteilt",
     "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
     "zeit": "2026-10-21T13:44:55+00:00",
     "quelle": "NZZ Wirtschaft",
@@ -588,14 +608,6 @@
    {
     "titel": "Werden CIA, MI6 oder andere Dienste dem BND weiterhin ihre Geheimnisse anvertrauen? Der Fall Hanning wirft grundsätzliche Fragen auf",
     "link": "https://www.nzz.ch/pro/affaere-hanning-wie-sicher-sind-deutschlands-geheimnisse-beim-bnd-ld.10034737",
-    "zeit": "2026-10-21T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "KOMMENTAR - Russland ist nicht an allem schuld. Europa muss seine Probleme selbst lösen",
-    "link": "https://www.nzz.ch/meinung/russland-ist-fuer-die-krise-in-europa-nicht-verantwortlich-die-beginnt-anderswo-ld.10032444",
     "zeit": "2026-10-21T03:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
