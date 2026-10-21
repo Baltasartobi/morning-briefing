@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-21T10:35:20+02:00",
+ "aktualisiert": "2026-10-21T11:32:32+02:00",
  "kernaussagen": [
-  "SMI +0.01%, Nikkei 225 +0.85% führt",
-  "Franken stärker: EUR/CHF 0.9254 (−0.20%)",
-  "Brent über 100 USD: 109.75 (+0.88%)"
+  "SMI +0.18%, Nikkei 225 +0.85% führt",
+  "Franken schwächer: EUR/CHF 0.9272 (+0.28%)",
+  "Brent über 100 USD: 109.96 (+1.08%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14479.5400390625,
+   "kurs": 14504.1796875,
    "vortag": 14478.3701171875,
-   "veraenderung_pct": 0.008080480506644783,
+   "veraenderung_pct": 0.17826295434912875,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14391.30957,
     14368.780273,
     14478.370117,
-    14479.540039
+    14504.179688
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25347.369140625,
+   "kurs": 25392.9296875,
    "vortag": 25304.419921875,
-   "veraenderung_pct": 0.1697301059759626,
+   "veraenderung_pct": 0.3497798641433514,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25622.609375,
     25319.769531,
     25304.419922,
-    25347.369141
+    25392.929688
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6145.85986328125,
+   "kurs": 6148.81982421875,
    "vortag": 6121.66015625,
-   "veraenderung_pct": 0.3953128140663509,
+   "veraenderung_pct": 0.4436650724725544,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6204.22998,
     6144.810059,
     6121.660156,
-    6145.859863
+    6148.819824
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9253799915313721,
-   "vortag": 0.9272000193595886,
-   "veraenderung_pct": -0.19629290230964713,
-   "datum": "2026-10-21",
-   "ist_heute": true,
+   "kurs": 0.9272000193595886,
+   "vortag": 0.9246399998664856,
+   "veraenderung_pct": 0.2768666176536483,
+   "datum": "2026-10-20",
+   "ist_heute": false,
    "verlauf": [
+    0.93272,
     0.93096,
     0.92813,
     0.92464,
-    0.9272,
-    0.92538
+    0.9272
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8244799971580505,
-   "vortag": 0.8268499970436096,
-   "veraenderung_pct": -0.28662996843841215,
-   "datum": "2026-10-21",
-   "ist_heute": true,
+   "kurs": 0.8268499970436096,
+   "vortag": 0.8237500190734863,
+   "veraenderung_pct": 0.3763250862937717,
+   "datum": "2026-10-20",
+   "ist_heute": false,
    "verlauf": [
+    0.8326,
     0.8316,
     0.82775,
     0.82375,
-    0.82685,
-    0.82448
+    0.82685
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4137.2998046875,
+   "kurs": 4139.60009765625,
    "vortag": 4142.60009765625,
-   "veraenderung_pct": -0.12794604460489856,
+   "veraenderung_pct": -0.07241828632450487,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4181.100098,
     4160.100098,
     4142.600098,
-    4137.299805
+    4139.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.75,
+   "kurs": 109.95999908447266,
    "vortag": 108.79000091552734,
-   "veraenderung_pct": 0.8824331982661526,
+   "veraenderung_pct": 1.0754648029222658,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     109.860001,
     109.550003,
     108.790001,
-    109.75
+    109.959999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83033.421875,
+   "kurs": 83469.3203125,
    "vortag": 82941.0,
-   "veraenderung_pct": 0.11143086651956846,
+   "veraenderung_pct": 0.6369832923403429,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82017.601562,
     81853.539062,
     82941.0,
-    83033.421875
+    83469.320312
    ]
   }
  ],
@@ -278,17 +278,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.02999877929688,
-   "vortag": 82.55000305175781,
-   "veraenderung_pct": 0.5814605812165974,
+   "kurs": 83.36000061035156,
+   "vortag": 83.11000061035156,
+   "veraenderung_pct": 0.30080615830108126,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
-    78.889999,
     81.07,
     82.43,
     82.550003,
-    83.029999
+    83.110001,
+    83.360001
    ]
   },
   {
@@ -297,17 +297,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 126.5999984741211,
-   "vortag": 124.19999694824219,
-   "veraenderung_pct": 1.932368425805242,
+   "kurs": 126.9000015258789,
+   "vortag": 126.5,
+   "veraenderung_pct": 0.31620673982521996,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
-    122.660004,
     125.900002,
     124.699997,
     124.199997,
-    126.599998
+    126.5,
+    126.900002
    ]
   },
   {
@@ -316,17 +316,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 390.3999938964844,
-   "vortag": 380.1000061035156,
-   "veraenderung_pct": 2.7098099520060703,
+   "kurs": 390.6000061035156,
+   "vortag": 389.8999938964844,
+   "veraenderung_pct": 0.17953634726577405,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
-    370.899994,
     379.700012,
     379.200012,
     380.100006,
-    390.399994
+    389.899994,
+    390.600006
    ]
   },
   {
@@ -335,17 +335,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.959999084472656,
-   "vortag": 39.08000183105469,
-   "veraenderung_pct": -0.3070694497426363,
+   "kurs": 39.08000183105469,
+   "vortag": 39.099998474121094,
+   "veraenderung_pct": -0.051142311628582515,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
-    39.470001,
     39.419998,
     39.630001,
     39.080002,
-    38.959999
+    39.099998,
+    39.080002
    ]
   }
  ],
@@ -374,9 +374,41 @@
   ],
   "artikel": [
    {
+    "titel": "Witkoff heads to Russia for Putin talks as Zelenskyy insists 'nothing about Ukraine without Ukraine'",
+    "link": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html",
+    "zeit": "2026-10-21T09:29:42+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "French 10-year bond yield hits 5% for first time since 2002 amid unrest",
+    "link": "https://www.cnbc.com/2026/10/21/france-protests-bonds-debt.html",
+    "zeit": "2026-10-21T09:20:37+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "'MAKE DEALS': Trump says data centers should pay communities a 'dividend' to win support",
+    "link": "https://www.cnbc.com/2026/10/21/trump-data-centers-community-dividend.html",
+    "zeit": "2026-10-21T08:53:53+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "SpaceX up 10% in premarket after earnings beat and Musk hints at Tesla tie-up",
     "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
-    "zeit": "2026-10-21T08:25:42+00:00",
+    "zeit": "2026-10-21T08:52:33+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "French supermarket giant's shares plunge 14% after warning ‘unprecedented’ unrest will hit business",
+    "link": "https://www.cnbc.com/2026/10/21/carrefour-french-protests-guidance-cut.html",
+    "zeit": "2026-10-21T08:12:51+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -422,12 +454,20 @@
     "sprache": "de"
    },
    {
-    "titel": "'MAKE DEALS': Trump says data centers should pay communities a 'dividend' to win support",
-    "link": "https://www.cnbc.com/2026/10/21/trump-data-centers-community-dividend.html",
-    "zeit": "2026-10-21T06:52:28+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "Wettbewerb unter den Schweizer Hypothekaranbietern verschärft sich",
+    "link": "https://www.finews.ch/news/finanzplatz/74093-die-schweizer-hypothekarzinsen-drittes-quartal-gestiegen-unterschiedlich-westschweiz-um-10-bis-13-basispunkte-teurer-geworden-in-der-deutschschweiz-nur-um-5-bis-7-basispunkte",
+    "zeit": "2026-10-21T06:41:29+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Dominik Oggenfuss: «Ein erstes Ziel ist die Milliardel»",
+    "link": "https://www.finews.ch/news/finanzplatz/74089-erster-schweizer-bitcoin-etf-bit-asset-management-dominik-oggenfuss-ceo-interview",
+    "zeit": "2026-10-21T05:21:15+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Musk bestätigt: Tesla und SpaceX prüfen Zusammenschluss",
@@ -518,36 +558,12 @@
     "sprache": "de"
    },
    {
-    "titel": "Australian data center operator NextDC's shares plunge 40% after it slashes earnings forecast",
-    "link": "https://www.cnbc.com/2026/10/21/australia-data-center-operator-nexdc-datacenter.html",
-    "zeit": "2026-10-21T02:55:38+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Netflix verdient viel Geld, aber beginnt immer mehr Kunden zu langweilen – und die Wall Street ist alarmiert",
     "link": "https://www.nzz.ch/wirtschaft/netflix-verdient-viel-geld-aber-beginnt-immer-mehr-kunden-zu-langweilen-und-die-wall-street-ist-alarmiert-ld.10039463",
     "zeit": "2026-10-21T01:58:49+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Japan exports post huge miss in September as growth slows to 16.7%",
-    "link": "https://www.cnbc.com/2026/10/21/japan-trade-exports-semiconductor-yen.html",
-    "zeit": "2026-10-21T00:44:16+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Capital One's strong quarter and progressing Discover integration are rewarded on Wall Street",
-    "link": "https://www.cnbc.com/investingclub/2026/10/20/capital-one-strong-quarter-and-progressing-discover-integration-are-rewarded.html",
-    "zeit": "2026-10-20T23:34:14+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Seilbahnen steigern Umsatz – Skigebiete mit Rekordergebnis – aber Tageskarten werden teurer",
@@ -617,22 +633,6 @@
     "titel": "Finma genehmigt ersten Schweizer Bitcoin-ETF",
     "link": "https://www.finews.ch/news/finanzplatz/74067-erster-schweizer-bitcoin-etf-finma-genehmigung-blackrock-marktleader",
     "zeit": "2026-10-20T06:47:51+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Langjähriger CEO der Incore Bank tritt nach Differenzen ab",
-    "link": "https://www.finews.ch/news/banken/74066-incore-ceo-ruecktritt-mark-dambacher",
-    "zeit": "2026-10-20T06:36:39+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Schweizer Vermögende wollen KI, aber keinen Roboter als Anlageberater",
-    "link": "https://www.finews.ch/news/finanzplatz/74064-kuenstliche-intelligenz-vermoegende-schweizer-anleger-persoenliche-beratung-neue-avaloq-studie-digitalisierung",
-    "zeit": "2026-10-20T06:19:48+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
