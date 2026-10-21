@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-21T15:39:57+02:00",
+ "aktualisiert": "2026-10-21T16:33:48+02:00",
  "kernaussagen": [
-  "SMI +0.25%, DAX +1.41% führt",
-  "Franken stärker: EUR/CHF 0.9257 (−0.17%)",
-  "Bitcoin +0.72% auf 83'536 USD · Brent über 100 USD"
+  "SMI +0.28%, DAX +1.33% führt",
+  "Franken schwächer: EUR/CHF 0.9272 (+0.28%)",
+  "Bitcoin +1.28% auf 84'002 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14514.01953125,
+   "kurs": 14519.5703125,
    "vortag": 14478.3701171875,
-   "veraenderung_pct": 0.2462253262898617,
+   "veraenderung_pct": 0.2845637663564826,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14391.30957,
     14368.780273,
     14478.370117,
-    14514.019531
+    14519.570312
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25660.109375,
+   "kurs": 25640.439453125,
    "vortag": 25304.419921875,
-   "veraenderung_pct": 1.405641600254648,
+   "veraenderung_pct": 1.3279084534932206,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25622.609375,
     25319.769531,
     25304.419922,
-    25660.109375
+    25640.439453
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6206.2099609375,
+   "kurs": 6196.2001953125,
    "vortag": 6121.66015625,
-   "veraenderung_pct": 1.3811580932204803,
+   "veraenderung_pct": 1.217644187359812,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6204.22998,
     6144.810059,
     6121.660156,
-    6206.209961
+    6196.200195
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7734.7900390625,
+   "kurs": 7724.27978515625,
    "vortag": 7712.56982421875,
-   "veraenderung_pct": 0.28810390505606964,
+   "veraenderung_pct": 0.15182956140933346,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7659.439941,
     7690.72998,
     7712.569824,
-    7734.790039
+    7724.279785
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26593.21484375,
+   "kurs": 26577.482421875,
    "vortag": 26424.8203125,
-   "veraenderung_pct": 0.6372589454102906,
+   "veraenderung_pct": 0.577722412374504,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26140.029297,
     26430.890625,
     26424.820312,
-    26593.214844
+    26577.482422
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9256600141525269,
-   "vortag": 0.9272000193595886,
-   "veraenderung_pct": -0.16609201627556525,
-   "datum": "2026-10-21",
-   "ist_heute": true,
+   "kurs": 0.9272000193595886,
+   "vortag": 0.9246399998664856,
+   "veraenderung_pct": 0.2768666176536483,
+   "datum": "2026-10-20",
+   "ist_heute": false,
    "verlauf": [
+    0.93272,
     0.93096,
     0.92813,
     0.92464,
-    0.9272,
-    0.92566
+    0.9272
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8242800235748291,
+   "kurs": 0.8249300122261047,
    "vortag": 0.8268499970436096,
-   "veraenderung_pct": -0.3108149577274455,
+   "veraenderung_pct": -0.2322047317372844,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82775,
     0.82375,
     0.82685,
-    0.82428
+    0.82493
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4155.89990234375,
+   "kurs": 4146.2001953125,
    "vortag": 4142.60009765625,
-   "veraenderung_pct": 0.3210496879731295,
+   "veraenderung_pct": 0.08690430095550372,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4181.100098,
     4160.100098,
     4142.600098,
-    4155.899902
+    4146.200195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 108.47000122070312,
+   "kurs": 108.86000061035156,
    "vortag": 108.79000091552734,
-   "veraenderung_pct": -0.2941443994220472,
+   "veraenderung_pct": 0.06434386821871918,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     109.860001,
     109.550003,
     108.790001,
-    108.470001
+    108.860001
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83536.046875,
+   "kurs": 84001.6484375,
    "vortag": 82941.0,
-   "veraenderung_pct": 0.7174339289374387,
+   "veraenderung_pct": 1.2787987093235031,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82017.601562,
     81853.539062,
     82941.0,
-    83536.046875
+    84001.648438
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.096,
+   "wert": 5.102,
    "vortag": 5.117,
-   "veraenderung_bp": -2.1,
+   "veraenderung_bp": -1.5,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.098,
     5.136,
     5.117,
-    5.096
+    5.102
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.5,
+   "kurs": 83.41999816894531,
    "vortag": 83.11000061035156,
-   "veraenderung_pct": 0.46925687255965354,
+   "veraenderung_pct": 0.37299669873318564,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     82.43,
     82.550003,
     83.110001,
-    83.5
+    83.419998
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 126.26000213623047,
+   "kurs": 126.94000244140625,
    "vortag": 126.5,
-   "veraenderung_pct": -0.1897216314383665,
+   "veraenderung_pct": 0.3478280169219472,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     124.699997,
     124.199997,
     126.5,
-    126.260002
+    126.940002
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 389.6000061035156,
+   "kurs": 391.1000061035156,
    "vortag": 389.8999938964844,
-   "veraenderung_pct": -0.07693967624128328,
+   "veraenderung_pct": 0.3077743590193194,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     379.200012,
     380.100006,
     389.899994,
-    389.600006
+    391.100006
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.52000045776367,
+   "kurs": 39.33000183105469,
    "vortag": 39.099998474121094,
-   "veraenderung_pct": 1.074173913128318,
+   "veraenderung_pct": 0.5882439025818087,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.630001,
     39.080002,
     39.099998,
-    39.52
+    39.330002
    ]
   }
  ],
@@ -374,9 +374,41 @@
   ],
   "artikel": [
    {
+    "titel": "Witkoff calls Putin a 'humanitarian' at Russia peace talks without Ukraine",
+    "link": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html",
+    "zeit": "2026-10-21T14:30:17+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "SpaceX stock jumps 8% after earnings beat and Musk hints at Tesla tie-up",
     "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
-    "zeit": "2026-10-21T13:35:22+00:00",
+    "zeit": "2026-10-21T14:21:39+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "MELDUNGEN WIRTSCHAFT - Die EU ermittelt gegen die Reiseplattform Booking wegen möglicher Verstösse gegen den Verbraucherschutz",
+    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
+    "zeit": "2026-10-21T13:44:55+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "United Airlines set to open its biggest airport lounge in $2.6 billion overhaul at Houston hub",
+    "link": "https://www.cnbc.com/2026/10/21/united-airlines-biggest-airport-lounge-houston.html",
+    "zeit": "2026-10-21T13:44:35+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Investors are questioning neoclouds' business model but Nebius says AI computing prices are rising",
+    "link": "https://www.cnbc.com/2026/10/21/nebius-ai-computing-nvidia-gpu-prices.html",
+    "zeit": "2026-10-21T13:44:12+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -438,36 +470,12 @@
     "sprache": "en"
    },
    {
-    "titel": "Tokenized stock trading takes off overseas as Goldman, other U.S. companies object",
-    "link": "https://www.cnbc.com/2026/10/21/tokenized-stocks-us-companies-object.html",
-    "zeit": "2026-10-21T12:33:34+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Beliebtester Streamingdienst – Bei Netflix läuft nicht mehr alles rund",
     "link": "https://www.srf.ch/news/wirtschaft/beliebtester-streamingdienst-bei-netflix-laeuft-nicht-mehr-alles-rund",
     "zeit": "2026-10-21T12:29:55+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Investors are questioning neoclouds' business model but Nebius says AI computing prices are rising",
-    "link": "https://www.cnbc.com/2026/10/21/nebius-ai-computing-nvidia-gpu-prices.html",
-    "zeit": "2026-10-21T12:21:07+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft",
-    "link": "https://www.cnbc.com/2026/10/21/openai-bring-its-ai-models-to-googles-cloud-expands-beyond-microsoft.html",
-    "zeit": "2026-10-21T12:20:13+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Raketen, Elektroautos, Roboter und Superintelligenz: Elon Musk will SpaceX und Tesla verschmelzen – es wäre die grösste Fusion überhaupt",
@@ -577,14 +585,6 @@
     "titel": "GASTBEITRAG - Demografie: Die Rechnung kommt später",
     "link": "https://www.nzz.ch/meinung/demografie-die-rechnung-kommt-spaeter-ld.10025725",
     "zeit": "2026-10-21T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Netflix verdient viel Geld, aber beginnt immer mehr Kunden zu langweilen – und die Wall Street ist alarmiert",
-    "link": "https://www.nzz.ch/wirtschaft/netflix-verdient-viel-geld-aber-beginnt-immer-mehr-kunden-zu-langweilen-und-die-wall-street-ist-alarmiert-ld.10039463",
-    "zeit": "2026-10-21T01:58:49+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
