@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-21T11:32:32+02:00",
+ "aktualisiert": "2026-10-21T12:08:54+02:00",
  "kernaussagen": [
-  "SMI +0.18%, Nikkei 225 +0.85% führt",
-  "Franken schwächer: EUR/CHF 0.9272 (+0.28%)",
-  "Brent über 100 USD: 109.96 (+1.08%)"
+  "SMI +0.17%, Nikkei 225 +0.85% führt",
+  "Franken stärker: EUR/CHF 0.9261 (−0.11%)",
+  "Brent über 100 USD: 110.27 (+1.36%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14504.1796875,
+   "kurs": 14503.2197265625,
    "vortag": 14478.3701171875,
-   "veraenderung_pct": 0.17826295434912875,
+   "veraenderung_pct": 0.1716326435494242,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14391.30957,
     14368.780273,
     14478.370117,
-    14504.179688
+    14503.219727
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25392.9296875,
+   "kurs": 25455.859375,
    "vortag": 25304.419921875,
-   "veraenderung_pct": 0.3497798641433514,
+   "veraenderung_pct": 0.5984703604846597,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25622.609375,
     25319.769531,
     25304.419922,
-    25392.929688
+    25455.859375
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6148.81982421875,
+   "kurs": 6163.10986328125,
    "vortag": 6121.66015625,
-   "veraenderung_pct": 0.4436650724725544,
+   "veraenderung_pct": 0.677099119736857,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6204.22998,
     6144.810059,
     6121.660156,
-    6148.819824
+    6163.109863
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9272000193595886,
-   "vortag": 0.9246399998664856,
-   "veraenderung_pct": 0.2768666176536483,
-   "datum": "2026-10-20",
-   "ist_heute": false,
+   "kurs": 0.9261400103569031,
+   "vortag": 0.9272000193595886,
+   "veraenderung_pct": -0.1143236605428144,
+   "datum": "2026-10-21",
+   "ist_heute": true,
    "verlauf": [
-    0.93272,
     0.93096,
     0.92813,
     0.92464,
-    0.9272
+    0.9272,
+    0.92614
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4139.60009765625,
+   "kurs": 4136.2998046875,
    "vortag": 4142.60009765625,
-   "veraenderung_pct": -0.07241828632450487,
+   "veraenderung_pct": -0.1520854733797372,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4181.100098,
     4160.100098,
     4142.600098,
-    4139.600098
+    4136.299805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.95999908447266,
+   "kurs": 110.2699966430664,
    "vortag": 108.79000091552734,
-   "veraenderung_pct": 1.0754648029222658,
+   "veraenderung_pct": 1.3604152174685913,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     109.860001,
     109.550003,
     108.790001,
-    109.959999
+    110.269997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 83469.3203125,
+   "kurs": 83291.453125,
    "vortag": 82941.0,
-   "veraenderung_pct": 0.6369832923403429,
+   "veraenderung_pct": 0.42253303553128063,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82017.601562,
     81853.539062,
     82941.0,
-    83469.320312
+    83291.453125
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.36000061035156,
+   "kurs": 83.18000030517578,
    "vortag": 83.11000061035156,
-   "veraenderung_pct": 0.30080615830108126,
+   "veraenderung_pct": 0.08422535712928614,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     82.43,
     82.550003,
     83.110001,
-    83.360001
+    83.18
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 126.9000015258789,
+   "kurs": 126.80000305175781,
    "vortag": 126.5,
-   "veraenderung_pct": 0.31620673982521996,
+   "veraenderung_pct": 0.23715656265439478,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     124.699997,
     124.199997,
     126.5,
-    126.900002
+    126.800003
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 390.6000061035156,
+   "kurs": 390.3999938964844,
    "vortag": 389.8999938964844,
-   "veraenderung_pct": 0.17953634726577405,
+   "veraenderung_pct": 0.12823801175352312,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     379.200012,
     380.100006,
     389.899994,
-    390.600006
+    390.399994
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.08000183105469,
+   "kurs": 39.18000030517578,
    "vortag": 39.099998474121094,
-   "veraenderung_pct": -0.051142311628582515,
+   "veraenderung_pct": 0.2046082715518205,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.630001,
     39.080002,
     39.099998,
-    39.080002
+    39.18
    ]
   }
  ],
@@ -374,17 +374,17 @@
   ],
   "artikel": [
    {
-    "titel": "Witkoff heads to Russia for Putin talks as Zelenskyy insists 'nothing about Ukraine without Ukraine'",
-    "link": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html",
-    "zeit": "2026-10-21T09:29:42+00:00",
+    "titel": "French 10-year bond yield hits 5% for first time since 2002 amid unrest",
+    "link": "https://www.cnbc.com/2026/10/21/france-protests-bonds-debt.html",
+    "zeit": "2026-10-21T10:03:31+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "French 10-year bond yield hits 5% for first time since 2002 amid unrest",
-    "link": "https://www.cnbc.com/2026/10/21/france-protests-bonds-debt.html",
-    "zeit": "2026-10-21T09:20:37+00:00",
+    "titel": "Witkoff heads to Russia for Putin talks as Zelenskyy insists 'nothing about Ukraine without Ukraine'",
+    "link": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html",
+    "zeit": "2026-10-21T09:29:42+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -462,7 +462,7 @@
     "sprache": "de"
    },
    {
-    "titel": "Dominik Oggenfuss: «Ein erstes Ziel ist die Milliardel»",
+    "titel": "Dominik Oggenfuss: «Ein erstes Ziel ist die Milliarde»",
     "link": "https://www.finews.ch/news/finanzplatz/74089-erster-schweizer-bitcoin-etf-bit-asset-management-dominik-oggenfuss-ceo-interview",
     "zeit": "2026-10-21T05:21:15+00:00",
     "quelle": "finews.ch",
