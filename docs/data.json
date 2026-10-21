@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-21T18:08:45+02:00",
+ "aktualisiert": "2026-10-21T19:06:56+02:00",
  "kernaussagen": [
   "SMI +0.51%, Euro Stoxx 50 +1.40% führt",
   "Franken stärker: EUR/CHF 0.9260 (−0.13%)",
-  "Bitcoin +1.97% auf 84'573 USD · Brent über 100 USD"
+  "Bitcoin +1.71% auf 84'359 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7749.509765625,
+   "kurs": 7761.33984375,
    "vortag": 7712.56982421875,
-   "veraenderung_pct": 0.4789576269410567,
+   "veraenderung_pct": 0.632344609420632,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7659.439941,
     7690.72998,
     7712.569824,
-    7749.509766
+    7761.339844
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26703.16015625,
+   "kurs": 26755.6796875,
    "vortag": 26424.8203125,
-   "veraenderung_pct": 1.0533272902458757,
+   "veraenderung_pct": 1.2520780504361229,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26140.029297,
     26430.890625,
     26424.820312,
-    26703.160156
+    26755.679688
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8253700137138367,
+   "kurs": 0.8244900107383728,
    "vortag": 0.8268499970436096,
-   "veraenderung_pct": -0.1789905466607733,
+   "veraenderung_pct": -0.2854189168137955,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82775,
     0.82375,
     0.82685,
-    0.82537
+    0.82449
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4150.7001953125,
+   "kurs": 4150.2998046875,
    "vortag": 4142.60009765625,
-   "veraenderung_pct": 0.19553173044226657,
+   "veraenderung_pct": 0.18586652946797066,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4181.100098,
     4160.100098,
     4142.600098,
-    4150.700195
+    4150.299805
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 84573.3671875,
+   "kurs": 84359.078125,
    "vortag": 82941.0,
-   "veraenderung_pct": 1.9681064702619988,
+   "veraenderung_pct": 1.7097432210848584,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82017.601562,
     81853.539062,
     82941.0,
-    84573.367188
+    84359.078125
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.106,
+   "wert": 5.109,
    "vortag": 5.117,
-   "veraenderung_bp": -1.1,
+   "veraenderung_bp": -0.8,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.098,
     5.136,
     5.117,
-    5.106
+    5.109
    ]
   }
  ],
@@ -374,9 +374,25 @@
   ],
   "artikel": [
    {
+    "titel": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
+    "link": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
+    "zeit": "2026-10-21T17:02:41+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Intel hits construction milestone at Ohio chip fab that’s at least 5 years behind schedule",
     "link": "https://www.cnbc.com/2026/10/21/intel-hits-construction-milestone-at-delayed-ohio-chip-fab-.html",
-    "zeit": "2026-10-21T16:03:43+00:00",
+    "zeit": "2026-10-21T16:55:51+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Meta and Tesla bulls get confidence boost after SpaceX earnings",
+    "link": "https://www.cnbc.com/2026/10/21/meta-tesla-options-earnings.html",
+    "zeit": "2026-10-21T16:35:48+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,7 +400,15 @@
    {
     "titel": "How Ukraine’s drone strikes on Russia crippled the world’s second largest diesel supplier",
     "link": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
-    "zeit": "2026-10-21T16:02:13+00:00",
+    "zeit": "2026-10-21T16:18:27+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
+    "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
+    "zeit": "2026-10-21T16:08:50+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -393,14 +417,6 @@
     "titel": "Tesla earnings loom after Musk calls SpaceX merger a 'good idea'",
     "link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
     "zeit": "2026-10-21T16:01:25+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Meta stock advances ahead of after-the-bell earnings. What we're looking for",
-    "link": "https://www.cnbc.com/investingclub/2026/10/21/meta-stock-advances-ahead-of-after-the-bell-earnings-what-were-looking-for.html",
-    "zeit": "2026-10-21T16:00:25+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -452,22 +468,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "The political ad wars are still being fought over the airwaves even as digital gains share",
-    "link": "https://www.cnbc.com/2026/10/21/why-broadcast-tv-still-dominates-political-ad-spending.html",
-    "zeit": "2026-10-21T14:40:02+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "SpaceX stock jumps 8% after earnings beat and Musk hints at Tesla tie-up",
-    "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
-    "zeit": "2026-10-21T14:21:39+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Nach Betrugswelle – EU startet Ermittlungen gegen Booking.com",
