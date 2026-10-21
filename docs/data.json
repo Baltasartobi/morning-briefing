@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-21T08:42:04+02:00",
+ "aktualisiert": "2026-10-21T09:42:47+02:00",
  "kernaussagen": [
-  "SMI +0.76%, Nikkei 225 +0.94% führt",
-  "Franken stärker: EUR/CHF 0.9262 (−0.11%)",
-  "Brent über 100 USD: 110.38 (+1.46%)"
+  "SMI −0.20%, Nikkei 225 +0.85% führt",
+  "Franken stärker: EUR/CHF 0.9258 (−0.15%)",
+  "Brent über 100 USD: 109.62 (+0.76%)"
  ],
  "maerkte": [
   {
@@ -12,17 +12,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14478.3701171875,
-   "vortag": 14368.7802734375,
-   "veraenderung_pct": 0.7626941303611634,
-   "datum": "2026-10-20",
-   "ist_heute": false,
+   "kurs": 14449.3701171875,
+   "vortag": 14478.3701171875,
+   "veraenderung_pct": -0.20029878891943964,
+   "datum": "2026-10-21",
+   "ist_heute": true,
    "verlauf": [
-    14129.929688,
     14349.509766,
     14391.30957,
     14368.780273,
-    14478.370117
+    14478.370117,
+    14449.370117
    ]
   },
   {
@@ -31,17 +31,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25304.419921875,
-   "vortag": 25319.76953125,
-   "veraenderung_pct": -0.060623021690842105,
-   "datum": "2026-10-20",
-   "ist_heute": false,
+   "kurs": 25323.4609375,
+   "vortag": 25304.419921875,
+   "veraenderung_pct": 0.07524778550065392,
+   "datum": "2026-10-21",
+   "ist_heute": true,
    "verlauf": [
-    25298.609375,
     25382.619141,
     25622.609375,
     25319.769531,
-    25304.419922
+    25304.419922,
+    25323.460938
    ]
   },
   {
@@ -50,17 +50,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6121.66015625,
-   "vortag": 6144.81005859375,
-   "veraenderung_pct": -0.3767391037803325,
-   "datum": "2026-10-20",
-   "ist_heute": false,
+   "kurs": 6142.43994140625,
+   "vortag": 6121.66015625,
+   "veraenderung_pct": 0.33944689227862757,
+   "datum": "2026-10-21",
+   "ist_heute": true,
    "verlauf": [
-    6190.370117,
     6168.259766,
     6204.22998,
     6144.810059,
-    6121.660156
+    6121.660156,
+    6142.439941
    ]
   },
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 64676.9296875,
+   "kurs": 64621.23828125,
    "vortag": 64075.421875,
-   "veraenderung_pct": 0.9387496717125687,
+   "veraenderung_pct": 0.8518342763544906,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     65324.289062,
     64916.699219,
     64075.421875,
-    64676.929688
+    64621.238281
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9262099862098694,
+   "kurs": 0.9257699847221375,
    "vortag": 0.9272000193595886,
-   "veraenderung_pct": -0.10677665326226382,
+   "veraenderung_pct": -0.15423151505528088,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92813,
     0.92464,
     0.9272,
-    0.92621
+    0.92577
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8254200220108032,
+   "kurs": 0.8247900009155273,
    "vortag": 0.8268499970436096,
-   "veraenderung_pct": -0.1729424971783633,
+   "veraenderung_pct": -0.24913782855993105,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82775,
     0.82375,
     0.82685,
-    0.82542
+    0.82479
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4135.2001953125,
+   "kurs": 4138.7001953125,
    "vortag": 4142.60009765625,
-   "veraenderung_pct": -0.1786294155676882,
+   "veraenderung_pct": -0.094141414855764,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4181.100098,
     4160.100098,
     4142.600098,
-    4135.200195
+    4138.700195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.37999725341797,
+   "kurs": 109.62000274658203,
    "vortag": 108.79000091552734,
-   "veraenderung_pct": 1.4615280122345142,
+   "veraenderung_pct": 0.762939446704447,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     109.860001,
     109.550003,
     108.790001,
-    110.379997
+    109.620003
    ]
   },
   {
@@ -204,17 +204,17 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82737.71875,
-   "vortag": 81853.5390625,
-   "veraenderung_pct": 1.0801972616295563,
+   "kurs": 82926.5,
+   "vortag": 82941.0,
+   "veraenderung_pct": -0.017482306699945216,
    "datum": "2026-10-21",
    "ist_heute": true,
    "verlauf": [
-    81500.804688,
     81382.148438,
     82017.601562,
     81853.539062,
-    82737.71875
+    82941.0,
+    82926.5
    ]
   }
  ],
@@ -278,17 +278,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 82.55000305175781,
-   "vortag": 82.43000030517578,
-   "veraenderung_pct": 0.14558139771654321,
-   "datum": "2026-10-19",
-   "ist_heute": false,
+   "kurs": 82.73999786376953,
+   "vortag": 82.55000305175781,
+   "veraenderung_pct": 0.23015724407979832,
+   "datum": "2026-10-21",
+   "ist_heute": true,
    "verlauf": [
-    77.300003,
     78.889999,
     81.07,
     82.43,
-    82.550003
+    82.550003,
+    82.739998
    ]
   },
   {
@@ -297,17 +297,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 124.19999694824219,
-   "vortag": 124.69999694824219,
-   "veraenderung_pct": -0.4009623193555689,
-   "datum": "2026-10-19",
-   "ist_heute": false,
+   "kurs": 126.13999938964844,
+   "vortag": 124.19999694824219,
+   "veraenderung_pct": 1.5619987834739613,
+   "datum": "2026-10-21",
+   "ist_heute": true,
    "verlauf": [
-    119.300003,
     122.660004,
     125.900002,
     124.699997,
-    124.199997
+    124.199997,
+    126.139999
    ]
   },
   {
@@ -316,17 +316,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 380.1000061035156,
-   "vortag": 379.20001220703125,
-   "veraenderung_pct": 0.2373401549346399,
-   "datum": "2026-10-19",
-   "ist_heute": false,
+   "kurs": 387.70001220703125,
+   "vortag": 380.1000061035156,
+   "veraenderung_pct": 1.9994753963371137,
+   "datum": "2026-10-21",
+   "ist_heute": true,
    "verlauf": [
-    359.799988,
     370.899994,
     379.700012,
     379.200012,
-    380.100006
+    380.100006,
+    387.700012
    ]
   },
   {
@@ -335,17 +335,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.08000183105469,
-   "vortag": 39.630001068115234,
-   "veraenderung_pct": -1.3878355342842874,
-   "datum": "2026-10-19",
-   "ist_heute": false,
+   "kurs": 39.04999923706055,
+   "vortag": 39.08000183105469,
+   "veraenderung_pct": -0.07677224306140706,
+   "datum": "2026-10-21",
+   "ist_heute": true,
    "verlauf": [
-    40.09,
     39.470001,
     39.419998,
     39.630001,
-    39.080002
+    39.080002,
+    39.049999
    ]
   }
  ],
@@ -376,7 +376,39 @@
    {
     "titel": "UK inflation jumps to 3.5% — cementing rate hike expectations",
     "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
-    "zeit": "2026-10-21T06:30:27+00:00",
+    "zeit": "2026-10-21T07:29:33+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "AI's spending boom faces a 'gut check': Who can actually make money?",
+    "link": "https://www.cnbc.com/2026/10/21/ai-boom-spending-profit.html",
+    "zeit": "2026-10-21T07:20:37+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Lieferkettenprobleme – Nachhaltigkeit – für Unternehmen nicht nur nett, sondern wichtig",
+    "link": "https://www.srf.ch/news/wirtschaft/lieferkettenprobleme-nachhaltigkeit-fuer-unternehmen-nicht-nur-nett-sondern-wichtig",
+    "zeit": "2026-10-21T07:05:14+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it.",
+    "link": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
+    "zeit": "2026-10-21T07:03:48+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "'MAKE DEALS': Trump says data centers should pay communities a 'dividend' to win support",
+    "link": "https://www.cnbc.com/2026/10/21/trump-data-centers-community-dividend.html",
+    "zeit": "2026-10-21T06:52:28+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -404,6 +436,14 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "ETF-Boom: Die Frauen treiben das Wachstum",
+    "link": "https://www.finews.ch/news/finanzplatz/74087-etf-boom-boersengehandelte-indexfonds-nachfrage-bei-frauen-studie-der-hochschule-luzern-finfluencer-anlageentscheidungen-beeinflussen",
+    "zeit": "2026-10-21T04:45:07+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "SpaceX und Tesla – Elon Musk: «Ich denke, eine Fusion wäre eine gute Idee»",
@@ -446,7 +486,7 @@
     "sprache": "de"
    },
    {
-    "titel": "Affäre Hanning: Deutschland will mächtigere Geheimdienste – doch wer schützt ihre Geheimnisse?",
+    "titel": "Werden CIA, MI6 oder andere Dienste dem BND weiterhin ihre Geheimnisse anvertrauen? Der Fall Hanning wirft grundsätzliche Fragen auf",
     "link": "https://www.nzz.ch/pro/affaere-hanning-wie-sicher-sind-deutschlands-geheimnisse-beim-bnd-ld.10034737",
     "zeit": "2026-10-21T03:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
@@ -486,14 +526,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Elice's huge stock swings show AI's spending boom is getting more investor scrutiny",
-    "link": "https://www.cnbc.com/2026/10/21/ai-boom-spending-profit.html",
-    "zeit": "2026-10-21T01:02:36+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Japan exports post huge miss in September as growth slows to 16.7%",
     "link": "https://www.cnbc.com/2026/10/21/japan-trade-exports-semiconductor-yen.html",
     "zeit": "2026-10-21T00:44:16+00:00",
@@ -513,22 +545,6 @@
     "titel": "Elon Musk ordered Starlink slowdown for Ukraine: Report",
     "link": "https://www.cnbc.com/2026/10/20/trump-musk-starlink-ukraine-zelenskyy.html",
     "zeit": "2026-10-20T23:06:56+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
-    "link": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
-    "zeit": "2026-10-20T22:29:45+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says certification process should be faster",
-    "link": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
-    "zeit": "2026-10-20T22:01:11+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -622,14 +638,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Digitales Gold: Studie sieht Marktpotenzial von 700 Milliarden Dollar",
-    "link": "https://www.finews.ch/news/finanzplatz/74063-studie-world-gold-council-unerschlossene-nachfragepotenzial-fuer-digitales-gold-700-milliarden-us-dollar-vertrauen-regulierung-und-eine-gemeinsame-infrastruktur",
-    "zeit": "2026-10-20T05:49:42+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Verschärfung geplant – Heimatschutz für Schweizer Immobilien: Streit um Lex Koller",
     "link": "https://www.srf.ch/news/wirtschaft/verschaerfung-geplant-heimatschutz-fuer-schweizer-immobilien-streit-um-lex-koller",
     "zeit": "2026-10-20T04:42:31+00:00",
@@ -681,14 +689,6 @@
     "titel": "Neuer Elektro-Trend – Weshalb Citroën die Ente wiederauferstehen lässt",
     "link": "https://www.srf.ch/news/wirtschaft/neuer-elektro-trend-weshalb-citroen-die-ente-wiederauferstehen-laesst",
     "zeit": "2026-10-16T19:16:28+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "IWF-Tagung in Bangkok – Bund und SNB: Zwei Perspektiven auf die globale Wirtschaftslage",
-    "link": "https://www.srf.ch/news/wirtschaft/iwf-tagung-in-bangkok-bund-und-snb-zwei-perspektiven-auf-die-globale-wirtschaftslage",
-    "zeit": "2026-10-16T18:11:27+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
