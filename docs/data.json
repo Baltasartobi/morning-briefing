@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-21T21:33:13+02:00",
+ "aktualisiert": "2026-10-22T06:31:53+02:00",
  "kernaussagen": [
-  "SMI +0.51%, Euro Stoxx 50 +1.40% führt",
-  "Franken stärker: EUR/CHF 0.9260 (−0.13%)",
-  "Bitcoin +1.88% auf 84'500 USD · Brent über 100 USD"
+  "SMI +0.51%, Nikkei 225 −1.97% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9251 (−0.19%)",
+  "Brent über 100 USD: 110.90 (+1.91%)"
  ],
  "maerkte": [
   {
@@ -16,7 +16,7 @@
    "vortag": 14478.3701171875,
    "veraenderung_pct": 0.5112421539916978,
    "datum": "2026-10-21",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     14349.509766,
     14391.30957,
@@ -35,7 +35,7 @@
    "vortag": 25304.419921875,
    "veraenderung_pct": 1.3460855521550297,
    "datum": "2026-10-21",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     25382.619141,
     25622.609375,
@@ -54,7 +54,7 @@
    "vortag": 6121.66015625,
    "veraenderung_pct": 1.402558474167992,
    "datum": "2026-10-21",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     6168.259766,
     6204.22998,
@@ -69,17 +69,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7756.240234375,
+   "kurs": 7757.169921875,
    "vortag": 7712.56982421875,
-   "veraenderung_pct": 0.5662238547146536,
+   "veraenderung_pct": 0.5782780405591659,
    "datum": "2026-10-21",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     7744.060059,
     7659.439941,
     7690.72998,
     7712.569824,
-    7756.240234
+    7757.169922
    ]
   },
   {
@@ -88,17 +88,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26711.875,
+   "kurs": 26702.859375,
    "vortag": 26424.8203125,
-   "veraenderung_pct": 1.0863070556593746,
+   "veraenderung_pct": 1.0521890374727505,
    "datum": "2026-10-21",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     26713.029297,
     26140.029297,
     26430.890625,
     26424.820312,
-    26711.875
+    26702.859375
    ]
   },
   {
@@ -107,17 +107,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 64075.421875,
-   "vortag": 64916.69921875,
-   "veraenderung_pct": -1.2959336409190225,
-   "datum": "2026-10-20",
-   "ist_heute": false,
+   "kurs": 63345.94921875,
+   "vortag": 64621.23828125,
+   "veraenderung_pct": -1.9734828617018696,
+   "datum": "2026-10-22",
+   "ist_heute": true,
    "verlauf": [
-    67744.289062,
-    64425.949219,
     65324.289062,
     64916.699219,
-    64075.421875
+    64075.421875,
+    64621.238281,
+    63345.949219
    ]
   }
  ],
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9259899854660034,
-   "vortag": 0.9272000193595886,
-   "veraenderung_pct": -0.1305040841587779,
-   "datum": "2026-10-21",
+   "kurs": 0.925059974193573,
+   "vortag": 0.9268400073051453,
+   "veraenderung_pct": -0.19205397884666242,
+   "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
-    0.93096,
     0.92813,
     0.92464,
     0.9272,
-    0.92599
+    0.92684,
+    0.92506
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8243600130081177,
-   "vortag": 0.8268499970436096,
-   "veraenderung_pct": -0.3011409620118366,
-   "datum": "2026-10-21",
+   "kurs": 0.8227199912071228,
+   "vortag": 0.8256300091743469,
+   "veraenderung_pct": -0.3524602951549993,
+   "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
-    0.8316,
     0.82775,
     0.82375,
     0.82685,
-    0.82436
+    0.82563,
+    0.82272
    ]
   },
   {
@@ -166,17 +166,17 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4134.89990234375,
-   "vortag": 4142.60009765625,
-   "veraenderung_pct": -0.18587831629841567,
-   "datum": "2026-10-21",
+   "kurs": 4105.2001953125,
+   "vortag": 4150.0,
+   "veraenderung_pct": -1.0795133659638578,
+   "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
-    4170.100098,
     4181.100098,
     4160.100098,
     4142.600098,
-    4134.899902
+    4150.0,
+    4105.200195
    ]
   },
   {
@@ -185,17 +185,17 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.94999694824219,
-   "vortag": 108.79000091552734,
-   "veraenderung_pct": 1.0662708180465552,
-   "datum": "2026-10-21",
+   "kurs": 110.9000015258789,
+   "vortag": 108.81999969482422,
+   "veraenderung_pct": 1.911415031141206,
+   "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
-    105.919998,
     109.860001,
     109.550003,
     108.790001,
-    109.949997
+    108.82,
+    110.900002
    ]
   },
   {
@@ -204,17 +204,17 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 84499.609375,
+   "kurs": 82822.296875,
    "vortag": 82941.0,
-   "veraenderung_pct": 1.8791784220108187,
-   "datum": "2026-10-21",
+   "veraenderung_pct": -0.14311754741321847,
+   "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
     81382.148438,
     82017.601562,
     81853.539062,
     82941.0,
-    84499.609375
+    82822.296875
    ]
   }
  ],
@@ -244,7 +244,7 @@
    "vortag": 3.48,
    "veraenderung_bp": -1.0,
    "datum": "2026-10-21",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     3.45,
     3.48,
@@ -261,7 +261,7 @@
    "vortag": 5.117,
    "veraenderung_bp": 2.9,
    "datum": "2026-10-21",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     5.089,
     5.098,
@@ -278,17 +278,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.47000122070312,
-   "vortag": 83.11000061035156,
-   "veraenderung_pct": 0.43316160234359025,
-   "datum": "2026-10-21",
-   "ist_heute": true,
+   "kurs": 83.11000061035156,
+   "vortag": 82.55000305175781,
+   "veraenderung_pct": 0.6783737588024641,
+   "datum": "2026-10-20",
+   "ist_heute": false,
    "verlauf": [
+    78.889999,
     81.07,
     82.43,
     82.550003,
-    83.110001,
-    83.470001
+    83.110001
    ]
   },
   {
@@ -301,7 +301,7 @@
    "vortag": 126.5,
    "veraenderung_pct": 0.30039308570590784,
    "datum": "2026-10-21",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     125.900002,
     124.699997,
@@ -316,17 +316,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 392.0,
-   "vortag": 389.8999938964844,
-   "veraenderung_pct": 0.5386012147702512,
-   "datum": "2026-10-21",
-   "ist_heute": true,
+   "kurs": 389.8999938964844,
+   "vortag": 380.1000061035156,
+   "veraenderung_pct": 2.578265623678999,
+   "datum": "2026-10-20",
+   "ist_heute": false,
    "verlauf": [
+    370.899994,
     379.700012,
     379.200012,
     380.100006,
-    389.899994,
-    392.0
+    389.899994
    ]
   },
   {
@@ -339,7 +339,7 @@
    "vortag": 39.099998474121094,
    "veraenderung_pct": 1.1253259810162675,
    "datum": "2026-10-21",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     39.419998,
     39.630001,
@@ -374,49 +374,137 @@
   ],
   "artikel": [
    {
-    "titel": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
-    "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-    "zeit": "2026-10-21T19:20:53+00:00",
+    "titel": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms",
+    "link": "https://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html",
+    "zeit": "2026-10-22T04:26:42+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "SpaceX gives the AI trade a shot in the arm. What it means for our stocks",
-    "link": "https://www.cnbc.com/investingclub/2026/10/21/spacex-gives-the-ai-trade-a-shot-in-the-arm-what-it-means-for-our-stocks-.html",
-    "zeit": "2026-10-21T19:01:23+00:00",
+    "titel": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout",
+    "link": "https://www.cnbc.com/2026/10/22/chinas-stock-market-csi-300-bear-market.html",
+    "zeit": "2026-10-22T04:02:18+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
-    "link": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
-    "zeit": "2026-10-21T18:43:56+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Netflix has dipped its toe into theatrical. Is it ready to jump in?",
-    "link": "https://www.cnbc.com/2026/10/21/netflix-theatrical-strategy.html",
-    "zeit": "2026-10-21T18:32:12+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Gericht verurteilt Meta in New Mexico zu Milliardenstrafe",
-    "link": "https://www.nzz.ch/wirtschaft/facebook-mutterkonzern-meta-in-new-mexico-zu-milliardentrafe-verurteilt-ld.10040767",
-    "zeit": "2026-10-21T18:15:25+00:00",
+    "titel": "Vom Swissair-Sündenbock zum heimlichen Helden – Mario Corti zum 80. Geburtstag",
+    "link": "https://www.nzz.ch/wirtschaft/vom-suendenbock-zum-heimlichen-helden-mario-corti-zum-80-geburtstag-ld.10038578",
+    "zeit": "2026-10-22T03:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
    {
-    "titel": "GM aims to develop vehicles in as little as two years with AI, software push",
-    "link": "https://www.cnbc.com/2026/10/21/gm-vehicle-development-ai-software.html",
-    "zeit": "2026-10-21T18:03:55+00:00",
+    "titel": "«No Switzerland, no China»: Wegen Exportbeschränkungen stehen Schweizer Rüstungsfirmen international unter Druck",
+    "link": "https://www.nzz.ch/wirtschaft/no-switzerland-no-china-wegen-exportbeschraenkungen-stehen-schweizer-ruestungsfirmen-international-unter-druck-ld.10035644",
+    "zeit": "2026-10-22T03:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Nach den Krawallen in Frankreich sieht sich der Osten Europas in seiner restriktiven Migrationspolitik bestärkt",
+    "link": "https://www.nzz.ch/international/proteste-in-frankreich-osteuropaeer-beharren-auf-ihrer-migrationspolitik-ld.10040134",
+    "zeit": "2026-10-22T03:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Allzweckrobotern mangelt es noch an Feingefühl. Ingenieure hoffen jetzt auf einen neuen Ansatz: haptische Intelligenz",
+    "link": "https://www.nzz.ch/technologie/allzweck-robotern-mangelt-es-noch-am-feingefuehl-ingenieure-hoffen-jetzt-auf-einen-neuen-ansatz-haptische-intelligenz-ld.10038470",
+    "zeit": "2026-10-22T03:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "INTERVIEW - Open-Claw-Gründer: «Ich habe den Leuten gezeigt, was mit KI möglich ist»",
+    "link": "https://www.nzz.ch/technologie/open-claw-gruender-ich-habe-den-leuten-gezeigt-was-mit-ki-moeglich-ist-ld.10035408",
+    "zeit": "2026-10-22T03:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "«Die Cowboys sterben weg»: Im Wilden Westen hat sich Trump vergaloppiert",
+    "link": "https://www.nzz.ch/international/trump-hat-beef-mit-den-cowboys-rindfleisch-krise-im-amerikanischen-westen-ld.10028623",
+    "zeit": "2026-10-22T03:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Sovereign wealth funds' China and Hong Kong investments surge 190% after a bruising slump",
+    "link": "https://www.cnbc.com/2026/10/22/sovereign-wealth-funds-china-hong-kong.html",
+    "zeit": "2026-10-22T02:20:50+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Bank of Korea holds rates after President Lee calls for boosting housing supply",
+    "link": "https://www.cnbc.com/2026/10/22/bok-rate-decision-seoul-property.html",
+    "zeit": "2026-10-22T02:18:29+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Southeast Asia is hungry for AI — and the money isn't just in subscriptions",
+    "link": "https://www.cnbc.com/2026/10/22/southeasaisa-singapore-bain-temasek-google-.html",
+    "zeit": "2026-10-22T02:01:48+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "James Talarico fires back at Elon Musk in Texas Senate race feud",
+    "link": "https://www.cnbc.com/2026/10/22/james-talarico-elon-musk-ken-paxton-texas-senate-race.html",
+    "zeit": "2026-10-22T01:21:10+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
+    "link": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
+    "zeit": "2026-10-22T01:05:15+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Meta put out an ambitious roadmap to Muse monetization after strong quarter and guide",
+    "link": "https://www.cnbc.com/investingclub/2026/10/21/meta-put-out-an-ambitious-roadmap-to-muse-monetization-after-strong-quarter-and-guide.html",
+    "zeit": "2026-10-22T00:53:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Elektroautos boomen weltweit, aber Tesla tritt auf der Stelle",
+    "link": "https://www.nzz.ch/wirtschaft/elektroautos-boomen-weltweit-aber-tesla-tritt-auf-der-stelle-ld.10040605",
+    "zeit": "2026-10-22T00:16:22+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Inside India newsletter: Asia’s hottest data center market aims to quell concerns over water and power use",
+    "link": "https://www.cnbc.com/2026/10/22/india-data-center-google-amazon.html",
+    "zeit": "2026-10-22T00:07:48+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Tesla beats on earnings and sales even as auto revenue declines",
+    "link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
+    "zeit": "2026-10-21T23:32:04+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -428,46 +516,6 @@
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Trump-aligned super PACs pour millions into once-safe GOP House seats",
-    "link": "https://www.cnbc.com/2026/10/21/trump-pac-spending-midterm-election-house-republicans.html",
-    "zeit": "2026-10-21T17:51:21+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "How Ukraine’s drone strikes on Russia crippled the world’s second-largest diesel supplier",
-    "link": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
-    "zeit": "2026-10-21T17:27:34+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Expanding AI trade is turning safety stocks into a 'Texas hedge'",
-    "link": "https://www.cnbc.com/2026/10/21/expanding-ai-trade-is-turning-safety-stocks-into-a-texas-hedge.html",
-    "zeit": "2026-10-21T17:14:14+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Intel hits construction milestone at Ohio chip fab that’s at least 5 years behind schedule",
-    "link": "https://www.cnbc.com/2026/10/21/intel-hits-construction-milestone-at-delayed-ohio-chip-fab-.html",
-    "zeit": "2026-10-21T16:55:51+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Meta and Tesla bulls get confidence boost after SpaceX earnings",
-    "link": "https://www.cnbc.com/2026/10/21/meta-tesla-options-earnings.html",
-    "zeit": "2026-10-21T16:35:48+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Cybersicherheit – Gravierende PHP-Sicherheitslücke bedroht Millionen Webseiten",
@@ -518,17 +566,17 @@
     "sprache": "de"
    },
    {
-    "titel": "Raketen, Elektroautos, Roboter und Superintelligenz: Elon Musk will SpaceX und Tesla verschmelzen – es wäre die grösste Fusion überhaupt",
-    "link": "https://www.nzz.ch/wirtschaft/musk-bestaetigt-tesla-und-spacex-pruefen-zusammenschluss-ld.10039941",
-    "zeit": "2026-10-21T11:25:48+00:00",
-    "quelle": "NZZ Wirtschaft",
+    "titel": "ETF-Boom in Deutschland: Was Schweizer Anbieter aufhorchen lässt",
+    "link": "https://www.finews.ch/news/finanzplatz/74103-deutschland-etfs-im-wert-von-697-milliarden-euro-untersuchung-des-fondsverbands-bvi-zeigt-starke-konzentration-aktien-etfs-entfallen-96-prozent-des-vermoegens-auf-indizes-von-nur-fuenf-anbietern",
+    "zeit": "2026-10-21T11:04:36+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
    {
-    "titel": "ETF-Boom in Deutschland: Was Schweizer Anbieter aufhorchen lässt",
-    "link": "https://www.finews.ch/news/finanzplatz/74103-deutschland-etfs-im-wert-von-697-milliarden-euro-untersuchung-des-fondsverbands-bvi-zeigt-starke-konzentration-aktien-etfs-entfallen-96-prozent-des-vermoegens-auf-indizes-von-nur-fuenf-anbietern",
-    "zeit": "2026-10-21T11:04:36+00:00",
+    "titel": "Christian Gattiker: «Es nimmt Dimensionen an, die schwindelerregend sind»",
+    "link": "https://www.finews.ch/news/banken/74101-christian-gattiker-julius-baer-ai-investment-boom-europe-switzerland",
+    "zeit": "2026-10-21T08:49:42+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
@@ -570,46 +618,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/spacex-und-tesla-elon-musk-ich-denke-eine-fusion-waere-eine-gute-idee",
     "zeit": "2026-10-21T04:00:15+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Roche setzt geplante Investitionen in Deutschland aus – lässt sich aber ein Türchen offen",
-    "link": "https://www.nzz.ch/wirtschaft/roche-setzt-geplante-investitionen-in-deutschland-aus-laesst-sich-aber-ein-tuerchen-offen-ld.10039270",
-    "zeit": "2026-10-21T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Wie soll Amerikas Industrie in die Zukunft geführt werden? In Ohio prallen zwei gegensätzliche Strategien aufeinander",
-    "link": "https://www.nzz.ch/wirtschaft/wenn-jeep-seine-arbeiter-nach-hause-schickt-wird-es-kritisch-ld.10032145",
-    "zeit": "2026-10-21T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "INTERVIEW - «Heute herrscht das Gefühl, dass der Staat zusammengebrochen ist»",
-    "link": "https://www.nzz.ch/feuilleton/heute-herrscht-das-gefuehl-dass-der-staat-zusammengebrochen-ist-ld.10038980",
-    "zeit": "2026-10-21T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Die EU will neue Eisbrecher und mehr Schutz vor russischer Sabotage – aber noch ist ihre neue Arktis-Strategie diffus",
-    "link": "https://www.nzz.ch/international/die-eu-will-neue-eisbrecher-und-mehr-schutz-vor-russischer-sabotage-aber-noch-ist-ihre-neue-arktis-strategie-diffus-ld.10038956",
-    "zeit": "2026-10-21T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Werden CIA, MI6 oder andere Dienste dem BND weiterhin ihre Geheimnisse anvertrauen? Der Fall Hanning wirft grundsätzliche Fragen auf",
-    "link": "https://www.nzz.ch/pro/affaere-hanning-wie-sicher-sind-deutschlands-geheimnisse-beim-bnd-ld.10034737",
-    "zeit": "2026-10-21T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -657,14 +665,6 @@
     "titel": "Nach Berenberg: Franck Sabbah setzt auf Asset Management Boutiquen",
     "link": "https://www.finews.ch/news/finanzplatz/74070-franck-sabbah-solid-3-berenberg-vertrieb-asset-management-schweiz",
     "zeit": "2026-10-20T07:11:11+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Zwei Wealth baut Partnerteam mit weiterem erfahrenen Banker aus",
-    "link": "https://www.finews.ch/news/finanzplatz/74069-wealth-management-dienstleister-zwei-wealth-expansion-stefan-wuethrich-neuer-partner-15-beraterinnen-und-berater",
-    "zeit": "2026-10-20T07:04:29+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
