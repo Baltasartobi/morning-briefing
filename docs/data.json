@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-22T14:44:20+02:00",
+ "aktualisiert": "2026-10-22T15:43:39+02:00",
  "kernaussagen": [
-  "SMI −0.04%, Nikkei 225 −2.65% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9225 (−0.47%)",
-  "Brent über 100 USD: 111.92 (+2.85%)"
+  "SMI −0.30%, Nikkei 225 −2.65% am schwächsten",
+  "Franken stabil: EUR/CHF 0.9268 (−0.04%)",
+  "Brent über 100 USD: 112.48 (+3.36%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14547.240234375,
+   "kurs": 14508.330078125,
    "vortag": 14552.3896484375,
-   "veraenderung_pct": -0.035385350357586276,
+   "veraenderung_pct": -0.30276519098861865,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14368.780273,
     14478.370117,
     14552.389648,
-    14547.240234
+    14508.330078
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25485.2890625,
+   "kurs": 25528.83984375,
    "vortag": 25645.0390625,
-   "veraenderung_pct": -0.6229274972468168,
+   "veraenderung_pct": -0.4531060314114099,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25319.769531,
     25304.419922,
     25645.039062,
-    25485.289062
+    25528.839844
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6125.77978515625,
+   "kurs": 6129.43994140625,
    "vortag": 6207.52001953125,
-   "veraenderung_pct": -1.3167937295057275,
+   "veraenderung_pct": -1.2578304681955088,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6144.810059,
     6121.660156,
     6207.52002,
-    6125.779785
+    6129.439941
    ]
   },
   {
@@ -69,17 +69,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7757.169921875,
-   "vortag": 7712.56982421875,
-   "veraenderung_pct": 0.5782780405591659,
-   "datum": "2026-10-21",
-   "ist_heute": false,
+   "kurs": 7693.18017578125,
+   "vortag": 7757.169921875,
+   "veraenderung_pct": -0.8249109757580642,
+   "datum": "2026-10-22",
+   "ist_heute": true,
    "verlauf": [
-    7744.060059,
     7659.439941,
     7690.72998,
     7712.569824,
-    7757.169922
+    7757.169922,
+    7693.180176
    ]
   },
   {
@@ -88,17 +88,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26702.859375,
-   "vortag": 26424.8203125,
-   "veraenderung_pct": 1.0521890374727505,
-   "datum": "2026-10-21",
-   "ist_heute": false,
+   "kurs": 26311.443359375,
+   "vortag": 26702.859375,
+   "veraenderung_pct": -1.4658206079288139,
+   "datum": "2026-10-22",
+   "ist_heute": true,
    "verlauf": [
-    26713.029297,
     26140.029297,
     26430.890625,
     26424.820312,
-    26702.859375
+    26702.859375,
+    26311.443359
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9224900007247925,
-   "vortag": 0.9268400073051453,
-   "veraenderung_pct": -0.4693373771165521,
-   "datum": "2026-10-22",
-   "ist_heute": true,
+   "kurs": 0.9268400073051453,
+   "vortag": 0.9272000193595886,
+   "veraenderung_pct": -0.03882787391354947,
+   "datum": "2026-10-21",
+   "ist_heute": false,
    "verlauf": [
+    0.93096,
     0.92813,
     0.92464,
     0.9272,
-    0.92684,
-    0.92249
+    0.92684
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8234300017356873,
-   "vortag": 0.8256300091743469,
-   "veraenderung_pct": -0.2664640836952836,
-   "datum": "2026-10-22",
-   "ist_heute": true,
+   "kurs": 0.8256300091743469,
+   "vortag": 0.8268499970436096,
+   "veraenderung_pct": -0.1475464562647133,
+   "datum": "2026-10-21",
+   "ist_heute": false,
    "verlauf": [
+    0.8316,
     0.82775,
     0.82375,
     0.82685,
-    0.82563,
-    0.82343
+    0.82563
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4089.5,
+   "kurs": 4087.39990234375,
    "vortag": 4150.0,
-   "veraenderung_pct": -1.4578313253012065,
+   "veraenderung_pct": -1.508436088102405,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4160.100098,
     4142.600098,
     4150.0,
-    4089.5
+    4087.399902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.91999816894531,
+   "kurs": 112.4800033569336,
    "vortag": 108.81999969482422,
-   "veraenderung_pct": 2.848739646034515,
+   "veraenderung_pct": 3.3633556996632175,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     109.550003,
     108.790001,
     108.82,
-    111.919998
+    112.480003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81642.3515625,
+   "kurs": 81616.3671875,
    "vortag": 84011.96875,
-   "veraenderung_pct": -2.820570952873902,
+   "veraenderung_pct": -2.8515003256604388,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81853.539062,
     82941.0,
     84011.96875,
-    81642.351562
+    81616.367188
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.036,
+   "wert": 5.04,
    "vortag": 5.146,
-   "veraenderung_bp": -11.0,
+   "veraenderung_bp": -10.6,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.136,
     5.117,
     5.146,
-    5.036
+    5.04
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 84.72000122070312,
+   "kurs": 84.37000274658203,
    "vortag": 83.47000122070312,
-   "veraenderung_pct": 1.4975440058936584,
+   "veraenderung_pct": 1.0782335123000752,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     82.550003,
     83.110001,
     83.470001,
-    84.720001
+    84.370003
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 127.73999786376953,
+   "kurs": 127.54000091552734,
    "vortag": 126.87999725341797,
-   "veraenderung_pct": 0.6778062964754694,
+   "veraenderung_pct": 0.5201794423049577,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     124.199997,
     126.5,
     126.879997,
-    127.739998
+    127.540001
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 389.3999938964844,
+   "kurs": 387.1000061035156,
    "vortag": 392.0,
-   "veraenderung_pct": -0.6632668631417427,
+   "veraenderung_pct": -1.2499984429807043,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     380.100006,
     389.899994,
     392.0,
-    389.399994
+    387.100006
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.7599983215332,
+   "kurs": 38.72999954223633,
    "vortag": 39.540000915527344,
-   "veraenderung_pct": -1.9726924024623171,
+   "veraenderung_pct": -2.048561847586927,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.080002,
     39.099998,
     39.540001,
-    38.759998
+    38.73
    ]
   }
  ],
@@ -374,9 +374,73 @@
   ],
   "artikel": [
    {
-    "titel": "Brent crude near $112 as U.S. and Israel reportedly weigh fresh Iran strikes",
+    "titel": "France protests: Macron condemns 'stupid' comments from Trump, others as bond market pressure builds",
+    "link": "https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html",
+    "zeit": "2026-10-22T13:42:34+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Brent crude tops $112 after Trump says no negotiations with Iran, something will happen 'fairly soon'",
     "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
-    "zeit": "2026-10-22T12:42:31+00:00",
+    "zeit": "2026-10-22T13:40:41+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "California's Proposition 40: What voters need to know about billionaire wealth tax battle",
+    "link": "https://www.cnbc.com/2026/10/22/california-proposition-40-billionaire-tax-wealth.html",
+    "zeit": "2026-10-22T13:37:21+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home products",
+    "link": "https://www.cnbc.com/2026/10/22/procter-gamble-pg-q1-2027-earnings.html",
+    "zeit": "2026-10-22T13:36:07+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
+    "link": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
+    "zeit": "2026-10-22T13:21:27+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+    "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+    "zeit": "2026-10-22T13:18:36+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Comcast beats earnings expectations as media revenue offsets weakness in connectivity",
+    "link": "https://www.cnbc.com/2026/10/22/comcast-cmcsa-earnings-q3-2026.html",
+    "zeit": "2026-10-22T13:10:07+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Spain accuses Trump ally Milei of ‘disgraceful’ election interference",
+    "link": "https://www.cnbc.com/2026/10/22/spain-sanchez-milei-trump-election-protests.html",
+    "zeit": "2026-10-22T12:52:41+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Critical PHP web security flaws spark global alarm as Google, OpenAI and Amazon respond",
+    "link": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
+    "zeit": "2026-10-22T12:46:15+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -390,38 +454,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Why governments pulled websites offline over the decades-old PHP programming language",
-    "link": "https://www.cnbc.com/2026/10/22/php2shell-vulnerability-what-is-it-and-is-your-data-at-risk.html",
-    "zeit": "2026-10-22T12:35:08+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Critical PHP web security flaws spark global alarm as Google, OpenAI and Amazon respond",
-    "link": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
-    "zeit": "2026-10-22T12:33:56+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "California's Proposition 40: What voters need to know about the billionaire wealth tax",
-    "link": "https://www.cnbc.com/2026/10/22/california-proposition-40-billionaire-tax-wealth.html",
-    "zeit": "2026-10-22T12:26:20+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Comcast beats earnings expectations as media revenue offsets weakness in connectivity",
-    "link": "https://www.cnbc.com/2026/10/22/comcast-cmcsa-earnings-q3-2026.html",
-    "zeit": "2026-10-22T12:17:59+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Die Wohnungsknappheit treibt die Menschen aus den grossen Städten. Doch wie lange noch?",
     "link": "https://www.nzz.ch/wirtschaft/die-wohnungsknappheit-treibt-die-menschen-aus-den-grossen-staedten-doch-wie-lange-noch-ld.10041299",
     "zeit": "2026-10-22T12:17:34+00:00",
@@ -430,42 +462,18 @@
     "sprache": "de"
    },
    {
-    "titel": "France protests: Macron condemns 'stupid' comments from Trump, others as bond market pressure builds",
-    "link": "https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html",
-    "zeit": "2026-10-22T12:11:29+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
-    "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
-    "zeit": "2026-10-22T12:03:40+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home products",
-    "link": "https://www.cnbc.com/2026/10/22/procter-gamble-pg-q1-2027-earnings.html",
-    "zeit": "2026-10-22T12:01:13+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "American Express brings Airbnb bookings and rewards to Amex Travel platform",
-    "link": "https://www.cnbc.com/2026/10/22/american-express-airbnb-travel-platform.html",
-    "zeit": "2026-10-22T12:00:02+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Kosmetik gegen Magergesicht – Ozempic-Face bringt Galderma Milliarden",
     "link": "https://www.srf.ch/news/wirtschaft/kosmetik-gegen-magergesicht-ozempic-face-bringt-galderma-milliarden",
     "zeit": "2026-10-22T11:32:49+00:00",
     "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Baselbieter Landrat lehnt Lohndeckelung bei BLKB ab",
+    "link": "https://www.finews.ch/news/banken/74121-baselbieter-landrat-lehnt-lohndeckelung-bei-blkb-ab",
+    "zeit": "2026-10-22T11:20:27+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -665,14 +673,6 @@
     "titel": "Wettbewerb unter den Schweizer Hypothekaranbietern verschärft sich",
     "link": "https://www.finews.ch/news/finanzplatz/74093-die-schweizer-hypothekarzinsen-drittes-quartal-gestiegen-unterschiedlich-westschweiz-um-10-bis-13-basispunkte-teurer-geworden-in-der-deutschschweiz-nur-um-5-bis-7-basispunkte",
     "zeit": "2026-10-21T06:41:29+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Dominik Oggenfuss: «Ein erstes Ziel ist die Milliarde»",
-    "link": "https://www.finews.ch/news/finanzplatz/74089-erster-schweizer-bitcoin-etf-bit-asset-management-dominik-oggenfuss-ceo-interview",
-    "zeit": "2026-10-21T05:21:15+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
