@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-22T08:43:10+02:00",
+ "aktualisiert": "2026-10-22T09:44:22+02:00",
  "kernaussagen": [
-  "SMI +0.51%, Nikkei 225 −2.29% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9229 (−0.42%)",
-  "Brent über 100 USD: 111.66 (+2.61%)"
+  "SMI −0.26%, Nikkei 225 −2.65% am schwächsten",
+  "Franken stabil: EUR/CHF 0.9268 (−0.04%)",
+  "Brent über 100 USD: 111.76 (+2.70%)"
  ],
  "maerkte": [
   {
@@ -12,17 +12,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14552.3896484375,
-   "vortag": 14478.3701171875,
-   "veraenderung_pct": 0.5112421539916978,
-   "datum": "2026-10-21",
-   "ist_heute": false,
+   "kurs": 14514.25,
+   "vortag": 14552.3896484375,
+   "veraenderung_pct": -0.2620851238792632,
+   "datum": "2026-10-22",
+   "ist_heute": true,
    "verlauf": [
-    14349.509766,
     14391.30957,
     14368.780273,
     14478.370117,
-    14552.389648
+    14552.389648,
+    14514.25
    ]
   },
   {
@@ -31,17 +31,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25645.0390625,
-   "vortag": 25304.419921875,
-   "veraenderung_pct": 1.3460855521550297,
-   "datum": "2026-10-21",
-   "ist_heute": false,
+   "kurs": 25429.060546875,
+   "vortag": 25645.0390625,
+   "veraenderung_pct": -0.8421843893418712,
+   "datum": "2026-10-22",
+   "ist_heute": true,
    "verlauf": [
-    25382.619141,
     25622.609375,
     25319.769531,
     25304.419922,
-    25645.039062
+    25645.039062,
+    25429.060547
    ]
   },
   {
@@ -50,17 +50,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6207.52001953125,
-   "vortag": 6121.66015625,
-   "veraenderung_pct": 1.402558474167992,
-   "datum": "2026-10-21",
-   "ist_heute": false,
+   "kurs": 6121.83984375,
+   "vortag": 6207.52001953125,
+   "veraenderung_pct": -1.3802641878184363,
+   "datum": "2026-10-22",
+   "ist_heute": true,
    "verlauf": [
-    6168.259766,
     6204.22998,
     6144.810059,
     6121.660156,
-    6207.52002
+    6207.52002,
+    6121.839844
    ]
   },
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 63139.58984375,
+   "kurs": 62907.83984375,
    "vortag": 64621.23828125,
-   "veraenderung_pct": -2.292819631606946,
+   "veraenderung_pct": -2.6514478568838373,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     64916.699219,
     64075.421875,
     64621.238281,
-    63139.589844
+    62907.839844
    ]
   }
  ],
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9229099750518799,
-   "vortag": 0.9268400073051453,
-   "veraenderung_pct": -0.4240248826431481,
-   "datum": "2026-10-22",
-   "ist_heute": true,
+   "kurs": 0.9268400073051453,
+   "vortag": 0.9272000193595886,
+   "veraenderung_pct": -0.03882787391354947,
+   "datum": "2026-10-21",
+   "ist_heute": false,
    "verlauf": [
+    0.93096,
     0.92813,
     0.92464,
     0.9272,
-    0.92684,
-    0.92291
+    0.92684
    ]
   },
   {
@@ -146,7 +146,19 @@
    "symbol": "CHF=X",
    "einheit": "",
    "dezimalen": 4,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 0.8209699988365173,
+   "vortag": 0.8256300091743469,
+   "veraenderung_pct": -0.5644187209825069,
+   "datum": "2026-10-22",
+   "ist_heute": true,
+   "verlauf": [
+    0.82775,
+    0.82375,
+    0.82685,
+    0.82563,
+    0.82097
+   ]
   },
   {
    "name": "Gold",
@@ -154,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4107.7998046875,
+   "kurs": 4106.60009765625,
    "vortag": 4150.0,
-   "veraenderung_pct": -1.0168721762048194,
+   "veraenderung_pct": -1.0457807793674667,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -164,7 +176,7 @@
     4160.100098,
     4142.600098,
     4150.0,
-    4107.799805
+    4106.600098
    ]
   },
   {
@@ -173,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.66000366210938,
+   "kurs": 111.76000213623047,
    "vortag": 108.81999969482422,
-   "veraenderung_pct": 2.60981802540865,
+   "veraenderung_pct": 2.7017114957279986,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -183,7 +195,7 @@
     109.550003,
     108.790001,
     108.82,
-    111.660004
+    111.760002
    ]
   },
   {
@@ -192,17 +204,17 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82445.890625,
-   "vortag": 82941.0,
-   "veraenderung_pct": -0.5969416512942916,
+   "kurs": 82183.09375,
+   "vortag": 84011.96875,
+   "veraenderung_pct": -2.1769219638719584,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
-    81382.148438,
     82017.601562,
     81853.539062,
     82941.0,
-    82445.890625
+    84011.96875,
+    82183.09375
    ]
   }
  ],
@@ -266,17 +278,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.11000061035156,
-   "vortag": 82.55000305175781,
-   "veraenderung_pct": 0.6783737588024641,
-   "datum": "2026-10-20",
-   "ist_heute": false,
+   "kurs": 85.19000244140625,
+   "vortag": 83.11000061035156,
+   "veraenderung_pct": 2.5027094402350736,
+   "datum": "2026-10-22",
+   "ist_heute": true,
    "verlauf": [
-    78.889999,
     81.07,
     82.43,
     82.550003,
-    83.110001
+    83.110001,
+    85.190002
    ]
   },
   {
@@ -285,17 +297,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 126.87999725341797,
-   "vortag": 126.5,
-   "veraenderung_pct": 0.30039308570590784,
-   "datum": "2026-10-21",
-   "ist_heute": false,
+   "kurs": 127.08000183105469,
+   "vortag": 126.87999725341797,
+   "veraenderung_pct": 0.1576328672495464,
+   "datum": "2026-10-22",
+   "ist_heute": true,
    "verlauf": [
-    125.900002,
     124.699997,
     124.199997,
     126.5,
-    126.879997
+    126.879997,
+    127.080002
    ]
   },
   {
@@ -304,17 +316,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 389.8999938964844,
-   "vortag": 380.1000061035156,
-   "veraenderung_pct": 2.578265623678999,
-   "datum": "2026-10-20",
-   "ist_heute": false,
+   "kurs": 386.8999938964844,
+   "vortag": 389.8999938964844,
+   "veraenderung_pct": -0.7694280705212053,
+   "datum": "2026-10-22",
+   "ist_heute": true,
    "verlauf": [
-    370.899994,
     379.700012,
     379.200012,
     380.100006,
-    389.899994
+    389.899994,
+    386.899994
    ]
   },
   {
@@ -323,17 +335,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.540000915527344,
-   "vortag": 39.099998474121094,
-   "veraenderung_pct": 1.1253259810162675,
-   "datum": "2026-10-21",
-   "ist_heute": false,
+   "kurs": 38.90999984741211,
+   "vortag": 39.540000915527344,
+   "veraenderung_pct": -1.5933258814564977,
+   "datum": "2026-10-22",
+   "ist_heute": true,
    "verlauf": [
-    39.419998,
     39.630001,
     39.080002,
     39.099998,
-    39.540001
+    39.540001,
+    38.91
    ]
   }
  ],
@@ -362,28 +374,28 @@
   ],
   "artikel": [
    {
+    "titel": "Barclays to slash 5,000 jobs in AI efficiency push",
+    "link": "https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html",
+    "zeit": "2026-10-22T07:41:09+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Nestlé überrascht mit starkem Wachstum",
+    "link": "https://www.nzz.ch/wirtschaft/nestle-ueberrascht-mit-starkem-wachstum-ld.10041032",
+    "zeit": "2026-10-22T07:11:27+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Sicherheitslücke bei PHP – Private Server-Betreiber sollten jetzt rasch handeln",
     "link": "https://www.srf.ch/news/wirtschaft/sicherheitsluecke-bei-php-private-server-betreiber-sollten-jetzt-rasch-handeln",
     "zeit": "2026-10-22T06:00:07+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Nestlé überrascht mit starkem Wachstum",
-    "link": "https://www.nzz.ch/wirtschaft/nestle-ueberrascht-mit-starkem-wachstum-ld.10041032",
-    "zeit": "2026-10-22T05:28:56+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
-    "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
-    "zeit": "2026-10-22T05:18:24+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms",
