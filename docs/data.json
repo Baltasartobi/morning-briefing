@@ -1,8 +1,8 @@
 {
- "aktualisiert": "2026-10-22T06:31:53+02:00",
+ "aktualisiert": "2026-10-22T07:08:03+02:00",
  "kernaussagen": [
-  "SMI +0.51%, Nikkei 225 −1.97% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9251 (−0.19%)",
+  "SMI +0.51%, Nikkei 225 −2.10% am schwächsten",
+  "Franken stabil: EUR/CHF 0.9268 (−0.04%)",
   "Brent über 100 USD: 110.90 (+1.91%)"
  ],
  "maerkte": [
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 63345.94921875,
+   "kurs": 63262.44921875,
    "vortag": 64621.23828125,
-   "veraenderung_pct": -1.9734828617018696,
+   "veraenderung_pct": -2.1026973463216025,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     64916.699219,
     64075.421875,
     64621.238281,
-    63345.949219
+    63262.449219
    ]
   }
  ],
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.925059974193573,
-   "vortag": 0.9268400073051453,
-   "veraenderung_pct": -0.19205397884666242,
-   "datum": "2026-10-22",
-   "ist_heute": true,
+   "kurs": 0.9268400073051453,
+   "vortag": 0.9272000193595886,
+   "veraenderung_pct": -0.03882787391354947,
+   "datum": "2026-10-21",
+   "ist_heute": false,
    "verlauf": [
+    0.93096,
     0.92813,
     0.92464,
     0.9272,
-    0.92684,
-    0.92506
+    0.92684
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8227199912071228,
+   "kurs": 0.8228099942207336,
    "vortag": 0.8256300091743469,
-   "veraenderung_pct": -0.3524602951549993,
+   "veraenderung_pct": -0.3415591635814397,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82375,
     0.82685,
     0.82563,
-    0.82272
+    0.82281
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4105.2001953125,
+   "kurs": 4107.89990234375,
    "vortag": 4150.0,
-   "veraenderung_pct": -1.0795133659638578,
+   "veraenderung_pct": -1.014460184487953,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4160.100098,
     4142.600098,
     4150.0,
-    4105.200195
+    4107.899902
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82822.296875,
+   "kurs": 82750.0,
    "vortag": 82941.0,
-   "veraenderung_pct": -0.14311754741321847,
+   "veraenderung_pct": -0.23028417790960098,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82017.601562,
     81853.539062,
     82941.0,
-    82822.296875
+    82750.0
    ]
   }
  ],
@@ -376,7 +376,7 @@
    {
     "titel": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms",
     "link": "https://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html",
-    "zeit": "2026-10-22T04:26:42+00:00",
+    "zeit": "2026-10-22T04:35:54+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -430,7 +430,7 @@
     "sprache": "de"
    },
    {
-    "titel": "«Die Cowboys sterben weg»: Im Wilden Westen hat sich Trump vergaloppiert",
+    "titel": "Die Amerikaner können sich ihren Hamburger kaum noch leisten",
     "link": "https://www.nzz.ch/international/trump-hat-beef-mit-den-cowboys-rindfleisch-krise-im-amerikanischen-westen-ld.10028623",
     "zeit": "2026-10-22T03:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
