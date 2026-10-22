@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-22T11:34:09+02:00",
+ "aktualisiert": "2026-10-22T12:11:49+02:00",
  "kernaussagen": [
-  "SMI −0.23%, Nikkei 225 −2.65% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9211 (−0.62%)",
-  "Brent über 100 USD: 112.07 (+2.99%)"
+  "SMI −0.19%, Nikkei 225 −2.65% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9210 (−0.63%)",
+  "Brent über 100 USD: 111.79 (+2.73%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14519.16015625,
+   "kurs": 14524.7099609375,
    "vortag": 14552.3896484375,
-   "veraenderung_pct": -0.22834388708845577,
+   "veraenderung_pct": -0.19020716300688356,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14368.780273,
     14478.370117,
     14552.389648,
-    14519.160156
+    14524.709961
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25374.439453125,
+   "kurs": 25328.0,
    "vortag": 25645.0390625,
-   "veraenderung_pct": -1.055173317207736,
+   "veraenderung_pct": -1.2362588402666796,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25319.769531,
     25304.419922,
     25645.039062,
-    25374.439453
+    25328.0
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6104.47998046875,
+   "kurs": 6093.240234375,
    "vortag": 6207.52001953125,
-   "veraenderung_pct": -1.6599227829841245,
+   "veraenderung_pct": -1.8409893934563493,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6144.810059,
     6121.660156,
     6207.52002,
-    6104.47998
+    6093.240234
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9210600256919861,
+   "kurs": 0.9209799766540527,
    "vortag": 0.9268400073051453,
-   "veraenderung_pct": -0.6236223692981158,
+   "veraenderung_pct": -0.6322591391076271,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92464,
     0.9272,
     0.92684,
-    0.92106
+    0.92098
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8200799822807312,
-   "vortag": 0.8256300091743469,
-   "veraenderung_pct": -0.6722171955893308,
-   "datum": "2026-10-22",
-   "ist_heute": true,
+   "kurs": 0.8256300091743469,
+   "vortag": 0.8268499970436096,
+   "veraenderung_pct": -0.1475464562647133,
+   "datum": "2026-10-21",
+   "ist_heute": false,
    "verlauf": [
+    0.8316,
     0.82775,
     0.82375,
     0.82685,
-    0.82563,
-    0.82008
+    0.82563
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4102.7998046875,
+   "kurs": 4103.60009765625,
    "vortag": 4150.0,
-   "veraenderung_pct": -1.1373541039156665,
+   "veraenderung_pct": -1.1180699359939705,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4160.100098,
     4142.600098,
     4150.0,
-    4102.799805
+    4103.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 112.06999969482422,
+   "kurs": 111.79000091552734,
    "vortag": 108.81999969482422,
-   "veraenderung_pct": 2.9865833570247524,
+   "veraenderung_pct": 2.7292788357215825,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     109.550003,
     108.790001,
     108.82,
-    112.07
+    111.790001
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81696.9609375,
+   "kurs": 81927.28125,
    "vortag": 84011.96875,
-   "veraenderung_pct": -2.755569053962925,
+   "veraenderung_pct": -2.481417268298458,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81853.539062,
     82941.0,
     84011.96875,
-    81696.960938
+    81927.28125
    ]
   }
  ],
@@ -256,19 +256,7 @@
   {
    "name": "USA",
    "quelle": "yahoo",
-   "verfuegbar": true,
-   "wert": 5.146,
-   "vortag": 5.117,
-   "veraenderung_bp": 2.9,
-   "datum": "2026-10-21",
-   "ist_heute": false,
-   "verlauf": [
-    5.089,
-    5.098,
-    5.136,
-    5.117,
-    5.146
-   ]
+   "verfuegbar": false
   }
  ],
  "watchlist": [
@@ -278,9 +266,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 84.4000015258789,
+   "kurs": 84.83000183105469,
    "vortag": 83.47000122070312,
-   "veraenderung_pct": 1.114173105996219,
+   "veraenderung_pct": 1.6293286096349613,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +276,7 @@
     82.550003,
     83.110001,
     83.470001,
-    84.400002
+    84.830002
    ]
   },
   {
@@ -297,9 +285,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 127.69999694824219,
+   "kurs": 127.9000015258789,
    "vortag": 126.87999725341797,
-   "veraenderung_pct": 0.6462797230255557,
+   "veraenderung_pct": 0.8039125902751021,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +295,7 @@
     124.199997,
     126.5,
     126.879997,
-    127.699997
+    127.900002
    ]
   },
   {
@@ -316,9 +304,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 390.0,
+   "kurs": 390.6000061035156,
    "vortag": 392.0,
-   "veraenderung_pct": -0.5102040816326481,
+   "veraenderung_pct": -0.3571413001235646,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +314,7 @@
     380.100006,
     389.899994,
     392.0,
-    390.0
+    390.600006
    ]
   },
   {
@@ -335,9 +323,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.7400016784668,
+   "kurs": 38.619998931884766,
    "vortag": 39.540000915527344,
-   "veraenderung_pct": -2.023265600751134,
+   "veraenderung_pct": -2.3267626766323435,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +333,7 @@
     39.080002,
     39.099998,
     39.540001,
-    38.740002
+    38.619999
    ]
   }
  ],
@@ -373,6 +361,22 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce",
+    "link": "https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html",
+    "zeit": "2026-10-22T10:10:15+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "MELDUNGEN WIRTSCHAFT - Nach KI-Investitionen: Grossbank Barclays streicht 5000 Stellen",
+    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
+    "zeit": "2026-10-22T09:36:32+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
    {
     "titel": "World's largest wealth fund posts $30 billion loss after bond market turbulence",
     "link": "https://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html",
@@ -410,6 +414,14 @@
     "link": "https://www.nzz.ch/wirtschaft/nestle-ueberrascht-mit-starkem-wachstum-ld.10041032",
     "zeit": "2026-10-22T08:16:10+00:00",
     "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Liechtenstein regelt Zusammenarbeit zwischen Polizei, Justiz und Banken",
+    "link": "https://www.finews.ch/news/banken/74119-liechtenstein-regeln-polizei-justiz-banken-bankdaten",
+    "zeit": "2026-10-22T07:41:21+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -542,14 +554,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
-    "link": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
-    "zeit": "2026-10-22T01:05:15+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Elektroautos boomen weltweit, aber Tesla tritt auf der Stelle",
     "link": "https://www.nzz.ch/wirtschaft/elektroautos-boomen-weltweit-aber-tesla-tritt-auf-der-stelle-ld.10040605",
     "zeit": "2026-10-22T00:16:22+00:00",
@@ -570,14 +574,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/cybersicherheit-gravierende-php-sicherheitsluecke-bedroht-millionen-webseiten",
     "zeit": "2026-10-21T15:07:10+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Russland will wieder mit der Ukraine verhandeln – ein Dreiergipfel mit Trump und Xi wird immer wahrscheinlicher",
-    "link": "https://www.nzz.ch/international/putin-will-einen-dreiergipfel-mit-trump-und-xi-ld.10040005",
-    "zeit": "2026-10-21T14:56:35+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -649,14 +645,6 @@
     "titel": "Dominik Oggenfuss: «Ein erstes Ziel ist die Milliarde»",
     "link": "https://www.finews.ch/news/finanzplatz/74089-erster-schweizer-bitcoin-etf-bit-asset-management-dominik-oggenfuss-ceo-interview",
     "zeit": "2026-10-21T05:21:15+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "ETF-Boom: Die Frauen treiben das Wachstum",
-    "link": "https://www.finews.ch/news/finanzplatz/74087-etf-boom-boersengehandelte-indexfonds-nachfrage-bei-frauen-studie-der-hochschule-luzern-finfluencer-anlageentscheidungen-beeinflussen",
-    "zeit": "2026-10-21T04:45:07+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
