@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-22T12:11:49+02:00",
+ "aktualisiert": "2026-10-22T13:06:35+02:00",
  "kernaussagen": [
-  "SMI −0.19%, Nikkei 225 −2.65% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9210 (−0.63%)",
-  "Brent über 100 USD: 111.79 (+2.73%)"
+  "SMI −0.43%, Nikkei 225 −2.65% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9203 (−0.71%)",
+  "Brent über 100 USD: 111.95 (+2.88%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14524.7099609375,
+   "kurs": 14490.4296875,
    "vortag": 14552.3896484375,
-   "veraenderung_pct": -0.19020716300688356,
+   "veraenderung_pct": -0.4257717284539053,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14368.780273,
     14478.370117,
     14552.389648,
-    14524.709961
+    14490.429688
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25328.0,
+   "kurs": 25427.189453125,
    "vortag": 25645.0390625,
-   "veraenderung_pct": -1.2362588402666796,
+   "veraenderung_pct": -0.8494805129525274,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25319.769531,
     25304.419922,
     25645.039062,
-    25328.0
+    25427.189453
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6093.240234375,
+   "kurs": 6114.89013671875,
    "vortag": 6207.52001953125,
-   "veraenderung_pct": -1.8409893934563493,
+   "veraenderung_pct": -1.4922204442523013,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6144.810059,
     6121.660156,
     6207.52002,
-    6093.240234
+    6114.890137
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9209799766540527,
+   "kurs": 0.9202799797058105,
    "vortag": 0.9268400073051453,
-   "veraenderung_pct": -0.6322591391076271,
+   "veraenderung_pct": -0.7077842505319176,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92464,
     0.9272,
     0.92684,
-    0.92098
+    0.92028
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8256300091743469,
-   "vortag": 0.8268499970436096,
-   "veraenderung_pct": -0.1475464562647133,
-   "datum": "2026-10-21",
-   "ist_heute": false,
+   "kurs": 0.8210899829864502,
+   "vortag": 0.8256300091743469,
+   "veraenderung_pct": -0.5498862853152486,
+   "datum": "2026-10-22",
+   "ist_heute": true,
    "verlauf": [
-    0.8316,
     0.82775,
     0.82375,
     0.82685,
-    0.82563
+    0.82563,
+    0.82109
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4103.60009765625,
+   "kurs": 4097.5,
    "vortag": 4150.0,
-   "veraenderung_pct": -1.1180699359939705,
+   "veraenderung_pct": -1.2650602409638556,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4160.100098,
     4142.600098,
     4150.0,
-    4103.600098
+    4097.5
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.79000091552734,
+   "kurs": 111.94999694824219,
    "vortag": 108.81999969482422,
-   "veraenderung_pct": 2.7292788357215825,
+   "veraenderung_pct": 2.8763069860280766,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     109.550003,
     108.790001,
     108.82,
-    111.790001
+    111.949997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81927.28125,
+   "kurs": 81864.0,
    "vortag": 84011.96875,
-   "veraenderung_pct": -2.481417268298458,
+   "veraenderung_pct": -2.5567413571652597,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81853.539062,
     82941.0,
     84011.96875,
-    81927.28125
+    81864.0
    ]
   }
  ],
@@ -240,23 +240,35 @@
    "name": "Deutschland",
    "quelle": "bundesbank",
    "verfuegbar": true,
-   "wert": 3.47,
-   "vortag": 3.48,
-   "veraenderung_bp": -1.0,
-   "datum": "2026-10-21",
-   "ist_heute": false,
+   "wert": 3.44,
+   "vortag": 3.47,
+   "veraenderung_bp": -3.0,
+   "datum": "2026-10-22",
+   "ist_heute": true,
    "verlauf": [
-    3.45,
     3.48,
     3.49,
     3.48,
-    3.47
+    3.47,
+    3.44
    ]
   },
   {
    "name": "USA",
    "quelle": "yahoo",
-   "verfuegbar": false
+   "verfuegbar": true,
+   "wert": 5.146,
+   "vortag": 5.117,
+   "veraenderung_bp": 2.9,
+   "datum": "2026-10-21",
+   "ist_heute": false,
+   "verlauf": [
+    5.089,
+    5.098,
+    5.136,
+    5.117,
+    5.146
+   ]
   }
  ],
  "watchlist": [
@@ -266,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 84.83000183105469,
+   "kurs": 84.5199966430664,
    "vortag": 83.47000122070312,
-   "veraenderung_pct": 1.6293286096349613,
+   "veraenderung_pct": 1.2579314807807274,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -276,7 +288,7 @@
     82.550003,
     83.110001,
     83.470001,
-    84.830002
+    84.519997
    ]
   },
   {
@@ -285,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 127.9000015258789,
+   "kurs": 127.80000305175781,
    "vortag": 126.87999725341797,
-   "veraenderung_pct": 0.8039125902751021,
+   "veraenderung_pct": 0.7250991631898573,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -295,7 +307,7 @@
     124.199997,
     126.5,
     126.879997,
-    127.900002
+    127.800003
    ]
   },
   {
@@ -304,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 390.6000061035156,
+   "kurs": 385.79998779296875,
    "vortag": 392.0,
-   "veraenderung_pct": -0.3571413001235646,
+   "veraenderung_pct": -1.5816357670998094,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -314,7 +326,7 @@
     380.100006,
     389.899994,
     392.0,
-    390.600006
+    385.799988
    ]
   },
   {
@@ -323,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.619998931884766,
+   "kurs": 38.66999816894531,
    "vortag": 39.540000915527344,
-   "veraenderung_pct": -2.3267626766323435,
+   "veraenderung_pct": -2.2003103855275374,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -333,7 +345,7 @@
     39.080002,
     39.099998,
     39.540001,
-    38.619999
+    38.669998
    ]
   }
  ],
@@ -362,15 +374,63 @@
   ],
   "artikel": [
    {
-    "titel": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce",
-    "link": "https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html",
-    "zeit": "2026-10-22T10:10:15+00:00",
+    "titel": "David's Bridal plans to spin off AI platform Pearl into publicly traded company",
+    "link": "https://www.cnbc.com/2026/10/22/davids-bridal-pearl-ai-spinoff.html",
+    "zeit": "2026-10-22T11:00:02+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "MELDUNGEN WIRTSCHAFT - Nach KI-Investitionen: Grossbank Barclays streicht 5000 Stellen",
+    "titel": "Essenslieferdienst krempelt um – Just Eat: Entlassungen wegen neuem Modell",
+    "link": "https://www.srf.ch/news/wirtschaft/essenslieferdienst-krempelt-um-just-eat-entlassungen-wegen-neuem-modell",
+    "zeit": "2026-10-22T10:51:09+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce",
+    "link": "https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html",
+    "zeit": "2026-10-22T10:49:16+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Ukraine Starlink slowdown raises business risks for Elon Musk partners",
+    "link": "https://www.cnbc.com/2026/10/22/ukraine-starlink-slowdown-musk-business-risk.html",
+    "zeit": "2026-10-22T10:43:38+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Brent crude tops $111 on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
+    "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
+    "zeit": "2026-10-22T10:42:21+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "New bipartisan bill aims to speed up clinical trials for rare disease treatments",
+    "link": "https://www.cnbc.com/2026/10/22/bipartisan-bill-aims-to-speed-up-trials-for-rare-disease-treatments.html",
+    "zeit": "2026-10-22T10:30:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trump’s tariffs loom over Maine Senate race between Collins and Jackson",
+    "link": "https://www.cnbc.com/2026/10/22/maine-senate-election-trump-tariffs.html",
+    "zeit": "2026-10-22T10:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "MELDUNGEN WIRTSCHAFT - Just Eat stellt Geschäftsmodell um und baut Stellen ab +++ Grossbank Barclays streicht nach KI-Investitionen 5000 Stellen",
     "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
     "zeit": "2026-10-22T09:36:32+00:00",
     "quelle": "NZZ Wirtschaft",
@@ -386,28 +446,12 @@
     "sprache": "en"
    },
    {
-    "titel": "Barclays to slash 5,000 jobs in AI efficiency push",
-    "link": "https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html",
-    "zeit": "2026-10-22T09:23:59+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Ein amerikanisches Kriegsschiff verärgert China – für die Philippinen ist die Fahrt ein Zeichen der Unterstützung",
     "link": "https://www.nzz.ch/international/chinas-kuestenwache-provoziert-nachbarn-wie-die-usa-antworten-ld.10040002",
     "zeit": "2026-10-22T08:28:56+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Brent crude tops $112 on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
-    "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
-    "zeit": "2026-10-22T08:24:42+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Nestlé überrascht mit starkem Wachstum – es ist ein wichtiger Zwischenerfolg für den CEO Navratil",
@@ -530,30 +574,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Bank of Korea holds rates after President Lee calls for boosting housing supply",
-    "link": "https://www.cnbc.com/2026/10/22/bok-rate-decision-seoul-property.html",
-    "zeit": "2026-10-22T02:18:29+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Southeast Asia is hungry for AI — and the money isn't just in subscriptions",
-    "link": "https://www.cnbc.com/2026/10/22/southeasaisa-singapore-bain-temasek-google-.html",
-    "zeit": "2026-10-22T02:01:48+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "James Talarico fires back at Elon Musk in Texas Senate race feud",
-    "link": "https://www.cnbc.com/2026/10/22/james-talarico-elon-musk-ken-paxton-texas-senate-race.html",
-    "zeit": "2026-10-22T01:21:10+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Elektroautos boomen weltweit, aber Tesla tritt auf der Stelle",
     "link": "https://www.nzz.ch/wirtschaft/elektroautos-boomen-weltweit-aber-tesla-tritt-auf-der-stelle-ld.10040605",
     "zeit": "2026-10-22T00:16:22+00:00",
@@ -669,14 +689,6 @@
     "titel": "Verschärfung geplant – Heimatschutz für Schweizer Immobilien: Streit um Lex Koller",
     "link": "https://www.srf.ch/news/wirtschaft/verschaerfung-geplant-heimatschutz-fuer-schweizer-immobilien-streit-um-lex-koller",
     "zeit": "2026-10-20T04:42:31+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Entscheid des Verwaltungsrats – Lindt-Chef Lechner muss per sofort gehen",
-    "link": "https://www.srf.ch/news/wirtschaft/entscheid-des-verwaltungsrats-lindt-chef-lechner-muss-per-sofort-gehen",
-    "zeit": "2026-10-19T06:27:42+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
