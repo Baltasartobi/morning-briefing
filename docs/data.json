@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-22T18:07:24+02:00",
+ "aktualisiert": "2026-10-22T19:06:18+02:00",
  "kernaussagen": [
-  "SMI −0.03%, Nasdaq −2.07% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9227 (−0.44%)",
-  "Bitcoin −2.92% auf 81'560 USD · Brent über 100 USD"
+  "SMI −0.03%, Nasdaq −2.51% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9223 (−0.49%)",
+  "Bitcoin −3.45% auf 81'109 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7673.02001953125,
+   "kurs": 7651.990234375,
    "vortag": 7757.169921875,
-   "veraenderung_pct": -1.0848015860326798,
+   "veraenderung_pct": -1.3559028429091957,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7690.72998,
     7712.569824,
     7757.169922,
-    7673.02002
+    7651.990234
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26150.310546875,
+   "kurs": 26033.8203125,
    "vortag": 26702.859375,
-   "veraenderung_pct": -2.069249664859163,
+   "veraenderung_pct": -2.505495958707604,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26430.890625,
     26424.820312,
     26702.859375,
-    26150.310547
+    26033.820312
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.922730028629303,
+   "kurs": 0.9222800135612488,
    "vortag": 0.9268400073051453,
-   "veraenderung_pct": -0.4434399295939251,
+   "veraenderung_pct": -0.49199362435324856,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92464,
     0.9272,
     0.92684,
-    0.92273
+    0.92228
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8256300091743469,
-   "vortag": 0.8268499970436096,
-   "veraenderung_pct": -0.1475464562647133,
-   "datum": "2026-10-21",
-   "ist_heute": false,
+   "kurs": 0.8217599987983704,
+   "vortag": 0.8256300091743469,
+   "veraenderung_pct": -0.46873421907794866,
+   "datum": "2026-10-22",
+   "ist_heute": true,
    "verlauf": [
-    0.8316,
     0.82775,
     0.82375,
     0.82685,
-    0.82563
+    0.82563,
+    0.82176
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4069.199951171875,
+   "kurs": 4050.39990234375,
    "vortag": 4150.0,
-   "veraenderung_pct": -1.9469891283885543,
+   "veraenderung_pct": -2.4000023531626558,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4160.100098,
     4142.600098,
     4150.0,
-    4069.199951
+    4050.399902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.38999938964844,
+   "kurs": 112.08000183105469,
    "vortag": 108.81999969482422,
-   "veraenderung_pct": 2.361697943421759,
+   "veraenderung_pct": 2.995774807363394,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     109.550003,
     108.790001,
     108.82,
-    111.389999
+    112.080002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81560.40625,
+   "kurs": 81109.40625,
    "vortag": 84011.96875,
-   "veraenderung_pct": -2.9181109983212994,
+   "veraenderung_pct": -3.4549392701858306,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81853.539062,
     82941.0,
     84011.96875,
-    81560.40625
+    81109.40625
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.994,
+   "wert": 4.967,
    "vortag": 5.146,
-   "veraenderung_bp": -15.2,
+   "veraenderung_bp": -17.9,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.136,
     5.117,
     5.146,
-    4.994
+    4.967
    ]
   }
  ],
@@ -374,33 +374,9 @@
   ],
   "artikel": [
    {
-    "titel": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
-    "link": "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
-    "zeit": "2026-10-22T16:04:43+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "California's Proposition 40: What voters need to know about billionaire wealth tax battle",
-    "link": "https://www.cnbc.com/2026/10/22/california-proposition-40-billionaire-tax-wealth.html",
-    "zeit": "2026-10-22T16:04:09+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "FIFA launches tender of 2030 men's World Cup U.S. media rights, plans to choose winner by end of year",
-    "link": "https://www.cnbc.com/2026/10/22/fifa-launches-tender-of-us-world-cup-media-rights-for-2030.html",
-    "zeit": "2026-10-22T15:52:16+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
-    "link": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html",
-    "zeit": "2026-10-22T15:52:00+00:00",
+    "titel": "Elon Musk reportedly invests about $1 billion in Skydance",
+    "link": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
+    "zeit": "2026-10-22T17:04:32+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -408,39 +384,55 @@
    {
     "titel": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
     "link": "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
-    "zeit": "2026-10-22T15:48:37+00:00",
+    "zeit": "2026-10-22T17:04:12+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Meta stock sinks 6% as AI spend pushes free cash flow negative",
-    "link": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
-    "zeit": "2026-10-22T15:45:57+00:00",
+    "titel": "FIFA launches tender of 2030 men's World Cup U.S. media rights, plans to choose winner by end of year",
+    "link": "https://www.cnbc.com/2026/10/22/fifa-launches-tender-of-us-world-cup-media-rights-for-2030.html",
+    "zeit": "2026-10-22T17:01:08+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "AI stocks tumble as the defensives rise. What it says about this uneasy market",
-    "link": "https://www.cnbc.com/investingclub/2026/10/22/ai-stocks-tumble-as-the-defensives-rise-what-it-says-about-this-uneasy-market.html",
-    "zeit": "2026-10-22T15:45:57+00:00",
+    "titel": "Judge orders Trump to sit for deposition in BBC defamation lawsuit by Dec. 11: Reports",
+    "link": "https://www.cnbc.com/2026/10/22/trump-deposition-bbc-defamation-lawsuit.html",
+    "zeit": "2026-10-22T16:59:00+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Brent crude tops $111 after Trump hints at action on Iran, U.S. orders staff to leave Saudi Arabia",
-    "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
-    "zeit": "2026-10-22T15:36:13+00:00",
+    "titel": "Luxusuhren-Manufaktur – Zenith will in Le Locle NE jede zweite Stelle streichen",
+    "link": "https://www.srf.ch/news/wirtschaft/luxusuhren-manufaktur-zenith-will-in-le-locle-ne-jede-zweite-stelle-streichen",
+    "zeit": "2026-10-22T16:56:45+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
+    "link": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
+    "zeit": "2026-10-22T16:54:26+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
-    "link": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
-    "zeit": "2026-10-22T15:35:55+00:00",
+    "titel": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
+    "link": "https://www.cnbc.com/2026/10/22/trump-world-liberty-crypto-lawsuit-uae.html",
+    "zeit": "2026-10-22T16:49:56+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Cruise lines chase luxury travelers with suites for up to $25,000 a night",
+    "link": "https://www.cnbc.com/2026/10/22/luxury-cruise-suites-regent-seven-seas.html",
+    "zeit": "2026-10-22T16:46:29+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -448,7 +440,23 @@
    {
     "titel": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
     "link": "https://www.cnbc.com/2026/10/22/lucas-trump-virginia-marijuana-racketeering.html",
-    "zeit": "2026-10-22T15:20:12+00:00",
+    "zeit": "2026-10-22T16:42:28+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
+    "link": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
+    "zeit": "2026-10-22T16:40:09+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Why governments pulled websites offline over the decades-old PHP programming language",
+    "link": "https://www.cnbc.com/2026/10/22/php2shell-vulnerability-what-is-it-and-is-your-data-at-risk.html",
+    "zeit": "2026-10-22T16:19:34+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -681,14 +689,6 @@
     "titel": "SpaceX und Tesla – Elon Musk: «Ich denke, eine Fusion wäre eine gute Idee»",
     "link": "https://www.srf.ch/news/wirtschaft/spacex-und-tesla-elon-musk-ich-denke-eine-fusion-waere-eine-gute-idee",
     "zeit": "2026-10-21T04:00:15+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Seilbahnen steigern Umsatz – Skigebiete mit Rekordergebnis – aber Tageskarten werden teurer",
-    "link": "https://www.srf.ch/news/wirtschaft/seilbahnen-steigern-umsatz-skigebiete-mit-rekordergebnis-aber-tageskarten-werden-teurer",
-    "zeit": "2026-10-20T18:28:45+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
