@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-22T07:08:03+02:00",
+ "aktualisiert": "2026-10-22T08:04:18+02:00",
  "kernaussagen": [
-  "SMI +0.51%, Nikkei 225 −2.10% am schwächsten",
+  "SMI +0.51%, Nikkei 225 −2.58% am schwächsten",
   "Franken stabil: EUR/CHF 0.9268 (−0.04%)",
-  "Brent über 100 USD: 110.90 (+1.91%)"
+  "Brent über 100 USD: 111.41 (+2.38%)"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 63262.44921875,
+   "kurs": 62956.94140625,
    "vortag": 64621.23828125,
-   "veraenderung_pct": -2.1026973463216025,
+   "veraenderung_pct": -2.575464227034008,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     64916.699219,
     64075.421875,
     64621.238281,
-    63262.449219
+    62956.941406
    ]
   }
  ],
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8228099942207336,
+   "kurs": 0.8212599754333496,
    "vortag": 0.8256300091743469,
-   "veraenderung_pct": -0.3415591635814397,
+   "veraenderung_pct": -0.5292968632968464,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82375,
     0.82685,
     0.82563,
-    0.82281
+    0.82126
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4107.89990234375,
+   "kurs": 4089.300048828125,
    "vortag": 4150.0,
-   "veraenderung_pct": -1.014460184487953,
+   "veraenderung_pct": -1.4626494258283107,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4160.100098,
     4142.600098,
     4150.0,
-    4107.899902
+    4089.300049
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.9000015258789,
+   "kurs": 111.41000366210938,
    "vortag": 108.81999969482422,
-   "veraenderung_pct": 1.911415031141206,
+   "veraenderung_pct": 2.3800808440990417,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     109.550003,
     108.790001,
     108.82,
-    110.900002
+    111.410004
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82750.0,
+   "kurs": 82728.03125,
    "vortag": 82941.0,
-   "veraenderung_pct": -0.23028417790960098,
+   "veraenderung_pct": -0.2567713796554183,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82017.601562,
     81853.539062,
     82941.0,
-    82750.0
+    82728.03125
    ]
   }
  ],
@@ -296,19 +296,7 @@
    "symbol": "NOVN.SW",
    "einheit": "CHF",
    "dezimalen": 2,
-   "verfuegbar": true,
-   "kurs": 126.87999725341797,
-   "vortag": 126.5,
-   "veraenderung_pct": 0.30039308570590784,
-   "datum": "2026-10-21",
-   "ist_heute": false,
-   "verlauf": [
-    125.900002,
-    124.699997,
-    124.199997,
-    126.5,
-    126.879997
-   ]
+   "verfuegbar": false
   },
   {
    "name": "Roche GS",
@@ -374,6 +362,30 @@
   ],
   "artikel": [
    {
+    "titel": "Sicherheitslücke bei PHP – Private Server-Betreiber sollten jetzt rasch handeln",
+    "link": "https://www.srf.ch/news/wirtschaft/sicherheitsluecke-bei-php-private-server-betreiber-sollten-jetzt-rasch-handeln",
+    "zeit": "2026-10-22T06:00:07+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Nestlé überrascht mit starkem Wachstum",
+    "link": "https://www.nzz.ch/wirtschaft/nestle-ueberrascht-mit-starkem-wachstum-ld.10041032",
+    "zeit": "2026-10-22T05:28:56+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
+    "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
+    "zeit": "2026-10-22T05:18:24+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms",
     "link": "https://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html",
     "zeit": "2026-10-22T04:35:54+00:00",
@@ -388,6 +400,14 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Valiant präsentiert interne Nachfolge für CEO-Posten",
+    "link": "https://www.finews.ch/news/banken/74107-valiant-ceo-kathrin-wehrli",
+    "zeit": "2026-10-22T03:56:39+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Vom Swissair-Sündenbock zum heimlichen Helden – Mario Corti zum 80. Geburtstag",
@@ -502,14 +522,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Tesla beats on earnings and sales even as auto revenue declines",
-    "link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
-    "zeit": "2026-10-21T23:32:04+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Bundesstaat New Mexico – US-Richter verhängt Milliardenstrafe für Meta",
     "link": "https://www.srf.ch/news/wirtschaft/bundesstaat-new-mexico-us-richter-verhaengt-milliardenstrafe-fuer-meta",
     "zeit": "2026-10-21T17:58:03+00:00",
@@ -550,18 +562,18 @@
     "sprache": "de"
    },
    {
-    "titel": "Die Milliardärsfamilie Ambani schafft mit ihrem Telekomriesen Jio den grössten Börsengang Indiens",
-    "link": "https://www.nzz.ch/wirtschaft/die-milliardaersfamilie-ambani-schafft-mit-ihrem-telekomriesen-jio-den-groessten-boersengang-indiens-ld.10039972",
-    "zeit": "2026-10-21T12:44:23+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Beliebtester Streamingdienst – Bei Netflix läuft nicht mehr alles rund",
     "link": "https://www.srf.ch/news/wirtschaft/beliebtester-streamingdienst-bei-netflix-laeuft-nicht-mehr-alles-rund",
     "zeit": "2026-10-21T12:29:55+00:00",
     "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Nachhaltige Fixed-Income-Boutique verstärkt sich personell",
+    "link": "https://www.finews.ch/news/finanzplatz/74106-esgam-christian-zoss-businessdevelopment-nachhaltigkeit-fixedincome-avadis",
+    "zeit": "2026-10-21T12:11:42+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -577,6 +589,14 @@
     "titel": "Christian Gattiker: «Es nimmt Dimensionen an, die schwindelerregend sind»",
     "link": "https://www.finews.ch/news/banken/74101-christian-gattiker-julius-baer-ai-investment-boom-europe-switzerland",
     "zeit": "2026-10-21T08:49:42+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Wettbewerbsfähigkeit: Bundesrat klopft sich auf die Schulter",
+    "link": "https://www.finews.ch/news/finanzplatz/74098-wettbewerbsfaehigkeit-massnahmenpaket-zwischenbilanz-bundesrat-mindestbesteuerung-kurzarbeit",
+    "zeit": "2026-10-21T08:00:05+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
@@ -646,30 +666,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Nachfolge: Reiche Unternehmerfamilien sind kaum vorbereitet",
-    "link": "https://www.finews.ch/news/banken/74073-nachfolgeplanung-herausforderungen-fuer-sehr-vermoegende-familien-family-barometer-2026-von-julius-baer-2-3-prozent-der-unternehmerfamilien-umfassend-vorbereitet-hindernis-mangelnde-einigkeit-innerhalb-der-familie",
-    "zeit": "2026-10-20T08:58:56+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "AXA Schweiz ernennt neuen Chief Investment Officer",
-    "link": "https://www.finews.ch/news/versicherungen/74072-axa-schweiz-cio",
-    "zeit": "2026-10-20T07:43:32+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Nach Berenberg: Franck Sabbah setzt auf Asset Management Boutiquen",
-    "link": "https://www.finews.ch/news/finanzplatz/74070-franck-sabbah-solid-3-berenberg-vertrieb-asset-management-schweiz",
-    "zeit": "2026-10-20T07:11:11+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Verschärfung geplant – Heimatschutz für Schweizer Immobilien: Streit um Lex Koller",
     "link": "https://www.srf.ch/news/wirtschaft/verschaerfung-geplant-heimatschutz-fuer-schweizer-immobilien-streit-um-lex-koller",
     "zeit": "2026-10-20T04:42:31+00:00",
@@ -681,14 +677,6 @@
     "titel": "Entscheid des Verwaltungsrats – Lindt-Chef Lechner muss per sofort gehen",
     "link": "https://www.srf.ch/news/wirtschaft/entscheid-des-verwaltungsrats-lindt-chef-lechner-muss-per-sofort-gehen",
     "zeit": "2026-10-19T06:27:42+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Switcher-Mode – Wie nachhaltig kann Mode sein?",
-    "link": "https://www.srf.ch/news/wirtschaft/switcher-mode-wie-nachhaltig-kann-mode-sein",
-    "zeit": "2026-10-18T17:45:37+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
