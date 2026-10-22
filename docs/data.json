@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-22T13:06:35+02:00",
+ "aktualisiert": "2026-10-22T14:04:45+02:00",
  "kernaussagen": [
-  "SMI −0.43%, Nikkei 225 −2.65% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9203 (−0.71%)",
-  "Brent über 100 USD: 111.95 (+2.88%)"
+  "SMI −0.23%, Nikkei 225 −2.65% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9207 (−0.66%)",
+  "Brent über 100 USD: 112.03 (+2.95%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14490.4296875,
+   "kurs": 14519.169921875,
    "vortag": 14552.3896484375,
-   "veraenderung_pct": -0.4257717284539053,
+   "veraenderung_pct": -0.22827678041226207,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14368.780273,
     14478.370117,
     14552.389648,
-    14490.429688
+    14519.169922
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25427.189453125,
+   "kurs": 25432.359375,
    "vortag": 25645.0390625,
-   "veraenderung_pct": -0.8494805129525274,
+   "veraenderung_pct": -0.8293209730805051,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25319.769531,
     25304.419922,
     25645.039062,
-    25427.189453
+    25432.359375
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6114.89013671875,
+   "kurs": 6117.85009765625,
    "vortag": 6207.52001953125,
-   "veraenderung_pct": -1.4922204442523013,
+   "veraenderung_pct": -1.4445369743933734,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6144.810059,
     6121.660156,
     6207.52002,
-    6114.890137
+    6117.850098
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9202799797058105,
+   "kurs": 0.920740008354187,
    "vortag": 0.9268400073051453,
-   "veraenderung_pct": -0.7077842505319176,
+   "veraenderung_pct": -0.6581501556772951,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92464,
     0.9272,
     0.92684,
-    0.92028
+    0.92074
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8210899829864502,
+   "kurs": 0.8221200108528137,
    "vortag": 0.8256300091743469,
-   "veraenderung_pct": -0.5498862853152486,
+   "veraenderung_pct": -0.42512969278373225,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82375,
     0.82685,
     0.82563,
-    0.82109
+    0.82212
    ]
   },
   {
@@ -165,19 +165,7 @@
    "symbol": "GC=F",
    "einheit": "USD/Unze",
    "dezimalen": 2,
-   "verfuegbar": true,
-   "kurs": 4097.5,
-   "vortag": 4150.0,
-   "veraenderung_pct": -1.2650602409638556,
-   "datum": "2026-10-22",
-   "ist_heute": true,
-   "verlauf": [
-    4181.100098,
-    4160.100098,
-    4142.600098,
-    4150.0,
-    4097.5
-   ]
+   "verfuegbar": false
   },
   {
    "name": "Brent-Öl",
@@ -185,9 +173,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.94999694824219,
+   "kurs": 112.02999877929688,
    "vortag": 108.81999969482422,
-   "veraenderung_pct": 2.8763069860280766,
+   "veraenderung_pct": 2.949824566692527,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +183,7 @@
     109.550003,
     108.790001,
     108.82,
-    111.949997
+    112.029999
    ]
   },
   {
@@ -204,9 +192,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81864.0,
+   "kurs": 81635.3671875,
    "vortag": 84011.96875,
-   "veraenderung_pct": -2.5567413571652597,
+   "veraenderung_pct": -2.8288845004599383,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +202,7 @@
     81853.539062,
     82941.0,
     84011.96875,
-    81864.0
+    81635.367188
    ]
   }
  ],
@@ -278,9 +266,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 84.5199966430664,
+   "kurs": 84.55000305175781,
    "vortag": 83.47000122070312,
-   "veraenderung_pct": 1.2579314807807274,
+   "veraenderung_pct": 1.2938802147600903,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +276,7 @@
     82.550003,
     83.110001,
     83.470001,
-    84.519997
+    84.550003
    ]
   },
   {
@@ -297,9 +285,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 127.80000305175781,
+   "kurs": 127.83999633789062,
    "vortag": 126.87999725341797,
-   "veraenderung_pct": 0.7250991631898573,
+   "veraenderung_pct": 0.7566197235607142,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +295,7 @@
     124.199997,
     126.5,
     126.879997,
-    127.800003
+    127.839996
    ]
   },
   {
@@ -316,9 +304,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 385.79998779296875,
+   "kurs": 388.3999938964844,
    "vortag": 392.0,
-   "veraenderung_pct": -1.5816357670998094,
+   "veraenderung_pct": -0.9183689039580667,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +314,7 @@
     380.100006,
     389.899994,
     392.0,
-    385.799988
+    388.399994
    ]
   },
   {
@@ -334,19 +322,7 @@
    "symbol": "UBSG.SW",
    "einheit": "CHF",
    "dezimalen": 2,
-   "verfuegbar": true,
-   "kurs": 38.66999816894531,
-   "vortag": 39.540000915527344,
-   "veraenderung_pct": -2.2003103855275374,
-   "datum": "2026-10-22",
-   "ist_heute": true,
-   "verlauf": [
-    39.630001,
-    39.080002,
-    39.099998,
-    39.540001,
-    38.669998
-   ]
+   "verfuegbar": false
   }
  ],
  "news": {
@@ -374,9 +350,65 @@
   ],
   "artikel": [
    {
+    "titel": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+    "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+    "zeit": "2026-10-22T12:03:40+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Procter & Gamble earnings beat as sales rise 4%, boosted by laundry and home products",
+    "link": "https://www.cnbc.com/2026/10/22/procter-gamble-pg-q1-2027-earnings.html",
+    "zeit": "2026-10-22T12:01:13+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "American Airlines forecasts bigger loss in 2026 on fuel spike, plans to slow growth next year",
+    "link": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html",
+    "zeit": "2026-10-22T11:56:43+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Comcast beats earnings expectations as media revenue offsets weakness in connectivity",
+    "link": "https://www.cnbc.com/2026/10/22/comcast-cmcsa-earnings-q3-2026.html",
+    "zeit": "2026-10-22T11:42:26+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Barclays to slash 5,000 jobs in AI efficiency push",
+    "link": "https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html",
+    "zeit": "2026-10-22T11:38:05+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Kosmetik gegen Magergesicht – Ozempic-Face bringt Galderma Milliarden",
+    "link": "https://www.srf.ch/news/wirtschaft/kosmetik-gegen-magergesicht-ozempic-face-bringt-galderma-milliarden",
+    "zeit": "2026-10-22T11:32:49+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "David's Bridal plans to spin off AI platform Pearl into publicly traded company",
     "link": "https://www.cnbc.com/2026/10/22/davids-bridal-pearl-ai-spinoff.html",
-    "zeit": "2026-10-22T11:00:02+00:00",
+    "zeit": "2026-10-22T11:32:08+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "France protests: Macron condemns 'stupid' comments from Trump, others as bond-market pressure builds",
+    "link": "https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html",
+    "zeit": "2026-10-22T11:21:02+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -414,36 +446,12 @@
     "sprache": "en"
    },
    {
-    "titel": "New bipartisan bill aims to speed up clinical trials for rare disease treatments",
-    "link": "https://www.cnbc.com/2026/10/22/bipartisan-bill-aims-to-speed-up-trials-for-rare-disease-treatments.html",
-    "zeit": "2026-10-22T10:30:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trump’s tariffs loom over Maine Senate race between Collins and Jackson",
-    "link": "https://www.cnbc.com/2026/10/22/maine-senate-election-trump-tariffs.html",
-    "zeit": "2026-10-22T10:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "MELDUNGEN WIRTSCHAFT - Just Eat stellt Geschäftsmodell um und baut Stellen ab +++ Grossbank Barclays streicht nach KI-Investitionen 5000 Stellen",
     "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
     "zeit": "2026-10-22T09:36:32+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "World's largest wealth fund posts $30 billion loss after bond market turbulence",
-    "link": "https://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html",
-    "zeit": "2026-10-22T09:25:09+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Ein amerikanisches Kriegsschiff verärgert China – für die Philippinen ist die Fahrt ein Zeichen der Unterstützung",
@@ -492,22 +500,6 @@
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms",
-    "link": "https://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html",
-    "zeit": "2026-10-22T04:35:54+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout",
-    "link": "https://www.cnbc.com/2026/10/22/chinas-stock-market-csi-300-bear-market.html",
-    "zeit": "2026-10-22T04:02:18+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Valiant präsentiert interne Nachfolge für CEO-Posten",
@@ -564,14 +556,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Sovereign wealth funds' China and Hong Kong investments surge 190% after a bruising slump",
-    "link": "https://www.cnbc.com/2026/10/22/sovereign-wealth-funds-china-hong-kong.html",
-    "zeit": "2026-10-22T02:20:50+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Elektroautos boomen weltweit, aber Tesla tritt auf der Stelle",
@@ -681,14 +665,6 @@
     "titel": "Seilbahnen steigern Umsatz – Skigebiete mit Rekordergebnis – aber Tageskarten werden teurer",
     "link": "https://www.srf.ch/news/wirtschaft/seilbahnen-steigern-umsatz-skigebiete-mit-rekordergebnis-aber-tageskarten-werden-teurer",
     "zeit": "2026-10-20T18:28:45+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Verschärfung geplant – Heimatschutz für Schweizer Immobilien: Streit um Lex Koller",
-    "link": "https://www.srf.ch/news/wirtschaft/verschaerfung-geplant-heimatschutz-fuer-schweizer-immobilien-streit-um-lex-koller",
-    "zeit": "2026-10-20T04:42:31+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
