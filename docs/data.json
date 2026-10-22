@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-22T09:44:22+02:00",
+ "aktualisiert": "2026-10-22T10:37:21+02:00",
  "kernaussagen": [
-  "SMI −0.26%, Nikkei 225 −2.65% am schwächsten",
-  "Franken stabil: EUR/CHF 0.9268 (−0.04%)",
-  "Brent über 100 USD: 111.76 (+2.70%)"
+  "SMI −0.43%, Nikkei 225 −2.65% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9223 (−0.49%)",
+  "Brent über 100 USD: 111.98 (+2.90%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14514.25,
+   "kurs": 14489.650390625,
    "vortag": 14552.3896484375,
-   "veraenderung_pct": -0.2620851238792632,
+   "veraenderung_pct": -0.4311268412142577,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14368.780273,
     14478.370117,
     14552.389648,
-    14514.25
+    14489.650391
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25429.060546875,
+   "kurs": 25384.439453125,
    "vortag": 25645.0390625,
-   "veraenderung_pct": -0.8421843893418712,
+   "veraenderung_pct": -1.0161794206664632,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25319.769531,
     25304.419922,
     25645.039062,
-    25429.060547
+    25384.439453
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6121.83984375,
+   "kurs": 6106.97021484375,
    "vortag": 6207.52001953125,
-   "veraenderung_pct": -1.3802641878184363,
+   "veraenderung_pct": -1.619806369872856,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6144.810059,
     6121.660156,
     6207.52002,
-    6121.839844
+    6106.970215
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9268400073051453,
-   "vortag": 0.9272000193595886,
-   "veraenderung_pct": -0.03882787391354947,
-   "datum": "2026-10-21",
-   "ist_heute": false,
+   "kurs": 0.9223200082778931,
+   "vortag": 0.9268400073051453,
+   "veraenderung_pct": -0.48767845492496686,
+   "datum": "2026-10-22",
+   "ist_heute": true,
    "verlauf": [
-    0.93096,
     0.92813,
     0.92464,
     0.9272,
-    0.92684
+    0.92684,
+    0.92232
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8209699988365173,
+   "kurs": 0.8206700086593628,
    "vortag": 0.8256300091743469,
-   "veraenderung_pct": -0.5644187209825069,
+   "veraenderung_pct": -0.6007534197968734,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82375,
     0.82685,
     0.82563,
-    0.82097
+    0.82067
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4106.60009765625,
+   "kurs": 4109.7001953125,
    "vortag": 4150.0,
-   "veraenderung_pct": -1.0457807793674667,
+   "veraenderung_pct": -0.9710796310240966,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4160.100098,
     4142.600098,
     4150.0,
-    4106.600098
+    4109.700195
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.76000213623047,
+   "kurs": 111.9800033569336,
    "vortag": 108.81999969482422,
-   "veraenderung_pct": 2.7017114957279986,
+   "veraenderung_pct": 2.903881337044023,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     109.550003,
     108.790001,
     108.82,
-    111.760002
+    111.980003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82183.09375,
+   "kurs": 81817.53125,
    "vortag": 84011.96875,
-   "veraenderung_pct": -2.1769219638719584,
+   "veraenderung_pct": -2.612053416496085,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81853.539062,
     82941.0,
     84011.96875,
-    82183.09375
+    81817.53125
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 85.19000244140625,
+   "kurs": 84.45999908447266,
    "vortag": 83.11000061035156,
-   "veraenderung_pct": 2.5027094402350736,
+   "veraenderung_pct": 1.6243514188507335,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     82.43,
     82.550003,
     83.110001,
-    85.190002
+    84.459999
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 127.08000183105469,
+   "kurs": 127.16000366210938,
    "vortag": 126.87999725341797,
-   "veraenderung_pct": 0.1576328672495464,
+   "veraenderung_pct": 0.22068601414937383,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     124.199997,
     126.5,
     126.879997,
-    127.080002
+    127.160004
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 386.8999938964844,
+   "kurs": 388.20001220703125,
    "vortag": 389.8999938964844,
-   "veraenderung_pct": -0.7694280705212053,
+   "veraenderung_pct": -0.4360045437457605,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     379.200012,
     380.100006,
     389.899994,
-    386.899994
+    388.200012
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.90999984741211,
+   "kurs": 38.77000045776367,
    "vortag": 39.540000915527344,
-   "veraenderung_pct": -1.5933258814564977,
+   "veraenderung_pct": -1.947396155626524,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.080002,
     39.099998,
     39.540001,
-    38.91
+    38.77
    ]
   }
  ],
@@ -374,18 +374,34 @@
   ],
   "artikel": [
    {
-    "titel": "Barclays to slash 5,000 jobs in AI efficiency push",
-    "link": "https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html",
-    "zeit": "2026-10-22T07:41:09+00:00",
+    "titel": "World's largest wealth fund posts $30 billion loss after bond market turbulence",
+    "link": "https://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html",
+    "zeit": "2026-10-22T08:32:04+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Nestlé überrascht mit starkem Wachstum",
+    "titel": "Barclays to slash 5,000 jobs in AI efficiency push",
+    "link": "https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html",
+    "zeit": "2026-10-22T08:17:07+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Nestlé überrascht mit starkem Wachstum – es ist ein wichtiger Zwischenerfolg für CEO Navratil",
     "link": "https://www.nzz.ch/wirtschaft/nestle-ueberrascht-mit-starkem-wachstum-ld.10041032",
-    "zeit": "2026-10-22T07:11:27+00:00",
+    "zeit": "2026-10-22T08:16:10+00:00",
     "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Klaus Wellershoff gründet mit ETH-Studenten KI-Startup",
+    "link": "https://www.finews.ch/news/finanzplatz/74116-klaus-wellershoff-ryan-fuchs-boris-kantor-turiq-startup-ki-plattform-investmentkommunikation-hackathon",
+    "zeit": "2026-10-22T06:01:10+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -526,14 +542,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Inside India newsletter: Asia’s hottest data center market aims to quell concerns over water and power use",
-    "link": "https://www.cnbc.com/2026/10/22/india-data-center-google-amazon.html",
-    "zeit": "2026-10-22T00:07:48+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Bundesstaat New Mexico – US-Richter verhängt Milliardenstrafe für Meta",
     "link": "https://www.srf.ch/news/wirtschaft/bundesstaat-new-mexico-us-richter-verhaengt-milliardenstrafe-fuer-meta",
     "zeit": "2026-10-21T17:58:03+00:00",
@@ -665,14 +673,6 @@
     "titel": "Commerzbank-Übernahme: Bafin büsst UniCredit-Partner",
     "link": "https://www.finews.ch/news/banken/74079-commerzbank-unicredit-nomura-stimmrechtsmeldungen-deutsche-finanzaufsicht-busse-320000-euro",
     "zeit": "2026-10-20T10:46:37+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Google-Cloud-Störung trifft Revolut und britische Banken",
-    "link": "https://www.finews.ch/news/banken/74077-google-cloud-outage-revolut-uk-banks",
-    "zeit": "2026-10-20T10:11:14+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
