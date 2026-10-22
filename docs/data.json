@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-22T08:04:18+02:00",
+ "aktualisiert": "2026-10-22T08:43:10+02:00",
  "kernaussagen": [
-  "SMI +0.51%, Nikkei 225 −2.58% am schwächsten",
-  "Franken stabil: EUR/CHF 0.9268 (−0.04%)",
-  "Brent über 100 USD: 111.41 (+2.38%)"
+  "SMI +0.51%, Nikkei 225 −2.29% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9229 (−0.42%)",
+  "Brent über 100 USD: 111.66 (+2.61%)"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 62956.94140625,
+   "kurs": 63139.58984375,
    "vortag": 64621.23828125,
-   "veraenderung_pct": -2.575464227034008,
+   "veraenderung_pct": -2.292819631606946,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     64916.699219,
     64075.421875,
     64621.238281,
-    62956.941406
+    63139.589844
    ]
   }
  ],
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9268400073051453,
-   "vortag": 0.9272000193595886,
-   "veraenderung_pct": -0.03882787391354947,
-   "datum": "2026-10-21",
-   "ist_heute": false,
+   "kurs": 0.9229099750518799,
+   "vortag": 0.9268400073051453,
+   "veraenderung_pct": -0.4240248826431481,
+   "datum": "2026-10-22",
+   "ist_heute": true,
    "verlauf": [
-    0.93096,
     0.92813,
     0.92464,
     0.9272,
-    0.92684
+    0.92684,
+    0.92291
    ]
   },
   {
@@ -146,19 +146,7 @@
    "symbol": "CHF=X",
    "einheit": "",
    "dezimalen": 4,
-   "verfuegbar": true,
-   "kurs": 0.8212599754333496,
-   "vortag": 0.8256300091743469,
-   "veraenderung_pct": -0.5292968632968464,
-   "datum": "2026-10-22",
-   "ist_heute": true,
-   "verlauf": [
-    0.82775,
-    0.82375,
-    0.82685,
-    0.82563,
-    0.82126
-   ]
+   "verfuegbar": false
   },
   {
    "name": "Gold",
@@ -166,9 +154,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4089.300048828125,
+   "kurs": 4107.7998046875,
    "vortag": 4150.0,
-   "veraenderung_pct": -1.4626494258283107,
+   "veraenderung_pct": -1.0168721762048194,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +164,7 @@
     4160.100098,
     4142.600098,
     4150.0,
-    4089.300049
+    4107.799805
    ]
   },
   {
@@ -185,9 +173,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.41000366210938,
+   "kurs": 111.66000366210938,
    "vortag": 108.81999969482422,
-   "veraenderung_pct": 2.3800808440990417,
+   "veraenderung_pct": 2.60981802540865,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +183,7 @@
     109.550003,
     108.790001,
     108.82,
-    111.410004
+    111.660004
    ]
   },
   {
@@ -204,9 +192,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 82728.03125,
+   "kurs": 82445.890625,
    "vortag": 82941.0,
-   "veraenderung_pct": -0.2567713796554183,
+   "veraenderung_pct": -0.5969416512942916,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +202,7 @@
     82017.601562,
     81853.539062,
     82941.0,
-    82728.03125
+    82445.890625
    ]
   }
  ],
@@ -223,17 +211,17 @@
    "name": "Schweiz",
    "quelle": "snb",
    "verfuegbar": true,
-   "wert": 0.539,
-   "vortag": 0.577,
-   "veraenderung_bp": -3.8,
-   "datum": "2026-10-20",
+   "wert": 0.553,
+   "vortag": 0.539,
+   "veraenderung_bp": 1.4,
+   "datum": "2026-10-21",
    "ist_heute": false,
    "verlauf": [
-    0.568,
     0.53,
     0.572,
     0.577,
-    0.539
+    0.539,
+    0.553
    ]
   },
   {
@@ -296,7 +284,19 @@
    "symbol": "NOVN.SW",
    "einheit": "CHF",
    "dezimalen": 2,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 126.87999725341797,
+   "vortag": 126.5,
+   "veraenderung_pct": 0.30039308570590784,
+   "datum": "2026-10-21",
+   "ist_heute": false,
+   "verlauf": [
+    125.900002,
+    124.699997,
+    124.199997,
+    126.5,
+    126.879997
+   ]
   },
   {
    "name": "Roche GS",
