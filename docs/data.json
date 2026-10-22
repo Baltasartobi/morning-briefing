@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-22T19:06:18+02:00",
+ "aktualisiert": "2026-10-22T19:59:52+02:00",
  "kernaussagen": [
-  "SMI −0.03%, Nasdaq −2.51% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9223 (−0.49%)",
-  "Bitcoin −3.45% auf 81'109 USD · Brent über 100 USD"
+  "SMI −0.03%, Nasdaq −2.59% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9217 (−0.55%)",
+  "Brent über 100 USD: 113.03 (+3.87%)"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7651.990234375,
+   "kurs": 7652.85986328125,
    "vortag": 7757.169921875,
-   "veraenderung_pct": -1.3559028429091957,
+   "veraenderung_pct": -1.3446921963072955,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7690.72998,
     7712.569824,
     7757.169922,
-    7651.990234
+    7652.859863
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26033.8203125,
+   "kurs": 26011.107421875,
    "vortag": 26702.859375,
-   "veraenderung_pct": -2.505495958707604,
+   "veraenderung_pct": -2.590553855714184,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26430.890625,
     26424.820312,
     26702.859375,
-    26033.820312
+    26011.107422
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9222800135612488,
+   "kurs": 0.9217299818992615,
    "vortag": 0.9268400073051453,
-   "veraenderung_pct": -0.49199362435324856,
+   "veraenderung_pct": -0.5513384581597336,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92464,
     0.9272,
     0.92684,
-    0.92228
+    0.92173
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8217599987983704,
+   "kurs": 0.8212100267410278,
    "vortag": 0.8256300091743469,
-   "veraenderung_pct": -0.46873421907794866,
+   "veraenderung_pct": -0.5353466303555487,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82375,
     0.82685,
     0.82563,
-    0.82176
+    0.82121
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4050.39990234375,
+   "kurs": 4061.300048828125,
    "vortag": 4150.0,
-   "veraenderung_pct": -2.4000023531626558,
+   "veraenderung_pct": -2.137348221009039,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4160.100098,
     4142.600098,
     4150.0,
-    4050.399902
+    4061.300049
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 112.08000183105469,
+   "kurs": 113.02999877929688,
    "vortag": 108.81999969482422,
-   "veraenderung_pct": 2.995774807363394,
+   "veraenderung_pct": 3.868773291930916,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     109.550003,
     108.790001,
     108.82,
-    112.080002
+    113.029999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81109.40625,
+   "kurs": 81104.65625,
    "vortag": 84011.96875,
-   "veraenderung_pct": -3.4549392701858306,
+   "veraenderung_pct": -3.460593226485953,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81853.539062,
     82941.0,
     84011.96875,
-    81109.40625
+    81104.65625
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.967,
+   "wert": 4.965,
    "vortag": 5.146,
-   "veraenderung_bp": -17.9,
+   "veraenderung_bp": -18.1,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.136,
     5.117,
     5.146,
-    4.967
+    4.965
    ]
   }
  ],
@@ -374,9 +374,9 @@
   ],
   "artikel": [
    {
-    "titel": "Elon Musk reportedly invests about $1 billion in Skydance",
-    "link": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
-    "zeit": "2026-10-22T17:04:32+00:00",
+    "titel": "Brent crude tops $113 after Trump hints at action on Iran, U.S. orders staff to leave Saudi Arabia",
+    "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
+    "zeit": "2026-10-22T17:56:11+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,7 +384,63 @@
    {
     "titel": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
     "link": "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
-    "zeit": "2026-10-22T17:04:12+00:00",
+    "zeit": "2026-10-22T17:53:08+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
+    "link": "https://www.cnbc.com/2026/10/22/trump-world-liberty-crypto-lawsuit-uae.html",
+    "zeit": "2026-10-22T17:49:53+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Kantone, Spitäler, KMU: In der Schweiz waren Tausende Websites von der gefährlichen Sicherheitslücke betroffen",
+    "link": "https://www.nzz.ch/wirtschaft/php-sicherheitsluecke-legt-schweizer-websites-lahm-ld.10041701",
+    "zeit": "2026-10-22T17:48:52+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Meta stock sinks 6% as AI spend pushes free cash flow negative",
+    "link": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
+    "zeit": "2026-10-22T17:48:43+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Elon Musk invests about $1 billion in Skydance",
+    "link": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
+    "zeit": "2026-10-22T17:42:58+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
+    "link": "https://www.cnbc.com/2026/10/22/lucas-trump-virginia-marijuana-racketeering.html",
+    "zeit": "2026-10-22T17:39:03+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
+    "link": "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
+    "zeit": "2026-10-22T17:37:47+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "We're dipping back into the AI trade with our first data center buy in weeks",
+    "link": "https://www.cnbc.com/investingclub/2026/10/22/were-dipping-back-into-the-data-center-trade-with-small-buy.html",
+    "zeit": "2026-10-22T17:28:19+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -412,54 +468,6 @@
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
-    "link": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
-    "zeit": "2026-10-22T16:54:26+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
-    "link": "https://www.cnbc.com/2026/10/22/trump-world-liberty-crypto-lawsuit-uae.html",
-    "zeit": "2026-10-22T16:49:56+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Cruise lines chase luxury travelers with suites for up to $25,000 a night",
-    "link": "https://www.cnbc.com/2026/10/22/luxury-cruise-suites-regent-seven-seas.html",
-    "zeit": "2026-10-22T16:46:29+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
-    "link": "https://www.cnbc.com/2026/10/22/lucas-trump-virginia-marijuana-racketeering.html",
-    "zeit": "2026-10-22T16:42:28+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
-    "link": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
-    "zeit": "2026-10-22T16:40:09+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Why governments pulled websites offline over the decades-old PHP programming language",
-    "link": "https://www.cnbc.com/2026/10/22/php2shell-vulnerability-what-is-it-and-is-your-data-at-risk.html",
-    "zeit": "2026-10-22T16:19:34+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Die Wohnungsknappheit treibt die Menschen aus den grossen Städten. Doch wie lange noch?",
@@ -592,14 +600,6 @@
    {
     "titel": "INTERVIEW - Open-Claw-Gründer: «Ich habe den Leuten gezeigt, was mit KI möglich ist»",
     "link": "https://www.nzz.ch/technologie/open-claw-gruender-ich-habe-den-leuten-gezeigt-was-mit-ki-moeglich-ist-ld.10035408",
-    "zeit": "2026-10-22T03:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Die Amerikaner können sich ihren Hamburger kaum noch leisten",
-    "link": "https://www.nzz.ch/international/trump-hat-beef-mit-den-cowboys-rindfleisch-krise-im-amerikanischen-westen-ld.10028623",
     "zeit": "2026-10-22T03:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
