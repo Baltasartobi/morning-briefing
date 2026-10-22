@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-22T16:34:33+02:00",
+ "aktualisiert": "2026-10-22T17:11:52+02:00",
  "kernaussagen": [
-  "SMI +0.23%, Nikkei 225 −2.65% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9221 (−0.52%)",
-  "Bitcoin −2.89% auf 81'583 USD · Brent über 100 USD"
+  "SMI +0.09%, Nasdaq −2.34% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9220 (−0.52%)",
+  "Bitcoin −3.08% auf 81'422 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14586.51953125,
+   "kurs": 14565.080078125,
    "vortag": 14552.3896484375,
-   "veraenderung_pct": 0.23453112263362996,
+   "veraenderung_pct": 0.08720512571529504,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14368.780273,
     14478.370117,
     14552.389648,
-    14586.519531
+    14565.080078
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25490.41015625,
+   "kurs": 25415.919921875,
    "vortag": 25645.0390625,
-   "veraenderung_pct": -0.6029583572602526,
+   "veraenderung_pct": -0.8934248065156414,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25319.769531,
     25304.419922,
     25645.039062,
-    25490.410156
+    25415.919922
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6120.5498046875,
+   "kurs": 6095.41015625,
    "vortag": 6207.52001953125,
-   "veraenderung_pct": -1.4010460630027533,
+   "veraenderung_pct": -1.8060330523060553,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6144.810059,
     6121.660156,
     6207.52002,
-    6120.549805
+    6095.410156
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7650.2001953125,
+   "kurs": 7653.18017578125,
    "vortag": 7757.169921875,
-   "veraenderung_pct": -1.3789787724109104,
+   "veraenderung_pct": -1.3405629519665618,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7690.72998,
     7712.569824,
     7757.169922,
-    7650.200195
+    7653.180176
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26119.517578125,
+   "kurs": 26078.88671875,
    "vortag": 26702.859375,
-   "veraenderung_pct": -2.1845667862114504,
+   "veraenderung_pct": -2.3367259943486873,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26430.890625,
     26424.820312,
     26702.859375,
-    26119.517578
+    26078.886719
    ]
   },
   {
@@ -107,17 +107,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 62907.83984375,
-   "vortag": 64621.23828125,
-   "veraenderung_pct": -2.6514478568838373,
-   "datum": "2026-10-22",
-   "ist_heute": true,
+   "kurs": 64621.23828125,
+   "vortag": 64075.421875,
+   "veraenderung_pct": 0.8518342763544906,
+   "datum": "2026-10-21",
+   "ist_heute": false,
    "verlauf": [
+    64425.949219,
     65324.289062,
     64916.699219,
     64075.421875,
-    64621.238281,
-    62907.839844
+    64621.238281
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9220600128173828,
+   "kurs": 0.921999990940094,
    "vortag": 0.9268400073051453,
-   "veraenderung_pct": -0.5157302716852552,
+   "veraenderung_pct": -0.5222062413041462,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92464,
     0.9272,
     0.92684,
-    0.92206
+    0.922
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8239200115203857,
+   "kurs": 0.8228399753570557,
    "vortag": 0.8256300091743469,
-   "veraenderung_pct": -0.20711428060509185,
+   "veraenderung_pct": -0.33792785948772996,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82375,
     0.82685,
     0.82563,
-    0.82392
+    0.82284
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4063.800048828125,
+   "kurs": 4076.39990234375,
    "vortag": 4150.0,
-   "veraenderung_pct": -2.0771072571536098,
+   "veraenderung_pct": -1.7734963290662598,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4160.100098,
     4142.600098,
     4150.0,
-    4063.800049
+    4076.399902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.66000366210938,
+   "kurs": 111.68000030517578,
    "vortag": 108.81999969482422,
-   "veraenderung_pct": 2.60981802540865,
+   "veraenderung_pct": 2.6281939150635703,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     109.550003,
     108.790001,
     108.82,
-    111.660004
+    111.68
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81582.890625,
+   "kurs": 81422.3828125,
    "vortag": 84011.96875,
-   "veraenderung_pct": -2.8913476985980013,
+   "veraenderung_pct": -3.0824012054829986,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81853.539062,
     82941.0,
     84011.96875,
-    81582.890625
+    81422.382812
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.027,
+   "wert": 5.007,
    "vortag": 5.146,
-   "veraenderung_bp": -11.9,
+   "veraenderung_bp": -13.9,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.136,
     5.117,
     5.146,
-    5.027
+    5.007
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 84.87999725341797,
+   "kurs": 84.98999786376953,
    "vortag": 83.47000122070312,
-   "veraenderung_pct": 1.6892248857007575,
+   "veraenderung_pct": 1.8210094894420603,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     82.550003,
     83.110001,
     83.470001,
-    84.879997
+    84.989998
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 129.10000610351562,
+   "kurs": 129.1199951171875,
    "vortag": 126.87999725341797,
-   "veraenderung_pct": 1.7496917545352986,
+   "veraenderung_pct": 1.7654460216416812,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     124.199997,
     126.5,
     126.879997,
-    129.100006
+    129.119995
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 390.6000061035156,
+   "kurs": 390.3999938964844,
    "vortag": 392.0,
-   "veraenderung_pct": -0.3571413001235646,
+   "veraenderung_pct": -0.4081648223254186,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     380.100006,
     389.899994,
     392.0,
-    390.600006
+    390.399994
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.91999816894531,
+   "kurs": 38.47999954223633,
    "vortag": 39.540000915527344,
-   "veraenderung_pct": -1.5680392823120948,
+   "veraenderung_pct": -2.68083295080237,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.080002,
     39.099998,
     39.540001,
-    38.919998
+    38.48
    ]
   }
  ],
@@ -374,17 +374,41 @@
   ],
   "artikel": [
    {
-    "titel": "Comcast beats earnings expectations as media revenue offsets weakness in connectivity",
-    "link": "https://www.cnbc.com/2026/10/22/comcast-cmcsa-earnings-q3-2026.html",
-    "zeit": "2026-10-22T14:33:34+00:00",
+    "titel": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
+    "link": "https://www.cnbc.com/2026/10/22/lucas-trump-virginia-marijuana-racketeering.html",
+    "zeit": "2026-10-22T15:02:13+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
-    "link": "https://www.cnbc.com/2026/10/22/lucas-trump-virginia-marijuana-racketeering.html",
-    "zeit": "2026-10-22T14:33:16+00:00",
+    "titel": "Third-party evaluators find vulnerabilities in OpenAI monitoring system during test pilot",
+    "link": "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
+    "zeit": "2026-10-22T15:00:25+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "American Airlines forecasts bigger loss in 2026 on fuel spike, plans to slow growth next year",
+    "link": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html",
+    "zeit": "2026-10-22T14:52:09+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "California's Proposition 40: What voters need to know about billionaire wealth tax battle",
+    "link": "https://www.cnbc.com/2026/10/22/california-proposition-40-billionaire-tax-wealth.html",
+    "zeit": "2026-10-22T14:47:29+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Comcast beats earnings expectations as media revenue offsets weakness in connectivity",
+    "link": "https://www.cnbc.com/2026/10/22/comcast-cmcsa-earnings-q3-2026.html",
+    "zeit": "2026-10-22T14:33:34+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -422,33 +446,9 @@
     "sprache": "en"
    },
    {
-    "titel": "American Airlines forecasts bigger loss in 2026 on fuel spike, plans to slow growth next year",
-    "link": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html",
-    "zeit": "2026-10-22T14:00:17+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Trump’s tariffs loom over Maine Senate race between Collins and Jackson",
     "link": "https://www.cnbc.com/2026/10/22/maine-senate-election-trump-tariffs.html",
     "zeit": "2026-10-22T13:53:23+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "California's Proposition 40: What voters need to know about billionaire wealth tax battle",
-    "link": "https://www.cnbc.com/2026/10/22/california-proposition-40-billionaire-tax-wealth.html",
-    "zeit": "2026-10-22T13:37:21+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
-    "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
-    "zeit": "2026-10-22T13:18:36+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
