@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-22T10:37:21+02:00",
+ "aktualisiert": "2026-10-22T11:34:09+02:00",
  "kernaussagen": [
-  "SMI −0.43%, Nikkei 225 −2.65% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9223 (−0.49%)",
-  "Brent über 100 USD: 111.98 (+2.90%)"
+  "SMI −0.23%, Nikkei 225 −2.65% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9211 (−0.62%)",
+  "Brent über 100 USD: 112.07 (+2.99%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14489.650390625,
+   "kurs": 14519.16015625,
    "vortag": 14552.3896484375,
-   "veraenderung_pct": -0.4311268412142577,
+   "veraenderung_pct": -0.22834388708845577,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14368.780273,
     14478.370117,
     14552.389648,
-    14489.650391
+    14519.160156
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25384.439453125,
+   "kurs": 25374.439453125,
    "vortag": 25645.0390625,
-   "veraenderung_pct": -1.0161794206664632,
+   "veraenderung_pct": -1.055173317207736,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25319.769531,
     25304.419922,
     25645.039062,
-    25384.439453
+    25374.439453
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6106.97021484375,
+   "kurs": 6104.47998046875,
    "vortag": 6207.52001953125,
-   "veraenderung_pct": -1.619806369872856,
+   "veraenderung_pct": -1.6599227829841245,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6144.810059,
     6121.660156,
     6207.52002,
-    6106.970215
+    6104.47998
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9223200082778931,
+   "kurs": 0.9210600256919861,
    "vortag": 0.9268400073051453,
-   "veraenderung_pct": -0.48767845492496686,
+   "veraenderung_pct": -0.6236223692981158,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92464,
     0.9272,
     0.92684,
-    0.92232
+    0.92106
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8206700086593628,
+   "kurs": 0.8200799822807312,
    "vortag": 0.8256300091743469,
-   "veraenderung_pct": -0.6007534197968734,
+   "veraenderung_pct": -0.6722171955893308,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82375,
     0.82685,
     0.82563,
-    0.82067
+    0.82008
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4109.7001953125,
+   "kurs": 4102.7998046875,
    "vortag": 4150.0,
-   "veraenderung_pct": -0.9710796310240966,
+   "veraenderung_pct": -1.1373541039156665,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4160.100098,
     4142.600098,
     4150.0,
-    4109.700195
+    4102.799805
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.9800033569336,
+   "kurs": 112.06999969482422,
    "vortag": 108.81999969482422,
-   "veraenderung_pct": 2.903881337044023,
+   "veraenderung_pct": 2.9865833570247524,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     109.550003,
     108.790001,
     108.82,
-    111.980003
+    112.07
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81817.53125,
+   "kurs": 81696.9609375,
    "vortag": 84011.96875,
-   "veraenderung_pct": -2.612053416496085,
+   "veraenderung_pct": -2.755569053962925,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81853.539062,
     82941.0,
     84011.96875,
-    81817.53125
+    81696.960938
    ]
   }
  ],
@@ -278,17 +278,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 84.45999908447266,
-   "vortag": 83.11000061035156,
-   "veraenderung_pct": 1.6243514188507335,
+   "kurs": 84.4000015258789,
+   "vortag": 83.47000122070312,
+   "veraenderung_pct": 1.114173105996219,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
-    81.07,
     82.43,
     82.550003,
     83.110001,
-    84.459999
+    83.470001,
+    84.400002
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 127.16000366210938,
+   "kurs": 127.69999694824219,
    "vortag": 126.87999725341797,
-   "veraenderung_pct": 0.22068601414937383,
+   "veraenderung_pct": 0.6462797230255557,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     124.199997,
     126.5,
     126.879997,
-    127.160004
+    127.699997
    ]
   },
   {
@@ -316,17 +316,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 388.20001220703125,
-   "vortag": 389.8999938964844,
-   "veraenderung_pct": -0.4360045437457605,
+   "kurs": 390.0,
+   "vortag": 392.0,
+   "veraenderung_pct": -0.5102040816326481,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
-    379.700012,
     379.200012,
     380.100006,
     389.899994,
-    388.200012
+    392.0,
+    390.0
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.77000045776367,
+   "kurs": 38.7400016784668,
    "vortag": 39.540000915527344,
-   "veraenderung_pct": -1.947396155626524,
+   "veraenderung_pct": -2.023265600751134,
    "datum": "2026-10-22",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.080002,
     39.099998,
     39.540001,
-    38.77
+    38.740002
    ]
   }
  ],
@@ -376,7 +376,7 @@
    {
     "titel": "World's largest wealth fund posts $30 billion loss after bond market turbulence",
     "link": "https://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html",
-    "zeit": "2026-10-22T08:32:04+00:00",
+    "zeit": "2026-10-22T09:25:09+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,13 +384,29 @@
    {
     "titel": "Barclays to slash 5,000 jobs in AI efficiency push",
     "link": "https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html",
-    "zeit": "2026-10-22T08:17:07+00:00",
+    "zeit": "2026-10-22T09:23:59+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Nestlé überrascht mit starkem Wachstum – es ist ein wichtiger Zwischenerfolg für CEO Navratil",
+    "titel": "Ein amerikanisches Kriegsschiff verärgert China – für die Philippinen ist die Fahrt ein Zeichen der Unterstützung",
+    "link": "https://www.nzz.ch/international/chinas-kuestenwache-provoziert-nachbarn-wie-die-usa-antworten-ld.10040002",
+    "zeit": "2026-10-22T08:28:56+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Brent crude tops $112 on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
+    "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
+    "zeit": "2026-10-22T08:24:42+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Nestlé überrascht mit starkem Wachstum – es ist ein wichtiger Zwischenerfolg für den CEO Navratil",
     "link": "https://www.nzz.ch/wirtschaft/nestle-ueberrascht-mit-starkem-wachstum-ld.10041032",
     "zeit": "2026-10-22T08:16:10+00:00",
     "quelle": "NZZ Wirtschaft",
@@ -410,6 +426,14 @@
     "link": "https://www.srf.ch/news/wirtschaft/sicherheitsluecke-bei-php-private-server-betreiber-sollten-jetzt-rasch-handeln",
     "zeit": "2026-10-22T06:00:07+00:00",
     "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Frankreich wird zum Kreditrisiko, der Franken zum Fiebermesser",
+    "link": "https://www.finews.ch/news/finanzplatz/74113-credit-default-swaps-cds-fankreich-spanien-deutschland-eurozone-franken-euro-kurs",
+    "zeit": "2026-10-22T05:29:27+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -526,14 +550,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Meta put out an ambitious roadmap to Muse monetization after strong quarter and guide",
-    "link": "https://www.cnbc.com/investingclub/2026/10/21/meta-put-out-an-ambitious-roadmap-to-muse-monetization-after-strong-quarter-and-guide.html",
-    "zeit": "2026-10-22T00:53:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Elektroautos boomen weltweit, aber Tesla tritt auf der Stelle",
     "link": "https://www.nzz.ch/wirtschaft/elektroautos-boomen-weltweit-aber-tesla-tritt-auf-der-stelle-ld.10040605",
     "zeit": "2026-10-22T00:16:22+00:00",
@@ -570,14 +586,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/nach-betrugswelle-eu-startet-ermittlungen-gegen-booking-com",
     "zeit": "2026-10-21T14:05:28+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "MELDUNGEN WIRTSCHAFT - Die EU ermittelt gegen die Reiseplattform Booking",
-    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
-    "zeit": "2026-10-21T13:44:55+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -666,14 +674,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/seilbahnen-steigern-umsatz-skigebiete-mit-rekordergebnis-aber-tageskarten-werden-teurer",
     "zeit": "2026-10-20T18:28:45+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Commerzbank-Übernahme: Bafin büsst UniCredit-Partner",
-    "link": "https://www.finews.ch/news/banken/74079-commerzbank-unicredit-nomura-stimmrechtsmeldungen-deutsche-finanzaufsicht-busse-320000-euro",
-    "zeit": "2026-10-20T10:46:37+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
