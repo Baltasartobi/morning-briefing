@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-23T12:06:37+02:00",
+ "aktualisiert": "2026-10-23T13:03:25+02:00",
  "kernaussagen": [
-  "SMI −0.68%, Nasdaq −2.60% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9214 (−0.48%)",
-  "Brent über 100 USD: 109.88 (−2.91%)"
+  "SMI −0.59%, Nasdaq −2.60% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9223 (−0.38%)",
+  "Brent über 100 USD: 110.23 (−2.60%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14448.8896484375,
+   "kurs": 14462.1201171875,
    "vortag": 14547.9697265625,
-   "veraenderung_pct": -0.68105776948445,
+   "veraenderung_pct": -0.5901140227027812,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14478.370117,
     14552.389648,
     14547.969727,
-    14448.889648
+    14462.120117
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25136.80078125,
+   "kurs": 25145.44921875,
    "vortag": 25371.75,
-   "veraenderung_pct": -0.9260268556563922,
+   "veraenderung_pct": -0.8919399775340731,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25304.419922,
     25645.039062,
     25371.75,
-    25136.800781
+    25145.449219
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6042.009765625,
+   "kurs": 6041.68994140625,
    "vortag": 6087.009765625,
-   "veraenderung_pct": -0.7392792476550225,
+   "veraenderung_pct": -0.7445334567176665,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6121.660156,
     6207.52002,
     6087.009766,
-    6042.009766
+    6041.689941
    ]
   },
   {
@@ -68,19 +68,7 @@
    "symbol": "^GSPC",
    "einheit": "",
    "dezimalen": 2,
-   "verfuegbar": true,
-   "kurs": 7663.43017578125,
-   "vortag": 7757.169921875,
-   "veraenderung_pct": -1.208427133063139,
-   "datum": "2026-10-22",
-   "ist_heute": false,
-   "verlauf": [
-    7659.439941,
-    7690.72998,
-    7712.569824,
-    7757.169922,
-    7663.430176
-   ]
+   "verfuegbar": false
   },
   {
    "name": "Nasdaq",
@@ -128,9 +116,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9213500022888184,
+   "kurs": 0.9223099946975708,
    "vortag": 0.925790011882782,
-   "veraenderung_pct": -0.4795914340157914,
+   "veraenderung_pct": -0.37589703286319276,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +126,7 @@
     0.9272,
     0.92684,
     0.92579,
-    0.92135
+    0.92231
    ]
   },
   {
@@ -147,9 +135,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8223900198936462,
+   "kurs": 0.8237400054931641,
    "vortag": 0.8240000009536743,
-   "veraenderung_pct": -0.19538605074814752,
+   "veraenderung_pct": -0.03155284711278128,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +145,7 @@
     0.82685,
     0.82563,
     0.824,
-    0.82239
+    0.82374
    ]
   },
   {
@@ -166,9 +154,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4037.39990234375,
+   "kurs": 4035.0,
    "vortag": 4060.39990234375,
-   "veraenderung_pct": -0.5664466691254644,
+   "veraenderung_pct": -0.625551742553454,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +164,7 @@
     4142.600098,
     4150.0,
     4060.399902,
-    4037.399902
+    4035.0
    ]
   },
   {
@@ -185,9 +173,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.87999725341797,
+   "kurs": 110.2300033569336,
    "vortag": 113.16999816894531,
-   "veraenderung_pct": -2.90713172109085,
+   "veraenderung_pct": -2.597857081894406,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +183,7 @@
     108.790001,
     108.82,
     113.169998,
-    109.879997
+    110.230003
    ]
   },
   {
@@ -204,9 +192,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81632.2421875,
+   "kurs": 81520.2734375,
    "vortag": 81311.890625,
-   "veraenderung_pct": 0.3939787404248385,
+   "veraenderung_pct": 0.25627594057680003,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +202,7 @@
     82941.0,
     84011.96875,
     81311.890625,
-    81632.242188
+    81520.273438
    ]
   }
  ],
@@ -240,17 +228,17 @@
    "name": "Deutschland",
    "quelle": "bundesbank",
    "verfuegbar": true,
-   "wert": 3.44,
-   "vortag": 3.47,
-   "veraenderung_bp": -3.0,
-   "datum": "2026-10-22",
-   "ist_heute": false,
+   "wert": 3.39,
+   "vortag": 3.44,
+   "veraenderung_bp": -5.0,
+   "datum": "2026-10-23",
+   "ist_heute": true,
    "verlauf": [
-    3.48,
     3.49,
     3.48,
     3.47,
-    3.44
+    3.44,
+    3.39
    ]
   },
   {
@@ -278,9 +266,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.62000274658203,
+   "kurs": 83.79000091552734,
    "vortag": 84.37000274658203,
-   "veraenderung_pct": -0.8889415379690568,
+   "veraenderung_pct": -0.6874502929634985,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +276,7 @@
     83.110001,
     83.470001,
     84.370003,
-    83.620003
+    83.790001
    ]
   },
   {
@@ -297,9 +285,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 127.4800033569336,
+   "kurs": 127.9800033569336,
    "vortag": 128.8800048828125,
-   "veraenderung_pct": -1.0862829553365483,
+   "veraenderung_pct": -0.698325179842485,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +295,7 @@
     126.5,
     126.879997,
     128.880005,
-    127.480003
+    127.980003
    ]
   },
   {
@@ -316,9 +304,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 389.8999938964844,
+   "kurs": 390.70001220703125,
    "vortag": 392.1000061035156,
-   "veraenderung_pct": -0.5610844613071597,
+   "veraenderung_pct": -0.35705021032689244,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +314,7 @@
     389.899994,
     392.0,
     392.100006,
-    389.899994
+    390.700012
    ]
   },
   {
@@ -335,9 +323,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.369998931884766,
+   "kurs": 38.25,
    "vortag": 38.38999938964844,
-   "veraenderung_pct": -0.052098093466146356,
+   "veraenderung_pct": -0.3646767175677246,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +333,7 @@
     39.099998,
     39.540001,
     38.389999,
-    38.369999
+    38.25
    ]
   }
  ],
@@ -374,6 +362,38 @@
   ],
   "artikel": [
    {
+    "titel": "With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage",
+    "link": "https://www.cnbc.com/2026/10/23/spacex-tesla-merger-chatter-takes-center-stage-after-earnings.html",
+    "zeit": "2026-10-23T11:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "U.S. oil holds above $100, Brent at five-month high as Iran says it’s prepared for warfare",
+    "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
+    "zeit": "2026-10-23T10:51:41+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Democratic socialist set to become D.C. mayor — and face Trump's pushback",
+    "link": "https://www.cnbc.com/2026/10/23/janeese-lewis-george-democratic-socialist-washington-dc-mayor.html",
+    "zeit": "2026-10-23T10:30:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Corruption is voters' top issue ahead of midterm election, CNBC survey shows",
+    "link": "https://www.cnbc.com/2026/10/23/corruption-midterm-election-cnbc-poll-trump.html",
+    "zeit": "2026-10-23T10:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Volvo Cars plunges 27% as CEO says China sales slump came 'faster than we thought'",
     "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
     "zeit": "2026-10-23T09:41:01+00:00",
@@ -401,14 +421,6 @@
     "titel": "France is flashing euro crisis signals. This time, the fault lines are different",
     "link": "https://www.cnbc.com/2026/10/23/france-debt-euro-zone-contagion.html",
     "zeit": "2026-10-23T09:03:26+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "U.S. oil holds above $100, Brent at five-month high as Iran says it’s prepared for warfare",
-    "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
-    "zeit": "2026-10-23T09:02:44+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -446,14 +458,6 @@
     "sprache": "de"
    },
    {
-    "titel": "SK Hynix shares jump over 4% after early losses as chipmaker scraps Solidigm IPO plans",
-    "link": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
-    "zeit": "2026-10-23T06:45:04+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "UBP findet Partner-Bank in Taiwan",
     "link": "https://www.finews.ch/news/banken/74130-ubp-taishin-bank-taiwan-partnerschaft",
     "zeit": "2026-10-23T05:46:09+00:00",
@@ -468,14 +472,6 @@
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens",
-    "link": "https://www.cnbc.com/2026/10/23/wealthy-chinese-tax-offshore-trusts-capital-control-.html",
-    "zeit": "2026-10-23T04:55:59+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Birgit Olsen, Bellevue: «Europa wird unterschätzt und genau darin liegt die Chance»",
@@ -556,14 +552,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
-    "link": "https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html",
-    "zeit": "2026-10-23T00:46:09+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Umbau von Nestlé – Wie weit wird Nestlé die Preise noch erhöhen, Philipp Navratil?",
