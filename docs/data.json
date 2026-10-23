@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-23T20:34:03+02:00",
+ "aktualisiert": "2026-10-23T21:12:39+02:00",
  "kernaussagen": [
   "SMI −0.59%, Nikkei 225 −2.65% am schwächsten",
   "Franken stärker: EUR/CHF 0.9237 (−0.23%)",
-  "Brent über 100 USD: 111.64 (−1.35%)"
+  "Brent über 100 USD: 111.76 (−1.25%)"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7634.81005859375,
+   "kurs": 7632.31005859375,
    "vortag": 7663.43017578125,
-   "veraenderung_pct": -0.3734635343576098,
+   "veraenderung_pct": -0.406086001616468,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7712.569824,
     7757.169922,
     7663.430176,
-    7634.810059
+    7632.310059
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26006.41796875,
+   "kurs": 25985.6796875,
    "vortag": 26008.859375,
-   "veraenderung_pct": -0.009386825522794684,
+   "veraenderung_pct": -0.08912227624361391,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26424.820312,
     26702.859375,
     26008.859375,
-    26006.417969
+    25985.679688
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9236999750137329,
+   "kurs": 0.9236900210380554,
    "vortag": 0.925790011882782,
-   "veraenderung_pct": -0.22575712010529658,
+   "veraenderung_pct": -0.22683230730214943,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.9272,
     0.92684,
     0.92579,
-    0.9237
+    0.92369
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8251500129699707,
+   "kurs": 0.8251199722290039,
    "vortag": 0.8240000009536743,
-   "veraenderung_pct": 0.1395645649229893,
+   "veraenderung_pct": 0.13591884393608922,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82685,
     0.82563,
     0.824,
-    0.82515
+    0.82512
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4012.60009765625,
+   "kurs": 4010.699951171875,
    "vortag": 4060.39990234375,
-   "veraenderung_pct": -1.177219136960106,
+   "veraenderung_pct": -1.2240161650872605,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4142.600098,
     4150.0,
     4060.399902,
-    4012.600098
+    4010.699951
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.63999938964844,
+   "kurs": 111.76000213623047,
    "vortag": 113.16999816894531,
-   "veraenderung_pct": -1.3519473394466464,
+   "veraenderung_pct": -1.2459097424477594,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     108.790001,
     108.82,
     113.169998,
-    111.639999
+    111.760002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81425.609375,
+   "kurs": 81258.828125,
    "vortag": 81311.890625,
-   "veraenderung_pct": 0.13985500659978722,
+   "veraenderung_pct": -0.065257983293876,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82941.0,
     84011.96875,
     81311.890625,
-    81425.609375
+    81258.828125
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.99,
+   "wert": 4.995,
    "vortag": 4.953,
-   "veraenderung_bp": 3.7,
+   "veraenderung_bp": 4.2,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.117,
     5.146,
     4.953,
-    4.99
+    4.995
    ]
   }
  ],
@@ -374,12 +374,68 @@
   ],
   "artikel": [
    {
-    "titel": "U.S. dropping some Canada tariffs, Susan Collins says as trade war looms over Maine Senate race",
-    "link": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
-    "zeit": "2026-10-23T18:31:45+00:00",
+    "titel": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+    "link": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
+    "zeit": "2026-10-23T18:59:53+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+    "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
+    "zeit": "2026-10-23T18:57:48+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Studie zu Kohle, Öl und Gas – Raus aus fossilen Energien – aber wer macht den Anfang?",
+    "link": "https://www.srf.ch/news/wirtschaft/studie-zu-kohle-oel-und-gas-raus-aus-fossilen-energien-aber-wer-macht-den-anfang",
+    "zeit": "2026-10-23T18:57:28+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "U.S. dropping some Canada tariffs, Susan Collins says as trade war looms over Maine Senate race",
+    "link": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
+    "zeit": "2026-10-23T18:54:16+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
+    "link": "https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html",
+    "zeit": "2026-10-23T18:52:37+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Corruption is voters' top issue ahead of midterm election, CNBC survey shows",
+    "link": "https://www.cnbc.com/2026/10/23/corruption-midterm-election-cnbc-poll-trump.html",
+    "zeit": "2026-10-23T18:51:36+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "CrowdStrike CEO's alarming prediction — plus, the sell-off spreads beyond tech",
+    "link": "https://www.cnbc.com/investingclub/2026/10/23/crowdstrikes-alarming-prediction-plus-sell-off-spreads-beyond-tech.html",
+    "zeit": "2026-10-23T18:49:56+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Schweizer Uhrenindustrie – Die mysteriösen Uhrenlieferungen nach Frankreich",
+    "link": "https://www.srf.ch/news/wirtschaft/schweizer-uhrenindustrie-die-mysterioesen-uhrenlieferungen-nach-frankreich",
+    "zeit": "2026-10-23T18:41:08+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
@@ -406,14 +462,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
-    "link": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
-    "zeit": "2026-10-23T17:41:25+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Investors are starting to find opportunities in the battered bond market",
     "link": "https://www.cnbc.com/2026/10/23/investors-are-starting-to-find-opportunities-in-the-battered-bond-market.html",
     "zeit": "2026-10-23T17:40:31+00:00",
@@ -425,38 +473,6 @@
     "titel": "Texas Senate race: New Talarico ad rips Elon Musk 'dark money' push",
     "link": "https://www.cnbc.com/2026/10/23/james-talarico-campaign-ad-elon-musk-texas-senate-election.html",
     "zeit": "2026-10-23T17:26:12+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
-    "link": "https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html",
-    "zeit": "2026-10-23T17:25:29+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "American Express is cutting 5% of its workforce to 'prepare for AI'",
-    "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
-    "zeit": "2026-10-23T17:21:10+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Doctors call Moderna, Merck cancer vaccine data a major advancement — despite Wall Street reaction",
-    "link": "https://www.cnbc.com/2026/10/23/moderna-merck-cancer-vaccine-data.html",
-    "zeit": "2026-10-23T17:15:08+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "AI's 'Black October': Critical PHP flaws set off global security scramble",
-    "link": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
-    "zeit": "2026-10-23T16:55:37+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -674,22 +690,6 @@
     "link": "https://www.finews.ch/news/banken/74107-valiant-ceo-kathrin-wehrli",
     "zeit": "2026-10-22T03:56:39+00:00",
     "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Bundesstaat New Mexico – US-Richter verhängt Milliardenstrafe für Meta",
-    "link": "https://www.srf.ch/news/wirtschaft/bundesstaat-new-mexico-us-richter-verhaengt-milliardenstrafe-fuer-meta",
-    "zeit": "2026-10-21T17:58:03+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Cybersicherheit – Gravierende PHP-Sicherheitslücke bedroht Millionen Webseiten",
-    "link": "https://www.srf.ch/news/wirtschaft/cybersicherheit-gravierende-php-sicherheitsluecke-bedroht-millionen-webseiten",
-    "zeit": "2026-10-21T15:07:10+00:00",
-    "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    }
