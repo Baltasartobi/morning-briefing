@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-23T07:05:34+02:00",
+ "aktualisiert": "2026-10-23T08:04:18+02:00",
  "kernaussagen": [
   "SMI −0.03%, Nasdaq −2.60% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9209 (−0.53%)",
-  "Bitcoin −2.94% auf 81'546 USD · Brent über 100 USD"
+  "Franken stärker: EUR/CHF 0.9211 (−0.50%)",
+  "Bitcoin −2.81% auf 81'649 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 62269.28125,
+   "kurs": 62605.46875,
    "vortag": 62907.83984375,
-   "veraenderung_pct": -1.015069974324423,
+   "veraenderung_pct": -0.4806572511487084,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     64075.421875,
     64621.238281,
     62907.839844,
-    62269.28125
+    62605.46875
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9209200143814087,
+   "kurs": 0.9211400151252747,
    "vortag": 0.925790011882782,
-   "veraenderung_pct": -0.5260369456210889,
+   "veraenderung_pct": -0.5022733770966736,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.9272,
     0.92684,
     0.92579,
-    0.92092
+    0.92114
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8240000009536743,
-   "vortag": 0.8256300091743469,
-   "veraenderung_pct": -0.1974259901602493,
-   "datum": "2026-10-22",
-   "ist_heute": false,
+   "kurs": 0.8216800093650818,
+   "vortag": 0.8240000009536743,
+   "veraenderung_pct": -0.28155237693051616,
+   "datum": "2026-10-23",
+   "ist_heute": true,
    "verlauf": [
-    0.82775,
     0.82375,
     0.82685,
     0.82563,
-    0.824
+    0.824,
+    0.82168
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4017.800048828125,
+   "kurs": 4035.300048828125,
    "vortag": 4060.39990234375,
-   "veraenderung_pct": -1.0491541360503787,
+   "veraenderung_pct": -0.6181621051940422,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4142.600098,
     4150.0,
     4060.399902,
-    4017.800049
+    4035.300049
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 113.91000366210938,
+   "kurs": 114.33000183105469,
    "vortag": 113.16999816894531,
-   "veraenderung_pct": 0.6538884025246272,
+   "veraenderung_pct": 1.0250098797188967,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     108.790001,
     108.82,
     113.169998,
-    113.910004
+    114.330002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81545.90625,
+   "kurs": 81648.8828125,
    "vortag": 84011.96875,
-   "veraenderung_pct": -2.9353704438690453,
+   "veraenderung_pct": -2.812796762961234,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81853.539062,
     82941.0,
     84011.96875,
-    81545.90625
+    81648.882812
    ]
   }
  ],
@@ -396,6 +396,22 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "HBM Healthcare steigert Gewinn deutlich",
+    "link": "https://www.finews.ch/news/finanzplatz/74124-hbm-healthcare-gewinn-h1-2027-ausblick-positiv",
+    "zeit": "2026-10-23T03:53:19+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "BB Biotech verfünffacht Gewinn auf 605 Millionen Franken",
+    "link": "https://www.finews.ch/news/finanzplatz/74123-bb-biotech-gewinn-605-millionen-neun-monate-2026-quartalsergebnis",
+    "zeit": "2026-10-23T03:42:09+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "INTERVIEW - «Die meisten öffentlich-privaten Partnerschaften sind parasitär»: Die Ökonomin Mariana Mazzucato fordert einen neuen Kapitalismus",
@@ -673,22 +689,6 @@
     "titel": "Christian Gattiker: «Es nimmt Dimensionen an, die schwindelerregend sind»",
     "link": "https://www.finews.ch/news/banken/74101-christian-gattiker-julius-baer-ai-investment-boom-europe-switzerland",
     "zeit": "2026-10-21T08:49:42+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "AllianzGI nimmt Schweizer Single Family Offices ins Visier",
-    "link": "https://www.finews.ch/news/finanzplatz/74099-allianzgi-bjoern-jesch-swiss-single-family-offices",
-    "zeit": "2026-10-21T08:16:16+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Wettbewerbsfähigkeit: Bundesrat klopft sich auf die Schulter",
-    "link": "https://www.finews.ch/news/finanzplatz/74098-wettbewerbsfaehigkeit-massnahmenpaket-zwischenbilanz-bundesrat-mindestbesteuerung-kurzarbeit",
-    "zeit": "2026-10-21T08:00:05+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
