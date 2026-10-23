@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-23T13:36:05+02:00",
+ "aktualisiert": "2026-10-23T14:35:23+02:00",
  "kernaussagen": [
-  "SMI −0.47%, Nasdaq −2.60% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9225 (−0.36%)",
-  "Brent über 100 USD: 109.99 (−2.81%)"
+  "SMI −0.45%, Nasdaq −2.60% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9221 (−0.40%)",
+  "Brent über 100 USD: 110.31 (−2.53%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14480.099609375,
+   "kurs": 14482.3701171875,
    "vortag": 14547.9697265625,
-   "veraenderung_pct": -0.466526384527588,
+   "veraenderung_pct": -0.45091934206615836,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14478.370117,
     14552.389648,
     14547.969727,
-    14480.099609
+    14482.370117
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25196.94921875,
+   "kurs": 25144.4296875,
    "vortag": 25371.75,
-   "veraenderung_pct": -0.6889583148580569,
+   "veraenderung_pct": -0.8959583493452383,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25304.419922,
     25645.039062,
     25371.75,
-    25196.949219
+    25144.429688
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6054.10009765625,
+   "kurs": 6043.31005859375,
    "vortag": 6087.009765625,
-   "veraenderung_pct": -0.5406541017003108,
+   "veraenderung_pct": -0.7179174785957199,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6121.660156,
     6207.52002,
     6087.009766,
-    6054.100098
+    6043.310059
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.922469973564148,
+   "kurs": 0.9220799803733826,
    "vortag": 0.925790011882782,
-   "veraenderung_pct": -0.3586167787533179,
+   "veraenderung_pct": -0.40074222683115224,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.9272,
     0.92684,
     0.92579,
-    0.92247
+    0.92208
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8240699768066406,
+   "kurs": 0.8234300017356873,
    "vortag": 0.8240000009536743,
-   "veraenderung_pct": 0.008492215155975202,
+   "veraenderung_pct": -0.0691746622970113,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82685,
     0.82563,
     0.824,
-    0.82407
+    0.82343
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4044.5,
+   "kurs": 4043.0,
    "vortag": 4060.39990234375,
-   "veraenderung_pct": -0.3915846400885825,
+   "veraenderung_pct": -0.4285268141619891,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4142.600098,
     4150.0,
     4060.399902,
-    4044.5
+    4043.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.98999786376953,
+   "kurs": 110.30999755859375,
    "vortag": 113.16999816894531,
-   "veraenderung_pct": -2.8099322758921796,
+   "veraenderung_pct": -2.5271720920963747,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     108.790001,
     108.82,
     113.169998,
-    109.989998
+    110.309998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81632.2421875,
+   "kurs": 81602.2890625,
    "vortag": 81311.890625,
-   "veraenderung_pct": 0.3939787404248385,
+   "veraenderung_pct": 0.3571414159329711,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82941.0,
     84011.96875,
     81311.890625,
-    81632.242188
+    81602.289062
    ]
   }
  ],
@@ -257,17 +257,17 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.953,
-   "vortag": 5.146,
-   "veraenderung_bp": -19.3,
-   "datum": "2026-10-22",
-   "ist_heute": false,
+   "wert": 4.99,
+   "vortag": 4.953,
+   "veraenderung_bp": 3.7,
+   "datum": "2026-10-23",
+   "ist_heute": true,
    "verlauf": [
-    5.098,
     5.136,
     5.117,
     5.146,
-    4.953
+    4.953,
+    4.99
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.86000061035156,
+   "kurs": 83.9800033569336,
    "vortag": 84.37000274658203,
-   "veraenderung_pct": -0.6044827777976214,
+   "veraenderung_pct": -0.4622488763214361,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     83.110001,
     83.470001,
     84.370003,
-    83.860001
+    83.980003
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 128.24000549316406,
+   "kurs": 128.4199981689453,
    "vortag": 128.8800048828125,
-   "veraenderung_pct": -0.49658547905113704,
+   "veraenderung_pct": -0.35692636284849755,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     126.5,
     126.879997,
     128.880005,
-    128.240005
+    128.419998
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 390.70001220703125,
+   "kurs": 390.79998779296875,
    "vortag": 392.1000061035156,
-   "veraenderung_pct": -0.35705021032689244,
+   "veraenderung_pct": -0.3315527391763551,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     389.899994,
     392.0,
     392.100006,
-    390.700012
+    390.799988
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.290000915527344,
+   "kurs": 38.2599983215332,
    "vortag": 38.38999938964844,
-   "veraenderung_pct": -0.26048053063543186,
+   "veraenderung_pct": -0.33863263918230135,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.099998,
     39.540001,
     38.389999,
-    38.290001
+    38.259998
    ]
   }
  ],
@@ -374,6 +374,78 @@
   ],
   "artikel": [
    {
+    "titel": "MELDUNGEN WIRTSCHAFT - Sunrise streicht 358 Stellen +++ Autohersteller Volvo baut 2500 Stellen ab",
+    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
+    "zeit": "2026-10-23T12:32:20+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Silicon Valley Democrats demand investigation into Starlink restrictions in Ukraine",
+    "link": "https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html",
+    "zeit": "2026-10-23T12:22:10+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Higher interest rates have made family offices pickier about investing in real estate",
+    "link": "https://www.cnbc.com/2026/10/23/high-interest-rates-raise-the-bar-for-real-estate-deals.html",
+    "zeit": "2026-10-23T12:15:03+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
+    "link": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
+    "zeit": "2026-10-23T12:12:18+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+    "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
+    "zeit": "2026-10-23T12:11:48+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "On the ground at Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud distress",
+    "link": "https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html",
+    "zeit": "2026-10-23T12:08:30+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Im Namen Gottes: Die Evangelikalen ebnen den Bolsonaros den Weg zurück an die Macht",
+    "link": "https://www.nzz.ch/international/im-namen-gottes-die-evangelikalen-ebnen-den-bolsonaros-den-weg-zurueck-an-die-macht-ld.10041767",
+    "zeit": "2026-10-23T12:00:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Volvo Cars plunges 26% as CEO says China sales slump came 'faster than we thought'",
+    "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
+    "zeit": "2026-10-23T11:58:40+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "U.S. oil rises above $100, Brent at five-month high as Iran says it’s prepared for warfare",
+    "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
+    "zeit": "2026-10-23T11:51:59+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered peace talks",
     "link": "https://www.cnbc.com/2026/10/23/russia-ukraine-strikes-peace-talks.html",
     "zeit": "2026-10-23T11:16:30+00:00",
@@ -393,62 +465,6 @@
     "titel": "With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage",
     "link": "https://www.cnbc.com/2026/10/23/spacex-tesla-merger-chatter-takes-center-stage-after-earnings.html",
     "zeit": "2026-10-23T11:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "U.S. oil holds above $100, Brent at five-month high as Iran says it’s prepared for warfare",
-    "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
-    "zeit": "2026-10-23T10:51:41+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Democratic socialist set to become D.C. mayor — and face Trump's pushback",
-    "link": "https://www.cnbc.com/2026/10/23/janeese-lewis-george-democratic-socialist-washington-dc-mayor.html",
-    "zeit": "2026-10-23T10:30:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Corruption is voters' top issue ahead of midterm election, CNBC survey shows",
-    "link": "https://www.cnbc.com/2026/10/23/corruption-midterm-election-cnbc-poll-trump.html",
-    "zeit": "2026-10-23T10:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Volvo Cars plunges 27% as CEO says China sales slump came 'faster than we thought'",
-    "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
-    "zeit": "2026-10-23T09:41:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Nvidia's Huang heads to Kazakhstan for the first time — and he's not the only one with big plans",
-    "link": "https://www.cnbc.com/2026/10/23/nvidia-huang-investment-kazakhstan-.html",
-    "zeit": "2026-10-23T09:21:59+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine",
-    "link": "https://www.cnbc.com/2026/10/23/saab-q3-earnings-figther-jet-maker-beats-expectations-as-orders-triple.html",
-    "zeit": "2026-10-23T08:10:27+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Japan core inflation in September surges to its highest this year at 2.1%",
-    "link": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
-    "zeit": "2026-10-23T08:06:37+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -590,14 +606,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Die Wohnungsknappheit treibt die Menschen aus den grossen Städten. Doch wie lange noch?",
-    "link": "https://www.nzz.ch/wirtschaft/die-wohnungsknappheit-treibt-die-menschen-aus-den-grossen-staedten-doch-wie-lange-noch-ld.10041299",
-    "zeit": "2026-10-22T12:17:34+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Kosmetik gegen Magergesicht – Ozempic-Face bringt Galderma Milliarden",
     "link": "https://www.srf.ch/news/wirtschaft/kosmetik-gegen-magergesicht-ozempic-face-bringt-galderma-milliarden",
     "zeit": "2026-10-22T11:32:49+00:00",
@@ -618,14 +626,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/essenslieferdienst-krempelt-um-just-eat-entlassungen-wegen-neuem-modell",
     "zeit": "2026-10-22T10:51:09+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "MELDUNGEN WIRTSCHAFT - Just Eat stellt Geschäftsmodell um und baut Stellen ab +++ Grossbank Barclays streicht nach KI-Investitionen 5000 Stellen",
-    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
-    "zeit": "2026-10-22T09:36:32+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
