@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-23T08:42:24+02:00",
+ "aktualisiert": "2026-10-23T09:42:07+02:00",
  "kernaussagen": [
-  "SMI −0.03%, Nasdaq −2.60% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9219 (−0.42%)",
-  "Bitcoin −2.68% auf 81'764 USD · Brent über 100 USD"
+  "SMI −0.41%, Nasdaq −2.60% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9214 (−0.48%)",
+  "Brent über 100 USD: 109.43 (−3.30%)"
  ],
  "maerkte": [
   {
@@ -12,17 +12,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14547.9697265625,
-   "vortag": 14552.3896484375,
-   "veraenderung_pct": -0.030372481645823957,
-   "datum": "2026-10-22",
-   "ist_heute": false,
+   "kurs": 14488.9599609375,
+   "vortag": 14547.9697265625,
+   "veraenderung_pct": -0.40562199904263796,
+   "datum": "2026-10-23",
+   "ist_heute": true,
    "verlauf": [
-    14391.30957,
     14368.780273,
     14478.370117,
     14552.389648,
-    14547.969727
+    14547.969727,
+    14488.959961
    ]
   },
   {
@@ -31,17 +31,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25371.75,
-   "vortag": 25645.0390625,
-   "veraenderung_pct": -1.0656605428986166,
-   "datum": "2026-10-22",
-   "ist_heute": false,
+   "kurs": 25248.80078125,
+   "vortag": 25371.75,
+   "veraenderung_pct": -0.4845910067299286,
+   "datum": "2026-10-23",
+   "ist_heute": true,
    "verlauf": [
-    25622.609375,
     25319.769531,
     25304.419922,
     25645.039062,
-    25371.75
+    25371.75,
+    25248.800781
    ]
   },
   {
@@ -50,17 +50,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6087.009765625,
-   "vortag": 6207.52001953125,
-   "veraenderung_pct": -1.9413590858680774,
-   "datum": "2026-10-22",
-   "ist_heute": false,
+   "kurs": 6071.10009765625,
+   "vortag": 6087.009765625,
+   "veraenderung_pct": -0.2613708303639717,
+   "datum": "2026-10-23",
+   "ist_heute": true,
    "verlauf": [
-    6204.22998,
     6144.810059,
     6121.660156,
     6207.52002,
-    6087.009766
+    6087.009766,
+    6071.100098
    ]
   },
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 62726.828125,
+   "kurs": 62693.16015625,
    "vortag": 62907.83984375,
-   "veraenderung_pct": -0.2877411133486607,
+   "veraenderung_pct": -0.341260625119566,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     64075.421875,
     64621.238281,
     62907.839844,
-    62726.828125
+    62693.160156
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9218900203704834,
+   "kurs": 0.9213600158691406,
    "vortag": 0.925790011882782,
-   "veraenderung_pct": -0.4212609190249461,
+   "veraenderung_pct": -0.47850980857225833,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.9272,
     0.92684,
     0.92579,
-    0.92189
+    0.92136
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8222000002861023,
+   "kurs": 0.8227400183677673,
    "vortag": 0.8240000009536743,
-   "veraenderung_pct": -0.2184466827049425,
+   "veraenderung_pct": -0.15291050782144655,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82685,
     0.82563,
     0.824,
-    0.8222
+    0.82274
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4030.10009765625,
+   "kurs": 4035.60009765625,
    "vortag": 4060.39990234375,
-   "veraenderung_pct": -0.7462271061037695,
+   "veraenderung_pct": -0.6107724678346305,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4142.600098,
     4150.0,
     4060.399902,
-    4030.100098
+    4035.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 114.43000030517578,
+   "kurs": 109.43000030517578,
    "vortag": 113.16999816894531,
-   "veraenderung_pct": 1.113371173117339,
+   "veraenderung_pct": -3.3047609121511945,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     108.790001,
     108.82,
     113.169998,
-    114.43
+    109.43
    ]
   },
   {
@@ -204,17 +204,17 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81763.5078125,
-   "vortag": 84011.96875,
-   "veraenderung_pct": -2.6763578701397783,
+   "kurs": 81644.03125,
+   "vortag": 81311.890625,
+   "veraenderung_pct": 0.4084773118015361,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
-    82017.601562,
     81853.539062,
     82941.0,
     84011.96875,
-    81763.507812
+    81311.890625,
+    81644.03125
    ]
   }
  ],
@@ -278,17 +278,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 84.37000274658203,
-   "vortag": 83.47000122070312,
-   "veraenderung_pct": 1.0782335123000752,
-   "datum": "2026-10-22",
-   "ist_heute": false,
+   "kurs": 83.44000244140625,
+   "vortag": 84.37000274658203,
+   "veraenderung_pct": -1.1022878687928617,
+   "datum": "2026-10-23",
+   "ist_heute": true,
    "verlauf": [
-    82.43,
     82.550003,
     83.110001,
     83.470001,
-    84.370003
+    84.370003,
+    83.440002
    ]
   },
   {
@@ -297,17 +297,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 126.87999725341797,
-   "vortag": 126.5,
-   "veraenderung_pct": 0.30039308570590784,
-   "datum": "2026-10-21",
-   "ist_heute": false,
+   "kurs": 127.94000244140625,
+   "vortag": 126.87999725341797,
+   "veraenderung_pct": 0.8354391637250158,
+   "datum": "2026-10-23",
+   "ist_heute": true,
    "verlauf": [
-    125.900002,
     124.699997,
     124.199997,
     126.5,
-    126.879997
+    126.879997,
+    127.940002
    ]
   },
   {
@@ -316,17 +316,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 392.1000061035156,
-   "vortag": 392.0,
-   "veraenderung_pct": 0.02551176110092701,
-   "datum": "2026-10-22",
-   "ist_heute": false,
+   "kurs": 390.29998779296875,
+   "vortag": 392.1000061035156,
+   "veraenderung_pct": -0.459071227372454,
+   "datum": "2026-10-23",
+   "ist_heute": true,
    "verlauf": [
-    379.200012,
     380.100006,
     389.899994,
     392.0,
-    392.100006
+    392.100006,
+    390.299988
    ]
   },
   {
@@ -335,17 +335,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.38999938964844,
-   "vortag": 39.540000915527344,
-   "veraenderung_pct": -2.908450933867579,
-   "datum": "2026-10-22",
-   "ist_heute": false,
+   "kurs": 38.349998474121094,
+   "vortag": 38.38999938964844,
+   "veraenderung_pct": -0.10419618693229271,
+   "datum": "2026-10-23",
+   "ist_heute": true,
    "verlauf": [
-    39.630001,
     39.080002,
     39.099998,
     39.540001,
-    38.389999
+    38.389999,
+    38.349998
    ]
   }
  ],
@@ -373,6 +373,22 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "Volvo Cars shares plunge 28% amid China sales slump and fresh job cuts",
+    "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
+    "zeit": "2026-10-23T07:29:28+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Die PHP-Lücke zeigt: Das Internet ist nicht sicher genug für das KI-Zeitalter",
+    "link": "https://www.nzz.ch/meinung/die-php-luecke-zeigt-das-internet-ist-nicht-sicher-genug-fuer-das-ki-zeitalter-ld.10042034",
+    "zeit": "2026-10-23T06:55:34+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
    {
     "titel": "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine",
     "link": "https://www.cnbc.com/2026/10/23/saab-q3-earnings-figther-jet-maker-beats-expectations-as-orders-triple.html",
@@ -518,14 +534,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
-    "link": "https://www.cnbc.com/2026/10/22/trump-musk-starlink-ukraine.html",
-    "zeit": "2026-10-22T21:02:07+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Umbau von Nestlé – Wie weit wird Nestlé die Preise noch erhöhen, Philipp Navratil?",
     "link": "https://www.srf.ch/news/wirtschaft/umbau-von-nestle-wie-weit-wird-nestle-die-preise-noch-erhoehen-philipp-navratil",
     "zeit": "2026-10-22T18:06:06+00:00",
@@ -585,14 +593,6 @@
     "titel": "MELDUNGEN WIRTSCHAFT - Just Eat stellt Geschäftsmodell um und baut Stellen ab +++ Grossbank Barclays streicht nach KI-Investitionen 5000 Stellen",
     "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
     "zeit": "2026-10-22T09:36:32+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Ein amerikanisches Kriegsschiff verärgert China – für die Philippinen ist die Fahrt ein Zeichen der Unterstützung",
-    "link": "https://www.nzz.ch/international/chinas-kuestenwache-provoziert-nachbarn-wie-die-usa-antworten-ld.10040002",
-    "zeit": "2026-10-22T08:28:56+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
