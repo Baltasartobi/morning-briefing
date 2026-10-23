@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-23T11:10:55+02:00",
+ "aktualisiert": "2026-10-23T12:06:37+02:00",
  "kernaussagen": [
-  "SMI −0.51%, Nasdaq −2.60% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9207 (−0.55%)",
-  "Brent über 100 USD: 109.23 (−3.48%)"
+  "SMI −0.68%, Nasdaq −2.60% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9214 (−0.48%)",
+  "Brent über 100 USD: 109.88 (−2.91%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14474.26953125,
+   "kurs": 14448.8896484375,
    "vortag": 14547.9697265625,
-   "veraenderung_pct": -0.5066012419446708,
+   "veraenderung_pct": -0.68105776948445,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14478.370117,
     14552.389648,
     14547.969727,
-    14474.269531
+    14448.889648
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25230.58984375,
+   "kurs": 25136.80078125,
    "vortag": 25371.75,
-   "veraenderung_pct": -0.5563674411500963,
+   "veraenderung_pct": -0.9260268556563922,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25304.419922,
     25645.039062,
     25371.75,
-    25230.589844
+    25136.800781
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6059.64990234375,
+   "kurs": 6042.009765625,
    "vortag": 6087.009765625,
-   "veraenderung_pct": -0.4494795365001525,
+   "veraenderung_pct": -0.7392792476550225,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6121.660156,
     6207.52002,
     6087.009766,
-    6059.649902
+    6042.009766
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9206900000572205,
+   "kurs": 0.9213500022888184,
    "vortag": 0.925790011882782,
-   "veraenderung_pct": -0.5508821395890373,
+   "veraenderung_pct": -0.4795914340157914,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.9272,
     0.92684,
     0.92579,
-    0.92069
+    0.92135
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.822629988193512,
+   "kurs": 0.8223900198936462,
    "vortag": 0.8240000009536743,
-   "veraenderung_pct": -0.16626368429328853,
+   "veraenderung_pct": -0.19538605074814752,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82685,
     0.82563,
     0.824,
-    0.82263
+    0.82239
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4036.0,
+   "kurs": 4037.39990234375,
    "vortag": 4060.39990234375,
-   "veraenderung_pct": -0.6009236265045237,
+   "veraenderung_pct": -0.5664466691254644,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4142.600098,
     4150.0,
     4060.399902,
-    4036.0
+    4037.399902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.2300033569336,
+   "kurs": 109.87999725341797,
    "vortag": 113.16999816894531,
-   "veraenderung_pct": -3.4814834989481236,
+   "veraenderung_pct": -2.90713172109085,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     108.790001,
     108.82,
     113.169998,
-    109.230003
+    109.879997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81682.40625,
+   "kurs": 81632.2421875,
    "vortag": 81311.890625,
-   "veraenderung_pct": 0.4556721312861445,
+   "veraenderung_pct": 0.3939787404248385,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82941.0,
     84011.96875,
     81311.890625,
-    81682.40625
+    81632.242188
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.55999755859375,
+   "kurs": 83.62000274658203,
    "vortag": 84.37000274658203,
-   "veraenderung_pct": -0.9600630100976226,
+   "veraenderung_pct": -0.8889415379690568,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     83.110001,
     83.470001,
     84.370003,
-    83.559998
+    83.620003
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 127.37999725341797,
+   "kurs": 127.4800033569336,
    "vortag": 128.8800048828125,
-   "veraenderung_pct": -1.1638792462480563,
+   "veraenderung_pct": -1.0862829553365483,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     126.5,
     126.879997,
     128.880005,
-    127.379997
+    127.480003
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 390.6000061035156,
+   "kurs": 389.8999938964844,
    "vortag": 392.1000061035156,
-   "veraenderung_pct": -0.3825554645882856,
+   "veraenderung_pct": -0.5610844613071597,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     389.899994,
     392.0,
     392.100006,
-    390.600006
+    389.899994
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.31999969482422,
+   "kurs": 38.369998931884766,
    "vortag": 38.38999938964844,
-   "veraenderung_pct": -0.1823383587838623,
+   "veraenderung_pct": -0.052098093466146356,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.099998,
     39.540001,
     38.389999,
-    38.32
+    38.369999
    ]
   }
  ],
@@ -374,6 +374,30 @@
   ],
   "artikel": [
    {
+    "titel": "Volvo Cars plunges 27% as CEO says China sales slump came 'faster than we thought'",
+    "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
+    "zeit": "2026-10-23T09:41:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered peace talks",
+    "link": "https://www.cnbc.com/2026/10/23/russia-ukraine-strikes-peace-talks.html",
+    "zeit": "2026-10-23T09:28:29+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Nvidia's Huang heads to Kazakhstan for the first time — and he's not the only one with big plans",
+    "link": "https://www.cnbc.com/2026/10/23/nvidia-huang-investment-kazakhstan-.html",
+    "zeit": "2026-10-23T09:21:59+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "France is flashing euro crisis signals. This time, the fault lines are different",
     "link": "https://www.cnbc.com/2026/10/23/france-debt-euro-zone-contagion.html",
     "zeit": "2026-10-23T09:03:26+00:00",
@@ -385,22 +409,6 @@
     "titel": "U.S. oil holds above $100, Brent at five-month high as Iran says it’s prepared for warfare",
     "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
     "zeit": "2026-10-23T09:02:44+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Nvidia's Huang heads to Kazakhstan for the first time — and he's not the only one with big plans",
-    "link": "https://www.cnbc.com/2026/10/23/nvidia-huang-investment-kazakhstan-.html",
-    "zeit": "2026-10-23T08:45:32+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Volvo Cars plunges 27% as CEO says China sales slump came 'faster than we thought'",
-    "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
-    "zeit": "2026-10-23T08:33:13+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -438,6 +446,14 @@
     "sprache": "de"
    },
    {
+    "titel": "SK Hynix shares jump over 4% after early losses as chipmaker scraps Solidigm IPO plans",
+    "link": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
+    "zeit": "2026-10-23T06:45:04+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "UBP findet Partner-Bank in Taiwan",
     "link": "https://www.finews.ch/news/banken/74130-ubp-taishin-bank-taiwan-partnerschaft",
     "zeit": "2026-10-23T05:46:09+00:00",
@@ -460,6 +476,22 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Birgit Olsen, Bellevue: «Europa wird unterschätzt und genau darin liegt die Chance»",
+    "link": "https://www.finews.ch/news/finanzplatz/74129-birgit-olsen-bellevue-podcast-europa-small-caps-ki-hidden-champions",
+    "zeit": "2026-10-23T04:12:40+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Adam Back: Bitcoin-Pionier baut in der Schweiz aus",
+    "link": "https://www.finews.ch/news/finanzplatz/74128-adam-back-blockstream-lugano-consulting-schweizer-banken-wealth-management-bitcoin-satoshi-nyt",
+    "zeit": "2026-10-23T04:01:52+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "HBM Healthcare steigert Gewinn deutlich",
@@ -529,22 +561,6 @@
     "titel": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
     "link": "https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html",
     "zeit": "2026-10-23T00:46:09+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Etsy bans AI-generated recipes and patterns from its online marketplace",
-    "link": "https://www.cnbc.com/2026/10/22/etsy-bans-ai-generated-recipes-patterns-from-its-online-marketplace.html",
-    "zeit": "2026-10-22T23:45:50+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
-    "link": "https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html",
-    "zeit": "2026-10-22T22:21:08+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -674,22 +690,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/nach-betrugswelle-eu-startet-ermittlungen-gegen-booking-com",
     "zeit": "2026-10-21T14:05:28+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Nachhaltige Fixed-Income-Boutique verstärkt sich personell",
-    "link": "https://www.finews.ch/news/finanzplatz/74106-esgam-christian-zoss-businessdevelopment-nachhaltigkeit-fixedincome-avadis",
-    "zeit": "2026-10-21T12:11:42+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "ETF-Boom in Deutschland: Was Schweizer Anbieter aufhorchen lässt",
-    "link": "https://www.finews.ch/news/finanzplatz/74103-deutschland-etfs-im-wert-von-697-milliarden-euro-untersuchung-des-fondsverbands-bvi-zeigt-starke-konzentration-aktien-etfs-entfallen-96-prozent-des-vermoegens-auf-indizes-von-nur-fuenf-anbietern",
-    "zeit": "2026-10-21T11:04:36+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    }
