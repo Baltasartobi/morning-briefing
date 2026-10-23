@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-23T17:33:30+02:00",
+ "aktualisiert": "2026-10-23T18:12:50+02:00",
  "kernaussagen": [
   "SMI −0.59%, Nikkei 225 −2.65% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9237 (−0.23%)",
-  "Brent über 100 USD: 111.50 (−1.48%)"
+  "Franken stärker: EUR/CHF 0.9258 (−0.11%)",
+  "Gold −1.07% auf 4'016.80 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14461.6103515625,
+   "kurs": 14462.3603515625,
    "vortag": 14547.9697265625,
-   "veraenderung_pct": -0.5936180554618531,
+   "veraenderung_pct": -0.588462696919756,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14478.370117,
     14552.389648,
     14547.969727,
-    14461.610352
+    14462.360352
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25103.830078125,
+   "kurs": 25181.650390625,
    "vortag": 25371.75,
-   "veraenderung_pct": -1.0559773049750198,
+   "veraenderung_pct": -0.7492569861164533,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25304.419922,
     25645.039062,
     25371.75,
-    25103.830078
+    25181.650391
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6048.8701171875,
+   "kurs": 6068.22021484375,
    "vortag": 6087.009765625,
-   "veraenderung_pct": -0.6265744578378252,
+   "veraenderung_pct": -0.30868277700751845,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6121.660156,
     6207.52002,
     6087.009766,
-    6048.870117
+    6068.220215
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7657.1201171875,
+   "kurs": 7654.2099609375,
    "vortag": 7663.43017578125,
-   "veraenderung_pct": -0.08233987195044312,
+   "veraenderung_pct": -0.12031446274396451,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7712.569824,
     7757.169922,
     7663.430176,
-    7657.120117
+    7654.209961
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26085.13671875,
+   "kurs": 26080.103515625,
    "vortag": 26008.859375,
-   "veraenderung_pct": 0.29327446717375416,
+   "veraenderung_pct": 0.27392258767595656,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26424.820312,
     26702.859375,
     26008.859375,
-    26085.136719
+    26080.103516
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9236599802970886,
-   "vortag": 0.925790011882782,
-   "veraenderung_pct": -0.23007718363277085,
-   "datum": "2026-10-23",
-   "ist_heute": true,
+   "kurs": 0.925790011882782,
+   "vortag": 0.9268400073051453,
+   "veraenderung_pct": -0.11328766713645244,
+   "datum": "2026-10-22",
+   "ist_heute": false,
    "verlauf": [
+    0.92813,
     0.92464,
     0.9272,
     0.92684,
-    0.92579,
-    0.92366
+    0.92579
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8249499797821045,
-   "vortag": 0.8240000009536743,
-   "veraenderung_pct": 0.11528869263721653,
-   "datum": "2026-10-23",
-   "ist_heute": true,
+   "kurs": 0.8240000009536743,
+   "vortag": 0.8256300091743469,
+   "veraenderung_pct": -0.1974259901602493,
+   "datum": "2026-10-22",
+   "ist_heute": false,
    "verlauf": [
+    0.82775,
     0.82375,
     0.82685,
     0.82563,
-    0.824,
-    0.82495
+    0.824
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4012.5,
+   "kurs": 4016.800048828125,
    "vortag": 4060.39990234375,
-   "veraenderung_pct": -1.1796843536544532,
+   "veraenderung_pct": -1.073782252099309,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4142.600098,
     4150.0,
     4060.399902,
-    4012.5
+    4016.800049
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.5,
+   "kurs": 112.04000091552734,
    "vortag": 113.16999816894531,
-   "veraenderung_pct": -1.4756544985114028,
+   "veraenderung_pct": -0.9984954243182576,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     108.790001,
     108.82,
     113.169998,
-    111.5
+    112.040001
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81468.9921875,
+   "kurs": 81536.46875,
    "vortag": 81311.890625,
-   "veraenderung_pct": 0.19320859629810005,
+   "veraenderung_pct": 0.2761934610962635,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82941.0,
     84011.96875,
     81311.890625,
-    81468.992188
+    81536.46875
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.47000122070312,
+   "kurs": 83.69999694824219,
    "vortag": 84.37000274658203,
-   "veraenderung_pct": -1.0667316541190575,
+   "veraenderung_pct": -0.7941279797658685,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     83.110001,
     83.470001,
     84.370003,
-    83.470001
+    83.699997
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 128.1999969482422,
+   "kurs": 128.0,
    "vortag": 128.8800048828125,
-   "veraenderung_pct": -0.5276287312284245,
+   "veraenderung_pct": -0.6828094735197077,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     126.5,
     126.879997,
     128.880005,
-    128.199997
+    128.0
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 391.29998779296875,
+   "kurs": 390.8999938964844,
    "vortag": 392.1000061035156,
-   "veraenderung_pct": -0.20403425098026728,
+   "veraenderung_pct": -0.306047484914973,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     389.899994,
     392.0,
     392.100006,
-    391.299988
+    390.899994
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.2599983215332,
+   "kurs": 38.31999969482422,
    "vortag": 38.38999938964844,
-   "veraenderung_pct": -0.33863263918230135,
+   "veraenderung_pct": -0.1823383587838623,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.099998,
     39.540001,
     38.389999,
-    38.259998
+    38.32
    ]
   }
  ],
@@ -376,7 +376,39 @@
    {
     "titel": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
     "link": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
-    "zeit": "2026-10-23T15:28:23+00:00",
+    "zeit": "2026-10-23T16:03:22+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "We're exiting our position in this chipmaker and right-sizing another winner",
+    "link": "https://www.cnbc.com/investingclub/2026/10/23/were-exiting-our-position-in-this-chipmaker-and-right-sizing-another-winner.html",
+    "zeit": "2026-10-23T15:48:07+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Volvo Cars plunges 24% as CEO says China sales slump came 'faster than we thought'",
+    "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
+    "zeit": "2026-10-23T15:40:54+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "TikTok U.S. hunts for multiple gigawatts of computing capacity, sources tell CNBC",
+    "link": "https://www.cnbc.com/2026/10/23/tiktok-us-compute-capacity.html",
+    "zeit": "2026-10-23T15:35:36+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Silicon Valley Democrats demand investigation into Starlink restrictions in Ukraine",
+    "link": "https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html",
+    "zeit": "2026-10-23T15:33:47+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -414,7 +446,7 @@
     "sprache": "en"
    },
    {
-    "titel": "MELDUNGEN WIRTSCHAFT - Bund gibt 45 Millionen Liter Diesel aus Pflichtlager frei +++ UBS gewinnt laut Medienbericht Rechtsstreit gegen ehemalige CS-Manager in New York",
+    "titel": "MELDUNGEN WIRTSCHAFT - Der Bund gibt 45 Millionen Liter Diesel aus Pflichtlagern frei +++ UBS gewinnt laut Medienbericht Rechtsstreit gegen ehemalige CS-Manager in New York",
     "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
     "zeit": "2026-10-23T15:03:06+00:00",
     "quelle": "NZZ Wirtschaft",
@@ -422,41 +454,9 @@
     "sprache": "de"
    },
    {
-    "titel": "AI agents could disrupt bank deposits. Why Wall Street may be overreacting",
-    "link": "https://www.cnbc.com/investingclub/2026/10/23/ai-agents-could-disrupt-bank-deposits-why-wall-street-may-be-overreacting.html",
-    "zeit": "2026-10-23T15:00:49+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
     "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
     "zeit": "2026-10-23T14:55:36+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Moderna shares plunge after cancer vaccine data leaks — despite positive results",
-    "link": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
-    "zeit": "2026-10-23T14:36:34+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Texas Senate race: New Talarico ad rips Elon Musk 'dark money' push",
-    "link": "https://www.cnbc.com/2026/10/23/james-talarico-campaign-ad-elon-musk-texas-senate-election.html",
-    "zeit": "2026-10-23T14:34:37+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Volvo Cars plunges 22% as CEO says China sales slump came 'faster than we thought'",
-    "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
-    "zeit": "2026-10-23T14:03:02+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
