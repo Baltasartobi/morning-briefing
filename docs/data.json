@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-23T08:04:18+02:00",
+ "aktualisiert": "2026-10-23T08:42:24+02:00",
  "kernaussagen": [
   "SMI −0.03%, Nasdaq −2.60% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9211 (−0.50%)",
-  "Bitcoin −2.81% auf 81'649 USD · Brent über 100 USD"
+  "Franken stärker: EUR/CHF 0.9219 (−0.42%)",
+  "Bitcoin −2.68% auf 81'764 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 62605.46875,
+   "kurs": 62726.828125,
    "vortag": 62907.83984375,
-   "veraenderung_pct": -0.4806572511487084,
+   "veraenderung_pct": -0.2877411133486607,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     64075.421875,
     64621.238281,
     62907.839844,
-    62605.46875
+    62726.828125
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9211400151252747,
+   "kurs": 0.9218900203704834,
    "vortag": 0.925790011882782,
-   "veraenderung_pct": -0.5022733770966736,
+   "veraenderung_pct": -0.4212609190249461,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.9272,
     0.92684,
     0.92579,
-    0.92114
+    0.92189
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8216800093650818,
+   "kurs": 0.8222000002861023,
    "vortag": 0.8240000009536743,
-   "veraenderung_pct": -0.28155237693051616,
+   "veraenderung_pct": -0.2184466827049425,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82685,
     0.82563,
     0.824,
-    0.82168
+    0.8222
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4035.300048828125,
+   "kurs": 4030.10009765625,
    "vortag": 4060.39990234375,
-   "veraenderung_pct": -0.6181621051940422,
+   "veraenderung_pct": -0.7462271061037695,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4142.600098,
     4150.0,
     4060.399902,
-    4035.300049
+    4030.100098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 114.33000183105469,
+   "kurs": 114.43000030517578,
    "vortag": 113.16999816894531,
-   "veraenderung_pct": 1.0250098797188967,
+   "veraenderung_pct": 1.113371173117339,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     108.790001,
     108.82,
     113.169998,
-    114.330002
+    114.43
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81648.8828125,
+   "kurs": 81763.5078125,
    "vortag": 84011.96875,
-   "veraenderung_pct": -2.812796762961234,
+   "veraenderung_pct": -2.6763578701397783,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81853.539062,
     82941.0,
     84011.96875,
-    81648.882812
+    81763.507812
    ]
   }
  ],
@@ -223,17 +223,17 @@
    "name": "Schweiz",
    "quelle": "snb",
    "verfuegbar": true,
-   "wert": 0.553,
-   "vortag": 0.539,
-   "veraenderung_bp": 1.4,
-   "datum": "2026-10-21",
+   "wert": 0.525,
+   "vortag": 0.553,
+   "veraenderung_bp": -2.8,
+   "datum": "2026-10-22",
    "ist_heute": false,
    "verlauf": [
-    0.53,
     0.572,
     0.577,
     0.539,
-    0.553
+    0.553,
+    0.525
    ]
   },
   {
@@ -374,9 +374,9 @@
   ],
   "artikel": [
    {
-    "titel": "SK Hynix shares rebound after initial drop on scrapped Solidigm IPO plans",
-    "link": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
-    "zeit": "2026-10-23T05:01:31+00:00",
+    "titel": "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine",
+    "link": "https://www.cnbc.com/2026/10/23/saab-q3-earnings-figther-jet-maker-beats-expectations-as-orders-triple.html",
+    "zeit": "2026-10-23T06:15:54+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
