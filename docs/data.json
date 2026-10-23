@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-23T20:00:28+02:00",
+ "aktualisiert": "2026-10-23T20:34:03+02:00",
  "kernaussagen": [
   "SMI −0.59%, Nikkei 225 −2.65% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9238 (−0.22%)",
-  "Brent über 100 USD: 111.27 (−1.68%)"
+  "Franken stärker: EUR/CHF 0.9237 (−0.23%)",
+  "Brent über 100 USD: 111.64 (−1.35%)"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7637.33984375,
+   "kurs": 7634.81005859375,
    "vortag": 7663.43017578125,
-   "veraenderung_pct": -0.34045240098491414,
+   "veraenderung_pct": -0.3734635343576098,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7712.569824,
     7757.169922,
     7663.430176,
-    7637.339844
+    7634.810059
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26022.76171875,
+   "kurs": 26006.41796875,
    "vortag": 26008.859375,
-   "veraenderung_pct": 0.05345233925699855,
+   "veraenderung_pct": -0.009386825522794684,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26424.820312,
     26702.859375,
     26008.859375,
-    26022.761719
+    26006.417969
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.923770010471344,
+   "kurs": 0.9236999750137329,
    "vortag": 0.925790011882782,
-   "veraenderung_pct": -0.218192180247212,
+   "veraenderung_pct": -0.22575712010529658,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.9272,
     0.92684,
     0.92579,
-    0.92377
+    0.9237
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8253700137138367,
+   "kurs": 0.8251500129699707,
    "vortag": 0.8240000009536743,
-   "veraenderung_pct": 0.16626368429328853,
+   "veraenderung_pct": 0.1395645649229893,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82685,
     0.82563,
     0.824,
-    0.82537
+    0.82515
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4010.10009765625,
+   "kurs": 4012.60009765625,
    "vortag": 4060.39990234375,
-   "veraenderung_pct": -1.2387894270824429,
+   "veraenderung_pct": -1.177219136960106,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4142.600098,
     4150.0,
     4060.399902,
-    4010.100098
+    4012.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.2699966430664,
+   "kurs": 111.63999938964844,
    "vortag": 113.16999816894531,
-   "veraenderung_pct": -1.67889154070896,
+   "veraenderung_pct": -1.3519473394466464,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     108.790001,
     108.82,
     113.169998,
-    111.269997
+    111.639999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81513.1484375,
+   "kurs": 81425.609375,
    "vortag": 81311.890625,
-   "veraenderung_pct": 0.24751338451614036,
+   "veraenderung_pct": 0.13985500659978722,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82941.0,
     84011.96875,
     81311.890625,
-    81513.148438
+    81425.609375
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.986,
+   "wert": 4.99,
    "vortag": 4.953,
-   "veraenderung_bp": 3.3,
+   "veraenderung_bp": 3.7,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.117,
     5.146,
     4.953,
-    4.986
+    4.99
    ]
   }
  ],
@@ -374,12 +374,36 @@
   ],
   "artikel": [
    {
-    "titel": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
-    "link": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
-    "zeit": "2026-10-23T17:42:30+00:00",
+    "titel": "U.S. dropping some Canada tariffs, Susan Collins says as trade war looms over Maine Senate race",
+    "link": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
+    "zeit": "2026-10-23T18:31:45+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
+    "link": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
+    "zeit": "2026-10-23T18:24:49+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East",
+    "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
+    "zeit": "2026-10-23T18:23:35+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Vermögenskonzentration – Linker Starökonom fordert Mindeststeuer für Superreiche",
+    "link": "https://www.srf.ch/news/wirtschaft/vermoegenskonzentration-linker-staroekonom-fordert-mindeststeuer-fuer-superreiche",
+    "zeit": "2026-10-23T18:00:33+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
@@ -393,14 +417,6 @@
     "titel": "Investors are starting to find opportunities in the battered bond market",
     "link": "https://www.cnbc.com/2026/10/23/investors-are-starting-to-find-opportunities-in-the-battered-bond-market.html",
     "zeit": "2026-10-23T17:40:31+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
-    "link": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
-    "zeit": "2026-10-23T17:26:23+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -441,14 +457,6 @@
     "titel": "AI's 'Black October': Critical PHP flaws set off global security scramble",
     "link": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
     "zeit": "2026-10-23T16:55:37+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
-    "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
-    "zeit": "2026-10-23T16:51:21+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -681,14 +689,6 @@
     "titel": "Cybersicherheit – Gravierende PHP-Sicherheitslücke bedroht Millionen Webseiten",
     "link": "https://www.srf.ch/news/wirtschaft/cybersicherheit-gravierende-php-sicherheitsluecke-bedroht-millionen-webseiten",
     "zeit": "2026-10-21T15:07:10+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Nach Betrugswelle – EU startet Ermittlungen gegen Booking.com",
-    "link": "https://www.srf.ch/news/wirtschaft/nach-betrugswelle-eu-startet-ermittlungen-gegen-booking-com",
-    "zeit": "2026-10-21T14:05:28+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
