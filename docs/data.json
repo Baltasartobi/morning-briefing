@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-23T09:42:07+02:00",
+ "aktualisiert": "2026-10-23T10:34:05+02:00",
  "kernaussagen": [
-  "SMI −0.41%, Nasdaq −2.60% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9214 (−0.48%)",
-  "Brent über 100 USD: 109.43 (−3.30%)"
+  "SMI −0.54%, Nasdaq −2.60% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9219 (−0.42%)",
+  "Brent über 100 USD: 109.17 (−3.53%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14488.9599609375,
+   "kurs": 14469.0595703125,
    "vortag": 14547.9697265625,
-   "veraenderung_pct": -0.40562199904263796,
+   "veraenderung_pct": -0.5424135307755096,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14478.370117,
     14552.389648,
     14547.969727,
-    14488.959961
+    14469.05957
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25248.80078125,
+   "kurs": 25271.880859375,
    "vortag": 25371.75,
-   "veraenderung_pct": -0.4845910067299286,
+   "veraenderung_pct": -0.39362338279779197,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25304.419922,
     25645.039062,
     25371.75,
-    25248.800781
+    25271.880859
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6071.10009765625,
+   "kurs": 6069.02978515625,
    "vortag": 6087.009765625,
-   "veraenderung_pct": -0.2613708303639717,
+   "veraenderung_pct": -0.29538280963976593,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6121.660156,
     6207.52002,
     6087.009766,
-    6071.100098
+    6069.029785
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9213600158691406,
+   "kurs": 0.9218599796295166,
    "vortag": 0.925790011882782,
-   "veraenderung_pct": -0.47850980857225833,
+   "veraenderung_pct": -0.42450579535556754,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.9272,
     0.92684,
     0.92579,
-    0.92136
+    0.92186
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8227400183677673,
+   "kurs": 0.8235300183296204,
    "vortag": 0.8240000009536743,
-   "veraenderung_pct": -0.15291050782144655,
+   "veraenderung_pct": -0.05703672615412492,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82685,
     0.82563,
     0.824,
-    0.82274
+    0.82353
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4035.60009765625,
+   "kurs": 4030.60009765625,
    "vortag": 4060.39990234375,
-   "veraenderung_pct": -0.6107724678346305,
+   "veraenderung_pct": -0.7339130480793044,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4142.600098,
     4150.0,
     4060.399902,
-    4035.600098
+    4030.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.43000030517578,
+   "kurs": 109.16999816894531,
    "vortag": 113.16999816894531,
-   "veraenderung_pct": -3.3047609121511945,
+   "veraenderung_pct": -3.534505668214838,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     108.790001,
     108.82,
     113.169998,
-    109.43
+    109.169998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81644.03125,
+   "kurs": 81715.109375,
    "vortag": 81311.890625,
-   "veraenderung_pct": 0.4084773118015361,
+   "veraenderung_pct": 0.49589149495932183,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82941.0,
     84011.96875,
     81311.890625,
-    81644.03125
+    81715.109375
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.44000244140625,
+   "kurs": 83.45999908447266,
    "vortag": 84.37000274658203,
-   "veraenderung_pct": -1.1022878687928617,
+   "veraenderung_pct": -1.078586739937304,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     83.110001,
     83.470001,
     84.370003,
-    83.440002
+    83.459999
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 127.94000244140625,
+   "kurs": 127.33999633789062,
    "vortag": 126.87999725341797,
-   "veraenderung_pct": 0.8354391637250158,
+   "veraenderung_pct": 0.3625465750554113,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     124.199997,
     126.5,
     126.879997,
-    127.940002
+    127.339996
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 390.29998779296875,
+   "kurs": 389.29998779296875,
    "vortag": 392.1000061035156,
-   "veraenderung_pct": -0.459071227372454,
+   "veraenderung_pct": -0.7141082037646407,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     389.899994,
     392.0,
     392.100006,
-    390.299988
+    389.299988
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.349998474121094,
+   "kurs": 38.36000061035156,
    "vortag": 38.38999938964844,
-   "veraenderung_pct": -0.10419618693229271,
+   "veraenderung_pct": -0.07814217185156958,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.099998,
     39.540001,
     38.389999,
-    38.349998
+    38.360001
    ]
   }
  ],
@@ -374,12 +374,36 @@
   ],
   "artikel": [
    {
-    "titel": "Volvo Cars shares plunge 28% amid China sales slump and fresh job cuts",
+    "titel": "Volvo Cars plunges 27% as CEO says China sales slump came 'faster than we thought'",
     "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
-    "zeit": "2026-10-23T07:29:28+00:00",
+    "zeit": "2026-10-23T08:33:13+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine",
+    "link": "https://www.cnbc.com/2026/10/23/saab-q3-earnings-figther-jet-maker-beats-expectations-as-orders-triple.html",
+    "zeit": "2026-10-23T08:10:27+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Japan core inflation in September surges to its highest this year at 2.1%",
+    "link": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
+    "zeit": "2026-10-23T08:06:37+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Telekommunikation – Sunrise streicht nach Konsultationsverfahren 358 Jobs",
+    "link": "https://www.srf.ch/news/wirtschaft/telekommunikation-sunrise-streicht-nach-konsultationsverfahren-358-jobs",
+    "zeit": "2026-10-23T07:51:16+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Die PHP-Lücke zeigt: Das Internet ist nicht sicher genug für das KI-Zeitalter",
@@ -390,12 +414,12 @@
     "sprache": "de"
    },
    {
-    "titel": "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine",
-    "link": "https://www.cnbc.com/2026/10/23/saab-q3-earnings-figther-jet-maker-beats-expectations-as-orders-triple.html",
-    "zeit": "2026-10-23T06:15:54+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "UBP findet Partner-Bank in Taiwan",
+    "link": "https://www.finews.ch/news/banken/74130-ubp-taishin-bank-taiwan-partnerschaft",
+    "zeit": "2026-10-23T05:46:09+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Sport als Wirtschaftsfaktor – BMC, On, Stöckli & Co.: Sportunternehmen sollen Verband erhalten",
@@ -476,14 +500,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Japan core inflation in September surges to its highest this year at 2.1%",
-    "link": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
-    "zeit": "2026-10-23T00:55:11+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
@@ -662,14 +678,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Beliebtester Streamingdienst – Bei Netflix läuft nicht mehr alles rund",
-    "link": "https://www.srf.ch/news/wirtschaft/beliebtester-streamingdienst-bei-netflix-laeuft-nicht-mehr-alles-rund",
-    "zeit": "2026-10-21T12:29:55+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Nachhaltige Fixed-Income-Boutique verstärkt sich personell",
     "link": "https://www.finews.ch/news/finanzplatz/74106-esgam-christian-zoss-businessdevelopment-nachhaltigkeit-fixedincome-avadis",
     "zeit": "2026-10-21T12:11:42+00:00",
@@ -681,14 +689,6 @@
     "titel": "ETF-Boom in Deutschland: Was Schweizer Anbieter aufhorchen lässt",
     "link": "https://www.finews.ch/news/finanzplatz/74103-deutschland-etfs-im-wert-von-697-milliarden-euro-untersuchung-des-fondsverbands-bvi-zeigt-starke-konzentration-aktien-etfs-entfallen-96-prozent-des-vermoegens-auf-indizes-von-nur-fuenf-anbietern",
     "zeit": "2026-10-21T11:04:36+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Christian Gattiker: «Es nimmt Dimensionen an, die schwindelerregend sind»",
-    "link": "https://www.finews.ch/news/banken/74101-christian-gattiker-julius-baer-ai-investment-boom-europe-switzerland",
-    "zeit": "2026-10-21T08:49:42+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
