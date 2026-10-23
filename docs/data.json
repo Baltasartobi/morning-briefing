@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-23T06:31:40+02:00",
+ "aktualisiert": "2026-10-23T07:05:34+02:00",
  "kernaussagen": [
   "SMI −0.03%, Nasdaq −2.60% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9206 (−0.56%)",
-  "Bitcoin −2.85% auf 81'614 USD · Brent über 100 USD"
+  "Franken stärker: EUR/CHF 0.9209 (−0.53%)",
+  "Bitcoin −2.94% auf 81'546 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 62298.078125,
+   "kurs": 62269.28125,
    "vortag": 62907.83984375,
-   "veraenderung_pct": -0.9692936846417255,
+   "veraenderung_pct": -1.015069974324423,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     64075.421875,
     64621.238281,
     62907.839844,
-    62298.078125
+    62269.28125
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9205700159072876,
+   "kurs": 0.9209200143814087,
    "vortag": 0.925790011882782,
-   "veraenderung_pct": -0.563842330171449,
+   "veraenderung_pct": -0.5260369456210889,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.9272,
     0.92684,
     0.92579,
-    0.92057
+    0.92092
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.821150004863739,
-   "vortag": 0.8240000009536743,
-   "veraenderung_pct": -0.3458733114850454,
-   "datum": "2026-10-23",
-   "ist_heute": true,
+   "kurs": 0.8240000009536743,
+   "vortag": 0.8256300091743469,
+   "veraenderung_pct": -0.1974259901602493,
+   "datum": "2026-10-22",
+   "ist_heute": false,
    "verlauf": [
+    0.82775,
     0.82375,
     0.82685,
     0.82563,
-    0.824,
-    0.82115
+    0.824
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4023.39990234375,
+   "kurs": 4017.800048828125,
    "vortag": 4060.39990234375,
-   "veraenderung_pct": -0.9112402938105335,
+   "veraenderung_pct": -1.0491541360503787,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4142.600098,
     4150.0,
     4060.399902,
-    4023.399902
+    4017.800049
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 113.55000305175781,
+   "kurs": 113.91000366210938,
    "vortag": 113.16999816894531,
-   "veraenderung_pct": 0.33578235306253035,
+   "veraenderung_pct": 0.6538884025246272,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     108.790001,
     108.82,
     113.169998,
-    113.550003
+    113.910004
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81614.0078125,
+   "kurs": 81545.90625,
    "vortag": 84011.96875,
-   "veraenderung_pct": -2.8543087052700478,
+   "veraenderung_pct": -2.9353704438690453,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81853.539062,
     82941.0,
     84011.96875,
-    81614.007812
+    81545.90625
    ]
   }
  ],
@@ -364,7 +364,7 @@
    {
     "name": "finews.ch",
     "gruppe": "Schweiz",
-    "verfuegbar": false
+    "verfuegbar": true
    },
    {
     "name": "CNBC",
@@ -376,7 +376,23 @@
    {
     "titel": "SK Hynix shares rebound after initial drop on scrapped Solidigm IPO plans",
     "link": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
-    "zeit": "2026-10-23T04:05:35+00:00",
+    "zeit": "2026-10-23T05:01:31+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Sport als Wirtschaftsfaktor – BMC, On, Stöckli & Co.: Sportunternehmen sollen Verband erhalten",
+    "link": "https://www.srf.ch/news/wirtschaft/sport-als-wirtschaftsfaktor-bmc-on-stoeckli-co-sportunternehmen-sollen-verband-erhalten",
+    "zeit": "2026-10-23T04:57:33+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens",
+    "link": "https://www.cnbc.com/2026/10/23/wealthy-chinese-tax-offshore-trusts-capital-control-.html",
+    "zeit": "2026-10-23T04:55:59+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -428,14 +444,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens",
-    "link": "https://www.cnbc.com/2026/10/23/wealthy-chinese-tax-offshore-trusts-capital-control-.html",
-    "zeit": "2026-10-23T01:23:12+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Japan core inflation in September surges to its highest this year at 2.1%",
@@ -542,6 +550,14 @@
     "sprache": "de"
    },
    {
+    "titel": "Baselbieter Landrat lehnt Lohndeckelung bei BLKB ab",
+    "link": "https://www.finews.ch/news/banken/74121-baselbieter-landrat-lehnt-lohndeckelung-bei-blkb-ab",
+    "zeit": "2026-10-22T11:20:27+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Essenslieferdienst krempelt um – Just Eat: Entlassungen wegen neuem Modell",
     "link": "https://www.srf.ch/news/wirtschaft/essenslieferdienst-krempelt-um-just-eat-entlassungen-wegen-neuem-modell",
     "zeit": "2026-10-22T10:51:09+00:00",
@@ -566,10 +582,42 @@
     "sprache": "de"
    },
    {
+    "titel": "Liechtenstein regelt Zusammenarbeit zwischen Polizei, Justiz und Banken",
+    "link": "https://www.finews.ch/news/banken/74119-liechtenstein-regeln-polizei-justiz-banken-bankdaten",
+    "zeit": "2026-10-22T07:41:21+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Klaus Wellershoff gründet mit ETH-Studenten KI-Startup",
+    "link": "https://www.finews.ch/news/finanzplatz/74116-klaus-wellershoff-ryan-fuchs-boris-kantor-turiq-startup-ki-plattform-investmentkommunikation-hackathon",
+    "zeit": "2026-10-22T06:01:10+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Sicherheitslücke bei PHP – Private Server-Betreiber sollten jetzt rasch handeln",
     "link": "https://www.srf.ch/news/wirtschaft/sicherheitsluecke-bei-php-private-server-betreiber-sollten-jetzt-rasch-handeln",
     "zeit": "2026-10-22T06:00:07+00:00",
     "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Frankreich wird zum Kreditrisiko, der Franken zum Fiebermesser",
+    "link": "https://www.finews.ch/news/finanzplatz/74113-credit-default-swaps-cds-fankreich-spanien-deutschland-eurozone-franken-euro-kurs",
+    "zeit": "2026-10-22T05:29:27+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Valiant präsentiert interne Nachfolge für CEO-Posten",
+    "link": "https://www.finews.ch/news/banken/74107-valiant-ceo-kathrin-wehrli",
+    "zeit": "2026-10-22T03:56:39+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -606,10 +654,42 @@
     "sprache": "de"
    },
    {
-    "titel": "Lieferkettenprobleme – Nachhaltigkeit – für Unternehmen nicht nur nett, sondern wichtig",
-    "link": "https://www.srf.ch/news/wirtschaft/lieferkettenprobleme-nachhaltigkeit-fuer-unternehmen-nicht-nur-nett-sondern-wichtig",
-    "zeit": "2026-10-21T07:05:14+00:00",
-    "quelle": "SRF Wirtschaft",
+    "titel": "Nachhaltige Fixed-Income-Boutique verstärkt sich personell",
+    "link": "https://www.finews.ch/news/finanzplatz/74106-esgam-christian-zoss-businessdevelopment-nachhaltigkeit-fixedincome-avadis",
+    "zeit": "2026-10-21T12:11:42+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "ETF-Boom in Deutschland: Was Schweizer Anbieter aufhorchen lässt",
+    "link": "https://www.finews.ch/news/finanzplatz/74103-deutschland-etfs-im-wert-von-697-milliarden-euro-untersuchung-des-fondsverbands-bvi-zeigt-starke-konzentration-aktien-etfs-entfallen-96-prozent-des-vermoegens-auf-indizes-von-nur-fuenf-anbietern",
+    "zeit": "2026-10-21T11:04:36+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Christian Gattiker: «Es nimmt Dimensionen an, die schwindelerregend sind»",
+    "link": "https://www.finews.ch/news/banken/74101-christian-gattiker-julius-baer-ai-investment-boom-europe-switzerland",
+    "zeit": "2026-10-21T08:49:42+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "AllianzGI nimmt Schweizer Single Family Offices ins Visier",
+    "link": "https://www.finews.ch/news/finanzplatz/74099-allianzgi-bjoern-jesch-swiss-single-family-offices",
+    "zeit": "2026-10-21T08:16:16+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Wettbewerbsfähigkeit: Bundesrat klopft sich auf die Schulter",
+    "link": "https://www.finews.ch/news/finanzplatz/74098-wettbewerbsfaehigkeit-massnahmenpaket-zwischenbilanz-bundesrat-mindestbesteuerung-kurzarbeit",
+    "zeit": "2026-10-21T08:00:05+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    }
