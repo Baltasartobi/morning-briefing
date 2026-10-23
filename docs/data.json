@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-23T10:34:05+02:00",
+ "aktualisiert": "2026-10-23T11:10:55+02:00",
  "kernaussagen": [
-  "SMI −0.54%, Nasdaq −2.60% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9219 (−0.42%)",
-  "Brent über 100 USD: 109.17 (−3.53%)"
+  "SMI −0.51%, Nasdaq −2.60% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9207 (−0.55%)",
+  "Brent über 100 USD: 109.23 (−3.48%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14469.0595703125,
+   "kurs": 14474.26953125,
    "vortag": 14547.9697265625,
-   "veraenderung_pct": -0.5424135307755096,
+   "veraenderung_pct": -0.5066012419446708,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14478.370117,
     14552.389648,
     14547.969727,
-    14469.05957
+    14474.269531
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25271.880859375,
+   "kurs": 25230.58984375,
    "vortag": 25371.75,
-   "veraenderung_pct": -0.39362338279779197,
+   "veraenderung_pct": -0.5563674411500963,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25304.419922,
     25645.039062,
     25371.75,
-    25271.880859
+    25230.589844
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6069.02978515625,
+   "kurs": 6059.64990234375,
    "vortag": 6087.009765625,
-   "veraenderung_pct": -0.29538280963976593,
+   "veraenderung_pct": -0.4494795365001525,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6121.660156,
     6207.52002,
     6087.009766,
-    6069.029785
+    6059.649902
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9218599796295166,
+   "kurs": 0.9206900000572205,
    "vortag": 0.925790011882782,
-   "veraenderung_pct": -0.42450579535556754,
+   "veraenderung_pct": -0.5508821395890373,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.9272,
     0.92684,
     0.92579,
-    0.92186
+    0.92069
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8235300183296204,
+   "kurs": 0.822629988193512,
    "vortag": 0.8240000009536743,
-   "veraenderung_pct": -0.05703672615412492,
+   "veraenderung_pct": -0.16626368429328853,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82685,
     0.82563,
     0.824,
-    0.82353
+    0.82263
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4030.60009765625,
+   "kurs": 4036.0,
    "vortag": 4060.39990234375,
-   "veraenderung_pct": -0.7339130480793044,
+   "veraenderung_pct": -0.6009236265045237,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4142.600098,
     4150.0,
     4060.399902,
-    4030.600098
+    4036.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.16999816894531,
+   "kurs": 109.2300033569336,
    "vortag": 113.16999816894531,
-   "veraenderung_pct": -3.534505668214838,
+   "veraenderung_pct": -3.4814834989481236,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     108.790001,
     108.82,
     113.169998,
-    109.169998
+    109.230003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81715.109375,
+   "kurs": 81682.40625,
    "vortag": 81311.890625,
-   "veraenderung_pct": 0.49589149495932183,
+   "veraenderung_pct": 0.4556721312861445,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     82941.0,
     84011.96875,
     81311.890625,
-    81715.109375
+    81682.40625
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.45999908447266,
+   "kurs": 83.55999755859375,
    "vortag": 84.37000274658203,
-   "veraenderung_pct": -1.078586739937304,
+   "veraenderung_pct": -0.9600630100976226,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     83.110001,
     83.470001,
     84.370003,
-    83.459999
+    83.559998
    ]
   },
   {
@@ -297,17 +297,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 127.33999633789062,
-   "vortag": 126.87999725341797,
-   "veraenderung_pct": 0.3625465750554113,
+   "kurs": 127.37999725341797,
+   "vortag": 128.8800048828125,
+   "veraenderung_pct": -1.1638792462480563,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
-    124.699997,
     124.199997,
     126.5,
     126.879997,
-    127.339996
+    128.880005,
+    127.379997
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 389.29998779296875,
+   "kurs": 390.6000061035156,
    "vortag": 392.1000061035156,
-   "veraenderung_pct": -0.7141082037646407,
+   "veraenderung_pct": -0.3825554645882856,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     389.899994,
     392.0,
     392.100006,
-    389.299988
+    390.600006
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.36000061035156,
+   "kurs": 38.31999969482422,
    "vortag": 38.38999938964844,
-   "veraenderung_pct": -0.07814217185156958,
+   "veraenderung_pct": -0.1823383587838623,
    "datum": "2026-10-23",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.099998,
     39.540001,
     38.389999,
-    38.360001
+    38.32
    ]
   }
  ],
@@ -373,6 +373,30 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "France is flashing euro crisis signals. This time, the fault lines are different",
+    "link": "https://www.cnbc.com/2026/10/23/france-debt-euro-zone-contagion.html",
+    "zeit": "2026-10-23T09:03:26+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "U.S. oil holds above $100, Brent at five-month high as Iran says it’s prepared for warfare",
+    "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
+    "zeit": "2026-10-23T09:02:44+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Nvidia's Huang heads to Kazakhstan for the first time — and he's not the only one with big plans",
+    "link": "https://www.cnbc.com/2026/10/23/nvidia-huang-investment-kazakhstan-.html",
+    "zeit": "2026-10-23T08:45:32+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
    {
     "titel": "Volvo Cars plunges 27% as CEO says China sales slump came 'faster than we thought'",
     "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
@@ -521,30 +545,6 @@
     "titel": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
     "link": "https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html",
     "zeit": "2026-10-22T22:21:08+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
-    "link": "https://www.cnbc.com/2026/10/22/trump-world-liberty-crypto-lawsuit-uae.html",
-    "zeit": "2026-10-22T22:02:34+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
-    "link": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
-    "zeit": "2026-10-22T21:58:42+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Moderna shares plunge after cancer vaccine data leaks — despite positive results",
-    "link": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
-    "zeit": "2026-10-22T21:52:02+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
