@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-26T17:45:00+01:00",
+ "aktualisiert": "2026-10-26T18:36:36+01:00",
  "kernaussagen": [
-  "SMI +0.54%, DAX +1.03% führt",
-  "Franken schwächer: EUR/CHF 0.9251 (+0.56%)",
-  "Brent über 100 USD: 112.10 (−3.96%)"
+  "SMI +0.53%, Nasdaq +1.02% führt",
+  "Franken schwächer: EUR/CHF 0.9252 (+0.57%)",
+  "Brent über 100 USD: 111.18 (−4.75%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14540.58984375,
+   "kurs": 14538.9501953125,
    "vortag": 14462.3603515625,
-   "veraenderung_pct": 0.5409178743015275,
+   "veraenderung_pct": 0.5295805241205098,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14552.389648,
     14547.969727,
     14462.360352,
-    14540.589844
+    14538.950195
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25439.990234375,
+   "kurs": 25410.83984375,
    "vortag": 25181.650390625,
-   "veraenderung_pct": 1.0259051322790924,
+   "veraenderung_pct": 0.9101446869833607,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25645.039062,
     25371.75,
     25181.650391,
-    25439.990234
+    25410.839844
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6120.89013671875,
+   "kurs": 6116.22998046875,
    "vortag": 6068.22021484375,
-   "veraenderung_pct": 0.8679632579279506,
+   "veraenderung_pct": 0.7911671614613036,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6207.52002,
     6087.009766,
     6068.220215,
-    6120.890137
+    6116.22998
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7672.35986328125,
+   "kurs": 7682.52001953125,
    "vortag": 7623.68017578125,
-   "veraenderung_pct": 0.6385326558509652,
+   "veraenderung_pct": 0.7718036747779822,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7757.169922,
     7663.430176,
     7623.680176,
-    7672.359863
+    7682.52002
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26175.296875,
+   "kurs": 26219.236328125,
    "vortag": 25955.33984375,
-   "veraenderung_pct": 0.8474442352677025,
+   "veraenderung_pct": 1.0167329187891427,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26702.859375,
     26008.859375,
     25955.339844,
-    26175.296875
+    26219.236328
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9251099824905396,
+   "kurs": 0.9251700043678284,
    "vortag": 0.919950008392334,
-   "veraenderung_pct": 0.5608972282334035,
+   "veraenderung_pct": 0.5674216998613479,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92684,
     0.92579,
     0.91995,
-    0.92511
+    0.92517
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8271700143814087,
+   "kurs": 0.8265299797058105,
    "vortag": 0.8198099732398987,
-   "veraenderung_pct": 0.897774042980104,
+   "veraenderung_pct": 0.8197029415675905,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82563,
     0.824,
     0.81981,
-    0.82717
+    0.82653
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4032.5,
+   "kurs": 4040.39990234375,
    "vortag": 4007.89990234375,
-   "veraenderung_pct": 0.613790220705468,
+   "veraenderung_pct": 0.8108984952691634,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4150.0,
     4060.399902,
     4007.899902,
-    4032.5
+    4040.399902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 112.0999984741211,
+   "kurs": 111.18000030517578,
    "vortag": 116.72000122070312,
-   "veraenderung_pct": -3.958192853207887,
+   "veraenderung_pct": -4.746402379701731,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     108.82,
     113.169998,
     116.720001,
-    112.099998
+    111.18
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 79752.5703125,
+   "kurs": 80274.6015625,
    "vortag": 80024.0078125,
-   "veraenderung_pct": -0.3391950833504742,
+   "veraenderung_pct": 0.31314821245538305,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81074.1875,
     80790.835938,
     80024.007812,
-    79752.570312
+    80274.601562
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.98,
+   "wert": 4.982,
    "vortag": 4.988,
-   "veraenderung_bp": -0.8,
+   "veraenderung_bp": -0.6,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.146,
     4.953,
     4.988,
-    4.98
+    4.982
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.37999725341797,
+   "kurs": 83.7300033569336,
    "vortag": 83.69999694824219,
-   "veraenderung_pct": -0.3823174510055205,
+   "veraenderung_pct": 0.035849951953959014,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     83.470001,
     84.370003,
     83.699997,
-    83.379997
+    83.730003
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 127.68000030517578,
+   "kurs": 127.4800033569336,
    "vortag": 128.0,
-   "veraenderung_pct": -0.2499997615814209,
+   "veraenderung_pct": -0.4062473773956299,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     126.879997,
     128.880005,
     128.0,
-    127.68
+    127.480003
    ]
   },
   {
@@ -334,19 +334,7 @@
    "symbol": "UBSG.SW",
    "einheit": "CHF",
    "dezimalen": 2,
-   "verfuegbar": true,
-   "kurs": 38.63999938964844,
-   "vortag": 38.31999969482422,
-   "veraenderung_pct": 0.8350722791562015,
-   "datum": "2026-10-26",
-   "ist_heute": true,
-   "verlauf": [
-    39.099998,
-    39.540001,
-    38.389999,
-    38.32,
-    38.639999
-   ]
+   "verfuegbar": false
   }
  ],
  "news": {
@@ -374,25 +362,41 @@
   ],
   "artikel": [
    {
+    "titel": "Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate",
+    "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+    "zeit": "2026-10-26T17:36:07+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
     "link": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
-    "zeit": "2026-10-26T16:43:16+00:00",
+    "zeit": "2026-10-26T17:33:48+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "‘Ticking time bomb’: The world's pension funds face an ageing crisis",
-    "link": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
-    "zeit": "2026-10-26T16:34:32+00:00",
+    "titel": "Lula wins Brazil runoff after prediction markets favored Bolsonaro",
+    "link": "https://www.cnbc.com/2026/10/26/lula-brazil-election-prediction-markets.html",
+    "zeit": "2026-10-26T17:29:37+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Microsoft offers voluntary buyouts to 60,000 employees",
+    "titel": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
     "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-    "zeit": "2026-10-26T16:30:43+00:00",
+    "zeit": "2026-10-26T17:27:45+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Cramer: I asked some tech insiders what to buy. They surprisingly said this drug stock",
+    "link": "https://www.cnbc.com/investingclub/2026/10/26/cramer-i-asked-tech-insiders-what-to-buy-they-said-eli-lilly.html",
+    "zeit": "2026-10-26T17:00:14+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -406,9 +410,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Brent oil tops $117 as Saudi defense minister travels to Iran for talks to de-escalate conflict",
-    "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-    "zeit": "2026-10-26T16:06:36+00:00",
+    "titel": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
+    "link": "https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html",
+    "zeit": "2026-10-26T16:03:57+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -457,22 +461,6 @@
     "titel": "Investors are doing just as well this year by shunning AI. How to invest if the tech trade keeps fizzling",
     "link": "https://www.cnbc.com/2026/10/26/sp-500-ex-ai-index-tech-selloff.html",
     "zeit": "2026-10-26T15:39:55+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital",
-    "link": "https://www.cnbc.com/2026/10/26/apollo-mubadala-capital-stake.html",
-    "zeit": "2026-10-26T15:19:41+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Fanatics teams up with OpenAI for new AI-powered shopping suggestion feature",
-    "link": "https://www.cnbc.com/2026/10/26/fanatics-openai-codex-sports-merchandise-shopping.html",
-    "zeit": "2026-10-26T15:05:13+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
