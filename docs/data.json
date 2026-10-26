@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-26T12:12:40+01:00",
+ "aktualisiert": "2026-10-26T14:55:11+01:00",
  "kernaussagen": [
-  "SMI +0.30%, DAX +0.85% führt",
+  "SMI +0.31%, DAX +1.09% führt",
   "Franken stärker: EUR/CHF 0.9200 (−0.63%)",
-  "Brent über 100 USD: 109.64 (−6.07%)"
+  "Brent über 100 USD: 110.40 (−5.41%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14506.3203125,
+   "kurs": 14507.8896484375,
    "vortag": 14462.3603515625,
-   "veraenderung_pct": 0.30396117832003355,
+   "veraenderung_pct": 0.31481235267436514,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14552.389648,
     14547.969727,
     14462.360352,
-    14506.320312
+    14507.889648
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25395.349609375,
+   "kurs": 25457.0703125,
    "vortag": 25181.650390625,
-   "veraenderung_pct": 0.8486307109940583,
+   "veraenderung_pct": 1.0937326092714583,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25645.039062,
     25371.75,
     25181.650391,
-    25395.349609
+    25457.070312
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6096.14013671875,
+   "kurs": 6119.2998046875,
    "vortag": 6068.22021484375,
-   "veraenderung_pct": 0.46010067015538336,
+   "veraenderung_pct": 0.8417557048902458,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6207.52002,
     6087.009766,
     6068.220215,
-    6096.140137
+    6119.299805
    ]
   },
   {
@@ -69,17 +69,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7623.68017578125,
-   "vortag": 7663.43017578125,
-   "veraenderung_pct": -0.5186972294159098,
-   "datum": "2026-10-23",
-   "ist_heute": false,
+   "kurs": 7664.4501953125,
+   "vortag": 7623.68017578125,
+   "veraenderung_pct": 0.5347813469506191,
+   "datum": "2026-10-26",
+   "ist_heute": true,
    "verlauf": [
-    7690.72998,
     7712.569824,
     7757.169922,
     7663.430176,
-    7623.680176
+    7623.680176,
+    7664.450195
    ]
   },
   {
@@ -88,17 +88,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25955.33984375,
-   "vortag": 26008.859375,
-   "veraenderung_pct": -0.2057742343804736,
-   "datum": "2026-10-23",
-   "ist_heute": false,
+   "kurs": 26071.681640625,
+   "vortag": 25955.33984375,
+   "veraenderung_pct": 0.4482383878437801,
+   "datum": "2026-10-26",
+   "ist_heute": true,
    "verlauf": [
-    26430.890625,
     26424.820312,
     26702.859375,
     26008.859375,
-    25955.339844
+    25955.339844,
+    26071.681641
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8258799910545349,
-   "vortag": 0.8198099732398987,
-   "veraenderung_pct": 0.7404176593079903,
-   "datum": "2026-10-26",
-   "ist_heute": true,
+   "kurs": 0.8198099732398987,
+   "vortag": 0.8240000009536743,
+   "veraenderung_pct": -0.5084985083648297,
+   "datum": "2026-10-23",
+   "ist_heute": false,
    "verlauf": [
+    0.82375,
     0.82685,
     0.82563,
     0.824,
-    0.81981,
-    0.82588
+    0.81981
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4029.199951171875,
+   "kurs": 4014.89990234375,
    "vortag": 4007.89990234375,
-   "veraenderung_pct": 0.531451616734957,
+   "veraenderung_pct": 0.17465506051952406,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4150.0,
     4060.399902,
     4007.899902,
-    4029.199951
+    4014.899902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.63999938964844,
+   "kurs": 110.4000015258789,
    "vortag": 116.72000122070312,
-   "veraenderung_pct": -6.0657999974376935,
+   "veraenderung_pct": -5.414667262446205,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     108.82,
     113.169998,
     116.720001,
-    109.639999
+    110.400002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80152.03125,
+   "kurs": 79449.09375,
    "vortag": 80024.0078125,
-   "veraenderung_pct": 0.1599812868657624,
+   "veraenderung_pct": -0.7184269798721554,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81074.1875,
     80790.835938,
     80024.007812,
-    80152.03125
+    79449.09375
    ]
   }
  ],
@@ -240,34 +240,34 @@
    "name": "Deutschland",
    "quelle": "bundesbank",
    "verfuegbar": true,
-   "wert": 3.39,
-   "vortag": 3.44,
-   "veraenderung_bp": -5.0,
-   "datum": "2026-10-23",
-   "ist_heute": false,
+   "wert": 3.43,
+   "vortag": 3.39,
+   "veraenderung_bp": 4.0,
+   "datum": "2026-10-26",
+   "ist_heute": true,
    "verlauf": [
-    3.49,
     3.48,
     3.47,
     3.44,
-    3.39
+    3.39,
+    3.43
    ]
   },
   {
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.988,
-   "vortag": 4.953,
-   "veraenderung_bp": 3.5,
-   "datum": "2026-10-23",
-   "ist_heute": false,
+   "wert": 4.974,
+   "vortag": 4.988,
+   "veraenderung_bp": -1.4,
+   "datum": "2026-10-26",
+   "ist_heute": true,
    "verlauf": [
-    5.136,
     5.117,
     5.146,
     4.953,
-    4.988
+    4.988,
+    4.974
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.2699966430664,
+   "kurs": 83.19999694824219,
    "vortag": 83.69999694824219,
-   "veraenderung_pct": -0.5137399293355771,
+   "veraenderung_pct": -0.5973715868940688,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     83.470001,
     84.370003,
     83.699997,
-    83.269997
+    83.199997
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 127.62000274658203,
+   "kurs": 126.62000274658203,
    "vortag": 128.0,
-   "veraenderung_pct": -0.2968728542327881,
+   "veraenderung_pct": -1.078122854232788,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     126.879997,
     128.880005,
     128.0,
-    127.620003
+    126.620003
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 395.79998779296875,
+   "kurs": 395.8999938964844,
    "vortag": 390.8999938964844,
-   "veraenderung_pct": 1.253515981834985,
+   "veraenderung_pct": 1.279099533914052,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     392.0,
     392.100006,
     390.899994,
-    395.799988
+    395.899994
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.45000076293945,
+   "kurs": 38.720001220703125,
    "vortag": 38.31999969482422,
-   "veraenderung_pct": 0.33925122429683263,
+   "veraenderung_pct": 1.0438453263686531,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.540001,
     38.389999,
     38.32,
-    38.450001
+    38.720001
    ]
   }
  ],
@@ -374,6 +374,134 @@
   ],
   "artikel": [
    {
+    "titel": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
+    "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
+    "zeit": "2026-10-26T13:43:14+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "MELDUNGEN WIRTSCHAFT - Starkes Wachstum bei Anthropic: Das KI-Unternehmen veröffentlicht seinen Antrag auf den Börsengang",
+    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
+    "zeit": "2026-10-26T13:38:57+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Oil prices fall as Saudi defense minister travels to Iran for talks to de-escalate conflict",
+    "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+    "zeit": "2026-10-26T13:28:57+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital",
+    "link": "https://www.cnbc.com/2026/10/26/apollo-mubadala-capital-stake.html",
+    "zeit": "2026-10-26T13:09:26+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Fanatics teams up with OpenAI for new AI-powered shopping suggestion feature",
+    "link": "https://www.cnbc.com/2026/10/26/fanatics-openai-codex-sports-merchandise-shopping.html",
+    "zeit": "2026-10-26T13:02:37+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Unsicherheit an Wall Street – Abwärtstrend bei Techaktien: Kurzer Schluckauf oder fataler Hype?",
+    "link": "https://www.srf.ch/news/wirtschaft/unsicherheit-an-wall-street-abwaertstrend-bei-techaktien-kurzer-schluckauf-oder-fataler-hype",
+    "zeit": "2026-10-26T12:49:42+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
+    "link": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
+    "zeit": "2026-10-26T12:49:14+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Meta announces $95 billion stock offering to fund AI expansion",
+    "link": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+    "zeit": "2026-10-26T12:42:41+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Can GOP Rep. Brian Fitzpatrick, a moderate who's bucked Trump, keep his Pennsylvania swing seat?",
+    "link": "https://www.cnbc.com/2026/10/26/brian-fitzpatrick-bob-harvie-pennsylvania-senate-election.html",
+    "zeit": "2026-10-26T12:33:16+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Radikaler Umbau bei der Migros: Aus elf Genossenschaften soll eine Super-Migros werden, und CEO Mario Irminger tritt zurück",
+    "link": "https://www.nzz.ch/wirtschaft/kommt-jetzt-die-einheitsgenossenschaft-heute-sagt-die-migros-wie-sie-sich-effizienter-aufstellen-will-ld.10044412",
+    "zeit": "2026-10-26T12:27:32+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Deutsche Bank will mit KI die Kredite sehr viel schneller bearbeiten",
+    "link": "https://www.finews.ch/news/banken/74153-deutsche-bank-einfache-firmen-kreditvergabe-kuenstliche-intelligenz-neue-technologiechefin-marie-jeanne-deverdun-intelligente-agenten-unsere-kunden-werden",
+    "zeit": "2026-10-26T12:23:10+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Caregiving for adult relatives can cost thousands. AARP survey finds support could matter to midterm voters",
+    "link": "https://www.cnbc.com/2026/10/26/family-caregiving-costs-2026-midterm-elections.html",
+    "zeit": "2026-10-26T12:15:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
+    "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+    "zeit": "2026-10-26T12:14:55+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Cracking AI trade has Wall Street looking for a hedge. An ex-Citadel quant may have the answer",
+    "link": "https://www.cnbc.com/2026/10/26/gpu-futures-ai-hedge-hyperbolic.html",
+    "zeit": "2026-10-26T12:08:13+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Zurich und Deutsche Bank erneuern Zusammenarbeit vorzeitig",
+    "link": "https://www.finews.ch/news/versicherungen/74151-zurich-zusammenarbeit-dws-deutsche-bank",
+    "zeit": "2026-10-26T12:01:20+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Umbau beim Detailhändler – Migros-Führung will Konzern komplett umbauen",
+    "link": "https://www.srf.ch/news/wirtschaft/umbau-beim-detailhaendler-migros-fuehrung-will-konzern-komplett-umbauen",
+    "zeit": "2026-10-26T11:29:33+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "INTERVIEW - «Wenn man nicht alles zubauen will, muss man auch über das Bevölkerungswachstum sprechen», sagt der Präsident der Hauseigentümer",
     "link": "https://www.nzz.ch/wirtschaft/wenn-man-nicht-alles-zubauen-will-muss-man-auch-ueber-das-bevoelkerungswachstum-sprechen-sagt-der-praesident-der-hauseigentuemer-ld.10038985",
     "zeit": "2026-10-26T10:50:49+00:00",
@@ -382,60 +510,20 @@
     "sprache": "de"
    },
    {
-    "titel": "Private equity pours billions into defense tech as investors debate a bubble",
-    "link": "https://www.cnbc.com/2026/10/26/defense-tech-private-equity-investment.html",
-    "zeit": "2026-10-26T10:46:33+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "‘Ticking time bomb’: The world's pension funds face an ageing crisis",
-    "link": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
-    "zeit": "2026-10-26T10:39:00+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Umbau beim Detailhändler – Migros-Führung will Genossenschaftsfusion",
-    "link": "https://www.srf.ch/news/wirtschaft/umbau-beim-detailhaendler-migros-fuehrung-will-genossenschaftsfusion",
-    "zeit": "2026-10-26T10:33:30+00:00",
-    "quelle": "SRF Wirtschaft",
+    "titel": "Themen-ETF erleben ein Comeback",
+    "link": "https://www.finews.ch/news/finanzplatz/74144-themen-etf-comeback-halbleiter-ruestung-zufluesse",
+    "zeit": "2026-10-26T10:28:03+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
    {
-    "titel": "LIVE-TICKER - Umbau bei der Migros – jetzt kommt die Einheitsgenossenschaft +++ CEO Mario Irminger tritt zurück",
+    "titel": "Die Migros-Pressekonferenz zum Nachlesen",
     "link": "https://www.nzz.ch/wirtschaft/umbau-bei-der-migros-kommt-jetzt-die-einheitsgenossenschaft-verfolgen-sie-die-pressekonferenz-live-ld.10044813",
     "zeit": "2026-10-26T10:14:56+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
-    "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
-    "zeit": "2026-10-26T10:13:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Can GOP Rep. Brian Fitzpatrick, a moderate who's bucked Trump, keep his Pennsylvania swing seat?",
-    "link": "https://www.cnbc.com/2026/10/26/brian-fitzpatrick-bob-harvie-pennsylvania-senate-election.html",
-    "zeit": "2026-10-26T10:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "How war, security and coalition math are shaping the Israeli election",
-    "link": "https://www.cnbc.com/2026/10/26/israel-election-netanyahu-iran-gaza-palestine.html",
-    "zeit": "2026-10-26T09:46:59+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Revolut startet eigenen Venture-Fonds",
@@ -462,14 +550,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
-    "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
-    "zeit": "2026-10-26T08:05:28+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Schlagzeilen zu Detailhändler – Die Migros lädt nach neuen Umbau-Gerüchten zur Medienkonferenz",
     "link": "https://www.srf.ch/news/wirtschaft/schlagzeilen-zu-detailhaendler-die-migros-laedt-nach-neuen-umbau-geruechten-zur-medienkonferenz",
     "zeit": "2026-10-26T07:59:53+00:00",
@@ -494,36 +574,12 @@
     "sprache": "de"
    },
    {
-    "titel": "Kommt jetzt die Einheitsgenossenschaft? Heute sagt die Migros, wie sie sich effizienter aufstellen will",
-    "link": "https://www.nzz.ch/wirtschaft/kommt-jetzt-die-einheitsgenossenschaft-heute-sagt-die-migros-wie-sie-sich-effizienter-aufstellen-will-ld.10044412",
-    "zeit": "2026-10-26T06:45:42+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "SBPV stützt Position der UBS und fürchtet weiteren Stellenabbau",
     "link": "https://www.finews.ch/news/banken/74137-sbpv-ubs-wak-s-wegzug-stellenabbau",
     "zeit": "2026-10-26T06:39:24+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
-    "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-    "zeit": "2026-10-26T05:18:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia",
-    "link": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
-    "zeit": "2026-10-26T04:56:16+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "KOMMENTAR - Angstzustände und geistige Lähmung: Immer mehr junge Chinesen verlieren den Glauben an eine bessere Zukunft",
@@ -564,30 +620,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Putin übt «Vergeltung» indem er Schulen, Spitäler und Supermärkte bombardiert. Doch das wird ihm nichts nützen",
-    "link": "https://www.nzz.ch/feuilleton/putin-uebt-vergeltung-indem-er-schulen-spitaeler-und-supermaerkte-bombardiert-doch-das-wird-ihm-nichts-nuetzen-ld.10026898",
-    "zeit": "2026-10-26T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Behind ‘Mad Money’ was a brilliant writer viewers never saw. We lost him too soon",
-    "link": "https://www.cnbc.com/investingclub/2026/10/25/jim-cramer-remembers-cliff-mason.html",
-    "zeit": "2026-10-26T00:28:36+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "In pictures: Protests over inequality, rising living costs turn violent across France",
-    "link": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
-    "zeit": "2026-10-25T23:55:22+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Geldgeschichte – Wie die Schweiz zum Sparen erzogen wurde",
@@ -654,41 +686,9 @@
     "sprache": "de"
    },
    {
-    "titel": "Telekommunikation – Sunrise streicht nach Konsultationsverfahren 358 Jobs",
-    "link": "https://www.srf.ch/news/wirtschaft/telekommunikation-sunrise-streicht-nach-konsultationsverfahren-358-jobs",
-    "zeit": "2026-10-23T07:51:16+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "UBP findet Partner-Bank in Taiwan",
     "link": "https://www.finews.ch/news/banken/74130-ubp-taishin-bank-taiwan-partnerschaft",
     "zeit": "2026-10-23T05:46:09+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Birgit Olsen, Bellevue: «Europa wird unterschätzt und genau darin liegt die Chance»",
-    "link": "https://www.finews.ch/news/finanzplatz/74129-birgit-olsen-bellevue-podcast-europa-small-caps-ki-hidden-champions",
-    "zeit": "2026-10-23T04:12:40+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Adam Back: Bitcoin-Pionier baut in der Schweiz aus",
-    "link": "https://www.finews.ch/news/finanzplatz/74128-adam-back-blockstream-lugano-consulting-schweizer-banken-wealth-management-bitcoin-satoshi-nyt",
-    "zeit": "2026-10-23T04:01:52+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "HBM Healthcare steigert Gewinn deutlich",
-    "link": "https://www.finews.ch/news/finanzplatz/74124-hbm-healthcare-gewinn-h1-2027-ausblick-positiv",
-    "zeit": "2026-10-23T03:53:19+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
