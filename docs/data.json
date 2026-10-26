@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-26T18:36:36+01:00",
+ "aktualisiert": "2026-10-26T19:44:15+01:00",
  "kernaussagen": [
-  "SMI +0.53%, Nasdaq +1.02% führt",
-  "Franken schwächer: EUR/CHF 0.9252 (+0.57%)",
-  "Brent über 100 USD: 111.18 (−4.75%)"
+  "SMI +0.53%, Nasdaq +0.95% führt",
+  "Franken schwächer: EUR/CHF 0.9251 (+0.56%)",
+  "Brent über 100 USD: 110.76 (−5.11%)"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7682.52001953125,
+   "kurs": 7678.169921875,
    "vortag": 7623.68017578125,
-   "veraenderung_pct": 0.7718036747779822,
+   "veraenderung_pct": 0.7147433370414902,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7757.169922,
     7663.430176,
     7623.680176,
-    7682.52002
+    7678.169922
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26219.236328125,
+   "kurs": 26202.845703125,
    "vortag": 25955.33984375,
-   "veraenderung_pct": 1.0167329187891427,
+   "veraenderung_pct": 0.9535835818948124,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26702.859375,
     26008.859375,
     25955.339844,
-    26219.236328
+    26202.845703
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9251700043678284,
+   "kurs": 0.9251199960708618,
    "vortag": 0.919950008392334,
-   "veraenderung_pct": 0.5674216998613479,
+   "veraenderung_pct": 0.5619857200243716,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92684,
     0.92579,
     0.91995,
-    0.92517
+    0.92512
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8265299797058105,
+   "kurs": 0.8272600173950195,
    "vortag": 0.8198099732398987,
-   "veraenderung_pct": 0.8197029415675905,
+   "veraenderung_pct": 0.9087525644117411,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82563,
     0.824,
     0.81981,
-    0.82653
+    0.82726
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4040.39990234375,
+   "kurs": 4029.60009765625,
    "vortag": 4007.89990234375,
-   "veraenderung_pct": 0.8108984952691634,
+   "veraenderung_pct": 0.5414355607985755,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4150.0,
     4060.399902,
     4007.899902,
-    4040.399902
+    4029.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.18000030517578,
+   "kurs": 110.76000213623047,
    "vortag": 116.72000122070312,
-   "veraenderung_pct": -4.746402379701731,
+   "veraenderung_pct": -5.106236310949852,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     108.82,
     113.169998,
     116.720001,
-    111.18
+    110.760002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80274.6015625,
+   "kurs": 80040.6171875,
    "vortag": 80024.0078125,
-   "veraenderung_pct": 0.31314821245538305,
+   "veraenderung_pct": 0.020755490076074246,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81074.1875,
     80790.835938,
     80024.007812,
-    80274.601562
+    80040.617188
    ]
   }
  ],
@@ -334,7 +334,19 @@
    "symbol": "UBSG.SW",
    "einheit": "CHF",
    "dezimalen": 2,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 38.58000183105469,
+   "vortag": 38.31999969482422,
+   "veraenderung_pct": 0.6785024485936653,
+   "datum": "2026-10-26",
+   "ist_heute": true,
+   "verlauf": [
+    39.099998,
+    39.540001,
+    38.389999,
+    38.32,
+    38.580002
+   ]
   }
  ],
  "news": {
@@ -362,9 +374,9 @@
   ],
   "artikel": [
    {
-    "titel": "Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate",
-    "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-    "zeit": "2026-10-26T17:36:07+00:00",
+    "titel": "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
+    "link": "https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html",
+    "zeit": "2026-10-26T18:37:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -372,7 +384,31 @@
    {
     "titel": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
     "link": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
-    "zeit": "2026-10-26T17:33:48+00:00",
+    "zeit": "2026-10-26T18:21:40+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate",
+    "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+    "zeit": "2026-10-26T17:42:54+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+    "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+    "zeit": "2026-10-26T17:40:30+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "The arc of Trump: How the president lost the coalition that put him in the White House",
+    "link": "https://www.cnbc.com/2026/10/26/trump-approval-midterms-cnbc-survey.html",
+    "zeit": "2026-10-26T17:36:55+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -381,14 +417,6 @@
     "titel": "Lula wins Brazil runoff after prediction markets favored Bolsonaro",
     "link": "https://www.cnbc.com/2026/10/26/lula-brazil-election-prediction-markets.html",
     "zeit": "2026-10-26T17:29:37+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-    "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-    "zeit": "2026-10-26T17:27:45+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -442,28 +470,12 @@
     "sprache": "de"
    },
    {
-    "titel": "Alaska Senate: Peltola seeks quick dismissal of DOJ election lawsuit before midterm",
-    "link": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
-    "zeit": "2026-10-26T15:55:37+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Umbau beim Detailhändler – Migros-Chef: «Schritt ist richtig und macht uns schlagkräftiger»",
     "link": "https://www.srf.ch/news/wirtschaft/umbau-beim-detailhaendler-migros-chef-schritt-ist-richtig-und-macht-uns-schlagkraeftiger",
     "zeit": "2026-10-26T15:43:18+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Investors are doing just as well this year by shunning AI. How to invest if the tech trade keeps fizzling",
-    "link": "https://www.cnbc.com/2026/10/26/sp-500-ex-ai-index-tech-selloff.html",
-    "zeit": "2026-10-26T15:39:55+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Geldgeschichte – Wie die Schweiz zum Sparen erzogen wurde",
