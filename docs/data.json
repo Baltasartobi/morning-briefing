@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-26T16:35:43+01:00",
+ "aktualisiert": "2026-10-26T17:45:00+01:00",
  "kernaussagen": [
-  "SMI +0.50%, DAX +1.22% führt",
-  "Franken schwächer: EUR/CHF 0.9250 (+0.55%)",
-  "Brent über 100 USD: 110.79 (−5.08%)"
+  "SMI +0.54%, DAX +1.03% führt",
+  "Franken schwächer: EUR/CHF 0.9251 (+0.56%)",
+  "Brent über 100 USD: 112.10 (−3.96%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14534.33984375,
+   "kurs": 14540.58984375,
    "vortag": 14462.3603515625,
-   "veraenderung_pct": 0.4977022452612445,
+   "veraenderung_pct": 0.5409178743015275,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14552.389648,
     14547.969727,
     14462.360352,
-    14534.339844
+    14540.589844
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25488.830078125,
+   "kurs": 25439.990234375,
    "vortag": 25181.650390625,
-   "veraenderung_pct": 1.2198552626016879,
+   "veraenderung_pct": 1.0259051322790924,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25645.039062,
     25371.75,
     25181.650391,
-    25488.830078
+    25439.990234
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6130.22998046875,
+   "kurs": 6120.89013671875,
    "vortag": 6068.22021484375,
-   "veraenderung_pct": 1.0218773121205338,
+   "veraenderung_pct": 0.8679632579279506,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6207.52002,
     6087.009766,
     6068.220215,
-    6130.22998
+    6120.890137
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7691.6298828125,
+   "kurs": 7672.35986328125,
    "vortag": 7623.68017578125,
-   "veraenderung_pct": 0.8912979750529404,
+   "veraenderung_pct": 0.6385326558509652,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7757.169922,
     7663.430176,
     7623.680176,
-    7691.629883
+    7672.359863
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26266.80078125,
+   "kurs": 26175.296875,
    "vortag": 25955.33984375,
-   "veraenderung_pct": 1.1999878998887326,
+   "veraenderung_pct": 0.8474442352677025,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26702.859375,
     26008.859375,
     25955.339844,
-    26266.800781
+    26175.296875
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9250199794769287,
+   "kurs": 0.9251099824905396,
    "vortag": 0.919950008392334,
-   "veraenderung_pct": 0.5511137603503968,
+   "veraenderung_pct": 0.5608972282334035,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92684,
     0.92579,
     0.91995,
-    0.92502
+    0.92511
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8276500105857849,
+   "kurs": 0.8271700143814087,
    "vortag": 0.8198099732398987,
-   "veraenderung_pct": 0.9563237337675057,
+   "veraenderung_pct": 0.897774042980104,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82563,
     0.824,
     0.81981,
-    0.82765
+    0.82717
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4035.39990234375,
+   "kurs": 4032.5,
    "vortag": 4007.89990234375,
-   "veraenderung_pct": 0.6861448806123827,
+   "veraenderung_pct": 0.613790220705468,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4150.0,
     4060.399902,
     4007.899902,
-    4035.399902
+    4032.5
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.79000091552734,
+   "kurs": 112.0999984741211,
    "vortag": 116.72000122070312,
-   "veraenderung_pct": -5.080534821073968,
+   "veraenderung_pct": -3.958192853207887,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     108.82,
     113.169998,
     116.720001,
-    110.790001
+    112.099998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80547.3125,
+   "kurs": 79752.5703125,
    "vortag": 80024.0078125,
-   "veraenderung_pct": 0.6539346151296588,
+   "veraenderung_pct": -0.3391950833504742,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81074.1875,
     80790.835938,
     80024.007812,
-    80547.3125
+    79752.570312
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.984,
+   "wert": 4.98,
    "vortag": 4.988,
-   "veraenderung_bp": -0.4,
+   "veraenderung_bp": -0.8,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.146,
     4.953,
     4.988,
-    4.984
+    4.98
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.30999755859375,
+   "kurs": 83.37999725341797,
    "vortag": 83.69999694824219,
-   "veraenderung_pct": -0.46594910856401217,
+   "veraenderung_pct": -0.3823174510055205,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     83.470001,
     84.370003,
     83.699997,
-    83.309998
+    83.379997
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 127.13999938964844,
+   "kurs": 127.68000030517578,
    "vortag": 128.0,
-   "veraenderung_pct": -0.6718754768371582,
+   "veraenderung_pct": -0.2499997615814209,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     126.879997,
     128.880005,
     128.0,
-    127.139999
+    127.68
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 396.29998779296875,
+   "kurs": 396.5,
    "vortag": 390.8999938964844,
-   "veraenderung_pct": 1.381425935226388,
+   "veraenderung_pct": 1.4325930393845443,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     392.0,
     392.100006,
     390.899994,
-    396.299988
+    396.5
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.70000076293945,
+   "kurs": 38.63999938964844,
    "vortag": 38.31999969482422,
-   "veraenderung_pct": 0.9916520645655513,
+   "veraenderung_pct": 0.8350722791562015,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.540001,
     38.389999,
     38.32,
-    38.700001
+    38.639999
    ]
   }
  ],
@@ -376,7 +376,87 @@
    {
     "titel": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
     "link": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
-    "zeit": "2026-10-26T15:28:02+00:00",
+    "zeit": "2026-10-26T16:43:16+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "‘Ticking time bomb’: The world's pension funds face an ageing crisis",
+    "link": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
+    "zeit": "2026-10-26T16:34:32+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Microsoft offers voluntary buyouts to 60,000 employees",
+    "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+    "zeit": "2026-10-26T16:30:43+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Elon Musk says more than 200 neoclouds face 'guppy-level death'",
+    "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
+    "zeit": "2026-10-26T16:24:23+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Brent oil tops $117 as Saudi defense minister travels to Iran for talks to de-escalate conflict",
+    "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+    "zeit": "2026-10-26T16:06:36+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "NBA enters prediction markets with Kalshi, Polymarket partnerships",
+    "link": "https://www.cnbc.com/2026/10/26/nba-kalshi-polymarket-prediction-markets.html",
+    "zeit": "2026-10-26T16:00:59+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Migros im Umbruch – Skandale und Verluste beschleunigen Fusion der Genossenschaften",
+    "link": "https://www.srf.ch/news/wirtschaft/migros-im-umbruch-skandale-und-verluste-beschleunigen-fusion-der-genossenschaften",
+    "zeit": "2026-10-26T15:59:51+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Bilanz eines historischen Migros-Tages: Aus elf Genossenschaften soll eine Super-Migros werden, und der CEO Mario Irminger tritt zurück",
+    "link": "https://www.nzz.ch/wirtschaft/kommt-jetzt-die-einheitsgenossenschaft-heute-sagt-die-migros-wie-sie-sich-effizienter-aufstellen-will-ld.10044412",
+    "zeit": "2026-10-26T15:57:38+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Alaska Senate: Peltola seeks quick dismissal of DOJ election lawsuit before midterm",
+    "link": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
+    "zeit": "2026-10-26T15:55:37+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Umbau beim Detailhändler – Migros-Chef: «Schritt ist richtig und macht uns schlagkräftiger»",
+    "link": "https://www.srf.ch/news/wirtschaft/umbau-beim-detailhaendler-migros-chef-schritt-ist-richtig-und-macht-uns-schlagkraeftiger",
+    "zeit": "2026-10-26T15:43:18+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Investors are doing just as well this year by shunning AI. How to invest if the tech trade keeps fizzling",
+    "link": "https://www.cnbc.com/2026/10/26/sp-500-ex-ai-index-tech-selloff.html",
+    "zeit": "2026-10-26T15:39:55+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -390,25 +470,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Alaska Senate: Peltola seeks quick dismissal of DOJ election lawsuit before midterm",
-    "link": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
-    "zeit": "2026-10-26T15:06:39+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Fanatics teams up with OpenAI for new AI-powered shopping suggestion feature",
     "link": "https://www.cnbc.com/2026/10/26/fanatics-openai-codex-sports-merchandise-shopping.html",
     "zeit": "2026-10-26T15:05:13+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trump says he'll soon decide whether to ‘make a deal’ with Iran or ‘finish it off'",
-    "link": "https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html",
-    "zeit": "2026-10-26T14:36:03+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -430,30 +494,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
-    "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
-    "zeit": "2026-10-26T14:09:38+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Meta announces $95 billion stock offering to fund AI expansion",
-    "link": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
-    "zeit": "2026-10-26T14:05:36+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Mortgage rates above 7% are the 'new normal'—here's why",
-    "link": "https://www.cnbc.com/make-it/2026/10/26/mortgage-rates-above-7percent-are-the-new-normalheres-why.html",
-    "zeit": "2026-10-26T14:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Starkes Wachstum und gewaltige Ausgaben bei Anthropic: Das KI-Unternehmen veröffentlicht seinen Antrag auf den Börsengang",
     "link": "https://www.nzz.ch/wirtschaft/starkes-wachstum-bei-anthropic-das-ki-unternehmen-veroeffentlicht-seinen-antrag-auf-den-boersengang-ld.10045136",
     "zeit": "2026-10-26T13:54:15+00:00",
@@ -462,28 +502,12 @@
     "sprache": "de"
    },
    {
-    "titel": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
-    "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
-    "zeit": "2026-10-26T13:43:14+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "MELDUNGEN WIRTSCHAFT - Starkes Wachstum bei Anthropic: Das KI-Unternehmen veröffentlicht seinen Antrag auf den Börsengang",
     "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
     "zeit": "2026-10-26T13:38:57+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Oil prices fall as Saudi defense minister travels to Iran for talks to de-escalate conflict",
-    "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-    "zeit": "2026-10-26T13:28:57+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Zürcher Investmentboutique holt UBS-Analysten",
@@ -498,14 +522,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/unsicherheit-an-wall-street-abwaertstrend-bei-techaktien-kurzer-schluckauf-oder-fataler-hype",
     "zeit": "2026-10-26T12:49:42+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Radikaler Umbau bei der Migros: Aus elf Genossenschaften soll eine Super-Migros werden, und CEO Mario Irminger tritt zurück",
-    "link": "https://www.nzz.ch/wirtschaft/kommt-jetzt-die-einheitsgenossenschaft-heute-sagt-die-migros-wie-sie-sich-effizienter-aufstellen-will-ld.10044412",
-    "zeit": "2026-10-26T12:27:32+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -673,22 +689,6 @@
     "titel": "Studie zu Kohle, Öl und Gas – Raus aus fossilen Energien – aber wer macht den Anfang?",
     "link": "https://www.srf.ch/news/wirtschaft/studie-zu-kohle-oel-und-gas-raus-aus-fossilen-energien-aber-wer-macht-den-anfang",
     "zeit": "2026-10-23T18:57:28+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Schweizer Uhrenindustrie – Die mysteriösen Uhrenlieferungen nach Frankreich",
-    "link": "https://www.srf.ch/news/wirtschaft/schweizer-uhrenindustrie-die-mysterioesen-uhrenlieferungen-nach-frankreich",
-    "zeit": "2026-10-23T18:41:08+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Vermögenskonzentration – Linker Starökonom fordert Mindeststeuer für Superreiche",
-    "link": "https://www.srf.ch/news/wirtschaft/vermoegenskonzentration-linker-staroekonom-fordert-mindeststeuer-fuer-superreiche",
-    "zeit": "2026-10-23T18:00:33+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
