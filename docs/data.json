@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-26T09:19:21+01:00",
+ "aktualisiert": "2026-10-26T10:17:52+01:00",
  "kernaussagen": [
-  "Nikkei 225 −0.80% am schwächsten",
-  "Franken schwächer: EUR/CHF 0.9245 (+0.49%)",
-  "Brent über 100 USD: 110.10 (−5.67%)"
+  "SMI +0.39%, Nikkei 225 −0.80% am schwächsten",
+  "Franken schwächer: EUR/CHF 0.9260 (+0.65%)",
+  "Brent über 100 USD: 109.54 (−6.15%)"
  ],
  "maerkte": [
   {
@@ -11,7 +11,19 @@
    "symbol": "^SSMI",
    "einheit": "",
    "dezimalen": 2,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 14518.1103515625,
+   "vortag": 14462.3603515625,
+   "veraenderung_pct": 0.3854834110393002,
+   "datum": "2026-10-26",
+   "ist_heute": true,
+   "verlauf": [
+    14478.370117,
+    14552.389648,
+    14547.969727,
+    14462.360352,
+    14518.110352
+   ]
   },
   {
    "name": "DAX",
@@ -19,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25233.44921875,
+   "kurs": 25374.41015625,
    "vortag": 25181.650390625,
-   "veraenderung_pct": 0.2057006880862966,
+   "veraenderung_pct": 0.7654770939746092,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -29,7 +41,7 @@
     25645.039062,
     25371.75,
     25181.650391,
-    25233.449219
+    25374.410156
    ]
   },
   {
@@ -38,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6061.6298828125,
+   "kurs": 6089.52978515625,
    "vortag": 6068.22021484375,
-   "veraenderung_pct": -0.1086040354160045,
+   "veraenderung_pct": 0.35116672694859297,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -48,7 +60,7 @@
     6207.52002,
     6087.009766,
     6068.220215,
-    6061.629883
+    6089.529785
    ]
   },
   {
@@ -116,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9244999885559082,
+   "kurs": 0.9259700179100037,
    "vortag": 0.919950008392334,
-   "veraenderung_pct": 0.49458993663422657,
+   "veraenderung_pct": 0.6543844190175063,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -126,7 +138,7 @@
     0.92684,
     0.92579,
     0.91995,
-    0.9245
+    0.92597
    ]
   },
   {
@@ -134,19 +146,7 @@
    "symbol": "CHF=X",
    "einheit": "",
    "dezimalen": 4,
-   "verfuegbar": true,
-   "kurs": 0.8250799775123596,
-   "vortag": 0.8198099732398987,
-   "veraenderung_pct": 0.6428324178143097,
-   "datum": "2026-10-26",
-   "ist_heute": true,
-   "verlauf": [
-    0.82685,
-    0.82563,
-    0.824,
-    0.81981,
-    0.82508
-   ]
+   "verfuegbar": false
   },
   {
    "name": "Gold",
@@ -154,9 +154,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4028.39990234375,
+   "kurs": 4031.300048828125,
    "vortag": 4007.89990234375,
-   "veraenderung_pct": 0.5114898200928586,
+   "veraenderung_pct": 0.5838505714848674,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -164,7 +164,7 @@
     4150.0,
     4060.399902,
     4007.899902,
-    4028.399902
+    4031.300049
    ]
   },
   {
@@ -173,9 +173,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.0999984741211,
+   "kurs": 109.54000091552734,
    "vortag": 116.72000122070312,
-   "veraenderung_pct": -5.671695234190777,
+   "veraenderung_pct": -6.151473809188268,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -183,7 +183,7 @@
     108.82,
     113.169998,
     116.720001,
-    110.099998
+    109.540001
    ]
   },
   {
@@ -192,9 +192,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 79809.53125,
+   "kurs": 80252.5390625,
    "vortag": 80024.0078125,
-   "veraenderung_pct": -0.26801527236992584,
+   "veraenderung_pct": 0.28557836110316703,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -202,7 +202,7 @@
     81074.1875,
     80790.835938,
     80024.007812,
-    79809.53125
+    80252.539062
    ]
   }
  ],
@@ -266,9 +266,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.16999816894531,
+   "kurs": 83.08000183105469,
    "vortag": 83.69999694824219,
-   "veraenderung_pct": -0.6332124236809844,
+   "veraenderung_pct": -0.7407349340417424,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -276,7 +276,7 @@
     83.470001,
     84.370003,
     83.699997,
-    83.169998
+    83.080002
    ]
   },
   {
@@ -285,9 +285,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 127.23999786376953,
+   "kurs": 128.0,
    "vortag": 128.0,
-   "veraenderung_pct": -0.5937516689300537,
+   "veraenderung_pct": 0.0,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -295,7 +295,7 @@
     126.879997,
     128.880005,
     128.0,
-    127.239998
+    128.0
    ]
   },
   {
@@ -304,9 +304,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 395.3999938964844,
+   "kurs": 397.70001220703125,
    "vortag": 390.8999938964844,
-   "veraenderung_pct": 1.151189580522649,
+   "veraenderung_pct": 1.7395800503255066,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -314,7 +314,7 @@
     392.0,
     392.100006,
     390.899994,
-    395.399994
+    397.700012
    ]
   },
   {
@@ -323,9 +323,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.61000061035156,
+   "kurs": 38.529998779296875,
    "vortag": 38.31999969482422,
-   "veraenderung_pct": 0.7567873638749445,
+   "veraenderung_pct": 0.5480143166624929,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -333,7 +333,7 @@
     39.540001,
     38.389999,
     38.32,
-    38.610001
+    38.529999
    ]
   }
  ],
@@ -362,6 +362,14 @@
   ],
   "artikel": [
    {
+    "titel": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
+    "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
+    "zeit": "2026-10-26T09:07:53+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
     "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
     "zeit": "2026-10-26T08:05:28+00:00",
@@ -374,6 +382,14 @@
     "link": "https://www.srf.ch/news/wirtschaft/schlagzeilen-zu-detailhaendler-die-migros-laedt-nach-neuen-umbau-geruechten-zur-medienkonferenz",
     "zeit": "2026-10-26T07:59:53+00:00",
     "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Schweizer KI-Unternehmer erhält Auszeichnung von EY",
+    "link": "https://www.finews.ch/news/finanzplatz/74138-entrepreneur-of-the-year-2026-cloud-und-ki-loesungen-fuer-den-einsatz-sensibler-daten",
+    "zeit": "2026-10-26T07:17:08+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -509,14 +525,6 @@
     "titel": "In pictures: Protests over inequality, rising living costs turn violent across France",
     "link": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
     "zeit": "2026-10-25T23:55:22+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "More pain may be coming for the AI trade. Why I’m not giving up on it",
-    "link": "https://www.cnbc.com/investingclub/2026/10/25/jim-cramer-ai-trade-nvidia-coreweave.html",
-    "zeit": "2026-10-25T21:13:50+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -669,14 +677,6 @@
     "titel": "Liechtenstein regelt Zusammenarbeit zwischen Polizei, Justiz und Banken",
     "link": "https://www.finews.ch/news/banken/74119-liechtenstein-regeln-polizei-justiz-banken-bankdaten",
     "zeit": "2026-10-22T07:41:21+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Klaus Wellershoff gründet mit ETH-Studenten KI-Startup",
-    "link": "https://www.finews.ch/news/finanzplatz/74116-klaus-wellershoff-ryan-fuchs-boris-kantor-turiq-startup-ki-plattform-investmentkommunikation-hackathon",
-    "zeit": "2026-10-22T06:01:10+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
