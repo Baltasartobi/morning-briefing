@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-26T08:28:37+01:00",
+ "aktualisiert": "2026-10-26T09:19:21+01:00",
  "kernaussagen": [
-  "SMI −0.59%, Nikkei 225 −0.80% am schwächsten",
-  "Franken schwächer: EUR/CHF 0.9246 (+0.51%)",
-  "Brent über 100 USD: 110.15 (−5.63%)"
+  "Nikkei 225 −0.80% am schwächsten",
+  "Franken schwächer: EUR/CHF 0.9245 (+0.49%)",
+  "Brent über 100 USD: 110.10 (−5.67%)"
  ],
  "maerkte": [
   {
@@ -11,19 +11,7 @@
    "symbol": "^SSMI",
    "einheit": "",
    "dezimalen": 2,
-   "verfuegbar": true,
-   "kurs": 14462.3603515625,
-   "vortag": 14547.9697265625,
-   "veraenderung_pct": -0.588462696919756,
-   "datum": "2026-10-23",
-   "ist_heute": false,
-   "verlauf": [
-    14368.780273,
-    14478.370117,
-    14552.389648,
-    14547.969727,
-    14462.360352
-   ]
+   "verfuegbar": false
   },
   {
    "name": "DAX",
@@ -31,17 +19,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25181.650390625,
-   "vortag": 25371.75,
-   "veraenderung_pct": -0.7492569861164533,
-   "datum": "2026-10-23",
-   "ist_heute": false,
+   "kurs": 25233.44921875,
+   "vortag": 25181.650390625,
+   "veraenderung_pct": 0.2057006880862966,
+   "datum": "2026-10-26",
+   "ist_heute": true,
    "verlauf": [
-    25319.769531,
     25304.419922,
     25645.039062,
     25371.75,
-    25181.650391
+    25181.650391,
+    25233.449219
    ]
   },
   {
@@ -50,17 +38,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6068.22021484375,
-   "vortag": 6087.009765625,
-   "veraenderung_pct": -0.30868277700751845,
-   "datum": "2026-10-23",
-   "ist_heute": false,
+   "kurs": 6061.6298828125,
+   "vortag": 6068.22021484375,
+   "veraenderung_pct": -0.1086040354160045,
+   "datum": "2026-10-26",
+   "ist_heute": true,
    "verlauf": [
-    6144.810059,
     6121.660156,
     6207.52002,
     6087.009766,
-    6068.220215
+    6068.220215,
+    6061.629883
    ]
   },
   {
@@ -128,9 +116,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9246199727058411,
+   "kurs": 0.9244999885559082,
    "vortag": 0.919950008392334,
-   "veraenderung_pct": 0.5076324007723176,
+   "veraenderung_pct": 0.49458993663422657,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +126,7 @@
     0.92684,
     0.92579,
     0.91995,
-    0.92462
+    0.9245
    ]
   },
   {
@@ -147,9 +135,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8249599933624268,
+   "kurs": 0.8250799775123596,
    "vortag": 0.8198099732398987,
-   "veraenderung_pct": 0.6281968127534565,
+   "veraenderung_pct": 0.6428324178143097,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +145,7 @@
     0.82563,
     0.824,
     0.81981,
-    0.82496
+    0.82508
    ]
   },
   {
@@ -166,9 +154,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4017.0,
+   "kurs": 4028.39990234375,
    "vortag": 4007.89990234375,
-   "veraenderung_pct": 0.22705401526941227,
+   "veraenderung_pct": 0.5114898200928586,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +164,7 @@
     4150.0,
     4060.399902,
     4007.899902,
-    4017.0
+    4028.399902
    ]
   },
   {
@@ -185,9 +173,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.1500015258789,
+   "kurs": 110.0999984741211,
    "vortag": 116.72000122070312,
-   "veraenderung_pct": -5.628855060069061,
+   "veraenderung_pct": -5.671695234190777,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +183,7 @@
     108.82,
     113.169998,
     116.720001,
-    110.150002
+    110.099998
    ]
   },
   {
@@ -204,9 +192,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 79933.8984375,
+   "kurs": 79809.53125,
    "vortag": 80024.0078125,
-   "veraenderung_pct": -0.11260292687556017,
+   "veraenderung_pct": -0.26801527236992584,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +202,7 @@
     81074.1875,
     80790.835938,
     80024.007812,
-    79933.898438
+    79809.53125
    ]
   }
  ],
@@ -223,17 +211,17 @@
    "name": "Schweiz",
    "quelle": "snb",
    "verfuegbar": true,
-   "wert": 0.525,
-   "vortag": 0.553,
-   "veraenderung_bp": -2.8,
-   "datum": "2026-10-22",
+   "wert": 0.491,
+   "vortag": 0.525,
+   "veraenderung_bp": -3.4,
+   "datum": "2026-10-23",
    "ist_heute": false,
    "verlauf": [
-    0.572,
     0.577,
     0.539,
     0.553,
-    0.525
+    0.525,
+    0.491
    ]
   },
   {
@@ -278,17 +266,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.69999694824219,
-   "vortag": 84.37000274658203,
-   "veraenderung_pct": -0.7941279797658685,
-   "datum": "2026-10-23",
-   "ist_heute": false,
+   "kurs": 83.16999816894531,
+   "vortag": 83.69999694824219,
+   "veraenderung_pct": -0.6332124236809844,
+   "datum": "2026-10-26",
+   "ist_heute": true,
    "verlauf": [
-    82.550003,
     83.110001,
     83.470001,
     84.370003,
-    83.699997
+    83.699997,
+    83.169998
    ]
   },
   {
@@ -297,17 +285,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 128.0,
-   "vortag": 128.8800048828125,
-   "veraenderung_pct": -0.6828094735197077,
-   "datum": "2026-10-23",
-   "ist_heute": false,
+   "kurs": 127.23999786376953,
+   "vortag": 128.0,
+   "veraenderung_pct": -0.5937516689300537,
+   "datum": "2026-10-26",
+   "ist_heute": true,
    "verlauf": [
-    124.199997,
     126.5,
     126.879997,
     128.880005,
-    128.0
+    128.0,
+    127.239998
    ]
   },
   {
@@ -316,17 +304,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 390.8999938964844,
-   "vortag": 392.1000061035156,
-   "veraenderung_pct": -0.306047484914973,
-   "datum": "2026-10-23",
-   "ist_heute": false,
+   "kurs": 395.3999938964844,
+   "vortag": 390.8999938964844,
+   "veraenderung_pct": 1.151189580522649,
+   "datum": "2026-10-26",
+   "ist_heute": true,
    "verlauf": [
-    380.100006,
     389.899994,
     392.0,
     392.100006,
-    390.899994
+    390.899994,
+    395.399994
    ]
   },
   {
@@ -335,17 +323,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.31999969482422,
-   "vortag": 38.38999938964844,
-   "veraenderung_pct": -0.1823383587838623,
-   "datum": "2026-10-23",
-   "ist_heute": false,
+   "kurs": 38.61000061035156,
+   "vortag": 38.31999969482422,
+   "veraenderung_pct": 0.7567873638749445,
+   "datum": "2026-10-26",
+   "ist_heute": true,
    "verlauf": [
-    39.080002,
     39.099998,
     39.540001,
     38.389999,
-    38.32
+    38.32,
+    38.610001
    ]
   }
  ],
@@ -374,6 +362,22 @@
   ],
   "artikel": [
    {
+    "titel": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
+    "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+    "zeit": "2026-10-26T08:05:28+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Schlagzeilen zu Detailhändler – Die Migros lädt nach neuen Umbau-Gerüchten zur Medienkonferenz",
+    "link": "https://www.srf.ch/news/wirtschaft/schlagzeilen-zu-detailhaendler-die-migros-laedt-nach-neuen-umbau-geruechten-zur-medienkonferenz",
+    "zeit": "2026-10-26T07:59:53+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Audemars Piguet steigt ins Geschäft mit gebrauchten Luxusuhren ein",
     "link": "https://www.nzz.ch/wirtschaft/audemars-piguet-steigt-ins-geschaeft-mit-gebrauchten-uhren-ein-aber-anders-als-rolex-ld.10034987",
     "zeit": "2026-10-26T07:00:00+00:00",
@@ -386,6 +390,14 @@
     "link": "https://www.nzz.ch/wirtschaft/kommt-jetzt-die-einheitsgenossenschaft-heute-sagt-die-migros-wie-sie-sich-effizienter-aufstellen-will-ld.10044412",
     "zeit": "2026-10-26T06:45:42+00:00",
     "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "SBPV stützt Position der UBS und fürchtet weiteren Stellenabbau",
+    "link": "https://www.finews.ch/news/banken/74137-sbpv-ubs-wak-s-wegzug-stellenabbau",
+    "zeit": "2026-10-26T06:39:24+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -454,7 +466,7 @@
     "sprache": "de"
    },
    {
-    "titel": "«Dass der F-35 kostspielig wird, wussten wir von vornherein»",
+    "titel": "INTERVIEW - «Dass der F-35 kostspielig wird, wussten wir von vornherein»",
     "link": "https://www.nzz.ch/schweiz/sicherheitspolitik/dass-der-f-35-kostspielig-wird-wussten-wir-von-vornherein-ld.10041421",
     "zeit": "2026-10-26T04:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
@@ -476,14 +488,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
-    "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
-    "zeit": "2026-10-26T04:09:41+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
@@ -654,14 +658,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Umbau von Nestlé – Wie weit wird Nestlé die Preise noch erhöhen, Philipp Navratil?",
-    "link": "https://www.srf.ch/news/wirtschaft/umbau-von-nestle-wie-weit-wird-nestle-die-preise-noch-erhoehen-philipp-navratil",
-    "zeit": "2026-10-22T18:06:06+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Baselbieter Landrat lehnt Lohndeckelung bei BLKB ab",
     "link": "https://www.finews.ch/news/banken/74121-baselbieter-landrat-lehnt-lohndeckelung-bei-blkb-ab",
     "zeit": "2026-10-22T11:20:27+00:00",
@@ -681,14 +677,6 @@
     "titel": "Klaus Wellershoff gründet mit ETH-Studenten KI-Startup",
     "link": "https://www.finews.ch/news/finanzplatz/74116-klaus-wellershoff-ryan-fuchs-boris-kantor-turiq-startup-ki-plattform-investmentkommunikation-hackathon",
     "zeit": "2026-10-22T06:01:10+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Frankreich wird zum Kreditrisiko, der Franken zum Fiebermesser",
-    "link": "https://www.finews.ch/news/finanzplatz/74113-credit-default-swaps-cds-fankreich-spanien-deutschland-eurozone-franken-euro-kurs",
-    "zeit": "2026-10-22T05:29:27+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
