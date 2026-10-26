@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-26T10:17:52+01:00",
+ "aktualisiert": "2026-10-26T11:17:19+01:00",
  "kernaussagen": [
-  "SMI +0.39%, Nikkei 225 −0.80% am schwächsten",
-  "Franken schwächer: EUR/CHF 0.9260 (+0.65%)",
-  "Brent über 100 USD: 109.54 (−6.15%)"
+  "SMI +0.19%, DAX +0.96% führt",
+  "Franken schwächer: EUR/CHF 0.9251 (+0.56%)",
+  "Brent über 100 USD: 110.12 (−5.65%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14518.1103515625,
+   "kurs": 14490.1201171875,
    "vortag": 14462.3603515625,
-   "veraenderung_pct": 0.3854834110393002,
+   "veraenderung_pct": 0.19194491735923247,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14552.389648,
     14547.969727,
     14462.360352,
-    14518.110352
+    14490.120117
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25374.41015625,
+   "kurs": 25424.58984375,
    "vortag": 25181.650390625,
-   "veraenderung_pct": 0.7654770939746092,
+   "veraenderung_pct": 0.9647479389017555,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25645.039062,
     25371.75,
     25181.650391,
-    25374.410156
+    25424.589844
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6089.52978515625,
+   "kurs": 6102.169921875,
    "vortag": 6068.22021484375,
-   "veraenderung_pct": 0.35116672694859297,
+   "veraenderung_pct": 0.559467287429749,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6207.52002,
     6087.009766,
     6068.220215,
-    6089.529785
+    6102.169922
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9259700179100037,
+   "kurs": 0.9250699877738953,
    "vortag": 0.919950008392334,
-   "veraenderung_pct": 0.6543844190175063,
+   "veraenderung_pct": 0.5565497401873731,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92684,
     0.92579,
     0.91995,
-    0.92597
+    0.92507
    ]
   },
   {
@@ -146,7 +146,19 @@
    "symbol": "CHF=X",
    "einheit": "",
    "dezimalen": 4,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 0.8258100152015686,
+   "vortag": 0.8198099732398987,
+   "veraenderung_pct": 0.7318820406584825,
+   "datum": "2026-10-26",
+   "ist_heute": true,
+   "verlauf": [
+    0.82685,
+    0.82563,
+    0.824,
+    0.81981,
+    0.82581
+   ]
   },
   {
    "name": "Gold",
@@ -154,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4031.300048828125,
+   "kurs": 4030.39990234375,
    "vortag": 4007.89990234375,
-   "veraenderung_pct": 0.5838505714848674,
+   "veraenderung_pct": 0.5613912659555798,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -164,7 +176,7 @@
     4150.0,
     4060.399902,
     4007.899902,
-    4031.300049
+    4030.399902
    ]
   },
   {
@@ -173,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.54000091552734,
+   "kurs": 110.12000274658203,
    "vortag": 116.72000122070312,
-   "veraenderung_pct": -6.151473809188268,
+   "veraenderung_pct": -5.654556549944944,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -183,7 +195,7 @@
     108.82,
     113.169998,
     116.720001,
-    109.540001
+    110.120003
    ]
   },
   {
@@ -192,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80252.5390625,
+   "kurs": 80313.9375,
    "vortag": 80024.0078125,
-   "veraenderung_pct": 0.28557836110316703,
+   "veraenderung_pct": 0.3623033829789124,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -202,7 +214,7 @@
     81074.1875,
     80790.835938,
     80024.007812,
-    80252.539062
+    80313.9375
    ]
   }
  ],
@@ -266,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.08000183105469,
+   "kurs": 82.9800033569336,
    "vortag": 83.69999694824219,
-   "veraenderung_pct": -0.7407349340417424,
+   "veraenderung_pct": -0.8602074283871497,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -276,7 +288,7 @@
     83.470001,
     84.370003,
     83.699997,
-    83.080002
+    82.980003
    ]
   },
   {
@@ -285,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 128.0,
+   "kurs": 127.30000305175781,
    "vortag": 128.0,
-   "veraenderung_pct": 0.0,
+   "veraenderung_pct": -0.546872615814209,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -295,7 +307,7 @@
     126.879997,
     128.880005,
     128.0,
-    128.0
+    127.300003
    ]
   },
   {
@@ -304,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 397.70001220703125,
+   "kurs": 395.70001220703125,
    "vortag": 390.8999938964844,
-   "veraenderung_pct": 1.7395800503255066,
+   "veraenderung_pct": 1.2279402367598946,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -314,7 +326,7 @@
     392.0,
     392.100006,
     390.899994,
-    397.700012
+    395.700012
    ]
   },
   {
@@ -323,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.529998779296875,
+   "kurs": 38.56999969482422,
    "vortag": 38.31999969482422,
-   "veraenderung_pct": 0.5480143166624929,
+   "veraenderung_pct": 0.6524008402687187,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -333,7 +345,7 @@
     39.540001,
     38.389999,
     38.32,
-    38.529999
+    38.57
    ]
   }
  ],
@@ -362,12 +374,68 @@
   ],
   "artikel": [
    {
-    "titel": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
-    "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
-    "zeit": "2026-10-26T09:07:53+00:00",
+    "titel": "Umbau beim Detailhändler – Migros-Führung will Genossenschaftsfusion",
+    "link": "https://www.srf.ch/news/wirtschaft/umbau-beim-detailhaendler-migros-fuehrung-will-genossenschaftsfusion",
+    "zeit": "2026-10-26T10:16:26+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "‘Ticking time bomb’: The world's pension funds face an ageing crisis",
+    "link": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
+    "zeit": "2026-10-26T10:15:13+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
+    "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
+    "zeit": "2026-10-26T10:13:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Can GOP Rep. Brian Fitzpatrick, a moderate who's bucked Trump, keep his Pennsylvania swing seat?",
+    "link": "https://www.cnbc.com/2026/10/26/brian-fitzpatrick-bob-harvie-pennsylvania-senate-election.html",
+    "zeit": "2026-10-26T10:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "LIVE-TICKER - Umbau bei der Migros – jetzt kommt die Einheitsgenossenschaft +++ CEO Mario Irminger tritt zurück",
+    "link": "https://www.nzz.ch/wirtschaft/umbau-bei-der-migros-kommt-jetzt-die-einheitsgenossenschaft-verfolgen-sie-die-pressekonferenz-live-ld.10044813",
+    "zeit": "2026-10-26T09:56:10+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "How war, security and coalition math are shaping the Israeli election",
+    "link": "https://www.cnbc.com/2026/10/26/israel-election-netanyahu-iran-gaza-palestine.html",
+    "zeit": "2026-10-26T09:46:59+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Ausblick UBS: Solide Zahlen und politisches Stellungsspiel",
+    "link": "https://www.finews.ch/news/banken/74140-ubs-ausblick-q3-2026-ergebnis-eigenkapital",
+    "zeit": "2026-10-26T08:45:44+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Kantonalbanken überholen Raiffeisen – UBS verliert",
+    "link": "https://www.finews.ch/news/banken/74139-die-kantonalbanken-meistgenannte-hauptbank-raiffeisen-ubs-credit-suisse-unterschiede-nach-regionen-und-geschlecht",
+    "zeit": "2026-10-26T08:11:57+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
@@ -421,14 +489,6 @@
     "titel": "Defense tech investment boom sparks bubble warning as private equity pours in",
     "link": "https://www.cnbc.com/2026/10/26/defense-tech-private-equity-investment.html",
     "zeit": "2026-10-26T06:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "‘Ticking time bomb’: The world's pension funds face an ageing crisis",
-    "link": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
-    "zeit": "2026-10-26T05:22:30+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -506,14 +566,6 @@
     "sprache": "de"
    },
    {
-    "titel": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
-    "link": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
-    "zeit": "2026-10-26T00:37:51+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Behind ‘Mad Money’ was a brilliant writer viewers never saw. We lost him too soon",
     "link": "https://www.cnbc.com/investingclub/2026/10/25/jim-cramer-remembers-cliff-mason.html",
     "zeit": "2026-10-26T00:28:36+00:00",
@@ -525,14 +577,6 @@
     "titel": "In pictures: Protests over inequality, rising living costs turn violent across France",
     "link": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
     "zeit": "2026-10-25T23:55:22+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
-    "link": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
-    "zeit": "2026-10-25T20:28:55+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -550,14 +594,6 @@
     "link": "https://www.finews.ch/news/banken/74133-ubs-kuenstliche-intelligenz-kundenberatung-sabine-magri",
     "zeit": "2026-10-25T11:57:01+00:00",
     "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "MELDUNGEN WIRTSCHAFT - Migros plant grundlegenden Konzernumbau",
-    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
-    "zeit": "2026-10-25T10:13:49+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -626,14 +662,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Sport als Wirtschaftsfaktor – BMC, On, Stöckli & Co.: Sportunternehmen sollen Verband erhalten",
-    "link": "https://www.srf.ch/news/wirtschaft/sport-als-wirtschaftsfaktor-bmc-on-stoeckli-co-sportunternehmen-sollen-verband-erhalten",
-    "zeit": "2026-10-23T04:57:33+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Birgit Olsen, Bellevue: «Europa wird unterschätzt und genau darin liegt die Chance»",
     "link": "https://www.finews.ch/news/finanzplatz/74129-birgit-olsen-bellevue-podcast-europa-small-caps-ki-hidden-champions",
     "zeit": "2026-10-23T04:12:40+00:00",
@@ -661,22 +689,6 @@
     "titel": "BB Biotech verfünffacht Gewinn auf 605 Millionen Franken",
     "link": "https://www.finews.ch/news/finanzplatz/74123-bb-biotech-gewinn-605-millionen-neun-monate-2026-quartalsergebnis",
     "zeit": "2026-10-23T03:42:09+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Baselbieter Landrat lehnt Lohndeckelung bei BLKB ab",
-    "link": "https://www.finews.ch/news/banken/74121-baselbieter-landrat-lehnt-lohndeckelung-bei-blkb-ab",
-    "zeit": "2026-10-22T11:20:27+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Liechtenstein regelt Zusammenarbeit zwischen Polizei, Justiz und Banken",
-    "link": "https://www.finews.ch/news/banken/74119-liechtenstein-regeln-polizei-justiz-banken-bankdaten",
-    "zeit": "2026-10-22T07:41:21+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
