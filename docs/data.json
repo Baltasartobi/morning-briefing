@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-26T07:07:21+01:00",
+ "aktualisiert": "2026-10-26T08:28:37+01:00",
  "kernaussagen": [
-  "SMI −0.59%, DAX −0.75% am schwächsten",
-  "Franken schwächer: EUR/CHF 0.9244 (+0.48%)",
-  "Brent über 100 USD: 109.49 (−6.19%)"
+  "SMI −0.59%, Nikkei 225 −0.80% am schwächsten",
+  "Franken schwächer: EUR/CHF 0.9246 (+0.51%)",
+  "Brent über 100 USD: 110.15 (−5.63%)"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 62514.21875,
+   "kurs": 62189.6484375,
    "vortag": 62693.16015625,
-   "veraenderung_pct": -0.2854241288906545,
+   "veraenderung_pct": -0.8031366061227452,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     64621.238281,
     62907.839844,
     62693.160156,
-    62514.21875
+    62189.648438
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9243800044059753,
+   "kurs": 0.9246199727058411,
    "vortag": 0.919950008392334,
-   "veraenderung_pct": 0.4815474724961355,
+   "veraenderung_pct": 0.5076324007723176,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92684,
     0.92579,
     0.91995,
-    0.92438
+    0.92462
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8241599798202515,
+   "kurs": 0.8249599933624268,
    "vortag": 0.8198099732398987,
-   "veraenderung_pct": 0.5306115712597981,
+   "veraenderung_pct": 0.6281968127534565,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82563,
     0.824,
     0.81981,
-    0.82416
+    0.82496
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4025.60009765625,
+   "kurs": 4017.0,
    "vortag": 4007.89990234375,
-   "veraenderung_pct": 0.44163266907313314,
+   "veraenderung_pct": 0.22705401526941227,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4150.0,
     4060.399902,
     4007.899902,
-    4025.600098
+    4017.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.48999786376953,
+   "kurs": 110.1500015258789,
    "vortag": 116.72000122070312,
-   "veraenderung_pct": -6.194313983309985,
+   "veraenderung_pct": -5.628855060069061,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     108.82,
     113.169998,
     116.720001,
-    109.489998
+    110.150002
    ]
   },
   {
@@ -204,17 +204,17 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80022.609375,
-   "vortag": 80790.8359375,
-   "veraenderung_pct": -0.9508832946032442,
+   "kurs": 79933.8984375,
+   "vortag": 80024.0078125,
+   "veraenderung_pct": -0.11260292687556017,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
-    84011.96875,
     81311.890625,
     81074.1875,
     80790.835938,
-    80022.609375
+    80024.007812,
+    79933.898438
    ]
   }
  ],
@@ -374,6 +374,30 @@
   ],
   "artikel": [
    {
+    "titel": "Audemars Piguet steigt ins Geschäft mit gebrauchten Luxusuhren ein",
+    "link": "https://www.nzz.ch/wirtschaft/audemars-piguet-steigt-ins-geschaeft-mit-gebrauchten-uhren-ein-aber-anders-als-rolex-ld.10034987",
+    "zeit": "2026-10-26T07:00:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Kommt jetzt die Einheitsgenossenschaft? Heute sagt die Migros, wie sie sich effizienter aufstellen will",
+    "link": "https://www.nzz.ch/wirtschaft/kommt-jetzt-die-einheitsgenossenschaft-heute-sagt-die-migros-wie-sie-sich-effizienter-aufstellen-will-ld.10044412",
+    "zeit": "2026-10-26T06:45:42+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Defense tech investment boom sparks bubble warning as private equity pours in",
+    "link": "https://www.cnbc.com/2026/10/26/defense-tech-private-equity-investment.html",
+    "zeit": "2026-10-26T06:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "‘Ticking time bomb’: The world's pension funds face an ageing crisis",
     "link": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
     "zeit": "2026-10-26T05:22:30+00:00",
@@ -510,14 +534,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
-    "link": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
-    "zeit": "2026-10-25T18:18:49+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "UBS setzt neue Massstäbe bei der Kundenberatung",
     "link": "https://www.finews.ch/news/banken/74133-ubs-kuenstliche-intelligenz-kundenberatung-sabine-magri",
     "zeit": "2026-10-25T11:57:01+00:00",
@@ -538,22 +554,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/an-chilbi-und-weihnachtsmarkt-das-suesse-nischengeschaeft-mit-dem-magenbrot",
     "zeit": "2026-10-25T09:43:35+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Die Ukrainer überwinden die «Todeszone»: Soldaten haben sich bei Kupjansk über 15 Kilometer in einer Gasleitung hinter die russischen Linien gekämpft",
-    "link": "https://www.nzz.ch/pro/die-ukrainische-armee-verlegt-den-bewegungskrieg-in-den-untergrund-ld.10041556",
-    "zeit": "2026-10-25T04:36:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Platzt die Blase am Finanzmarkt? Vier Gründe zur Sorge",
-    "link": "https://www.nzz.ch/pro/platzt-die-blase-am-finanzmarkt-vier-gruende-zur-sorge-ld.10039509",
-    "zeit": "2026-10-25T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
