@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-26T06:13:11+01:00",
+ "aktualisiert": "2026-10-26T07:07:21+01:00",
  "kernaussagen": [
   "SMI −0.59%, DAX −0.75% am schwächsten",
-  "Franken schwächer: EUR/CHF 0.9247 (+0.51%)",
-  "Brent über 100 USD: 109.56 (−6.13%)"
+  "Franken schwächer: EUR/CHF 0.9244 (+0.48%)",
+  "Brent über 100 USD: 109.49 (−6.19%)"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 62532.078125,
+   "kurs": 62514.21875,
    "vortag": 62693.16015625,
-   "veraenderung_pct": -0.2569371696187206,
+   "veraenderung_pct": -0.2854241288906545,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     64621.238281,
     62907.839844,
     62693.160156,
-    62532.078125
+    62514.21875
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9246500134468079,
+   "kurs": 0.9243800044059753,
    "vortag": 0.919950008392334,
-   "veraenderung_pct": 0.5108978761451777,
+   "veraenderung_pct": 0.4815474724961355,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92684,
     0.92579,
     0.91995,
-    0.92465
+    0.92438
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8240699768066406,
+   "kurs": 0.8241599798202515,
    "vortag": 0.8198099732398987,
-   "veraenderung_pct": 0.5196330498281609,
+   "veraenderung_pct": 0.5306115712597981,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82563,
     0.824,
     0.81981,
-    0.82407
+    0.82416
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4031.300048828125,
+   "kurs": 4025.60009765625,
    "vortag": 4007.89990234375,
-   "veraenderung_pct": 0.5838505714848674,
+   "veraenderung_pct": 0.44163266907313314,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4150.0,
     4060.399902,
     4007.899902,
-    4031.300049
+    4025.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.55999755859375,
+   "kurs": 109.48999786376953,
    "vortag": 116.72000122070312,
-   "veraenderung_pct": -6.134341661435294,
+   "veraenderung_pct": -6.194313983309985,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     108.82,
     113.169998,
     116.720001,
-    109.559998
+    109.489998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80041.2109375,
+   "kurs": 80022.609375,
    "vortag": 80790.8359375,
-   "veraenderung_pct": -0.9278589474923993,
+   "veraenderung_pct": -0.9508832946032442,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81311.890625,
     81074.1875,
     80790.835938,
-    80041.210938
+    80022.609375
    ]
   }
  ],
@@ -374,6 +374,22 @@
   ],
   "artikel": [
    {
+    "titel": "‘Ticking time bomb’: The world's pension funds face an ageing crisis",
+    "link": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
+    "zeit": "2026-10-26T05:22:30+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
+    "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+    "zeit": "2026-10-26T05:18:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia",
     "link": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
     "zeit": "2026-10-26T04:56:16+00:00",
@@ -462,14 +478,6 @@
     "sprache": "en"
    },
    {
-    "titel": "‘Ticking time bomb’: The world's pension funds face an ageing crisis",
-    "link": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
-    "zeit": "2026-10-26T00:03:20+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "In pictures: Protests over inequality, rising living costs turn violent across France",
     "link": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
     "zeit": "2026-10-25T23:55:22+00:00",
@@ -505,14 +513,6 @@
     "titel": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
     "link": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
     "zeit": "2026-10-25T18:18:49+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
-    "link": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
-    "zeit": "2026-10-25T16:42:42+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
