@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-26T20:40:40+01:00",
+ "aktualisiert": "2026-10-26T21:32:12+01:00",
  "kernaussagen": [
-  "SMI +0.53%, Nasdaq +0.98% führt",
+  "SMI +0.53%, DAX +0.91% führt",
   "Franken schwächer: EUR/CHF 0.9250 (+0.55%)",
-  "Brent über 100 USD: 111.25 (−4.69%)"
+  "Brent über 100 USD: 110.30 (−5.50%)"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7680.759765625,
+   "kurs": 7676.77001953125,
    "vortag": 7623.68017578125,
-   "veraenderung_pct": 0.7487143810817054,
+   "veraenderung_pct": 0.6963807836358971,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7757.169922,
     7663.430176,
     7623.680176,
-    7680.759766
+    7676.77002
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26209.314453125,
+   "kurs": 26169.380859375,
    "vortag": 25955.33984375,
-   "veraenderung_pct": 0.9785061991247845,
+   "veraenderung_pct": 0.8246511774205878,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26702.859375,
     26008.859375,
     25955.339844,
-    26209.314453
+    26169.380859
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9250400066375732,
+   "kurs": 0.9250199794769287,
    "vortag": 0.919950008392334,
-   "veraenderung_pct": 0.5532907439323109,
+   "veraenderung_pct": 0.5511137603503968,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92684,
     0.92579,
     0.91995,
-    0.92504
+    0.92502
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8273100256919861,
+   "kurs": 0.8278300166130066,
    "vortag": 0.8198099732398987,
-   "veraenderung_pct": 0.9148525508231087,
+   "veraenderung_pct": 0.97828077663078,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82563,
     0.824,
     0.81981,
-    0.82731
+    0.82783
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4025.10009765625,
+   "kurs": 4027.300048828125,
    "vortag": 4007.89990234375,
-   "veraenderung_pct": 0.42915730760744175,
+   "veraenderung_pct": 0.4840476797594251,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4150.0,
     4060.399902,
     4007.899902,
-    4025.100098
+    4027.300049
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.25,
+   "kurs": 110.30000305175781,
    "vortag": 116.72000122070312,
-   "veraenderung_pct": -4.686430057827041,
+   "veraenderung_pct": -5.500341074196779,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     108.82,
     113.169998,
     116.720001,
-    111.25
+    110.300003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 79891.8671875,
+   "kurs": 79762.4609375,
    "vortag": 80024.0078125,
-   "veraenderung_pct": -0.16512622725621817,
+   "veraenderung_pct": -0.32683551117911325,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81074.1875,
     80790.835938,
     80024.007812,
-    79891.867188
+    79762.460938
    ]
   }
  ],
@@ -374,9 +374,25 @@
   ],
   "artikel": [
    {
+    "titel": "Kostendruck wegen KI-Ausbau – Microsoft bietet 60'000 Mitarbeitern Abgangsentschädigung an",
+    "link": "https://www.srf.ch/news/wirtschaft/kostendruck-wegen-ki-ausbau-microsoft-bietet-60-000-mitarbeitern-abgangsentschaedigung-an",
+    "zeit": "2026-10-26T20:23:21+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Prediction market traders say an Anthropic IPO is near-certain this year after company filed with SEC",
+    "link": "https://www.cnbc.com/2026/10/26/prediction-markets-think-anthropic-ipo-near-certain-in-2026.html",
+    "zeit": "2026-10-26T20:08:57+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
     "link": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
-    "zeit": "2026-10-26T18:52:54+00:00",
+    "zeit": "2026-10-26T20:03:58+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -441,14 +457,6 @@
     "titel": "Lula wins Brazil runoff after prediction markets favored Bolsonaro",
     "link": "https://www.cnbc.com/2026/10/26/lula-brazil-election-prediction-markets.html",
     "zeit": "2026-10-26T17:29:37+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Elon Musk says more than 200 neoclouds face 'guppy-level death'",
-    "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
-    "zeit": "2026-10-26T16:24:23+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -681,14 +689,6 @@
     "titel": "Strom vom Acker – Die Schweiz lässt riesiges Sonnenstrompotenzial bisher ungenutzt",
     "link": "https://www.srf.ch/news/wirtschaft/strom-vom-acker-die-schweiz-laesst-riesiges-sonnenstrompotenzial-bisher-ungenutzt",
     "zeit": "2026-10-24T07:14:37+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Studie zu Kohle, Öl und Gas – Raus aus fossilen Energien – aber wer macht den Anfang?",
-    "link": "https://www.srf.ch/news/wirtschaft/studie-zu-kohle-oel-und-gas-raus-aus-fossilen-energien-aber-wer-macht-den-anfang",
-    "zeit": "2026-10-23T18:57:28+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
