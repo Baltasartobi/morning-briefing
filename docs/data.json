@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-26T14:55:11+01:00",
+ "aktualisiert": "2026-10-26T16:35:43+01:00",
  "kernaussagen": [
-  "SMI +0.31%, DAX +1.09% führt",
-  "Franken stärker: EUR/CHF 0.9200 (−0.63%)",
-  "Brent über 100 USD: 110.40 (−5.41%)"
+  "SMI +0.50%, DAX +1.22% führt",
+  "Franken schwächer: EUR/CHF 0.9250 (+0.55%)",
+  "Brent über 100 USD: 110.79 (−5.08%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14507.8896484375,
+   "kurs": 14534.33984375,
    "vortag": 14462.3603515625,
-   "veraenderung_pct": 0.31481235267436514,
+   "veraenderung_pct": 0.4977022452612445,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14552.389648,
     14547.969727,
     14462.360352,
-    14507.889648
+    14534.339844
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25457.0703125,
+   "kurs": 25488.830078125,
    "vortag": 25181.650390625,
-   "veraenderung_pct": 1.0937326092714583,
+   "veraenderung_pct": 1.2198552626016879,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25645.039062,
     25371.75,
     25181.650391,
-    25457.070312
+    25488.830078
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6119.2998046875,
+   "kurs": 6130.22998046875,
    "vortag": 6068.22021484375,
-   "veraenderung_pct": 0.8417557048902458,
+   "veraenderung_pct": 1.0218773121205338,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6207.52002,
     6087.009766,
     6068.220215,
-    6119.299805
+    6130.22998
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7664.4501953125,
+   "kurs": 7691.6298828125,
    "vortag": 7623.68017578125,
-   "veraenderung_pct": 0.5347813469506191,
+   "veraenderung_pct": 0.8912979750529404,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7757.169922,
     7663.430176,
     7623.680176,
-    7664.450195
+    7691.629883
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26071.681640625,
+   "kurs": 26266.80078125,
    "vortag": 25955.33984375,
-   "veraenderung_pct": 0.4482383878437801,
+   "veraenderung_pct": 1.1999878998887326,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26702.859375,
     26008.859375,
     25955.339844,
-    26071.681641
+    26266.800781
    ]
   },
   {
@@ -107,17 +107,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 62189.6484375,
-   "vortag": 62693.16015625,
-   "veraenderung_pct": -0.8031366061227452,
-   "datum": "2026-10-26",
-   "ist_heute": true,
+   "kurs": 62693.16015625,
+   "vortag": 62907.83984375,
+   "veraenderung_pct": -0.341260625119566,
+   "datum": "2026-10-23",
+   "ist_heute": false,
    "verlauf": [
+    64916.699219,
     64075.421875,
     64621.238281,
     62907.839844,
-    62693.160156,
-    62189.648438
+    62693.160156
    ]
   }
  ],
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.919950008392334,
-   "vortag": 0.925790011882782,
-   "veraenderung_pct": -0.6308129722172318,
-   "datum": "2026-10-23",
-   "ist_heute": false,
+   "kurs": 0.9250199794769287,
+   "vortag": 0.919950008392334,
+   "veraenderung_pct": 0.5511137603503968,
+   "datum": "2026-10-26",
+   "ist_heute": true,
    "verlauf": [
-    0.92464,
     0.9272,
     0.92684,
     0.92579,
-    0.91995
+    0.91995,
+    0.92502
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8198099732398987,
-   "vortag": 0.8240000009536743,
-   "veraenderung_pct": -0.5084985083648297,
-   "datum": "2026-10-23",
-   "ist_heute": false,
+   "kurs": 0.8276500105857849,
+   "vortag": 0.8198099732398987,
+   "veraenderung_pct": 0.9563237337675057,
+   "datum": "2026-10-26",
+   "ist_heute": true,
    "verlauf": [
-    0.82375,
     0.82685,
     0.82563,
     0.824,
-    0.81981
+    0.81981,
+    0.82765
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4014.89990234375,
+   "kurs": 4035.39990234375,
    "vortag": 4007.89990234375,
-   "veraenderung_pct": 0.17465506051952406,
+   "veraenderung_pct": 0.6861448806123827,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4150.0,
     4060.399902,
     4007.899902,
-    4014.899902
+    4035.399902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.4000015258789,
+   "kurs": 110.79000091552734,
    "vortag": 116.72000122070312,
-   "veraenderung_pct": -5.414667262446205,
+   "veraenderung_pct": -5.080534821073968,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     108.82,
     113.169998,
     116.720001,
-    110.400002
+    110.790001
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 79449.09375,
+   "kurs": 80547.3125,
    "vortag": 80024.0078125,
-   "veraenderung_pct": -0.7184269798721554,
+   "veraenderung_pct": 0.6539346151296588,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81074.1875,
     80790.835938,
     80024.007812,
-    79449.09375
+    80547.3125
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.974,
+   "wert": 4.984,
    "vortag": 4.988,
-   "veraenderung_bp": -1.4,
+   "veraenderung_bp": -0.4,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.146,
     4.953,
     4.988,
-    4.974
+    4.984
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.19999694824219,
+   "kurs": 83.30999755859375,
    "vortag": 83.69999694824219,
-   "veraenderung_pct": -0.5973715868940688,
+   "veraenderung_pct": -0.46594910856401217,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     83.470001,
     84.370003,
     83.699997,
-    83.199997
+    83.309998
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 126.62000274658203,
+   "kurs": 127.13999938964844,
    "vortag": 128.0,
-   "veraenderung_pct": -1.078122854232788,
+   "veraenderung_pct": -0.6718754768371582,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     126.879997,
     128.880005,
     128.0,
-    126.620003
+    127.139999
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 395.8999938964844,
+   "kurs": 396.29998779296875,
    "vortag": 390.8999938964844,
-   "veraenderung_pct": 1.279099533914052,
+   "veraenderung_pct": 1.381425935226388,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     392.0,
     392.100006,
     390.899994,
-    395.899994
+    396.299988
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.720001220703125,
+   "kurs": 38.70000076293945,
    "vortag": 38.31999969482422,
-   "veraenderung_pct": 1.0438453263686531,
+   "veraenderung_pct": 0.9916520645655513,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.540001,
     38.389999,
     38.32,
-    38.720001
+    38.700001
    ]
   }
  ],
@@ -374,6 +374,94 @@
   ],
   "artikel": [
    {
+    "titel": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
+    "link": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
+    "zeit": "2026-10-26T15:28:02+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital",
+    "link": "https://www.cnbc.com/2026/10/26/apollo-mubadala-capital-stake.html",
+    "zeit": "2026-10-26T15:19:41+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Alaska Senate: Peltola seeks quick dismissal of DOJ election lawsuit before midterm",
+    "link": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
+    "zeit": "2026-10-26T15:06:39+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Fanatics teams up with OpenAI for new AI-powered shopping suggestion feature",
+    "link": "https://www.cnbc.com/2026/10/26/fanatics-openai-codex-sports-merchandise-shopping.html",
+    "zeit": "2026-10-26T15:05:13+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trump says he'll soon decide whether to ‘make a deal’ with Iran or ‘finish it off'",
+    "link": "https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html",
+    "zeit": "2026-10-26T14:36:03+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Geldgeschichte – Wie die Schweiz zum Sparen erzogen wurde",
+    "link": "https://www.srf.ch/news/dialog/geldgeschichte-wie-die-schweiz-zum-sparen-erzogen-wurde",
+    "zeit": "2026-10-26T14:18:47+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Feindbild Nummer eins? Spaniens Vermieter sind verunsichert",
+    "link": "https://www.nzz.ch/international/feindbild-nummer-eins-spaniens-vermieter-sind-verunsichert-ld.10043548",
+    "zeit": "2026-10-26T14:14:45+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
+    "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+    "zeit": "2026-10-26T14:09:38+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Meta announces $95 billion stock offering to fund AI expansion",
+    "link": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+    "zeit": "2026-10-26T14:05:36+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Mortgage rates above 7% are the 'new normal'—here's why",
+    "link": "https://www.cnbc.com/make-it/2026/10/26/mortgage-rates-above-7percent-are-the-new-normalheres-why.html",
+    "zeit": "2026-10-26T14:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Starkes Wachstum und gewaltige Ausgaben bei Anthropic: Das KI-Unternehmen veröffentlicht seinen Antrag auf den Börsengang",
+    "link": "https://www.nzz.ch/wirtschaft/starkes-wachstum-bei-anthropic-das-ki-unternehmen-veroeffentlicht-seinen-antrag-auf-den-boersengang-ld.10045136",
+    "zeit": "2026-10-26T13:54:15+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
     "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
     "zeit": "2026-10-26T13:43:14+00:00",
@@ -398,20 +486,12 @@
     "sprache": "en"
    },
    {
-    "titel": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital",
-    "link": "https://www.cnbc.com/2026/10/26/apollo-mubadala-capital-stake.html",
-    "zeit": "2026-10-26T13:09:26+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Fanatics teams up with OpenAI for new AI-powered shopping suggestion feature",
-    "link": "https://www.cnbc.com/2026/10/26/fanatics-openai-codex-sports-merchandise-shopping.html",
-    "zeit": "2026-10-26T13:02:37+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "Zürcher Investmentboutique holt UBS-Analysten",
+    "link": "https://www.finews.ch/news/finanzplatz/74155-investmentboutique-arvy-ubs-analysten-michael-riesner-verwaltungsrat",
+    "zeit": "2026-10-26T12:56:01+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Unsicherheit an Wall Street – Abwärtstrend bei Techaktien: Kurzer Schluckauf oder fataler Hype?",
@@ -420,30 +500,6 @@
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
-    "link": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
-    "zeit": "2026-10-26T12:49:14+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Meta announces $95 billion stock offering to fund AI expansion",
-    "link": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
-    "zeit": "2026-10-26T12:42:41+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Can GOP Rep. Brian Fitzpatrick, a moderate who's bucked Trump, keep his Pennsylvania swing seat?",
-    "link": "https://www.cnbc.com/2026/10/26/brian-fitzpatrick-bob-harvie-pennsylvania-senate-election.html",
-    "zeit": "2026-10-26T12:33:16+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Radikaler Umbau bei der Migros: Aus elf Genossenschaften soll eine Super-Migros werden, und CEO Mario Irminger tritt zurück",
@@ -460,30 +516,6 @@
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Caregiving for adult relatives can cost thousands. AARP survey finds support could matter to midterm voters",
-    "link": "https://www.cnbc.com/2026/10/26/family-caregiving-costs-2026-midterm-elections.html",
-    "zeit": "2026-10-26T12:15:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
-    "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
-    "zeit": "2026-10-26T12:14:55+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Cracking AI trade has Wall Street looking for a hedge. An ex-Citadel quant may have the answer",
-    "link": "https://www.cnbc.com/2026/10/26/gpu-futures-ai-hedge-hyperbolic.html",
-    "zeit": "2026-10-26T12:08:13+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Zurich und Deutsche Bank erneuern Zusammenarbeit vorzeitig",
@@ -606,30 +638,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Auf der Flucht vor Wohnungsnot und hohen Preisen in der Stadt: Das sind die attraktivsten Agglomerationen und Vororte in der Schweiz",
-    "link": "https://www.nzz.ch/wirtschaft/wohnungsnot-in-staedten-top-agglomerationen-vororte-der-schweiz-im-vergleich-ld.10026772",
-    "zeit": "2026-10-26T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "INTERVIEW - «Dass der F-35 kostspielig wird, wussten wir von vornherein»",
-    "link": "https://www.nzz.ch/schweiz/sicherheitspolitik/dass-der-f-35-kostspielig-wird-wussten-wir-von-vornherein-ld.10041421",
-    "zeit": "2026-10-26T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Geldgeschichte – Wie die Schweiz zum Sparen erzogen wurde",
-    "link": "https://www.srf.ch/news/dialog/geldgeschichte-wie-die-schweiz-zum-sparen-erzogen-wurde",
-    "zeit": "2026-10-25T19:52:04+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "UBS setzt neue Massstäbe bei der Kundenberatung",
     "link": "https://www.finews.ch/news/banken/74133-ubs-kuenstliche-intelligenz-kundenberatung-sabine-magri",
     "zeit": "2026-10-25T11:57:01+00:00",
@@ -682,14 +690,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/vermoegenskonzentration-linker-staroekonom-fordert-mindeststeuer-fuer-superreiche",
     "zeit": "2026-10-23T18:00:33+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "UBP findet Partner-Bank in Taiwan",
-    "link": "https://www.finews.ch/news/banken/74130-ubp-taishin-bank-taiwan-partnerschaft",
-    "zeit": "2026-10-23T05:46:09+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    }
