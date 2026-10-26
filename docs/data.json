@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-26T19:44:15+01:00",
+ "aktualisiert": "2026-10-26T20:40:40+01:00",
  "kernaussagen": [
-  "SMI +0.53%, Nasdaq +0.95% führt",
-  "Franken schwächer: EUR/CHF 0.9251 (+0.56%)",
-  "Brent über 100 USD: 110.76 (−5.11%)"
+  "SMI +0.53%, Nasdaq +0.98% führt",
+  "Franken schwächer: EUR/CHF 0.9250 (+0.55%)",
+  "Brent über 100 USD: 111.25 (−4.69%)"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7678.169921875,
+   "kurs": 7680.759765625,
    "vortag": 7623.68017578125,
-   "veraenderung_pct": 0.7147433370414902,
+   "veraenderung_pct": 0.7487143810817054,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7757.169922,
     7663.430176,
     7623.680176,
-    7678.169922
+    7680.759766
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26202.845703125,
+   "kurs": 26209.314453125,
    "vortag": 25955.33984375,
-   "veraenderung_pct": 0.9535835818948124,
+   "veraenderung_pct": 0.9785061991247845,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26702.859375,
     26008.859375,
     25955.339844,
-    26202.845703
+    26209.314453
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9251199960708618,
+   "kurs": 0.9250400066375732,
    "vortag": 0.919950008392334,
-   "veraenderung_pct": 0.5619857200243716,
+   "veraenderung_pct": 0.5532907439323109,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92684,
     0.92579,
     0.91995,
-    0.92512
+    0.92504
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8272600173950195,
+   "kurs": 0.8273100256919861,
    "vortag": 0.8198099732398987,
-   "veraenderung_pct": 0.9087525644117411,
+   "veraenderung_pct": 0.9148525508231087,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82563,
     0.824,
     0.81981,
-    0.82726
+    0.82731
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4029.60009765625,
+   "kurs": 4025.10009765625,
    "vortag": 4007.89990234375,
-   "veraenderung_pct": 0.5414355607985755,
+   "veraenderung_pct": 0.42915730760744175,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4150.0,
     4060.399902,
     4007.899902,
-    4029.600098
+    4025.100098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.76000213623047,
+   "kurs": 111.25,
    "vortag": 116.72000122070312,
-   "veraenderung_pct": -5.106236310949852,
+   "veraenderung_pct": -4.686430057827041,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     108.82,
     113.169998,
     116.720001,
-    110.760002
+    111.25
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80040.6171875,
+   "kurs": 79891.8671875,
    "vortag": 80024.0078125,
-   "veraenderung_pct": 0.020755490076074246,
+   "veraenderung_pct": -0.16512622725621817,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81074.1875,
     80790.835938,
     80024.007812,
-    80040.617188
+    79891.867188
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.982,
+   "wert": 4.986,
    "vortag": 4.988,
-   "veraenderung_bp": -0.6,
+   "veraenderung_bp": -0.2,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.146,
     4.953,
     4.988,
-    4.982
+    4.986
    ]
   }
  ],
@@ -374,17 +374,17 @@
   ],
   "artikel": [
    {
-    "titel": "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
-    "link": "https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html",
-    "zeit": "2026-10-26T18:37:01+00:00",
+    "titel": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
+    "link": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
+    "zeit": "2026-10-26T18:52:54+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
-    "link": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
-    "zeit": "2026-10-26T18:21:40+00:00",
+    "titel": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
+    "link": "https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html",
+    "zeit": "2026-10-26T18:51:23+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -392,7 +392,31 @@
    {
     "titel": "Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate",
     "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-    "zeit": "2026-10-26T17:42:54+00:00",
+    "zeit": "2026-10-26T18:50:05+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "J&J's potential 'game-changer' drug — plus, what Microsoft's mass buyouts mean",
+    "link": "https://www.cnbc.com/investingclub/2026/10/26/jjs-potential-game-changer-drug-plus-what-microsofts-buyouts-mean.html",
+    "zeit": "2026-10-26T18:45:33+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
+    "link": "https://www.cnbc.com/2026/10/26/apple-responds-to-user-reports-of-broken-iphone-duo-screens.html",
+    "zeit": "2026-10-26T18:43:25+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
+    "link": "https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html",
+    "zeit": "2026-10-26T18:37:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -422,33 +446,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Cramer: I asked some tech insiders what to buy. They surprisingly said this drug stock",
-    "link": "https://www.cnbc.com/investingclub/2026/10/26/cramer-i-asked-tech-insiders-what-to-buy-they-said-eli-lilly.html",
-    "zeit": "2026-10-26T17:00:14+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Elon Musk says more than 200 neoclouds face 'guppy-level death'",
     "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
     "zeit": "2026-10-26T16:24:23+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
-    "link": "https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html",
-    "zeit": "2026-10-26T16:03:57+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "NBA enters prediction markets with Kalshi, Polymarket partnerships",
-    "link": "https://www.cnbc.com/2026/10/26/nba-kalshi-polymarket-prediction-markets.html",
-    "zeit": "2026-10-26T16:00:59+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
