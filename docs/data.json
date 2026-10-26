@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-26T11:17:19+01:00",
+ "aktualisiert": "2026-10-26T12:12:40+01:00",
  "kernaussagen": [
-  "SMI +0.19%, DAX +0.96% führt",
-  "Franken schwächer: EUR/CHF 0.9251 (+0.56%)",
-  "Brent über 100 USD: 110.12 (−5.65%)"
+  "SMI +0.30%, DAX +0.85% führt",
+  "Franken stärker: EUR/CHF 0.9200 (−0.63%)",
+  "Brent über 100 USD: 109.64 (−6.07%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14490.1201171875,
+   "kurs": 14506.3203125,
    "vortag": 14462.3603515625,
-   "veraenderung_pct": 0.19194491735923247,
+   "veraenderung_pct": 0.30396117832003355,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14552.389648,
     14547.969727,
     14462.360352,
-    14490.120117
+    14506.320312
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25424.58984375,
+   "kurs": 25395.349609375,
    "vortag": 25181.650390625,
-   "veraenderung_pct": 0.9647479389017555,
+   "veraenderung_pct": 0.8486307109940583,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25645.039062,
     25371.75,
     25181.650391,
-    25424.589844
+    25395.349609
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6102.169921875,
+   "kurs": 6096.14013671875,
    "vortag": 6068.22021484375,
-   "veraenderung_pct": 0.559467287429749,
+   "veraenderung_pct": 0.46010067015538336,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6207.52002,
     6087.009766,
     6068.220215,
-    6102.169922
+    6096.140137
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9250699877738953,
-   "vortag": 0.919950008392334,
-   "veraenderung_pct": 0.5565497401873731,
-   "datum": "2026-10-26",
-   "ist_heute": true,
+   "kurs": 0.919950008392334,
+   "vortag": 0.925790011882782,
+   "veraenderung_pct": -0.6308129722172318,
+   "datum": "2026-10-23",
+   "ist_heute": false,
    "verlauf": [
+    0.92464,
     0.9272,
     0.92684,
     0.92579,
-    0.91995,
-    0.92507
+    0.91995
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8258100152015686,
+   "kurs": 0.8258799910545349,
    "vortag": 0.8198099732398987,
-   "veraenderung_pct": 0.7318820406584825,
+   "veraenderung_pct": 0.7404176593079903,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82563,
     0.824,
     0.81981,
-    0.82581
+    0.82588
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4030.39990234375,
+   "kurs": 4029.199951171875,
    "vortag": 4007.89990234375,
-   "veraenderung_pct": 0.5613912659555798,
+   "veraenderung_pct": 0.531451616734957,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4150.0,
     4060.399902,
     4007.899902,
-    4030.399902
+    4029.199951
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.12000274658203,
+   "kurs": 109.63999938964844,
    "vortag": 116.72000122070312,
-   "veraenderung_pct": -5.654556549944944,
+   "veraenderung_pct": -6.0657999974376935,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     108.82,
     113.169998,
     116.720001,
-    110.120003
+    109.639999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80313.9375,
+   "kurs": 80152.03125,
    "vortag": 80024.0078125,
-   "veraenderung_pct": 0.3623033829789124,
+   "veraenderung_pct": 0.1599812868657624,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81074.1875,
     80790.835938,
     80024.007812,
-    80313.9375
+    80152.03125
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 82.9800033569336,
+   "kurs": 83.2699966430664,
    "vortag": 83.69999694824219,
-   "veraenderung_pct": -0.8602074283871497,
+   "veraenderung_pct": -0.5137399293355771,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     83.470001,
     84.370003,
     83.699997,
-    82.980003
+    83.269997
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 127.30000305175781,
+   "kurs": 127.62000274658203,
    "vortag": 128.0,
-   "veraenderung_pct": -0.546872615814209,
+   "veraenderung_pct": -0.2968728542327881,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     126.879997,
     128.880005,
     128.0,
-    127.300003
+    127.620003
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 395.70001220703125,
+   "kurs": 395.79998779296875,
    "vortag": 390.8999938964844,
-   "veraenderung_pct": 1.2279402367598946,
+   "veraenderung_pct": 1.253515981834985,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     392.0,
     392.100006,
     390.899994,
-    395.700012
+    395.799988
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.56999969482422,
+   "kurs": 38.45000076293945,
    "vortag": 38.31999969482422,
-   "veraenderung_pct": 0.6524008402687187,
+   "veraenderung_pct": 0.33925122429683263,
    "datum": "2026-10-26",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.540001,
     38.389999,
     38.32,
-    38.57
+    38.450001
    ]
   }
  ],
@@ -374,20 +374,44 @@
   ],
   "artikel": [
    {
+    "titel": "INTERVIEW - «Wenn man nicht alles zubauen will, muss man auch über das Bevölkerungswachstum sprechen», sagt der Präsident der Hauseigentümer",
+    "link": "https://www.nzz.ch/wirtschaft/wenn-man-nicht-alles-zubauen-will-muss-man-auch-ueber-das-bevoelkerungswachstum-sprechen-sagt-der-praesident-der-hauseigentuemer-ld.10038985",
+    "zeit": "2026-10-26T10:50:49+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Private equity pours billions into defense tech as investors debate a bubble",
+    "link": "https://www.cnbc.com/2026/10/26/defense-tech-private-equity-investment.html",
+    "zeit": "2026-10-26T10:46:33+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "‘Ticking time bomb’: The world's pension funds face an ageing crisis",
+    "link": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
+    "zeit": "2026-10-26T10:39:00+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Umbau beim Detailhändler – Migros-Führung will Genossenschaftsfusion",
     "link": "https://www.srf.ch/news/wirtschaft/umbau-beim-detailhaendler-migros-fuehrung-will-genossenschaftsfusion",
-    "zeit": "2026-10-26T10:16:26+00:00",
+    "zeit": "2026-10-26T10:33:30+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
    {
-    "titel": "‘Ticking time bomb’: The world's pension funds face an ageing crisis",
-    "link": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
-    "zeit": "2026-10-26T10:15:13+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "LIVE-TICKER - Umbau bei der Migros – jetzt kommt die Einheitsgenossenschaft +++ CEO Mario Irminger tritt zurück",
+    "link": "https://www.nzz.ch/wirtschaft/umbau-bei-der-migros-kommt-jetzt-die-einheitsgenossenschaft-verfolgen-sie-die-pressekonferenz-live-ld.10044813",
+    "zeit": "2026-10-26T10:14:56+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
@@ -406,20 +430,20 @@
     "sprache": "en"
    },
    {
-    "titel": "LIVE-TICKER - Umbau bei der Migros – jetzt kommt die Einheitsgenossenschaft +++ CEO Mario Irminger tritt zurück",
-    "link": "https://www.nzz.ch/wirtschaft/umbau-bei-der-migros-kommt-jetzt-die-einheitsgenossenschaft-verfolgen-sie-die-pressekonferenz-live-ld.10044813",
-    "zeit": "2026-10-26T09:56:10+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "How war, security and coalition math are shaping the Israeli election",
     "link": "https://www.cnbc.com/2026/10/26/israel-election-netanyahu-iran-gaza-palestine.html",
     "zeit": "2026-10-26T09:46:59+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Revolut startet eigenen Venture-Fonds",
+    "link": "https://www.finews.ch/news/finanzplatz/74143-neobank-revolut-fonds-der-private-equity-spezialisten-apollo-ares-hamilton-lane-und-partners-group-investieren-ab-2027-eigener-venture-capital-fonds-fuer-startups",
+    "zeit": "2026-10-26T09:41:11+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Ausblick UBS: Solide Zahlen und politisches Stellungsspiel",
@@ -486,14 +510,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Defense tech investment boom sparks bubble warning as private equity pours in",
-    "link": "https://www.cnbc.com/2026/10/26/defense-tech-private-equity-investment.html",
-    "zeit": "2026-10-26T06:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
     "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
     "zeit": "2026-10-26T05:18:01+00:00",
@@ -553,14 +569,6 @@
     "titel": "Putin übt «Vergeltung» indem er Schulen, Spitäler und Supermärkte bombardiert. Doch das wird ihm nichts nützen",
     "link": "https://www.nzz.ch/feuilleton/putin-uebt-vergeltung-indem-er-schulen-spitaeler-und-supermaerkte-bombardiert-doch-das-wird-ihm-nichts-nuetzen-ld.10026898",
     "zeit": "2026-10-26T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Nicht Selenski, die amerikanische Erdölindustrie könnte die Dieselpreise für Donald Trump senken",
-    "link": "https://www.nzz.ch/pro/nicht-selenski-die-amerikanische-erdoelindustrie-koennte-die-dieselpreise-fuer-donald-trump-senken-ld.10039346",
-    "zeit": "2026-10-26T04:25:00+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
@@ -681,14 +689,6 @@
     "titel": "HBM Healthcare steigert Gewinn deutlich",
     "link": "https://www.finews.ch/news/finanzplatz/74124-hbm-healthcare-gewinn-h1-2027-ausblick-positiv",
     "zeit": "2026-10-23T03:53:19+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "BB Biotech verfünffacht Gewinn auf 605 Millionen Franken",
-    "link": "https://www.finews.ch/news/finanzplatz/74123-bb-biotech-gewinn-605-millionen-neun-monate-2026-quartalsergebnis",
-    "zeit": "2026-10-23T03:42:09+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
