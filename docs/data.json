@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-27T06:09:19+01:00",
+ "aktualisiert": "2026-10-27T07:06:35+01:00",
  "kernaussagen": [
-  "SMI +0.53%, Nikkei 225 +1.69% führt",
+  "SMI +0.53%, Nikkei 225 +1.72% führt",
   "Franken stabil: EUR/CHF 0.9245 (+0.05%)",
-  "Brent über 100 USD: 109.64 (−5.33%)"
+  "Brent über 100 USD: 109.94 (−5.07%)"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 63237.94140625,
+   "kurs": 63259.01171875,
    "vortag": 62189.6484375,
-   "veraenderung_pct": 1.6856390011651623,
+   "veraenderung_pct": 1.7195197402099849,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     62907.839844,
     62693.160156,
     62189.648438,
-    63237.941406
+    63259.011719
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9245100021362305,
+   "kurs": 0.924530029296875,
    "vortag": 0.9240800142288208,
-   "veraenderung_pct": 0.04653145840065598,
+   "veraenderung_pct": 0.04869871235444467,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92579,
     0.91995,
     0.92408,
-    0.92451
+    0.92453
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8278899788856506,
+   "kurs": 0.8280199766159058,
    "vortag": 0.8238300085067749,
-   "veraenderung_pct": 0.4928165200287715,
+   "veraenderung_pct": 0.5085961989568011,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.824,
     0.81981,
     0.82383,
-    0.82789
+    0.82802
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4024.10009765625,
+   "kurs": 4023.5,
    "vortag": 4038.39990234375,
-   "veraenderung_pct": -0.35409580609391256,
+   "veraenderung_pct": -0.3689555939000111,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4060.399902,
     4007.899902,
     4038.399902,
-    4024.100098
+    4023.5
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.63999938964844,
+   "kurs": 109.94000244140625,
    "vortag": 115.80999755859375,
-   "veraenderung_pct": -5.327690440390187,
+   "veraenderung_pct": -5.0686428123078,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     113.169998,
     116.720001,
     115.809998,
-    109.639999
+    109.940002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 79635.828125,
+   "kurs": 79783.1171875,
    "vortag": 80024.0078125,
-   "veraenderung_pct": -0.485079038292513,
+   "veraenderung_pct": -0.30102294496974213,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     81074.1875,
     80790.835938,
     80024.007812,
-    79635.828125
+    79783.117188
    ]
   }
  ],
@@ -376,7 +376,15 @@
    {
     "titel": "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
     "link": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
-    "zeit": "2026-10-27T04:54:41+00:00",
+    "zeit": "2026-10-27T05:30:10+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Oil falls as renewed diplomatic efforts to end Mideast conflict ease supply concerns",
+    "link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
+    "zeit": "2026-10-27T05:09:59+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -518,14 +526,6 @@
     "sprache": "en"
    },
    {
-    "titel": "CNBC's The China Connection newsletter: The 'cliff' beneath China's cities",
-    "link": "https://www.cnbc.com/2026/10/27/china-fiscal-debt-gdp-imf-real-estate-.html",
-    "zeit": "2026-10-26T23:10:16+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Kostendruck wegen KI-Ausbau – Microsoft bietet 60'000 Mitarbeitern Abgangsentschädigung an",
     "link": "https://www.srf.ch/news/wirtschaft/kostendruck-wegen-ki-ausbau-microsoft-bietet-60-000-mitarbeitern-abgangsentschaedigung-an",
     "zeit": "2026-10-26T20:23:21+00:00",
@@ -562,6 +562,14 @@
     "link": "https://www.srf.ch/news/dialog/geldgeschichte-wie-die-schweiz-zum-sparen-erzogen-wurde",
     "zeit": "2026-10-26T14:18:47+00:00",
     "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Zwei Wealth baut Plattform zur Überwachung grosser Vermögen aus",
+    "link": "https://www.finews.ch/news/finanzplatz/74156-wealth-management-spezialist-zwei-wealth-digitale-plattform-ueberarbeitet-entwicklung-vermoegens-ueber-laengere-zeitraeume-verfolgen-verwaltung-von-vermoegen-vereinfachen-die-auf-mehrere-banken-verteilt-sind",
+    "zeit": "2026-10-26T13:18:06+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -657,14 +665,6 @@
     "titel": "SBPV stützt Position der UBS und fürchtet weiteren Stellenabbau",
     "link": "https://www.finews.ch/news/banken/74137-sbpv-ubs-wak-s-wegzug-stellenabbau",
     "zeit": "2026-10-26T06:39:24+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "UBS setzt neue Massstäbe bei der Kundenberatung",
-    "link": "https://www.finews.ch/news/banken/74133-ubs-kuenstliche-intelligenz-kundenberatung-sabine-magri",
-    "zeit": "2026-10-25T11:57:01+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
