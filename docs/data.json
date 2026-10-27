@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-27T11:13:50+01:00",
+ "aktualisiert": "2026-10-27T12:11:34+01:00",
  "kernaussagen": [
-  "SMI +0.05%, Nikkei 225 +1.73% führt",
-  "Franken stärker: EUR/CHF 0.9229 (−0.13%)",
-  "Brent über 100 USD: 111.08 (−4.08%)"
+  "SMI +0.38%, Nikkei 225 +1.73% führt",
+  "Franken stabil: EUR/CHF 0.9239 (−0.02%)",
+  "Brent über 100 USD: 110.10 (−4.93%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14546.58984375,
+   "kurs": 14593.48046875,
    "vortag": 14538.9501953125,
-   "veraenderung_pct": 0.0525460802524913,
+   "veraenderung_pct": 0.37506334848771417,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14547.969727,
     14462.360352,
     14538.950195,
-    14546.589844
+    14593.480469
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25418.0703125,
+   "kurs": 25481.880859375,
    "vortag": 25410.83984375,
-   "veraenderung_pct": 0.02845426910114135,
+   "veraenderung_pct": 0.2795697271787523,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25371.75,
     25181.650391,
     25410.839844,
-    25418.070312
+    25481.880859
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6115.259765625,
+   "kurs": 6133.2001953125,
    "vortag": 6116.22998046875,
-   "veraenderung_pct": -0.015862955560008718,
+   "veraenderung_pct": 0.277462013330787,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6087.009766,
     6068.220215,
     6116.22998,
-    6115.259766
+    6133.200195
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9229099750518799,
+   "kurs": 0.9239000082015991,
    "vortag": 0.9240800142288208,
-   "veraenderung_pct": -0.12661665212155837,
+   "veraenderung_pct": -0.01947948494177565,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92579,
     0.91995,
     0.92408,
-    0.92291
+    0.9239
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8282600045204163,
+   "kurs": 0.8287799954414368,
    "vortag": 0.8238300085067749,
-   "veraenderung_pct": 0.5377318097055994,
+   "veraenderung_pct": 0.6008505254177177,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.824,
     0.81981,
     0.82383,
-    0.82826
+    0.82878
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4013.300048828125,
+   "kurs": 4024.60009765625,
    "vortag": 4038.39990234375,
-   "veraenderung_pct": -0.6215296682494986,
+   "veraenderung_pct": -0.34171466474856027,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4060.399902,
     4007.899902,
     4038.399902,
-    4013.300049
+    4024.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.08000183105469,
+   "kurs": 110.0999984741211,
    "vortag": 115.80999755859375,
-   "veraenderung_pct": -4.084272366162455,
+   "veraenderung_pct": -4.9304889084240795,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     113.169998,
     116.720001,
     115.809998,
-    111.080002
+    110.099998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 79425.140625,
+   "kurs": 79902.75,
    "vortag": 80006.65625,
-   "veraenderung_pct": -0.7268340563851505,
+   "veraenderung_pct": -0.12987200674319244,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     80790.835938,
     80024.007812,
     80006.65625,
-    79425.140625
+    79902.75
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.4000015258789,
+   "kurs": 83.5999984741211,
    "vortag": 83.7300033569336,
-   "veraenderung_pct": -0.3941261409580066,
+   "veraenderung_pct": -0.15526678323216636,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     84.370003,
     83.699997,
     83.730003,
-    83.400002
+    83.599998
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 129.5399932861328,
+   "kurs": 129.63999938964844,
    "vortag": 127.4800033569336,
-   "veraenderung_pct": 1.6159318127968891,
+   "veraenderung_pct": 1.6943802759928017,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     128.880005,
     128.0,
     127.480003,
-    129.539993
+    129.639999
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 394.70001220703125,
+   "kurs": 396.5,
    "vortag": 396.5,
-   "veraenderung_pct": -0.45396917855453633,
+   "veraenderung_pct": 0.0,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     392.100006,
     390.899994,
     396.5,
-    394.700012
+    396.5
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.4900016784668,
+   "kurs": 38.72999954223633,
    "vortag": 38.58000183105469,
-   "veraenderung_pct": -0.23328187744005024,
+   "veraenderung_pct": 0.3887965372280089,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     38.389999,
     38.32,
     38.580002,
-    38.490002
+    38.73
    ]
   }
  ],
@@ -374,9 +374,41 @@
   ],
   "artikel": [
    {
-    "titel": "Porsche profit rebounds as luxury carmaker reduces exposure to China",
-    "link": "https://www.cnbc.com/2026/10/27/porsche-china-profit-recovery.html",
-    "zeit": "2026-10-27T10:08:51+00:00",
+    "titel": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
+    "link": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
+    "zeit": "2026-10-27T11:11:25+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Boeing is set to report earnings before the bell. Here's what Wall Street expects",
+    "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+    "zeit": "2026-10-27T11:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "GM will switch to Nasdaq from the NYSE on Nov. 17",
+    "link": "https://www.cnbc.com/2026/10/27/gm-nasdaq-nyse-stock-listing.html",
+    "zeit": "2026-10-27T10:49:45+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict",
+    "link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
+    "zeit": "2026-10-27T10:41:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Man charged with assisting ‘foreign intelligence service’ after incident at UK base used for Iran strikes",
+    "link": "https://www.cnbc.com/2026/10/27/uk-national-security-raf-fairford-iran.html",
+    "zeit": "2026-10-27T10:37:25+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,7 +416,23 @@
    {
     "titel": "CRE debt is due, presenting a 'massive' opportunity",
     "link": "https://www.cnbc.com/2026/10/27/cre-debt-is-due-presenting-a-massive-opportunity.html",
-    "zeit": "2026-10-27T10:05:12+00:00",
+    "zeit": "2026-10-27T10:35:51+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "UPS beats quarterly expectations, raises full-year guidance again",
+    "link": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html",
+    "zeit": "2026-10-27T10:24:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Melania Trump-brokered local ceasefire begins as Russia continues attacks on Ukraine",
+    "link": "https://www.cnbc.com/2026/10/27/russia-ukraine-zelenskyy-trump-putin-ceasefire.html",
+    "zeit": "2026-10-27T10:17:03+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -398,25 +446,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict",
-    "link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
-    "zeit": "2026-10-27T09:09:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Nvidia to invest $3 billion in Meta as tech giants deepen AI partnership",
     "link": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
     "zeit": "2026-10-27T09:07:41+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "HSBC shares slump on revenue miss, lender announces share buyback of up to $1 billion",
-    "link": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
-    "zeit": "2026-10-27T08:28:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -428,14 +460,6 @@
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "The 'stablecoin sandwich': Why speeding up payments isn't so simple, according to Mastercard",
-    "link": "https://www.cnbc.com/2026/10/27/mastcard-stablecoin-bvnk-.html",
-    "zeit": "2026-10-27T07:16:35+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "HSBC steigert Gewinn um 32 Prozent – Aktie verliert deutlich",
@@ -476,14 +500,6 @@
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Judge fast-tracks DOJ's Alaska Senate lawsuit as Peltola seeks dismissal before Election Day",
-    "link": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
-    "zeit": "2026-10-27T04:40:30+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "KOMMENTAR - Europa darf die Arktis nicht den Autokraten überlassen",
@@ -550,28 +566,12 @@
     "sprache": "de"
    },
    {
-    "titel": "INTERVIEW - «Wenn die USA Weltmacht bleiben wollen, brauchen sie unbedingt eine klare Strategie», sagt die Transatlantikerin",
+    "titel": "INTERVIEW - «In Deutschland ist die Berichterstattung über die USA sensationalistisch. Man empört sich gerne über Trump», sagt die Transatlantikerin",
     "link": "https://www.nzz.ch/pro/gerlinde-groitl-ueber-die-zukunft-der-transatlantischen-beziehungen-ld.10032564",
     "zeit": "2026-10-27T04:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
-    "link": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
-    "zeit": "2026-10-27T04:12:50+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "China industrial profits post strongest growth in three months as tech boom widens economic divide",
-    "link": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
-    "zeit": "2026-10-27T03:34:08+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Kostendruck wegen KI-Ausbau – Microsoft bietet 60'000 Mitarbeitern Abgangsentschädigung an",
