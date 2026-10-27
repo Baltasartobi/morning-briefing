@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-27T18:18:15+01:00",
+ "aktualisiert": "2026-10-27T19:13:01+01:00",
  "kernaussagen": [
-  "SMI +0.40%, Nasdaq +1.17% führt",
-  "Franken stärker: EUR/CHF 0.9227 (−0.15%)",
-  "Brent über 100 USD: 109.55 (−5.41%)"
+  "SMI +0.40%, Nasdaq +1.11% führt",
+  "Franken stärker: EUR/CHF 0.9226 (−0.16%)",
+  "Brent über 100 USD: 109.38 (−5.55%)"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7722.669921875,
+   "kurs": 7719.60986328125,
    "vortag": 7676.77001953125,
-   "veraenderung_pct": 0.597906440169127,
+   "veraenderung_pct": 0.558045162757348,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7663.430176,
     7623.680176,
     7676.77002,
-    7722.669922
+    7719.609863
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26476.576171875,
+   "kurs": 26461.08984375,
    "vortag": 26169.380859375,
-   "veraenderung_pct": 1.173873062380637,
+   "veraenderung_pct": 1.1146957810830083,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26008.859375,
     25955.339844,
     26169.380859,
-    26476.576172
+    26461.089844
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9226999878883362,
+   "kurs": 0.9226300120353699,
    "vortag": 0.9240800142288208,
-   "veraenderung_pct": -0.14934056783343364,
+   "veraenderung_pct": -0.15691305635053832,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92579,
     0.91995,
     0.92408,
-    0.9227
+    0.92263
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8284000158309937,
+   "kurs": 0.8285899758338928,
    "vortag": 0.8238300085067749,
-   "veraenderung_pct": 0.5547269797202548,
+   "veraenderung_pct": 0.5777851350359908,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.824,
     0.81981,
     0.82383,
-    0.8284
+    0.82859
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4074.39990234375,
+   "kurs": 4071.699951171875,
    "vortag": 4038.39990234375,
-   "veraenderung_pct": 0.8914421768658087,
+   "veraenderung_pct": 0.8245852226967054,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4060.399902,
     4007.899902,
     4038.399902,
-    4074.399902
+    4071.699951
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.55000305175781,
+   "kurs": 109.37999725341797,
    "vortag": 115.80999755859375,
-   "veraenderung_pct": -5.405400776101999,
+   "veraenderung_pct": -5.55219794553794,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     113.169998,
     116.720001,
     115.809998,
-    109.550003
+    109.379997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80519.140625,
+   "kurs": 80474.28125,
    "vortag": 80006.65625,
-   "veraenderung_pct": 0.6405521728074959,
+   "veraenderung_pct": 0.5844826192195729,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     80790.835938,
     80024.007812,
     80006.65625,
-    80519.140625
+    80474.28125
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.999,
+   "wert": 4.995,
    "vortag": 4.986,
-   "veraenderung_bp": 1.3,
+   "veraenderung_bp": 0.9,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     4.953,
     4.988,
     4.986,
-    4.999
+    4.995
    ]
   }
  ],
@@ -374,9 +374,41 @@
   ],
   "artikel": [
    {
+    "titel": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
+    "link": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
+    "zeit": "2026-10-27T18:12:20+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
+    "link": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
+    "zeit": "2026-10-27T18:03:02+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "GLP-1 drug coverage is being dropped by employer plans: What to know about 2027 weight-loss options",
+    "link": "https://www.cnbc.com/2026/10/27/glp1-drug-coverage-weight-loss-options.html",
+    "zeit": "2026-10-27T17:57:57+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
+    "link": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
+    "zeit": "2026-10-27T17:53:47+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Judge blasts prosecutors, refuses to sign new criminal complaint against ex-FBI officials",
     "link": "https://www.cnbc.com/2026/10/27/fbi-hunter-biden-congress-charges-doj.html",
-    "zeit": "2026-10-27T16:57:47+00:00",
+    "zeit": "2026-10-27T17:39:35+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,15 +416,15 @@
    {
     "titel": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
     "link": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
-    "zeit": "2026-10-27T16:55:57+00:00",
+    "zeit": "2026-10-27T17:36:46+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Honda warns 50% Canada auto tariffs would be catastrophic for auto industry",
-    "link": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
-    "zeit": "2026-10-27T16:49:39+00:00",
+    "titel": "Anthropic's IPO could be 'speculative fiction' or a 'generational moment' — investors are split",
+    "link": "https://www.cnbc.com/2026/10/27/-anthropic-ipo-investors-growth-losses-s-1.html",
+    "zeit": "2026-10-27T17:26:34+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -422,44 +454,12 @@
     "sprache": "en"
    },
    {
-    "titel": "Cramer says something is missing in Tuesday's market rally and he's not eager to jump in",
-    "link": "https://www.cnbc.com/investingclub/2026/10/27/cramer-says-something-is-missing-in-tuesdays-market-rally-and-hes-not-eager-to-jump-in.html",
-    "zeit": "2026-10-27T16:13:07+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Lula’s election win leaves Brazil facing a fiscal tightrope",
-    "link": "https://www.cnbc.com/2026/10/27/lula-brazil-election-markets-fiscal-policy.html",
-    "zeit": "2026-10-27T16:12:05+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Migros-Zentralisierung: Diese Fragen stellen sich nach dem orangen Knall",
     "link": "https://www.nzz.ch/wirtschaft/migros-zentralisierung-diese-fragen-stellen-sich-nach-dem-orangen-knall-ld.10045804",
     "zeit": "2026-10-27T16:05:33+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
-    "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
-    "zeit": "2026-10-27T15:52:26+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Anthropic's IPO is risky business",
-    "link": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
-    "zeit": "2026-10-27T15:51:41+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Neuer China-Schock für Mercedes: Der Autobauer muss seine Prognose nach unten korrigieren",
