@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-27T08:24:20+01:00",
+ "aktualisiert": "2026-10-27T09:15:46+01:00",
  "kernaussagen": [
-  "SMI +0.53%, Nikkei 225 +1.73% führt",
-  "Franken stabil: EUR/CHF 0.9241 (±0.00%)",
-  "Brent über 100 USD: 111.06 (−4.10%)"
+  "SMI +0.53%, DAX +0.91% führt",
+  "Franken stabil: EUR/CHF 0.9239 (−0.02%)",
+  "Brent über 100 USD: 111.20 (−3.98%)"
  ],
  "maerkte": [
   {
@@ -50,17 +50,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6116.22998046875,
-   "vortag": 6068.22021484375,
-   "veraenderung_pct": 0.7911671614613036,
-   "datum": "2026-10-26",
-   "ist_heute": false,
+   "kurs": 6095.9599609375,
+   "vortag": 6116.22998046875,
+   "veraenderung_pct": -0.3314136256481359,
+   "datum": "2026-10-27",
+   "ist_heute": true,
    "verlauf": [
-    6121.660156,
     6207.52002,
     6087.009766,
     6068.220215,
-    6116.22998
+    6116.22998,
+    6095.959961
    ]
   },
   {
@@ -106,19 +106,7 @@
    "symbol": "^N225",
    "einheit": "",
    "dezimalen": 2,
-   "verfuegbar": true,
-   "kurs": 63268.37109375,
-   "vortag": 62189.6484375,
-   "veraenderung_pct": 1.734569471532077,
-   "datum": "2026-10-27",
-   "ist_heute": true,
-   "verlauf": [
-    64621.238281,
-    62907.839844,
-    62693.160156,
-    62189.648438,
-    63268.371094
-   ]
+   "verfuegbar": false
   }
  ],
  "devisen_rohstoffe": [
@@ -128,9 +116,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9240800142288208,
+   "kurs": 0.9239299893379211,
    "vortag": 0.9240800142288208,
-   "veraenderung_pct": 0.0,
+   "veraenderung_pct": -0.016235054171676033,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +126,7 @@
     0.92579,
     0.91995,
     0.92408,
-    0.92408
+    0.92393
    ]
   },
   {
@@ -147,9 +135,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8278599977493286,
+   "kurs": 0.8281000256538391,
    "vortag": 0.8238300085067749,
-   "veraenderung_pct": 0.48917728183490716,
+   "veraenderung_pct": 0.5183128925837277,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +145,7 @@
     0.824,
     0.81981,
     0.82383,
-    0.82786
+    0.8281
    ]
   },
   {
@@ -166,9 +154,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4017.800048828125,
+   "kurs": 4014.39990234375,
    "vortag": 4038.39990234375,
-   "veraenderung_pct": -0.5100993961412725,
+   "veraenderung_pct": -0.5942947845772095,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +164,7 @@
     4060.399902,
     4007.899902,
     4038.399902,
-    4017.800049
+    4014.399902
    ]
   },
   {
@@ -185,9 +173,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.05999755859375,
+   "kurs": 111.19999694824219,
    "vortag": 115.80999755859375,
-   "veraenderung_pct": -4.101545721557198,
+   "veraenderung_pct": -3.9806585852133702,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +183,7 @@
     113.169998,
     116.720001,
     115.809998,
-    111.059998
+    111.199997
    ]
   },
   {
@@ -204,9 +192,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 79570.203125,
+   "kurs": 79729.453125,
    "vortag": 80006.65625,
-   "veraenderung_pct": -0.5455210171966152,
+   "veraenderung_pct": -0.34647507844074443,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +202,7 @@
     80790.835938,
     80024.007812,
     80006.65625,
-    79570.203125
+    79729.453125
    ]
   }
  ],
@@ -223,17 +211,17 @@
    "name": "Schweiz",
    "quelle": "snb",
    "verfuegbar": true,
-   "wert": 0.491,
-   "vortag": 0.525,
-   "veraenderung_bp": -3.4,
-   "datum": "2026-10-23",
+   "wert": 0.526,
+   "vortag": 0.491,
+   "veraenderung_bp": 3.5,
+   "datum": "2026-10-26",
    "ist_heute": false,
    "verlauf": [
-    0.577,
     0.539,
     0.553,
     0.525,
-    0.491
+    0.491,
+    0.526
    ]
   },
   {
@@ -278,17 +266,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.7300033569336,
-   "vortag": 83.69999694824219,
-   "veraenderung_pct": 0.035849951953959014,
-   "datum": "2026-10-26",
-   "ist_heute": false,
+   "kurs": 82.83000183105469,
+   "vortag": 83.7300033569336,
+   "veraenderung_pct": -1.0748853335670883,
+   "datum": "2026-10-27",
+   "ist_heute": true,
    "verlauf": [
-    83.110001,
     83.470001,
     84.370003,
     83.699997,
-    83.730003
+    83.730003,
+    82.830002
    ]
   },
   {
@@ -297,17 +285,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 128.0,
-   "vortag": 128.8800048828125,
-   "veraenderung_pct": -0.6828094735197077,
-   "datum": "2026-10-23",
-   "ist_heute": false,
+   "kurs": 128.86000061035156,
+   "vortag": 128.0,
+   "veraenderung_pct": 0.6718754768371582,
+   "datum": "2026-10-27",
+   "ist_heute": true,
    "verlauf": [
-    124.199997,
     126.5,
     126.879997,
     128.880005,
-    128.0
+    128.0,
+    128.860001
    ]
   },
   {
@@ -316,17 +304,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 396.5,
-   "vortag": 390.8999938964844,
-   "veraenderung_pct": 1.4325930393845443,
-   "datum": "2026-10-26",
-   "ist_heute": false,
+   "kurs": 395.3999938964844,
+   "vortag": 396.5,
+   "veraenderung_pct": -0.2774290298904525,
+   "datum": "2026-10-27",
+   "ist_heute": true,
    "verlauf": [
-    389.899994,
     392.0,
     392.100006,
     390.899994,
-    396.5
+    396.5,
+    395.399994
    ]
   },
   {
@@ -335,17 +323,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.31999969482422,
-   "vortag": 38.38999938964844,
-   "veraenderung_pct": -0.1823383587838623,
-   "datum": "2026-10-23",
-   "ist_heute": false,
+   "kurs": 38.369998931884766,
+   "vortag": 38.31999969482422,
+   "veraenderung_pct": 0.13047817708438103,
+   "datum": "2026-10-27",
+   "ist_heute": true,
    "verlauf": [
-    39.080002,
     39.099998,
     39.540001,
     38.389999,
-    38.32
+    38.32,
+    38.369999
    ]
   }
  ],
@@ -374,6 +362,30 @@
   ],
   "artikel": [
    {
+    "titel": "Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict",
+    "link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
+    "zeit": "2026-10-27T08:08:03+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Opinion: UK bond investors want spending cuts. John Healey’s first Budget may disappoint",
+    "link": "https://www.cnbc.com/2026/10/27/uk-budget-2026-john-healey-bond-market.html",
+    "zeit": "2026-10-27T07:34:34+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "The 'stablecoin sandwich': Why speeding up payments isn't so simple, according to Mastercard",
+    "link": "https://www.cnbc.com/2026/10/27/mastcard-stablecoin-bvnk-.html",
+    "zeit": "2026-10-27T07:16:35+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Proteste in Frankreich – Lösen die Demos in Frankreich einen Flächenbrand in Europa aus?",
     "link": "https://www.srf.ch/news/wirtschaft/proteste-in-frankreich-loesen-die-demos-in-frankreich-einen-flaechenbrand-in-europa-aus",
     "zeit": "2026-10-27T06:28:13+00:00",
@@ -396,14 +408,6 @@
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Oil falls as renewed diplomatic efforts to end Mideast conflict ease supply concerns",
-    "link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
-    "zeit": "2026-10-27T05:09:59+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Judge fast-tracks DOJ's Alaska Senate lawsuit as Peltola seeks dismissal before Election Day",
@@ -521,22 +525,6 @@
     "titel": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
     "link": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html",
     "zeit": "2026-10-27T01:24:28+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-    "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-    "zeit": "2026-10-27T01:05:06+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
-    "link": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html",
-    "zeit": "2026-10-27T00:17:44+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
