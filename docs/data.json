@@ -1,8 +1,9 @@
 {
- "aktualisiert": "2026-10-27T15:21:43+01:00",
+ "aktualisiert": "2026-10-27T16:19:58+01:00",
  "kernaussagen": [
-  "SMI +0.10%, Nikkei 225 +1.73% führt",
-  "Brent über 100 USD: 110.65 (−4.46%)"
+  "SMI +0.34%, Nasdaq +1.02% führt",
+  "Franken stärker: EUR/CHF 0.9233 (−0.08%)",
+  "Brent über 100 USD: 109.30 (−5.62%)"
  ],
  "maerkte": [
   {
@@ -11,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14554.1796875,
+   "kurs": 14587.9501953125,
    "vortag": 14538.9501953125,
-   "veraenderung_pct": 0.10474960009430045,
+   "veraenderung_pct": 0.33702570915883356,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -21,7 +22,7 @@
     14547.969727,
     14462.360352,
     14538.950195,
-    14554.179688
+    14587.950195
    ]
   },
   {
@@ -30,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25460.01953125,
+   "kurs": 25592.529296875,
    "vortag": 25410.83984375,
-   "veraenderung_pct": 0.1935382214928838,
+   "veraenderung_pct": 0.7150076669728334,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -40,7 +41,7 @@
     25371.75,
     25181.650391,
     25410.839844,
-    25460.019531
+    25592.529297
    ]
   },
   {
@@ -49,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6124.35986328125,
+   "kurs": 6161.47021484375,
    "vortag": 6116.22998046875,
-   "veraenderung_pct": 0.1329231052210611,
+   "veraenderung_pct": 0.7396751678643287,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -59,7 +60,7 @@
     6087.009766,
     6068.220215,
     6116.22998,
-    6124.359863
+    6161.470215
    ]
   },
   {
@@ -68,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7677.830078125,
+   "kurs": 7722.06982421875,
    "vortag": 7676.77001953125,
-   "veraenderung_pct": 0.013808653783464742,
+   "veraenderung_pct": 0.5900893809798635,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -78,7 +79,7 @@
     7663.430176,
     7623.680176,
     7676.77002,
-    7677.830078
+    7722.069824
    ]
   },
   {
@@ -87,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26231.697265625,
+   "kurs": 26437.53125,
    "vortag": 26169.380859375,
-   "veraenderung_pct": 0.23812717077589252,
+   "veraenderung_pct": 1.024672276604277,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -97,7 +98,7 @@
     26008.859375,
     25955.339844,
     26169.380859,
-    26231.697266
+    26437.53125
    ]
   },
   {
@@ -106,17 +107,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 63268.37109375,
-   "vortag": 62189.6484375,
-   "veraenderung_pct": 1.734569471532077,
-   "datum": "2026-10-27",
-   "ist_heute": true,
+   "kurs": 62189.6484375,
+   "vortag": 62693.16015625,
+   "veraenderung_pct": -0.8031366061227452,
+   "datum": "2026-10-26",
+   "ist_heute": false,
    "verlauf": [
+    64075.421875,
     64621.238281,
     62907.839844,
     62693.160156,
-    62189.648438,
-    63268.371094
+    62189.648438
    ]
   }
  ],
@@ -126,7 +127,19 @@
    "symbol": "EURCHF=X",
    "einheit": "",
    "dezimalen": 4,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 0.9233099818229675,
+   "vortag": 0.9240800142288208,
+   "veraenderung_pct": -0.08332962449100201,
+   "datum": "2026-10-27",
+   "ist_heute": true,
+   "verlauf": [
+    0.92684,
+    0.92579,
+    0.91995,
+    0.92408,
+    0.92331
+   ]
   },
   {
    "name": "USD/CHF",
@@ -134,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8287699818611145,
+   "kurs": 0.8286299705505371,
    "vortag": 0.8238300085067749,
-   "veraenderung_pct": 0.5996350343311141,
+   "veraenderung_pct": 0.5826398643164588,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -144,7 +157,7 @@
     0.824,
     0.81981,
     0.82383,
-    0.82877
+    0.82863
    ]
   },
   {
@@ -153,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4053.0,
+   "kurs": 4068.89990234375,
    "vortag": 4038.39990234375,
-   "veraenderung_pct": 0.3615317454761291,
+   "veraenderung_pct": 0.7552496220668781,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -163,7 +176,7 @@
     4060.399902,
     4007.899902,
     4038.399902,
-    4053.0
+    4068.899902
    ]
   },
   {
@@ -172,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.6500015258789,
+   "kurs": 109.30000305175781,
    "vortag": 115.80999755859375,
-   "veraenderung_pct": -4.455570452891299,
+   "veraenderung_pct": -5.62127160355238,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -182,7 +195,7 @@
     113.169998,
     116.720001,
     115.809998,
-    110.650002
+    109.300003
    ]
   },
   {
@@ -191,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 79870.6328125,
+   "kurs": 80335.296875,
    "vortag": 80006.65625,
-   "veraenderung_pct": -0.17001515108313603,
+   "veraenderung_pct": 0.41076660418488675,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -201,7 +214,7 @@
     80790.835938,
     80024.007812,
     80006.65625,
-    79870.632812
+    80335.296875
    ]
   }
  ],
@@ -244,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.003,
+   "wert": 4.984,
    "vortag": 4.986,
-   "veraenderung_bp": 1.7,
+   "veraenderung_bp": -0.2,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -254,7 +267,7 @@
     4.953,
     4.988,
     4.986,
-    5.003
+    4.984
    ]
   }
  ],
@@ -265,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.37000274658203,
+   "kurs": 83.38999938964844,
    "vortag": 83.7300033569336,
-   "veraenderung_pct": -0.4299541334268353,
+   "veraenderung_pct": -0.40607184241442384,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -275,7 +288,7 @@
     84.370003,
     83.699997,
     83.730003,
-    83.370003
+    83.389999
    ]
   },
   {
@@ -284,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 129.44000244140625,
+   "kurs": 128.72000122070312,
    "vortag": 127.4800033569336,
-   "veraenderung_pct": 1.5374953191559237,
+   "veraenderung_pct": 0.9726998988991431,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -294,7 +307,7 @@
     128.880005,
     128.0,
     127.480003,
-    129.440002
+    128.720001
    ]
   },
   {
@@ -303,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 395.79998779296875,
+   "kurs": 397.6000061035156,
    "vortag": 396.5,
-   "veraenderung_pct": -0.17654784540510615,
+   "veraenderung_pct": 0.2774290298904525,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -313,7 +326,7 @@
     392.100006,
     390.899994,
     396.5,
-    395.799988
+    397.600006
    ]
   },
   {
@@ -322,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.61000061035156,
+   "kurs": 38.7599983215332,
    "vortag": 38.58000183105469,
-   "veraenderung_pct": 0.07775732989396822,
+   "veraenderung_pct": 0.4665538671219771,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -332,7 +345,7 @@
     38.389999,
     38.32,
     38.580002,
-    38.610001
+    38.759998
    ]
   }
  ],
@@ -361,6 +374,62 @@
   ],
   "artikel": [
    {
+    "titel": "Boeing says it won't significantly ramp up 737 Max production until late 2027 as wing production lags",
+    "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+    "zeit": "2026-10-27T15:15:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
+    "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
+    "zeit": "2026-10-27T15:12:30+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Oil prices fall after Iran supreme leader and top security official discuss conditions to end war",
+    "link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
+    "zeit": "2026-10-27T15:11:32+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
+    "link": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
+    "zeit": "2026-10-27T15:04:36+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Neuer China-Schock für Mercedes: Der Autobauer muss seine Prognose nach unten korrigieren",
+    "link": "https://www.nzz.ch/wirtschaft/neuer-china-schock-fuer-mercedes-der-autobauer-muss-seine-prognose-nach-unten-korrigieren-ld.10045981",
+    "zeit": "2026-10-27T15:01:15+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Flop mit neuem Medikament kommt Novartis teuer zu stehen",
+    "link": "https://www.nzz.ch/wirtschaft/flop-mit-neuem-medikament-kommt-novartis-teuer-zu-stehen-ld.10045872",
+    "zeit": "2026-10-27T14:53:05+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "A rising wealth tide lifts all yachts",
+    "link": "https://www.cnbc.com/2026/10/27/a-rising-wealth-tide-lifts-all-yachts.html",
+    "zeit": "2026-10-27T14:29:29+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership",
     "link": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
     "zeit": "2026-10-27T14:19:36+00:00",
@@ -388,46 +457,6 @@
     "titel": "A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say",
     "link": "https://www.cnbc.com/2026/10/27/us-measles-public-health.html",
     "zeit": "2026-10-27T14:07:03+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
-    "link": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
-    "zeit": "2026-10-27T14:03:59+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "A rising wealth tide lifts all yachts",
-    "link": "https://www.cnbc.com/2026/10/27/a-rising-wealth-tide-lifts-all-yachts.html",
-    "zeit": "2026-10-27T14:01:12+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Boeing narrows third-quarter loss as defense sales rise, but focus remains on 737 Max production",
-    "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
-    "zeit": "2026-10-27T13:42:26+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
-    "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
-    "zeit": "2026-10-27T13:37:51+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Oil prices edge lower amid diplomatic efforts to de-escalate tensions between Saudis and Iran",
-    "link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
-    "zeit": "2026-10-27T13:04:54+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -593,14 +622,6 @@
     "sprache": "de"
    },
    {
-    "titel": "INTERVIEW - «In Deutschland ist die Berichterstattung über die USA sensationalistisch. Man empört sich gerne über Trump», sagt die Transatlantikerin",
-    "link": "https://www.nzz.ch/pro/gerlinde-groitl-ueber-die-zukunft-der-transatlantischen-beziehungen-ld.10032564",
-    "zeit": "2026-10-27T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Kostendruck wegen KI-Ausbau – Microsoft bietet 60'000 Mitarbeitern Abgangsentschädigung an",
     "link": "https://www.srf.ch/news/wirtschaft/kostendruck-wegen-ki-ausbau-microsoft-bietet-60-000-mitarbeitern-abgangsentschaedigung-an",
     "zeit": "2026-10-26T20:23:21+00:00",
@@ -613,14 +634,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/migros-im-umbruch-skandale-und-verluste-beschleunigen-fusion-der-genossenschaften",
     "zeit": "2026-10-26T15:59:51+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Bilanz eines historischen Migros-Tages: Aus elf Genossenschaften soll eine Super-Migros werden, und der CEO Mario Irminger tritt zurück",
-    "link": "https://www.nzz.ch/wirtschaft/kommt-jetzt-die-einheitsgenossenschaft-heute-sagt-die-migros-wie-sie-sich-effizienter-aufstellen-will-ld.10044412",
-    "zeit": "2026-10-26T15:57:38+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
