@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-27T10:14:54+01:00",
+ "aktualisiert": "2026-10-27T11:13:50+01:00",
  "kernaussagen": [
-  "SMI +0.10%, Nikkei 225 +1.73% führt",
-  "Franken stärker: EUR/CHF 0.9236 (−0.05%)",
-  "Brent über 100 USD: 111.12 (−4.05%)"
+  "SMI +0.05%, Nikkei 225 +1.73% führt",
+  "Franken stärker: EUR/CHF 0.9229 (−0.13%)",
+  "Brent über 100 USD: 111.08 (−4.08%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14553.580078125,
+   "kurs": 14546.58984375,
    "vortag": 14538.9501953125,
-   "veraenderung_pct": 0.10062544142435126,
+   "veraenderung_pct": 0.0525460802524913,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14547.969727,
     14462.360352,
     14538.950195,
-    14553.580078
+    14546.589844
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25401.150390625,
+   "kurs": 25418.0703125,
    "vortag": 25410.83984375,
-   "veraenderung_pct": -0.03813118017578221,
+   "veraenderung_pct": 0.02845426910114135,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25371.75,
     25181.650391,
     25410.839844,
-    25401.150391
+    25418.070312
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6107.5498046875,
+   "kurs": 6115.259765625,
    "vortag": 6116.22998046875,
-   "veraenderung_pct": -0.14192036285373133,
+   "veraenderung_pct": -0.015862955560008718,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6087.009766,
     6068.220215,
     6116.22998,
-    6107.549805
+    6115.259766
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9235799908638,
+   "kurs": 0.9229099750518799,
    "vortag": 0.9240800142288208,
-   "veraenderung_pct": -0.054110397078332984,
+   "veraenderung_pct": -0.12661665212155837,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92579,
     0.91995,
     0.92408,
-    0.92358
+    0.92291
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.828760027885437,
+   "kurs": 0.8282600045204163,
    "vortag": 0.8238300085067749,
-   "veraenderung_pct": 0.5984267783104791,
+   "veraenderung_pct": 0.5377318097055994,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.824,
     0.81981,
     0.82383,
-    0.82876
+    0.82826
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4008.699951171875,
+   "kurs": 4013.300048828125,
    "vortag": 4038.39990234375,
-   "veraenderung_pct": -0.7354385868184599,
+   "veraenderung_pct": -0.6215296682494986,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4060.399902,
     4007.899902,
     4038.399902,
-    4008.699951
+    4013.300049
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.12000274658203,
+   "kurs": 111.08000183105469,
    "vortag": 115.80999755859375,
-   "veraenderung_pct": -4.0497322432278215,
+   "veraenderung_pct": -4.084272366162455,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     113.169998,
     116.720001,
     115.809998,
-    111.120003
+    111.080002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 79600.6171875,
+   "kurs": 79425.140625,
    "vortag": 80006.65625,
-   "veraenderung_pct": -0.50750660198976,
+   "veraenderung_pct": -0.7268340563851505,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     80790.835938,
     80024.007812,
     80006.65625,
-    79600.617188
+    79425.140625
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.2699966430664,
+   "kurs": 83.4000015258789,
    "vortag": 83.7300033569336,
-   "veraenderung_pct": -0.5493929241901729,
+   "veraenderung_pct": -0.3941261409580066,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     84.370003,
     83.699997,
     83.730003,
-    83.269997
+    83.400002
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 129.8000030517578,
+   "kurs": 129.5399932861328,
    "vortag": 127.4800033569336,
-   "veraenderung_pct": 1.8198930292842919,
+   "veraenderung_pct": 1.6159318127968891,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     128.880005,
     128.0,
     127.480003,
-    129.800003
+    129.539993
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 396.1000061035156,
+   "kurs": 394.70001220703125,
    "vortag": 396.5,
-   "veraenderung_pct": -0.10088118448533523,
+   "veraenderung_pct": -0.45396917855453633,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     392.100006,
     390.899994,
     396.5,
-    396.100006
+    394.700012
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.5,
+   "kurs": 38.4900016784668,
    "vortag": 38.58000183105469,
-   "veraenderung_pct": -0.20736606339476493,
+   "veraenderung_pct": -0.23328187744005024,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     38.389999,
     38.32,
     38.580002,
-    38.5
+    38.490002
    ]
   }
  ],
@@ -373,6 +373,30 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "Porsche profit rebounds as luxury carmaker reduces exposure to China",
+    "link": "https://www.cnbc.com/2026/10/27/porsche-china-profit-recovery.html",
+    "zeit": "2026-10-27T10:08:51+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "CRE debt is due, presenting a 'massive' opportunity",
+    "link": "https://www.cnbc.com/2026/10/27/cre-debt-is-due-presenting-a-massive-opportunity.html",
+    "zeit": "2026-10-27T10:05:12+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Silicon Valley AI political groups turn on each other in the 2026 election",
+    "link": "https://www.cnbc.com/2026/10/27/ai-political-spending-silicon-valley-election.html",
+    "zeit": "2026-10-27T10:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
    {
     "titel": "Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict",
     "link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
@@ -478,7 +502,7 @@
     "sprache": "de"
    },
    {
-    "titel": "Migros-Umbau: Mario Irmingers Radikalkur hat dem orangen Riesen eine Identitätskrise beschert",
+    "titel": "Migros-Chef Mario Irminger tritt ab – und hinterlässt eine Identitätskrise. Bilanz eines kühlen Rechners",
     "link": "https://www.nzz.ch/wirtschaft/migros-umbau-mario-irmingers-radikalkur-hat-dem-orangen-riesen-eine-identitaetskrise-beschert-ld.10044902",
     "zeit": "2026-10-27T04:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
@@ -545,30 +569,6 @@
     "titel": "China industrial profits post strongest growth in three months as tech boom widens economic divide",
     "link": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
     "zeit": "2026-10-27T03:34:08+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "DOJ charges ex-FBI Director James Comey in new case",
-    "link": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
-    "zeit": "2026-10-27T03:30:04+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Bessent dines at Cheesecake Factory, slams Obama over Trump joke",
-    "link": "https://www.cnbc.com/2026/10/26/bessent-obama-cheesecake-trump-election.html",
-    "zeit": "2026-10-27T02:37:31+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
-    "link": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html",
-    "zeit": "2026-10-27T01:24:28+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
