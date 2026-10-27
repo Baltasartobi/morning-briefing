@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-27T09:15:46+01:00",
+ "aktualisiert": "2026-10-27T10:14:54+01:00",
  "kernaussagen": [
-  "SMI +0.53%, DAX +0.91% führt",
-  "Franken stabil: EUR/CHF 0.9239 (−0.02%)",
-  "Brent über 100 USD: 111.20 (−3.98%)"
+  "SMI +0.10%, Nikkei 225 +1.73% führt",
+  "Franken stärker: EUR/CHF 0.9236 (−0.05%)",
+  "Brent über 100 USD: 111.12 (−4.05%)"
  ],
  "maerkte": [
   {
@@ -12,17 +12,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14538.9501953125,
-   "vortag": 14462.3603515625,
-   "veraenderung_pct": 0.5295805241205098,
-   "datum": "2026-10-26",
-   "ist_heute": false,
+   "kurs": 14553.580078125,
+   "vortag": 14538.9501953125,
+   "veraenderung_pct": 0.10062544142435126,
+   "datum": "2026-10-27",
+   "ist_heute": true,
    "verlauf": [
-    14478.370117,
     14552.389648,
     14547.969727,
     14462.360352,
-    14538.950195
+    14538.950195,
+    14553.580078
    ]
   },
   {
@@ -31,17 +31,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25410.83984375,
-   "vortag": 25181.650390625,
-   "veraenderung_pct": 0.9101446869833607,
-   "datum": "2026-10-26",
-   "ist_heute": false,
+   "kurs": 25401.150390625,
+   "vortag": 25410.83984375,
+   "veraenderung_pct": -0.03813118017578221,
+   "datum": "2026-10-27",
+   "ist_heute": true,
    "verlauf": [
-    25304.419922,
     25645.039062,
     25371.75,
     25181.650391,
-    25410.839844
+    25410.839844,
+    25401.150391
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6095.9599609375,
+   "kurs": 6107.5498046875,
    "vortag": 6116.22998046875,
-   "veraenderung_pct": -0.3314136256481359,
+   "veraenderung_pct": -0.14192036285373133,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6087.009766,
     6068.220215,
     6116.22998,
-    6095.959961
+    6107.549805
    ]
   },
   {
@@ -106,7 +106,19 @@
    "symbol": "^N225",
    "einheit": "",
    "dezimalen": 2,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 63268.37109375,
+   "vortag": 62189.6484375,
+   "veraenderung_pct": 1.734569471532077,
+   "datum": "2026-10-27",
+   "ist_heute": true,
+   "verlauf": [
+    64621.238281,
+    62907.839844,
+    62693.160156,
+    62189.648438,
+    63268.371094
+   ]
   }
  ],
  "devisen_rohstoffe": [
@@ -116,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9239299893379211,
+   "kurs": 0.9235799908638,
    "vortag": 0.9240800142288208,
-   "veraenderung_pct": -0.016235054171676033,
+   "veraenderung_pct": -0.054110397078332984,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -126,7 +138,7 @@
     0.92579,
     0.91995,
     0.92408,
-    0.92393
+    0.92358
    ]
   },
   {
@@ -135,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8281000256538391,
+   "kurs": 0.828760027885437,
    "vortag": 0.8238300085067749,
-   "veraenderung_pct": 0.5183128925837277,
+   "veraenderung_pct": 0.5984267783104791,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -145,7 +157,7 @@
     0.824,
     0.81981,
     0.82383,
-    0.8281
+    0.82876
    ]
   },
   {
@@ -154,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4014.39990234375,
+   "kurs": 4008.699951171875,
    "vortag": 4038.39990234375,
-   "veraenderung_pct": -0.5942947845772095,
+   "veraenderung_pct": -0.7354385868184599,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -164,7 +176,7 @@
     4060.399902,
     4007.899902,
     4038.399902,
-    4014.399902
+    4008.699951
    ]
   },
   {
@@ -173,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.19999694824219,
+   "kurs": 111.12000274658203,
    "vortag": 115.80999755859375,
-   "veraenderung_pct": -3.9806585852133702,
+   "veraenderung_pct": -4.0497322432278215,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -183,7 +195,7 @@
     113.169998,
     116.720001,
     115.809998,
-    111.199997
+    111.120003
    ]
   },
   {
@@ -192,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 79729.453125,
+   "kurs": 79600.6171875,
    "vortag": 80006.65625,
-   "veraenderung_pct": -0.34647507844074443,
+   "veraenderung_pct": -0.50750660198976,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -202,7 +214,7 @@
     80790.835938,
     80024.007812,
     80006.65625,
-    79729.453125
+    79600.617188
    ]
   }
  ],
@@ -266,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 82.83000183105469,
+   "kurs": 83.2699966430664,
    "vortag": 83.7300033569336,
-   "veraenderung_pct": -1.0748853335670883,
+   "veraenderung_pct": -0.5493929241901729,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -276,7 +288,7 @@
     84.370003,
     83.699997,
     83.730003,
-    82.830002
+    83.269997
    ]
   },
   {
@@ -285,17 +297,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 128.86000061035156,
-   "vortag": 128.0,
-   "veraenderung_pct": 0.6718754768371582,
+   "kurs": 129.8000030517578,
+   "vortag": 127.4800033569336,
+   "veraenderung_pct": 1.8198930292842919,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
-    126.5,
     126.879997,
     128.880005,
     128.0,
-    128.860001
+    127.480003,
+    129.800003
    ]
   },
   {
@@ -304,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 395.3999938964844,
+   "kurs": 396.1000061035156,
    "vortag": 396.5,
-   "veraenderung_pct": -0.2774290298904525,
+   "veraenderung_pct": -0.10088118448533523,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -314,7 +326,7 @@
     392.100006,
     390.899994,
     396.5,
-    395.399994
+    396.100006
    ]
   },
   {
@@ -323,17 +335,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.369998931884766,
-   "vortag": 38.31999969482422,
-   "veraenderung_pct": 0.13047817708438103,
+   "kurs": 38.5,
+   "vortag": 38.58000183105469,
+   "veraenderung_pct": -0.20736606339476493,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
-    39.099998,
     39.540001,
     38.389999,
     38.32,
-    38.369999
+    38.580002,
+    38.5
    ]
   }
  ],
@@ -364,18 +376,34 @@
    {
     "titel": "Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict",
     "link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
-    "zeit": "2026-10-27T08:08:03+00:00",
+    "zeit": "2026-10-27T09:09:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Opinion: UK bond investors want spending cuts. John Healey’s first Budget may disappoint",
-    "link": "https://www.cnbc.com/2026/10/27/uk-budget-2026-john-healey-bond-market.html",
-    "zeit": "2026-10-27T07:34:34+00:00",
+    "titel": "Nvidia to invest $3 billion in Meta as tech giants deepen AI partnership",
+    "link": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
+    "zeit": "2026-10-27T09:07:41+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "HSBC shares slump on revenue miss, lender announces share buyback of up to $1 billion",
+    "link": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
+    "zeit": "2026-10-27T08:28:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Schweiz steht vor Negativrekord bei Firmenpleiten",
+    "link": "https://www.finews.ch/news/finanzplatz/74164-insolvenzen-allianz-trade-studie-hoechststand-schweiz",
+    "zeit": "2026-10-27T07:47:58+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "The 'stablecoin sandwich': Why speeding up payments isn't so simple, according to Mastercard",
@@ -386,6 +414,22 @@
     "sprache": "en"
    },
    {
+    "titel": "HSBC steigert Gewinn um 32 Prozent – Aktie verliert deutlich",
+    "link": "https://www.finews.ch/news/banken/74163-hsbc-drittes-quartal-deutlich-mehr-verdient-aktienrueckkauf-aktie-verliert-5-5-prozent",
+    "zeit": "2026-10-27T07:10:38+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "St. Galler Vermögensverwalter integriert Treuhandbereich in Muttergesellschaft",
+    "link": "https://www.finews.ch/news/finanzplatz/74162-cronberg-reorganisation-bonfida-treuhand-wirtschaftspruefung-familyoffice-stgallen",
+    "zeit": "2026-10-27T06:40:22+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Proteste in Frankreich – Lösen die Demos in Frankreich einen Flächenbrand in Europa aus?",
     "link": "https://www.srf.ch/news/wirtschaft/proteste-in-frankreich-loesen-die-demos-in-frankreich-einen-flaechenbrand-in-europa-aus",
     "zeit": "2026-10-27T06:28:13+00:00",
@@ -394,12 +438,12 @@
     "sprache": "de"
    },
    {
-    "titel": "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
-    "link": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
-    "zeit": "2026-10-27T05:30:10+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "SSPA verstärkt sich im Blockchain-Bereich",
+    "link": "https://www.finews.ch/news/finanzplatz/74161-swiss-structured-products-association-sspa-tvl-capital-tokenisierung-zuger-unternehmen-infrastruktur-banken-strukturierte-produkte-auf-die-blockchain",
+    "zeit": "2026-10-27T05:51:27+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Haute Capital reduziert Verlust – Finma-Verfahren belastet",
@@ -618,33 +662,9 @@
     "sprache": "de"
    },
    {
-    "titel": "Themen-ETF erleben ein Comeback",
-    "link": "https://www.finews.ch/news/finanzplatz/74144-themen-etf-comeback-halbleiter-ruestung-zufluesse",
-    "zeit": "2026-10-26T10:28:03+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Revolut startet eigenen Venture-Fonds",
-    "link": "https://www.finews.ch/news/finanzplatz/74143-neobank-revolut-fonds-der-private-equity-spezialisten-apollo-ares-hamilton-lane-und-partners-group-investieren-ab-2027-eigener-venture-capital-fonds-fuer-startups",
-    "zeit": "2026-10-26T09:41:11+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Ausblick UBS: Solide Zahlen und politisches Stellungsspiel",
-    "link": "https://www.finews.ch/news/banken/74140-ubs-ausblick-q3-2026-ergebnis-eigenkapital",
-    "zeit": "2026-10-26T08:45:44+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Kantonalbanken überholen Raiffeisen – UBS verliert",
-    "link": "https://www.finews.ch/news/banken/74139-die-kantonalbanken-meistgenannte-hauptbank-raiffeisen-ubs-credit-suisse-unterschiede-nach-regionen-und-geschlecht",
-    "zeit": "2026-10-26T08:11:57+00:00",
+    "titel": "Tech-Schwergewichte zwingen ETF-Riesen zum Umbau",
+    "link": "https://www.finews.ch/news/finanzplatz/74148-vanguard-asien-etf-indexwechsel-tech-schwergewichte-suedkorea",
+    "zeit": "2026-10-26T10:53:00+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
@@ -654,14 +674,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/schlagzeilen-zu-detailhaendler-die-migros-laedt-nach-neuen-umbau-geruechten-zur-medienkonferenz",
     "zeit": "2026-10-26T07:59:53+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Schweizer KI-Unternehmer erhält Auszeichnung von EY",
-    "link": "https://www.finews.ch/news/finanzplatz/74138-entrepreneur-of-the-year-2026-cloud-und-ki-loesungen-fuer-den-einsatz-sensibler-daten",
-    "zeit": "2026-10-26T07:17:08+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
