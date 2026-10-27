@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-26T21:32:12+01:00",
+ "aktualisiert": "2026-10-27T06:09:19+01:00",
  "kernaussagen": [
-  "SMI +0.53%, DAX +0.91% führt",
-  "Franken schwächer: EUR/CHF 0.9250 (+0.55%)",
-  "Brent über 100 USD: 110.30 (−5.50%)"
+  "SMI +0.53%, Nikkei 225 +1.69% führt",
+  "Franken stabil: EUR/CHF 0.9245 (+0.05%)",
+  "Brent über 100 USD: 109.64 (−5.33%)"
  ],
  "maerkte": [
   {
@@ -16,7 +16,7 @@
    "vortag": 14462.3603515625,
    "veraenderung_pct": 0.5295805241205098,
    "datum": "2026-10-26",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     14478.370117,
     14552.389648,
@@ -35,7 +35,7 @@
    "vortag": 25181.650390625,
    "veraenderung_pct": 0.9101446869833607,
    "datum": "2026-10-26",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     25304.419922,
     25645.039062,
@@ -54,7 +54,7 @@
    "vortag": 6068.22021484375,
    "veraenderung_pct": 0.7911671614613036,
    "datum": "2026-10-26",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     6121.660156,
     6207.52002,
@@ -73,7 +73,7 @@
    "vortag": 7623.68017578125,
    "veraenderung_pct": 0.6963807836358971,
    "datum": "2026-10-26",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     7712.569824,
     7757.169922,
@@ -92,7 +92,7 @@
    "vortag": 25955.33984375,
    "veraenderung_pct": 0.8246511774205878,
    "datum": "2026-10-26",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     26424.820312,
     26702.859375,
@@ -107,17 +107,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 62693.16015625,
-   "vortag": 62907.83984375,
-   "veraenderung_pct": -0.341260625119566,
-   "datum": "2026-10-23",
-   "ist_heute": false,
+   "kurs": 63237.94140625,
+   "vortag": 62189.6484375,
+   "veraenderung_pct": 1.6856390011651623,
+   "datum": "2026-10-27",
+   "ist_heute": true,
    "verlauf": [
-    64916.699219,
-    64075.421875,
     64621.238281,
     62907.839844,
-    62693.160156
+    62693.160156,
+    62189.648438,
+    63237.941406
    ]
   }
  ],
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9250199794769287,
-   "vortag": 0.919950008392334,
-   "veraenderung_pct": 0.5511137603503968,
-   "datum": "2026-10-26",
+   "kurs": 0.9245100021362305,
+   "vortag": 0.9240800142288208,
+   "veraenderung_pct": 0.04653145840065598,
+   "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
-    0.9272,
     0.92684,
     0.92579,
     0.91995,
-    0.92502
+    0.92408,
+    0.92451
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8278300166130066,
-   "vortag": 0.8198099732398987,
-   "veraenderung_pct": 0.97828077663078,
-   "datum": "2026-10-26",
+   "kurs": 0.8278899788856506,
+   "vortag": 0.8238300085067749,
+   "veraenderung_pct": 0.4928165200287715,
+   "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
-    0.82685,
     0.82563,
     0.824,
     0.81981,
-    0.82783
+    0.82383,
+    0.82789
    ]
   },
   {
@@ -166,17 +166,17 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4027.300048828125,
-   "vortag": 4007.89990234375,
-   "veraenderung_pct": 0.4840476797594251,
-   "datum": "2026-10-26",
+   "kurs": 4024.10009765625,
+   "vortag": 4038.39990234375,
+   "veraenderung_pct": -0.35409580609391256,
+   "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
-    4142.600098,
     4150.0,
     4060.399902,
     4007.899902,
-    4027.300049
+    4038.399902,
+    4024.100098
    ]
   },
   {
@@ -185,17 +185,17 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.30000305175781,
-   "vortag": 116.72000122070312,
-   "veraenderung_pct": -5.500341074196779,
-   "datum": "2026-10-26",
+   "kurs": 109.63999938964844,
+   "vortag": 115.80999755859375,
+   "veraenderung_pct": -5.327690440390187,
+   "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
-    108.790001,
     108.82,
     113.169998,
     116.720001,
-    110.300003
+    115.809998,
+    109.639999
    ]
   },
   {
@@ -204,17 +204,17 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 79762.4609375,
+   "kurs": 79635.828125,
    "vortag": 80024.0078125,
-   "veraenderung_pct": -0.32683551117911325,
-   "datum": "2026-10-26",
+   "veraenderung_pct": -0.485079038292513,
+   "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
     81311.890625,
     81074.1875,
     80790.835938,
     80024.007812,
-    79762.460938
+    79635.828125
    ]
   }
  ],
@@ -244,7 +244,7 @@
    "vortag": 3.39,
    "veraenderung_bp": 4.0,
    "datum": "2026-10-26",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     3.48,
     3.47,
@@ -261,7 +261,7 @@
    "vortag": 4.988,
    "veraenderung_bp": -0.2,
    "datum": "2026-10-26",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     5.117,
     5.146,
@@ -282,7 +282,7 @@
    "vortag": 83.69999694824219,
    "veraenderung_pct": 0.035849951953959014,
    "datum": "2026-10-26",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     83.110001,
     83.470001,
@@ -297,17 +297,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 127.4800033569336,
-   "vortag": 128.0,
-   "veraenderung_pct": -0.4062473773956299,
-   "datum": "2026-10-26",
-   "ist_heute": true,
+   "kurs": 128.0,
+   "vortag": 128.8800048828125,
+   "veraenderung_pct": -0.6828094735197077,
+   "datum": "2026-10-23",
+   "ist_heute": false,
    "verlauf": [
+    124.199997,
     126.5,
     126.879997,
     128.880005,
-    128.0,
-    127.480003
+    128.0
    ]
   },
   {
@@ -320,7 +320,7 @@
    "vortag": 390.8999938964844,
    "veraenderung_pct": 1.4325930393845443,
    "datum": "2026-10-26",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     389.899994,
     392.0,
@@ -335,17 +335,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.58000183105469,
-   "vortag": 38.31999969482422,
-   "veraenderung_pct": 0.6785024485936653,
-   "datum": "2026-10-26",
-   "ist_heute": true,
+   "kurs": 38.31999969482422,
+   "vortag": 38.38999938964844,
+   "veraenderung_pct": -0.1823383587838623,
+   "datum": "2026-10-23",
+   "ist_heute": false,
    "verlauf": [
+    39.080002,
     39.099998,
     39.540001,
     38.389999,
-    38.32,
-    38.580002
+    38.32
    ]
   }
  ],
@@ -374,65 +374,129 @@
   ],
   "artikel": [
    {
-    "titel": "Kostendruck wegen KI-Ausbau – Microsoft bietet 60'000 Mitarbeitern Abgangsentschädigung an",
-    "link": "https://www.srf.ch/news/wirtschaft/kostendruck-wegen-ki-ausbau-microsoft-bietet-60-000-mitarbeitern-abgangsentschaedigung-an",
-    "zeit": "2026-10-26T20:23:21+00:00",
-    "quelle": "SRF Wirtschaft",
+    "titel": "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
+    "link": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
+    "zeit": "2026-10-27T04:54:41+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Judge fast-tracks DOJ's Alaska Senate lawsuit as Peltola seeks dismissal before Election Day",
+    "link": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
+    "zeit": "2026-10-27T04:40:30+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "KOMMENTAR - Europa darf die Arktis nicht den Autokraten überlassen",
+    "link": "https://www.nzz.ch/meinung/europa-darf-die-arktis-nicht-den-autokraten-ueberlassen-ld.10040258",
+    "zeit": "2026-10-27T04:35:00+00:00",
+    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
    {
-    "titel": "Prediction market traders say an Anthropic IPO is near-certain this year after company filed with SEC",
-    "link": "https://www.cnbc.com/2026/10/26/prediction-markets-think-anthropic-ipo-near-certain-in-2026.html",
-    "zeit": "2026-10-26T20:08:57+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "Die Einheitsgenossenschaft wird zum Härtetest für die Migros-Demokratie",
+    "link": "https://www.nzz.ch/wirtschaft/die-einheitsgenossenschaft-wird-zum-haertetest-fuer-die-migros-demokratie-ld.10045051",
+    "zeit": "2026-10-27T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Migros-Umbau: Mario Irmingers Radikalkur hat dem orangen Riesen eine Identitätskrise beschert",
+    "link": "https://www.nzz.ch/wirtschaft/migros-umbau-mario-irmingers-radikalkur-hat-dem-orangen-riesen-eine-identitaetskrise-beschert-ld.10044902",
+    "zeit": "2026-10-27T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Hüft- und Knieprothesen kommen millionenfach zum Einsatz. Aber wegen des Iran-Kriegs werden immer mehr Operationen aufgeschoben",
+    "link": "https://www.nzz.ch/wirtschaft/hueft-und-knieprothesen-kommen-millionenfach-zum-einsatz-aber-wegen-des-iran-kriegs-werden-immer-mehr-operationen-aufgeschoben-ld.10044782",
+    "zeit": "2026-10-27T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Der grösste Kohlehafen der Welt baut bald Raketen",
+    "link": "https://www.nzz.ch/wirtschaft/der-groesste-kohlehafen-der-welt-baut-bald-raketen-ld.10042285",
+    "zeit": "2026-10-27T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Wie kam es zur wirtschaftlichen Talfahrt in Frankreich? Diese Grafik der letzten zweihundert Jahre liefert die Antwort",
+    "link": "https://www.nzz.ch/wirtschaft/wie-kam-es-zur-wirtschaftlichen-talfahrt-in-frankreich-diese-grafik-der-letzten-200-jahre-liefert-die-antwort-ld.10041148",
+    "zeit": "2026-10-27T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Proteste in Frankreich: Le Pen gewinnt in den Umfragen, Mélenchon stagniert, doch er verfolgt eine ganz andere Strategie",
+    "link": "https://www.nzz.ch/international/proteste-in-frankreich-le-pen-gewinnt-in-den-umfragen-melenchon-stagniert-doch-er-verfolgt-eine-ganz-andere-strategie-ld.10044836",
+    "zeit": "2026-10-27T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Die Mitglieder des Mekka-Pakts verhandeln mit Teheran: Das steckt hinter dem Treffen zwischen Iran, Saudiarabien, Pakistan und der Türkei",
+    "link": "https://www.nzz.ch/international/iran-der-mekka-pakt-verhandelt-mit-teheran-ld.10044774",
+    "zeit": "2026-10-27T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "INTERVIEW - «Wenn die USA Weltmacht bleiben wollen, brauchen sie unbedingt eine klare Strategie», sagt die Transatlantikerin",
+    "link": "https://www.nzz.ch/pro/gerlinde-groitl-ueber-die-zukunft-der-transatlantischen-beziehungen-ld.10032564",
+    "zeit": "2026-10-27T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
     "link": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
-    "zeit": "2026-10-26T20:03:58+00:00",
+    "zeit": "2026-10-27T04:12:50+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
-    "link": "https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html",
-    "zeit": "2026-10-26T18:51:23+00:00",
+    "titel": "China industrial profits post strongest growth in three months as tech boom widens economic divide",
+    "link": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
+    "zeit": "2026-10-27T03:34:08+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate",
-    "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-    "zeit": "2026-10-26T18:50:05+00:00",
+    "titel": "DOJ charges ex-FBI Director James Comey in new case",
+    "link": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
+    "zeit": "2026-10-27T03:30:04+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "J&J's potential 'game-changer' drug — plus, what Microsoft's mass buyouts mean",
-    "link": "https://www.cnbc.com/investingclub/2026/10/26/jjs-potential-game-changer-drug-plus-what-microsofts-buyouts-mean.html",
-    "zeit": "2026-10-26T18:45:33+00:00",
+    "titel": "Bessent dines at Cheesecake Factory, slams Obama over Trump joke",
+    "link": "https://www.cnbc.com/2026/10/26/bessent-obama-cheesecake-trump-election.html",
+    "zeit": "2026-10-27T02:37:31+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
-    "link": "https://www.cnbc.com/2026/10/26/apple-responds-to-user-reports-of-broken-iphone-duo-screens.html",
-    "zeit": "2026-10-26T18:43:25+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
-    "link": "https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html",
-    "zeit": "2026-10-26T18:37:01+00:00",
+    "titel": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
+    "link": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html",
+    "zeit": "2026-10-27T01:24:28+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -440,26 +504,34 @@
    {
     "titel": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
     "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-    "zeit": "2026-10-26T17:40:30+00:00",
+    "zeit": "2026-10-27T01:05:06+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "The arc of Trump: How the president lost the coalition that put him in the White House",
-    "link": "https://www.cnbc.com/2026/10/26/trump-approval-midterms-cnbc-survey.html",
-    "zeit": "2026-10-26T17:36:55+00:00",
+    "titel": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
+    "link": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html",
+    "zeit": "2026-10-27T00:17:44+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Lula wins Brazil runoff after prediction markets favored Bolsonaro",
-    "link": "https://www.cnbc.com/2026/10/26/lula-brazil-election-prediction-markets.html",
-    "zeit": "2026-10-26T17:29:37+00:00",
+    "titel": "CNBC's The China Connection newsletter: The 'cliff' beneath China's cities",
+    "link": "https://www.cnbc.com/2026/10/27/china-fiscal-debt-gdp-imf-real-estate-.html",
+    "zeit": "2026-10-26T23:10:16+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Kostendruck wegen KI-Ausbau – Microsoft bietet 60'000 Mitarbeitern Abgangsentschädigung an",
+    "link": "https://www.srf.ch/news/wirtschaft/kostendruck-wegen-ki-ausbau-microsoft-bietet-60-000-mitarbeitern-abgangsentschaedigung-an",
+    "zeit": "2026-10-26T20:23:21+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Migros im Umbruch – Skandale und Verluste beschleunigen Fusion der Genossenschaften",
@@ -490,30 +562,6 @@
     "link": "https://www.srf.ch/news/dialog/geldgeschichte-wie-die-schweiz-zum-sparen-erzogen-wurde",
     "zeit": "2026-10-26T14:18:47+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Feindbild Nummer eins? Spaniens Vermieter sind verunsichert",
-    "link": "https://www.nzz.ch/international/feindbild-nummer-eins-spaniens-vermieter-sind-verunsichert-ld.10043548",
-    "zeit": "2026-10-26T14:14:45+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Starkes Wachstum und gewaltige Ausgaben bei Anthropic: Das KI-Unternehmen veröffentlicht seinen Antrag auf den Börsengang",
-    "link": "https://www.nzz.ch/wirtschaft/starkes-wachstum-bei-anthropic-das-ki-unternehmen-veroeffentlicht-seinen-antrag-auf-den-boersengang-ld.10045136",
-    "zeit": "2026-10-26T13:54:15+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "MELDUNGEN WIRTSCHAFT - Starkes Wachstum bei Anthropic: Das KI-Unternehmen veröffentlicht seinen Antrag auf den Börsengang",
-    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
-    "zeit": "2026-10-26T13:38:57+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -558,26 +606,10 @@
     "sprache": "de"
    },
    {
-    "titel": "INTERVIEW - «Wenn man nicht alles zubauen will, muss man auch über das Bevölkerungswachstum sprechen», sagt der Präsident der Hauseigentümer",
-    "link": "https://www.nzz.ch/wirtschaft/wenn-man-nicht-alles-zubauen-will-muss-man-auch-ueber-das-bevoelkerungswachstum-sprechen-sagt-der-praesident-der-hauseigentuemer-ld.10038985",
-    "zeit": "2026-10-26T10:50:49+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Themen-ETF erleben ein Comeback",
     "link": "https://www.finews.ch/news/finanzplatz/74144-themen-etf-comeback-halbleiter-ruestung-zufluesse",
     "zeit": "2026-10-26T10:28:03+00:00",
     "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Die Migros-Pressekonferenz zum Nachlesen",
-    "link": "https://www.nzz.ch/wirtschaft/umbau-bei-der-migros-kommt-jetzt-die-einheitsgenossenschaft-verfolgen-sie-die-pressekonferenz-live-ld.10044813",
-    "zeit": "2026-10-26T10:14:56+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -622,42 +654,10 @@
     "sprache": "de"
    },
    {
-    "titel": "Audemars Piguet steigt ins Geschäft mit gebrauchten Luxusuhren ein",
-    "link": "https://www.nzz.ch/wirtschaft/audemars-piguet-steigt-ins-geschaeft-mit-gebrauchten-uhren-ein-aber-anders-als-rolex-ld.10034987",
-    "zeit": "2026-10-26T07:00:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "SBPV stützt Position der UBS und fürchtet weiteren Stellenabbau",
     "link": "https://www.finews.ch/news/banken/74137-sbpv-ubs-wak-s-wegzug-stellenabbau",
     "zeit": "2026-10-26T06:39:24+00:00",
     "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "KOMMENTAR - Angstzustände und geistige Lähmung: Immer mehr junge Chinesen verlieren den Glauben an eine bessere Zukunft",
-    "link": "https://www.nzz.ch/meinung/angstzustaende-und-geistige-laehmung-immer-mehr-junge-chinesen-verlieren-den-glauben-an-eine-bessere-zukunft-ld.10040064",
-    "zeit": "2026-10-26T04:35:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "«Eine einzige Sicherheitslücke kann eine Kettenreaktion auslösen»: Die Versicherer rüsten sich gegen KI-gestützte Cyberattacken",
-    "link": "https://www.nzz.ch/wirtschaft/eine-einzige-sicherheitsluecke-kann-eine-kettenreaktion-ausloesen-die-versicherer-ruesten-sich-gegen-ki-gestuetzte-cyberattacken-ld.10042600",
-    "zeit": "2026-10-26T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Die EU will SpaceX aus strategischen Gründen ausbremsen – die USA reagieren mit Drohungen",
-    "link": "https://www.nzz.ch/wirtschaft/die-eu-will-spacex-aus-strategischen-gruenden-ausbremsen-die-usa-reagieren-mit-drohungen-ld.10039293",
-    "zeit": "2026-10-26T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
