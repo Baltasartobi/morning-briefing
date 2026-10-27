@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-27T13:09:10+01:00",
+ "aktualisiert": "2026-10-27T14:26:21+01:00",
  "kernaussagen": [
-  "SMI +0.20%, Nikkei 225 +1.73% führt",
-  "Franken stärker: EUR/CHF 0.9236 (−0.05%)",
-  "Brent über 100 USD: 110.02 (−5.00%)"
+  "SMI +0.04%, Nikkei 225 +1.73% führt",
+  "Franken stabil: EUR/CHF 0.9237 (−0.04%)",
+  "Brent über 100 USD: 109.93 (−5.08%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14567.41015625,
+   "kurs": 14544.650390625,
    "vortag": 14538.9501953125,
-   "veraenderung_pct": 0.19574976566516522,
+   "veraenderung_pct": 0.03920637484773337,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14547.969727,
     14462.360352,
     14538.950195,
-    14567.410156
+    14544.650391
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25467.349609375,
+   "kurs": 25486.33984375,
    "vortag": 25410.83984375,
-   "veraenderung_pct": 0.22238448619753548,
+   "veraenderung_pct": 0.297117295076621,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25371.75,
     25181.650391,
     25410.839844,
-    25467.349609
+    25486.339844
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6133.81005859375,
+   "kurs": 6137.5498046875,
    "vortag": 6116.22998046875,
-   "veraenderung_pct": 0.28743324206479404,
+   "veraenderung_pct": 0.34857787046647104,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6087.009766,
     6068.220215,
     6116.22998,
-    6133.810059
+    6137.549805
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9235799908638,
+   "kurs": 0.9237300157546997,
    "vortag": 0.9240800142288208,
-   "veraenderung_pct": -0.054110397078332984,
+   "veraenderung_pct": -0.03787534290665695,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92579,
     0.91995,
     0.92408,
-    0.92358
+    0.92373
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8282700181007385,
+   "kurs": 0.8288099765777588,
    "vortag": 0.8238300085067749,
-   "veraenderung_pct": 0.5389473007922252,
+   "veraenderung_pct": 0.604489763611582,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.824,
     0.81981,
     0.82383,
-    0.82827
+    0.82881
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4026.199951171875,
+   "kurs": 4036.39990234375,
    "vortag": 4038.39990234375,
-   "veraenderung_pct": -0.3020986397309078,
+   "veraenderung_pct": -0.04952456538143135,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4060.399902,
     4007.899902,
     4038.399902,
-    4026.199951
+    4036.399902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.0199966430664,
+   "kurs": 109.93000030517578,
    "vortag": 115.80999755859375,
-   "veraenderung_pct": -4.99956915429336,
+   "veraenderung_pct": -5.077279490005171,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     113.169998,
     116.720001,
     115.809998,
-    110.019997
+    109.93
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 79719.1015625,
+   "kurs": 80036.9765625,
    "vortag": 80006.65625,
-   "veraenderung_pct": -0.3594134550523709,
+   "veraenderung_pct": 0.03789723745641904,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     80790.835938,
     80024.007812,
     80006.65625,
-    79719.101562
+    80036.976562
    ]
   }
  ],
@@ -257,17 +257,17 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.986,
-   "vortag": 4.988,
-   "veraenderung_bp": -0.2,
-   "datum": "2026-10-26",
-   "ist_heute": false,
+   "wert": 4.99,
+   "vortag": 4.986,
+   "veraenderung_bp": 0.4,
+   "datum": "2026-10-27",
+   "ist_heute": true,
    "verlauf": [
-    5.117,
     5.146,
     4.953,
     4.988,
-    4.986
+    4.986,
+    4.99
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.51000213623047,
+   "kurs": 83.4000015258789,
    "vortag": 83.7300033569336,
-   "veraenderung_pct": -0.26275076063866365,
+   "veraenderung_pct": -0.3941261409580066,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     84.370003,
     83.699997,
     83.730003,
-    83.510002
+    83.400002
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 128.39999389648438,
+   "kurs": 128.0800018310547,
    "vortag": 127.4800033569336,
-   "veraenderung_pct": 0.7216743923161628,
+   "veraenderung_pct": 0.47066085528812973,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     128.880005,
     128.0,
     127.480003,
-    128.399994
+    128.080002
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 396.20001220703125,
+   "kurs": 394.29998779296875,
    "vortag": 396.5,
-   "veraenderung_pct": -0.07565896417874862,
+   "veraenderung_pct": -0.5548580597808939,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     392.100006,
     390.899994,
     396.5,
-    396.200012
+    394.299988
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.75,
+   "kurs": 38.779998779296875,
    "vortag": 38.58000183105469,
-   "veraenderung_pct": 0.4406380530767029,
+   "veraenderung_pct": 0.5183953829706711,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     38.389999,
     38.32,
     38.580002,
-    38.75
+    38.779999
    ]
   }
  ],
@@ -376,7 +376,71 @@
    {
     "titel": "Boeing narrows third-quarter loss as defense sales rise, but focus remains on 737 Max production",
     "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
-    "zeit": "2026-10-27T12:05:46+00:00",
+    "zeit": "2026-10-27T13:25:42+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Ripple strikes deal with Robinhood to expand its RLSUD digital dollar",
+    "link": "https://www.cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlsud-digital-dollar.html",
+    "zeit": "2026-10-27T13:23:06+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Oil prices edge lower amid diplomatic efforts to de-escalate tensions between Saudis and Iran",
+    "link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
+    "zeit": "2026-10-27T13:04:54+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "UPS beats quarterly expectations, raises full-year guidance again",
+    "link": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html",
+    "zeit": "2026-10-27T13:04:02+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Meta, SpaceX, Anthropic stoke the AI funding frenzy. What it means for our stocks",
+    "link": "https://www.cnbc.com/investingclub/2026/10/26/meta-spacex-anthropic-stoke-the-ai-funding-frenzy-what-it-means-for-our-stocks.html",
+    "zeit": "2026-10-27T12:58:58+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+    "link": "https://www.cnbc.com/investingclub/2026/10/27/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+    "zeit": "2026-10-27T12:51:16+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
+    "link": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html",
+    "zeit": "2026-10-27T12:50:13+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Santoli: We are nearing a now-or-never moment for the AI trade to rebound",
+    "link": "https://www.cnbc.com/2026/10/27/santoli-now-or-never-for-ai-trade.html",
+    "zeit": "2026-10-27T12:33:52+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Israel election puts Netanyahu’s wartime leadership on the line as Trump urges voters to return him to power",
+    "link": "https://www.cnbc.com/2026/10/26/israel-election-netanyahu-iran-gaza-palestine.html",
+    "zeit": "2026-10-27T12:28:52+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,74 +448,26 @@
    {
     "titel": "Frozen housing market sends remodelers mixed messages",
     "link": "https://www.cnbc.com/2026/10/27/frozen-housing-market-sends-remodelers-mixed-messages.html",
-    "zeit": "2026-10-27T12:04:59+00:00",
+    "zeit": "2026-10-27T12:20:59+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Man charged with assisting ‘foreign intelligence service’ after incident at UK base used for Iran strikes",
-    "link": "https://www.cnbc.com/2026/10/27/uk-national-security-raf-fairford-iran.html",
-    "zeit": "2026-10-27T11:22:42+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "EZB-Umfrage: Nachfrage nach Hypotheken bricht ein",
+    "link": "https://www.finews.ch/news/banken/74174-banken-im-euroraum-kreditbedingungen-unternehmen-und-privathaushalte-weniger-darlehen-rueckgang-bei-immobilienfinanzierungen-die-europaeische-zentralbank-ezb-weiteren-verschaerfung",
+    "zeit": "2026-10-27T12:06:14+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
-    "titel": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
-    "link": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
-    "zeit": "2026-10-27T11:20:18+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Melania Trump-brokered local ceasefire begins as Russia continues attacks on Ukraine",
-    "link": "https://www.cnbc.com/2026/10/27/russia-ukraine-zelenskyy-trump-putin-ceasefire.html",
-    "zeit": "2026-10-27T11:18:31+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Fed rate hikes are coming, but not this week: CNBC survey",
-    "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rate-hike-timing-expectations.html",
-    "zeit": "2026-10-27T11:10:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
-    "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
-    "zeit": "2026-10-27T11:06:22+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Anthropic's IPO is risky business",
-    "link": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
-    "zeit": "2026-10-27T11:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say",
-    "link": "https://www.cnbc.com/2026/10/27/us-measles-public-health.html",
-    "zeit": "2026-10-27T11:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "GM will switch to Nasdaq from the NYSE on Nov. 17",
-    "link": "https://www.cnbc.com/2026/10/27/gm-nasdaq-nyse-stock-listing.html",
-    "zeit": "2026-10-27T10:49:45+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "Pictet Alternative Advisors kauft sieben historische Häuser in Mailand",
+    "link": "https://www.finews.ch/news/banken/74173-pictet-mailand-wohnimmobilien-kryalos-project-galileo",
+    "zeit": "2026-10-27T11:14:49+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Deutsche Börse startet 24/7-Handel für DAX-40-Titel",
@@ -642,22 +658,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/unsicherheit-an-wall-street-abwaertstrend-bei-techaktien-kurzer-schluckauf-oder-fataler-hype",
     "zeit": "2026-10-26T12:49:42+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Deutsche Bank will mit KI die Kredite sehr viel schneller bearbeiten",
-    "link": "https://www.finews.ch/news/banken/74153-deutsche-bank-einfache-firmen-kreditvergabe-kuenstliche-intelligenz-neue-technologiechefin-marie-jeanne-deverdun-intelligente-agenten-unsere-kunden-werden",
-    "zeit": "2026-10-26T12:23:10+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Zurich und Deutsche Bank erneuern Zusammenarbeit vorzeitig",
-    "link": "https://www.finews.ch/news/versicherungen/74151-zurich-zusammenarbeit-dws-deutsche-bank",
-    "zeit": "2026-10-26T12:01:20+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
