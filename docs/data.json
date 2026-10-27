@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-27T07:06:35+01:00",
+ "aktualisiert": "2026-10-27T08:24:20+01:00",
  "kernaussagen": [
-  "SMI +0.53%, Nikkei 225 +1.72% führt",
-  "Franken stabil: EUR/CHF 0.9245 (+0.05%)",
-  "Brent über 100 USD: 109.94 (−5.07%)"
+  "SMI +0.53%, Nikkei 225 +1.73% führt",
+  "Franken stabil: EUR/CHF 0.9241 (±0.00%)",
+  "Brent über 100 USD: 111.06 (−4.10%)"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 63259.01171875,
+   "kurs": 63268.37109375,
    "vortag": 62189.6484375,
-   "veraenderung_pct": 1.7195197402099849,
+   "veraenderung_pct": 1.734569471532077,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     62907.839844,
     62693.160156,
     62189.648438,
-    63259.011719
+    63268.371094
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.924530029296875,
+   "kurs": 0.9240800142288208,
    "vortag": 0.9240800142288208,
-   "veraenderung_pct": 0.04869871235444467,
+   "veraenderung_pct": 0.0,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92579,
     0.91995,
     0.92408,
-    0.92453
+    0.92408
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8280199766159058,
+   "kurs": 0.8278599977493286,
    "vortag": 0.8238300085067749,
-   "veraenderung_pct": 0.5085961989568011,
+   "veraenderung_pct": 0.48917728183490716,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.824,
     0.81981,
     0.82383,
-    0.82802
+    0.82786
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4023.5,
+   "kurs": 4017.800048828125,
    "vortag": 4038.39990234375,
-   "veraenderung_pct": -0.3689555939000111,
+   "veraenderung_pct": -0.5100993961412725,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4060.399902,
     4007.899902,
     4038.399902,
-    4023.5
+    4017.800049
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.94000244140625,
+   "kurs": 111.05999755859375,
    "vortag": 115.80999755859375,
-   "veraenderung_pct": -5.0686428123078,
+   "veraenderung_pct": -4.101545721557198,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     113.169998,
     116.720001,
     115.809998,
-    109.940002
+    111.059998
    ]
   },
   {
@@ -204,17 +204,17 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 79783.1171875,
-   "vortag": 80024.0078125,
-   "veraenderung_pct": -0.30102294496974213,
+   "kurs": 79570.203125,
+   "vortag": 80006.65625,
+   "veraenderung_pct": -0.5455210171966152,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
-    81311.890625,
     81074.1875,
     80790.835938,
     80024.007812,
-    79783.117188
+    80006.65625,
+    79570.203125
    ]
   }
  ],
@@ -374,12 +374,28 @@
   ],
   "artikel": [
    {
+    "titel": "Proteste in Frankreich – Lösen die Demos in Frankreich einen Flächenbrand in Europa aus?",
+    "link": "https://www.srf.ch/news/wirtschaft/proteste-in-frankreich-loesen-die-demos-in-frankreich-einen-flaechenbrand-in-europa-aus",
+    "zeit": "2026-10-27T06:28:13+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
     "link": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
     "zeit": "2026-10-27T05:30:10+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Haute Capital reduziert Verlust – Finma-Verfahren belastet",
+    "link": "https://www.finews.ch/news/finanzplatz/74160-beteiligungsgesellschaft-haute-capital-partners-im-ersten-halbjahr-2026-die-kosten-und-den-verlust-deutlich-reduziert-eigenkapital-gesunken-verfahren-der-finma",
+    "zeit": "2026-10-27T05:19:46+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Oil falls as renewed diplomatic efforts to end Mideast conflict ease supply concerns",
@@ -662,14 +678,6 @@
     "sprache": "de"
    },
    {
-    "titel": "SBPV stützt Position der UBS und fürchtet weiteren Stellenabbau",
-    "link": "https://www.finews.ch/news/banken/74137-sbpv-ubs-wak-s-wegzug-stellenabbau",
-    "zeit": "2026-10-26T06:39:24+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "An Chilbi und Weihnachtsmarkt – Das süsse Nischengeschäft mit dem Magenbrot",
     "link": "https://www.srf.ch/news/wirtschaft/an-chilbi-und-weihnachtsmarkt-das-suesse-nischengeschaeft-mit-dem-magenbrot",
     "zeit": "2026-10-25T09:43:35+00:00",
@@ -681,14 +689,6 @@
     "titel": "Zurück zur Winterzeit – Kosten, Aufwand und Nutzen: Sechs Fakten zur Zeitumstellung",
     "link": "https://www.srf.ch/news/schweiz/zurueck-zur-winterzeit-kosten-aufwand-und-nutzen-sechs-fakten-zur-zeitumstellung",
     "zeit": "2026-10-24T12:39:36+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Strom vom Acker – Die Schweiz lässt riesiges Sonnenstrompotenzial bisher ungenutzt",
-    "link": "https://www.srf.ch/news/wirtschaft/strom-vom-acker-die-schweiz-laesst-riesiges-sonnenstrompotenzial-bisher-ungenutzt",
-    "zeit": "2026-10-24T07:14:37+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
