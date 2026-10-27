@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-27T19:13:01+01:00",
+ "aktualisiert": "2026-10-27T20:21:10+01:00",
  "kernaussagen": [
-  "SMI +0.40%, Nasdaq +1.11% führt",
-  "Franken stärker: EUR/CHF 0.9226 (−0.16%)",
-  "Brent über 100 USD: 109.38 (−5.55%)"
+  "SMI +0.40%, Nasdaq +1.29% führt",
+  "Franken stärker: EUR/CHF 0.9227 (−0.15%)",
+  "Brent über 100 USD: 109.21 (−5.70%)"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7719.60986328125,
+   "kurs": 7728.02978515625,
    "vortag": 7676.77001953125,
-   "veraenderung_pct": 0.558045162757348,
+   "veraenderung_pct": 0.6677256905519569,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7663.430176,
     7623.680176,
     7676.77002,
-    7719.609863
+    7728.029785
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26461.08984375,
+   "kurs": 26507.5546875,
    "vortag": 26169.380859375,
-   "veraenderung_pct": 1.1146957810830083,
+   "veraenderung_pct": 1.2922500151693495,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26008.859375,
     25955.339844,
     26169.380859,
-    26461.089844
+    26507.554688
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9226300120353699,
+   "kurs": 0.9227100014686584,
    "vortag": 0.9240800142288208,
-   "veraenderung_pct": -0.15691305635053832,
+   "veraenderung_pct": -0.1482569408565393,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92579,
     0.91995,
     0.92408,
-    0.92263
+    0.92271
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8285899758338928,
+   "kurs": 0.8286100029945374,
    "vortag": 0.8238300085067749,
-   "veraenderung_pct": 0.5777851350359908,
+   "veraenderung_pct": 0.5802161172092202,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.824,
     0.81981,
     0.82383,
-    0.82859
+    0.82861
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4071.699951171875,
+   "kurs": 4073.89990234375,
    "vortag": 4038.39990234375,
-   "veraenderung_pct": 0.8245852226967054,
+   "veraenderung_pct": 0.8790610355204453,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4060.399902,
     4007.899902,
     4038.399902,
-    4071.699951
+    4073.899902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.37999725341797,
+   "kurs": 109.20999908447266,
    "vortag": 115.80999755859375,
-   "veraenderung_pct": -5.55219794553794,
+   "veraenderung_pct": -5.698988527119031,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     113.169998,
     116.720001,
     115.809998,
-    109.379997
+    109.209999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80474.28125,
+   "kurs": 80543.9375,
    "vortag": 80006.65625,
-   "veraenderung_pct": 0.5844826192195729,
+   "veraenderung_pct": 0.6715456878001902,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     80790.835938,
     80024.007812,
     80006.65625,
-    80474.28125
+    80543.9375
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.995,
+   "wert": 4.993,
    "vortag": 4.986,
-   "veraenderung_bp": 0.9,
+   "veraenderung_bp": 0.7,
    "datum": "2026-10-27",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     4.953,
     4.988,
     4.986,
-    4.995
+    4.993
    ]
   }
  ],
@@ -374,6 +374,38 @@
   ],
   "artikel": [
    {
+    "titel": "Boeing stock sinks 10% as company says it won't significantly ramp up 737 Max production until late 2027",
+    "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+    "zeit": "2026-10-27T19:10:24+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
+    "link": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
+    "zeit": "2026-10-27T18:57:45+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Margin debt growth slows sharply as stock market warning signs build",
+    "link": "https://www.cnbc.com/2026/10/27/margin-debt-growth-cools-after-2026-surge-may-signal-market-top.html",
+    "zeit": "2026-10-27T18:53:18+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "What's behind the AI trade comeback — plus, our take on Intel's latest deal",
+    "link": "https://www.cnbc.com/investingclub/2026/10/27/the-ai-trade-comeback-plus-our-take-on-latest-intel-deal.html",
+    "zeit": "2026-10-27T18:35:40+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
     "link": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
     "zeit": "2026-10-27T18:12:20+00:00",
@@ -417,38 +449,6 @@
     "titel": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
     "link": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
     "zeit": "2026-10-27T17:36:46+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Anthropic's IPO could be 'speculative fiction' or a 'generational moment' — investors are split",
-    "link": "https://www.cnbc.com/2026/10/27/-anthropic-ipo-investors-growth-losses-s-1.html",
-    "zeit": "2026-10-27T17:26:34+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Ripple strikes deal with Robinhood to expand its RLUSD digital dollar",
-    "link": "https://www.cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlusd-digital-dollar.html",
-    "zeit": "2026-10-27T16:35:45+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
-    "link": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html",
-    "zeit": "2026-10-27T16:15:35+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "One week out, prediction markets see Democrats as favored to sweep Congress",
-    "link": "https://www.cnbc.com/2026/10/27/2026-midterms-prediction-markets-democrats-congress.html",
-    "zeit": "2026-10-27T16:15:21+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
