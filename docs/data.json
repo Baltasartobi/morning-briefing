@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-28T15:52:11+01:00",
+ "aktualisiert": "2026-10-28T16:49:55+01:00",
  "kernaussagen": [
-  "SMI +0.01%, Nikkei 225 +1.08% führt",
-  "Franken stärker: EUR/CHF 0.9239 (−0.10%)",
-  "Brent über 100 USD: 111.82 (−1.81%)"
+  "SMI +0.04%, Nikkei 225 +1.73% führt",
+  "Franken stabil: EUR/CHF 0.9245 (−0.03%)",
+  "Brent über 100 USD: 111.91 (−1.73%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14599.0498046875,
+   "kurs": 14603.1298828125,
    "vortag": 14597.6298828125,
-   "veraenderung_pct": 0.009727071356091521,
+   "veraenderung_pct": 0.037677349296783014,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14462.360352,
     14538.950195,
     14597.629883,
-    14599.049805
+    14603.129883
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25682.529296875,
+   "kurs": 25684.419921875,
    "vortag": 25590.76953125,
-   "veraenderung_pct": 0.35856587084239777,
+   "veraenderung_pct": 0.36595378857458005,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25181.650391,
     25410.839844,
     25590.769531,
-    25682.529297
+    25684.419922
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6164.14990234375,
+   "kurs": 6165.8701171875,
    "vortag": 6164.68994140625,
-   "veraenderung_pct": -0.008760198284629706,
+   "veraenderung_pct": 0.019144122291092636,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6068.220215,
     6116.22998,
     6164.689941,
-    6164.149902
+    6165.870117
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7728.27978515625,
+   "kurs": 7737.60009765625,
    "vortag": 7722.60009765625,
-   "veraenderung_pct": 0.07354631119282917,
+   "veraenderung_pct": 0.19423509971145947,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7623.680176,
     7676.77002,
     7722.600098,
-    7728.279785
+    7737.600098
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26442.486328125,
+   "kurs": 26460.4765625,
    "vortag": 26477.810546875,
-   "veraenderung_pct": -0.13341064846530415,
+   "veraenderung_pct": -0.06546607901855017,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     25955.339844,
     26169.380859,
     26477.810547,
-    26442.486328
+    26460.476562
    ]
   },
   {
@@ -107,17 +107,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 63954.19140625,
-   "vortag": 63268.37109375,
-   "veraenderung_pct": 1.0839860433323967,
-   "datum": "2026-10-28",
-   "ist_heute": true,
+   "kurs": 63268.37109375,
+   "vortag": 62189.6484375,
+   "veraenderung_pct": 1.734569471532077,
+   "datum": "2026-10-27",
+   "ist_heute": false,
    "verlauf": [
+    64621.238281,
     62907.839844,
     62693.160156,
     62189.648438,
-    63268.371094,
-    63954.191406
+    63268.371094
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9238799810409546,
+   "kurs": 0.9244700074195862,
    "vortag": 0.9247900247573853,
-   "veraenderung_pct": -0.0984054425402614,
+   "veraenderung_pct": -0.03460432414190695,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.91995,
     0.92408,
     0.92479,
-    0.92388
+    0.92447
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8299800157546997,
+   "kurs": 0.8304399847984314,
    "vortag": 0.8275499939918518,
-   "veraenderung_pct": 0.2936404785801816,
+   "veraenderung_pct": 0.3492225034815277,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.81981,
     0.82383,
     0.82755,
-    0.82998
+    0.83044
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4052.60009765625,
+   "kurs": 4057.199951171875,
    "vortag": 4074.60009765625,
-   "veraenderung_pct": -0.5399302869661837,
+   "veraenderung_pct": -0.42703936748010873,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4007.899902,
     4038.399902,
     4074.600098,
-    4052.600098
+    4057.199951
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.81999969482422,
+   "kurs": 111.91000366210938,
    "vortag": 113.87999725341797,
-   "veraenderung_pct": -1.8089195717221673,
+   "veraenderung_pct": -1.7298855275916014,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     116.720001,
     115.809998,
     113.879997,
-    111.82
+    111.910004
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80433.1484375,
+   "kurs": 80395.609375,
    "vortag": 80805.078125,
-   "veraenderung_pct": -0.4602800914623839,
+   "veraenderung_pct": -0.5067364075393654,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     80024.007812,
     80006.65625,
     80805.078125,
-    80433.148438
+    80395.609375
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.024,
+   "wert": 5.026,
    "vortag": 4.993,
-   "veraenderung_bp": 3.1,
+   "veraenderung_bp": 3.3,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     4.988,
     4.986,
     4.993,
-    5.024
+    5.026
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 82.77999877929688,
+   "kurs": 82.94000244140625,
    "vortag": 83.25,
-   "veraenderung_pct": -0.5645660308746248,
+   "veraenderung_pct": -0.37236943975225145,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     83.699997,
     83.730003,
     83.25,
-    82.779999
+    82.940002
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 130.3000030517578,
+   "kurs": 130.24000549316406,
    "vortag": 128.77999877929688,
-   "veraenderung_pct": 1.1803108299961451,
+   "veraenderung_pct": 1.1337216397783623,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     128.0,
     127.480003,
     128.779999,
-    130.300003
+    130.240005
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 399.6000061035156,
+   "kurs": 399.5,
    "vortag": 399.0,
-   "veraenderung_pct": 0.15037746955279818,
+   "veraenderung_pct": 0.12531328320801727,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     390.899994,
     396.5,
     399.0,
-    399.600006
+    399.5
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.41999816894531,
+   "kurs": 38.279998779296875,
    "vortag": 38.84000015258789,
-   "veraenderung_pct": -1.081364526242401,
+   "veraenderung_pct": -1.4418160944669856,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     38.32,
     38.580002,
     38.84,
-    38.419998
+    38.279999
    ]
   }
  ],
@@ -374,9 +374,33 @@
   ],
   "artikel": [
    {
+    "titel": "At least 68 people dead in high-speed Spain train crash",
+    "link": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
+    "zeit": "2026-10-28T15:41:54+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
+    "link": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
+    "zeit": "2026-10-28T15:39:14+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Here's what options traders see before Alphabet, Microsoft report after the bell",
+    "link": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
+    "zeit": "2026-10-28T15:12:09+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "FEC campaign finance system offline days before midterms after hackers reportedly target site",
     "link": "https://www.cnbc.com/2026/10/28/fec-hack-outage-campaign-finance-filings.html",
-    "zeit": "2026-10-28T14:51:05+00:00",
+    "zeit": "2026-10-28T15:09:38+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -414,14 +438,6 @@
     "sprache": "en"
    },
    {
-    "titel": "At least 64 people dead in high-speed Spain train crash",
-    "link": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
-    "zeit": "2026-10-28T14:31:47+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "UK brings forward defense spending target, pledging billions to Ukraine",
     "link": "https://www.cnbc.com/2026/10/28/uk-defense-spending-ukraine-aid.html",
     "zeit": "2026-10-28T14:29:24+00:00",
@@ -449,22 +465,6 @@
     "titel": "Bearista cups are returning at Starbucks. Can the viral sensation boost holiday sales again?",
     "link": "https://www.cnbc.com/investingclub/2026/10/28/bearista-cups-are-back-at-starbucks-can-they-boost-holiday-sales-again.html",
     "zeit": "2026-10-28T14:04:13+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Google alters its cloud playbook, enlisting partners to sell more AI chips",
-    "link": "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html",
-    "zeit": "2026-10-28T13:52:27+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "America's largest budget airline reports 71% jump in airfare",
-    "link": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
-    "zeit": "2026-10-28T13:50:38+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
