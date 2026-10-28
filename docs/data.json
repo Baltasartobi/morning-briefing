@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-28T12:40:37+01:00",
+ "aktualisiert": "2026-10-28T13:48:54+01:00",
  "kernaussagen": [
-  "SMI −0.69%, Nasdaq +1.18% führt",
-  "Franken stärker: EUR/CHF 0.9233 (−0.16%)",
-  "Brent über 100 USD: 111.35 (−2.22%)"
+  "SMI −0.37%, Nasdaq +1.18% führt",
+  "Franken stärker: EUR/CHF 0.9238 (−0.11%)",
+  "Brent über 100 USD: 111.27 (−2.29%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14497.48046875,
+   "kurs": 14543.8798828125,
    "vortag": 14597.6298828125,
-   "veraenderung_pct": -0.6860662646366866,
+   "veraenderung_pct": -0.3682104590368218,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14462.360352,
     14538.950195,
     14597.629883,
-    14497.480469
+    14543.879883
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25568.349609375,
+   "kurs": 25683.80078125,
    "vortag": 25590.76953125,
-   "veraenderung_pct": -0.08760940872692968,
+   "veraenderung_pct": 0.3635343981602146,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25181.650391,
     25410.839844,
     25590.769531,
-    25568.349609
+    25683.800781
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6148.9599609375,
+   "kurs": 6170.60986328125,
    "vortag": 6164.68994140625,
-   "veraenderung_pct": -0.2551625567264404,
+   "veraenderung_pct": 0.09602951537330817,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6068.220215,
     6116.22998,
     6164.689941,
-    6148.959961
+    6170.609863
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9233099818229675,
+   "kurs": 0.923770010471344,
    "vortag": 0.9247900247573853,
-   "veraenderung_pct": -0.16004097090104308,
+   "veraenderung_pct": -0.11029685212152751,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.91995,
     0.92408,
     0.92479,
-    0.92331
+    0.92377
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8298299908638,
+   "kurs": 0.8299099802970886,
    "vortag": 0.8275499939918518,
-   "veraenderung_pct": 0.2755116776631539,
+   "veraenderung_pct": 0.28517749046832463,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.81981,
     0.82383,
     0.82755,
-    0.82983
+    0.82991
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4060.5,
+   "kurs": 4069.699951171875,
    "vortag": 4074.60009765625,
-   "veraenderung_pct": -0.34604862608137443,
+   "veraenderung_pct": -0.12026079534022127,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4007.899902,
     4038.399902,
     4074.600098,
-    4060.5
+    4069.699951
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.3499984741211,
+   "kurs": 111.2699966430664,
    "vortag": 113.87999725341797,
-   "veraenderung_pct": -2.2216357923392382,
+   "veraenderung_pct": -2.291886787232278,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     116.720001,
     115.809998,
     113.879997,
-    111.349998
+    111.269997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81297.0234375,
+   "kurs": 80587.8203125,
    "vortag": 80805.078125,
-   "veraenderung_pct": 0.6088049463166101,
+   "veraenderung_pct": -0.26886653356601453,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     80024.007812,
     80006.65625,
     80805.078125,
-    81297.023438
+    80587.820312
    ]
   }
  ],
@@ -258,15 +258,15 @@
    "quelle": "yahoo",
    "verfuegbar": true,
    "wert": 4.993,
-   "vortag": 4.986,
-   "veraenderung_bp": 0.7,
-   "datum": "2026-10-27",
-   "ist_heute": false,
+   "vortag": 4.993,
+   "veraenderung_bp": 0.0,
+   "datum": "2026-10-28",
+   "ist_heute": true,
    "verlauf": [
-    5.146,
     4.953,
     4.988,
     4.986,
+    4.993,
     4.993
    ]
   }
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 82.47000122070312,
+   "kurs": 82.62000274658203,
    "vortag": 83.25,
-   "veraenderung_pct": -0.9369354706268762,
+   "veraenderung_pct": -0.7567534575591228,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     83.699997,
     83.730003,
     83.25,
-    82.470001
+    82.620003
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 128.5399932861328,
+   "kurs": 128.66000366210938,
    "vortag": 128.77999877929688,
-   "veraenderung_pct": -0.18636860959704293,
+   "veraenderung_pct": -0.0931783804355768,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     128.0,
     127.480003,
     128.779999,
-    128.539993
+    128.660004
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 393.1000061035156,
+   "kurs": 394.70001220703125,
    "vortag": 399.0,
-   "veraenderung_pct": -1.4786952121514707,
+   "veraenderung_pct": -1.077691176182649,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     390.899994,
     396.5,
     399.0,
-    393.100006
+    394.700012
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.43000030517578,
+   "kurs": 38.68000030517578,
    "vortag": 38.84000015258789,
-   "veraenderung_pct": -1.055612373330006,
+   "veraenderung_pct": -0.41194605248077165,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     38.32,
     38.580002,
     38.84,
-    38.43
+    38.68
    ]
   }
  ],
@@ -374,33 +374,9 @@
   ],
   "artikel": [
    {
-    "titel": "Stellantis reports $4.5 billion cash drain as massive turnaround plan continues",
-    "link": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
-    "zeit": "2026-10-28T11:39:48+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Mortgage rates fell for the second straight week, but more borrowers still sought savings in riskier loans",
-    "link": "https://www.cnbc.com/2026/10/28/mortgage-rates-fell-for-the-second-straight-week.html",
-    "zeit": "2026-10-28T11:33:43+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "At least 30 people reported dead in high-speed Spain train crash",
-    "link": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
-    "zeit": "2026-10-28T11:28:29+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "A Democratic win in midterms could put prediction markets and the CFTC in the hot seat",
-    "link": "https://www.cnbc.com/2026/10/28/democrats-prediction-markets-cftc-midterms.html",
-    "zeit": "2026-10-28T11:24:49+00:00",
+    "titel": "FEC campaign finance system offline days before midterms after hackers reportedly target site",
+    "link": "https://www.cnbc.com/2026/10/28/fec-hack-outage-campaign-finance-filings.html",
+    "zeit": "2026-10-28T12:44:05+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -408,15 +384,79 @@
    {
     "titel": "Google alters its cloud playbook, enlisting partners to sell more AI chips",
     "link": "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html",
-    "zeit": "2026-10-28T11:00:01+00:00",
+    "zeit": "2026-10-28T12:37:51+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Musk's PAC lawyer runs in Texas House district that is home to billionaire's business interests",
-    "link": "https://www.cnbc.com/2026/10/28/elon-musk-chris-gober-rourk-texas-10th-congress-election.html",
-    "zeit": "2026-10-28T10:00:01+00:00",
+    "titel": "New Zealand dollar tanks after central bank defies markets' near-certainty it would hike rates",
+    "link": "https://www.cnbc.com/2026/10/28/new-zealand-dollar-rbnz-rates.html",
+    "zeit": "2026-10-28T12:36:06+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as cost of living looms over midterms",
+    "link": "https://www.cnbc.com/2026/10/28/trump-jokes-5000-cash-would-buy-hamburger-and-dessert-at-mar-a-lago.html",
+    "zeit": "2026-10-28T12:32:36+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Why China is desperate to ship cars outside of the country",
+    "link": "https://www.cnbc.com/2026/10/28/china-car-exports.html",
+    "zeit": "2026-10-28T12:30:02+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Israeli bonds, shekel fall as election leaves Netanyahu and others far short of majorities",
+    "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
+    "zeit": "2026-10-28T12:27:07+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
+    "link": "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html",
+    "zeit": "2026-10-28T12:25:49+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Die UBS erzielt einen Vorsteuergewinn von 3,6 Milliarden Dollar und wirbt weiter für wettbewerbsfähige Eigenkapitalregeln",
+    "link": "https://www.nzz.ch/wirtschaft/die-ubs-erzielt-einen-vorsteuergewinn-von-36-milliarden-dollar-und-wirbt-weiter-fuer-guenstige-eigenkapitalvorschriften-ld.10044810",
+    "zeit": "2026-10-28T12:13:45+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Traders are betting big against this restaurant giant into earnings",
+    "link": "https://www.cnbc.com/2026/10/28/traders-are-betting-big-against-chipotle-into-earnings.html",
+    "zeit": "2026-10-28T12:04:47+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "DraftKings CEO Jason Robins says parents should talk with kids about gambling addiction",
+    "link": "https://www.cnbc.com/2026/10/28/draftkings-ceo-jason-robins-parents-kids-should-talk-about-gambling.html",
+    "zeit": "2026-10-28T12:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Stellantis reports $4.5 billion cash drain as massive turnaround plan continues",
+    "link": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
+    "zeit": "2026-10-28T11:45:16+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -430,44 +470,12 @@
     "sprache": "de"
    },
    {
-    "titel": "UBS pretax profits jump 27% in third quarter to $3.59 billion as wealth inflows surge",
-    "link": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
-    "zeit": "2026-10-28T09:42:03+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Robinhood shares fall as crypto slump weighs on profits, offsetting gains in new businesses",
-    "link": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
-    "zeit": "2026-10-28T09:29:26+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Treasury yields tick higher ahead of Federal Reserve interest rate decision",
-    "link": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html",
-    "zeit": "2026-10-28T09:22:26+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Pascal Gentinetta wird erneut Geschäftsführer der VAV",
     "link": "https://www.finews.ch/news/banken/74204-vav-pascal-gentinetta-geschaeftsfuehrer",
     "zeit": "2026-10-28T09:14:44+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Israeli bonds, shekel fall as election leaves Netanyahu and others far short of majorities",
-    "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
-    "zeit": "2026-10-28T09:12:02+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "VanEck lanciert ersten ETF auf Chinas Halbleiterindustrie",
@@ -482,14 +490,6 @@
     "link": "https://www.finews.ch/news/finanzplatz/74200-gzo-spital-wetzikon-glaubigerversammlung-vergleich-steiner-h56immo-nachlassvertrag-konkurs-schadenersatz-kantonzuerich-gregor-greber-sachwalter",
     "zeit": "2026-10-28T08:15:21+00:00",
     "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Die UBS erzielt einen Vorsteuergewinn von 3,6 Milliarden Dollar und wirbt weiter für günstige Eigenkapitalvorschriften",
-    "link": "https://www.nzz.ch/wirtschaft/die-ubs-erzielt-einen-vorsteuergewinn-von-36-milliarden-dollar-und-wirbt-weiter-fuer-guenstige-eigenkapitalvorschriften-ld.10044810",
-    "zeit": "2026-10-28T08:08:37+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
