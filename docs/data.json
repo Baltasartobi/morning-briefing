@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-28T14:56:29+01:00",
+ "aktualisiert": "2026-10-28T15:52:11+01:00",
  "kernaussagen": [
-  "SMI −0.21%, Nikkei 225 +1.08% führt",
-  "Franken stärker: EUR/CHF 0.9243 (−0.05%)",
-  "Brent über 100 USD: 111.43 (−2.15%)"
+  "SMI +0.01%, Nikkei 225 +1.08% führt",
+  "Franken stärker: EUR/CHF 0.9239 (−0.10%)",
+  "Brent über 100 USD: 111.82 (−1.81%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14567.0703125,
+   "kurs": 14599.0498046875,
    "vortag": 14597.6298828125,
-   "veraenderung_pct": -0.20934611000434922,
+   "veraenderung_pct": 0.009727071356091521,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14462.360352,
     14538.950195,
     14597.629883,
-    14567.070312
+    14599.049805
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25650.2109375,
+   "kurs": 25682.529296875,
    "vortag": 25590.76953125,
-   "veraenderung_pct": 0.23227674407138021,
+   "veraenderung_pct": 0.35856587084239777,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25181.650391,
     25410.839844,
     25590.769531,
-    25650.210938
+    25682.529297
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6163.830078125,
+   "kurs": 6164.14990234375,
    "vortag": 6164.68994140625,
-   "veraenderung_pct": -0.013948199981228537,
+   "veraenderung_pct": -0.008760198284629706,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6068.220215,
     6116.22998,
     6164.689941,
-    6163.830078
+    6164.149902
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7728.9501953125,
+   "kurs": 7728.27978515625,
    "vortag": 7722.60009765625,
-   "veraenderung_pct": 0.0822274567626069,
+   "veraenderung_pct": 0.07354631119282917,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7623.680176,
     7676.77002,
     7722.600098,
-    7728.950195
+    7728.279785
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26473.94921875,
+   "kurs": 26442.486328125,
    "vortag": 26477.810546875,
-   "veraenderung_pct": -0.014583260644474016,
+   "veraenderung_pct": -0.13341064846530415,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     25955.339844,
     26169.380859,
     26477.810547,
-    26473.949219
+    26442.486328
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.924310028553009,
+   "kurs": 0.9238799810409546,
    "vortag": 0.9247900247573853,
-   "veraenderung_pct": -0.05190326360864361,
+   "veraenderung_pct": -0.0984054425402614,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.91995,
     0.92408,
     0.92479,
-    0.92431
+    0.92388
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8301600217819214,
+   "kurs": 0.8299800157546997,
    "vortag": 0.8275499939918518,
-   "veraenderung_pct": 0.31539215866338566,
+   "veraenderung_pct": 0.2936404785801816,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.81981,
     0.82383,
     0.82755,
-    0.83016
+    0.82998
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4062.10009765625,
+   "kurs": 4052.60009765625,
    "vortag": 4074.60009765625,
-   "veraenderung_pct": -0.30677857213987636,
+   "veraenderung_pct": -0.5399302869661837,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4007.899902,
     4038.399902,
     4074.600098,
-    4062.100098
+    4052.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.43000030517578,
+   "kurs": 111.81999969482422,
    "vortag": 113.87999725341797,
-   "veraenderung_pct": -2.1513847974461986,
+   "veraenderung_pct": -1.8089195717221673,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     116.720001,
     115.809998,
     113.879997,
-    111.43
+    111.82
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80511.0234375,
+   "kurs": 80433.1484375,
    "vortag": 80805.078125,
-   "veraenderung_pct": -0.36390619788166934,
+   "veraenderung_pct": -0.4602800914623839,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     80024.007812,
     80006.65625,
     80805.078125,
-    80511.023438
+    80433.148438
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.003,
+   "wert": 5.024,
    "vortag": 4.993,
-   "veraenderung_bp": 1.0,
+   "veraenderung_bp": 3.1,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     4.988,
     4.986,
     4.993,
-    5.003
+    5.024
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 82.66999816894531,
+   "kurs": 82.77999877929688,
    "vortag": 83.25,
-   "veraenderung_pct": -0.6966988961617848,
+   "veraenderung_pct": -0.5645660308746248,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     83.699997,
     83.730003,
     83.25,
-    82.669998
+    82.779999
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 129.39999389648438,
+   "kurs": 130.3000030517578,
    "vortag": 128.77999877929688,
-   "veraenderung_pct": 0.48143743055164556,
+   "veraenderung_pct": 1.1803108299961451,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     128.0,
     127.480003,
     128.779999,
-    129.399994
+    130.300003
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 397.29998779296875,
+   "kurs": 399.6000061035156,
    "vortag": 399.0,
-   "veraenderung_pct": -0.4260682223135914,
+   "veraenderung_pct": 0.15037746955279818,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     390.899994,
     396.5,
     399.0,
-    397.299988
+    399.600006
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.560001373291016,
+   "kurs": 38.41999816894531,
    "vortag": 38.84000015258789,
-   "veraenderung_pct": -0.7209031364491914,
+   "veraenderung_pct": -1.081364526242401,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     38.32,
     38.580002,
     38.84,
-    38.560001
+    38.419998
    ]
   }
  ],
@@ -374,6 +374,86 @@
   ],
   "artikel": [
    {
+    "titel": "FEC campaign finance system offline days before midterms after hackers reportedly target site",
+    "link": "https://www.cnbc.com/2026/10/28/fec-hack-outage-campaign-finance-filings.html",
+    "zeit": "2026-10-28T14:51:05+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Robinhood shares fall as crypto slump weighs on profits, offsetting gains in new businesses",
+    "link": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
+    "zeit": "2026-10-28T14:50:02+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Die Swiss beendet die Kooperation mit Air Baltic, setzt aber weiterhin auf ungeliebte Partnerschaften",
+    "link": "https://www.nzz.ch/wirtschaft/die-swiss-beendet-die-kooperation-mit-air-baltic-setzt-aber-weiterhin-auf-ungeliebte-partnerschaften-ld.10046908",
+    "zeit": "2026-10-28T14:47:19+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Wendy's shares jump 15% as Nelson Peltz's Trian offers $1.4 billion to buy burger chain",
+    "link": "https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html",
+    "zeit": "2026-10-28T14:35:51+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "DraftKings CEO Jason Robins says parents should talk with kids about responsible gambling",
+    "link": "https://www.cnbc.com/2026/10/28/draftkings-ceo-jason-robins-parents-kids-should-talk-about-gambling.html",
+    "zeit": "2026-10-28T14:35:25+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "At least 64 people dead in high-speed Spain train crash",
+    "link": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
+    "zeit": "2026-10-28T14:31:47+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "UK brings forward defense spending target, pledging billions to Ukraine",
+    "link": "https://www.cnbc.com/2026/10/28/uk-defense-spending-ukraine-aid.html",
+    "zeit": "2026-10-28T14:29:24+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Anthropic IPO filing warns some risks may be uninsurable. AI coverage will be issue for every company",
+    "link": "https://www.cnbc.com/2026/10/28/anthropic-ipo-ai-risks-insurance.html",
+    "zeit": "2026-10-28T14:20:29+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Vernehmlassung eröffnet – Vorlage für Transparenz bei Bargeldlosgebühr geht in Konsultation",
+    "link": "https://www.srf.ch/news/schweiz/vernehmlassung-eroeffnet-vorlage-fuer-transparenz-bei-bargeldlosgebuehr-geht-in-konsultation",
+    "zeit": "2026-10-28T14:07:43+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Bearista cups are returning at Starbucks. Can the viral sensation boost holiday sales again?",
+    "link": "https://www.cnbc.com/investingclub/2026/10/28/bearista-cups-are-back-at-starbucks-can-they-boost-holiday-sales-again.html",
+    "zeit": "2026-10-28T14:04:13+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Google alters its cloud playbook, enlisting partners to sell more AI chips",
     "link": "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html",
     "zeit": "2026-10-28T13:52:27+00:00",
@@ -385,70 +465,6 @@
     "titel": "America's largest budget airline reports 71% jump in airfare",
     "link": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
     "zeit": "2026-10-28T13:50:38+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Stellantis stock rises 12% as automaker's turnaround plan, cost cuts gain traction",
-    "link": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
-    "zeit": "2026-10-28T13:48:05+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Wendy's shares jump 15% as Nelson Peltz's Trian offers $1.4 billion to buy burger chain",
-    "link": "https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html",
-    "zeit": "2026-10-28T13:21:49+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "FEC campaign finance system offline days before midterms after hackers reportedly target site",
-    "link": "https://www.cnbc.com/2026/10/28/fec-hack-outage-campaign-finance-filings.html",
-    "zeit": "2026-10-28T13:20:54+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Why China is desperate to ship cars outside of the country",
-    "link": "https://www.cnbc.com/2026/10/28/china-car-exports.html",
-    "zeit": "2026-10-28T13:17:20+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "The 'Magnificent Seven' is no more. Time to pick winners and losers as group's correlation breaks down",
-    "link": "https://www.cnbc.com/2026/10/28/magnificent-seven-stocks-correlation-breakdown.html",
-    "zeit": "2026-10-28T13:09:08+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "At least 64 people dead in high-speed Spain train crash",
-    "link": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
-    "zeit": "2026-10-28T13:01:49+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
-    "link": "https://www.cnbc.com/investingclub/2026/10/28/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-    "zeit": "2026-10-28T12:56:05+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as affordability looms over midterm",
-    "link": "https://www.cnbc.com/2026/10/28/trump-jokes-5000-cash-would-buy-hamburger-and-dessert-at-mar-a-lago.html",
-    "zeit": "2026-10-28T12:49:09+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -630,14 +646,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Neuer China-Schock für Mercedes: Der Autobauer muss seine Prognose nach unten korrigieren",
-    "link": "https://www.nzz.ch/wirtschaft/neuer-china-schock-fuer-mercedes-der-autobauer-muss-seine-prognose-nach-unten-korrigieren-ld.10045981",
-    "zeit": "2026-10-27T15:01:15+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Proteste in Frankreich – Lösen die Demos in Frankreich einen Flächenbrand in Europa aus?",
     "link": "https://www.srf.ch/news/wirtschaft/proteste-in-frankreich-loesen-die-demos-in-frankreich-einen-flaechenbrand-in-europa-aus",
     "zeit": "2026-10-27T06:28:13+00:00",
@@ -681,14 +689,6 @@
     "titel": "Unsicherheit an Wall Street – Abwärtstrend bei Techaktien: Kurzer Schluckauf oder fataler Hype?",
     "link": "https://www.srf.ch/news/wirtschaft/unsicherheit-an-wall-street-abwaertstrend-bei-techaktien-kurzer-schluckauf-oder-fataler-hype",
     "zeit": "2026-10-26T12:49:42+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Umbau beim Detailhändler – Migros-Führung will Konzern komplett umbauen",
-    "link": "https://www.srf.ch/news/wirtschaft/umbau-beim-detailhaendler-migros-fuehrung-will-konzern-komplett-umbauen",
-    "zeit": "2026-10-26T11:29:33+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
