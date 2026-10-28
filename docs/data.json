@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-27T21:10:02+01:00",
+ "aktualisiert": "2026-10-28T06:40:39+01:00",
  "kernaussagen": [
-  "SMI +0.40%, Nasdaq +1.18% führt",
-  "Franken stärker: EUR/CHF 0.9226 (−0.16%)",
-  "Brent über 100 USD: 109.88 (−5.12%)"
+  "SMI +0.40%, Nikkei 225 +1.46% führt",
+  "Franken stärker: EUR/CHF 0.9228 (−0.21%)",
+  "Brent über 100 USD: 111.01 (−2.52%)"
  ],
  "maerkte": [
   {
@@ -16,7 +16,7 @@
    "vortag": 14538.9501953125,
    "veraenderung_pct": 0.4036033325082844,
    "datum": "2026-10-27",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     14552.389648,
     14547.969727,
@@ -35,7 +35,7 @@
    "vortag": 25410.83984375,
    "veraenderung_pct": 0.7080824113109951,
    "datum": "2026-10-27",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     25645.039062,
     25371.75,
@@ -54,7 +54,7 @@
    "vortag": 6116.22998046875,
    "veraenderung_pct": 0.7923175075536637,
    "datum": "2026-10-27",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     6207.52002,
     6087.009766,
@@ -73,7 +73,7 @@
    "vortag": 7676.77001953125,
    "veraenderung_pct": 0.5969968881235133,
    "datum": "2026-10-27",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     7757.169922,
     7663.430176,
@@ -92,7 +92,7 @@
    "vortag": 26169.380859375,
    "veraenderung_pct": 1.1785899298015101,
    "datum": "2026-10-27",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     26702.859375,
     26008.859375,
@@ -107,17 +107,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 62189.6484375,
-   "vortag": 62693.16015625,
-   "veraenderung_pct": -0.8031366061227452,
-   "datum": "2026-10-26",
-   "ist_heute": false,
+   "kurs": 64190.0390625,
+   "vortag": 63268.37109375,
+   "veraenderung_pct": 1.4567594404861328,
+   "datum": "2026-10-28",
+   "ist_heute": true,
    "verlauf": [
-    64075.421875,
-    64621.238281,
     62907.839844,
     62693.160156,
-    62189.648438
+    62189.648438,
+    63268.371094,
+    64190.039062
    ]
   }
  ],
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9226199984550476,
-   "vortag": 0.9240800142288208,
-   "veraenderung_pct": -0.15799668332743266,
-   "datum": "2026-10-27",
+   "kurs": 0.9228299856185913,
+   "vortag": 0.9247900247573853,
+   "veraenderung_pct": -0.2119442345096867,
+   "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
-    0.92684,
     0.92579,
     0.91995,
     0.92408,
-    0.92262
+    0.92479,
+    0.92283
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.828719973564148,
-   "vortag": 0.8238300085067749,
-   "veraenderung_pct": 0.5935648139640204,
-   "datum": "2026-10-27",
+   "kurs": 0.8299700021743774,
+   "vortag": 0.8275499939918518,
+   "veraenderung_pct": 0.29243045134375034,
+   "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
-    0.82563,
     0.824,
     0.81981,
     0.82383,
-    0.82872
+    0.82755,
+    0.82997
    ]
   },
   {
@@ -166,17 +166,17 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4074.800048828125,
-   "vortag": 4038.39990234375,
-   "veraenderung_pct": 0.9013507172296098,
-   "datum": "2026-10-27",
+   "kurs": 4046.800048828125,
+   "vortag": 4074.60009765625,
+   "veraenderung_pct": -0.6822767427928866,
+   "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
-    4150.0,
     4060.399902,
     4007.899902,
     4038.399902,
-    4074.800049
+    4074.600098,
+    4046.800049
    ]
   },
   {
@@ -185,17 +185,17 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.87999725341797,
-   "vortag": 115.80999755859375,
-   "veraenderung_pct": -5.120456290637188,
-   "datum": "2026-10-27",
+   "kurs": 111.01000213623047,
+   "vortag": 113.87999725341797,
+   "veraenderung_pct": -2.5201924713792234,
+   "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
-    108.82,
     113.169998,
     116.720001,
     115.809998,
-    109.879997
+    113.879997,
+    111.010002
    ]
   },
   {
@@ -204,17 +204,17 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80672.2265625,
+   "kurs": 80829.7890625,
    "vortag": 80006.65625,
-   "veraenderung_pct": 0.8318936744716066,
-   "datum": "2026-10-27",
+   "veraenderung_pct": 1.0288304137194837,
+   "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
     81074.1875,
     80790.835938,
     80024.007812,
     80006.65625,
-    80672.226562
+    80829.789062
    ]
   }
  ],
@@ -244,7 +244,7 @@
    "vortag": 3.43,
    "veraenderung_bp": -1.0,
    "datum": "2026-10-27",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     3.47,
     3.44,
@@ -261,7 +261,7 @@
    "vortag": 4.986,
    "veraenderung_bp": 0.7,
    "datum": "2026-10-27",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     5.146,
     4.953,
@@ -282,7 +282,7 @@
    "vortag": 83.7300033569336,
    "veraenderung_pct": -0.5732752152025844,
    "datum": "2026-10-27",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     83.470001,
     84.370003,
@@ -301,7 +301,7 @@
    "vortag": 127.4800033569336,
    "veraenderung_pct": 1.0197641889947207,
    "datum": "2026-10-27",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     126.879997,
     128.880005,
@@ -320,7 +320,7 @@
    "vortag": 396.5,
    "veraenderung_pct": 0.6305170239596425,
    "datum": "2026-10-27",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     392.0,
     392.100006,
@@ -339,7 +339,7 @@
    "vortag": 38.58000183105469,
    "veraenderung_pct": 0.6739199305167531,
    "datum": "2026-10-27",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     39.540001,
     38.389999,
@@ -374,81 +374,137 @@
   ],
   "artikel": [
    {
-    "titel": "AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch.",
-    "link": "https://www.cnbc.com/2026/10/27/ai-debt-hyperscaler-earnings.html",
-    "zeit": "2026-10-27T19:57:35+00:00",
+    "titel": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
+    "link": "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html",
+    "zeit": "2026-10-28T05:16:41+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
-    "link": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
-    "zeit": "2026-10-27T19:51:41+00:00",
+    "titel": "Anthropic vor Börsengang – Anthropic-Börsengang macht Firmengründer zu Milliardären",
+    "link": "https://www.srf.ch/news/wirtschaft/anthropic-vor-boersengang-anthropic-boersengang-macht-firmengruender-zu-milliardaeren",
+    "zeit": "2026-10-28T05:09:13+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "KOMMENTAR - Massenentlassungen bei VW? Europas Industrie kann weit mehr als nur Autos bauen",
+    "link": "https://www.nzz.ch/meinung/trotz-stellenabbau-bei-vw-europas-industrie-umfasst-mehr-als-autos-ld.10041264",
+    "zeit": "2026-10-28T04:35:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Die linke Heilsbringerin: Isabella Weber will mit Preiskontrollen gegen Rechtsextreme ankämpfen",
+    "link": "https://www.nzz.ch/wirtschaft/die-linke-heilsbringerin-isabella-weber-will-mit-preiskontrollen-gegen-rechtsextreme-ankaempfen-ld.10045018",
+    "zeit": "2026-10-28T04:31:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Frankreichs Krise macht die Finanzmärkte nervös. Eilt die EZB zu Hilfe?",
+    "link": "https://www.nzz.ch/wirtschaft/frankreichs-krise-macht-die-finanzmaerkte-nervoes-und-sorgte-fuer-diskussionen-ueber-die-moeglichen-reaktionen-der-ezbfrankreichs-krise-macht-die-finanzmaerkte-nervoes-eilt-die-ezb-dem-strauchelnden-land-bald-zur-hilfe-ld.10044811",
+    "zeit": "2026-10-28T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Wie es in Serbien einer Gruppe Studierenden gelang, Aleksandar Vucic zu stürzen",
+    "link": "https://www.nzz.ch/pro/wahlen-in-serbien-die-gruende-fuer-den-erfolg-der-studentenbewegung-ld.10045795",
+    "zeit": "2026-10-28T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "«Mein Bankkonto lügt nicht»: Die Latinos in Pennsylvania verhalfen Trump zum Sieg. Jetzt droht in den Midterms ein Backlash",
+    "link": "https://www.nzz.ch/international/zwischenwahlen-2026-latino-waehler-und-ihre-abkehr-von-trump-ld.10038467",
+    "zeit": "2026-10-28T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as cost of living looms over midterms",
+    "link": "https://www.cnbc.com/2026/10/28/trump-jokes-5000-cash-would-buy-hamburger-and-dessert-at-mar-a-lago.html",
+    "zeit": "2026-10-28T04:29:20+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Neil Young sues Trump committee for $10M for playing 'Rockin' in the Free World' at rally",
-    "link": "https://www.cnbc.com/2026/10/27/neil-young-trump-lawsuit-song-copyright-free-world.html",
-    "zeit": "2026-10-27T19:49:18+00:00",
+    "titel": "Strom und Erdgas werden auf dem europäischen Markt massiv teurer. Das schmerzt Schweizer Unternehmen",
+    "link": "https://www.nzz.ch/wirtschaft/strom-und-erdgas-werden-auf-dem-europaeischen-markt-massiv-teurer-das-schmerzt-schweizer-unternehmen-ld.10045160",
+    "zeit": "2026-10-28T04:29:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Kylian Mbappé faces China backlash as sponsors cut ties over viral meme",
+    "link": "https://www.cnbc.com/2026/10/28/china-mbappe-football-sponsor-meme-controversy.html",
+    "zeit": "2026-10-28T03:33:53+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Boeing shares slide on a disappointing cash flow update. Why this dip is buyable",
-    "link": "https://www.cnbc.com/investingclub/2026/10/27/boeing-shares-slide-on-a-disappointing-cash-flow-update-why-this-dip-is-buyable-.html",
-    "zeit": "2026-10-27T19:21:20+00:00",
+    "titel": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
+    "link": "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html",
+    "zeit": "2026-10-28T03:02:44+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Boeing stock sinks 10% as company says it won't significantly ramp up 737 Max production until late 2027",
-    "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
-    "zeit": "2026-10-27T19:10:24+00:00",
+    "titel": "Labubu-maker Pop Mart's shares extend declines as third-quarter sales plunge",
+    "link": "https://www.cnbc.com/2026/10/28/labubu-pop-mart-third-quarter-earnings.html",
+    "zeit": "2026-10-28T02:57:36+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
-    "link": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
-    "zeit": "2026-10-27T18:57:45+00:00",
+    "titel": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
+    "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
+    "zeit": "2026-10-28T02:15:55+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Margin debt growth slows sharply as stock market warning signs build",
-    "link": "https://www.cnbc.com/2026/10/27/margin-debt-growth-cools-after-2026-surge-may-signal-market-top.html",
-    "zeit": "2026-10-27T18:53:18+00:00",
+    "titel": "SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors",
+    "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+    "zeit": "2026-10-28T01:56:59+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
-    "link": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
-    "zeit": "2026-10-27T18:12:20+00:00",
+    "titel": "Anthropic's IPO is risky business",
+    "link": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
+    "zeit": "2026-10-28T00:43:59+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’",
-    "link": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
-    "zeit": "2026-10-27T18:03:02+00:00",
+    "titel": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
+    "link": "https://www.cnbc.com/2026/10/28/india-us-stocks-retail-access.html",
+    "zeit": "2026-10-28T00:14:24+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "GLP-1 drug coverage is being dropped by employer plans: What to know about 2027 weight-loss options",
-    "link": "https://www.cnbc.com/2026/10/27/glp1-drug-coverage-weight-loss-options.html",
-    "zeit": "2026-10-27T17:57:57+00:00",
+    "titel": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
+    "link": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
+    "zeit": "2026-10-27T23:50:03+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -574,54 +630,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Die Einheitsgenossenschaft wird zum Härtetest für die Migros-Demokratie",
-    "link": "https://www.nzz.ch/wirtschaft/die-einheitsgenossenschaft-wird-zum-haertetest-fuer-die-migros-demokratie-ld.10045051",
-    "zeit": "2026-10-27T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Migros-Chef Mario Irminger tritt ab – und hinterlässt eine Identitätskrise. Bilanz eines kühlen Rechners",
-    "link": "https://www.nzz.ch/wirtschaft/migros-umbau-mario-irmingers-radikalkur-hat-dem-orangen-riesen-eine-identitaetskrise-beschert-ld.10044902",
-    "zeit": "2026-10-27T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Hüft- und Knieprothesen kommen millionenfach zum Einsatz. Aber wegen des Iran-Kriegs werden immer mehr Operationen aufgeschoben",
-    "link": "https://www.nzz.ch/wirtschaft/hueft-und-knieprothesen-kommen-millionenfach-zum-einsatz-aber-wegen-des-iran-kriegs-werden-immer-mehr-operationen-aufgeschoben-ld.10044782",
-    "zeit": "2026-10-27T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Der grösste Kohlehafen der Welt baut bald Raketen",
-    "link": "https://www.nzz.ch/wirtschaft/der-groesste-kohlehafen-der-welt-baut-bald-raketen-ld.10042285",
-    "zeit": "2026-10-27T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Wie kam es zur wirtschaftlichen Talfahrt in Frankreich? Diese Grafik der letzten zweihundert Jahre liefert die Antwort",
-    "link": "https://www.nzz.ch/wirtschaft/wie-kam-es-zur-wirtschaftlichen-talfahrt-in-frankreich-diese-grafik-der-letzten-200-jahre-liefert-die-antwort-ld.10041148",
-    "zeit": "2026-10-27T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Proteste in Frankreich: Le Pen gewinnt in den Umfragen, Mélenchon stagniert, doch er verfolgt eine ganz andere Strategie",
-    "link": "https://www.nzz.ch/international/proteste-in-frankreich-le-pen-gewinnt-in-den-umfragen-melenchon-stagniert-doch-er-verfolgt-eine-ganz-andere-strategie-ld.10044836",
-    "zeit": "2026-10-27T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Kostendruck wegen KI-Ausbau – Microsoft bietet 60'000 Mitarbeitern Abgangsentschädigung an",
     "link": "https://www.srf.ch/news/wirtschaft/kostendruck-wegen-ki-ausbau-microsoft-bietet-60-000-mitarbeitern-abgangsentschaedigung-an",
     "zeit": "2026-10-26T20:23:21+00:00",
@@ -681,14 +689,6 @@
     "titel": "An Chilbi und Weihnachtsmarkt – Das süsse Nischengeschäft mit dem Magenbrot",
     "link": "https://www.srf.ch/news/wirtschaft/an-chilbi-und-weihnachtsmarkt-das-suesse-nischengeschaeft-mit-dem-magenbrot",
     "zeit": "2026-10-25T09:43:35+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Zurück zur Winterzeit – Kosten, Aufwand und Nutzen: Sechs Fakten zur Zeitumstellung",
-    "link": "https://www.srf.ch/news/schweiz/zurueck-zur-winterzeit-kosten-aufwand-und-nutzen-sechs-fakten-zur-zeitumstellung",
-    "zeit": "2026-10-24T12:39:36+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
