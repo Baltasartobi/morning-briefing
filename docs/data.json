@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-28T07:47:25+01:00",
+ "aktualisiert": "2026-10-28T08:56:12+01:00",
  "kernaussagen": [
   "SMI +0.40%, Nasdaq +1.18% führt",
-  "Franken stärker: EUR/CHF 0.9235 (−0.14%)",
-  "Brent über 100 USD: 111.25 (−2.31%)"
+  "Franken stärker: EUR/CHF 0.9230 (−0.19%)",
+  "Brent über 100 USD: 111.64 (−1.97%)"
  ],
  "maerkte": [
   {
@@ -30,7 +30,19 @@
    "symbol": "^GDAXI",
    "einheit": "",
    "dezimalen": 2,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 25590.76953125,
+   "vortag": 25410.83984375,
+   "veraenderung_pct": 0.7080824113109951,
+   "datum": "2026-10-27",
+   "ist_heute": false,
+   "verlauf": [
+    25645.039062,
+    25371.75,
+    25181.650391,
+    25410.839844,
+    25590.769531
+   ]
   },
   {
    "name": "Euro Stoxx 50",
@@ -116,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.923520028591156,
+   "kurs": 0.9230300188064575,
    "vortag": 0.9247900247573853,
-   "veraenderung_pct": -0.13732805634040224,
+   "veraenderung_pct": -0.1903141149678267,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -126,7 +138,7 @@
     0.91995,
     0.92408,
     0.92479,
-    0.92352
+    0.92303
    ]
   },
   {
@@ -135,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8307399749755859,
+   "kurs": 0.8301600217819214,
    "vortag": 0.8275499939918518,
-   "veraenderung_pct": 0.3854729027725101,
+   "veraenderung_pct": 0.31539215866338566,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -145,7 +157,7 @@
     0.81981,
     0.82383,
     0.82755,
-    0.83074
+    0.83016
    ]
   },
   {
@@ -154,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4042.0,
+   "kurs": 4051.300048828125,
    "vortag": 4074.60009765625,
-   "veraenderung_pct": -0.8000809128483999,
+   "veraenderung_pct": -0.5718364568225387,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -164,7 +176,7 @@
     4007.899902,
     4038.399902,
     4074.600098,
-    4042.0
+    4051.300049
    ]
   },
   {
@@ -173,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.25,
+   "kurs": 111.63999938964844,
    "vortag": 113.87999725341797,
-   "veraenderung_pct": -2.309446186203723,
+   "veraenderung_pct": -1.9669809604796917,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -183,7 +195,7 @@
     116.720001,
     115.809998,
     113.879997,
-    111.25
+    111.639999
    ]
   },
   {
@@ -192,17 +204,17 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80774.4765625,
-   "vortag": 80006.65625,
-   "veraenderung_pct": 0.9596955409569397,
+   "kurs": 80908.34375,
+   "vortag": 80805.078125,
+   "veraenderung_pct": 0.12779595960572543,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
-    81074.1875,
     80790.835938,
     80024.007812,
     80006.65625,
-    80774.476562
+    80805.078125,
+    80908.34375
    ]
   }
  ],
@@ -211,17 +223,17 @@
    "name": "Schweiz",
    "quelle": "snb",
    "verfuegbar": true,
-   "wert": 0.526,
-   "vortag": 0.491,
-   "veraenderung_bp": 3.5,
-   "datum": "2026-10-26",
+   "wert": 0.487,
+   "vortag": 0.526,
+   "veraenderung_bp": -3.9,
+   "datum": "2026-10-27",
    "ist_heute": false,
    "verlauf": [
-    0.539,
     0.553,
     0.525,
     0.491,
-    0.526
+    0.526,
+    0.487
    ]
   },
   {
@@ -362,36 +374,92 @@
   ],
   "artikel": [
    {
-    "titel": "UBS pre-tax profits jump 27% to $3.59 billion in the third quarter",
-    "link": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
-    "zeit": "2026-10-28T06:43:19+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "MELDUNGEN WIRTSCHAFT - Deutsche Bank erzielt Milliardengewinn im dritten Quartal",
-    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
-    "zeit": "2026-10-28T06:20:19+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Drittes Quartal – UBS: 2.7 Milliarden Dollar Gewinn – CS-Integration 2026 beendet",
     "link": "https://www.srf.ch/news/wirtschaft/drittes-quartal-ubs-2-7-milliarden-dollar-gewinn-cs-integration-2026-beendet",
-    "zeit": "2026-10-28T06:04:02+00:00",
+    "zeit": "2026-10-28T07:53:02+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
    {
-    "titel": "SK Hynix shares soar over 10 % as profit beats, chipmaker to return $25 billion to investors",
-    "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
-    "zeit": "2026-10-28T05:54:33+00:00",
+    "titel": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
+    "link": "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html",
+    "zeit": "2026-10-28T07:48:35+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
+    "link": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html",
+    "zeit": "2026-10-28T07:46:39+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "UBS pre-tax profits jump 27% in third quarter to $3.59 billion as wealth inflows surge",
+    "link": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
+    "zeit": "2026-10-28T07:41:35+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
+    "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
+    "zeit": "2026-10-28T07:29:41+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "A WNBA Finals game at lunchtime? Atlanta Dream criticizes league over schedule",
+    "link": "https://www.cnbc.com/2026/10/28/wnba-atlanta-dream-golden-state-valkyries-flavor-flav-hillary-clinton-.html",
+    "zeit": "2026-10-28T07:15:45+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "SK Hynix shares jump 11% after record quarterly profit, outperforming broader market",
+    "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+    "zeit": "2026-10-28T06:56:49+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "MELDUNGEN WIRTSCHAFT - Deutsche Bank erzielt Milliardengewinn im dritten Quartal +++ Mercedes macht nach schwachem Vorjahresquartal mehr Gewinn",
+    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
+    "zeit": "2026-10-28T06:48:33+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "BNP Paribas profitiert vom Investmentbanking",
+    "link": "https://www.finews.ch/news/banken/74190-bnp-paribas-drittes-quartal-investmentbanking-mehr-verdient-als-erwartet-milliardenschwerer-aktienrueckkauf",
+    "zeit": "2026-10-28T06:34:32+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Garbe Private Capital expandiert in die Schweiz",
+    "link": "https://www.finews.ch/news/finanzplatz/74189-garbe-private-capital-zuerich-peter-paschke",
+    "zeit": "2026-10-28T06:21:49+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Deutsche Bank setzt Rekordserie fort – DWS enttäuscht beim Gewinn",
+    "link": "https://www.finews.ch/news/banken/74188-deutsche-bank-drittes-quartal-milliardengewinn-investmentbanking-vermoegensverwaltung-fondstochter-dws-rekordzufluesse-gewinn-unter-den-erwartungen",
+    "zeit": "2026-10-28T06:02:48+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Die UBS erzielt einen Vorsteuergewinn von 3,6 Milliarden Dollar und wirbt weiter für günstige Eigenkapitalvorschriften",
@@ -405,14 +473,6 @@
     "titel": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
     "link": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
     "zeit": "2026-10-28T05:52:51+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
-    "link": "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html",
-    "zeit": "2026-10-28T05:16:41+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -498,30 +558,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Labubu-maker Pop Mart's shares extend declines as third-quarter sales plunge",
-    "link": "https://www.cnbc.com/2026/10/28/labubu-pop-mart-third-quarter-earnings.html",
-    "zeit": "2026-10-28T02:57:36+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
-    "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
-    "zeit": "2026-10-28T02:15:55+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
-    "link": "https://www.cnbc.com/2026/10/28/india-us-stocks-retail-access.html",
-    "zeit": "2026-10-28T00:14:24+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Migros-Zentralisierung: Diese Fragen stellen sich nach dem orangen Knall",
     "link": "https://www.nzz.ch/wirtschaft/migros-zentralisierung-diese-fragen-stellen-sich-nach-dem-orangen-knall-ld.10045804",
     "zeit": "2026-10-27T16:05:33+00:00",
@@ -589,30 +625,6 @@
     "titel": "Deutsche Börse startet 24/7-Handel für DAX-40-Titel",
     "link": "https://www.finews.ch/news/finanzplatz/74171-deutsche-boerse-dax-40-handel-rund-um-die-uhr",
     "zeit": "2026-10-27T09:49:56+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Vor der GZO-Gläubigerversammlung: Die Sicht der Spitalleitung",
-    "link": "https://www.finews.ch/news/finanzplatz/74166-gzo-spital-wetzikon-spitalleitung-hansjoerg-herren-andreas-mika-daniel-mueller-nachlassstundung-glaeubigerversammlung-nachlassvertrag-konkurs-infracore-thurmed",
-    "zeit": "2026-10-27T09:01:42+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Schweiz steht vor Negativrekord bei Firmenpleiten",
-    "link": "https://www.finews.ch/news/finanzplatz/74164-insolvenzen-allianz-trade-studie-hoechststand-schweiz",
-    "zeit": "2026-10-27T07:47:58+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "HSBC steigert Gewinn um 32 Prozent – Aktie verliert deutlich",
-    "link": "https://www.finews.ch/news/banken/74163-hsbc-drittes-quartal-deutlich-mehr-verdient-aktienrueckkauf-aktie-verliert-5-5-prozent",
-    "zeit": "2026-10-27T07:10:38+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
