@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-28T20:45:04+01:00",
+ "aktualisiert": "2026-10-28T21:40:08+01:00",
  "kernaussagen": [
   "SMI −0.11%, Nikkei 225 +1.73% führt",
-  "Franken stärker: EUR/CHF 0.9240 (−0.08%)",
-  "Brent über 100 USD: 111.61 (−1.99%)"
+  "Franken stärker: EUR/CHF 0.9235 (−0.14%)",
+  "Brent über 100 USD: 110.37 (−3.08%)"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7738.4501953125,
+   "kurs": 7743.97998046875,
    "vortag": 7722.60009765625,
-   "veraenderung_pct": 0.20524301991320382,
+   "veraenderung_pct": 0.27684824466034375,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7623.680176,
     7676.77002,
     7722.600098,
-    7738.450195
+    7743.97998
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26503.943359375,
+   "kurs": 26549.8515625,
    "vortag": 26477.810546875,
-   "veraenderung_pct": 0.0986970295513423,
+   "veraenderung_pct": 0.2720807126309177,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     25955.339844,
     26169.380859,
     26477.810547,
-    26503.943359
+    26549.851562
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9240400195121765,
+   "kurs": 0.9234600067138672,
    "vortag": 0.9247900247573853,
-   "veraenderung_pct": -0.08110005786508001,
+   "veraenderung_pct": -0.14381838124465363,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.91995,
     0.92408,
     0.92479,
-    0.92404
+    0.92346
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8285099864006042,
+   "kurs": 0.828029990196228,
    "vortag": 0.8275499939918518,
-   "veraenderung_pct": 0.11600415874837289,
+   "veraenderung_pct": 0.058002079374186444,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.81981,
     0.82383,
     0.82755,
-    0.82851
+    0.82803
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4070.800048828125,
+   "kurs": 4071.300048828125,
    "vortag": 4074.60009765625,
-   "veraenderung_pct": -0.09326188428432358,
+   "veraenderung_pct": -0.0809907413987232,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4007.899902,
     4038.399902,
     4074.600098,
-    4070.800049
+    4071.300049
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.61000061035156,
+   "kurs": 110.37000274658203,
    "vortag": 113.87999725341797,
-   "veraenderung_pct": -1.9933234086886853,
+   "veraenderung_pct": -3.0821870315162703,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     116.720001,
     115.809998,
     113.879997,
-    111.610001
+    110.370003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81253.0390625,
+   "kurs": 81059.59375,
    "vortag": 80805.078125,
-   "veraenderung_pct": 0.5543722596332845,
+   "veraenderung_pct": 0.31497478983470995,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     80024.007812,
     80006.65625,
     80805.078125,
-    81253.039062
+    81059.59375
    ]
   }
  ],
@@ -374,44 +374,100 @@
   ],
   "artikel": [
    {
-    "titel": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
-    "link": "https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html",
-    "zeit": "2026-10-28T19:43:28+00:00",
+    "titel": "Alphabet's free cash flow sinks further, Q3 capex expectations miss in worrying sign for AI trade",
+    "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+    "zeit": "2026-10-28T20:39:19+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Oracle stock pops 12% as long-term revenue forecast and clarity on financing ease debt concerns",
-    "link": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html",
-    "zeit": "2026-10-28T19:35:07+00:00",
+    "titel": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
+    "link": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
+    "zeit": "2026-10-28T20:38:49+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Microsoft will post earnings after the bell as investors focus on job cuts and cash flow",
+    "titel": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
     "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-    "zeit": "2026-10-28T19:33:23+00:00",
+    "zeit": "2026-10-28T20:31:40+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
-    "link": "https://www.cnbc.com/2026/10/28/buy-bonds-yields.html",
-    "zeit": "2026-10-28T19:30:34+00:00",
+    "titel": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
+    "link": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
+    "zeit": "2026-10-28T20:26:06+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Chipotle Mexican Grill is about to report earnings. Here's what to expect",
-    "link": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
-    "zeit": "2026-10-28T19:30:01+00:00",
+    "titel": "Stellantis stock rises 13% as automaker's turnaround plan, cost cuts gain traction",
+    "link": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
+    "zeit": "2026-10-28T20:23:48+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny",
+    "link": "https://www.cnbc.com/2026/10/28/doj-questions-nvidias-12point9-billion-hugging-face-deal.html",
+    "zeit": "2026-10-28T20:23:00+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Three media outlets seek full White House access in amended lawsuit",
+    "link": "https://www.cnbc.com/2026/10/28/trump-white-house-media-ban-cnn-msnow-politico.html",
+    "zeit": "2026-10-28T20:21:03+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "10-year Treasury yield creeps higher even as Fed keeps rates the same",
+    "link": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html",
+    "zeit": "2026-10-28T20:17:19+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Options traders break down a massive Alphabet trade into earnings",
+    "link": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
+    "zeit": "2026-10-28T20:13:59+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Zinsen in den USA – Fed lässt Leitzins vor US-Zwischenwahlen unverändert",
+    "link": "https://www.srf.ch/news/wirtschaft/zinsen-in-den-usa-fed-laesst-leitzins-vor-us-zwischenwahlen-unveraendert",
+    "zeit": "2026-10-28T20:10:35+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
+    "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
+    "zeit": "2026-10-28T20:06:21+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Migros im Umbruch – Ursula Nold: «Bei einem Nein wiederholen wir die Abstimmung»",
+    "link": "https://www.srf.ch/news/wirtschaft/migros-im-umbruch-ursula-nold-bei-einem-nein-wiederholen-wir-die-abstimmung",
+    "zeit": "2026-10-28T20:02:09+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Drittes Quartal – UBS: 2.7 Milliarden Dollar Gewinn – CS-Integration 2026 beendet",
@@ -420,54 +476,6 @@
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Options traders break down a massive Alphabet trade into earnings",
-    "link": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
-    "zeit": "2026-10-28T19:01:03+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
-    "link": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
-    "zeit": "2026-10-28T18:44:40+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Zinsen in den USA – Fed lässt Leitzins vor US-Zwischenwahlen unverändert",
-    "link": "https://www.srf.ch/news/wirtschaft/zinsen-in-den-usa-fed-laesst-leitzins-vor-us-zwischenwahlen-unveraendert",
-    "zeit": "2026-10-28T18:39:34+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "We're adding a new, high-profile AI play to our Bullpen stocks to watch list",
-    "link": "https://www.cnbc.com/investingclub/2026/10/28/were-adding-a-new-high-profile-ai-stock-to-our-bullpen.html",
-    "zeit": "2026-10-28T18:33:53+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Anthropic IPO filing warns some risks may be uninsurable. AI coverage will be issue for every company",
-    "link": "https://www.cnbc.com/2026/10/28/anthropic-ipo-ai-risks-insurance.html",
-    "zeit": "2026-10-28T18:32:45+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Peltola campaign aides, DSCC officials helped recruit second Dan Sullivan in Alaska race: NYT",
-    "link": "https://www.cnbc.com/2026/10/28/mary-peltola-dan-sullivan-alaska-senate-campaign-recruitment.html",
-    "zeit": "2026-10-28T18:22:14+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Der Fed-Chef Kevin Warsh hält sich aus dem Wahlkampf heraus und lässt den Leitzins, wo er ist",
@@ -681,14 +689,6 @@
     "titel": "Umbau beim Detailhändler – Migros-Chef: «Schritt ist richtig und macht uns schlagkräftiger»",
     "link": "https://www.srf.ch/news/wirtschaft/umbau-beim-detailhaendler-migros-chef-schritt-ist-richtig-und-macht-uns-schlagkraeftiger",
     "zeit": "2026-10-26T15:43:18+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Geldgeschichte – Wie die Schweiz zum Sparen erzogen wurde",
-    "link": "https://www.srf.ch/news/dialog/geldgeschichte-wie-die-schweiz-zum-sparen-erzogen-wurde",
-    "zeit": "2026-10-26T14:18:47+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
