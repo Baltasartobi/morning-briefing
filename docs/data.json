@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-28T06:40:39+01:00",
+ "aktualisiert": "2026-10-28T07:47:25+01:00",
  "kernaussagen": [
-  "SMI +0.40%, Nikkei 225 +1.46% führt",
-  "Franken stärker: EUR/CHF 0.9228 (−0.21%)",
-  "Brent über 100 USD: 111.01 (−2.52%)"
+  "SMI +0.40%, Nasdaq +1.18% führt",
+  "Franken stärker: EUR/CHF 0.9235 (−0.14%)",
+  "Brent über 100 USD: 111.25 (−2.31%)"
  ],
  "maerkte": [
   {
@@ -30,19 +30,7 @@
    "symbol": "^GDAXI",
    "einheit": "",
    "dezimalen": 2,
-   "verfuegbar": true,
-   "kurs": 25590.76953125,
-   "vortag": 25410.83984375,
-   "veraenderung_pct": 0.7080824113109951,
-   "datum": "2026-10-27",
-   "ist_heute": false,
-   "verlauf": [
-    25645.039062,
-    25371.75,
-    25181.650391,
-    25410.839844,
-    25590.769531
-   ]
+   "verfuegbar": false
   },
   {
    "name": "Euro Stoxx 50",
@@ -107,9 +95,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 64190.0390625,
+   "kurs": 63954.19140625,
    "vortag": 63268.37109375,
-   "veraenderung_pct": 1.4567594404861328,
+   "veraenderung_pct": 1.0839860433323967,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +105,7 @@
     62693.160156,
     62189.648438,
     63268.371094,
-    64190.039062
+    63954.191406
    ]
   }
  ],
@@ -128,9 +116,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9228299856185913,
+   "kurs": 0.923520028591156,
    "vortag": 0.9247900247573853,
-   "veraenderung_pct": -0.2119442345096867,
+   "veraenderung_pct": -0.13732805634040224,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +126,7 @@
     0.91995,
     0.92408,
     0.92479,
-    0.92283
+    0.92352
    ]
   },
   {
@@ -147,9 +135,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8299700021743774,
+   "kurs": 0.8307399749755859,
    "vortag": 0.8275499939918518,
-   "veraenderung_pct": 0.29243045134375034,
+   "veraenderung_pct": 0.3854729027725101,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +145,7 @@
     0.81981,
     0.82383,
     0.82755,
-    0.82997
+    0.83074
    ]
   },
   {
@@ -166,9 +154,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4046.800048828125,
+   "kurs": 4042.0,
    "vortag": 4074.60009765625,
-   "veraenderung_pct": -0.6822767427928866,
+   "veraenderung_pct": -0.8000809128483999,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +164,7 @@
     4007.899902,
     4038.399902,
     4074.600098,
-    4046.800049
+    4042.0
    ]
   },
   {
@@ -185,9 +173,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.01000213623047,
+   "kurs": 111.25,
    "vortag": 113.87999725341797,
-   "veraenderung_pct": -2.5201924713792234,
+   "veraenderung_pct": -2.309446186203723,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +183,7 @@
     116.720001,
     115.809998,
     113.879997,
-    111.010002
+    111.25
    ]
   },
   {
@@ -204,9 +192,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80829.7890625,
+   "kurs": 80774.4765625,
    "vortag": 80006.65625,
-   "veraenderung_pct": 1.0288304137194837,
+   "veraenderung_pct": 0.9596955409569397,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +202,7 @@
     80790.835938,
     80024.007812,
     80006.65625,
-    80829.789062
+    80774.476562
    ]
   }
  ],
@@ -374,6 +362,54 @@
   ],
   "artikel": [
    {
+    "titel": "UBS pre-tax profits jump 27% to $3.59 billion in the third quarter",
+    "link": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
+    "zeit": "2026-10-28T06:43:19+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "MELDUNGEN WIRTSCHAFT - Deutsche Bank erzielt Milliardengewinn im dritten Quartal",
+    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
+    "zeit": "2026-10-28T06:20:19+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Drittes Quartal – UBS: 2.7 Milliarden Dollar Gewinn – CS-Integration 2026 beendet",
+    "link": "https://www.srf.ch/news/wirtschaft/drittes-quartal-ubs-2-7-milliarden-dollar-gewinn-cs-integration-2026-beendet",
+    "zeit": "2026-10-28T06:04:02+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "SK Hynix shares soar over 10 % as profit beats, chipmaker to return $25 billion to investors",
+    "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+    "zeit": "2026-10-28T05:54:33+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Die UBS erzielt einen Vorsteuergewinn von 3,6 Milliarden Dollar und wirbt weiter für günstige Eigenkapitalvorschriften",
+    "link": "https://www.nzz.ch/wirtschaft/die-ubs-erzielt-einen-vorsteuergewinn-von-36-milliarden-dollar-und-wirbt-weiter-fuer-guenstige-eigenkapitalvorschriften-ld.10044810",
+    "zeit": "2026-10-28T05:53:57+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
+    "link": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
+    "zeit": "2026-10-28T05:52:51+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
     "link": "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html",
     "zeit": "2026-10-28T05:16:41+00:00",
@@ -382,8 +418,8 @@
     "sprache": "en"
    },
    {
-    "titel": "Anthropic vor Börsengang – Anthropic-Börsengang macht Firmengründer zu Milliardären",
-    "link": "https://www.srf.ch/news/wirtschaft/anthropic-vor-boersengang-anthropic-boersengang-macht-firmengruender-zu-milliardaeren",
+    "titel": "Geschwister zementieren Macht – Anthropic-Börsengang macht Firmengründer zu Milliardären",
+    "link": "https://www.srf.ch/news/wirtschaft/geschwister-zementieren-macht-anthropic-boersengang-macht-firmengruender-zu-milliardaeren",
     "zeit": "2026-10-28T05:09:13+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
@@ -478,33 +514,9 @@
     "sprache": "en"
    },
    {
-    "titel": "SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors",
-    "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
-    "zeit": "2026-10-28T01:56:59+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Anthropic's IPO is risky business",
-    "link": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
-    "zeit": "2026-10-28T00:43:59+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
     "link": "https://www.cnbc.com/2026/10/28/india-us-stocks-retail-access.html",
     "zeit": "2026-10-28T00:14:24+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
-    "link": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
-    "zeit": "2026-10-27T23:50:03+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -526,17 +538,17 @@
     "sprache": "de"
    },
    {
-    "titel": "Flop mit neuem Medikament kommt Novartis teuer zu stehen",
-    "link": "https://www.nzz.ch/wirtschaft/flop-mit-neuem-medikament-kommt-novartis-teuer-zu-stehen-ld.10045872",
-    "zeit": "2026-10-27T14:53:05+00:00",
-    "quelle": "NZZ Wirtschaft",
+    "titel": "Banken zweifeln an ihrer IT – und bleiben ihr trotzdem treu",
+    "link": "https://www.finews.ch/news/banken/74185-banken-kernbankensysteme-ifz-studie-2026-innovation-avaloq-finnova",
+    "zeit": "2026-10-27T14:04:58+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
    {
-    "titel": "Banken zweifeln an ihrer IT – und bleiben ihr trotzdem treu",
-    "link": "https://www.finews.ch/news/banken/74185-banken-kernbankensysteme-ifz-studie-2026-innovation-avaloq-finnova",
-    "zeit": "2026-10-27T14:04:58+00:00",
+    "titel": "UBS: Mehr Gewinn, Integrationsziele werden übertroffen",
+    "link": "https://www.finews.ch/news/banken/74178-ubs-q3-results-intergration-cs-switzerland-gwm-investmentbanking-switerland",
+    "zeit": "2026-10-27T13:09:55+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
@@ -606,26 +618,10 @@
     "sprache": "de"
    },
    {
-    "titel": "St. Galler Vermögensverwalter integriert Treuhandbereich in Muttergesellschaft",
-    "link": "https://www.finews.ch/news/finanzplatz/74162-cronberg-reorganisation-bonfida-treuhand-wirtschaftspruefung-familyoffice-stgallen",
-    "zeit": "2026-10-27T06:40:22+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Proteste in Frankreich – Lösen die Demos in Frankreich einen Flächenbrand in Europa aus?",
     "link": "https://www.srf.ch/news/wirtschaft/proteste-in-frankreich-loesen-die-demos-in-frankreich-einen-flaechenbrand-in-europa-aus",
     "zeit": "2026-10-27T06:28:13+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "KOMMENTAR - Europa darf die Arktis nicht den Autokraten überlassen",
-    "link": "https://www.nzz.ch/meinung/europa-darf-die-arktis-nicht-den-autokraten-ueberlassen-ld.10040258",
-    "zeit": "2026-10-27T04:35:00+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -681,14 +677,6 @@
     "titel": "Schlagzeilen zu Detailhändler – Die Migros lädt nach neuen Umbau-Gerüchten zur Medienkonferenz",
     "link": "https://www.srf.ch/news/wirtschaft/schlagzeilen-zu-detailhaendler-die-migros-laedt-nach-neuen-umbau-geruechten-zur-medienkonferenz",
     "zeit": "2026-10-26T07:59:53+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "An Chilbi und Weihnachtsmarkt – Das süsse Nischengeschäft mit dem Magenbrot",
-    "link": "https://www.srf.ch/news/wirtschaft/an-chilbi-und-weihnachtsmarkt-das-suesse-nischengeschaeft-mit-dem-magenbrot",
-    "zeit": "2026-10-25T09:43:35+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
