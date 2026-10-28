@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-28T18:43:29+01:00",
+ "aktualisiert": "2026-10-28T19:44:39+01:00",
  "kernaussagen": [
   "SMI −0.11%, Nikkei 225 +1.73% führt",
-  "Franken stärker: EUR/CHF 0.9240 (−0.08%)",
-  "Brent über 100 USD: 111.64 (−1.97%)"
+  "Franken stabil: EUR/CHF 0.9243 (−0.05%)",
+  "Brent über 100 USD: 111.59 (−2.01%)"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7735.02001953125,
+   "kurs": 7749.0498046875,
    "vortag": 7722.60009765625,
-   "veraenderung_pct": 0.16082565091994905,
+   "veraenderung_pct": 0.3424974321702523,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7623.680176,
     7676.77002,
     7722.600098,
-    7735.02002
+    7749.049805
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26473.53515625,
+   "kurs": 26552.203125,
    "vortag": 26477.810546875,
-   "veraenderung_pct": -0.016147070081307113,
+   "veraenderung_pct": 0.28096196999860545,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     25955.339844,
     26169.380859,
     26477.810547,
-    26473.535156
+    26552.203125
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.924019992351532,
+   "kurs": 0.924340009689331,
    "vortag": 0.9247900247573853,
-   "veraenderung_pct": -0.08326564790264168,
+   "veraenderung_pct": -0.04866132376073473,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.91995,
     0.92408,
     0.92479,
-    0.92402
+    0.92434
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8294500112533569,
+   "kurs": 0.8281000256538391,
    "vortag": 0.8275499939918518,
-   "veraenderung_pct": 0.22959546556697852,
+   "veraenderung_pct": 0.06646506748602121,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.81981,
     0.82383,
     0.82755,
-    0.82945
+    0.8281
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4054.300048828125,
+   "kurs": 4058.89990234375,
    "vortag": 4074.60009765625,
-   "veraenderung_pct": -0.4982095995089586,
+   "veraenderung_pct": -0.3853186800228836,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4007.899902,
     4038.399902,
     4074.600098,
-    4054.300049
+    4058.899902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.63999938964844,
+   "kurs": 111.58999633789062,
    "vortag": 113.87999725341797,
-   "veraenderung_pct": -1.9669809604796917,
+   "veraenderung_pct": -2.010889507163749,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     116.720001,
     115.809998,
     113.879997,
-    111.639999
+    111.589996
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80600.0078125,
+   "kurs": 81113.328125,
    "vortag": 80805.078125,
-   "veraenderung_pct": -0.25378394187400843,
+   "veraenderung_pct": 0.38147354987165816,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     80024.007812,
     80006.65625,
     80805.078125,
-    80600.007812
+    81113.328125
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.02,
+   "wert": 5.03,
    "vortag": 4.993,
-   "veraenderung_bp": 2.7,
+   "veraenderung_bp": 3.7,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     4.988,
     4.986,
     4.993,
-    5.02
+    5.03
    ]
   }
  ],
@@ -374,9 +374,49 @@
   ],
   "artikel": [
    {
+    "titel": "Zinsen in den USA – Fed lässt Leitzins vor US-Zwischenwahlen unverändert",
+    "link": "https://www.srf.ch/news/wirtschaft/zinsen-in-den-usa-fed-laesst-leitzins-vor-us-zwischenwahlen-unveraendert",
+    "zeit": "2026-10-28T18:39:34+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "We're adding a new, high-profile AI play to our Bullpen stocks to watch list",
+    "link": "https://www.cnbc.com/investingclub/2026/10/28/were-adding-a-new-high-profile-ai-stock-to-our-bullpen.html",
+    "zeit": "2026-10-28T18:33:53+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Anthropic IPO filing warns some risks may be uninsurable. AI coverage will be issue for every company",
+    "link": "https://www.cnbc.com/2026/10/28/anthropic-ipo-ai-risks-insurance.html",
+    "zeit": "2026-10-28T18:32:45+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Fed-Chef Kevin Warsh hält sich aus dem Wahlkampf heraus und lässt den Leitzins, wo er ist",
+    "link": "https://www.nzz.ch/wirtschaft/fed-chef-kevin-warsh-haelt-sich-aus-dem-wahlkampf-heraus-und-laesst-den-leitzins-wo-er-ist-ld.10046239",
+    "zeit": "2026-10-28T18:11:03+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
+    "link": "https://www.cnbc.com/2026/10/28/buy-bonds-yields.html",
+    "zeit": "2026-10-28T18:01:20+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Watch Live: Options traders break down a massive Alphabet trade into earnings",
     "link": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
-    "zeit": "2026-10-28T17:41:47+00:00",
+    "zeit": "2026-10-28T17:56:10+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -393,14 +433,6 @@
     "titel": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
     "link": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
     "zeit": "2026-10-28T17:29:21+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Anthropic IPO filing warns some risks may be uninsurable. AI coverage will be issue for every company",
-    "link": "https://www.cnbc.com/2026/10/28/anthropic-ipo-ai-risks-insurance.html",
-    "zeit": "2026-10-28T17:26:06+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -430,7 +462,7 @@
     "sprache": "en"
    },
    {
-    "titel": "Bei Rieter tritt der Sanierer nach unvollendeter Arbeit ab",
+    "titel": "Bei Rieter tritt der Sanierer trotz unvollendeter Arbeit ab",
     "link": "https://www.nzz.ch/wirtschaft/bei-rieter-tritt-der-sanierer-nach-unvollendeter-arbeit-ab-ld.10046989",
     "zeit": "2026-10-28T16:29:15+00:00",
     "quelle": "NZZ Wirtschaft",
@@ -446,25 +478,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
-    "link": "https://www.cnbc.com/2026/10/28/buy-bonds-yields.html",
-    "zeit": "2026-10-28T16:19:29+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Israeli bonds, shekel fall as election leaves Netanyahu and others short of majorities",
     "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
     "zeit": "2026-10-28T16:14:29+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Microsoft earnings will land after the close",
-    "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-    "zeit": "2026-10-28T16:00:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -638,14 +654,6 @@
     "sprache": "de"
    },
    {
-    "titel": "«Mein Bankkonto lügt nicht»: Die Latinos in Pennsylvania verhalfen Trump zum Sieg. Jetzt droht in den Midterms ein Backlash",
-    "link": "https://www.nzz.ch/international/zwischenwahlen-2026-latino-waehler-und-ihre-abkehr-von-trump-ld.10038467",
-    "zeit": "2026-10-28T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Proteste in Frankreich – Lösen die Demos in Frankreich einen Flächenbrand in Europa aus?",
     "link": "https://www.srf.ch/news/wirtschaft/proteste-in-frankreich-loesen-die-demos-in-frankreich-einen-flaechenbrand-in-europa-aus",
     "zeit": "2026-10-27T06:28:13+00:00",
@@ -681,14 +689,6 @@
     "titel": "Geldgeschichte – Wie die Schweiz zum Sparen erzogen wurde",
     "link": "https://www.srf.ch/news/dialog/geldgeschichte-wie-die-schweiz-zum-sparen-erzogen-wurde",
     "zeit": "2026-10-26T14:18:47+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Unsicherheit an Wall Street – Abwärtstrend bei Techaktien: Kurzer Schluckauf oder fataler Hype?",
-    "link": "https://www.srf.ch/news/wirtschaft/unsicherheit-an-wall-street-abwaertstrend-bei-techaktien-kurzer-schluckauf-oder-fataler-hype",
-    "zeit": "2026-10-26T12:49:42+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
