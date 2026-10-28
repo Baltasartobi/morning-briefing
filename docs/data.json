@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-28T11:43:43+01:00",
+ "aktualisiert": "2026-10-28T12:40:37+01:00",
  "kernaussagen": [
-  "SMI −0.44%, Nasdaq +1.18% führt",
-  "Franken stärker: EUR/CHF 0.9236 (−0.12%)",
-  "Brent über 100 USD: 110.94 (−2.58%)"
+  "SMI −0.69%, Nasdaq +1.18% führt",
+  "Franken stärker: EUR/CHF 0.9233 (−0.16%)",
+  "Brent über 100 USD: 111.35 (−2.22%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14533.4404296875,
+   "kurs": 14497.48046875,
    "vortag": 14597.6298828125,
-   "veraenderung_pct": -0.4397251721019346,
+   "veraenderung_pct": -0.6860662646366866,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14462.360352,
     14538.950195,
     14597.629883,
-    14533.44043
+    14497.480469
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25576.970703125,
+   "kurs": 25568.349609375,
    "vortag": 25590.76953125,
-   "veraenderung_pct": -0.05392111443991432,
+   "veraenderung_pct": -0.08760940872692968,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25181.650391,
     25410.839844,
     25590.769531,
-    25576.970703
+    25568.349609
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6147.009765625,
+   "kurs": 6148.9599609375,
    "vortag": 6164.68994140625,
-   "veraenderung_pct": -0.2867974861557543,
+   "veraenderung_pct": -0.2551625567264404,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6068.220215,
     6116.22998,
     6164.689941,
-    6147.009766
+    6148.959961
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9236400127410889,
+   "kurs": 0.9233099818229675,
    "vortag": 0.9247900247573853,
-   "veraenderung_pct": -0.12435385174035529,
+   "veraenderung_pct": -0.16004097090104308,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.91995,
     0.92408,
     0.92479,
-    0.92364
+    0.92331
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8302299976348877,
+   "kurs": 0.8298299908638,
    "vortag": 0.8275499939918518,
-   "veraenderung_pct": 0.32384794423214736,
+   "veraenderung_pct": 0.2755116776631539,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.81981,
     0.82383,
     0.82755,
-    0.83023
+    0.82983
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4060.300048828125,
+   "kurs": 4060.5,
    "vortag": 4074.60009765625,
-   "veraenderung_pct": -0.3509558848818206,
+   "veraenderung_pct": -0.34604862608137443,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4007.899902,
     4038.399902,
     4074.600098,
-    4060.300049
+    4060.5
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.94000244140625,
+   "kurs": 111.3499984741211,
    "vortag": 113.87999725341797,
-   "veraenderung_pct": -2.5816604170347257,
+   "veraenderung_pct": -2.2216357923392382,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     116.720001,
     115.809998,
     113.879997,
-    110.940002
+    111.349998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81424.84375,
+   "kurs": 81297.0234375,
    "vortag": 80805.078125,
-   "veraenderung_pct": 0.7669884608505262,
+   "veraenderung_pct": 0.6088049463166101,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     80024.007812,
     80006.65625,
     80805.078125,
-    81424.84375
+    81297.023438
    ]
   }
  ],
@@ -240,17 +240,17 @@
    "name": "Deutschland",
    "quelle": "bundesbank",
    "verfuegbar": true,
-   "wert": 3.42,
-   "vortag": 3.43,
-   "veraenderung_bp": -1.0,
-   "datum": "2026-10-27",
-   "ist_heute": false,
+   "wert": 3.43,
+   "vortag": 3.42,
+   "veraenderung_bp": 1.0,
+   "datum": "2026-10-28",
+   "ist_heute": true,
    "verlauf": [
-    3.47,
     3.44,
     3.39,
     3.43,
-    3.42
+    3.42,
+    3.43
    ]
   },
   {
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 82.87000274658203,
+   "kurs": 82.47000122070312,
    "vortag": 83.25,
-   "veraenderung_pct": -0.4564531572588182,
+   "veraenderung_pct": -0.9369354706268762,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     83.699997,
     83.730003,
     83.25,
-    82.870003
+    82.470001
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 129.32000732421875,
+   "kurs": 128.5399932861328,
    "vortag": 128.77999877929688,
-   "veraenderung_pct": 0.4193264094118687,
+   "veraenderung_pct": -0.18636860959704293,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     128.0,
     127.480003,
     128.779999,
-    129.320007
+    128.539993
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 394.70001220703125,
+   "kurs": 393.1000061035156,
    "vortag": 399.0,
-   "veraenderung_pct": -1.077691176182649,
+   "veraenderung_pct": -1.4786952121514707,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     390.899994,
     396.5,
     399.0,
-    394.700012
+    393.100006
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.11000061035156,
+   "kurs": 38.43000030517578,
    "vortag": 38.84000015258789,
-   "veraenderung_pct": -1.8795044782915382,
+   "veraenderung_pct": -1.055612373330006,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     38.32,
     38.580002,
     38.84,
-    38.110001
+    38.43
    ]
   }
  ],
@@ -374,17 +374,41 @@
   ],
   "artikel": [
    {
-    "titel": "Ten people confirmed dead in high-speed Spain train crash, local media report",
-    "link": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
-    "zeit": "2026-10-28T10:29:56+00:00",
+    "titel": "Stellantis reports $4.5 billion cash drain as massive turnaround plan continues",
+    "link": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
+    "zeit": "2026-10-28T11:39:48+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Stellantis reports $4.5 billion cash drain as massive turnaround plan continues",
-    "link": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
-    "zeit": "2026-10-28T10:18:19+00:00",
+    "titel": "Mortgage rates fell for the second straight week, but more borrowers still sought savings in riskier loans",
+    "link": "https://www.cnbc.com/2026/10/28/mortgage-rates-fell-for-the-second-straight-week.html",
+    "zeit": "2026-10-28T11:33:43+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "At least 30 people reported dead in high-speed Spain train crash",
+    "link": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
+    "zeit": "2026-10-28T11:28:29+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "A Democratic win in midterms could put prediction markets and the CFTC in the hot seat",
+    "link": "https://www.cnbc.com/2026/10/28/democrats-prediction-markets-cftc-midterms.html",
+    "zeit": "2026-10-28T11:24:49+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Google alters its cloud playbook, enlisting partners to sell more AI chips",
+    "link": "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html",
+    "zeit": "2026-10-28T11:00:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -454,20 +478,20 @@
     "sprache": "de"
    },
    {
+    "titel": "GZO einigt sich mit Steiner – Greber fordert vom Kanton Zürich Schadenersatz",
+    "link": "https://www.finews.ch/news/finanzplatz/74200-gzo-spital-wetzikon-glaubigerversammlung-vergleich-steiner-h56immo-nachlassvertrag-konkurs-schadenersatz-kantonzuerich-gregor-greber-sachwalter",
+    "zeit": "2026-10-28T08:15:21+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Die UBS erzielt einen Vorsteuergewinn von 3,6 Milliarden Dollar und wirbt weiter für günstige Eigenkapitalvorschriften",
     "link": "https://www.nzz.ch/wirtschaft/die-ubs-erzielt-einen-vorsteuergewinn-von-36-milliarden-dollar-und-wirbt-weiter-fuer-guenstige-eigenkapitalvorschriften-ld.10044810",
     "zeit": "2026-10-28T08:08:37+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Flavor Flav, Hillary Clinton weigh in as WNBA takes flak for weekday lunchtime finals game",
-    "link": "https://www.cnbc.com/2026/10/28/wnba-atlanta-dream-golden-state-valkyries-flavor-flav-hillary-clinton-.html",
-    "zeit": "2026-10-28T07:58:09+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Sergio Ermotti: «Die Interessen der Stakeholder haben oberste Priorität»",
@@ -486,28 +510,12 @@
     "sprache": "de"
    },
    {
-    "titel": "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
-    "link": "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html",
-    "zeit": "2026-10-28T07:48:35+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Temenos hebt Gewinnprognose an",
     "link": "https://www.finews.ch/news/finanzplatz/74195-temenos-drittes-quartal-gewinn-staerker-steigen-jahresprognose-softwareeinnahmen",
     "zeit": "2026-10-28T07:47:36+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
-    "link": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html",
-    "zeit": "2026-10-28T07:46:39+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "MELDUNGEN WIRTSCHAFT - Deutsche Bank erzielt Milliardengewinn im dritten Quartal +++ Mercedes macht nach schwachem Vorjahresquartal mehr Gewinn",
@@ -625,14 +633,6 @@
     "titel": "Banken zweifeln an ihrer IT – und bleiben ihr trotzdem treu",
     "link": "https://www.finews.ch/news/banken/74185-banken-kernbankensysteme-ifz-studie-2026-innovation-avaloq-finnova",
     "zeit": "2026-10-27T14:04:58+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "UBS: Mehr Gewinn, Integrationsziele werden übertroffen",
-    "link": "https://www.finews.ch/news/banken/74178-ubs-q3-results-intergration-cs-switzerland-gwm-investmentbanking-switerland",
-    "zeit": "2026-10-27T13:09:55+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
