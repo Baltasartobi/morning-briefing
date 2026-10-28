@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-28T10:46:30+01:00",
+ "aktualisiert": "2026-10-28T11:43:43+01:00",
  "kernaussagen": [
-  "SMI −0.41%, Nasdaq +1.18% führt",
-  "Franken stärker: EUR/CHF 0.9240 (−0.09%)",
-  "Brent über 100 USD: 111.08 (−2.46%)"
+  "SMI −0.44%, Nasdaq +1.18% führt",
+  "Franken stärker: EUR/CHF 0.9236 (−0.12%)",
+  "Brent über 100 USD: 110.94 (−2.58%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14537.58984375,
+   "kurs": 14533.4404296875,
    "vortag": 14597.6298828125,
-   "veraenderung_pct": -0.41129991337286453,
+   "veraenderung_pct": -0.4397251721019346,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14462.360352,
     14538.950195,
     14597.629883,
-    14537.589844
+    14533.44043
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25562.01953125,
+   "kurs": 25576.970703125,
    "vortag": 25590.76953125,
-   "veraenderung_pct": -0.11234519526617248,
+   "veraenderung_pct": -0.05392111443991432,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25181.650391,
     25410.839844,
     25590.769531,
-    25562.019531
+    25576.970703
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6150.330078125,
+   "kurs": 6147.009765625,
    "vortag": 6164.68994140625,
-   "veraenderung_pct": -0.23293731587049615,
+   "veraenderung_pct": -0.2867974861557543,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6068.220215,
     6116.22998,
     6164.689941,
-    6150.330078
+    6147.009766
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9239500164985657,
+   "kurs": 0.9236400127410889,
    "vortag": 0.9247900247573853,
-   "veraenderung_pct": -0.09083232261722918,
+   "veraenderung_pct": -0.12435385174035529,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.91995,
     0.92408,
     0.92479,
-    0.92395
+    0.92364
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4065.60009765625,
+   "kurs": 4060.300048828125,
    "vortag": 4074.60009765625,
-   "veraenderung_pct": -0.22088057194071808,
+   "veraenderung_pct": -0.3509558848818206,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4007.899902,
     4038.399902,
     4074.600098,
-    4065.600098
+    4060.300049
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.08000183105469,
+   "kurs": 110.94000244140625,
    "vortag": 113.87999725341797,
-   "veraenderung_pct": -2.45872452572371,
+   "veraenderung_pct": -2.5816604170347257,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     116.720001,
     115.809998,
     113.879997,
-    111.080002
+    110.940002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81414.7265625,
+   "kurs": 81424.84375,
    "vortag": 80805.078125,
-   "veraenderung_pct": 0.7544679760805639,
+   "veraenderung_pct": 0.7669884608505262,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     80024.007812,
     80006.65625,
     80805.078125,
-    81414.726562
+    81424.84375
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 82.81999969482422,
+   "kurs": 82.87000274658203,
    "vortag": 83.25,
-   "veraenderung_pct": -0.5165168830940314,
+   "veraenderung_pct": -0.4564531572588182,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     83.699997,
     83.730003,
     83.25,
-    82.82
+    82.870003
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 130.16000366210938,
+   "kurs": 129.32000732421875,
    "vortag": 128.77999877929688,
-   "veraenderung_pct": 1.0715987699126739,
+   "veraenderung_pct": 0.4193264094118687,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     128.0,
     127.480003,
     128.779999,
-    130.160004
+    129.320007
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 395.79998779296875,
+   "kurs": 394.70001220703125,
    "vortag": 399.0,
-   "veraenderung_pct": -0.8020080719376543,
+   "veraenderung_pct": -1.077691176182649,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     390.899994,
     396.5,
     399.0,
-    395.799988
+    394.700012
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.02000045776367,
+   "kurs": 38.11000061035156,
    "vortag": 38.84000015258789,
-   "veraenderung_pct": -2.111224746660001,
+   "veraenderung_pct": -1.8795044782915382,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     38.32,
     38.580002,
     38.84,
-    38.02
+    38.110001
    ]
   }
  ],
@@ -374,17 +374,41 @@
   ],
   "artikel": [
    {
-    "titel": "UBS pretax profits jump 27% in third quarter to $3.59 billion as wealth inflows surge",
-    "link": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
-    "zeit": "2026-10-28T09:42:03+00:00",
+    "titel": "Ten people confirmed dead in high-speed Spain train crash, local media report",
+    "link": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
+    "zeit": "2026-10-28T10:29:56+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Ten people confirmed dead in high-speed Spain train crash, local media report",
-    "link": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
-    "zeit": "2026-10-28T09:37:50+00:00",
+    "titel": "Stellantis reports $4.5 billion cash drain as massive turnaround plan continues",
+    "link": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
+    "zeit": "2026-10-28T10:18:19+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Musk's PAC lawyer runs in Texas House district that is home to billionaire's business interests",
+    "link": "https://www.cnbc.com/2026/10/28/elon-musk-chris-gober-rourk-texas-10th-congress-election.html",
+    "zeit": "2026-10-28T10:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Liefermarkt im Umbruch – Uber Eats fährt lokale Velokuriere aus dem Markt",
+    "link": "https://www.srf.ch/news/schweiz/liefermarkt-im-umbruch-uber-eats-faehrt-lokale-velokuriere-aus-dem-markt",
+    "zeit": "2026-10-28T09:52:44+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "UBS pretax profits jump 27% in third quarter to $3.59 billion as wealth inflows surge",
+    "link": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
+    "zeit": "2026-10-28T09:42:03+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -404,6 +428,14 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Pascal Gentinetta wird erneut Geschäftsführer der VAV",
+    "link": "https://www.finews.ch/news/banken/74204-vav-pascal-gentinetta-geschaeftsfuehrer",
+    "zeit": "2026-10-28T09:14:44+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Israeli bonds, shekel fall as election leaves Netanyahu and others far short of majorities",
@@ -473,14 +505,6 @@
     "titel": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
     "link": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html",
     "zeit": "2026-10-28T07:46:39+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "SK Hynix shares jump 11% after record quarterly profit, outperforming broader market",
-    "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
-    "zeit": "2026-10-28T06:56:49+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -574,14 +598,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as cost of living looms over midterms",
-    "link": "https://www.cnbc.com/2026/10/28/trump-jokes-5000-cash-would-buy-hamburger-and-dessert-at-mar-a-lago.html",
-    "zeit": "2026-10-28T04:29:20+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Strom und Erdgas werden auf dem europäischen Markt massiv teurer. Das schmerzt Schweizer Unternehmen",
     "link": "https://www.nzz.ch/wirtschaft/strom-und-erdgas-werden-auf-dem-europaeischen-markt-massiv-teurer-das-schmerzt-schweizer-unternehmen-ld.10045160",
     "zeit": "2026-10-28T04:29:00+00:00",
@@ -617,14 +633,6 @@
     "titel": "UBS: Mehr Gewinn, Integrationsziele werden übertroffen",
     "link": "https://www.finews.ch/news/banken/74178-ubs-q3-results-intergration-cs-switzerland-gwm-investmentbanking-switerland",
     "zeit": "2026-10-27T13:09:55+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Grant Thornton Schweiz ernennt zwei neue Partner",
-    "link": "https://www.finews.ch/news/finanzplatz/74175-grant-thornton-neue-partner-richard-bradley-damien-repond",
-    "zeit": "2026-10-27T12:20:28+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
@@ -681,14 +689,6 @@
     "titel": "Umbau beim Detailhändler – Migros-Führung will Konzern komplett umbauen",
     "link": "https://www.srf.ch/news/wirtschaft/umbau-beim-detailhaendler-migros-fuehrung-will-konzern-komplett-umbauen",
     "zeit": "2026-10-26T11:29:33+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Schlagzeilen zu Detailhändler – Die Migros lädt nach neuen Umbau-Gerüchten zur Medienkonferenz",
-    "link": "https://www.srf.ch/news/wirtschaft/schlagzeilen-zu-detailhaendler-die-migros-laedt-nach-neuen-umbau-geruechten-zur-medienkonferenz",
-    "zeit": "2026-10-26T07:59:53+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
