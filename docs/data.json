@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-28T08:56:12+01:00",
+ "aktualisiert": "2026-10-28T09:49:43+01:00",
  "kernaussagen": [
-  "SMI +0.40%, Nasdaq +1.18% führt",
-  "Franken stärker: EUR/CHF 0.9230 (−0.19%)",
-  "Brent über 100 USD: 111.64 (−1.97%)"
+  "SMI −0.34%, Nasdaq +1.18% führt",
+  "Franken stärker: EUR/CHF 0.9237 (−0.11%)",
+  "Brent über 100 USD: 110.93 (−2.59%)"
  ],
  "maerkte": [
   {
@@ -12,17 +12,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14597.6298828125,
-   "vortag": 14538.9501953125,
-   "veraenderung_pct": 0.4036033325082844,
-   "datum": "2026-10-27",
-   "ist_heute": false,
+   "kurs": 14547.48046875,
+   "vortag": 14597.6298828125,
+   "veraenderung_pct": -0.34354490739313404,
+   "datum": "2026-10-28",
+   "ist_heute": true,
    "verlauf": [
-    14552.389648,
     14547.969727,
     14462.360352,
     14538.950195,
-    14597.629883
+    14597.629883,
+    14547.480469
    ]
   },
   {
@@ -31,17 +31,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25590.76953125,
-   "vortag": 25410.83984375,
-   "veraenderung_pct": 0.7080824113109951,
-   "datum": "2026-10-27",
-   "ist_heute": false,
+   "kurs": 25553.69921875,
+   "vortag": 25590.76953125,
+   "veraenderung_pct": -0.14485813900488864,
+   "datum": "2026-10-28",
+   "ist_heute": true,
    "verlauf": [
-    25645.039062,
     25371.75,
     25181.650391,
     25410.839844,
-    25590.769531
+    25590.769531,
+    25553.699219
    ]
   },
   {
@@ -50,17 +50,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6164.68994140625,
-   "vortag": 6116.22998046875,
-   "veraenderung_pct": 0.7923175075536637,
-   "datum": "2026-10-27",
-   "ist_heute": false,
+   "kurs": 6154.7900390625,
+   "vortag": 6164.68994140625,
+   "veraenderung_pct": -0.1605904341961395,
+   "datum": "2026-10-28",
+   "ist_heute": true,
    "verlauf": [
-    6207.52002,
     6087.009766,
     6068.220215,
     6116.22998,
-    6164.689941
+    6164.689941,
+    6154.790039
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9230300188064575,
+   "kurs": 0.9237499833106995,
    "vortag": 0.9247900247573853,
-   "veraenderung_pct": -0.1903141149678267,
+   "veraenderung_pct": -0.11246244215908918,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.91995,
     0.92408,
     0.92479,
-    0.92303
+    0.92375
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8301600217819214,
+   "kurs": 0.830299973487854,
    "vortag": 0.8275499939918518,
-   "veraenderung_pct": 0.31539215866338566,
+   "veraenderung_pct": 0.33230372980090905,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.81981,
     0.82383,
     0.82755,
-    0.83016
+    0.8303
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4051.300048828125,
+   "kurs": 4063.699951171875,
    "vortag": 4074.60009765625,
-   "veraenderung_pct": -0.5718364568225387,
+   "veraenderung_pct": -0.26751450996737036,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4007.899902,
     4038.399902,
     4074.600098,
-    4051.300049
+    4063.699951
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.63999938964844,
+   "kurs": 110.93000030517578,
    "vortag": 113.87999725341797,
-   "veraenderung_pct": -1.9669809604796917,
+   "veraenderung_pct": -2.590443466272252,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     116.720001,
     115.809998,
     113.879997,
-    111.639999
+    110.93
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80908.34375,
+   "kurs": 81418.390625,
    "vortag": 80805.078125,
-   "veraenderung_pct": 0.12779595960572543,
+   "veraenderung_pct": 0.7590024219161551,
    "datum": "2026-10-28",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     80024.007812,
     80006.65625,
     80805.078125,
-    80908.34375
+    81418.390625
    ]
   }
  ],
@@ -278,17 +278,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.25,
-   "vortag": 83.7300033569336,
-   "veraenderung_pct": -0.5732752152025844,
-   "datum": "2026-10-27",
-   "ist_heute": false,
+   "kurs": 82.69999694824219,
+   "vortag": 83.25,
+   "veraenderung_pct": -0.6606643264358114,
+   "datum": "2026-10-28",
+   "ist_heute": true,
    "verlauf": [
-    83.470001,
     84.370003,
     83.699997,
     83.730003,
-    83.25
+    83.25,
+    82.699997
    ]
   },
   {
@@ -297,17 +297,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 128.77999877929688,
-   "vortag": 127.4800033569336,
-   "veraenderung_pct": 1.0197641889947207,
-   "datum": "2026-10-27",
-   "ist_heute": false,
+   "kurs": 130.4199981689453,
+   "vortag": 128.77999877929688,
+   "veraenderung_pct": 1.2734892104317108,
+   "datum": "2026-10-28",
+   "ist_heute": true,
    "verlauf": [
-    126.879997,
     128.880005,
     128.0,
     127.480003,
-    128.779999
+    128.779999,
+    130.419998
    ]
   },
   {
@@ -316,17 +316,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 399.0,
-   "vortag": 396.5,
-   "veraenderung_pct": 0.6305170239596425,
-   "datum": "2026-10-27",
-   "ist_heute": false,
+   "kurs": 398.29998779296875,
+   "vortag": 399.0,
+   "veraenderung_pct": -0.1754416558975569,
+   "datum": "2026-10-28",
+   "ist_heute": true,
    "verlauf": [
-    392.0,
     392.100006,
     390.899994,
     396.5,
-    399.0
+    399.0,
+    398.299988
    ]
   },
   {
@@ -335,17 +335,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.84000015258789,
-   "vortag": 38.58000183105469,
-   "veraenderung_pct": 0.6739199305167531,
-   "datum": "2026-10-27",
-   "ist_heute": false,
+   "kurs": 38.09000015258789,
+   "vortag": 38.84000015258789,
+   "veraenderung_pct": -1.930998962547703,
+   "datum": "2026-10-28",
+   "ist_heute": true,
    "verlauf": [
-    39.540001,
     38.389999,
     38.32,
     38.580002,
-    38.84
+    38.84,
+    38.09
    ]
   }
  ],
@@ -374,6 +374,38 @@
   ],
   "artikel": [
    {
+    "titel": "Robinhood shares fall as crypto slump weighs on profits, offsetting gains in new businesses",
+    "link": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
+    "zeit": "2026-10-28T08:23:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Die UBS erzielt einen Vorsteuergewinn von 3,6 Milliarden Dollar und wirbt weiter für günstige Eigenkapitalvorschriften",
+    "link": "https://www.nzz.ch/wirtschaft/die-ubs-erzielt-einen-vorsteuergewinn-von-36-milliarden-dollar-und-wirbt-weiter-fuer-guenstige-eigenkapitalvorschriften-ld.10044810",
+    "zeit": "2026-10-28T08:08:37+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
+    "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
+    "zeit": "2026-10-28T08:07:22+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Flavor Flav, Hillary Clinton weigh in as WNBA takes flak for weekday lunchtime finals game",
+    "link": "https://www.cnbc.com/2026/10/28/wnba-atlanta-dream-golden-state-valkyries-flavor-flav-hillary-clinton-.html",
+    "zeit": "2026-10-28T07:58:09+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Drittes Quartal – UBS: 2.7 Milliarden Dollar Gewinn – CS-Integration 2026 beendet",
     "link": "https://www.srf.ch/news/wirtschaft/drittes-quartal-ubs-2-7-milliarden-dollar-gewinn-cs-integration-2026-beendet",
     "zeit": "2026-10-28T07:53:02+00:00",
@@ -401,22 +433,6 @@
     "titel": "UBS pre-tax profits jump 27% in third quarter to $3.59 billion as wealth inflows surge",
     "link": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
     "zeit": "2026-10-28T07:41:35+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
-    "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
-    "zeit": "2026-10-28T07:29:41+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "A WNBA Finals game at lunchtime? Atlanta Dream criticizes league over schedule",
-    "link": "https://www.cnbc.com/2026/10/28/wnba-atlanta-dream-golden-state-valkyries-flavor-flav-hillary-clinton-.html",
-    "zeit": "2026-10-28T07:15:45+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -458,14 +474,6 @@
     "link": "https://www.finews.ch/news/banken/74188-deutsche-bank-drittes-quartal-milliardengewinn-investmentbanking-vermoegensverwaltung-fondstochter-dws-rekordzufluesse-gewinn-unter-den-erwartungen",
     "zeit": "2026-10-28T06:02:48+00:00",
     "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Die UBS erzielt einen Vorsteuergewinn von 3,6 Milliarden Dollar und wirbt weiter für günstige Eigenkapitalvorschriften",
-    "link": "https://www.nzz.ch/wirtschaft/die-ubs-erzielt-einen-vorsteuergewinn-von-36-milliarden-dollar-und-wirbt-weiter-fuer-guenstige-eigenkapitalvorschriften-ld.10044810",
-    "zeit": "2026-10-28T05:53:57+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -545,14 +553,6 @@
     "titel": "Kylian Mbappé faces China backlash as sponsors cut ties over viral meme",
     "link": "https://www.cnbc.com/2026/10/28/china-mbappe-football-sponsor-meme-controversy.html",
     "zeit": "2026-10-28T03:33:53+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
-    "link": "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html",
-    "zeit": "2026-10-28T03:02:44+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
