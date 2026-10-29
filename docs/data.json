@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-29T17:51:17+01:00",
+ "aktualisiert": "2026-10-29T18:45:55+01:00",
  "kernaussagen": [
-  "SMI +1.21%, Nasdaq −1.36% am schwächsten",
-  "Franken stabil: EUR/CHF 0.9222 (−0.01%)",
-  "Brent über 100 USD: 109.86 (−4.73%)"
+  "SMI +1.21%, Nasdaq −1.49% am schwächsten",
+  "Franken stabil: EUR/CHF 0.9225 (+0.02%)",
+  "Brent über 100 USD: 110.78 (−3.94%)"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7713.35009765625,
+   "kurs": 7703.43017578125,
    "vortag": 7743.97998046875,
-   "veraenderung_pct": -0.39553153404001673,
+   "veraenderung_pct": -0.5236300299041541,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7676.77002,
     7722.600098,
     7743.97998,
-    7713.350098
+    7703.430176
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26187.83203125,
+   "kurs": 26155.22265625,
    "vortag": 26549.849609375,
-   "veraenderung_pct": -1.3635390913746215,
+   "veraenderung_pct": -1.4863622918061759,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26169.380859,
     26477.810547,
     26549.849609,
-    26187.832031
+    26155.222656
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9221900105476379,
+   "kurs": 0.9224799871444702,
    "vortag": 0.922290027141571,
-   "veraenderung_pct": -0.010844375520691063,
+   "veraenderung_pct": 0.020596558274399435,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92408,
     0.92479,
     0.92229,
-    0.92219
+    0.92248
    ]
   },
   {
@@ -146,19 +146,7 @@
    "symbol": "CHF=X",
    "einheit": "",
    "dezimalen": 4,
-   "verfuegbar": true,
-   "kurs": 0.8263300061225891,
-   "vortag": 0.8288000226020813,
-   "veraenderung_pct": -0.2980232157496099,
-   "datum": "2026-10-29",
-   "ist_heute": true,
-   "verlauf": [
-    0.81981,
-    0.82383,
-    0.82755,
-    0.8288,
-    0.82633
-   ]
+   "verfuegbar": false
   },
   {
    "name": "Gold",
@@ -166,9 +154,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4026.39990234375,
+   "kurs": 4029.199951171875,
    "vortag": 4051.60009765625,
-   "veraenderung_pct": -0.6219813087446013,
+   "veraenderung_pct": -0.5528716049082116,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +164,7 @@
     4038.399902,
     4074.600098,
     4051.600098,
-    4026.399902
+    4029.199951
    ]
   },
   {
@@ -185,9 +173,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.86000061035156,
+   "kurs": 110.77999877929688,
    "vortag": 115.31999969482422,
-   "veraenderung_pct": -4.734650623414549,
+   "veraenderung_pct": -3.936872118922763,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +183,7 @@
     115.809998,
     113.879997,
     115.32,
-    109.860001
+    110.779999
    ]
   },
   {
@@ -204,9 +192,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81145.9609375,
+   "kurs": 80826.46875,
    "vortag": 81267.5859375,
-   "veraenderung_pct": -0.14965991495494713,
+   "veraenderung_pct": -0.5427959775244795,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +202,7 @@
     80006.65625,
     80805.078125,
     81267.585938,
-    81145.960938
+    80826.46875
    ]
   }
  ],
@@ -374,6 +362,38 @@
   ],
   "artikel": [
    {
+    "titel": "We're raising our price target on Eli Lilly as the obesity-drug boom rolls on",
+    "link": "https://www.cnbc.com/investingclub/2026/10/29/were-raising-our-eli-lilly-price-target-as-obesity-drug-boom-continues.html",
+    "zeit": "2026-10-29T17:44:21+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Alaska Senate election: Governor orders probe of alleged effort to recruit second Dan Sullivan",
+    "link": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
+    "zeit": "2026-10-29T17:31:15+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Some investors have midterm election jitters. Here’s what history shows about stocks",
+    "link": "https://www.cnbc.com/2026/10/29/midterm-elections-stock-market-history.html",
+    "zeit": "2026-10-29T17:27:10+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Aon CEO warns AI data center insurance risks could threaten financing",
+    "link": "https://www.cnbc.com/2026/10/29/aon-ai-data-center-insurance-financing.html",
+    "zeit": "2026-10-29T17:22:13+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity market expansion",
     "link": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
     "zeit": "2026-10-29T16:46:07+00:00",
@@ -417,38 +437,6 @@
     "titel": "AI buildout hits snag as Google and Microsoft put off raising capex forecasts",
     "link": "https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html",
     "zeit": "2026-10-29T16:20:51+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
-    "link": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html",
-    "zeit": "2026-10-29T16:13:38+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "IRS CEO Bisignano donates to Trump Accounts in his childhood Brooklyn ZIP code",
-    "link": "https://www.cnbc.com/2026/10/29/trump-accounts-frank-bisignano-brooklyn.html",
-    "zeit": "2026-10-29T16:06:02+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Cramer sees opportunity amid tech turmoil and predicts a holiday win for FedEx",
-    "link": "https://www.cnbc.com/investingclub/2026/10/29/cramer-sees-opportunity-amid-tech-turmoil-and-predicts-a-holiday-win-for-fedex.html",
-    "zeit": "2026-10-29T16:01:51+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Amazon to report Q3 earnings after the bell with AI spend under scrutiny",
-    "link": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
-    "zeit": "2026-10-29T16:00:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
