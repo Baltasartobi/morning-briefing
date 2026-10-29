@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-29T16:51:26+01:00",
+ "aktualisiert": "2026-10-29T17:51:17+01:00",
  "kernaussagen": [
-  "SMI +1.48%, DAX +1.48% führt",
-  "Franken schwächer: EUR/CHF 0.9230 (+0.08%)",
-  "Brent über 100 USD: 109.55 (−5.00%)"
+  "SMI +1.21%, Nasdaq −1.36% am schwächsten",
+  "Franken stabil: EUR/CHF 0.9222 (−0.01%)",
+  "Brent über 100 USD: 109.86 (−4.73%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14796.9697265625,
+   "kurs": 14756.8603515625,
    "vortag": 14581.099609375,
-   "veraenderung_pct": 1.480478996582013,
+   "veraenderung_pct": 1.2054011487205862,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14538.950195,
     14597.629883,
     14581.099609,
-    14796.969727
+    14756.860352
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26085.55078125,
+   "kurs": 26039.6796875,
    "vortag": 25704.01953125,
-   "veraenderung_pct": 1.4843252415683406,
+   "veraenderung_pct": 1.3058664067770342,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25410.839844,
     25590.769531,
     25704.019531,
-    26085.550781
+    26039.679688
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6219.18017578125,
+   "kurs": 6207.06982421875,
    "vortag": 6167.81005859375,
-   "veraenderung_pct": 0.8328745000168336,
+   "veraenderung_pct": 0.6365268264105994,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6116.22998,
     6164.689941,
     6167.810059,
-    6219.180176
+    6207.069824
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7716.259765625,
+   "kurs": 7713.35009765625,
    "vortag": 7743.97998046875,
-   "veraenderung_pct": -0.3579582451615826,
+   "veraenderung_pct": -0.39553153404001673,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7676.77002,
     7722.600098,
     7743.97998,
-    7716.259766
+    7713.350098
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26221.375,
+   "kurs": 26187.83203125,
    "vortag": 26549.849609375,
-   "veraenderung_pct": -1.237199510384468,
+   "veraenderung_pct": -1.3635390913746215,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26169.380859,
     26477.810547,
     26549.849609,
-    26221.375
+    26187.832031
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9230300188064575,
+   "kurs": 0.9221900105476379,
    "vortag": 0.922290027141571,
-   "veraenderung_pct": 0.08023416095910285,
+   "veraenderung_pct": -0.010844375520691063,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92408,
     0.92479,
     0.92229,
-    0.92303
+    0.92219
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8268899917602539,
+   "kurs": 0.8263300061225891,
    "vortag": 0.8288000226020813,
-   "veraenderung_pct": -0.23045738293185902,
+   "veraenderung_pct": -0.2980232157496099,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82383,
     0.82755,
     0.8288,
-    0.82689
+    0.82633
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4037.0,
+   "kurs": 4026.39990234375,
    "vortag": 4051.60009765625,
-   "veraenderung_pct": -0.3603538677150242,
+   "veraenderung_pct": -0.6219813087446013,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4038.399902,
     4074.600098,
     4051.600098,
-    4037.0
+    4026.399902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.55000305175781,
+   "kurs": 109.86000061035156,
    "vortag": 115.31999969482422,
-   "veraenderung_pct": -5.003465711356025,
+   "veraenderung_pct": -4.734650623414549,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     115.809998,
     113.879997,
     115.32,
-    109.550003
+    109.860001
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81614.21875,
+   "kurs": 81145.9609375,
    "vortag": 81267.5859375,
-   "veraenderung_pct": 0.42653268028236546,
+   "veraenderung_pct": -0.14965991495494713,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     80006.65625,
     80805.078125,
     81267.585938,
-    81614.21875
+    81145.960938
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.987,
+   "wert": 4.999,
    "vortag": 5.045,
-   "veraenderung_bp": -5.8,
+   "veraenderung_bp": -4.6,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     4.986,
     4.993,
     5.045,
-    4.987
+    4.999
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 82.61000061035156,
+   "kurs": 82.80999755859375,
    "vortag": 82.80999755859375,
-   "veraenderung_pct": -0.24151304690074316,
+   "veraenderung_pct": 0.0,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     83.730003,
     83.25,
     82.809998,
-    82.610001
+    82.809998
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 132.66000366210938,
+   "kurs": 132.3000030517578,
    "vortag": 129.22000122070312,
-   "veraenderung_pct": 2.6621284699810843,
+   "veraenderung_pct": 2.383533355485845,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     127.480003,
     128.779999,
     129.220001,
-    132.660004
+    132.300003
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 402.0,
+   "kurs": 401.70001220703125,
    "vortag": 398.79998779296875,
-   "veraenderung_pct": 0.8024103071669231,
+   "veraenderung_pct": 0.7271876887739559,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     396.5,
     399.0,
     398.799988,
-    402.0
+    401.700012
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.970001220703125,
+   "kurs": 39.709999084472656,
    "vortag": 38.599998474121094,
-   "veraenderung_pct": 3.5492300537279364,
+   "veraenderung_pct": 2.8756493632914326,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     38.580002,
     38.84,
     38.599998,
-    39.970001
+    39.709999
    ]
   }
  ],
@@ -374,36 +374,100 @@
   ],
   "artikel": [
    {
-    "titel": "Weil, Gotshal & Manges, longtime Wall Street law firm, plans wind down",
-    "link": "https://www.cnbc.com/2026/10/28/weil-gotshal-law-firm-wall-street-wind-down.html",
-    "zeit": "2026-10-29T15:50:36+00:00",
+    "titel": "Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity market expansion",
+    "link": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
+    "zeit": "2026-10-29T16:46:07+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Family offices can save millions with this tax strategy — but it can create bad blood",
-    "link": "https://www.cnbc.com/2026/10/29/family-offices-can-save-big-with-this-tax-strategy-but-theres-a-catch.html",
-    "zeit": "2026-10-29T15:48:56+00:00",
+    "titel": "Alphabet falls 12%, putting it on course for its biggest ever post-earnings drop",
+    "link": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
+    "zeit": "2026-10-29T16:35:25+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "CNBC Sport: Inside the scramble that moved Thursday's WNBA Finals game to 12:30 p.m. ET",
-    "link": "https://www.cnbc.com/2026/10/29/the-wnbas-scramble-to-move-thursdays-finals-game-6-to-1230-pm-et.html",
-    "zeit": "2026-10-29T15:28:27+00:00",
+    "titel": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+    "link": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
+    "zeit": "2026-10-29T16:25:40+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "DoorDash to acquire Instacart for $17 billion",
-    "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
-    "zeit": "2026-10-29T15:17:48+00:00",
+    "titel": "Norwegian shares surge 13% on earnings beat, guidance raise",
+    "link": "https://www.cnbc.com/2026/10/29/norwegian-earnings-guidance-shares.html",
+    "zeit": "2026-10-29T16:23:37+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations were 'investigated and debunked'",
+    "link": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html",
+    "zeit": "2026-10-29T16:22:19+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "AI buildout hits snag as Google and Microsoft put off raising capex forecasts",
+    "link": "https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html",
+    "zeit": "2026-10-29T16:20:51+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
+    "link": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html",
+    "zeit": "2026-10-29T16:13:38+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "IRS CEO Bisignano donates to Trump Accounts in his childhood Brooklyn ZIP code",
+    "link": "https://www.cnbc.com/2026/10/29/trump-accounts-frank-bisignano-brooklyn.html",
+    "zeit": "2026-10-29T16:06:02+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Cramer sees opportunity amid tech turmoil and predicts a holiday win for FedEx",
+    "link": "https://www.cnbc.com/investingclub/2026/10/29/cramer-sees-opportunity-amid-tech-turmoil-and-predicts-a-holiday-win-for-fedex.html",
+    "zeit": "2026-10-29T16:01:51+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Amazon to report Q3 earnings after the bell with AI spend under scrutiny",
+    "link": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+    "zeit": "2026-10-29T16:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Immobilienmarkt: Die Städte exportieren ihre Probleme aufs Land und in andere Kantone",
+    "link": "https://www.nzz.ch/wirtschaft/immobilienmarkt-die-staedte-exportieren-ihre-probleme-aufs-land-und-in-andere-kantone-ld.10045852",
+    "zeit": "2026-10-29T16:00:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Autohersteller in der Krise – Europas Autoindustrie krankt auch aus eigenem Verschulden",
+    "link": "https://www.srf.ch/news/wirtschaft/autohersteller-in-der-krise-europas-autoindustrie-krankt-auch-aus-eigenem-verschulden",
+    "zeit": "2026-10-29T15:51:44+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Der vorzeitige Abschied von Christine Lagarde beschleunigt den Poker um die EZB-Spitze",
@@ -412,54 +476,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "ServiceNow shares plunge 24% after earnings revive AI disruption fears",
-    "link": "https://www.cnbc.com/2026/10/29/servicenow-now-earnings-q3-2026.html",
-    "zeit": "2026-10-29T14:58:03+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "The politics of President Lagarde's European Central Bank early exit — and who could replace her",
-    "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
-    "zeit": "2026-10-29T14:53:06+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Restaurant Brands reports mixed results as Burger King's U.S. turnaround shows signs of success",
-    "link": "https://www.cnbc.com/2026/10/29/restaurant-brands-international-qsr-q3-2026-earnings.html",
-    "zeit": "2026-10-29T14:51:29+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "European Central Bank keeps key interest rate on hold at 2.5%",
-    "link": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
-    "zeit": "2026-10-29T14:48:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity market expansion",
-    "link": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
-    "zeit": "2026-10-29T14:34:59+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
-    "link": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
-    "zeit": "2026-10-29T14:34:21+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Stablecoins: Privatbank zeigt, was Unternehmen jetzt wissen müssen",
@@ -474,6 +490,14 @@
     "link": "https://www.srf.ch/news/wirtschaft/europaeische-zentralbank-nach-ruecktrittsankuendigung-lagarde-belaesst-leitzins",
     "zeit": "2026-10-29T13:32:31+00:00",
     "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Franken-Stablecoin: Bankiervereinigung macht Druck",
+    "link": "https://www.finews.ch/news/finanzplatz/74241-franken-stablecoin-swiss-banking-schweizerische-bankiervereinigung-martin-hess-natalie-graf-eu-usa-politik-forderungen",
+    "zeit": "2026-10-29T13:31:19+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -574,14 +598,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Vontobel mit Rekord bei verwalteten Vermögen",
-    "link": "https://www.finews.ch/news/banken/74219-vontobel-handelsupdate-neunmonate-2026-aum",
-    "zeit": "2026-10-29T05:22:14+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Entlassen von der UBS – Job weg – die Chancen der ehemaligen Banker",
     "link": "https://www.srf.ch/news/wirtschaft/entlassen-von-der-ubs-job-weg-die-chancen-der-ehemaligen-banker",
     "zeit": "2026-10-29T05:04:15+00:00",
@@ -638,14 +654,6 @@
     "sprache": "de"
    },
    {
-    "titel": "MELDUNGEN WIRTSCHAFT - Googles Muttergesellschaft Alphabet verfehlt Umsatzerwartungen +++ Deutsche Bank erzielt Milliardengewinn im dritten Quartal",
-    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
-    "zeit": "2026-10-28T21:33:08+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Zinsen in den USA – Fed lässt Leitzins vor US-Zwischenwahlen unverändert",
     "link": "https://www.srf.ch/news/wirtschaft/zinsen-in-den-usa-fed-laesst-leitzins-vor-us-zwischenwahlen-unveraendert",
     "zeit": "2026-10-28T20:10:35+00:00",
@@ -681,14 +689,6 @@
     "titel": "Liefermarkt im Umbruch – Uber Eats fährt lokale Velokuriere aus dem Markt",
     "link": "https://www.srf.ch/news/schweiz/liefermarkt-im-umbruch-uber-eats-faehrt-lokale-velokuriere-aus-dem-markt",
     "zeit": "2026-10-28T09:52:44+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Geschwister zementieren Macht – Anthropic-Börsengang macht Firmengründer zu Milliardären",
-    "link": "https://www.srf.ch/news/wirtschaft/geschwister-zementieren-macht-anthropic-boersengang-macht-firmengruender-zu-milliardaeren",
-    "zeit": "2026-10-28T05:09:13+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
