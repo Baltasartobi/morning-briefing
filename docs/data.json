@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-28T21:40:08+01:00",
+ "aktualisiert": "2026-10-29T06:42:30+01:00",
  "kernaussagen": [
-  "SMI −0.11%, Nikkei 225 +1.73% führt",
-  "Franken stärker: EUR/CHF 0.9235 (−0.14%)",
-  "Brent über 100 USD: 110.37 (−3.08%)"
+  "SMI −0.11%, Nikkei 225 +1.15% führt",
+  "Franken schwächer: EUR/CHF 0.9235 (+0.13%)",
+  "Brent über 100 USD: 110.03 (−4.59%)"
  ],
  "maerkte": [
   {
@@ -16,7 +16,7 @@
    "vortag": 14597.6298828125,
    "veraenderung_pct": -0.11323943386839508,
    "datum": "2026-10-28",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     14547.969727,
     14462.360352,
@@ -35,7 +35,7 @@
    "vortag": 25590.76953125,
    "veraenderung_pct": 0.4425423778745996,
    "datum": "2026-10-28",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     25371.75,
     25181.650391,
@@ -54,7 +54,7 @@
    "vortag": 6164.68994140625,
    "veraenderung_pct": 0.050612718841591686,
    "datum": "2026-10-28",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     6087.009766,
     6068.220215,
@@ -73,7 +73,7 @@
    "vortag": 7722.60009765625,
    "veraenderung_pct": 0.27684824466034375,
    "datum": "2026-10-28",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     7663.430176,
     7623.680176,
@@ -88,17 +88,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26549.8515625,
+   "kurs": 26549.849609375,
    "vortag": 26477.810546875,
-   "veraenderung_pct": 0.2720807126309177,
+   "veraenderung_pct": 0.2720733361712968,
    "datum": "2026-10-28",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     26008.859375,
     25955.339844,
     26169.380859,
     26477.810547,
-    26549.851562
+    26549.849609
    ]
   },
   {
@@ -107,17 +107,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 63268.37109375,
-   "vortag": 62189.6484375,
-   "veraenderung_pct": 1.734569471532077,
-   "datum": "2026-10-27",
-   "ist_heute": false,
+   "kurs": 64692.1015625,
+   "vortag": 63954.19140625,
+   "veraenderung_pct": 1.1538104696886098,
+   "datum": "2026-10-29",
+   "ist_heute": true,
    "verlauf": [
-    64621.238281,
-    62907.839844,
     62693.160156,
     62189.648438,
-    63268.371094
+    63268.371094,
+    63954.191406,
+    64692.101562
    ]
   }
  ],
@@ -129,15 +129,15 @@
    "dezimalen": 4,
    "verfuegbar": true,
    "kurs": 0.9234600067138672,
-   "vortag": 0.9247900247573853,
-   "veraenderung_pct": -0.14381838124465363,
-   "datum": "2026-10-28",
+   "vortag": 0.922290027141571,
+   "veraenderung_pct": 0.12685592794732248,
+   "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
-    0.92579,
     0.91995,
     0.92408,
     0.92479,
+    0.92229,
     0.92346
    ]
   },
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.828029990196228,
-   "vortag": 0.8275499939918518,
-   "veraenderung_pct": 0.058002079374186444,
-   "datum": "2026-10-28",
+   "kurs": 0.8288699984550476,
+   "vortag": 0.8288000226020813,
+   "veraenderung_pct": 0.008443032222249514,
+   "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
-    0.824,
     0.81981,
     0.82383,
     0.82755,
-    0.82803
+    0.8288,
+    0.82887
    ]
   },
   {
@@ -166,17 +166,17 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4071.300048828125,
-   "vortag": 4074.60009765625,
-   "veraenderung_pct": -0.0809907413987232,
-   "datum": "2026-10-28",
+   "kurs": 4051.89990234375,
+   "vortag": 4051.60009765625,
+   "veraenderung_pct": 0.007399661375107058,
+   "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
-    4060.399902,
     4007.899902,
     4038.399902,
     4074.600098,
-    4071.300049
+    4051.600098,
+    4051.899902
    ]
   },
   {
@@ -185,17 +185,17 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.37000274658203,
-   "vortag": 113.87999725341797,
-   "veraenderung_pct": -3.0821870315162703,
-   "datum": "2026-10-28",
+   "kurs": 110.02999877929688,
+   "vortag": 115.31999969482422,
+   "veraenderung_pct": -4.587236324598054,
+   "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
-    113.169998,
     116.720001,
     115.809998,
     113.879997,
-    110.370003
+    115.32,
+    110.029999
    ]
   },
   {
@@ -204,17 +204,17 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 81059.59375,
+   "kurs": 80197.890625,
    "vortag": 80805.078125,
-   "veraenderung_pct": 0.31497478983470995,
-   "datum": "2026-10-28",
+   "veraenderung_pct": -0.7514224527581326,
+   "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
     80790.835938,
     80024.007812,
     80006.65625,
     80805.078125,
-    81059.59375
+    80197.890625
    ]
   }
  ],
@@ -244,7 +244,7 @@
    "vortag": 3.42,
    "veraenderung_bp": 1.0,
    "datum": "2026-10-28",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     3.44,
     3.39,
@@ -261,7 +261,7 @@
    "vortag": 4.993,
    "veraenderung_bp": 5.2,
    "datum": "2026-10-28",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     4.953,
     4.988,
@@ -278,17 +278,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 82.80999755859375,
-   "vortag": 83.25,
-   "veraenderung_pct": -0.5285314611486513,
-   "datum": "2026-10-28",
-   "ist_heute": true,
+   "kurs": 83.25,
+   "vortag": 83.7300033569336,
+   "veraenderung_pct": -0.5732752152025844,
+   "datum": "2026-10-27",
+   "ist_heute": false,
    "verlauf": [
+    83.470001,
     84.370003,
     83.699997,
     83.730003,
-    83.25,
-    82.809998
+    83.25
    ]
   },
   {
@@ -301,7 +301,7 @@
    "vortag": 128.77999877929688,
    "veraenderung_pct": 0.341669859898297,
    "datum": "2026-10-28",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     128.880005,
     128.0,
@@ -320,7 +320,7 @@
    "vortag": 399.0,
    "veraenderung_pct": -0.050128372689539624,
    "datum": "2026-10-28",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     392.100006,
     390.899994,
@@ -339,7 +339,7 @@
    "vortag": 38.84000015258789,
    "veraenderung_pct": -0.6179239895054534,
    "datum": "2026-10-28",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     38.389999,
     38.32,
@@ -374,76 +374,148 @@
   ],
   "artikel": [
    {
-    "titel": "Alphabet's free cash flow sinks further, Q3 capex expectations miss in worrying sign for AI trade",
-    "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-    "zeit": "2026-10-28T20:39:19+00:00",
+    "titel": "Entlassen von der UBS – Stellenvermittler: «Es gibt Personen, die wir auffangen müssen»",
+    "link": "https://www.srf.ch/news/wirtschaft/entlassen-von-der-ubs-stellenvermittler-es-gibt-personen-die-wir-auffangen-muessen",
+    "zeit": "2026-10-29T05:04:15+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Billionaire Ambani cries tears of joy as Jio Platforms becomes the second most valued Indian firm",
+    "link": "https://www.cnbc.com/2026/10/29/ambani-billionaire-jio-ipo-india.html",
+    "zeit": "2026-10-29T04:55:17+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
-    "link": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
-    "zeit": "2026-10-28T20:38:49+00:00",
+    "titel": "Vom Himmel in die Hölle und zurück – nach Jahren des Krieges feiert Syriens Luftfahrt eine Auferstehung",
+    "link": "https://www.nzz.ch/wirtschaft/vom-himmel-in-die-hoelle-und-zurueck-nach-jahren-des-krieges-feiert-syriens-luftfahrt-eine-auferstehung-ld.10042327",
+    "zeit": "2026-10-29T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Netanyahu braucht Partner. Doch kaum jemand will noch mit ihm regieren",
+    "link": "https://www.nzz.ch/international/netanyahu-und-das-verlorene-vertrauen-seiner-frueheren-partner-ld.10047422",
+    "zeit": "2026-10-29T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "KOMMENTAR - Dreiergipfel in China: Die Welt wird sich Washington, Peking und Moskau nicht unterwerfen",
+    "link": "https://www.nzz.ch/meinung/dreiergipfel-in-china-die-welt-wird-sich-washington-peking-und-moskau-nicht-unterwerfen-ld.10047232",
+    "zeit": "2026-10-29T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Extremismus-Expertin: «In einzelnen Moscheevereinen gilt die Hamas als Vorbild»",
+    "link": "https://www.nzz.ch/international/tradwives-und-lauftraining-wie-oesterreichs-islamisten-werben-ld.10040734",
+    "zeit": "2026-10-29T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Wegen Trumps Mobbing besinnt sich Kanada auf seine Wurzeln – doch wie europäisch ist das Land wirklich?",
+    "link": "https://www.nzz.ch/international/kanada-und-seine-wurzeln-warum-ein-eu-beitritt-keine-option-ist-ld.10026470",
+    "zeit": "2026-10-29T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Washington zieht sich militärisch aus Asien zurück. Was bedeutet das für die amerikanischen Alliierten in der Region?",
+    "link": "https://www.nzz.ch/pro/was-bedeutet-der-amerikanische-rueckzug-fuer-die-alliierten-in-asien-ld.10022654",
+    "zeit": "2026-10-29T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Over 41,000 U.S. Homeland Security officials' details apparently exposed after massive data breach",
+    "link": "https://www.cnbc.com/2026/10/29/dhs-data-breach-ice-cdp-deportations.html",
+    "zeit": "2026-10-29T04:29:32+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
-    "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-    "zeit": "2026-10-28T20:31:40+00:00",
+    "titel": "Trump methane policy rollback may have minimal impact on crude prices, EPA says",
+    "link": "https://www.cnbc.com/2026/10/29/trump-methane-rollback-oil-prices-epa.html",
+    "zeit": "2026-10-29T04:00:51+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
-    "link": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
-    "zeit": "2026-10-28T20:26:06+00:00",
+    "titel": "Samsung Electronics shares slid despite record profit in the third-quarter",
+    "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+    "zeit": "2026-10-29T02:49:39+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Stellantis stock rises 13% as automaker's turnaround plan, cost cuts gain traction",
-    "link": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
-    "zeit": "2026-10-28T20:23:48+00:00",
+    "titel": "China’s tech darlings are losing their shine. Here’s what’s behind the sell-off",
+    "link": "https://www.cnbc.com/2026/10/29/china-tech-stocks-selloff.html",
+    "zeit": "2026-10-29T02:14:14+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny",
-    "link": "https://www.cnbc.com/2026/10/28/doj-questions-nvidias-12point9-billion-hugging-face-deal.html",
-    "zeit": "2026-10-28T20:23:00+00:00",
+    "titel": "Microsoft’s strong quarter backs up its stock rebound. Here's our new price target",
+    "link": "https://www.cnbc.com/investingclub/2026/10/28/microsofts-quarter-validates-stock-rebound-heres-our-new-price-target.html",
+    "zeit": "2026-10-29T00:32:02+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Three media outlets seek full White House access in amended lawsuit",
-    "link": "https://www.cnbc.com/2026/10/28/trump-white-house-media-ban-cnn-msnow-politico.html",
-    "zeit": "2026-10-28T20:21:03+00:00",
+    "titel": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
+    "link": "https://www.cnbc.com/2026/10/28/neocloud-stocks-drop-after-microsoft-revises-capex-down.html",
+    "zeit": "2026-10-29T00:16:39+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "10-year Treasury yield creeps higher even as Fed keeps rates the same",
-    "link": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html",
-    "zeit": "2026-10-28T20:17:19+00:00",
+    "titel": "Inside India newsletter: New Delhi approves $22 billion in military spending amid China border tensions",
+    "link": "https://www.cnbc.com/2026/10/29/india-china-us-israel-military-spending.html",
+    "zeit": "2026-10-29T00:11:14+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Options traders break down a massive Alphabet trade into earnings",
-    "link": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
-    "zeit": "2026-10-28T20:13:59+00:00",
+    "titel": "As Waymo expands overseas, it remains a niche cash-burning business",
+    "link": "https://www.cnbc.com/2026/10/28/as-waymo-expands-overseas-it-remains-a-niche-cash-burning-business.html",
+    "zeit": "2026-10-28T23:53:58+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "One passport isn’t enough for some wealthy Chinese. Here’s where they’re looking next",
+    "link": "https://www.cnbc.com/2026/10/29/where-chinas-wealthy-are-turning-for-second-passports.html",
+    "zeit": "2026-10-28T23:38:00+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "MELDUNGEN WIRTSCHAFT - Googles Muttergesellschaft Alphabet verfehlt Umsatzerwartungen +++ Deutsche Bank erzielt Milliardengewinn im dritten Quartal",
+    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
+    "zeit": "2026-10-28T21:33:08+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Zinsen in den USA – Fed lässt Leitzins vor US-Zwischenwahlen unverändert",
@@ -452,14 +524,6 @@
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
-    "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
-    "zeit": "2026-10-28T20:06:21+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Migros im Umbruch – Ursula Nold: «Bei einem Nein wiederholen wir die Abstimmung»",
@@ -502,14 +566,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Die Swiss beendet die Kooperation mit Air Baltic, setzt aber weiterhin auf ungeliebte Partnerschaften",
-    "link": "https://www.nzz.ch/wirtschaft/die-swiss-beendet-die-kooperation-mit-air-baltic-setzt-aber-weiterhin-auf-ungeliebte-partnerschaften-ld.10046908",
-    "zeit": "2026-10-28T14:47:19+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Vernehmlassung eröffnet – Visa, Mastercard, Twint: Gebühren sollen transparenter werden",
     "link": "https://www.srf.ch/news/schweiz/vernehmlassung-eroeffnet-visa-mastercard-twint-gebuehren-sollen-transparenter-werden",
     "zeit": "2026-10-28T14:07:43+00:00",
@@ -522,14 +578,6 @@
     "link": "https://www.finews.ch/news/finanzplatz/74212-oelschock-inflationsrisiko-unsicherheit-zinsentwicklung-matthias-ramser-chief-investment-officer-bei-reichmuth-co-privatbankiers-naher-osten",
     "zeit": "2026-10-28T12:31:31+00:00",
     "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Die UBS erzielt einen Vorsteuergewinn von 3,6 Milliarden Dollar und wehrt sich gegen zu strenge Eigenkapitalregeln",
-    "link": "https://www.nzz.ch/wirtschaft/die-ubs-erzielt-einen-vorsteuergewinn-von-36-milliarden-dollar-und-wirbt-weiter-fuer-guenstige-eigenkapitalvorschriften-ld.10044810",
-    "zeit": "2026-10-28T12:13:45+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -582,14 +630,6 @@
     "sprache": "de"
    },
    {
-    "titel": "MELDUNGEN WIRTSCHAFT - Deutsche Bank erzielt Milliardengewinn im dritten Quartal +++ Mercedes macht nach schwachem Vorjahresquartal mehr Gewinn",
-    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
-    "zeit": "2026-10-28T06:48:33+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Neue Firma unterstützt Finanzdienstleister bei Compliance",
     "link": "https://www.finews.ch/news/finanzplatz/74191-firmenfels-governance-risk-compliance-dominic-goerg-kim-weber-hanspeter-biedermann-ulrichvonbassewitz-patrick-gauch",
     "zeit": "2026-10-28T06:40:42+00:00",
@@ -630,38 +670,6 @@
     "sprache": "de"
    },
    {
-    "titel": "KOMMENTAR - Massenentlassungen bei VW? Europas Industrie kann weit mehr als nur Autos bauen",
-    "link": "https://www.nzz.ch/meinung/trotz-stellenabbau-bei-vw-europas-industrie-umfasst-mehr-als-autos-ld.10041264",
-    "zeit": "2026-10-28T04:35:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Die linke Heilsbringerin: Isabella Weber will mit Preiskontrollen gegen Rechtsextreme ankämpfen",
-    "link": "https://www.nzz.ch/wirtschaft/die-linke-heilsbringerin-isabella-weber-will-mit-preiskontrollen-gegen-rechtsextreme-ankaempfen-ld.10045018",
-    "zeit": "2026-10-28T04:31:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Frankreichs Krise macht die Finanzmärkte nervös. Eilt die EZB zu Hilfe?",
-    "link": "https://www.nzz.ch/wirtschaft/frankreichs-krise-macht-die-finanzmaerkte-nervoes-und-sorgte-fuer-diskussionen-ueber-die-moeglichen-reaktionen-der-ezbfrankreichs-krise-macht-die-finanzmaerkte-nervoes-eilt-die-ezb-dem-strauchelnden-land-bald-zur-hilfe-ld.10044811",
-    "zeit": "2026-10-28T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Wie es in Serbien einer Gruppe Studierenden gelang, Aleksandar Vucic zu stürzen",
-    "link": "https://www.nzz.ch/pro/wahlen-in-serbien-die-gruende-fuer-den-erfolg-der-studentenbewegung-ld.10045795",
-    "zeit": "2026-10-28T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Proteste in Frankreich – Lösen die Demos in Frankreich einen Flächenbrand in Europa aus?",
     "link": "https://www.srf.ch/news/wirtschaft/proteste-in-frankreich-loesen-die-demos-in-frankreich-einen-flaechenbrand-in-europa-aus",
     "zeit": "2026-10-27T06:28:13+00:00",
@@ -681,14 +689,6 @@
     "titel": "Migros im Umbruch – Skandale und Verluste beschleunigen Fusion der Genossenschaften",
     "link": "https://www.srf.ch/news/wirtschaft/migros-im-umbruch-skandale-und-verluste-beschleunigen-fusion-der-genossenschaften",
     "zeit": "2026-10-26T15:59:51+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Umbau beim Detailhändler – Migros-Chef: «Schritt ist richtig und macht uns schlagkräftiger»",
-    "link": "https://www.srf.ch/news/wirtschaft/umbau-beim-detailhaendler-migros-chef-schritt-ist-richtig-und-macht-uns-schlagkraeftiger",
-    "zeit": "2026-10-26T15:43:18+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
