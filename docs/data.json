@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-29T11:45:08+01:00",
+ "aktualisiert": "2026-10-29T12:41:28+01:00",
  "kernaussagen": [
-  "SMI +1.09%, Nikkei 225 +1.10% führt",
-  "Franken schwächer: EUR/CHF 0.9234 (+0.12%)",
-  "Brent über 100 USD: 110.20 (−4.44%)"
+  "SMI +1.31%, Nikkei 225 +1.10% führt",
+  "Franken schwächer: EUR/CHF 0.9230 (+0.08%)",
+  "Brent über 100 USD: 110.19 (−4.45%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14739.8701171875,
+   "kurs": 14772.830078125,
    "vortag": 14581.099609375,
-   "veraenderung_pct": 1.0888788367539703,
+   "veraenderung_pct": 1.3149246208202792,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14538.950195,
     14597.629883,
     14581.099609,
-    14739.870117
+    14772.830078
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25924.689453125,
+   "kurs": 25980.150390625,
    "vortag": 25704.01953125,
-   "veraenderung_pct": 0.8585035566391452,
+   "veraenderung_pct": 1.0742711233910018,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25410.839844,
     25590.769531,
     25704.019531,
-    25924.689453
+    25980.150391
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6178.93994140625,
+   "kurs": 6195.10009765625,
    "vortag": 6167.81005859375,
-   "veraenderung_pct": 0.18045112781954753,
+   "veraenderung_pct": 0.44245913546698823,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6116.22998,
     6164.689941,
     6167.810059,
-    6178.939941
+    6195.100098
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9233899712562561,
+   "kurs": 0.9230499863624573,
    "vortag": 0.922290027141571,
-   "veraenderung_pct": 0.11926228001120087,
+   "veraenderung_pct": 0.0823991584557815,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92408,
     0.92479,
     0.92229,
-    0.92339
+    0.92305
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8285300135612488,
+   "kurs": 0.828000009059906,
    "vortag": 0.8288000226020813,
-   "veraenderung_pct": -0.03257831002282385,
+   "veraenderung_pct": -0.09652672784244976,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82383,
     0.82755,
     0.8288,
-    0.82853
+    0.828
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4039.10009765625,
+   "kurs": 4044.0,
    "vortag": 4051.60009765625,
-   "veraenderung_pct": -0.30852008339201653,
+   "veraenderung_pct": -0.18758262101549183,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4038.399902,
     4074.600098,
     4051.600098,
-    4039.100098
+    4044.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.19999694824219,
+   "kurs": 110.19000244140625,
    "vortag": 115.31999969482422,
-   "veraenderung_pct": -4.4398220257815595,
+   "veraenderung_pct": -4.448488785114191,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     115.809998,
     113.879997,
     115.32,
-    110.199997
+    110.190002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80148.671875,
+   "kurs": 80043.1875,
    "vortag": 81267.5859375,
-   "veraenderung_pct": -1.3768269963876034,
+   "veraenderung_pct": -1.5066258255064247,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     80006.65625,
     80805.078125,
     81267.585938,
-    80148.671875
+    80043.1875
    ]
   }
  ],
@@ -240,17 +240,17 @@
    "name": "Deutschland",
    "quelle": "bundesbank",
    "verfuegbar": true,
-   "wert": 3.43,
-   "vortag": 3.42,
-   "veraenderung_bp": 1.0,
-   "datum": "2026-10-28",
-   "ist_heute": false,
+   "wert": 3.42,
+   "vortag": 3.43,
+   "veraenderung_bp": -1.0,
+   "datum": "2026-10-29",
+   "ist_heute": true,
    "verlauf": [
-    3.44,
     3.39,
     3.43,
     3.42,
-    3.43
+    3.43,
+    3.42
    ]
   },
   {
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.20999908447266,
+   "kurs": 83.12999725341797,
    "vortag": 82.80999755859375,
-   "veraenderung_pct": 0.4830353069336546,
+   "veraenderung_pct": 0.38642640292048114,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     83.730003,
     83.25,
     82.809998,
-    83.209999
+    83.129997
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 132.89999389648438,
+   "kurs": 133.36000061035156,
    "vortag": 129.22000122070312,
-   "veraenderung_pct": 2.8478506740577725,
+   "veraenderung_pct": 3.203837912505092,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     127.480003,
     128.779999,
     129.220001,
-    132.899994
+    133.360001
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 400.79998779296875,
+   "kurs": 401.29998779296875,
    "vortag": 398.79998779296875,
-   "veraenderung_pct": 0.5015045288913722,
+   "veraenderung_pct": 0.6268806611142264,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     396.5,
     399.0,
     398.799988,
-    400.799988
+    401.299988
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.27000045776367,
+   "kurs": 39.52000045776367,
    "vortag": 38.599998474121094,
-   "veraenderung_pct": 1.7357565029225919,
+   "veraenderung_pct": 2.383424922307653,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     38.580002,
     38.84,
     38.599998,
-    39.27
+    39.52
    ]
   }
  ],
@@ -374,12 +374,84 @@
   ],
   "artikel": [
    {
-    "titel": "Putin praises Elon Musk as a ‘genius’ as Russia develops Starlink alternative",
-    "link": "https://www.cnbc.com/2026/10/29/putin-elon-musk-starlink-ukraine.html",
-    "zeit": "2026-10-29T10:44:00+00:00",
+    "titel": "Eli Lilly blows past estimates, hikes sales outlook as Zepbound and Mounjaro demand surge again",
+    "link": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
+    "zeit": "2026-10-29T11:34:34+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Anthropic CEO Dario Amodei charts a new direction for tech philanthropy",
+    "link": "https://www.cnbc.com/2026/10/29/anthropic-ceo-dario-amodei-charts-new-direction-for-tech-philanthropy.html",
+    "zeit": "2026-10-29T11:31:44+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "AI build-out hits snag as Google and Microsoft put off raising capex forecasts",
+    "link": "https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html",
+    "zeit": "2026-10-29T11:30:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Merck tops quarterly estimates, hikes profit outlook as new Keytruda form shows strength",
+    "link": "https://www.cnbc.com/2026/10/29/merck-mrk-earnings-q3-2026.html",
+    "zeit": "2026-10-29T11:24:38+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Der Milliardenverlust von VW erhöht den Spardruck im Konzern",
+    "link": "https://www.nzz.ch/wirtschaft/der-milliardenverlust-von-vw-erhoeht-den-spardruck-im-konzern-ld.10048102",
+    "zeit": "2026-10-29T11:23:51+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "U.S. worker job engagement hits lowest level since 2011, new Gallup poll finds",
+    "link": "https://www.cnbc.com/2026/10/29/us-employee-engagement-gallup-poll.html",
+    "zeit": "2026-10-29T11:16:52+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "President of the European Central Bank Christine Lagarde to step down in February",
+    "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
+    "zeit": "2026-10-29T11:15:40+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Putin praises Elon Musk as a ‘genius’ as Russia develops Starlink alternative",
+    "link": "https://www.cnbc.com/2026/10/29/putin-elon-musk-starlink-ukraine.html",
+    "zeit": "2026-10-29T11:04:27+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+    "link": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
+    "zeit": "2026-10-29T11:00:02+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Europäischen Zentralbank – EZB-Präsidentin Christine Lagarde tritt vorzeitig ab",
+    "link": "https://www.srf.ch/news/wirtschaft/europaeischen-zentralbank-ezb-praesidentin-christine-lagarde-tritt-vorzeitig-ab",
+    "zeit": "2026-10-29T10:45:46+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Restaurant Brands reports mixed results as Burger King's U.S. turnaround shows signs of success",
@@ -390,26 +462,10 @@
     "sprache": "en"
    },
    {
-    "titel": "Merck tops quarterly estimates, hikes profit outlook as new form of Keytruda shows strength",
-    "link": "https://www.cnbc.com/2026/10/29/merck-mrk-earnings-q3-2026.html",
-    "zeit": "2026-10-29T10:31:13+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "President of the European Central Bank Christine Lagarde to stand down in February",
-    "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
-    "zeit": "2026-10-29T10:27:20+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Europäischen Zentralbank – EZB-Präsidentin Christine Lagarde tritt vorzeitig ab",
-    "link": "https://www.srf.ch/news/wirtschaft/europaeischen-zentralbank-ezb-praesidentin-christine-lagarde-tritt-vorzeitig-ab",
-    "zeit": "2026-10-29T10:20:54+00:00",
-    "quelle": "SRF Wirtschaft",
+    "titel": "Tareno holt Wealth-Management-Experten in den VR",
+    "link": "https://www.finews.ch/news/finanzplatz/74233-tareno-ivan-krattiger-verwaltungsrat",
+    "zeit": "2026-10-29T10:20:44+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -420,14 +476,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Eli Lilly is about to report earnings. Here's what to expect",
-    "link": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
-    "zeit": "2026-10-29T10:13:33+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "It's a 'socialist' bank — and North Dakota Republicans love it",
@@ -446,36 +494,12 @@
     "sprache": "de"
    },
    {
-    "titel": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
-    "link": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html",
-    "zeit": "2026-10-29T09:36:41+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Grosse Vermögensverwalter: Zwei Genfer Häuser stossen zur Allianz",
     "link": "https://www.finews.ch/news/finanzplatz/74230-aswm-alliance-swiss-wealth-managers-new-members-targa-5-advisors-gsk-partners-geneva-nicole-curti-eli-mizrahi-2",
     "zeit": "2026-10-29T09:18:11+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
-    "link": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
-    "zeit": "2026-10-29T09:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Alphabet falls 10% in premarket, putting it on course for its biggest ever post-earnings drop",
-    "link": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
-    "zeit": "2026-10-29T08:54:59+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Staaten mit Schulden – Was sind Staatsanleihen und wie funktionieren sie?",
@@ -500,14 +524,6 @@
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks",
-    "link": "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
-    "zeit": "2026-10-29T07:35:45+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Führungswechsel bei LGT Capital Partners",
@@ -638,14 +654,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Der Fed-Chef Kevin Warsh hält sich aus dem Wahlkampf heraus und lässt den Leitzins, wo er ist",
-    "link": "https://www.nzz.ch/wirtschaft/fed-chef-kevin-warsh-haelt-sich-aus-dem-wahlkampf-heraus-und-laesst-den-leitzins-wo-er-ist-ld.10046239",
-    "zeit": "2026-10-28T18:11:03+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Vernehmlassung eröffnet – Visa, Mastercard, Twint: Gebühren sollen transparenter werden",
     "link": "https://www.srf.ch/news/schweiz/vernehmlassung-eroeffnet-visa-mastercard-twint-gebuehren-sollen-transparenter-werden",
     "zeit": "2026-10-28T14:07:43+00:00",
@@ -673,14 +681,6 @@
     "titel": "Pascal Gentinetta wird erneut Geschäftsführer der VAV",
     "link": "https://www.finews.ch/news/banken/74204-vav-pascal-gentinetta-geschaeftsfuehrer",
     "zeit": "2026-10-28T09:14:44+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "VanEck lanciert ersten ETF auf Chinas Halbleiterindustrie",
-    "link": "https://www.finews.ch/news/finanzplatz/74202-vaneck-china-semiconductor-ucits-etf-six-swiss-exchange-erster-ucits-etf-in-europa-ausschliesslich-chinesische-halbleiterindustrie",
-    "zeit": "2026-10-28T08:27:00+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
