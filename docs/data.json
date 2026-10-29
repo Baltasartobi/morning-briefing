@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-29T09:51:38+01:00",
+ "aktualisiert": "2026-10-29T10:48:32+01:00",
  "kernaussagen": [
-  "SMI +0.94%, Nikkei 225 +1.10% führt",
+  "SMI +0.98%, Nikkei 225 +1.10% führt",
   "Franken stabil: EUR/CHF 0.9221 (−0.02%)",
-  "Brent über 100 USD: 110.50 (−4.18%)"
+  "Brent über 100 USD: 110.65 (−4.05%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14718.2900390625,
+   "kurs": 14724.3701171875,
    "vortag": 14581.099609375,
-   "veraenderung_pct": 0.9408784890221344,
+   "veraenderung_pct": 0.982576840229421,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14538.950195,
     14597.629883,
     14581.099609,
-    14718.290039
+    14724.370117
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25860.400390625,
+   "kurs": 25923.349609375,
    "vortag": 25704.01953125,
-   "veraenderung_pct": 0.6083906806282791,
+   "veraenderung_pct": 0.8532909720923021,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25410.839844,
     25590.769531,
     25704.019531,
-    25860.400391
+    25923.349609
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6172.669921875,
+   "kurs": 6177.5,
    "vortag": 6167.81005859375,
-   "veraenderung_pct": 0.07879398417074412,
+   "veraenderung_pct": 0.15710505534698438,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6116.22998,
     6164.689941,
     6167.810059,
-    6172.669922
+    6177.5
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9221000075340271,
+   "kurs": 0.9221299886703491,
    "vortag": 0.922290027141571,
-   "veraenderung_pct": -0.020603020953491313,
+   "veraenderung_pct": -0.017352293368921856,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92408,
     0.92479,
     0.92229,
-    0.9221
+    0.92213
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.82819002866745,
+   "kurs": 0.82846999168396,
    "vortag": 0.8288000226020813,
-   "veraenderung_pct": -0.07359965226789722,
+   "veraenderung_pct": -0.039820331698980915,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82383,
     0.82755,
     0.8288,
-    0.82819
+    0.82847
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4039.60009765625,
+   "kurs": 4038.39990234375,
    "vortag": 4051.60009765625,
-   "veraenderung_pct": -0.2961792800563301,
+   "veraenderung_pct": -0.32580202868827124,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4038.399902,
     4074.600098,
     4051.600098,
-    4039.600098
+    4038.399902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.5,
+   "kurs": 110.6500015258789,
    "vortag": 115.31999969482422,
-   "veraenderung_pct": -4.179673697172714,
+   "veraenderung_pct": -4.049599532868287,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     115.809998,
     113.879997,
     115.32,
-    110.5
+    110.650002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 79810.40625,
+   "kurs": 80078.546875,
    "vortag": 81267.5859375,
-   "veraenderung_pct": -1.7930638282041111,
+   "veraenderung_pct": -1.4631160121016062,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     80006.65625,
     80805.078125,
     81267.585938,
-    79810.40625
+    80078.546875
    ]
   }
  ],
@@ -278,17 +278,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.66000366210938,
-   "vortag": 83.25,
-   "veraenderung_pct": 0.49249689142267794,
+   "kurs": 83.41000366210938,
+   "vortag": 82.80999755859375,
+   "veraenderung_pct": 0.724557566966566,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
-    84.370003,
     83.699997,
     83.730003,
     83.25,
-    83.660004
+    82.809998,
+    83.410004
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 131.75999450683594,
+   "kurs": 132.10000610351562,
    "vortag": 129.22000122070312,
-   "veraenderung_pct": 1.965634779552894,
+   "veraenderung_pct": 2.2287609159618915,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     127.480003,
     128.779999,
     129.220001,
-    131.759995
+    132.100006
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 400.6000061035156,
+   "kurs": 400.20001220703125,
    "vortag": 398.79998779296875,
-   "veraenderung_pct": 0.4513586674133263,
+   "veraenderung_pct": 0.35105929210541564,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     396.5,
     399.0,
     398.799988,
-    400.600006
+    400.200012
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.29999923706055,
+   "kurs": 39.25,
    "vortag": 38.599998474121094,
-   "veraenderung_pct": 1.8134735508053446,
+   "veraenderung_pct": 1.6839418434554831,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     38.580002,
     38.84,
     38.599998,
-    39.299999
+    39.25
    ]
   }
  ],
@@ -376,7 +376,31 @@
    {
     "titel": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
     "link": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html",
-    "zeit": "2026-10-29T08:46:38+00:00",
+    "zeit": "2026-10-29T09:36:41+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Putin praises Elon Musk as a ‘real genius’ as Russia develops Starlink alternative",
+    "link": "https://www.cnbc.com/2026/10/29/putin-elon-musk-starlink-ukraine.html",
+    "zeit": "2026-10-29T09:06:00+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
+    "link": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
+    "zeit": "2026-10-29T09:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Alphabet falls 10% in premarket, putting it on course for its biggest ever post-earnings drop",
+    "link": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
+    "zeit": "2026-10-29T08:54:59+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -545,30 +569,6 @@
     "titel": "Over 41,000 U.S. Homeland Security officials' details apparently exposed after massive data breach",
     "link": "https://www.cnbc.com/2026/10/29/dhs-data-breach-ice-cdp-deportations.html",
     "zeit": "2026-10-29T04:29:32+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trump methane policy rollback may have minimal impact on crude prices, EPA says",
-    "link": "https://www.cnbc.com/2026/10/29/trump-methane-rollback-oil-prices-epa.html",
-    "zeit": "2026-10-29T04:00:51+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "China’s tech darlings are losing their shine. Here’s what’s behind the sell-off",
-    "link": "https://www.cnbc.com/2026/10/29/china-tech-stocks-selloff.html",
-    "zeit": "2026-10-29T02:14:14+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Microsoft’s strong quarter backs up its stock rebound. Here's our new price target",
-    "link": "https://www.cnbc.com/investingclub/2026/10/28/microsofts-quarter-validates-stock-rebound-heres-our-new-price-target.html",
-    "zeit": "2026-10-29T00:32:02+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
