@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-29T07:50:18+01:00",
+ "aktualisiert": "2026-10-29T08:58:35+01:00",
  "kernaussagen": [
   "SMI −0.11%, Nikkei 225 +1.10% führt",
   "Franken schwächer: EUR/CHF 0.9229 (+0.07%)",
-  "Brent über 100 USD: 110.56 (−4.13%)"
+  "Brent über 100 USD: 110.68 (−4.02%)"
  ],
  "maerkte": [
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9229400157928467,
+   "kurs": 0.9229000210762024,
    "vortag": 0.922290027141571,
-   "veraenderung_pct": 0.0704755155263026,
+   "veraenderung_pct": 0.06613905785384233,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92408,
     0.92479,
     0.92229,
-    0.92294
+    0.9229
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8285700082778931,
+   "kurs": 0.8281999826431274,
    "vortag": 0.8288000226020813,
-   "veraenderung_pct": -0.027752692798688194,
+   "veraenderung_pct": -0.07239864172179367,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82383,
     0.82755,
     0.8288,
-    0.82857
+    0.8282
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4041.39990234375,
+   "kurs": 4039.5,
    "vortag": 4051.60009765625,
-   "veraenderung_pct": -0.25175720867418594,
+   "veraenderung_pct": -0.29864985103662534,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4038.399902,
     4074.600098,
     4051.600098,
-    4041.399902
+    4039.5
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.55999755859375,
+   "kurs": 110.68000030517578,
    "vortag": 115.31999969482422,
-   "veraenderung_pct": -4.127646677789665,
+   "veraenderung_pct": -4.023586023176762,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     115.809998,
     113.879997,
     115.32,
-    110.559998
+    110.68
    ]
   },
   {
@@ -204,17 +204,17 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 79814.6484375,
-   "vortag": 80805.078125,
-   "veraenderung_pct": -1.2257022831756559,
+   "kurs": 79761.3671875,
+   "vortag": 81267.5859375,
+   "veraenderung_pct": -1.8534065367197927,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
-    80790.835938,
     80024.007812,
     80006.65625,
     80805.078125,
-    79814.648438
+    81267.585938,
+    79761.367188
    ]
   }
  ],
@@ -223,17 +223,17 @@
    "name": "Schweiz",
    "quelle": "snb",
    "verfuegbar": true,
-   "wert": 0.487,
-   "vortag": 0.526,
-   "veraenderung_bp": -3.9,
-   "datum": "2026-10-27",
+   "wert": 0.495,
+   "vortag": 0.487,
+   "veraenderung_bp": 0.8,
+   "datum": "2026-10-28",
    "ist_heute": false,
    "verlauf": [
-    0.553,
     0.525,
     0.491,
     0.526,
-    0.487
+    0.487,
+    0.495
    ]
   },
   {
@@ -296,7 +296,19 @@
    "symbol": "NOVN.SW",
    "einheit": "CHF",
    "dezimalen": 2,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 129.22000122070312,
+   "vortag": 128.77999877929688,
+   "veraenderung_pct": 0.341669859898297,
+   "datum": "2026-10-28",
+   "ist_heute": false,
+   "verlauf": [
+    128.880005,
+    128.0,
+    127.480003,
+    128.779999,
+    129.220001
+   ]
   },
   {
    "name": "Roche GS",
@@ -361,6 +373,54 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
+    "link": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html",
+    "zeit": "2026-10-29T07:55:21+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Autoindustrie in der Krise – Volkswagen meldet fast 6 Milliarden Euro Verlust",
+    "link": "https://www.srf.ch/news/wirtschaft/autoindustrie-in-der-krise-volkswagen-meldet-fast-6-milliarden-euro-verlust",
+    "zeit": "2026-10-29T07:39:17+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Tencent, Visa deepen payments push in China after regulatory green light",
+    "link": "https://www.cnbc.com/2026/10/29/tencent-visa-citi-mastercard-.html",
+    "zeit": "2026-10-29T07:01:50+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "DIE NEUESTEN ENTWICKLUNGEN - Krise bei Volkswagen: VW meldet neuen Milliardenverlust",
+    "link": "https://www.nzz.ch/wirtschaft/umbruch-bei-vw-was-in-den-kommenden-tagen-zu-erwarten-ist-ld.10020783",
+    "zeit": "2026-10-29T06:59:39+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Samsung Electronics shares slid despite record profit in the third-quarter",
+    "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+    "zeit": "2026-10-29T06:53:19+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Vermögensverwalter Bellecapital startet London-Offensive",
+    "link": "https://www.finews.ch/news/finanzplatz/74221-bellecapital-team-london-rathbones-team-valerie-von-stotzingen-relationship-manager-uk-mark-eberle",
+    "zeit": "2026-10-29T06:03:49+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
    {
     "titel": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
     "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
@@ -466,14 +526,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Samsung Electronics shares slid despite record profit in the third-quarter",
-    "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
-    "zeit": "2026-10-29T02:49:39+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "China’s tech darlings are losing their shine. Here’s what’s behind the sell-off",
     "link": "https://www.cnbc.com/2026/10/29/china-tech-stocks-selloff.html",
     "zeit": "2026-10-29T02:14:14+00:00",
@@ -493,22 +545,6 @@
     "titel": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
     "link": "https://www.cnbc.com/2026/10/28/neocloud-stocks-drop-after-microsoft-revises-capex-down.html",
     "zeit": "2026-10-29T00:16:39+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Inside India newsletter: New Delhi approves $22 billion in military spending amid China border tensions",
-    "link": "https://www.cnbc.com/2026/10/29/india-china-us-israel-military-spending.html",
-    "zeit": "2026-10-29T00:11:14+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "As Waymo expands overseas, it remains a niche cash-burning business",
-    "link": "https://www.cnbc.com/2026/10/28/as-waymo-expands-overseas-it-remains-a-niche-cash-burning-business.html",
-    "zeit": "2026-10-28T23:53:58+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -557,14 +593,6 @@
     "titel": "Gegen hohe Energiekosten: Grossbritannien bittet die Banken zur Kasse",
     "link": "https://www.nzz.ch/wirtschaft/grossbritannien-banken-zahlen-mehr-fuer-entlastung-bei-energiekosten-ld.10047001",
     "zeit": "2026-10-28T17:10:58+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Bei Rieter tritt der Sanierer trotz unvollendeter Arbeit ab",
-    "link": "https://www.nzz.ch/wirtschaft/bei-rieter-tritt-der-sanierer-nach-unvollendeter-arbeit-ab-ld.10046989",
-    "zeit": "2026-10-28T16:29:15+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
@@ -642,14 +670,6 @@
     "sprache": "de"
    },
    {
-    "titel": "BNP Paribas profitiert vom Investmentbanking",
-    "link": "https://www.finews.ch/news/banken/74190-bnp-paribas-drittes-quartal-investmentbanking-mehr-verdient-als-erwartet-milliardenschwerer-aktienrueckkauf",
-    "zeit": "2026-10-28T06:34:32+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Geschwister zementieren Macht – Anthropic-Börsengang macht Firmengründer zu Milliardären",
     "link": "https://www.srf.ch/news/wirtschaft/geschwister-zementieren-macht-anthropic-boersengang-macht-firmengruender-zu-milliardaeren",
     "zeit": "2026-10-28T05:09:13+00:00",
@@ -669,14 +689,6 @@
     "titel": "Kostendruck wegen KI-Ausbau – Microsoft bietet 60'000 Mitarbeitern Abgangsentschädigung an",
     "link": "https://www.srf.ch/news/wirtschaft/kostendruck-wegen-ki-ausbau-microsoft-bietet-60-000-mitarbeitern-abgangsentschaedigung-an",
     "zeit": "2026-10-26T20:23:21+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Migros im Umbruch – Skandale und Verluste beschleunigen Fusion der Genossenschaften",
-    "link": "https://www.srf.ch/news/wirtschaft/migros-im-umbruch-skandale-und-verluste-beschleunigen-fusion-der-genossenschaften",
-    "zeit": "2026-10-26T15:59:51+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
