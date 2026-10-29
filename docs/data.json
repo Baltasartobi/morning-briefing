@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-29T08:58:35+01:00",
+ "aktualisiert": "2026-10-29T09:51:38+01:00",
  "kernaussagen": [
-  "SMI −0.11%, Nikkei 225 +1.10% führt",
-  "Franken schwächer: EUR/CHF 0.9229 (+0.07%)",
-  "Brent über 100 USD: 110.68 (−4.02%)"
+  "SMI +0.94%, Nikkei 225 +1.10% führt",
+  "Franken stabil: EUR/CHF 0.9221 (−0.02%)",
+  "Brent über 100 USD: 110.50 (−4.18%)"
  ],
  "maerkte": [
   {
@@ -12,17 +12,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14581.099609375,
-   "vortag": 14597.6298828125,
-   "veraenderung_pct": -0.11323943386839508,
-   "datum": "2026-10-28",
-   "ist_heute": false,
+   "kurs": 14718.2900390625,
+   "vortag": 14581.099609375,
+   "veraenderung_pct": 0.9408784890221344,
+   "datum": "2026-10-29",
+   "ist_heute": true,
    "verlauf": [
-    14547.969727,
     14462.360352,
     14538.950195,
     14597.629883,
-    14581.099609
+    14581.099609,
+    14718.290039
    ]
   },
   {
@@ -31,17 +31,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25704.01953125,
-   "vortag": 25590.76953125,
-   "veraenderung_pct": 0.4425423778745996,
-   "datum": "2026-10-28",
-   "ist_heute": false,
+   "kurs": 25860.400390625,
+   "vortag": 25704.01953125,
+   "veraenderung_pct": 0.6083906806282791,
+   "datum": "2026-10-29",
+   "ist_heute": true,
    "verlauf": [
-    25371.75,
     25181.650391,
     25410.839844,
     25590.769531,
-    25704.019531
+    25704.019531,
+    25860.400391
    ]
   },
   {
@@ -50,17 +50,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6167.81005859375,
-   "vortag": 6164.68994140625,
-   "veraenderung_pct": 0.050612718841591686,
-   "datum": "2026-10-28",
-   "ist_heute": false,
+   "kurs": 6172.669921875,
+   "vortag": 6167.81005859375,
+   "veraenderung_pct": 0.07879398417074412,
+   "datum": "2026-10-29",
+   "ist_heute": true,
    "verlauf": [
-    6087.009766,
     6068.220215,
     6116.22998,
     6164.689941,
-    6167.810059
+    6167.810059,
+    6172.669922
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9229000210762024,
+   "kurs": 0.9221000075340271,
    "vortag": 0.922290027141571,
-   "veraenderung_pct": 0.06613905785384233,
+   "veraenderung_pct": -0.020603020953491313,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92408,
     0.92479,
     0.92229,
-    0.9229
+    0.9221
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8281999826431274,
+   "kurs": 0.82819002866745,
    "vortag": 0.8288000226020813,
-   "veraenderung_pct": -0.07239864172179367,
+   "veraenderung_pct": -0.07359965226789722,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82383,
     0.82755,
     0.8288,
-    0.8282
+    0.82819
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4039.5,
+   "kurs": 4039.60009765625,
    "vortag": 4051.60009765625,
-   "veraenderung_pct": -0.29864985103662534,
+   "veraenderung_pct": -0.2961792800563301,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4038.399902,
     4074.600098,
     4051.600098,
-    4039.5
+    4039.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.68000030517578,
+   "kurs": 110.5,
    "vortag": 115.31999969482422,
-   "veraenderung_pct": -4.023586023176762,
+   "veraenderung_pct": -4.179673697172714,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     115.809998,
     113.879997,
     115.32,
-    110.68
+    110.5
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 79761.3671875,
+   "kurs": 79810.40625,
    "vortag": 81267.5859375,
-   "veraenderung_pct": -1.8534065367197927,
+   "veraenderung_pct": -1.7930638282041111,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     80006.65625,
     80805.078125,
     81267.585938,
-    79761.367188
+    79810.40625
    ]
   }
  ],
@@ -278,17 +278,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.25,
-   "vortag": 83.7300033569336,
-   "veraenderung_pct": -0.5732752152025844,
-   "datum": "2026-10-27",
-   "ist_heute": false,
+   "kurs": 83.66000366210938,
+   "vortag": 83.25,
+   "veraenderung_pct": 0.49249689142267794,
+   "datum": "2026-10-29",
+   "ist_heute": true,
    "verlauf": [
-    83.470001,
     84.370003,
     83.699997,
     83.730003,
-    83.25
+    83.25,
+    83.660004
    ]
   },
   {
@@ -297,17 +297,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 129.22000122070312,
-   "vortag": 128.77999877929688,
-   "veraenderung_pct": 0.341669859898297,
-   "datum": "2026-10-28",
-   "ist_heute": false,
+   "kurs": 131.75999450683594,
+   "vortag": 129.22000122070312,
+   "veraenderung_pct": 1.965634779552894,
+   "datum": "2026-10-29",
+   "ist_heute": true,
    "verlauf": [
-    128.880005,
     128.0,
     127.480003,
     128.779999,
-    129.220001
+    129.220001,
+    131.759995
    ]
   },
   {
@@ -316,17 +316,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 398.79998779296875,
-   "vortag": 399.0,
-   "veraenderung_pct": -0.050128372689539624,
-   "datum": "2026-10-28",
-   "ist_heute": false,
+   "kurs": 400.6000061035156,
+   "vortag": 398.79998779296875,
+   "veraenderung_pct": 0.4513586674133263,
+   "datum": "2026-10-29",
+   "ist_heute": true,
    "verlauf": [
-    392.100006,
     390.899994,
     396.5,
     399.0,
-    398.799988
+    398.799988,
+    400.600006
    ]
   },
   {
@@ -335,17 +335,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 38.599998474121094,
-   "vortag": 38.84000015258789,
-   "veraenderung_pct": -0.6179239895054534,
-   "datum": "2026-10-28",
-   "ist_heute": false,
+   "kurs": 39.29999923706055,
+   "vortag": 38.599998474121094,
+   "veraenderung_pct": 1.8134735508053446,
+   "datum": "2026-10-29",
+   "ist_heute": true,
    "verlauf": [
-    38.389999,
     38.32,
     38.580002,
     38.84,
-    38.599998
+    38.599998,
+    39.299999
    ]
   }
  ],
@@ -376,16 +376,48 @@
    {
     "titel": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
     "link": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html",
-    "zeit": "2026-10-29T07:55:21+00:00",
+    "zeit": "2026-10-29T08:46:38+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Staaten mit Schulden – Was sind Staatsanleihen und wie funktionieren sie?",
+    "link": "https://www.srf.ch/news/wirtschaft/staaten-mit-schulden-was-sind-staatsanleihen-und-wie-funktionieren-sie",
+    "zeit": "2026-10-29T08:37:31+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Autoindustrie in der Krise – Volkswagen meldet fast 6 Milliarden Euro Verlust",
     "link": "https://www.srf.ch/news/wirtschaft/autoindustrie-in-der-krise-volkswagen-meldet-fast-6-milliarden-euro-verlust",
     "zeit": "2026-10-29T07:39:17+00:00",
     "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "CFO-Stimmung so optimistisch wie lange nicht",
+    "link": "https://www.finews.ch/news/finanzplatz/74226-deloitte-cfo-stimmungs-barometer-herbst-2026",
+    "zeit": "2026-10-29T07:37:10+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks",
+    "link": "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
+    "zeit": "2026-10-29T07:35:45+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Führungswechsel bei LGT Capital Partners",
+    "link": "https://www.finews.ch/news/finanzplatz/74225-lgt-capital-partners-neuer-ceo-sascha-gruber",
+    "zeit": "2026-10-29T07:18:49+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -542,14 +574,6 @@
     "sprache": "en"
    },
    {
-    "titel": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
-    "link": "https://www.cnbc.com/2026/10/28/neocloud-stocks-drop-after-microsoft-revises-capex-down.html",
-    "zeit": "2026-10-29T00:16:39+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "MELDUNGEN WIRTSCHAFT - Googles Muttergesellschaft Alphabet verfehlt Umsatzerwartungen +++ Deutsche Bank erzielt Milliardengewinn im dritten Quartal",
     "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
     "zeit": "2026-10-28T21:33:08+00:00",
@@ -654,22 +678,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Temenos hebt Gewinnprognose an",
-    "link": "https://www.finews.ch/news/finanzplatz/74195-temenos-drittes-quartal-gewinn-staerker-steigen-jahresprognose-softwareeinnahmen",
-    "zeit": "2026-10-28T07:47:36+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Neue Firma unterstützt Finanzdienstleister bei Compliance",
-    "link": "https://www.finews.ch/news/finanzplatz/74191-firmenfels-governance-risk-compliance-dominic-goerg-kim-weber-hanspeter-biedermann-ulrichvonbassewitz-patrick-gauch",
-    "zeit": "2026-10-28T06:40:42+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Geschwister zementieren Macht – Anthropic-Börsengang macht Firmengründer zu Milliardären",
     "link": "https://www.srf.ch/news/wirtschaft/geschwister-zementieren-macht-anthropic-boersengang-macht-firmengruender-zu-milliardaeren",
     "zeit": "2026-10-28T05:09:13+00:00",
@@ -681,14 +689,6 @@
     "titel": "Proteste in Frankreich – Lösen die Demos in Frankreich einen Flächenbrand in Europa aus?",
     "link": "https://www.srf.ch/news/wirtschaft/proteste-in-frankreich-loesen-die-demos-in-frankreich-einen-flaechenbrand-in-europa-aus",
     "zeit": "2026-10-27T06:28:13+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Kostendruck wegen KI-Ausbau – Microsoft bietet 60'000 Mitarbeitern Abgangsentschädigung an",
-    "link": "https://www.srf.ch/news/wirtschaft/kostendruck-wegen-ki-ausbau-microsoft-bietet-60-000-mitarbeitern-abgangsentschaedigung-an",
-    "zeit": "2026-10-26T20:23:21+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
