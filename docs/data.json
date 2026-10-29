@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-29T13:49:28+01:00",
+ "aktualisiert": "2026-10-29T14:58:33+01:00",
  "kernaussagen": [
-  "SMI +1.29%, Nikkei 225 +1.10% führt",
-  "Franken stabil: EUR/CHF 0.9225 (+0.03%)",
-  "Brent über 100 USD: 110.47 (−4.21%)"
+  "SMI +1.68%, Nasdaq −1.51% am schwächsten",
+  "Franken stabil: EUR/CHF 0.9219 (−0.05%)",
+  "Brent über 100 USD: 109.13 (−5.37%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14769.7900390625,
+   "kurs": 14826.580078125,
    "vortag": 14581.099609375,
-   "veraenderung_pct": 1.2940754452166248,
+   "veraenderung_pct": 1.6835525119941464,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14538.950195,
     14597.629883,
     14581.099609,
-    14769.790039
+    14826.580078
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25940.94921875,
+   "kurs": 26075.279296875,
    "vortag": 25704.01953125,
-   "veraenderung_pct": 0.9217612335376213,
+   "veraenderung_pct": 1.4443646262158882,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25410.839844,
     25590.769531,
     25704.019531,
-    25940.949219
+    26075.279297
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6184.9599609375,
+   "kurs": 6210.509765625,
    "vortag": 6167.81005859375,
-   "veraenderung_pct": 0.2780549689570089,
+   "veraenderung_pct": 0.6922993189739213,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6116.22998,
     6164.689941,
     6167.810059,
-    6184.959961
+    6210.509766
    ]
   },
   {
@@ -69,17 +69,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7743.97998046875,
-   "vortag": 7722.60009765625,
-   "veraenderung_pct": 0.27684824466034375,
-   "datum": "2026-10-28",
-   "ist_heute": false,
+   "kurs": 7706.0400390625,
+   "vortag": 7743.97998046875,
+   "veraenderung_pct": -0.4899281958623214,
+   "datum": "2026-10-29",
+   "ist_heute": true,
    "verlauf": [
-    7663.430176,
     7623.680176,
     7676.77002,
     7722.600098,
-    7743.97998
+    7743.97998,
+    7706.040039
    ]
   },
   {
@@ -88,17 +88,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26549.849609375,
-   "vortag": 26477.810546875,
-   "veraenderung_pct": 0.2720733361712968,
-   "datum": "2026-10-28",
-   "ist_heute": false,
+   "kurs": 26149.45703125,
+   "vortag": 26549.849609375,
+   "veraenderung_pct": -1.5080785165111354,
+   "datum": "2026-10-29",
+   "ist_heute": true,
    "verlauf": [
-    26008.859375,
     25955.339844,
     26169.380859,
     26477.810547,
-    26549.849609
+    26549.849609,
+    26149.457031
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9225299954414368,
+   "kurs": 0.9218500256538391,
    "vortag": 0.922290027141571,
-   "veraenderung_pct": 0.026018746034739415,
+   "veraenderung_pct": -0.04770749707612154,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92408,
     0.92479,
     0.92229,
-    0.92253
+    0.92185
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.82819002866745,
+   "kurs": 0.828029990196228,
    "vortag": 0.8288000226020813,
-   "veraenderung_pct": -0.07359965226789722,
+   "veraenderung_pct": -0.0929093128443359,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82383,
     0.82755,
     0.8288,
-    0.82819
+    0.82803
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4041.300048828125,
+   "kurs": 4039.199951171875,
    "vortag": 4051.60009765625,
-   "veraenderung_pct": -0.2542217538715974,
+   "veraenderung_pct": -0.30605553819460507,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4038.399902,
     4074.600098,
     4051.600098,
-    4041.300049
+    4039.199951
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.47000122070312,
+   "kurs": 109.12999725341797,
    "vortag": 115.31999969482422,
-   "veraenderung_pct": -4.205687206864228,
+   "veraenderung_pct": -5.367674694577773,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     115.809998,
     113.879997,
     115.32,
-    110.470001
+    109.129997
    ]
   },
   {
@@ -203,19 +203,7 @@
    "symbol": "BTC-USD",
    "einheit": "USD",
    "dezimalen": 0,
-   "verfuegbar": true,
-   "kurs": 79940.9765625,
-   "vortag": 81267.5859375,
-   "veraenderung_pct": -1.6323966802954448,
-   "datum": "2026-10-29",
-   "ist_heute": true,
-   "verlauf": [
-    80024.007812,
-    80006.65625,
-    80805.078125,
-    81267.585938,
-    79940.976562
-   ]
+   "verfuegbar": false
   }
  ],
  "zinsen": [
@@ -257,9 +245,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 5.03,
+   "wert": 4.974,
    "vortag": 5.045,
-   "veraenderung_bp": -1.5,
+   "veraenderung_bp": -7.1,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +255,7 @@
     4.986,
     4.993,
     5.045,
-    5.03
+    4.974
    ]
   }
  ],
@@ -278,9 +266,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.02999877929688,
+   "kurs": 83.23999786376953,
    "vortag": 82.80999755859375,
-   "veraenderung_pct": 0.26566987947012066,
+   "veraenderung_pct": 0.5192613426555415,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +276,7 @@
     83.730003,
     83.25,
     82.809998,
-    83.029999
+    83.239998
    ]
   },
   {
@@ -297,9 +285,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 133.33999633789062,
+   "kurs": 133.6199951171875,
    "vortag": 129.22000122070312,
-   "veraenderung_pct": 3.1883571260386434,
+   "veraenderung_pct": 3.4050409030482287,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +295,7 @@
     127.480003,
     128.779999,
     129.220001,
-    133.339996
+    133.619995
    ]
   },
   {
@@ -316,9 +304,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 400.8999938964844,
+   "kurs": 402.1000061035156,
    "vortag": 398.79998779296875,
-   "veraenderung_pct": 0.5265812858063157,
+   "veraenderung_pct": 0.8274870640818666,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +314,7 @@
     396.5,
     399.0,
     398.799988,
-    400.899994
+    402.100006
    ]
   },
   {
@@ -335,9 +323,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.45000076293945,
+   "kurs": 39.70000076293945,
    "vortag": 38.599998474121094,
-   "veraenderung_pct": 2.202078555490705,
+   "veraenderung_pct": 2.8497469748757664,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +333,7 @@
     38.580002,
     38.84,
     38.599998,
-    39.450001
+    39.700001
    ]
   }
  ],
@@ -374,9 +362,9 @@
   ],
   "artikel": [
    {
-    "titel": "DoorDash to acquire Instacart for $17 billion",
-    "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
-    "zeit": "2026-10-29T12:48:50+00:00",
+    "titel": "Analysis: Kevin Warsh is keeping Wall Street guessing. It may be his most powerful tool.",
+    "link": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
+    "zeit": "2026-10-29T13:51:17+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,7 +372,7 @@
    {
     "titel": "President of the European Central Bank Christine Lagarde to step down. Here's who is tipped to replace her",
     "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
-    "zeit": "2026-10-29T12:43:38+00:00",
+    "zeit": "2026-10-29T13:50:58+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -392,21 +380,61 @@
    {
     "titel": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
     "link": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
-    "zeit": "2026-10-29T12:42:19+00:00",
+    "zeit": "2026-10-29T13:50:36+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Analysis: Kevin Warsh is keeping his options open — and Wall Street guessing",
-    "link": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
-    "zeit": "2026-10-29T12:38:18+00:00",
+    "titel": "Anthropic CEO Dario Amodei charts a new direction for tech philanthropy",
+    "link": "https://www.cnbc.com/2026/10/29/anthropic-ceo-dario-amodei-charts-new-direction-for-tech-philanthropy.html",
+    "zeit": "2026-10-29T13:44:56+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Der vorzeitige Rücktritt von Christine Lagarde beschleunigt den Poker um die EZB-Spitze",
+    "titel": "DoorDash to acquire Instacart for $17 billion",
+    "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
+    "zeit": "2026-10-29T13:44:32+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Restaurant Brands reports mixed results as Burger King's U.S. turnaround shows signs of success",
+    "link": "https://www.cnbc.com/2026/10/29/restaurant-brands-international-qsr-q3-2026-earnings.html",
+    "zeit": "2026-10-29T13:41:43+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "European Central Bank keeps key interest rate on hold at 2.5%",
+    "link": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
+    "zeit": "2026-10-29T13:41:39+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Europäische Zentralbank – Nach Rücktrittsankündigung: Lagarde belässt Leitzins",
+    "link": "https://www.srf.ch/news/wirtschaft/europaeische-zentralbank-nach-ruecktrittsankuendigung-lagarde-belaesst-leitzins",
+    "zeit": "2026-10-29T13:32:31+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+    "link": "https://www.cnbc.com/investingclub/2026/10/29/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+    "zeit": "2026-10-29T13:13:08+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Der vorzeitige Abschied von Christine Lagarde beschleunigt den Poker um die EZB-Spitze",
     "link": "https://www.nzz.ch/wirtschaft/ezb-praesidentin-christine-lagarde-tritt-zurueck-ld.10048282",
     "zeit": "2026-10-29T12:30:13+00:00",
     "quelle": "NZZ Wirtschaft",
@@ -430,50 +458,10 @@
     "sprache": "en"
    },
    {
-    "titel": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks",
-    "link": "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
-    "zeit": "2026-10-29T12:06:03+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Kalshi valuation jumps to $40 billion in latest funding round",
-    "link": "https://www.cnbc.com/2026/10/29/kalshi-40-billion-valuation-funding-round.html",
-    "zeit": "2026-10-29T12:05:18+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Warren urges DOJ criminal probe of Bank of America over anti-money-laundering violations",
-    "link": "https://www.cnbc.com/2026/10/29/warren-bank-of-america-criminal-probe.html",
-    "zeit": "2026-10-29T12:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Family offices can save millions with this tax strategy but it can strain family ties",
-    "link": "https://www.cnbc.com/2026/10/29/family-offices-can-save-big-with-this-tax-strategy-but-theres-a-catch.html",
-    "zeit": "2026-10-29T12:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Der Milliardenverlust von VW erhöht den Spardruck im Konzern",
     "link": "https://www.nzz.ch/wirtschaft/der-milliardenverlust-von-vw-erhoeht-den-spardruck-im-konzern-ld.10048102",
     "zeit": "2026-10-29T11:23:51+00:00",
     "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Europäischen Zentralbank – EZB-Präsidentin Christine Lagarde tritt vorzeitig ab",
-    "link": "https://www.srf.ch/news/wirtschaft/europaeischen-zentralbank-ezb-praesidentin-christine-lagarde-tritt-vorzeitig-ab",
-    "zeit": "2026-10-29T10:45:46+00:00",
-    "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
