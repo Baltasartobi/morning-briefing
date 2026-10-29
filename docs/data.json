@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-29T19:46:23+01:00",
+ "aktualisiert": "2026-10-29T20:47:50+01:00",
  "kernaussagen": [
-  "SMI +1.21%, Nasdaq −1.68% am schwächsten",
-  "Franken stabil: EUR/CHF 0.9223 (−0.00%)",
-  "Brent über 100 USD: 110.85 (−3.88%)"
+  "SMI +1.21%, Nasdaq −1.56% am schwächsten",
+  "Franken stabil: EUR/CHF 0.9221 (−0.02%)",
+  "Brent über 100 USD: 110.99 (−3.75%)"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7695.7900390625,
+   "kurs": 7707.77978515625,
    "vortag": 7743.97998046875,
-   "veraenderung_pct": -0.6222890752273447,
+   "veraenderung_pct": -0.4674624082681156,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7676.77002,
     7722.600098,
     7743.97998,
-    7695.790039
+    7707.779785
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26104.970703125,
+   "kurs": 26136.798828125,
    "vortag": 26549.849609375,
-   "veraenderung_pct": -1.6756362570615413,
+   "veraenderung_pct": -1.5557556345032864,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26169.380859,
     26477.810547,
     26549.849609,
-    26104.970703
+    26136.798828
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9222699999809265,
+   "kurs": 0.9221000075340271,
    "vortag": 0.922290027141571,
-   "veraenderung_pct": -0.002171460175770523,
+   "veraenderung_pct": -0.020603020953491313,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92408,
     0.92479,
     0.92229,
-    0.92227
+    0.9221
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.826229989528656,
+   "kurs": 0.8257799744606018,
    "vortag": 0.8288000226020813,
-   "veraenderung_pct": -0.3100908546498915,
+   "veraenderung_pct": -0.3643880380212572,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82383,
     0.82755,
     0.8288,
-    0.82623
+    0.82578
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4018.199951171875,
+   "kurs": 4030.199951171875,
    "vortag": 4051.60009765625,
-   "veraenderung_pct": -0.8243692782931911,
+   "veraenderung_pct": -0.528189998236861,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4038.399902,
     4074.600098,
     4051.600098,
-    4018.199951
+    4030.199951
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.8499984741211,
+   "kurs": 110.98999786376953,
    "vortag": 115.31999969482422,
-   "veraenderung_pct": -3.8761717243602667,
+   "veraenderung_pct": -3.7547709352352965,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     115.809998,
     113.879997,
     115.32,
-    110.849998
+    110.989998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80579.796875,
+   "kurs": 80778.140625,
    "vortag": 81267.5859375,
-   "veraenderung_pct": -0.8463264345380583,
+   "veraenderung_pct": -0.6022638753861997,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     80006.65625,
     80805.078125,
     81267.585938,
-    80579.796875
+    80778.140625
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.991,
+   "wert": 4.989,
    "vortag": 5.045,
-   "veraenderung_bp": -5.4,
+   "veraenderung_bp": -5.6,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     4.986,
     4.993,
     5.045,
-    4.991
+    4.989
    ]
   }
  ],
@@ -296,7 +296,19 @@
    "symbol": "NOVN.SW",
    "einheit": "CHF",
    "dezimalen": 2,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 132.3000030517578,
+   "vortag": 129.22000122070312,
+   "veraenderung_pct": 2.383533355485845,
+   "datum": "2026-10-29",
+   "ist_heute": true,
+   "verlauf": [
+    128.0,
+    127.480003,
+    128.779999,
+    129.220001,
+    132.300003
+   ]
   },
   {
    "name": "Roche GS",
@@ -362,6 +374,46 @@
   ],
   "artikel": [
    {
+    "titel": "Some Polymarket user funds stolen by hackers, exchange referring matter to U.K. authorities",
+    "link": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
+    "zeit": "2026-10-29T19:40:13+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Cruise companies aim to keep fuel costs down. Their strategies for doing so differ",
+    "link": "https://www.cnbc.com/2026/10/29/royal-caribbean-carnival-norwegian-fuel-costs.html",
+    "zeit": "2026-10-29T19:36:04+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations were 'investigated and debunked'",
+    "link": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html",
+    "zeit": "2026-10-29T19:16:32+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "We’re downgrading Alphabet after its rough quarter. Here’s where we’d buy again",
+    "link": "https://www.cnbc.com/investingclub/2026/10/29/were-downgrading-alphabet-after-a-rough-quarter-where-wed-buy-again.html",
+    "zeit": "2026-10-29T19:12:06+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Rare Stanley Druckenmiller post sends crypto-linked stock surging",
+    "link": "https://www.cnbc.com/2026/10/29/druckenmiller-hyperliquid-surge.html",
+    "zeit": "2026-10-29T18:53:50+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Alaska Gov. orders probe of Peltola Senate campaign's alleged recruitment of 2nd Sullivan",
     "link": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
     "zeit": "2026-10-29T18:32:08+00:00",
@@ -386,22 +438,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Cruise companies aim to keep fuel costs down. Their strategies for doing so differ",
-    "link": "https://www.cnbc.com/2026/10/29/royal-caribbean-carnival-norwegian-fuel-costs.html",
-    "zeit": "2026-10-29T17:45:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "We're raising our price target on Eli Lilly as the obesity-drug boom rolls on",
-    "link": "https://www.cnbc.com/investingclub/2026/10/29/were-raising-our-eli-lilly-price-target-as-obesity-drug-boom-continues.html",
-    "zeit": "2026-10-29T17:44:21+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Some investors have midterm election jitters. Here’s what history shows about stocks",
     "link": "https://www.cnbc.com/2026/10/29/midterm-elections-stock-market-history.html",
     "zeit": "2026-10-29T17:27:10+00:00",
@@ -413,30 +449,6 @@
     "titel": "Aon CEO warns AI data center insurance risks could threaten financing",
     "link": "https://www.cnbc.com/2026/10/29/aon-ai-data-center-insurance-financing.html",
     "zeit": "2026-10-29T17:22:13+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity market expansion",
-    "link": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
-    "zeit": "2026-10-29T16:46:07+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
-    "link": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
-    "zeit": "2026-10-29T16:25:40+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Norwegian shares surge 13% on earnings beat, guidance raise",
-    "link": "https://www.cnbc.com/2026/10/29/norwegian-earnings-guidance-shares.html",
-    "zeit": "2026-10-29T16:23:37+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
