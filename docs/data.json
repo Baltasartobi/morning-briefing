@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-29T06:42:30+01:00",
+ "aktualisiert": "2026-10-29T07:50:18+01:00",
  "kernaussagen": [
-  "SMI −0.11%, Nikkei 225 +1.15% führt",
-  "Franken schwächer: EUR/CHF 0.9235 (+0.13%)",
-  "Brent über 100 USD: 110.03 (−4.59%)"
+  "SMI −0.11%, Nikkei 225 +1.10% führt",
+  "Franken schwächer: EUR/CHF 0.9229 (+0.07%)",
+  "Brent über 100 USD: 110.56 (−4.13%)"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 64692.1015625,
+   "kurs": 64659.46875,
    "vortag": 63954.19140625,
-   "veraenderung_pct": 1.1538104696886098,
+   "veraenderung_pct": 1.1027851783316889,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     62189.648438,
     63268.371094,
     63954.191406,
-    64692.101562
+    64659.46875
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9234600067138672,
+   "kurs": 0.9229400157928467,
    "vortag": 0.922290027141571,
-   "veraenderung_pct": 0.12685592794732248,
+   "veraenderung_pct": 0.0704755155263026,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92408,
     0.92479,
     0.92229,
-    0.92346
+    0.92294
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8288699984550476,
+   "kurs": 0.8285700082778931,
    "vortag": 0.8288000226020813,
-   "veraenderung_pct": 0.008443032222249514,
+   "veraenderung_pct": -0.027752692798688194,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82383,
     0.82755,
     0.8288,
-    0.82887
+    0.82857
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4051.89990234375,
+   "kurs": 4041.39990234375,
    "vortag": 4051.60009765625,
-   "veraenderung_pct": 0.007399661375107058,
+   "veraenderung_pct": -0.25175720867418594,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4038.399902,
     4074.600098,
     4051.600098,
-    4051.899902
+    4041.399902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.02999877929688,
+   "kurs": 110.55999755859375,
    "vortag": 115.31999969482422,
-   "veraenderung_pct": -4.587236324598054,
+   "veraenderung_pct": -4.127646677789665,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     115.809998,
     113.879997,
     115.32,
-    110.029999
+    110.559998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80197.890625,
+   "kurs": 79814.6484375,
    "vortag": 80805.078125,
-   "veraenderung_pct": -0.7514224527581326,
+   "veraenderung_pct": -1.2257022831756559,
    "datum": "2026-10-29",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     80024.007812,
     80006.65625,
     80805.078125,
-    80197.890625
+    79814.648438
    ]
   }
  ],
@@ -296,19 +296,7 @@
    "symbol": "NOVN.SW",
    "einheit": "CHF",
    "dezimalen": 2,
-   "verfuegbar": true,
-   "kurs": 129.22000122070312,
-   "vortag": 128.77999877929688,
-   "veraenderung_pct": 0.341669859898297,
-   "datum": "2026-10-28",
-   "ist_heute": false,
-   "verlauf": [
-    128.880005,
-    128.0,
-    127.480003,
-    128.779999,
-    129.220001
-   ]
+   "verfuegbar": false
   },
   {
    "name": "Roche GS",
@@ -374,8 +362,32 @@
   ],
   "artikel": [
    {
-    "titel": "Entlassen von der UBS – Stellenvermittler: «Es gibt Personen, die wir auffangen müssen»",
-    "link": "https://www.srf.ch/news/wirtschaft/entlassen-von-der-ubs-stellenvermittler-es-gibt-personen-die-wir-auffangen-muessen",
+    "titel": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+    "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+    "zeit": "2026-10-29T06:03:35+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "EEII prüft Übernahme von Beteiligungen von Haute Capital Partners",
+    "link": "https://www.finews.ch/news/finanzplatz/74220-eeii-haute-capital-transaktion-mou-uebernahme",
+    "zeit": "2026-10-29T05:45:46+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Vontobel mit Rekord bei verwalteten Vermögen",
+    "link": "https://www.finews.ch/news/banken/74219-vontobel-handelsupdate-neunmonate-2026-aum",
+    "zeit": "2026-10-29T05:22:14+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Entlassen von der UBS – Job weg – die Chancen der ehemaligen Banker",
+    "link": "https://www.srf.ch/news/wirtschaft/entlassen-von-der-ubs-job-weg-die-chancen-der-ehemaligen-banker",
     "zeit": "2026-10-29T05:04:15+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
@@ -497,14 +509,6 @@
     "titel": "As Waymo expands overseas, it remains a niche cash-burning business",
     "link": "https://www.cnbc.com/2026/10/28/as-waymo-expands-overseas-it-remains-a-niche-cash-burning-business.html",
     "zeit": "2026-10-28T23:53:58+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "One passport isn’t enough for some wealthy Chinese. Here’s where they’re looking next",
-    "link": "https://www.cnbc.com/2026/10/29/where-chinas-wealthy-are-turning-for-second-passports.html",
-    "zeit": "2026-10-28T23:38:00+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -641,22 +645,6 @@
     "titel": "BNP Paribas profitiert vom Investmentbanking",
     "link": "https://www.finews.ch/news/banken/74190-bnp-paribas-drittes-quartal-investmentbanking-mehr-verdient-als-erwartet-milliardenschwerer-aktienrueckkauf",
     "zeit": "2026-10-28T06:34:32+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Garbe Private Capital expandiert in die Schweiz",
-    "link": "https://www.finews.ch/news/finanzplatz/74189-garbe-private-capital-zuerich-peter-paschke",
-    "zeit": "2026-10-28T06:21:49+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Deutsche Bank setzt Rekordserie fort – DWS enttäuscht beim Gewinn",
-    "link": "https://www.finews.ch/news/banken/74188-deutsche-bank-drittes-quartal-milliardengewinn-investmentbanking-vermoegensverwaltung-fondstochter-dws-rekordzufluesse-gewinn-unter-den-erwartungen",
-    "zeit": "2026-10-28T06:02:48+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
