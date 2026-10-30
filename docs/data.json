@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-29T21:41:30+01:00",
+ "aktualisiert": "2026-10-30T06:42:56+01:00",
  "kernaussagen": [
-  "SMI +1.21%, Nasdaq −1.38% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9218 (−0.06%)",
-  "Brent über 100 USD: 111.68 (−3.16%)"
+  "SMI +1.21%, Nikkei 225 −2.24% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9199 (−0.40%)",
+  "Bitcoin −3.38% auf 78'521 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -16,7 +16,7 @@
    "vortag": 14581.099609375,
    "veraenderung_pct": 1.2054011487205862,
    "datum": "2026-10-29",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     14462.360352,
     14538.950195,
@@ -35,7 +35,7 @@
    "vortag": 25704.01953125,
    "veraenderung_pct": 1.3058664067770342,
    "datum": "2026-10-29",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     25181.650391,
     25410.839844,
@@ -54,7 +54,7 @@
    "vortag": 6167.81005859375,
    "veraenderung_pct": 0.6365268264105994,
    "datum": "2026-10-29",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     6068.220215,
     6116.22998,
@@ -73,7 +73,7 @@
    "vortag": 7743.97998046875,
    "veraenderung_pct": -0.304621703691077,
    "datum": "2026-10-29",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     7623.680176,
     7676.77002,
@@ -88,17 +88,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26184.724609375,
+   "kurs": 26184.720703125,
    "vortag": 26549.849609375,
-   "veraenderung_pct": -1.3752431948656718,
+   "veraenderung_pct": -1.3752579077550342,
    "datum": "2026-10-29",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     25955.339844,
     26169.380859,
     26477.810547,
     26549.849609,
-    26184.724609
+    26184.720703
    ]
   },
   {
@@ -107,17 +107,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 63954.19140625,
-   "vortag": 63268.37109375,
-   "veraenderung_pct": 1.0839860433323967,
-   "datum": "2026-10-28",
-   "ist_heute": false,
+   "kurs": 63212.0,
+   "vortag": 64659.46875,
+   "veraenderung_pct": -2.238602911503196,
+   "datum": "2026-10-30",
+   "ist_heute": true,
    "verlauf": [
-    62907.839844,
-    62693.160156,
     62189.648438,
     63268.371094,
-    63954.191406
+    63954.191406,
+    64659.46875,
+    63212.0
    ]
   }
  ],
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.921779990196228,
-   "vortag": 0.922290027141571,
-   "veraenderung_pct": -0.05530114501224315,
-   "datum": "2026-10-29",
+   "kurs": 0.9198899865150452,
+   "vortag": 0.9236000180244446,
+   "veraenderung_pct": -0.4016924466215488,
+   "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
-    0.91995,
     0.92408,
     0.92479,
     0.92229,
-    0.92178
+    0.9236,
+    0.91989
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8245099782943726,
-   "vortag": 0.8288000226020813,
-   "veraenderung_pct": -0.5176211620071869,
-   "datum": "2026-10-29",
+   "kurs": 0.8225399851799011,
+   "vortag": 0.8279500007629395,
+   "veraenderung_pct": -0.6534229818289883,
+   "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
-    0.81981,
     0.82383,
     0.82755,
     0.8288,
-    0.82451
+    0.82795,
+    0.82254
    ]
   },
   {
@@ -166,17 +166,17 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4038.199951171875,
-   "vortag": 4051.60009765625,
-   "veraenderung_pct": -0.33073714486596684,
-   "datum": "2026-10-29",
+   "kurs": 4016.300048828125,
+   "vortag": 4031.39990234375,
+   "veraenderung_pct": -0.37455608179298716,
+   "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
-    4007.899902,
     4038.399902,
     4074.600098,
     4051.600098,
-    4038.199951
+    4031.399902,
+    4016.300049
    ]
   },
   {
@@ -185,17 +185,17 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.68000030517578,
-   "vortag": 115.31999969482422,
-   "veraenderung_pct": -3.1564337489430327,
-   "datum": "2026-10-29",
+   "kurs": 112.06999969482422,
+   "vortag": 114.87999725341797,
+   "veraenderung_pct": -2.4460285739692944,
+   "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
-    116.720001,
     115.809998,
     113.879997,
     115.32,
-    111.68
+    114.879997,
+    112.07
    ]
   },
   {
@@ -204,17 +204,17 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 79600.578125,
+   "kurs": 78520.9609375,
    "vortag": 81267.5859375,
-   "veraenderung_pct": -2.0512579440738365,
-   "datum": "2026-10-29",
+   "veraenderung_pct": -3.379730021896221,
+   "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
     80024.007812,
     80006.65625,
     80805.078125,
     81267.585938,
-    79600.578125
+    78520.960938
    ]
   }
  ],
@@ -244,7 +244,7 @@
    "vortag": 3.43,
    "veraenderung_bp": -1.0,
    "datum": "2026-10-29",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     3.39,
     3.43,
@@ -261,7 +261,7 @@
    "vortag": 5.045,
    "veraenderung_bp": -5.6,
    "datum": "2026-10-29",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     4.988,
     4.986,
@@ -282,7 +282,7 @@
    "vortag": 82.80999755859375,
    "veraenderung_pct": 0.0,
    "datum": "2026-10-29",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     83.699997,
     83.730003,
@@ -297,17 +297,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 132.3000030517578,
-   "vortag": 129.22000122070312,
-   "veraenderung_pct": 2.383533355485845,
-   "datum": "2026-10-29",
-   "ist_heute": true,
+   "kurs": 129.22000122070312,
+   "vortag": 128.77999877929688,
+   "veraenderung_pct": 0.341669859898297,
+   "datum": "2026-10-28",
+   "ist_heute": false,
    "verlauf": [
+    128.880005,
     128.0,
     127.480003,
     128.779999,
-    129.220001,
-    132.300003
+    129.220001
    ]
   },
   {
@@ -320,7 +320,7 @@
    "vortag": 398.79998779296875,
    "veraenderung_pct": 0.7271876887739559,
    "datum": "2026-10-29",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     390.899994,
     396.5,
@@ -339,7 +339,7 @@
    "vortag": 38.599998474121094,
    "veraenderung_pct": 2.8756493632914326,
    "datum": "2026-10-29",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     38.32,
     38.580002,
@@ -374,25 +374,105 @@
   ],
   "artikel": [
    {
-    "titel": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
-    "link": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
-    "zeit": "2026-10-29T20:35:59+00:00",
+    "titel": "Drohnen-Krieg in der Ukraine – Schweizer Teile auch in neuen russischen Waffen entdeckt",
+    "link": "https://www.srf.ch/news/schweiz/drohnen-krieg-in-der-ukraine-schweizer-teile-auch-in-neuen-russischen-waffen-entdeckt",
+    "zeit": "2026-10-30T04:56:31+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
+    "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+    "zeit": "2026-10-30T04:40:17+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Amazon misses on earnings and holds capex steady, adding to AI spending jitters",
-    "link": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
-    "zeit": "2026-10-29T20:35:26+00:00",
+    "titel": "Der Gaspreis knackt die 100-Euro-Marke: Europa droht ein ungemütlicher Winter",
+    "link": "https://www.nzz.ch/wirtschaft/der-gaspreis-knackt-die-100-euro-marke-europa-droht-ein-ungemuetlicher-winter-ld.10048155",
+    "zeit": "2026-10-30T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Trotz Widerstand Deutschlands und anderer EU-Länder: Ursula von der Leyen will Kanada «als erstes assoziiertes Mitglied» der EU",
+    "link": "https://www.nzz.ch/wirtschaft/trotz-widerstand-deutschlands-und-anderer-eu-laender-ursula-von-der-leyen-will-kanada-als-erstes-assoziiertes-mitglied-der-eu-ld.10048358",
+    "zeit": "2026-10-30T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "INTERVIEW - Migros-Chef Irminger über seinen Rücktritt: «Es ist besser, zu früh als zu spät aufzuhören»",
+    "link": "https://www.nzz.ch/wirtschaft/migros-chef-irminger-ueber-seinen-ruecktritt-es-ist-besser-zu-frueh-als-zu-spaet-aufzuhoeren-ld.10047402",
+    "zeit": "2026-10-30T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Russland kämpft um Einfluss in Afrika, aber sein Vormarsch auf dem Kontinent stockt",
+    "link": "https://www.nzz.ch/international/russland-kaempft-um-einfluss-in-afrika-aber-sein-vormarsch-auf-dem-kontinent-stockt-ld.10047990",
+    "zeit": "2026-10-30T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Der Tech-Backlash könnte den Ausgang der Midterms prägen",
+    "link": "https://www.nzz.ch/technologie/der-tech-backlash-koennte-den-ausgang-der-midterms-praegen-ld.10046648",
+    "zeit": "2026-10-30T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Xi Jinping will die Parteidisziplin verschärfen. Wovor hat er eigentlich Angst?",
+    "link": "https://www.nzz.ch/international/xi-jinping-will-die-parteidisziplin-verschaerfen-wovor-hat-er-eigentlich-angst-ld.10044818",
+    "zeit": "2026-10-30T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies",
+    "link": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
+    "zeit": "2026-10-30T04:29:03+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
-    "link": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
-    "zeit": "2026-10-29T20:35:04+00:00",
+    "titel": "GASTKOMMENTAR - Bisher war Deutschland Dreh- und Angelpunkt für die amerikanische Verbindung nach Ostmitteleuropa – nun wird es von Polen abgelöst",
+    "link": "https://www.nzz.ch/meinung/bisher-war-deutschland-dreh-und-angelpunkt-fuer-die-amerikanische-verbindung-nach-ostmitteleuropa-nun-wird-es-von-polen-abgeloest-ld.10026732",
+    "zeit": "2026-10-30T04:25:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "BOJ holds rates as underlying inflation aligns with 2% target for first time since 2013",
+    "link": "https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html",
+    "zeit": "2026-10-30T04:19:38+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Milliarden abgeflossen – Hackerangriff auf Kryptobörse Binance – Kryptohandel gestoppt",
+    "link": "https://www.srf.ch/news/wirtschaft/milliarden-abgeflossen-hackerangriff-auf-kryptoboerse-binance-kryptohandel-gestoppt",
+    "zeit": "2026-10-30T03:44:30+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Israel faces weeks of coalition haggling as Netanyahu’s party claims election 'stolen'",
+    "link": "https://www.cnbc.com/2026/10/30/israel-election-netanyahu-eisenkot-coalition-talks-.html",
+    "zeit": "2026-10-30T03:28:10+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -400,55 +480,55 @@
    {
     "titel": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
     "link": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
-    "zeit": "2026-10-29T20:30:24+00:00",
+    "zeit": "2026-10-30T01:46:36+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Starbucks sales fall short of expectations, but its U.S. turnaround continues to gain steam",
-    "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
-    "zeit": "2026-10-29T20:29:10+00:00",
+    "titel": "Gut ist im KI-Zeitalter nicht mehr gut genug: Amazon und Alphabet enttäuschen die Anleger",
+    "link": "https://www.nzz.ch/wirtschaft/gut-ist-im-ki-zeitalter-nicht-mehr-gut-genug-amazon-und-alphabet-enttaeuschen-die-anleger-ld.10048943",
+    "zeit": "2026-10-30T01:32:38+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Intel plunges on a major guidance miss. What went wrong — and how to proceed",
+    "link": "https://www.cnbc.com/investingclub/2026/10/29/intel-plunges-on-a-major-guidance-miss-what-went-wrong-how-to-proceed.html",
+    "zeit": "2026-10-30T01:06:07+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Alphabet tanks nearly 13% for worst day ever, losing $500 billion in value",
-    "link": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
-    "zeit": "2026-10-29T20:15:19+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Norwegian shares surge 13% on earnings beat, guidance raise",
-    "link": "https://www.cnbc.com/2026/10/29/norwegian-earnings-guidance-shares.html",
-    "zeit": "2026-10-29T20:14:15+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Aon CEO warns AI data center insurance risks could threaten financing",
-    "link": "https://www.cnbc.com/2026/10/29/aon-ai-data-center-insurance-financing.html",
-    "zeit": "2026-10-29T20:12:29+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Alaska Gov. orders probe of Peltola Senate campaign's alleged recruitment of 2nd Sullivan",
-    "link": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
-    "zeit": "2026-10-29T20:09:00+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Intel stock plunges 20% as chipmaker blames PC slowdown for weak guidance",
+    "titel": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
     "link": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
-    "zeit": "2026-10-29T20:06:00+00:00",
+    "zeit": "2026-10-30T00:39:52+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+    "link": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
+    "zeit": "2026-10-30T00:38:13+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
+    "link": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
+    "zeit": "2026-10-30T00:28:45+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "How elections worldwide are testing Trump’s influence abroad",
+    "link": "https://www.cnbc.com/2026/10/30/election-trump-brazil-serbia-hungary.html",
+    "zeit": "2026-10-30T00:13:22+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -510,10 +590,18 @@
     "sprache": "de"
    },
    {
-    "titel": "Der Milliardenverlust von VW erhöht den Spardruck im Konzern",
-    "link": "https://www.nzz.ch/wirtschaft/der-milliardenverlust-von-vw-erhoeht-den-spardruck-im-konzern-ld.10048102",
-    "zeit": "2026-10-29T11:23:51+00:00",
-    "quelle": "NZZ Wirtschaft",
+    "titel": "Rothorn Capital gründet Gesellschaft für Nachlassabwicklungen",
+    "link": "https://www.finews.ch/news/finanzplatz/74236-rothorn-capital-gesellschaft-nachlass",
+    "zeit": "2026-10-29T11:53:07+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "«Je volatiler die Welt wird, desto attraktiver wird die Schweiz»",
+    "link": "https://www.finews.ch/news/banken/74234-goldman-sachs-darren-allaway-family-offices-private-equity-sportinvestments-ki-schweiz",
+    "zeit": "2026-10-29T11:21:16+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -574,82 +662,10 @@
     "sprache": "de"
    },
    {
-    "titel": "DIE NEUESTEN ENTWICKLUNGEN - Krise bei Volkswagen: VW meldet neuen Milliardenverlust",
-    "link": "https://www.nzz.ch/wirtschaft/umbruch-bei-vw-was-in-den-kommenden-tagen-zu-erwarten-ist-ld.10020783",
-    "zeit": "2026-10-29T06:59:39+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Vermögensverwalter Bellecapital startet London-Offensive",
-    "link": "https://www.finews.ch/news/finanzplatz/74221-bellecapital-team-london-rathbones-team-valerie-von-stotzingen-relationship-manager-uk-mark-eberle",
-    "zeit": "2026-10-29T06:03:49+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "EEII prüft Übernahme von Beteiligungen von Haute Capital Partners",
-    "link": "https://www.finews.ch/news/finanzplatz/74220-eeii-haute-capital-transaktion-mou-uebernahme",
-    "zeit": "2026-10-29T05:45:46+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Entlassen von der UBS – Job weg – die Chancen der ehemaligen Banker",
     "link": "https://www.srf.ch/news/wirtschaft/entlassen-von-der-ubs-job-weg-die-chancen-der-ehemaligen-banker",
     "zeit": "2026-10-29T05:04:15+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Vom Himmel in die Hölle und zurück – nach Jahren des Krieges feiert Syriens Luftfahrt eine Auferstehung",
-    "link": "https://www.nzz.ch/wirtschaft/vom-himmel-in-die-hoelle-und-zurueck-nach-jahren-des-krieges-feiert-syriens-luftfahrt-eine-auferstehung-ld.10042327",
-    "zeit": "2026-10-29T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Netanyahu braucht Partner. Doch kaum jemand will noch mit ihm regieren",
-    "link": "https://www.nzz.ch/international/netanyahu-und-das-verlorene-vertrauen-seiner-frueheren-partner-ld.10047422",
-    "zeit": "2026-10-29T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "KOMMENTAR - Dreiergipfel in China: Die Welt wird sich Washington, Peking und Moskau nicht unterwerfen",
-    "link": "https://www.nzz.ch/meinung/dreiergipfel-in-china-die-welt-wird-sich-washington-peking-und-moskau-nicht-unterwerfen-ld.10047232",
-    "zeit": "2026-10-29T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Extremismus-Expertin: «In einzelnen Moscheevereinen gilt die Hamas als Vorbild»",
-    "link": "https://www.nzz.ch/international/tradwives-und-lauftraining-wie-oesterreichs-islamisten-werben-ld.10040734",
-    "zeit": "2026-10-29T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Wegen Trumps Mobbing besinnt sich Kanada auf seine Wurzeln – doch wie europäisch ist das Land wirklich?",
-    "link": "https://www.nzz.ch/international/kanada-und-seine-wurzeln-warum-ein-eu-beitritt-keine-option-ist-ld.10026470",
-    "zeit": "2026-10-29T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Washington zieht sich militärisch aus Asien zurück. Was bedeutet das für die amerikanischen Alliierten in der Region?",
-    "link": "https://www.nzz.ch/pro/was-bedeutet-der-amerikanische-rueckzug-fuer-die-alliierten-in-asien-ld.10022654",
-    "zeit": "2026-10-29T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -673,22 +689,6 @@
     "titel": "Drittes Quartal – UBS: 2.7 Milliarden Dollar Gewinn – CS-Integration 2026 beendet",
     "link": "https://www.srf.ch/news/wirtschaft/drittes-quartal-ubs-2-7-milliarden-dollar-gewinn-cs-integration-2026-beendet",
     "zeit": "2026-10-28T19:28:04+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Vernehmlassung eröffnet – Visa, Mastercard, Twint: Gebühren sollen transparenter werden",
-    "link": "https://www.srf.ch/news/schweiz/vernehmlassung-eroeffnet-visa-mastercard-twint-gebuehren-sollen-transparenter-werden",
-    "zeit": "2026-10-28T14:07:43+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Liefermarkt im Umbruch – Uber Eats fährt lokale Velokuriere aus dem Markt",
-    "link": "https://www.srf.ch/news/schweiz/liefermarkt-im-umbruch-uber-eats-faehrt-lokale-velokuriere-aus-dem-markt",
-    "zeit": "2026-10-28T09:52:44+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
