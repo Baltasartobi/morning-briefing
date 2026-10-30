@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-30T20:44:16+01:00",
+ "aktualisiert": "2026-10-30T21:37:26+01:00",
  "kernaussagen": [
-  "SMI +0.36%, Nasdaq −3.19% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9203 (−0.36%)",
-  "Gold −3.63% auf 3'884.90 USD/Unze · Brent über 100 USD"
+  "SMI +0.36%, Nasdaq −2.86% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9206 (−0.32%)",
+  "Gold −3.54% auf 3'888.80 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7557.419921875,
+   "kurs": 7580.06982421875,
    "vortag": 7720.39013671875,
-   "veraenderung_pct": -2.110906469203566,
+   "veraenderung_pct": -1.8175287778868343,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7722.600098,
     7743.97998,
     7720.390137,
-    7557.419922
+    7580.069824
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25349.79296875,
+   "kurs": 25436.998046875,
    "vortag": 26184.720703125,
-   "veraenderung_pct": -3.1886066070407115,
+   "veraenderung_pct": -2.8555685765277783,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26477.810547,
     26549.849609,
     26184.720703,
-    25349.792969
+    25436.998047
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9202899932861328,
+   "kurs": 0.9205999970436096,
    "vortag": 0.9236000180244446,
-   "veraenderung_pct": -0.3583829226629698,
+   "veraenderung_pct": -0.3248182029328972,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92479,
     0.92229,
     0.9236,
-    0.92029
+    0.9206
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8241199851036072,
+   "kurs": 0.8241299986839294,
    "vortag": 0.8279500007629395,
-   "veraenderung_pct": -0.4625902114624103,
+   "veraenderung_pct": -0.46138076882540346,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82755,
     0.8288,
     0.82795,
-    0.82412
+    0.82413
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3884.89990234375,
+   "kurs": 3888.800048828125,
    "vortag": 4031.39990234375,
-   "veraenderung_pct": -3.633973397549295,
+   "veraenderung_pct": -3.5372291752232554,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4074.600098,
     4051.600098,
     4031.399902,
-    3884.899902
+    3888.800049
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 112.75,
+   "kurs": 112.30999755859375,
    "vortag": 114.87999725341797,
-   "veraenderung_pct": -1.854106288598989,
+   "veraenderung_pct": -2.237116779481607,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     113.879997,
     115.32,
     114.879997,
-    112.75
+    112.309998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 76500.0,
+   "kurs": 76842.2890625,
    "vortag": 77775.109375,
-   "veraenderung_pct": -1.6394825867128482,
+   "veraenderung_pct": -1.1993815502107763,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     80805.078125,
     81267.585938,
     77775.109375,
-    76500.0
+    76842.289062
    ]
   }
  ],
@@ -315,19 +315,7 @@
    "symbol": "ROP.SW",
    "einheit": "CHF",
    "dezimalen": 2,
-   "verfuegbar": true,
-   "kurs": 403.3999938964844,
-   "vortag": 401.70001220703125,
-   "veraenderung_pct": 0.42319682295079986,
-   "datum": "2026-10-30",
-   "ist_heute": true,
-   "verlauf": [
-    396.5,
-    399.0,
-    398.799988,
-    401.700012,
-    403.399994
-   ]
+   "verfuegbar": false
   },
   {
    "name": "UBS",
@@ -374,6 +362,38 @@
   ],
   "artikel": [
    {
+    "titel": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
+    "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+    "zeit": "2026-10-30T20:30:57+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Criminal investigation of Alaska Senate race is 'ongoing,' U.S. Attorney says",
+    "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
+    "zeit": "2026-10-30T20:29:44+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "'Bad time to troll': Binance co-founder Zhao asks Musk for support after hack",
+    "link": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
+    "zeit": "2026-10-30T20:02:45+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked",
+    "link": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html",
+    "zeit": "2026-10-30T19:39:46+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
     "link": "https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html",
     "zeit": "2026-10-30T19:27:03+00:00",
@@ -385,14 +405,6 @@
     "titel": "Wall Street braces for Democratic gains as 2026 midterm election nears",
     "link": "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
     "zeit": "2026-10-30T19:11:32+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "'Bad time to troll': Binance co-founder Zhao asks Musk for support after hack",
-    "link": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
-    "zeit": "2026-10-30T19:02:06+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -430,36 +442,12 @@
     "sprache": "en"
    },
    {
-    "titel": "Alaska Senate: Judge fast tracks new bids to dismiss DOJ lawsuit over 2nd Sullivan candidacy",
-    "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
-    "zeit": "2026-10-30T18:20:03+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Fed officials are already saying they’ll need to get back to hiking rates",
-    "link": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
-    "zeit": "2026-10-30T18:18:17+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Doch eine Art «assoziiertes Mitglied»: Der Gipfel EU-Kanada endet mit einer Überraschung",
     "link": "https://www.nzz.ch/wirtschaft/doch-eine-art-assoziiertes-mitglied-der-gipfel-eu-kanada-endet-mit-einer-ueberraschung-ld.10049664",
     "zeit": "2026-10-30T18:17:58+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Why bitcoin held up better after the record Binance hack",
-    "link": "https://www.cnbc.com/2026/10/30/binance-hack-bitcoin-price.html",
-    "zeit": "2026-10-30T18:07:00+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Luzerner Kantonalbank: Gewinn steigt – Anlagegeschäft gewinnt an Bedeutung",
