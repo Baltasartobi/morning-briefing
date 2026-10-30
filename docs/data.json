@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-30T10:49:25+01:00",
+ "aktualisiert": "2026-10-30T11:44:49+01:00",
  "kernaussagen": [
-  "SMI +0.16%, Nikkei 225 −2.12% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9195 (−0.45%)",
-  "Brent über 100 USD: 112.57 (−2.01%)"
+  "SMI +0.27%, Nikkei 225 −2.12% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9204 (−0.35%)",
+  "Brent über 100 USD: 113.54 (−1.17%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14781.0498046875,
+   "kurs": 14796.6796875,
    "vortag": 14756.8603515625,
-   "veraenderung_pct": 0.16392005175029922,
+   "veraenderung_pct": 0.26983609649247065,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14597.629883,
     14581.099609,
     14756.860352,
-    14781.049805
+    14796.679688
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25912.880859375,
+   "kurs": 25890.66015625,
    "vortag": 26039.6796875,
-   "veraenderung_pct": -0.4869446538770861,
+   "veraenderung_pct": -0.5722786648621248,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25590.769531,
     25704.019531,
     26039.679688,
-    25912.880859
+    25890.660156
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6150.93017578125,
+   "kurs": 6153.0498046875,
    "vortag": 6207.06982421875,
-   "veraenderung_pct": -0.9044468650643234,
+   "veraenderung_pct": -0.870298241538614,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6164.689941,
     6167.810059,
     6207.069824,
-    6150.930176
+    6153.049805
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.91948002576828,
+   "kurs": 0.9203799962997437,
    "vortag": 0.9236000180244446,
-   "veraenderung_pct": -0.44607970720670354,
+   "veraenderung_pct": -0.34863811843447445,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92479,
     0.92229,
     0.9236,
-    0.91948
+    0.92038
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8210300207138062,
+   "kurs": 0.8218200206756592,
    "vortag": 0.8279500007629395,
-   "veraenderung_pct": -0.835796852799886,
+   "veraenderung_pct": -0.740380467616597,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82755,
     0.8288,
     0.82795,
-    0.82103
+    0.82182
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3999.89990234375,
+   "kurs": 3993.5,
    "vortag": 4031.39990234375,
-   "veraenderung_pct": -0.7813662936710042,
+   "veraenderung_pct": -0.9401176579310833,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4074.600098,
     4051.600098,
     4031.399902,
-    3999.899902
+    3993.5
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 112.56999969482422,
+   "kurs": 113.54000091552734,
    "vortag": 114.87999725341797,
-   "veraenderung_pct": -2.010791794761313,
+   "veraenderung_pct": -1.1664313805080262,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     113.879997,
     115.32,
     114.879997,
-    112.57
+    113.540001
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 77529.53125,
+   "kurs": 77560.34375,
    "vortag": 77775.109375,
-   "veraenderung_pct": -0.3157541364756211,
+   "veraenderung_pct": -0.27613670585082684,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     80805.078125,
     81267.585938,
     77775.109375,
-    77529.53125
+    77560.34375
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.87000274658203,
+   "kurs": 84.23999786376953,
    "vortag": 82.80999755859375,
-   "veraenderung_pct": 1.2800449453440166,
+   "veraenderung_pct": 1.7268450034235938,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     83.25,
     82.809998,
     82.809998,
-    83.870003
+    84.239998
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 133.1199951171875,
+   "kurs": 133.63999938964844,
    "vortag": 132.3000030517578,
-   "veraenderung_pct": 0.6197974652418559,
+   "veraenderung_pct": 1.0128467928805618,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     128.779999,
     129.220001,
     132.300003,
-    133.119995
+    133.639999
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 402.79998779296875,
+   "kurs": 403.70001220703125,
    "vortag": 401.70001220703125,
-   "veraenderung_pct": 0.2738301101595564,
+   "veraenderung_pct": 0.4978839778997157,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     399.0,
     398.799988,
     401.700012,
-    402.799988
+    403.700012
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.220001220703125,
+   "kurs": 39.150001525878906,
    "vortag": 39.709999084472656,
-   "veraenderung_pct": -1.2339407581631767,
+   "veraenderung_pct": -1.4102180093293448,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     38.84,
     38.599998,
     39.709999,
-    39.220001
+    39.150002
    ]
   }
  ],
@@ -373,6 +373,46 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "Gen Z is ditching bars for run clubs — and finding more than friends along the way",
+    "link": "https://www.cnbc.com/2026/10/30/gen-z-diplo-run-club.html",
+    "zeit": "2026-10-30T10:32:46+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
+    "link": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html",
+    "zeit": "2026-10-30T10:23:46+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Chevron beats earnings expectations as refining profits soar on high diesel fuel prices",
+    "link": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
+    "zeit": "2026-10-30T10:21:33+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Binance's $6.3 billion hack: What we know and what comes next",
+    "link": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
+    "zeit": "2026-10-30T10:19:30+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Wall Street braces for Democratic gains as 2026 midterm election nears",
+    "link": "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
+    "zeit": "2026-10-30T10:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
    {
     "titel": "Amazon falls 7%, Intel plunges 25% in premarket trading, as pressure mounts after earnings",
     "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
@@ -422,14 +462,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Binance's $6.3 billion hack: What we know and what comes next",
-    "link": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
-    "zeit": "2026-10-30T08:04:50+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Midterms – Was bedeuten die Wahlen in den USA für die Schweizer Wirtschaft?",
     "link": "https://www.srf.ch/news/international/usa/midterms-was-bedeuten-die-wahlen-in-den-usa-fuer-die-schweizer-wirtschaft",
     "zeit": "2026-10-30T07:56:13+00:00",
@@ -470,14 +502,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms",
-    "link": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html",
-    "zeit": "2026-10-30T07:12:49+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Hacker lancieren bisher grössten Angriff auf Krypto-Börse Binance: Mehr als 6 Milliarden Dollar sind betroffen",
     "link": "https://www.nzz.ch/wirtschaft/hacker-stehlen-63-milliarden-dollar-von-der-krypto-boerse-binance-ld.10049199",
     "zeit": "2026-10-30T06:54:34+00:00",
@@ -492,14 +516,6 @@
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "A pharma giant is moving past one patent cliff — but another is already looming",
-    "link": "https://www.cnbc.com/2026/10/30/novartis-remibrutinib-multiple-sclerosis.html",
-    "zeit": "2026-10-30T06:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "SNB weist bis Ende September hohen Milliardengewinn aus",
@@ -580,22 +596,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies",
-    "link": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
-    "zeit": "2026-10-30T04:29:03+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "BOJ holds rates as underlying inflation aligns with 2% target for first time since 2013",
-    "link": "https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html",
-    "zeit": "2026-10-30T04:19:38+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Grösste Kryptobörse gehackt – Hackerangriff auf Binance: «Krypto ist mit Risiko verbunden»",
