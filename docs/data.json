@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-30T07:50:28+01:00",
+ "aktualisiert": "2026-10-30T08:58:25+01:00",
  "kernaussagen": [
   "SMI +1.21%, Nikkei 225 −2.12% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9203 (−0.36%)",
-  "Bitcoin −3.58% auf 78'361 USD · Brent über 100 USD"
+  "Franken stärker: EUR/CHF 0.9199 (−0.40%)",
+  "Brent über 100 USD: 112.69 (−1.91%)"
  ],
  "maerkte": [
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9202799797058105,
+   "kurs": 0.919920027256012,
    "vortag": 0.9236000180244446,
-   "veraenderung_pct": -0.35946711280230303,
+   "veraenderung_pct": -0.39843987620356014,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92479,
     0.92229,
     0.9236,
-    0.92028
+    0.91992
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.823199987411499,
+   "kurs": 0.8221799731254578,
    "vortag": 0.8279500007629395,
-   "veraenderung_pct": -0.5737077537367408,
+   "veraenderung_pct": -0.6969053242544487,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82755,
     0.8288,
     0.82795,
-    0.8232
+    0.82218
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3997.0,
+   "kurs": 3989.800048828125,
    "vortag": 4031.39990234375,
-   "veraenderung_pct": -0.853299180856526,
+   "veraenderung_pct": -1.0318959796431937,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4074.600098,
     4051.600098,
     4031.399902,
-    3997.0
+    3989.800049
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 111.70999908447266,
+   "kurs": 112.69000244140625,
    "vortag": 114.87999725341797,
-   "veraenderung_pct": -2.7593995862939424,
+   "veraenderung_pct": -1.9063325769243633,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     113.879997,
     115.32,
     114.879997,
-    111.709999
+    112.690002
    ]
   },
   {
@@ -204,17 +204,17 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 78361.0078125,
-   "vortag": 81267.5859375,
-   "veraenderung_pct": -3.576552805734068,
+   "kurs": 77998.078125,
+   "vortag": 77775.109375,
+   "veraenderung_pct": 0.2866839427058121,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
-    80024.007812,
     80006.65625,
     80805.078125,
     81267.585938,
-    78361.007812
+    77775.109375,
+    77998.078125
    ]
   }
  ],
@@ -222,19 +222,7 @@
   {
    "name": "Schweiz",
    "quelle": "snb",
-   "verfuegbar": true,
-   "wert": 0.495,
-   "vortag": 0.487,
-   "veraenderung_bp": 0.8,
-   "datum": "2026-10-28",
-   "ist_heute": false,
-   "verlauf": [
-    0.525,
-    0.491,
-    0.526,
-    0.487,
-    0.495
-   ]
+   "verfuegbar": false
   },
   {
    "name": "Deutschland",
@@ -374,18 +362,50 @@
   ],
   "artikel": [
    {
+    "titel": "Midterms – Was bedeuten die Wahlen in den USA für die Schweizer Wirtschaft?",
+    "link": "https://www.srf.ch/news/international/usa/midterms-was-bedeuten-die-wahlen-in-den-usa-fuer-die-schweizer-wirtschaft",
+    "zeit": "2026-10-30T07:56:13+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "MELDUNGEN WIRTSCHAFT - SNB erzielt in den ersten drei Quartalen einen Gewinn von 44,2 Milliarden Franken",
+    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
+    "zeit": "2026-10-30T07:36:46+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Der Nobelpreisträger Philippe Aghion kritisiert seinen Freund Emmanuel Macron: «Wenn die Politik nicht zuhört, wird man wütend»",
+    "link": "https://www.nzz.ch/pro/der-nobelpreistraeger-philippe-aghion-kritisiert-seinen-freund-emmanuel-macron-wenn-die-politik-nicht-zuhoert-wird-man-wuetend-ld.10047299",
+    "zeit": "2026-10-30T07:25:37+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms",
     "link": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html",
-    "zeit": "2026-10-30T06:35:19+00:00",
+    "zeit": "2026-10-30T07:12:49+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Hacker lancieren grössten bisher grössten Angriff auf Krypto-Börse Binance: Mehr als 6 Milliarden Dollar sind betroffen",
+    "titel": "Hacker lancieren bisher grössten Angriff auf Krypto-Börse Binance: Mehr als 6 Milliarden Dollar sind betroffen",
     "link": "https://www.nzz.ch/wirtschaft/hacker-stehlen-63-milliarden-dollar-von-der-krypto-boerse-binance-ld.10049199",
-    "zeit": "2026-10-30T06:05:53+00:00",
+    "zeit": "2026-10-30T06:54:34+00:00",
     "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Binance meldet Krypto-Hack in Milliardenhöhe",
+    "link": "https://www.finews.ch/news/finanzplatz/74249-binance-hacherangriff-schaden-bitcoin",
+    "zeit": "2026-10-30T06:46:49+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -396,6 +416,22 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "SNB weist bis Ende September hohen Milliardengewinn aus",
+    "link": "https://www.finews.ch/news/finanzplatz/74246-snb-ergebnis-9m-2026",
+    "zeit": "2026-10-30T05:55:24+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "F1 trifft Vermögensverwalter: Warum Vollgas nicht immer die beste Strategie ist",
+    "link": "https://www.finews.ch/news/finanzplatz/74245-flossbach-von-storch-formel-1-beat-zehnder-simon-jaeger-asset-management-zuerich",
+    "zeit": "2026-10-30T05:45:49+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Julius Bär startet Aktienrückkaufprogramm in der kommenden Woche",
@@ -518,14 +554,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Gut ist im KI-Zeitalter nicht mehr gut genug: Amazon und Alphabet enttäuschen die Anleger",
-    "link": "https://www.nzz.ch/wirtschaft/gut-ist-im-ki-zeitalter-nicht-mehr-gut-genug-amazon-und-alphabet-enttaeuschen-die-anleger-ld.10048943",
-    "zeit": "2026-10-30T01:32:38+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Intel plunges on a major guidance miss. What went wrong — and how to proceed",
     "link": "https://www.cnbc.com/investingclub/2026/10/29/intel-plunges-on-a-major-guidance-miss-what-went-wrong-how-to-proceed.html",
     "zeit": "2026-10-30T01:06:07+00:00",
@@ -548,14 +576,6 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
-   },
-   {
-    "titel": "Immobilienmarkt: Die Städte exportieren ihre Probleme aufs Land und in andere Kantone",
-    "link": "https://www.nzz.ch/wirtschaft/immobilienmarkt-die-staedte-exportieren-ihre-probleme-aufs-land-und-in-andere-kantone-ld.10045852",
-    "zeit": "2026-10-29T16:00:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
    },
    {
     "titel": "Autohersteller in der Krise – Europas Autoindustrie krankt auch aus eigenem Verschulden",
@@ -622,22 +642,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Christine Lagarde geht vorzeitig",
-    "link": "https://www.finews.ch/news/finanzplatz/74232-christine-lagarde-ezb-ruecktritt-nachfolge",
-    "zeit": "2026-10-29T09:42:36+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Grosse Vermögensverwalter: Zwei Genfer Häuser stossen zur Allianz",
-    "link": "https://www.finews.ch/news/finanzplatz/74230-aswm-alliance-swiss-wealth-managers-new-members-targa-5-advisors-gsk-partners-geneva-nicole-curti-eli-mizrahi-2",
-    "zeit": "2026-10-29T09:18:11+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Staaten mit Schulden – Was sind Staatsanleihen und wie funktionieren sie?",
     "link": "https://www.srf.ch/news/wirtschaft/staaten-mit-schulden-was-sind-staatsanleihen-und-wie-funktionieren-sie",
     "zeit": "2026-10-29T08:37:31+00:00",
@@ -650,14 +654,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/autoindustrie-in-der-krise-volkswagen-meldet-fast-6-milliarden-euro-verlust",
     "zeit": "2026-10-29T07:39:17+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "CFO-Stimmung so optimistisch wie lange nicht",
-    "link": "https://www.finews.ch/news/finanzplatz/74226-deloitte-cfo-stimmungs-barometer-herbst-2026",
-    "zeit": "2026-10-29T07:37:10+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -681,14 +677,6 @@
     "titel": "Migros im Umbruch – Ursula Nold: «Bei einem Nein wiederholen wir die Abstimmung»",
     "link": "https://www.srf.ch/news/wirtschaft/migros-im-umbruch-ursula-nold-bei-einem-nein-wiederholen-wir-die-abstimmung",
     "zeit": "2026-10-28T20:02:09+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Drittes Quartal – UBS: 2.7 Milliarden Dollar Gewinn – CS-Integration 2026 beendet",
-    "link": "https://www.srf.ch/news/wirtschaft/drittes-quartal-ubs-2-7-milliarden-dollar-gewinn-cs-integration-2026-beendet",
-    "zeit": "2026-10-28T19:28:04+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
