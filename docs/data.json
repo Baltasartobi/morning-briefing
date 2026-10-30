@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-30T16:48:16+01:00",
+ "aktualisiert": "2026-10-30T17:45:00+01:00",
  "kernaussagen": [
-  "SMI +0.28%, Nasdaq −2.56% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9191 (−0.49%)",
-  "Gold −2.86% auf 3'916.10 USD/Unze · Brent über 100 USD"
+  "SMI +0.38%, Nasdaq −2.63% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9192 (−0.48%)",
+  "Gold −3.01% auf 3'910.20 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14797.7998046875,
+   "kurs": 14812.98046875,
    "vortag": 14756.8603515625,
-   "veraenderung_pct": 0.27742658092353434,
+   "veraenderung_pct": 0.38029849067153787,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14597.629883,
     14581.099609,
     14756.860352,
-    14797.799805
+    14812.980469
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25846.55078125,
+   "kurs": 25818.41015625,
    "vortag": 26039.6796875,
-   "veraenderung_pct": -0.741671589542281,
+   "veraenderung_pct": -0.8497398351494212,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25590.769531,
     25704.019531,
     26039.679688,
-    25846.550781
+    25818.410156
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6139.81005859375,
+   "kurs": 6130.72998046875,
    "vortag": 6207.06982421875,
-   "veraenderung_pct": -1.083599307398897,
+   "veraenderung_pct": -1.229885371228423,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6164.689941,
     6167.810059,
     6207.069824,
-    6139.810059
+    6130.72998
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7596.68017578125,
+   "kurs": 7598.22021484375,
    "vortag": 7720.39013671875,
-   "veraenderung_pct": -1.6023796562964598,
+   "veraenderung_pct": -1.5824319718501068,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7722.600098,
     7743.97998,
     7720.390137,
-    7596.680176
+    7598.220215
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25514.26171875,
+   "kurs": 25496.5,
    "vortag": 26184.720703125,
-   "veraenderung_pct": -2.560496985919669,
+   "veraenderung_pct": -2.6283293640129046,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26477.810547,
     26549.849609,
     26184.720703,
-    25514.261719
+    25496.5
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9190800189971924,
+   "kurs": 0.919160008430481,
    "vortag": 0.9236000180244446,
-   "veraenderung_pct": -0.48938923116528255,
+   "veraenderung_pct": -0.48072861707610937,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92479,
     0.92229,
     0.9236,
-    0.91908
+    0.91916
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.82396000623703,
+   "kurs": 0.8239700198173523,
    "vortag": 0.8279500007629395,
-   "veraenderung_pct": -0.48191249740113795,
+   "veraenderung_pct": -0.4807030547641422,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82755,
     0.8288,
     0.82795,
-    0.82396
+    0.82397
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3916.10009765625,
+   "kurs": 3910.199951171875,
    "vortag": 4031.39990234375,
-   "veraenderung_pct": -2.860043842846449,
+   "veraenderung_pct": -3.0063986235007945,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4074.600098,
     4051.600098,
     4031.399902,
-    3916.100098
+    3910.199951
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 112.8499984741211,
+   "kurs": 113.44000244140625,
    "vortag": 114.87999725341797,
-   "veraenderung_pct": -1.767060260994635,
+   "veraenderung_pct": -1.25347740811238,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     113.879997,
     115.32,
     114.879997,
-    112.849998
+    113.440002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 77174.953125,
+   "kurs": 77327.2421875,
    "vortag": 77775.109375,
-   "veraenderung_pct": -0.7716559382852095,
+   "veraenderung_pct": -0.5758489973193948,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     80805.078125,
     81267.585938,
     77775.109375,
-    77174.953125
+    77327.242188
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.941,
+   "wert": 4.949,
    "vortag": 4.989,
-   "veraenderung_bp": -4.8,
+   "veraenderung_bp": -4.0,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     4.993,
     5.045,
     4.989,
-    4.941
+    4.949
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 84.4000015258789,
+   "kurs": 84.47000122070312,
    "vortag": 82.80999755859375,
-   "veraenderung_pct": 1.9200628114499407,
+   "veraenderung_pct": 2.0045932991784143,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     83.25,
     82.809998,
     82.809998,
-    84.400002
+    84.470001
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 134.0399932861328,
+   "kurs": 134.1199951171875,
    "vortag": 132.3000030517578,
-   "veraenderung_pct": 1.3151853320020557,
+   "veraenderung_pct": 1.3756553465215537,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     128.779999,
     129.220001,
     132.300003,
-    134.039993
+    134.119995
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 402.1000061035156,
+   "kurs": 402.8999938964844,
    "vortag": 401.70001220703125,
-   "veraenderung_pct": 0.09957527615862549,
+   "veraenderung_pct": 0.2987258284758765,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     399.0,
     398.799988,
     401.700012,
-    402.100006
+    402.899994
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.15999984741211,
+   "kurs": 39.209999084472656,
    "vortag": 39.709999084472656,
-   "veraenderung_pct": -1.3850396619011884,
+   "veraenderung_pct": -1.259128711981028,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     38.84,
     38.599998,
     39.709999,
-    39.16
+    39.209999
    ]
   }
  ],
@@ -374,17 +374,89 @@
   ],
   "artikel": [
    {
-    "titel": "$6.3 billion Binance hack is largest crypto theft on record",
-    "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-    "zeit": "2026-10-30T15:47:07+00:00",
+    "titel": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
+    "link": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
+    "zeit": "2026-10-30T16:44:31+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Intel heads for worst day on Wall Street in more than 50 years on weak guidance",
-    "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
-    "zeit": "2026-10-30T15:43:48+00:00",
+    "titel": "Alaska Senate lawsuit: Judge orders DOJ to quickly respond to new dismissal motions",
+    "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
+    "zeit": "2026-10-30T16:42:55+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Google lost nearly half a trillion this week. Here's how Mike Khouw is trading it",
+    "link": "https://www.cnbc.com/2026/10/30/google-lost-about-half-a-trillion-this-week-how-mike-khouw-trades-it-.html",
+    "zeit": "2026-10-30T16:41:34+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Binance's $6.3 billion hack: What we know and what comes next",
+    "link": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
+    "zeit": "2026-10-30T16:31:36+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch",
+    "link": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
+    "zeit": "2026-10-30T16:31:15+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "St. Louis Fed's Musalem: Tighter monetary policy is needed 'soon'",
+    "link": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+    "zeit": "2026-10-30T16:30:16+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "MELDUNGEN WIRTSCHAFT - Micasa-Chef verlässt das Möbelhaus schon wieder",
+    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
+    "zeit": "2026-10-30T16:12:44+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Class action lawsuit blames Trump officials for student loan forgiveness delays",
+    "link": "https://www.cnbc.com/2026/10/30/lawsuit-blames-trump-officials-for-student-loan-forgiveness-delays.html",
+    "zeit": "2026-10-30T16:04:59+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "$6.3 billion Binance hack is largest crypto theft on record",
+    "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+    "zeit": "2026-10-30T16:01:51+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trump rallies in Kansas and Iowa are back on after RNC said they were canceled: Source",
+    "link": "https://www.cnbc.com/2026/10/30/trump-vance-rally-midterm-elections-.html",
+    "zeit": "2026-10-30T15:52:35+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Jim Cramer reveals 3 stocks to buy — plus, why he is not selling the Intel plunge",
+    "link": "https://www.cnbc.com/investingclub/2026/10/30/cramer-sees-3-stocks-to-buy-not-selling-the-intel-plunge.html",
+    "zeit": "2026-10-30T15:49:19+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -398,76 +470,12 @@
     "sprache": "de"
    },
    {
-    "titel": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
-    "link": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
-    "zeit": "2026-10-30T15:37:29+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Cheaper cars are selling considerably faster than at the beginning of the year",
-    "link": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
-    "zeit": "2026-10-30T15:37:21+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
-    "link": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
-    "zeit": "2026-10-30T15:33:00+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not",
-    "link": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
-    "zeit": "2026-10-30T15:14:27+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Swiss central bank posts bumper $23 billion profit thanks to gold, foreign assets",
-    "link": "https://www.cnbc.com/2026/10/30/swiss-national-bank-q3-profit-gold-foreign-asset.html",
-    "zeit": "2026-10-30T15:07:48+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
-    "link": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
-    "zeit": "2026-10-30T14:53:12+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trump, Vance scrap planned appearances in final stretch of midterm campaign",
-    "link": "https://www.cnbc.com/2026/10/30/trump-vance-rally-midterm-elections-.html",
-    "zeit": "2026-10-30T14:13:20+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Eine kleine Geschichte des israelischen Parteiensystems: so wechselhaft wie Unterwäsche",
     "link": "https://www.nzz.ch/international/eine-kleine-geschichte-des-israelischen-parteiensystems-so-wechselhaft-wie-unterwaesche-ld.10028280",
     "zeit": "2026-10-30T13:52:00+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
-    "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
-    "zeit": "2026-10-30T13:29:50+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Christine Lagarde ist Klaus Schwabs Wunschkandidatin für die WEF-Spitze. Doch hat sie andere Pläne?",
@@ -530,14 +538,6 @@
     "link": "https://www.finews.ch/news/finanzplatz/74251-maverix-serge-nussbaumer-ki-banken-jobs-asset-management-bitcoin-podcast",
     "zeit": "2026-10-30T07:54:37+00:00",
     "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "MELDUNGEN WIRTSCHAFT - SNB erzielt in den ersten drei Quartalen einen Gewinn von 44,2 Milliarden Franken",
-    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
-    "zeit": "2026-10-30T07:36:46+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
