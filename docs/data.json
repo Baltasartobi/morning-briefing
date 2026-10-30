@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-30T14:57:29+01:00",
+ "aktualisiert": "2026-10-30T15:53:45+01:00",
  "kernaussagen": [
-  "SMI +0.54%, Nasdaq −2.29% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9189 (−0.51%)",
-  "Gold −2.35% auf 3'936.50 USD/Unze · Brent über 100 USD"
+  "SMI +0.23%, Nasdaq −2.20% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9198 (−0.41%)",
+  "Gold −2.72% auf 3'921.80 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14836.599609375,
+   "kurs": 14790.6103515625,
    "vortag": 14756.8603515625,
-   "veraenderung_pct": 0.5403538145162257,
+   "veraenderung_pct": 0.22870718564755865,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14597.629883,
     14581.099609,
     14756.860352,
-    14836.599609
+    14790.610352
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25903.150390625,
+   "kurs": 25882.3203125,
    "vortag": 26039.6796875,
-   "veraenderung_pct": -0.5243125050441333,
+   "veraenderung_pct": -0.6043061085560852,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25590.769531,
     25704.019531,
     26039.679688,
-    25903.150391
+    25882.320312
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6162.41015625,
+   "kurs": 6151.72021484375,
    "vortag": 6207.06982421875,
-   "veraenderung_pct": -0.7194967872682367,
+   "veraenderung_pct": -0.8917188132641418,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6164.689941,
     6167.810059,
     6207.069824,
-    6162.410156
+    6151.720215
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7626.5498046875,
+   "kurs": 7617.419921875,
    "vortag": 7720.39013671875,
-   "veraenderung_pct": -1.2154869167160132,
+   "veraenderung_pct": -1.3337436712429374,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7722.600098,
     7743.97998,
     7720.390137,
-    7626.549805
+    7617.419922
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25585.751953125,
+   "kurs": 25609.455078125,
    "vortag": 26184.720703125,
-   "veraenderung_pct": -2.287474274753354,
+   "veraenderung_pct": -2.196951541023484,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26477.810547,
     26549.849609,
     26184.720703,
-    25585.751953
+    25609.455078
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9189199805259705,
+   "kurs": 0.9198399782180786,
    "vortag": 0.9236000180244446,
-   "veraenderung_pct": -0.506716912856342,
+   "veraenderung_pct": -0.40710694380545753,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92479,
     0.92229,
     0.9236,
-    0.91892
+    0.91984
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8241900205612183,
+   "kurs": 0.8247299790382385,
    "vortag": 0.8279500007629395,
-   "veraenderung_pct": -0.454131312066719,
+   "veraenderung_pct": -0.38891499749185154,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82755,
     0.8288,
     0.82795,
-    0.82419
+    0.82473
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3936.5,
+   "kurs": 3921.800048828125,
    "vortag": 4031.39990234375,
-   "veraenderung_pct": -2.354018570288141,
+   "veraenderung_pct": -2.718654962806011,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4074.600098,
     4051.600098,
     4031.399902,
-    3936.5
+    3921.800049
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 113.06999969482422,
+   "kurs": 113.48999786376953,
    "vortag": 114.87999725341797,
-   "veraenderung_pct": -1.5755550155533316,
+   "veraenderung_pct": -1.2099577149033092,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     113.879997,
     115.32,
     114.879997,
-    113.07
+    113.489998
    ]
   },
   {
@@ -203,19 +203,7 @@
    "symbol": "BTC-USD",
    "einheit": "USD",
    "dezimalen": 0,
-   "verfuegbar": true,
-   "kurs": 76705.46875,
-   "vortag": 77775.109375,
-   "veraenderung_pct": -1.3752994159643372,
-   "datum": "2026-10-30",
-   "ist_heute": true,
-   "verlauf": [
-    80006.65625,
-    80805.078125,
-    81267.585938,
-    77775.109375,
-    76705.46875
-   ]
+   "verfuegbar": false
   }
  ],
  "zinsen": [
@@ -257,9 +245,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.935,
+   "wert": 4.947,
    "vortag": 4.989,
-   "veraenderung_bp": -5.4,
+   "veraenderung_bp": -4.2,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +255,7 @@
     4.993,
     5.045,
     4.989,
-    4.935
+    4.947
    ]
   }
  ],
@@ -278,9 +266,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 84.4000015258789,
+   "kurs": 84.30999755859375,
    "vortag": 82.80999755859375,
-   "veraenderung_pct": 1.9200628114499407,
+   "veraenderung_pct": 1.8113754911520674,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +276,7 @@
     83.25,
     82.809998,
     82.809998,
-    84.400002
+    84.309998
    ]
   },
   {
@@ -297,9 +285,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 134.83999633789062,
+   "kurs": 133.63999938964844,
    "vortag": 132.3000030517578,
-   "veraenderung_pct": 1.9198739437210177,
+   "veraenderung_pct": 1.0128467928805618,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +295,7 @@
     128.779999,
     129.220001,
     132.300003,
-    134.839996
+    133.639999
    ]
   },
   {
@@ -316,9 +304,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 404.29998779296875,
+   "kurs": 401.29998779296875,
    "vortag": 401.70001220703125,
-   "veraenderung_pct": 0.6472430935843487,
+   "veraenderung_pct": -0.09958287326522486,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +314,7 @@
     399.0,
     398.799988,
     401.700012,
-    404.299988
+    401.299988
    ]
   },
   {
@@ -335,9 +323,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.040000915527344,
+   "kurs": 39.209999084472656,
    "vortag": 39.709999084472656,
-   "veraenderung_pct": -1.687227862987517,
+   "veraenderung_pct": -1.259128711981028,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +333,7 @@
     38.84,
     38.599998,
     39.709999,
-    39.040001
+    39.209999
    ]
   }
  ],
@@ -364,7 +352,7 @@
    {
     "name": "finews.ch",
     "gruppe": "Schweiz",
-    "verfuegbar": false
+    "verfuegbar": true
    },
    {
     "name": "CNBC",
@@ -373,6 +361,38 @@
    }
   ],
   "artikel": [
+   {
+    "titel": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
+    "link": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
+    "zeit": "2026-10-30T14:53:12+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "$6.3 billion Binance hack is largest crypto theft on record",
+    "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+    "zeit": "2026-10-30T14:48:26+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
+    "link": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
+    "zeit": "2026-10-30T14:46:54+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trump, Vance scrap planned appearances in final stretch of midterm campaign",
+    "link": "https://www.cnbc.com/2026/10/30/trump-vance-rally-midterm-elections-.html",
+    "zeit": "2026-10-30T14:13:20+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
    {
     "titel": "Eine kleine Geschichte des israelischen Parteiensystems: so wechselhaft wie Unterwäsche",
     "link": "https://www.nzz.ch/international/eine-kleine-geschichte-des-israelischen-parteiensystems-so-wechselhaft-wie-unterwaesche-ld.10028280",
@@ -406,25 +426,9 @@
     "sprache": "de"
    },
    {
-    "titel": "Hackers steal $6.3 billion from Binance in biggest-ever cryptocurrency theft",
-    "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-    "zeit": "2026-10-30T13:11:14+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Swiss central bank posts bumper $23bn profit thanks to gold, foreign assets",
     "link": "https://www.cnbc.com/2026/10/30/swiss-national-bank-q3-profit-gold-foreign-asset.html",
     "zeit": "2026-10-30T12:52:36+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
-    "link": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
-    "zeit": "2026-10-30T12:45:16+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -454,26 +458,26 @@
     "sprache": "en"
    },
    {
-    "titel": "Chevron and Exxon beat earnings expectations as refining profits soar on high diesel fuel prices",
-    "link": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
-    "zeit": "2026-10-30T11:35:51+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
-    "link": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
-    "zeit": "2026-10-30T11:33:34+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "BNP Paribas ernennt neuen Leiter Securities Services Schweiz",
+    "link": "https://www.finews.ch/news/banken/74255-bnp-paribas-schweit-marco-critini-securities-services",
+    "zeit": "2026-10-30T11:56:46+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Annäherung an China – Expertin: «Wir sind nicht ausreichend vorbereitet»",
     "link": "https://www.srf.ch/news/dialog/annaeherung-an-china-expertin-wir-sind-nicht-ausreichend-vorbereitet",
     "zeit": "2026-10-30T11:32:22+00:00",
     "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Stellenangebot bei Banken im Oktober leicht besser",
+    "link": "https://www.finews.ch/news/banken/74253-banken-stellenmarkt-oktober-2026-indeed",
+    "zeit": "2026-10-30T10:20:49+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -502,6 +506,14 @@
     "sprache": "de"
    },
    {
+    "titel": "Maverix-Experte: «Bei den Banken wird es zuerst zu Einschnitten kommen»",
+    "link": "https://www.finews.ch/news/finanzplatz/74251-maverix-serge-nussbaumer-ki-banken-jobs-asset-management-bitcoin-podcast",
+    "zeit": "2026-10-30T07:54:37+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "MELDUNGEN WIRTSCHAFT - SNB erzielt in den ersten drei Quartalen einen Gewinn von 44,2 Milliarden Franken",
     "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
     "zeit": "2026-10-30T07:36:46+00:00",
@@ -522,6 +534,38 @@
     "link": "https://www.nzz.ch/wirtschaft/hacker-stehlen-63-milliarden-dollar-von-der-krypto-boerse-binance-ld.10049199",
     "zeit": "2026-10-30T06:54:34+00:00",
     "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Binance meldet Krypto-Hack in Milliardenhöhe",
+    "link": "https://www.finews.ch/news/finanzplatz/74249-binance-hacherangriff-schaden-bitcoin",
+    "zeit": "2026-10-30T06:46:49+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "SNB weist bis Ende September hohen Milliardengewinn aus",
+    "link": "https://www.finews.ch/news/finanzplatz/74246-snb-ergebnis-9m-2026",
+    "zeit": "2026-10-30T05:55:24+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "F1 trifft Vermögensverwalter: Warum Vollgas nicht immer die beste Strategie ist",
+    "link": "https://www.finews.ch/news/finanzplatz/74245-flossbach-von-storch-formel-1-beat-zehnder-simon-jaeger-asset-management-zuerich",
+    "zeit": "2026-10-30T05:45:49+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Julius Bär startet Aktienrückkaufprogramm in der kommenden Woche",
+    "link": "https://www.finews.ch/news/banken/74244-julius-baer-start-aktienrueckkaufprogramm",
+    "zeit": "2026-10-30T05:26:44+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -582,10 +626,34 @@
     "sprache": "de"
    },
    {
+    "titel": "Stablecoins: Privatbank zeigt, was Unternehmen jetzt wissen müssen",
+    "link": "https://www.finews.ch/news/banken/74242-maerki-baumann-stablecoins-unternehmen-zahlungsverkehr-liquiditaetsmanagement-digital-economy-award",
+    "zeit": "2026-10-29T13:35:49+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Europäische Zentralbank – Nach Rücktrittsankündigung: Lagarde belässt Leitzins",
     "link": "https://www.srf.ch/news/wirtschaft/europaeische-zentralbank-nach-ruecktrittsankuendigung-lagarde-belaesst-leitzins",
     "zeit": "2026-10-29T13:32:31+00:00",
     "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Franken-Stablecoin: Bankiervereinigung macht Druck",
+    "link": "https://www.finews.ch/news/finanzplatz/74241-franken-stablecoin-swiss-banking-schweizerische-bankiervereinigung-martin-hess-natalie-graf-eu-usa-politik-forderungen",
+    "zeit": "2026-10-29T13:31:19+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Personalwechsel: Dahin zieht es derzeit am meisten Wealth Manager",
+    "link": "https://www.finews.ch/news/finanzplatz/74240-personalwechsel-wealth-manager-schweiz-align-private-wealth-aquila-vermoegensverwalter-2026",
+    "zeit": "2026-10-29T12:48:46+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
