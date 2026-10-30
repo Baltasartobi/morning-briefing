@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-30T09:51:23+01:00",
+ "aktualisiert": "2026-10-30T10:49:25+01:00",
  "kernaussagen": [
-  "SMI +0.27%, Nikkei 225 −2.12% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9193 (−0.47%)",
-  "Brent über 100 USD: 113.04 (−1.60%)"
+  "SMI +0.16%, Nikkei 225 −2.12% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9195 (−0.45%)",
+  "Brent über 100 USD: 112.57 (−2.01%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14796.91015625,
+   "kurs": 14781.0498046875,
    "vortag": 14756.8603515625,
-   "veraenderung_pct": 0.27139787009815564,
+   "veraenderung_pct": 0.16392005175029922,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14597.629883,
     14581.099609,
     14756.860352,
-    14796.910156
+    14781.049805
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25998.7109375,
+   "kurs": 25912.880859375,
    "vortag": 26039.6796875,
-   "veraenderung_pct": -0.15733200443194262,
+   "veraenderung_pct": -0.4869446538770861,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25590.769531,
     25704.019531,
     26039.679688,
-    25998.710938
+    25912.880859
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6166.75,
+   "kurs": 6150.93017578125,
    "vortag": 6207.06982421875,
-   "veraenderung_pct": -0.6495790342398,
+   "veraenderung_pct": -0.9044468650643234,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6164.689941,
     6167.810059,
     6207.069824,
-    6166.75
+    6150.930176
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9192600250244141,
+   "kurs": 0.91948002576828,
    "vortag": 0.9236000180244446,
-   "veraenderung_pct": -0.4698996227082808,
+   "veraenderung_pct": -0.44607970720670354,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92479,
     0.92229,
     0.9236,
-    0.91926
+    0.91948
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8211899995803833,
+   "kurs": 0.8210300207138062,
    "vortag": 0.8279500007629395,
-   "veraenderung_pct": -0.8164745668611584,
+   "veraenderung_pct": -0.835796852799886,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82755,
     0.8288,
     0.82795,
-    0.82119
+    0.82103
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3996.39990234375,
+   "kurs": 3999.89990234375,
    "vortag": 4031.39990234375,
-   "veraenderung_pct": -0.8681847707455614,
+   "veraenderung_pct": -0.7813662936710042,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4074.600098,
     4051.600098,
     4031.399902,
-    3996.399902
+    3999.899902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 113.04000091552734,
+   "kurs": 112.56999969482422,
    "vortag": 114.87999725341797,
-   "veraenderung_pct": -1.6016681597160076,
+   "veraenderung_pct": -2.010791794761313,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     113.879997,
     115.32,
     114.879997,
-    113.040001
+    112.57
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 77798.671875,
+   "kurs": 77529.53125,
    "vortag": 77775.109375,
-   "veraenderung_pct": 0.030295682242487132,
+   "veraenderung_pct": -0.3157541364756211,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     80805.078125,
     81267.585938,
     77775.109375,
-    77798.671875
+    77529.53125
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 83.80999755859375,
+   "kurs": 83.87000274658203,
    "vortag": 82.80999755859375,
-   "veraenderung_pct": 1.2075836607680523,
+   "veraenderung_pct": 1.2800449453440166,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     83.25,
     82.809998,
     82.809998,
-    83.809998
+    83.870003
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 133.02000427246094,
+   "kurs": 133.1199951171875,
    "vortag": 132.3000030517578,
-   "veraenderung_pct": 0.544218597199464,
+   "veraenderung_pct": 0.6197974652418559,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     128.779999,
     129.220001,
     132.300003,
-    133.020004
+    133.119995
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 403.5,
+   "kurs": 402.79998779296875,
    "vortag": 401.70001220703125,
-   "veraenderung_pct": 0.44809254126709774,
+   "veraenderung_pct": 0.2738301101595564,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     399.0,
     398.799988,
     401.700012,
-    403.5
+    402.799988
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.400001525878906,
+   "kurs": 39.220001220703125,
    "vortag": 39.709999084472656,
-   "veraenderung_pct": -0.7806536533388253,
+   "veraenderung_pct": -1.2339407581631767,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     38.84,
     38.599998,
     39.709999,
-    39.400002
+    39.220001
    ]
   }
  ],
@@ -374,6 +374,22 @@
   ],
   "artikel": [
    {
+    "titel": "Amazon falls 7%, Intel plunges 25% in premarket trading, as pressure mounts after earnings",
+    "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+    "zeit": "2026-10-30T09:16:27+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "BP’s third-quarter profit nearly quadruples to $8.5 billion as refining margins surge",
+    "link": "https://www.cnbc.com/2026/10/30/bp-earnings-oil-q3.html",
+    "zeit": "2026-10-30T09:00:24+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Audi vermeidet nur knapp die roten Zahlen",
     "link": "https://www.nzz.ch/wirtschaft/audi-vermeidet-nur-knapp-die-roten-zahlen-ld.10049305",
     "zeit": "2026-10-30T08:32:56+00:00",
@@ -382,9 +398,9 @@
     "sprache": "de"
    },
    {
-    "titel": "Amazon falls 7%, Intel plunges 25% in premarket trading, as pressure mounts after earnings",
-    "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
-    "zeit": "2026-10-30T08:32:39+00:00",
+    "titel": "Trump, Vance scrap planned appearances in final stretch of midterm campaign",
+    "link": "https://www.cnbc.com/2026/10/30/trump-vance-rally-midterm-elections-.html",
+    "zeit": "2026-10-30T08:18:13+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -422,9 +438,17 @@
     "sprache": "de"
    },
    {
-    "titel": "BP’s third-quarter profit nearly quadruples to $8.5 billion as refining margins surge",
-    "link": "https://www.cnbc.com/2026/10/30/bp-earnings-oil-q3.html",
-    "zeit": "2026-10-30T07:51:30+00:00",
+    "titel": "Maverix-Experte: «Bei den Banken wird es zuerst zu Einschnitten kommen»",
+    "link": "https://www.finews.ch/news/finanzplatz/74251-maverix-serge-nussbaumer-ki-banken-jobs-asset-management-bitcoin-podcast",
+    "zeit": "2026-10-30T07:54:37+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Foxconn hopes to own 50% of the global AI server market within a couple years",
+    "link": "https://www.cnbc.com/2026/10/30/hon-hai-technology-group-foxconn-ai-server-young-liu-.html",
+    "zeit": "2026-10-30T07:43:39+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -582,22 +606,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Israel faces weeks of coalition haggling as Netanyahu’s party claims election 'stolen'",
-    "link": "https://www.cnbc.com/2026/10/30/israel-election-netanyahu-eisenkot-coalition-talks-.html",
-    "zeit": "2026-10-30T03:28:10+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
-    "link": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
-    "zeit": "2026-10-30T01:46:36+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Autohersteller in der Krise – Europas Autoindustrie krankt auch aus eigenem Verschulden",
     "link": "https://www.srf.ch/news/wirtschaft/autohersteller-in-der-krise-europas-autoindustrie-krankt-auch-aus-eigenem-verschulden",
     "zeit": "2026-10-29T15:51:44+00:00",
@@ -630,6 +638,14 @@
     "sprache": "de"
    },
    {
+    "titel": "Personalwechsel: Dahin zieht es derzeit am meisten Wealth Manager",
+    "link": "https://www.finews.ch/news/finanzplatz/74240-personalwechsel-wealth-manager-schweiz-align-private-wealth-aquila-vermoegensverwalter-2026",
+    "zeit": "2026-10-29T12:48:46+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Auch nach 50 Jahren: Hayeks Werk inspiriert die Geld-Praktiker",
     "link": "https://www.finews.ch/news/finanzplatz/74238-entnationalisierung-geld-hayek-moneymuseum-frankencoin-brickmark-swissgrams-realunit-tokenisierung-par",
     "zeit": "2026-10-29T12:03:14+00:00",
@@ -641,22 +657,6 @@
     "titel": "Rothorn Capital gründet Gesellschaft für Nachlassabwicklungen",
     "link": "https://www.finews.ch/news/finanzplatz/74236-rothorn-capital-gesellschaft-nachlass",
     "zeit": "2026-10-29T11:53:07+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "«Je volatiler die Welt wird, desto attraktiver wird die Schweiz»",
-    "link": "https://www.finews.ch/news/banken/74234-goldman-sachs-darren-allaway-family-offices-private-equity-sportinvestments-ki-schweiz",
-    "zeit": "2026-10-29T11:21:16+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Tareno holt Wealth-Management-Experten in den VR",
-    "link": "https://www.finews.ch/news/finanzplatz/74233-tareno-ivan-krattiger-verwaltungsrat",
-    "zeit": "2026-10-29T10:20:44+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
