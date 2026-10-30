@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-30T08:58:25+01:00",
+ "aktualisiert": "2026-10-30T09:51:23+01:00",
  "kernaussagen": [
-  "SMI +1.21%, Nikkei 225 −2.12% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9199 (−0.40%)",
-  "Brent über 100 USD: 112.69 (−1.91%)"
+  "SMI +0.27%, Nikkei 225 −2.12% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9193 (−0.47%)",
+  "Brent über 100 USD: 113.04 (−1.60%)"
  ],
  "maerkte": [
   {
@@ -12,17 +12,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14756.8603515625,
-   "vortag": 14581.099609375,
-   "veraenderung_pct": 1.2054011487205862,
-   "datum": "2026-10-29",
-   "ist_heute": false,
+   "kurs": 14796.91015625,
+   "vortag": 14756.8603515625,
+   "veraenderung_pct": 0.27139787009815564,
+   "datum": "2026-10-30",
+   "ist_heute": true,
    "verlauf": [
-    14462.360352,
     14538.950195,
     14597.629883,
     14581.099609,
-    14756.860352
+    14756.860352,
+    14796.910156
    ]
   },
   {
@@ -31,17 +31,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26039.6796875,
-   "vortag": 25704.01953125,
-   "veraenderung_pct": 1.3058664067770342,
-   "datum": "2026-10-29",
-   "ist_heute": false,
+   "kurs": 25998.7109375,
+   "vortag": 26039.6796875,
+   "veraenderung_pct": -0.15733200443194262,
+   "datum": "2026-10-30",
+   "ist_heute": true,
    "verlauf": [
-    25181.650391,
     25410.839844,
     25590.769531,
     25704.019531,
-    26039.679688
+    26039.679688,
+    25998.710938
    ]
   },
   {
@@ -50,17 +50,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6207.06982421875,
-   "vortag": 6167.81005859375,
-   "veraenderung_pct": 0.6365268264105994,
-   "datum": "2026-10-29",
-   "ist_heute": false,
+   "kurs": 6166.75,
+   "vortag": 6207.06982421875,
+   "veraenderung_pct": -0.6495790342398,
+   "datum": "2026-10-30",
+   "ist_heute": true,
    "verlauf": [
-    6068.220215,
     6116.22998,
     6164.689941,
     6167.810059,
-    6207.069824
+    6207.069824,
+    6166.75
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.919920027256012,
+   "kurs": 0.9192600250244141,
    "vortag": 0.9236000180244446,
-   "veraenderung_pct": -0.39843987620356014,
+   "veraenderung_pct": -0.4698996227082808,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92479,
     0.92229,
     0.9236,
-    0.91992
+    0.91926
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8221799731254578,
+   "kurs": 0.8211899995803833,
    "vortag": 0.8279500007629395,
-   "veraenderung_pct": -0.6969053242544487,
+   "veraenderung_pct": -0.8164745668611584,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82755,
     0.8288,
     0.82795,
-    0.82218
+    0.82119
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3989.800048828125,
+   "kurs": 3996.39990234375,
    "vortag": 4031.39990234375,
-   "veraenderung_pct": -1.0318959796431937,
+   "veraenderung_pct": -0.8681847707455614,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4074.600098,
     4051.600098,
     4031.399902,
-    3989.800049
+    3996.399902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 112.69000244140625,
+   "kurs": 113.04000091552734,
    "vortag": 114.87999725341797,
-   "veraenderung_pct": -1.9063325769243633,
+   "veraenderung_pct": -1.6016681597160076,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     113.879997,
     115.32,
     114.879997,
-    112.690002
+    113.040001
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 77998.078125,
+   "kurs": 77798.671875,
    "vortag": 77775.109375,
-   "veraenderung_pct": 0.2866839427058121,
+   "veraenderung_pct": 0.030295682242487132,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     80805.078125,
     81267.585938,
     77775.109375,
-    77998.078125
+    77798.671875
    ]
   }
  ],
@@ -222,7 +222,19 @@
   {
    "name": "Schweiz",
    "quelle": "snb",
-   "verfuegbar": false
+   "verfuegbar": true,
+   "wert": 0.536,
+   "vortag": 0.495,
+   "veraenderung_bp": 4.1,
+   "datum": "2026-10-29",
+   "ist_heute": false,
+   "verlauf": [
+    0.491,
+    0.526,
+    0.487,
+    0.495,
+    0.536
+   ]
   },
   {
    "name": "Deutschland",
@@ -266,17 +278,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 82.80999755859375,
+   "kurs": 83.80999755859375,
    "vortag": 82.80999755859375,
-   "veraenderung_pct": 0.0,
-   "datum": "2026-10-29",
-   "ist_heute": false,
+   "veraenderung_pct": 1.2075836607680523,
+   "datum": "2026-10-30",
+   "ist_heute": true,
    "verlauf": [
-    83.699997,
     83.730003,
     83.25,
     82.809998,
-    82.809998
+    82.809998,
+    83.809998
    ]
   },
   {
@@ -285,17 +297,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 129.22000122070312,
-   "vortag": 128.77999877929688,
-   "veraenderung_pct": 0.341669859898297,
-   "datum": "2026-10-28",
-   "ist_heute": false,
+   "kurs": 133.02000427246094,
+   "vortag": 132.3000030517578,
+   "veraenderung_pct": 0.544218597199464,
+   "datum": "2026-10-30",
+   "ist_heute": true,
    "verlauf": [
-    128.880005,
-    128.0,
     127.480003,
     128.779999,
-    129.220001
+    129.220001,
+    132.300003,
+    133.020004
    ]
   },
   {
@@ -304,17 +316,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 401.70001220703125,
-   "vortag": 398.79998779296875,
-   "veraenderung_pct": 0.7271876887739559,
-   "datum": "2026-10-29",
-   "ist_heute": false,
+   "kurs": 403.5,
+   "vortag": 401.70001220703125,
+   "veraenderung_pct": 0.44809254126709774,
+   "datum": "2026-10-30",
+   "ist_heute": true,
    "verlauf": [
-    390.899994,
     396.5,
     399.0,
     398.799988,
-    401.700012
+    401.700012,
+    403.5
    ]
   },
   {
@@ -323,17 +335,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.709999084472656,
-   "vortag": 38.599998474121094,
-   "veraenderung_pct": 2.8756493632914326,
-   "datum": "2026-10-29",
-   "ist_heute": false,
+   "kurs": 39.400001525878906,
+   "vortag": 39.709999084472656,
+   "veraenderung_pct": -0.7806536533388253,
+   "datum": "2026-10-30",
+   "ist_heute": true,
    "verlauf": [
-    38.32,
     38.580002,
     38.84,
     38.599998,
-    39.709999
+    39.709999,
+    39.400002
    ]
   }
  ],
@@ -362,12 +374,60 @@
   ],
   "artikel": [
    {
+    "titel": "Audi vermeidet nur knapp die roten Zahlen",
+    "link": "https://www.nzz.ch/wirtschaft/audi-vermeidet-nur-knapp-die-roten-zahlen-ld.10049305",
+    "zeit": "2026-10-30T08:32:56+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Amazon falls 7%, Intel plunges 25% in premarket trading, as pressure mounts after earnings",
+    "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+    "zeit": "2026-10-30T08:32:39+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Gewinnausschüttung offen – SNB erzielt nach 9 Monaten hohen Milliardengewinn",
+    "link": "https://www.srf.ch/news/wirtschaft/gewinnausschuettung-offen-snb-erzielt-nach-9-monaten-hohen-milliardengewinn",
+    "zeit": "2026-10-30T08:09:34+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
+    "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+    "zeit": "2026-10-30T08:09:28+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Binance's $6.3 billion hack: What we know and what comes next",
+    "link": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
+    "zeit": "2026-10-30T08:04:50+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Midterms – Was bedeuten die Wahlen in den USA für die Schweizer Wirtschaft?",
     "link": "https://www.srf.ch/news/international/usa/midterms-was-bedeuten-die-wahlen-in-den-usa-fuer-die-schweizer-wirtschaft",
     "zeit": "2026-10-30T07:56:13+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
+   },
+   {
+    "titel": "BP’s third-quarter profit nearly quadruples to $8.5 billion as refining margins surge",
+    "link": "https://www.cnbc.com/2026/10/30/bp-earnings-oil-q3.html",
+    "zeit": "2026-10-30T07:51:30+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
    },
    {
     "titel": "MELDUNGEN WIRTSCHAFT - SNB erzielt in den ersten drei Quartalen einen Gewinn von 44,2 Milliarden Franken",
@@ -450,24 +510,16 @@
     "sprache": "de"
    },
    {
-    "titel": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
-    "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-    "zeit": "2026-10-30T04:40:17+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Der Gaspreis knackt die 100-Euro-Marke: Europa droht ein ungemütlicher Winter",
-    "link": "https://www.nzz.ch/wirtschaft/der-gaspreis-knackt-die-100-euro-marke-europa-droht-ein-ungemuetlicher-winter-ld.10048155",
+    "titel": "Trotz Widerstand Deutschlands und anderer EU-Länder: Ursula von der Leyen will Kanada «als erstes assoziiertes Mitglied» der EU",
+    "link": "https://www.nzz.ch/wirtschaft/trotz-widerstand-deutschlands-und-anderer-eu-laender-ursula-von-der-leyen-will-kanada-als-erstes-assoziiertes-mitglied-der-eu-ld.10048358",
     "zeit": "2026-10-30T04:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
    {
-    "titel": "Trotz Widerstand Deutschlands und anderer EU-Länder: Ursula von der Leyen will Kanada «als erstes assoziiertes Mitglied» der EU",
-    "link": "https://www.nzz.ch/wirtschaft/trotz-widerstand-deutschlands-und-anderer-eu-laender-ursula-von-der-leyen-will-kanada-als-erstes-assoziiertes-mitglied-der-eu-ld.10048358",
+    "titel": "Der Gaspreis knackt die 100-Euro-Marke: Europa droht ein ungemütlicher Winter",
+    "link": "https://www.nzz.ch/wirtschaft/der-gaspreis-knackt-die-100-euro-marke-europa-droht-ein-ungemuetlicher-winter-ld.10048155",
     "zeit": "2026-10-30T04:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
@@ -514,14 +566,6 @@
     "sprache": "en"
    },
    {
-    "titel": "GASTKOMMENTAR - Bisher war Deutschland Dreh- und Angelpunkt für die amerikanische Verbindung nach Ostmitteleuropa – nun wird es von Polen abgelöst",
-    "link": "https://www.nzz.ch/meinung/bisher-war-deutschland-dreh-und-angelpunkt-fuer-die-amerikanische-verbindung-nach-ostmitteleuropa-nun-wird-es-von-polen-abgeloest-ld.10026732",
-    "zeit": "2026-10-30T04:25:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "BOJ holds rates as underlying inflation aligns with 2% target for first time since 2013",
     "link": "https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html",
     "zeit": "2026-10-30T04:19:38+00:00",
@@ -549,30 +593,6 @@
     "titel": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
     "link": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
     "zeit": "2026-10-30T01:46:36+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Intel plunges on a major guidance miss. What went wrong — and how to proceed",
-    "link": "https://www.cnbc.com/investingclub/2026/10/29/intel-plunges-on-a-major-guidance-miss-what-went-wrong-how-to-proceed.html",
-    "zeit": "2026-10-30T01:06:07+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
-    "link": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
-    "zeit": "2026-10-30T00:39:52+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
-    "link": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
-    "zeit": "2026-10-30T00:38:13+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -669,14 +689,6 @@
     "titel": "Zinsen in den USA – Fed lässt Leitzins vor US-Zwischenwahlen unverändert",
     "link": "https://www.srf.ch/news/wirtschaft/zinsen-in-den-usa-fed-laesst-leitzins-vor-us-zwischenwahlen-unveraendert",
     "zeit": "2026-10-28T20:10:35+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Migros im Umbruch – Ursula Nold: «Bei einem Nein wiederholen wir die Abstimmung»",
-    "link": "https://www.srf.ch/news/wirtschaft/migros-im-umbruch-ursula-nold-bei-einem-nein-wiederholen-wir-die-abstimmung",
-    "zeit": "2026-10-28T20:02:09+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
