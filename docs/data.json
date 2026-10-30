@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-30T18:39:54+01:00",
+ "aktualisiert": "2026-10-30T19:43:58+01:00",
  "kernaussagen": [
-  "SMI +0.36%, Nasdaq −3.11% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9191 (−0.49%)",
-  "Gold −3.25% auf 3'900.30 USD/Unze · Brent über 100 USD"
+  "SMI +0.36%, Nasdaq −3.64% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9197 (−0.42%)",
+  "Gold −3.51% auf 3'890.00 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7575.35986328125,
+   "kurs": 7541.2998046875,
    "vortag": 7720.39013671875,
-   "veraenderung_pct": -1.8785355515613777,
+   "veraenderung_pct": -2.3197057254850773,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7722.600098,
     7743.97998,
     7720.390137,
-    7575.359863
+    7541.299805
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25369.361328125,
+   "kurs": 25232.765625,
    "vortag": 26184.720703125,
-   "veraenderung_pct": -3.113874630340019,
+   "veraenderung_pct": -3.6355364982426197,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26477.810547,
     26549.849609,
     26184.720703,
-    25369.361328
+    25232.765625
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9190899729728699,
+   "kurs": 0.9197499752044678,
    "vortag": 0.9236000180244446,
-   "veraenderung_pct": -0.4883114945386846,
+   "veraenderung_pct": -0.41685174803395286,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92479,
     0.92229,
     0.9236,
-    0.91909
+    0.91975
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8236899971961975,
+   "kurs": 0.8243499994277954,
    "vortag": 0.8279500007629395,
-   "veraenderung_pct": -0.5145242542202388,
+   "veraenderung_pct": -0.4348090261279913,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82755,
     0.8288,
     0.82795,
-    0.82369
+    0.82435
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3900.300048828125,
+   "kurs": 3890.0,
    "vortag": 4031.39990234375,
-   "veraenderung_pct": -3.251968464835431,
+   "veraenderung_pct": -3.5074640514215383,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4074.600098,
     4051.600098,
     4031.399902,
-    3900.300049
+    3890.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 114.18000030517578,
+   "kurs": 113.36000061035156,
    "vortag": 114.87999725341797,
-   "veraenderung_pct": -0.6093288344167003,
+   "veraenderung_pct": -1.3231168866703502,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     113.879997,
     115.32,
     114.879997,
-    114.18
+    113.360001
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 77109.671875,
+   "kurs": 76553.28125,
    "vortag": 77775.109375,
-   "veraenderung_pct": -0.8555918536758744,
+   "veraenderung_pct": -1.5709757720928974,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     80805.078125,
     81267.585938,
     77775.109375,
-    77109.671875
+    76553.28125
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.941,
+   "wert": 4.933,
    "vortag": 4.989,
-   "veraenderung_bp": -4.8,
+   "veraenderung_bp": -5.6,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     4.993,
     5.045,
     4.989,
-    4.941
+    4.933
    ]
   }
  ],
@@ -364,7 +364,7 @@
    {
     "name": "finews.ch",
     "gruppe": "Schweiz",
-    "verfuegbar": false
+    "verfuegbar": true
    },
    {
     "name": "CNBC",
@@ -374,17 +374,9 @@
   ],
   "artikel": [
    {
-    "titel": "Fed officials are already saying they’ll need to get back to hiking rates",
-    "link": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
-    "zeit": "2026-10-30T17:38:05+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Alaska Senate: Judge fast tracks new bids to dismiss DOJ lawsuit over 2nd Sullivan candidacy",
-    "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
-    "zeit": "2026-10-30T17:31:46+00:00",
+    "titel": "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election",
+    "link": "https://www.cnbc.com/2026/10/30/reid-hoffman-democrats-epstein-midterms-2026.html",
+    "zeit": "2026-10-30T18:32:17+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -392,10 +384,74 @@
    {
     "titel": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
     "link": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
-    "zeit": "2026-10-30T17:21:47+00:00",
+    "zeit": "2026-10-30T18:28:09+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Alaska Senate: Judge fast tracks new bids to dismiss DOJ lawsuit over 2nd Sullivan candidacy",
+    "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
+    "zeit": "2026-10-30T18:20:03+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Fed officials are already saying they’ll need to get back to hiking rates",
+    "link": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+    "zeit": "2026-10-30T18:18:17+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Doch eine Art «assoziiertes Mitglied»: Der Gipfel EU-Kanada endet mit einer Überraschung",
+    "link": "https://www.nzz.ch/wirtschaft/doch-eine-art-assoziiertes-mitglied-der-gipfel-eu-kanada-endet-mit-einer-ueberraschung-ld.10049664",
+    "zeit": "2026-10-30T18:17:58+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Wall Street braces for Democratic gains as 2026 midterm election nears",
+    "link": "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
+    "zeit": "2026-10-30T18:13:52+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
+    "link": "https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html",
+    "zeit": "2026-10-30T18:08:07+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Why bitcoin held up better after the record Binance hack",
+    "link": "https://www.cnbc.com/2026/10/30/binance-hack-bitcoin-price.html",
+    "zeit": "2026-10-30T18:07:00+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Class action lawsuit blames Trump officials for student loan forgiveness delays",
+    "link": "https://www.cnbc.com/2026/10/30/lawsuit-blames-trump-officials-for-student-loan-forgiveness-delays.html",
+    "zeit": "2026-10-30T17:40:00+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Luzerner Kantonalbank: Gewinn steigt – Anlagegeschäft gewinnt an Bedeutung",
+    "link": "https://www.finews.ch/news/banken/74258-luzerner-kantonalbank-lukb-gewinn-2026-vermoegensverwaltung-daniel-salzmann",
+    "zeit": "2026-10-30T17:17:22+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
@@ -414,52 +470,12 @@
     "sprache": "en"
    },
    {
-    "titel": "Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch",
-    "link": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
-    "zeit": "2026-10-30T16:55:41+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
-    "link": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
-    "zeit": "2026-10-30T16:44:31+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Google lost nearly half a trillion this week. Here's how Mike Khouw is trading it",
-    "link": "https://www.cnbc.com/2026/10/30/google-lost-about-half-a-trillion-this-week-how-mike-khouw-trades-it-.html",
-    "zeit": "2026-10-30T16:41:34+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Binance's $6.3 billion hack: What we know and what comes next",
-    "link": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
-    "zeit": "2026-10-30T16:31:36+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "MELDUNGEN WIRTSCHAFT - Micasa-Chef verlässt das Möbelhaus schon wieder",
     "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
     "zeit": "2026-10-30T16:12:44+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Class action lawsuit blames Trump officials for student loan forgiveness delays",
-    "link": "https://www.cnbc.com/2026/10/30/lawsuit-blames-trump-officials-for-student-loan-forgiveness-delays.html",
-    "zeit": "2026-10-30T16:04:59+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Weltgrösste Kryptobörse – Wie konnten die Täter den Binance-Raub durchführen?",
@@ -486,10 +502,26 @@
     "sprache": "de"
    },
    {
+    "titel": "BNP Paribas ernennt neuen Leiter Securities Services Schweiz",
+    "link": "https://www.finews.ch/news/banken/74255-bnp-paribas-schweit-marco-critini-securities-services",
+    "zeit": "2026-10-30T11:56:46+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Annäherung an China – Expertin: «Wir sind nicht ausreichend vorbereitet»",
     "link": "https://www.srf.ch/news/dialog/annaeherung-an-china-expertin-wir-sind-nicht-ausreichend-vorbereitet",
     "zeit": "2026-10-30T11:32:22+00:00",
     "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Stellenangebot bei Banken im Oktober leicht besser",
+    "link": "https://www.finews.ch/news/banken/74253-banken-stellenmarkt-oktober-2026-indeed",
+    "zeit": "2026-10-30T10:20:49+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -518,6 +550,14 @@
     "sprache": "de"
    },
    {
+    "titel": "Maverix-Experte: «Bei den Banken wird es zuerst zu Einschnitten kommen»",
+    "link": "https://www.finews.ch/news/finanzplatz/74251-maverix-serge-nussbaumer-ki-banken-jobs-asset-management-bitcoin-podcast",
+    "zeit": "2026-10-30T07:54:37+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Der Nobelpreisträger Philippe Aghion kritisiert seinen Freund Emmanuel Macron: «Wenn die Politik nicht zuhört, wird man wütend»",
     "link": "https://www.nzz.ch/pro/der-nobelpreistraeger-philippe-aghion-kritisiert-seinen-freund-emmanuel-macron-wenn-die-politik-nicht-zuhoert-wird-man-wuetend-ld.10047299",
     "zeit": "2026-10-30T07:25:37+00:00",
@@ -530,6 +570,38 @@
     "link": "https://www.nzz.ch/wirtschaft/hacker-stehlen-63-milliarden-dollar-von-der-krypto-boerse-binance-ld.10049199",
     "zeit": "2026-10-30T06:54:34+00:00",
     "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Binance meldet Krypto-Hack in Milliardenhöhe",
+    "link": "https://www.finews.ch/news/finanzplatz/74249-binance-hacherangriff-schaden-bitcoin",
+    "zeit": "2026-10-30T06:46:49+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "SNB weist bis Ende September hohen Milliardengewinn aus",
+    "link": "https://www.finews.ch/news/finanzplatz/74246-snb-ergebnis-9m-2026",
+    "zeit": "2026-10-30T05:55:24+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "F1 trifft Vermögensverwalter: Warum Vollgas nicht immer die beste Strategie ist",
+    "link": "https://www.finews.ch/news/finanzplatz/74245-flossbach-von-storch-formel-1-beat-zehnder-simon-jaeger-asset-management-zuerich",
+    "zeit": "2026-10-30T05:45:49+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Julius Bär startet Aktienrückkaufprogramm in der kommenden Woche",
+    "link": "https://www.finews.ch/news/banken/74244-julius-baer-start-aktienrueckkaufprogramm",
+    "zeit": "2026-10-30T05:26:44+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -566,14 +638,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Russland kämpft um Einfluss in Afrika, aber sein Vormarsch auf dem Kontinent stockt",
-    "link": "https://www.nzz.ch/international/russland-kaempft-um-einfluss-in-afrika-aber-sein-vormarsch-auf-dem-kontinent-stockt-ld.10047990",
-    "zeit": "2026-10-30T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Grösste Kryptobörse gehackt – Hackerangriff auf Binance: «Krypto ist mit Risiko verbunden»",
     "link": "https://www.srf.ch/news/wirtschaft/groesste-kryptoboerse-gehackt-hackerangriff-auf-binance-krypto-ist-mit-risiko-verbunden",
     "zeit": "2026-10-30T03:44:30+00:00",
@@ -590,10 +654,26 @@
     "sprache": "de"
    },
    {
+    "titel": "Stablecoins: Privatbank zeigt, was Unternehmen jetzt wissen müssen",
+    "link": "https://www.finews.ch/news/banken/74242-maerki-baumann-stablecoins-unternehmen-zahlungsverkehr-liquiditaetsmanagement-digital-economy-award",
+    "zeit": "2026-10-29T13:35:49+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Europäische Zentralbank – Nach Rücktrittsankündigung: Lagarde belässt Leitzins",
     "link": "https://www.srf.ch/news/wirtschaft/europaeische-zentralbank-nach-ruecktrittsankuendigung-lagarde-belaesst-leitzins",
     "zeit": "2026-10-29T13:32:31+00:00",
     "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Franken-Stablecoin: Bankiervereinigung macht Druck",
+    "link": "https://www.finews.ch/news/finanzplatz/74241-franken-stablecoin-swiss-banking-schweizerische-bankiervereinigung-martin-hess-natalie-graf-eu-usa-politik-forderungen",
+    "zeit": "2026-10-29T13:31:19+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
