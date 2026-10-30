@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-30T15:53:45+01:00",
+ "aktualisiert": "2026-10-30T16:48:16+01:00",
  "kernaussagen": [
-  "SMI +0.23%, Nasdaq −2.20% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9198 (−0.41%)",
-  "Gold −2.72% auf 3'921.80 USD/Unze · Brent über 100 USD"
+  "SMI +0.28%, Nasdaq −2.56% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9191 (−0.49%)",
+  "Gold −2.86% auf 3'916.10 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14790.6103515625,
+   "kurs": 14797.7998046875,
    "vortag": 14756.8603515625,
-   "veraenderung_pct": 0.22870718564755865,
+   "veraenderung_pct": 0.27742658092353434,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14597.629883,
     14581.099609,
     14756.860352,
-    14790.610352
+    14797.799805
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25882.3203125,
+   "kurs": 25846.55078125,
    "vortag": 26039.6796875,
-   "veraenderung_pct": -0.6043061085560852,
+   "veraenderung_pct": -0.741671589542281,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25590.769531,
     25704.019531,
     26039.679688,
-    25882.320312
+    25846.550781
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6151.72021484375,
+   "kurs": 6139.81005859375,
    "vortag": 6207.06982421875,
-   "veraenderung_pct": -0.8917188132641418,
+   "veraenderung_pct": -1.083599307398897,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6164.689941,
     6167.810059,
     6207.069824,
-    6151.720215
+    6139.810059
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7617.419921875,
+   "kurs": 7596.68017578125,
    "vortag": 7720.39013671875,
-   "veraenderung_pct": -1.3337436712429374,
+   "veraenderung_pct": -1.6023796562964598,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7722.600098,
     7743.97998,
     7720.390137,
-    7617.419922
+    7596.680176
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25609.455078125,
+   "kurs": 25514.26171875,
    "vortag": 26184.720703125,
-   "veraenderung_pct": -2.196951541023484,
+   "veraenderung_pct": -2.560496985919669,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26477.810547,
     26549.849609,
     26184.720703,
-    25609.455078
+    25514.261719
    ]
   },
   {
@@ -107,17 +107,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 63290.109375,
-   "vortag": 64659.46875,
-   "veraenderung_pct": -2.1178017720722475,
-   "datum": "2026-10-30",
-   "ist_heute": true,
+   "kurs": 64659.46875,
+   "vortag": 63954.19140625,
+   "veraenderung_pct": 1.1027851783316889,
+   "datum": "2026-10-29",
+   "ist_heute": false,
    "verlauf": [
+    62693.160156,
     62189.648438,
     63268.371094,
     63954.191406,
-    64659.46875,
-    63290.109375
+    64659.46875
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9198399782180786,
+   "kurs": 0.9190800189971924,
    "vortag": 0.9236000180244446,
-   "veraenderung_pct": -0.40710694380545753,
+   "veraenderung_pct": -0.48938923116528255,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92479,
     0.92229,
     0.9236,
-    0.91984
+    0.91908
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8247299790382385,
+   "kurs": 0.82396000623703,
    "vortag": 0.8279500007629395,
-   "veraenderung_pct": -0.38891499749185154,
+   "veraenderung_pct": -0.48191249740113795,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82755,
     0.8288,
     0.82795,
-    0.82473
+    0.82396
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3921.800048828125,
+   "kurs": 3916.10009765625,
    "vortag": 4031.39990234375,
-   "veraenderung_pct": -2.718654962806011,
+   "veraenderung_pct": -2.860043842846449,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4074.600098,
     4051.600098,
     4031.399902,
-    3921.800049
+    3916.100098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 113.48999786376953,
+   "kurs": 112.8499984741211,
    "vortag": 114.87999725341797,
-   "veraenderung_pct": -1.2099577149033092,
+   "veraenderung_pct": -1.767060260994635,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     113.879997,
     115.32,
     114.879997,
-    113.489998
+    112.849998
    ]
   },
   {
@@ -203,7 +203,19 @@
    "symbol": "BTC-USD",
    "einheit": "USD",
    "dezimalen": 0,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 77174.953125,
+   "vortag": 77775.109375,
+   "veraenderung_pct": -0.7716559382852095,
+   "datum": "2026-10-30",
+   "ist_heute": true,
+   "verlauf": [
+    80006.65625,
+    80805.078125,
+    81267.585938,
+    77775.109375,
+    77174.953125
+   ]
   }
  ],
  "zinsen": [
@@ -245,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.947,
+   "wert": 4.941,
    "vortag": 4.989,
-   "veraenderung_bp": -4.2,
+   "veraenderung_bp": -4.8,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -255,7 +267,7 @@
     4.993,
     5.045,
     4.989,
-    4.947
+    4.941
    ]
   }
  ],
@@ -266,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 84.30999755859375,
+   "kurs": 84.4000015258789,
    "vortag": 82.80999755859375,
-   "veraenderung_pct": 1.8113754911520674,
+   "veraenderung_pct": 1.9200628114499407,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -276,7 +288,7 @@
     83.25,
     82.809998,
     82.809998,
-    84.309998
+    84.400002
    ]
   },
   {
@@ -285,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 133.63999938964844,
+   "kurs": 134.0399932861328,
    "vortag": 132.3000030517578,
-   "veraenderung_pct": 1.0128467928805618,
+   "veraenderung_pct": 1.3151853320020557,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -295,7 +307,7 @@
     128.779999,
     129.220001,
     132.300003,
-    133.639999
+    134.039993
    ]
   },
   {
@@ -304,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 401.29998779296875,
+   "kurs": 402.1000061035156,
    "vortag": 401.70001220703125,
-   "veraenderung_pct": -0.09958287326522486,
+   "veraenderung_pct": 0.09957527615862549,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -314,7 +326,7 @@
     399.0,
     398.799988,
     401.700012,
-    401.299988
+    402.100006
    ]
   },
   {
@@ -323,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.209999084472656,
+   "kurs": 39.15999984741211,
    "vortag": 39.709999084472656,
-   "veraenderung_pct": -1.259128711981028,
+   "veraenderung_pct": -1.3850396619011884,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -333,7 +345,7 @@
     38.84,
     38.599998,
     39.709999,
-    39.209999
+    39.16
    ]
   }
  ],
@@ -362,17 +374,41 @@
   ],
   "artikel": [
    {
-    "titel": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
-    "link": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
-    "zeit": "2026-10-30T14:53:12+00:00",
+    "titel": "$6.3 billion Binance hack is largest crypto theft on record",
+    "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+    "zeit": "2026-10-30T15:47:07+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "$6.3 billion Binance hack is largest crypto theft on record",
-    "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-    "zeit": "2026-10-30T14:48:26+00:00",
+    "titel": "Intel heads for worst day on Wall Street in more than 50 years on weak guidance",
+    "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+    "zeit": "2026-10-30T15:43:48+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Weltgrösste Kryptobörse – Wie konnten die Täter den Binance-Raub durchführen?",
+    "link": "https://www.srf.ch/news/wirtschaft/weltgroesste-kryptoboerse-wie-konnten-die-taeter-den-binance-raub-durchfuehren",
+    "zeit": "2026-10-30T15:38:56+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
+    "link": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
+    "zeit": "2026-10-30T15:37:29+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Cheaper cars are selling considerably faster than at the beginning of the year",
+    "link": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
+    "zeit": "2026-10-30T15:37:21+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -380,7 +416,31 @@
    {
     "titel": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
     "link": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
-    "zeit": "2026-10-30T14:46:54+00:00",
+    "zeit": "2026-10-30T15:33:00+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others do not",
+    "link": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
+    "zeit": "2026-10-30T15:14:27+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Swiss central bank posts bumper $23 billion profit thanks to gold, foreign assets",
+    "link": "https://www.cnbc.com/2026/10/30/swiss-national-bank-q3-profit-gold-foreign-asset.html",
+    "zeit": "2026-10-30T15:07:48+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
+    "link": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
+    "zeit": "2026-10-30T14:53:12+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -410,52 +470,12 @@
     "sprache": "en"
    },
    {
-    "titel": "'Bad time to troll': Binance cofounder Changpeng Zhao asks Elon Musk for 'respect' after post about bitcoin hack",
-    "link": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
-    "zeit": "2026-10-30T13:29:34+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Christine Lagarde ist Klaus Schwabs Wunschkandidatin für die WEF-Spitze. Doch hat sie andere Pläne?",
     "link": "https://www.nzz.ch/wirtschaft/die-wunschkandidatin-von-klaus-schwab-nur-der-ruf-aus-paris-koennte-christine-lagarde-als-wef-praesidentin-noch-verhindern-ld.10049405",
     "zeit": "2026-10-30T13:26:22+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Swiss central bank posts bumper $23bn profit thanks to gold, foreign assets",
-    "link": "https://www.cnbc.com/2026/10/30/swiss-national-bank-q3-profit-gold-foreign-asset.html",
-    "zeit": "2026-10-30T12:52:36+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Jim Cramer's top 10 things to watch in the stock market Friday",
-    "link": "https://www.cnbc.com/investingclub/2026/10/30/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
-    "zeit": "2026-10-30T12:43:43+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Binance's $6.3 billion hack: What we know and what comes next",
-    "link": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
-    "zeit": "2026-10-30T12:38:53+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "The big questions remaining after Anthropic’s blockbuster IPO prospectus",
-    "link": "https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html",
-    "zeit": "2026-10-30T12:27:36+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "BNP Paribas ernennt neuen Leiter Securities Services Schweiz",
@@ -669,14 +689,6 @@
     "titel": "Autoindustrie in der Krise – Volkswagen meldet fast 6 Milliarden Euro Verlust",
     "link": "https://www.srf.ch/news/wirtschaft/autoindustrie-in-der-krise-volkswagen-meldet-fast-6-milliarden-euro-verlust",
     "zeit": "2026-10-29T07:39:17+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Entlassen von der UBS – Job weg – die Chancen der ehemaligen Banker",
-    "link": "https://www.srf.ch/news/wirtschaft/entlassen-von-der-ubs-job-weg-die-chancen-der-ehemaligen-banker",
-    "zeit": "2026-10-29T05:04:15+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
