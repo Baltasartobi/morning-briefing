@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-30T11:44:49+01:00",
+ "aktualisiert": "2026-10-30T12:37:30+01:00",
  "kernaussagen": [
-  "SMI +0.27%, Nikkei 225 −2.12% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9204 (−0.35%)",
-  "Brent über 100 USD: 113.54 (−1.17%)"
+  "SMI +0.36%, Nikkei 225 −2.12% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9190 (−0.50%)",
+  "Brent über 100 USD: 113.45 (−1.24%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14796.6796875,
+   "kurs": 14810.490234375,
    "vortag": 14756.8603515625,
-   "veraenderung_pct": 0.26983609649247065,
+   "veraenderung_pct": 0.36342339450832206,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14597.629883,
     14581.099609,
     14756.860352,
-    14796.679688
+    14810.490234
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25890.66015625,
+   "kurs": 25880.609375,
    "vortag": 26039.6796875,
-   "veraenderung_pct": -0.5722786648621248,
+   "veraenderung_pct": -0.6108766098853358,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25590.769531,
     25704.019531,
     26039.679688,
-    25890.660156
+    25880.609375
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6153.0498046875,
+   "kurs": 6153.81982421875,
    "vortag": 6207.06982421875,
-   "veraenderung_pct": -0.870298241538614,
+   "veraenderung_pct": -0.8578927176270734,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6164.689941,
     6167.810059,
     6207.069824,
-    6153.049805
+    6153.819824
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9203799962997437,
+   "kurs": 0.9189800024032593,
    "vortag": 0.9236000180244446,
-   "veraenderung_pct": -0.34863811843447445,
+   "veraenderung_pct": -0.5002182255331,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92479,
     0.92229,
     0.9236,
-    0.92038
+    0.91898
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8218200206756592,
+   "kurs": 0.8208900094032288,
    "vortag": 0.8279500007629395,
-   "veraenderung_pct": -0.740380467616597,
+   "veraenderung_pct": -0.8527074525279343,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82755,
     0.8288,
     0.82795,
-    0.82182
+    0.82089
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3993.5,
+   "kurs": 3982.300048828125,
    "vortag": 4031.39990234375,
-   "veraenderung_pct": -0.9401176579310833,
+   "veraenderung_pct": -1.2179355733743957,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4074.600098,
     4051.600098,
     4031.399902,
-    3993.5
+    3982.300049
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 113.54000091552734,
+   "kurs": 113.44999694824219,
    "vortag": 114.87999725341797,
-   "veraenderung_pct": -1.1664313805080262,
+   "veraenderung_pct": -1.2447774541822887,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     113.879997,
     115.32,
     114.879997,
-    113.540001
+    113.449997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 77560.34375,
+   "kurs": 77458.2890625,
    "vortag": 77775.109375,
-   "veraenderung_pct": -0.27613670585082684,
+   "veraenderung_pct": -0.4073543773142396,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     80805.078125,
     81267.585938,
     77775.109375,
-    77560.34375
+    77458.289062
    ]
   }
  ],
@@ -240,17 +240,17 @@
    "name": "Deutschland",
    "quelle": "bundesbank",
    "verfuegbar": true,
-   "wert": 3.42,
-   "vortag": 3.43,
-   "veraenderung_bp": -1.0,
-   "datum": "2026-10-29",
-   "ist_heute": false,
+   "wert": 3.4,
+   "vortag": 3.42,
+   "veraenderung_bp": -2.0,
+   "datum": "2026-10-30",
+   "ist_heute": true,
    "verlauf": [
-    3.39,
     3.43,
     3.42,
     3.43,
-    3.42
+    3.42,
+    3.4
    ]
   },
   {
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 84.23999786376953,
+   "kurs": 84.43000030517578,
    "vortag": 82.80999755859375,
-   "veraenderung_pct": 1.7268450034235938,
+   "veraenderung_pct": 1.9562888471718276,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     83.25,
     82.809998,
     82.809998,
-    84.239998
+    84.43
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 133.63999938964844,
+   "kurs": 133.82000732421875,
    "vortag": 132.3000030517578,
-   "veraenderung_pct": 1.0128467928805618,
+   "veraenderung_pct": 1.148907208918426,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     128.779999,
     129.220001,
     132.300003,
-    133.639999
+    133.820007
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 403.70001220703125,
+   "kurs": 403.20001220703125,
    "vortag": 401.70001220703125,
-   "veraenderung_pct": 0.4978839778997157,
+   "veraenderung_pct": 0.37341298342479234,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     399.0,
     398.799988,
     401.700012,
-    403.700012
+    403.200012
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.150001525878906,
+   "kurs": 39.119998931884766,
    "vortag": 39.709999084472656,
-   "veraenderung_pct": -1.4102180093293448,
+   "veraenderung_pct": -1.4857722643932036,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     38.84,
     38.599998,
     39.709999,
-    39.150002
+    39.119999
    ]
   }
  ],
@@ -364,7 +364,7 @@
    {
     "name": "finews.ch",
     "gruppe": "Schweiz",
-    "verfuegbar": true
+    "verfuegbar": false
    },
    {
     "name": "CNBC",
@@ -374,9 +374,49 @@
   ],
   "artikel": [
    {
-    "titel": "Gen Z is ditching bars for run clubs — and finding more than friends along the way",
-    "link": "https://www.cnbc.com/2026/10/30/gen-z-diplo-run-club.html",
-    "zeit": "2026-10-30T10:32:46+00:00",
+    "titel": "Chevron and Exxon beat earnings expectations as refining profits soar on high diesel fuel prices",
+    "link": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
+    "zeit": "2026-10-30T11:35:51+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
+    "link": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
+    "zeit": "2026-10-30T11:33:34+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Annäherung an China – Expertin: «Wir sind nicht ausreichend vorbereitet»",
+    "link": "https://www.srf.ch/news/dialog/annaeherung-an-china-expertin-wir-sind-nicht-ausreichend-vorbereitet",
+    "zeit": "2026-10-30T11:32:22+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others did not",
+    "link": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
+    "zeit": "2026-10-30T11:30:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Russian strikes plunge Ukrainian city into blackout as Zelenskyy warns of more missile attacks",
+    "link": "https://www.cnbc.com/2026/10/30/russia-ukraine-putin-zelenskyy-energy-strikes.html",
+    "zeit": "2026-10-30T11:29:59+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
+    "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+    "zeit": "2026-10-30T11:24:42+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,15 +424,31 @@
    {
     "titel": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
     "link": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html",
-    "zeit": "2026-10-30T10:23:46+00:00",
+    "zeit": "2026-10-30T11:16:46+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Chevron beats earnings expectations as refining profits soar on high diesel fuel prices",
-    "link": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
-    "zeit": "2026-10-30T10:21:33+00:00",
+    "titel": "Wall Street braces for Democratic gains as 2026 midterm election nears",
+    "link": "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
+    "zeit": "2026-10-30T11:12:17+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Tech giants need legacy businesses to keep growing as they pour trillions into the AI buildout",
+    "link": "https://www.cnbc.com/2026/10/30/tech-giants-alphabet-meta-microsoft-amazon-ai-buildouts.html",
+    "zeit": "2026-10-30T11:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Gen Z is ditching bars for run clubs — and finding more than friends along the way",
+    "link": "https://www.cnbc.com/2026/10/30/gen-z-diplo-run-club.html",
+    "zeit": "2026-10-30T10:32:46+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -406,44 +462,12 @@
     "sprache": "en"
    },
    {
-    "titel": "Wall Street braces for Democratic gains as 2026 midterm election nears",
-    "link": "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
-    "zeit": "2026-10-30T10:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Amazon falls 7%, Intel plunges 25% in premarket trading, as pressure mounts after earnings",
-    "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
-    "zeit": "2026-10-30T09:16:27+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "BP’s third-quarter profit nearly quadruples to $8.5 billion as refining margins surge",
-    "link": "https://www.cnbc.com/2026/10/30/bp-earnings-oil-q3.html",
-    "zeit": "2026-10-30T09:00:24+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Audi vermeidet nur knapp die roten Zahlen",
     "link": "https://www.nzz.ch/wirtschaft/audi-vermeidet-nur-knapp-die-roten-zahlen-ld.10049305",
     "zeit": "2026-10-30T08:32:56+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Trump, Vance scrap planned appearances in final stretch of midterm campaign",
-    "link": "https://www.cnbc.com/2026/10/30/trump-vance-rally-midterm-elections-.html",
-    "zeit": "2026-10-30T08:18:13+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Gewinnausschüttung offen – SNB erzielt nach 9 Monaten hohen Milliardengewinn",
@@ -454,36 +478,12 @@
     "sprache": "de"
    },
    {
-    "titel": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
-    "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-    "zeit": "2026-10-30T08:09:28+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Midterms – Was bedeuten die Wahlen in den USA für die Schweizer Wirtschaft?",
     "link": "https://www.srf.ch/news/international/usa/midterms-was-bedeuten-die-wahlen-in-den-usa-fuer-die-schweizer-wirtschaft",
     "zeit": "2026-10-30T07:56:13+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Maverix-Experte: «Bei den Banken wird es zuerst zu Einschnitten kommen»",
-    "link": "https://www.finews.ch/news/finanzplatz/74251-maverix-serge-nussbaumer-ki-banken-jobs-asset-management-bitcoin-podcast",
-    "zeit": "2026-10-30T07:54:37+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Foxconn hopes to own 50% of the global AI server market within a couple years",
-    "link": "https://www.cnbc.com/2026/10/30/hon-hai-technology-group-foxconn-ai-server-young-liu-.html",
-    "zeit": "2026-10-30T07:43:39+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "MELDUNGEN WIRTSCHAFT - SNB erzielt in den ersten drei Quartalen einen Gewinn von 44,2 Milliarden Franken",
@@ -506,38 +506,6 @@
     "link": "https://www.nzz.ch/wirtschaft/hacker-stehlen-63-milliarden-dollar-von-der-krypto-boerse-binance-ld.10049199",
     "zeit": "2026-10-30T06:54:34+00:00",
     "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Binance meldet Krypto-Hack in Milliardenhöhe",
-    "link": "https://www.finews.ch/news/finanzplatz/74249-binance-hacherangriff-schaden-bitcoin",
-    "zeit": "2026-10-30T06:46:49+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "SNB weist bis Ende September hohen Milliardengewinn aus",
-    "link": "https://www.finews.ch/news/finanzplatz/74246-snb-ergebnis-9m-2026",
-    "zeit": "2026-10-30T05:55:24+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "F1 trifft Vermögensverwalter: Warum Vollgas nicht immer die beste Strategie ist",
-    "link": "https://www.finews.ch/news/finanzplatz/74245-flossbach-von-storch-formel-1-beat-zehnder-simon-jaeger-asset-management-zuerich",
-    "zeit": "2026-10-30T05:45:49+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Julius Bär startet Aktienrückkaufprogramm in der kommenden Woche",
-    "link": "https://www.finews.ch/news/banken/74244-julius-baer-start-aktienrueckkaufprogramm",
-    "zeit": "2026-10-30T05:26:44+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -614,50 +582,10 @@
     "sprache": "de"
    },
    {
-    "titel": "Stablecoins: Privatbank zeigt, was Unternehmen jetzt wissen müssen",
-    "link": "https://www.finews.ch/news/banken/74242-maerki-baumann-stablecoins-unternehmen-zahlungsverkehr-liquiditaetsmanagement-digital-economy-award",
-    "zeit": "2026-10-29T13:35:49+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Europäische Zentralbank – Nach Rücktrittsankündigung: Lagarde belässt Leitzins",
     "link": "https://www.srf.ch/news/wirtschaft/europaeische-zentralbank-nach-ruecktrittsankuendigung-lagarde-belaesst-leitzins",
     "zeit": "2026-10-29T13:32:31+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Franken-Stablecoin: Bankiervereinigung macht Druck",
-    "link": "https://www.finews.ch/news/finanzplatz/74241-franken-stablecoin-swiss-banking-schweizerische-bankiervereinigung-martin-hess-natalie-graf-eu-usa-politik-forderungen",
-    "zeit": "2026-10-29T13:31:19+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Personalwechsel: Dahin zieht es derzeit am meisten Wealth Manager",
-    "link": "https://www.finews.ch/news/finanzplatz/74240-personalwechsel-wealth-manager-schweiz-align-private-wealth-aquila-vermoegensverwalter-2026",
-    "zeit": "2026-10-29T12:48:46+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Auch nach 50 Jahren: Hayeks Werk inspiriert die Geld-Praktiker",
-    "link": "https://www.finews.ch/news/finanzplatz/74238-entnationalisierung-geld-hayek-moneymuseum-frankencoin-brickmark-swissgrams-realunit-tokenisierung-par",
-    "zeit": "2026-10-29T12:03:14+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Rothorn Capital gründet Gesellschaft für Nachlassabwicklungen",
-    "link": "https://www.finews.ch/news/finanzplatz/74236-rothorn-capital-gesellschaft-nachlass",
-    "zeit": "2026-10-29T11:53:07+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -681,14 +609,6 @@
     "titel": "Entlassen von der UBS – Job weg – die Chancen der ehemaligen Banker",
     "link": "https://www.srf.ch/news/wirtschaft/entlassen-von-der-ubs-job-weg-die-chancen-der-ehemaligen-banker",
     "zeit": "2026-10-29T05:04:15+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Zinsen in den USA – Fed lässt Leitzins vor US-Zwischenwahlen unverändert",
-    "link": "https://www.srf.ch/news/wirtschaft/zinsen-in-den-usa-fed-laesst-leitzins-vor-us-zwischenwahlen-unveraendert",
-    "zeit": "2026-10-28T20:10:35+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
