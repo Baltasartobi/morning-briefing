@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-30T06:42:56+01:00",
+ "aktualisiert": "2026-10-30T07:50:28+01:00",
  "kernaussagen": [
-  "SMI +1.21%, Nikkei 225 −2.24% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9199 (−0.40%)",
-  "Bitcoin −3.38% auf 78'521 USD · Brent über 100 USD"
+  "SMI +1.21%, Nikkei 225 −2.12% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9203 (−0.36%)",
+  "Bitcoin −3.58% auf 78'361 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 63212.0,
+   "kurs": 63290.109375,
    "vortag": 64659.46875,
-   "veraenderung_pct": -2.238602911503196,
+   "veraenderung_pct": -2.1178017720722475,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     63268.371094,
     63954.191406,
     64659.46875,
-    63212.0
+    63290.109375
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9198899865150452,
+   "kurs": 0.9202799797058105,
    "vortag": 0.9236000180244446,
-   "veraenderung_pct": -0.4016924466215488,
+   "veraenderung_pct": -0.35946711280230303,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92479,
     0.92229,
     0.9236,
-    0.91989
+    0.92028
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8225399851799011,
+   "kurs": 0.823199987411499,
    "vortag": 0.8279500007629395,
-   "veraenderung_pct": -0.6534229818289883,
+   "veraenderung_pct": -0.5737077537367408,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82755,
     0.8288,
     0.82795,
-    0.82254
+    0.8232
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4016.300048828125,
+   "kurs": 3997.0,
    "vortag": 4031.39990234375,
-   "veraenderung_pct": -0.37455608179298716,
+   "veraenderung_pct": -0.853299180856526,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4074.600098,
     4051.600098,
     4031.399902,
-    4016.300049
+    3997.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 112.06999969482422,
+   "kurs": 111.70999908447266,
    "vortag": 114.87999725341797,
-   "veraenderung_pct": -2.4460285739692944,
+   "veraenderung_pct": -2.7593995862939424,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     113.879997,
     115.32,
     114.879997,
-    112.07
+    111.709999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 78520.9609375,
+   "kurs": 78361.0078125,
    "vortag": 81267.5859375,
-   "veraenderung_pct": -3.379730021896221,
+   "veraenderung_pct": -3.576552805734068,
    "datum": "2026-10-30",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     80006.65625,
     80805.078125,
     81267.585938,
-    78520.960938
+    78361.007812
    ]
   }
  ],
@@ -374,8 +374,40 @@
   ],
   "artikel": [
    {
-    "titel": "Drohnen-Krieg in der Ukraine – Schweizer Teile auch in neuen russischen Waffen entdeckt",
-    "link": "https://www.srf.ch/news/schweiz/drohnen-krieg-in-der-ukraine-schweizer-teile-auch-in-neuen-russischen-waffen-entdeckt",
+    "titel": "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms",
+    "link": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html",
+    "zeit": "2026-10-30T06:35:19+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Hacker lancieren grössten bisher grössten Angriff auf Krypto-Börse Binance: Mehr als 6 Milliarden Dollar sind betroffen",
+    "link": "https://www.nzz.ch/wirtschaft/hacker-stehlen-63-milliarden-dollar-von-der-krypto-boerse-binance-ld.10049199",
+    "zeit": "2026-10-30T06:05:53+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "A pharma giant is moving past one patent cliff — but another is already looming",
+    "link": "https://www.cnbc.com/2026/10/30/novartis-remibrutinib-multiple-sclerosis.html",
+    "zeit": "2026-10-30T06:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Julius Bär startet Aktienrückkaufprogramm in der kommenden Woche",
+    "link": "https://www.finews.ch/news/banken/74244-julius-baer-start-aktienrueckkaufprogramm",
+    "zeit": "2026-10-30T05:26:44+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Drohnen-Krieg in der Ukraine – Schweizer Bauteile auch in neuen russischen Waffen entdeckt",
+    "link": "https://www.srf.ch/news/schweiz/drohnen-krieg-in-der-ukraine-schweizer-bauteile-auch-in-neuen-russischen-waffen-entdeckt",
     "zeit": "2026-10-30T04:56:31+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
@@ -462,8 +494,8 @@
     "sprache": "en"
    },
    {
-    "titel": "Milliarden abgeflossen – Hackerangriff auf Kryptobörse Binance – Kryptohandel gestoppt",
-    "link": "https://www.srf.ch/news/wirtschaft/milliarden-abgeflossen-hackerangriff-auf-kryptoboerse-binance-kryptohandel-gestoppt",
+    "titel": "Grösste Kryptobörse gehackt – Hackerangriff auf Binance: «Krypto ist mit Risiko verbunden»",
+    "link": "https://www.srf.ch/news/wirtschaft/groesste-kryptoboerse-gehackt-hackerangriff-auf-binance-krypto-ist-mit-risiko-verbunden",
     "zeit": "2026-10-30T03:44:30+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
@@ -518,22 +550,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
-    "link": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
-    "zeit": "2026-10-30T00:28:45+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "How elections worldwide are testing Trump’s influence abroad",
-    "link": "https://www.cnbc.com/2026/10/30/election-trump-brazil-serbia-hungary.html",
-    "zeit": "2026-10-30T00:13:22+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Immobilienmarkt: Die Städte exportieren ihre Probleme aufs Land und in andere Kantone",
     "link": "https://www.nzz.ch/wirtschaft/immobilienmarkt-die-staedte-exportieren-ihre-probleme-aufs-land-und-in-andere-kantone-ld.10045852",
     "zeit": "2026-10-29T16:00:00+00:00",
@@ -546,14 +562,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/autohersteller-in-der-krise-europas-autoindustrie-krankt-auch-aus-eigenem-verschulden",
     "zeit": "2026-10-29T15:51:44+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Der vorzeitige Abschied von Christine Lagarde beschleunigt den Poker um die EZB-Spitze",
-    "link": "https://www.nzz.ch/wirtschaft/ezb-praesidentin-christine-lagarde-tritt-zurueck-ld.10048282",
-    "zeit": "2026-10-29T15:06:23+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -649,14 +657,6 @@
     "titel": "CFO-Stimmung so optimistisch wie lange nicht",
     "link": "https://www.finews.ch/news/finanzplatz/74226-deloitte-cfo-stimmungs-barometer-herbst-2026",
     "zeit": "2026-10-29T07:37:10+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Führungswechsel bei LGT Capital Partners",
-    "link": "https://www.finews.ch/news/finanzplatz/74225-lgt-capital-partners-neuer-ceo-sascha-gruber",
-    "zeit": "2026-10-29T07:18:49+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
