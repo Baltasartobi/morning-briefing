@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-11-02T18:28:28+01:00",
+ "aktualisiert": "2026-11-02T19:23:41+01:00",
  "kernaussagen": [
   "SMI −0.05%, Nikkei 225 −2.12% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9170 (−0.43%)",
-  "Brent über 100 USD: 104.79 (−10.92%)"
+  "Franken stärker: EUR/CHF 0.9165 (−0.48%)",
+  "Brent über 100 USD: 103.68 (−11.87%)"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7613.0400390625,
+   "kurs": 7608.669921875,
    "vortag": 7580.06982421875,
-   "veraenderung_pct": 0.43495924982654977,
+   "veraenderung_pct": 0.37730651985383723,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7743.97998,
     7720.390137,
     7580.069824,
-    7613.040039
+    7608.669922
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25543.333984375,
+   "kurs": 25514.740234375,
    "vortag": 25437.0,
-   "veraenderung_pct": 0.4180287941777827,
+   "veraenderung_pct": 0.3056187222353346,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26549.849609,
     26184.720703,
     25437.0,
-    25543.333984
+    25514.740234
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9170100092887878,
+   "kurs": 0.9164900183677673,
    "vortag": 0.920930027961731,
-   "veraenderung_pct": -0.42565868783963623,
+   "veraenderung_pct": -0.48212236099962613,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92229,
     0.9236,
     0.92093,
-    0.91701
+    0.91649
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8183199763298035,
+   "kurs": 0.8183500170707703,
    "vortag": 0.8236100077629089,
-   "veraenderung_pct": -0.6422981002227379,
+   "veraenderung_pct": -0.638650652925632,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8288,
     0.82795,
     0.82361,
-    0.81832
+    0.81835
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3977.0,
+   "kurs": 3974.300048828125,
    "vortag": 3898.89990234375,
-   "veraenderung_pct": 2.003131642576972,
+   "veraenderung_pct": 1.933882591831848,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4051.600098,
     4031.399902,
     3898.899902,
-    3977.0
+    3974.300049
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.79000091552734,
+   "kurs": 103.68000030517578,
    "vortag": 117.63999938964844,
-   "veraenderung_pct": -10.923154148921066,
+   "veraenderung_pct": -11.866711286043275,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     115.32,
     114.879997,
     117.639999,
-    104.790001
+    103.68
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 77038.8125,
+   "kurs": 77024.953125,
    "vortag": 78248.453125,
-   "veraenderung_pct": -1.54589717328677,
+   "veraenderung_pct": -1.5636091847662348,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     77198.210938,
     77434.75,
     78248.453125,
-    77038.8125
+    77024.953125
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.882,
+   "wert": 4.871,
    "vortag": 4.929,
-   "veraenderung_bp": -4.7,
+   "veraenderung_bp": -5.8,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.045,
     4.989,
     4.929,
-    4.882
+    4.871
    ]
   }
  ],
@@ -277,7 +277,19 @@
    "symbol": "NESN.SW",
    "einheit": "CHF",
    "dezimalen": 2,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 84.63999938964844,
+   "vortag": 84.69999694824219,
+   "veraenderung_pct": -0.07083537279276575,
+   "datum": "2026-11-02",
+   "ist_heute": true,
+   "verlauf": [
+    83.25,
+    82.809998,
+    82.809998,
+    84.699997,
+    84.639999
+   ]
   },
   {
    "name": "Novartis",
@@ -362,9 +374,17 @@
   ],
   "artikel": [
    {
-    "titel": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
-    "link": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-    "zeit": "2026-11-02T17:27:52+00:00",
+    "titel": "Apple reports after the bell. Options traders expect a big move",
+    "link": "https://www.cnbc.com/2026/11/02/apple-reports-after-the-bell-options-traders-expect-a-big-move.html",
+    "zeit": "2026-11-02T18:19:03+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Options traders are getting anxious on Palantir and Apple ahead of earnings",
+    "link": "https://www.cnbc.com/2026/11/02/options-traders-are-getting-anxious-on-palantir-and-apple-ahead-of-earnings.html",
+    "zeit": "2026-11-02T18:16:02+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -372,7 +392,31 @@
    {
     "titel": "DOJ asks Supreme Court to block California counting disputed mail-in ballots",
     "link": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
-    "zeit": "2026-11-02T17:26:55+00:00",
+    "zeit": "2026-11-02T18:12:15+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
+    "link": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+    "zeit": "2026-11-02T18:09:26+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Stock market after midterm elections: What S&P 500 history shows",
+    "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+    "zeit": "2026-11-02T17:57:35+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
+    "link": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+    "zeit": "2026-11-02T17:52:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -380,23 +424,31 @@
    {
     "titel": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms",
     "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
-    "zeit": "2026-11-02T17:24:18+00:00",
+    "zeit": "2026-11-02T17:37:46+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "CrowdStrike lands an upgrade, and Jim Cramer's advice on Apple ahead of earnings",
-    "link": "https://www.cnbc.com/investingclub/2026/11/02/crowdstrike-lands-an-upgrade-and-jim-cramers-advice-on-apple-ahead-of-earnings.html",
-    "zeit": "2026-11-02T17:04:34+00:00",
+    "titel": "Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe",
+    "link": "https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html",
+    "zeit": "2026-11-02T17:35:57+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Fed will vote on rates less often. What that could mean for borrowers",
-    "link": "https://www.cnbc.com/2026/11/02/fed-rate-votes-consumer-borrowing-costs.html",
-    "zeit": "2026-11-02T17:03:07+00:00",
+    "titel": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
+    "link": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
+    "zeit": "2026-11-02T17:33:26+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Fanatics takes bigger NHL design role with all-32 team Hometown Remix jerseys",
+    "link": "https://www.cnbc.com/2026/11/02/fanatics-nhl-hometown-remix-jerseys.html",
+    "zeit": "2026-11-02T17:28:16+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -408,46 +460,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
-    "link": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
-    "zeit": "2026-11-02T16:59:45+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Stock market after midterm elections: What S&P 500 history shows",
-    "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-    "zeit": "2026-11-02T16:48:28+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe: Reports",
-    "link": "https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html",
-    "zeit": "2026-11-02T16:42:12+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
-    "link": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
-    "zeit": "2026-11-02T16:13:00+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Fanatics takes bigger NHL design role with all-32 team Hometown Remix jerseys",
-    "link": "https://www.cnbc.com/2026/11/02/fanatics-nhl-hometown-remix-jerseys.html",
-    "zeit": "2026-11-02T16:00:06+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Ein Schnäppchen mit Risiken: Autoneum übernimmt angeschlagenen Zulieferer",
