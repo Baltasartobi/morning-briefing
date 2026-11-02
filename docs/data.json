@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-11-02T10:59:15+01:00",
+ "aktualisiert": "2026-11-02T11:56:36+01:00",
  "kernaussagen": [
-  "SMI −0.26%, Nasdaq −2.86% am schwächsten",
-  "Franken stabil: EUR/CHF 0.9208 (−0.02%)",
-  "Brent über 100 USD: 108.30 (−7.94%)"
+  "SMI −0.13%, Nasdaq −2.86% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9200 (−0.10%)",
+  "Brent über 100 USD: 108.74 (−7.57%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14772.3896484375,
+   "kurs": 14790.990234375,
    "vortag": 14810.66015625,
-   "veraenderung_pct": -0.25839839283835486,
+   "veraenderung_pct": -0.1328092176006046,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14581.099609,
     14756.860352,
     14810.660156,
-    14772.389648
+    14790.990234
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25865.060546875,
+   "kurs": 25921.4296875,
    "vortag": 25818.2109375,
-   "veraenderung_pct": 0.18145954996033886,
+   "veraenderung_pct": 0.3997904821905429,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25704.019531,
     26039.679688,
     25818.210938,
-    25865.060547
+    25921.429688
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6151.77001953125,
+   "kurs": 6160.3701171875,
    "vortag": 6131.31005859375,
-   "veraenderung_pct": 0.3336963999858833,
+   "veraenderung_pct": 0.4739616544594538,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6167.810059,
     6207.069824,
     6131.310059,
-    6151.77002
+    6160.370117
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9207500219345093,
+   "kurs": 0.9199699759483337,
    "vortag": 0.920930027961731,
-   "veraenderung_pct": -0.019546113358914763,
+   "veraenderung_pct": -0.1042480953218683,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92229,
     0.9236,
     0.92093,
-    0.92075
+    0.91997
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8207700252532959,
+   "kurs": 0.8210800290107727,
    "vortag": 0.8236100077629089,
-   "veraenderung_pct": -0.34482127254948924,
+   "veraenderung_pct": -0.30718164280302274,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8288,
     0.82795,
     0.82361,
-    0.82077
+    0.82108
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3908.300048828125,
+   "kurs": 3905.0,
    "vortag": 3898.89990234375,
-   "veraenderung_pct": 0.24109740490450005,
+   "veraenderung_pct": 0.156456893201673,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4051.600098,
     4031.399902,
     3898.899902,
-    3908.300049
+    3905.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 108.30000305175781,
+   "kurs": 108.73999786376953,
    "vortag": 117.63999938964844,
-   "veraenderung_pct": -7.939473296794731,
+   "veraenderung_pct": -7.565455263562382,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     115.32,
     114.879997,
     117.639999,
-    108.300003
+    108.739998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 77960.6484375,
+   "kurs": 77849.2890625,
    "vortag": 78248.453125,
-   "veraenderung_pct": -0.36780878855232624,
+   "veraenderung_pct": -0.5101239022097248,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     77198.210938,
     77434.75,
     78248.453125,
-    77960.648438
+    77849.289062
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 84.81999969482422,
+   "kurs": 84.95999908447266,
    "vortag": 84.69999694824219,
-   "veraenderung_pct": 0.14167975313548187,
+   "veraenderung_pct": 0.30696829468523923,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     82.809998,
     82.809998,
     84.699997,
-    84.82
+    84.959999
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 131.72000122070312,
+   "kurs": 132.13999938964844,
    "vortag": 133.77999877929688,
-   "veraenderung_pct": -1.5398397199810288,
+   "veraenderung_pct": -1.22589281253771,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     129.220001,
     132.300003,
     133.779999,
-    131.720001
+    132.139999
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 398.20001220703125,
+   "kurs": 398.70001220703125,
    "vortag": 403.3999938964844,
-   "veraenderung_pct": -1.289038613815019,
+   "veraenderung_pct": -1.1650921568083006,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     398.799988,
     401.700012,
     403.399994,
-    398.200012
+    398.700012
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.38999938964844,
+   "kurs": 39.380001068115234,
    "vortag": 39.2400016784668,
-   "veraenderung_pct": 0.3822571477206438,
+   "veraenderung_pct": 0.35677722645273136,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     38.599998,
     39.709999,
     39.240002,
-    39.389999
+    39.380001
    ]
   }
  ],
@@ -374,9 +374,25 @@
   ],
   "artikel": [
    {
+    "titel": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
+    "link": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
+    "zeit": "2026-11-02T10:29:11+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Ryanair CEO warns fares could rise by up to 20% in 2027 as fuel bill jumps by $2.2 billion",
     "link": "https://www.cnbc.com/2026/11/02/ryanair-h1-earnings-iran-war-fuel-costs.html",
     "zeit": "2026-11-02T09:27:47+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "U.S. crude falls below $100 amid reports of U.S.-Iran diplomatic efforts",
+    "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+    "zeit": "2026-11-02T09:17:54+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -436,6 +452,14 @@
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Neuer Wind bei den Vermögensverwaltern, Bruchlinien im Finanzsystem",
+    "link": "https://www.finews.ch/news/finanzplatz/74261-verband-schweizerischer-vermoegensverwalter-vsv-jahreskongress-2026-vivien-jain-daniela-stoffel-andreas-schrimpf",
+    "zeit": "2026-11-02T05:50:12+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Abstimmung über Kriegsmaterial – Wie geht es der Schweizer Rüstungsindustrie?",
@@ -566,25 +590,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes",
-    "link": "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html",
-    "zeit": "2026-11-02T02:39:35+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
     "link": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
     "zeit": "2026-11-01T23:17:57+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election",
-    "link": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
-    "zeit": "2026-11-01T21:06:42+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -681,14 +689,6 @@
     "titel": "Maverix-Experte: «Bei den Banken wird es zuerst zu Einschnitten kommen»",
     "link": "https://www.finews.ch/news/finanzplatz/74251-maverix-serge-nussbaumer-ki-banken-jobs-asset-management-bitcoin-podcast",
     "zeit": "2026-10-30T07:54:37+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Binance meldet Krypto-Hack in Milliardenhöhe",
-    "link": "https://www.finews.ch/news/finanzplatz/74249-binance-hacherangriff-schaden-bitcoin",
-    "zeit": "2026-10-30T06:46:49+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
