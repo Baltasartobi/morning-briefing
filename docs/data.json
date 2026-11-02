@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-11-02T09:41:58+01:00",
+ "aktualisiert": "2026-11-02T10:59:15+01:00",
  "kernaussagen": [
-  "SMI −0.49%, Nasdaq −2.86% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9198 (−0.12%)",
-  "Brent über 100 USD: 109.52 (−6.90%)"
+  "SMI −0.26%, Nasdaq −2.86% am schwächsten",
+  "Franken stabil: EUR/CHF 0.9208 (−0.02%)",
+  "Brent über 100 USD: 108.30 (−7.94%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14738.4296875,
+   "kurs": 14772.3896484375,
    "vortag": 14810.66015625,
-   "veraenderung_pct": -0.4876924322614995,
+   "veraenderung_pct": -0.25839839283835486,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14581.099609,
     14756.860352,
     14810.660156,
-    14738.429688
+    14772.389648
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25767.560546875,
+   "kurs": 25865.060546875,
    "vortag": 25818.2109375,
-   "veraenderung_pct": -0.19618086918420374,
+   "veraenderung_pct": 0.18145954996033886,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25704.019531,
     26039.679688,
     25818.210938,
-    25767.560547
+    25865.060547
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6133.27978515625,
+   "kurs": 6151.77001953125,
    "vortag": 6131.31005859375,
-   "veraenderung_pct": 0.0321257046809853,
+   "veraenderung_pct": 0.3336963999858833,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6167.810059,
     6207.069824,
     6131.310059,
-    6133.279785
+    6151.77002
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9197900295257568,
+   "kurs": 0.9207500219345093,
    "vortag": 0.920930027961731,
-   "veraenderung_pct": -0.12378773645781438,
+   "veraenderung_pct": -0.019546113358914763,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92229,
     0.9236,
     0.92093,
-    0.91979
+    0.92075
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8202400207519531,
+   "kurs": 0.8207700252532959,
    "vortag": 0.8236100077629089,
-   "veraenderung_pct": -0.4091726641483384,
+   "veraenderung_pct": -0.34482127254948924,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8288,
     0.82795,
     0.82361,
-    0.82024
+    0.82077
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3903.0,
+   "kurs": 3908.300048828125,
    "vortag": 3898.89990234375,
-   "veraenderung_pct": 0.10516037238568199,
+   "veraenderung_pct": 0.24109740490450005,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4051.600098,
     4031.399902,
     3898.899902,
-    3903.0
+    3908.300049
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.5199966430664,
+   "kurs": 108.30000305175781,
    "vortag": 117.63999938964844,
-   "veraenderung_pct": -6.902416515395304,
+   "veraenderung_pct": -7.939473296794731,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     115.32,
     114.879997,
     117.639999,
-    109.519997
+    108.300003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 78234.1796875,
+   "kurs": 77960.6484375,
    "vortag": 78248.453125,
-   "veraenderung_pct": -0.018241175294797518,
+   "veraenderung_pct": -0.36780878855232624,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     77198.210938,
     77434.75,
     78248.453125,
-    78234.179688
+    77960.648438
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 84.9000015258789,
+   "kurs": 84.81999969482422,
    "vortag": 84.69999694824219,
-   "veraenderung_pct": 0.23613292189246238,
+   "veraenderung_pct": 0.14167975313548187,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     82.809998,
     82.809998,
     84.699997,
-    84.900002
+    84.82
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 132.0399932861328,
+   "kurs": 131.72000122070312,
    "vortag": 133.77999877929688,
-   "veraenderung_pct": -1.3006469644499141,
+   "veraenderung_pct": -1.5398397199810288,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     129.220001,
     132.300003,
     133.779999,
-    132.039993
+    131.720001
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 397.20001220703125,
+   "kurs": 398.20001220703125,
    "vortag": 403.3999938964844,
-   "veraenderung_pct": -1.5369315278284557,
+   "veraenderung_pct": -1.289038613815019,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     398.799988,
     401.700012,
     403.399994,
-    397.200012
+    398.200012
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.279998779296875,
+   "kurs": 39.38999938964844,
    "vortag": 39.2400016784668,
-   "veraenderung_pct": 0.10192940652198335,
+   "veraenderung_pct": 0.3822571477206438,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     38.599998,
     39.709999,
     39.240002,
-    39.279999
+    39.389999
    ]
   }
  ],
@@ -376,7 +376,7 @@
    {
     "titel": "Ryanair CEO warns fares could rise by up to 20% in 2027 as fuel bill jumps by $2.2 billion",
     "link": "https://www.cnbc.com/2026/11/02/ryanair-h1-earnings-iran-war-fuel-costs.html",
-    "zeit": "2026-11-02T08:39:33+00:00",
+    "zeit": "2026-11-02T09:27:47+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,10 +384,26 @@
    {
     "titel": "Apollo launches $11 billion private credit platform, backed by Abu Dhabi",
     "link": "https://www.cnbc.com/2026/11/02/apollo-private-credit-abu-dhabi.html",
-    "zeit": "2026-11-02T08:22:27+00:00",
+    "zeit": "2026-11-02T09:11:02+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Grosse Renditeunterschiede bei Säule-3a-Vorsorgefonds",
+    "link": "https://www.finews.ch/news/finanzplatz/74270-vorsorge-fonds-moneyland-vergleich-produkte-rendite",
+    "zeit": "2026-11-02T08:44:51+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Vanguard ernennt neuen Country Head Schweiz und Liechtenstein",
+    "link": "https://www.finews.ch/news/finanzplatz/74264-vanguard-gilles-boitel-country-head-schweiz-liechtenstein",
+    "zeit": "2026-11-02T07:44:44+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Schweizer Anleger sind Europas Spitzenreiter bei aktiven ETFs",
@@ -673,22 +689,6 @@
     "titel": "Binance meldet Krypto-Hack in Milliardenhöhe",
     "link": "https://www.finews.ch/news/finanzplatz/74249-binance-hacherangriff-schaden-bitcoin",
     "zeit": "2026-10-30T06:46:49+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "SNB weist bis Ende September hohen Milliardengewinn aus",
-    "link": "https://www.finews.ch/news/finanzplatz/74246-snb-ergebnis-9m-2026",
-    "zeit": "2026-10-30T05:55:24+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "F1 trifft Vermögensverwalter: Warum Vollgas nicht immer die beste Strategie ist",
-    "link": "https://www.finews.ch/news/finanzplatz/74245-flossbach-von-storch-formel-1-beat-zehnder-simon-jaeger-asset-management-zuerich",
-    "zeit": "2026-10-30T05:45:49+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
