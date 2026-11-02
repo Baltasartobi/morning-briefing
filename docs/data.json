@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-11-02T12:51:17+01:00",
+ "aktualisiert": "2026-11-02T13:59:08+01:00",
  "kernaussagen": [
-  "SMI −0.24%, Nasdaq −2.86% am schwächsten",
+  "SMI −0.53%, Nasdaq −2.86% am schwächsten",
   "Franken stärker: EUR/CHF 0.9209 (−0.29%)",
-  "Brent über 100 USD: 108.38 (−7.87%)"
+  "Brent über 100 USD: 108.67 (−7.62%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14775.26953125,
+   "kurs": 14732.509765625,
    "vortag": 14810.66015625,
-   "veraenderung_pct": -0.23895373080359272,
+   "veraenderung_pct": -0.5276631142739463,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14581.099609,
     14756.860352,
     14810.660156,
-    14775.269531
+    14732.509766
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25872.310546875,
+   "kurs": 25794.060546875,
    "vortag": 25818.2109375,
-   "veraenderung_pct": 0.2095405042044307,
+   "veraenderung_pct": -0.09354013987825649,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25704.019531,
     26039.679688,
     25818.210938,
-    25872.310547
+    25794.060547
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6148.64990234375,
+   "kurs": 6126.72998046875,
    "vortag": 6131.31005859375,
-   "veraenderung_pct": 0.2828081369934399,
+   "veraenderung_pct": -0.07469982893102411,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6167.810059,
     6207.069824,
     6131.310059,
-    6148.649902
+    6126.72998
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8236100077629089,
-   "vortag": 0.8279500007629395,
-   "veraenderung_pct": -0.5241853971896027,
-   "datum": "2026-10-30",
-   "ist_heute": false,
+   "kurs": 0.8194199800491333,
+   "vortag": 0.8236100077629089,
+   "veraenderung_pct": -0.5087392909608468,
+   "datum": "2026-11-02",
+   "ist_heute": true,
    "verlauf": [
-    0.82383,
     0.82755,
     0.8288,
     0.82795,
-    0.82361
+    0.82361,
+    0.81942
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3913.39990234375,
+   "kurs": 3909.300048828125,
    "vortag": 3898.89990234375,
-   "veraenderung_pct": 0.37189977591585155,
+   "veraenderung_pct": 0.26674566531248445,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4051.600098,
     4031.399902,
     3898.899902,
-    3913.399902
+    3909.300049
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 108.37999725341797,
+   "kurs": 108.66999816894531,
    "vortag": 117.63999938964844,
-   "veraenderung_pct": -7.871474145081714,
+   "veraenderung_pct": -7.624958574670337,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     115.32,
     114.879997,
     117.639999,
-    108.379997
+    108.669998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 77713.71875,
+   "kurs": 77655.09375,
    "vortag": 78248.453125,
-   "veraenderung_pct": -0.6833801227300595,
+   "veraenderung_pct": -0.7583017316037166,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     77198.210938,
     77434.75,
     78248.453125,
-    77713.71875
+    77655.09375
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 84.8499984741211,
+   "kurs": 84.62999725341797,
    "vortag": 84.69999694824219,
-   "veraenderung_pct": 0.1770974395318703,
+   "veraenderung_pct": -0.08264427077487868,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     82.809998,
     82.809998,
     84.699997,
-    84.849998
+    84.629997
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 132.16000366210938,
+   "kurs": 131.55999755859375,
    "vortag": 133.77999877929688,
-   "veraenderung_pct": -1.2109397009788303,
+   "veraenderung_pct": -1.6594418006876888,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     129.220001,
     132.300003,
     133.779999,
-    132.160004
+    131.559998
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 398.3999938964844,
+   "kurs": 397.6000061035156,
    "vortag": 403.3999938964844,
-   "veraenderung_pct": -1.2394645700671614,
+   "veraenderung_pct": -1.4377758752413539,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     398.799988,
     401.700012,
     403.399994,
-    398.399994
+    397.600006
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.33000183105469,
+   "kurs": 39.220001220703125,
    "vortag": 39.2400016784668,
-   "veraenderung_pct": 0.22935817721250196,
+   "veraenderung_pct": -0.05096956398614738,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     38.599998,
     39.709999,
     39.240002,
-    39.330002
+    39.220001
    ]
   }
  ],
@@ -374,6 +374,22 @@
   ],
   "artikel": [
    {
+    "titel": "U.S. crude falls below $100 amid reports of U.S.-Iran diplomatic efforts",
+    "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+    "zeit": "2026-11-02T12:40:46+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
+    "link": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
+    "zeit": "2026-11-02T12:32:11+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
     "link": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
     "zeit": "2026-11-02T11:18:37+00:00",
@@ -385,14 +401,6 @@
     "titel": "OpenAI deepens Abu Dhabi foothold as Sam Altman inks deals spanning energy, government and investment",
     "link": "https://www.cnbc.com/2026/11/02/openai-abu-dhabi-ai-deals.html",
     "zeit": "2026-11-02T11:02:08+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "U.S. crude falls below $100 amid reports of U.S.-Iran diplomatic efforts",
-    "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
-    "zeit": "2026-11-02T11:00:55+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -414,14 +422,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
-    "link": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
-    "zeit": "2026-11-02T10:29:11+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Vontobel ernennt neuen Leiter Kundenportfoliomanagement Aktien und Multi-Asset",
     "link": "https://www.finews.ch/news/banken/74275-marc-bindschaedler-vontobel-leitung-des-kundenportfoliomanagements-fuer-aktien-und-multi-asset-institutionelle-kunden",
     "zeit": "2026-11-02T09:43:34+00:00",
@@ -438,6 +438,14 @@
     "sprache": "en"
    },
    {
+    "titel": "Genfer Vermögensverwalter holt früheren Coutts-Anlagechef in VR",
+    "link": "https://www.finews.ch/news/finanzplatz/74273-nfg-partners-verwaltungsrat-paul-sarosy-merrill-lynch-coutts-und-der-credit-suisse",
+    "zeit": "2026-11-02T09:21:32+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Apollo launches $11 billion private credit platform, backed by Abu Dhabi",
     "link": "https://www.cnbc.com/2026/11/02/apollo-private-credit-abu-dhabi.html",
     "zeit": "2026-11-02T09:11:02+00:00",
@@ -449,6 +457,14 @@
     "titel": "Grosse Renditeunterschiede bei Säule-3a-Vorsorgefonds",
     "link": "https://www.finews.ch/news/finanzplatz/74270-vorsorge-fonds-moneyland-vergleich-produkte-rendite",
     "zeit": "2026-11-02T08:44:51+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Finanzmarktaufsicht: Kantonalbanken warnen vor «Megabehörde»",
+    "link": "https://www.finews.ch/news/finanzplatz/74268-finanzmarktaufsicht-finma-kantonalbanken-tbtf-kritik-oliver-buschan",
+    "zeit": "2026-11-02T08:03:51+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
@@ -654,26 +670,10 @@
     "sprache": "de"
    },
    {
-    "titel": "BNP Paribas ernennt neuen Leiter Securities Services Schweiz",
-    "link": "https://www.finews.ch/news/banken/74255-bnp-paribas-schweit-marco-critini-securities-services",
-    "zeit": "2026-10-30T11:56:46+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Annäherung an China – Expertin: «Wir sind nicht ausreichend vorbereitet»",
     "link": "https://www.srf.ch/news/dialog/annaeherung-an-china-expertin-wir-sind-nicht-ausreichend-vorbereitet",
     "zeit": "2026-10-30T11:32:22+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Stellenangebot bei Banken im Oktober leicht besser",
-    "link": "https://www.finews.ch/news/banken/74253-banken-stellenmarkt-oktober-2026-indeed",
-    "zeit": "2026-10-30T10:20:49+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
