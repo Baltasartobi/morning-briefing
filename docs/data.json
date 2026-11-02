@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-11-02T08:18:23+01:00",
+ "aktualisiert": "2026-11-02T09:41:58+01:00",
  "kernaussagen": [
-  "SMI +0.36%, Nasdaq −2.86% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9209 (−0.29%)",
-  "Brent über 100 USD: 110.09 (−6.42%)"
+  "SMI −0.49%, Nasdaq −2.86% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9198 (−0.12%)",
+  "Brent über 100 USD: 109.52 (−6.90%)"
  ],
  "maerkte": [
   {
@@ -12,17 +12,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14810.66015625,
-   "vortag": 14756.8603515625,
-   "veraenderung_pct": 0.3645748716582853,
-   "datum": "2026-10-30",
-   "ist_heute": false,
+   "kurs": 14738.4296875,
+   "vortag": 14810.66015625,
+   "veraenderung_pct": -0.4876924322614995,
+   "datum": "2026-11-02",
+   "ist_heute": true,
    "verlauf": [
-    14538.950195,
     14597.629883,
     14581.099609,
     14756.860352,
-    14810.660156
+    14810.660156,
+    14738.429688
    ]
   },
   {
@@ -31,17 +31,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25818.2109375,
-   "vortag": 26039.6796875,
-   "veraenderung_pct": -0.8505048935233739,
-   "datum": "2026-10-30",
-   "ist_heute": false,
+   "kurs": 25767.560546875,
+   "vortag": 25818.2109375,
+   "veraenderung_pct": -0.19618086918420374,
+   "datum": "2026-11-02",
+   "ist_heute": true,
    "verlauf": [
-    25410.839844,
     25590.769531,
     25704.019531,
     26039.679688,
-    25818.210938
+    25818.210938,
+    25767.560547
    ]
   },
   {
@@ -50,17 +50,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6131.31005859375,
-   "vortag": 6207.06982421875,
-   "veraenderung_pct": -1.2205399289919483,
-   "datum": "2026-10-30",
-   "ist_heute": false,
+   "kurs": 6133.27978515625,
+   "vortag": 6131.31005859375,
+   "veraenderung_pct": 0.0321257046809853,
+   "datum": "2026-11-02",
+   "ist_heute": true,
    "verlauf": [
-    6116.22998,
     6164.689941,
     6167.810059,
     6207.069824,
-    6131.310059
+    6131.310059,
+    6133.279785
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.920930027961731,
-   "vortag": 0.9236000180244446,
-   "veraenderung_pct": -0.2890851029241692,
-   "datum": "2026-10-30",
-   "ist_heute": false,
+   "kurs": 0.9197900295257568,
+   "vortag": 0.920930027961731,
+   "veraenderung_pct": -0.12378773645781438,
+   "datum": "2026-11-02",
+   "ist_heute": true,
    "verlauf": [
-    0.92408,
     0.92479,
     0.92229,
     0.9236,
-    0.92093
+    0.92093,
+    0.91979
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8230500221252441,
+   "kurs": 0.8202400207519531,
    "vortag": 0.8236100077629089,
-   "veraenderung_pct": -0.06799160189734366,
+   "veraenderung_pct": -0.4091726641483384,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8288,
     0.82795,
     0.82361,
-    0.82305
+    0.82024
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3915.5,
+   "kurs": 3903.0,
    "vortag": 3898.89990234375,
-   "veraenderung_pct": 0.42576362748556473,
+   "veraenderung_pct": 0.10516037238568199,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4051.600098,
     4031.399902,
     3898.899902,
-    3915.5
+    3903.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 110.08999633789062,
+   "kurs": 109.5199966430664,
    "vortag": 117.63999938964844,
-   "veraenderung_pct": -6.417887700552106,
+   "veraenderung_pct": -6.902416515395304,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     115.32,
     114.879997,
     117.639999,
-    110.089996
+    109.519997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 77991.640625,
+   "kurs": 78234.1796875,
    "vortag": 78248.453125,
-   "veraenderung_pct": -0.3282013761853553,
+   "veraenderung_pct": -0.018241175294797518,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     77198.210938,
     77434.75,
     78248.453125,
-    77991.640625
+    78234.179688
    ]
   }
  ],
@@ -223,17 +223,17 @@
    "name": "Schweiz",
    "quelle": "snb",
    "verfuegbar": true,
-   "wert": 0.536,
-   "vortag": 0.495,
-   "veraenderung_bp": 4.1,
-   "datum": "2026-10-29",
+   "wert": 0.505,
+   "vortag": 0.536,
+   "veraenderung_bp": -3.1,
+   "datum": "2026-10-30",
    "ist_heute": false,
    "verlauf": [
-    0.491,
     0.526,
     0.487,
     0.495,
-    0.536
+    0.536,
+    0.505
    ]
   },
   {
@@ -278,17 +278,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 84.69999694824219,
-   "vortag": 82.80999755859375,
-   "veraenderung_pct": 2.2823323818010444,
-   "datum": "2026-10-30",
-   "ist_heute": false,
+   "kurs": 84.9000015258789,
+   "vortag": 84.69999694824219,
+   "veraenderung_pct": 0.23613292189246238,
+   "datum": "2026-11-02",
+   "ist_heute": true,
    "verlauf": [
-    83.730003,
     83.25,
     82.809998,
     82.809998,
-    84.699997
+    84.699997,
+    84.900002
    ]
   },
   {
@@ -297,17 +297,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 133.77999877929688,
-   "vortag": 132.3000030517578,
-   "veraenderung_pct": 1.1186664349206898,
-   "datum": "2026-10-30",
-   "ist_heute": false,
+   "kurs": 132.0399932861328,
+   "vortag": 133.77999877929688,
+   "veraenderung_pct": -1.3006469644499141,
+   "datum": "2026-11-02",
+   "ist_heute": true,
    "verlauf": [
-    127.480003,
     128.779999,
     129.220001,
     132.300003,
-    133.779999
+    133.779999,
+    132.039993
    ]
   },
   {
@@ -316,17 +316,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 403.3999938964844,
-   "vortag": 401.70001220703125,
-   "veraenderung_pct": 0.42319682295079986,
-   "datum": "2026-10-30",
-   "ist_heute": false,
+   "kurs": 397.20001220703125,
+   "vortag": 403.3999938964844,
+   "veraenderung_pct": -1.5369315278284557,
+   "datum": "2026-11-02",
+   "ist_heute": true,
    "verlauf": [
-    396.5,
     399.0,
     398.799988,
     401.700012,
-    403.399994
+    403.399994,
+    397.200012
    ]
   },
   {
@@ -335,17 +335,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.2400016784668,
-   "vortag": 39.709999084472656,
-   "veraenderung_pct": -1.1835744569171691,
-   "datum": "2026-10-30",
-   "ist_heute": false,
+   "kurs": 39.279998779296875,
+   "vortag": 39.2400016784668,
+   "veraenderung_pct": 0.10192940652198335,
+   "datum": "2026-11-02",
+   "ist_heute": true,
    "verlauf": [
-    38.580002,
     38.84,
     38.599998,
     39.709999,
-    39.240002
+    39.240002,
+    39.279999
    ]
   }
  ],
@@ -374,12 +374,44 @@
   ],
   "artikel": [
    {
+    "titel": "Ryanair CEO warns fares could rise by up to 20% in 2027 as fuel bill jumps by $2.2 billion",
+    "link": "https://www.cnbc.com/2026/11/02/ryanair-h1-earnings-iran-war-fuel-costs.html",
+    "zeit": "2026-11-02T08:39:33+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Apollo launches $11 billion private credit platform, backed by Abu Dhabi",
+    "link": "https://www.cnbc.com/2026/11/02/apollo-private-credit-abu-dhabi.html",
+    "zeit": "2026-11-02T08:22:27+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Schweizer Anleger sind Europas Spitzenreiter bei aktiven ETFs",
+    "link": "https://www.finews.ch/news/finanzplatz/74263-professionelle-anleger-aktiv-verwaltete-etfs-engagement-ausbauen-strategien-fuer-schwellenlaender-gezielte-ergaenzungen-fidelity",
+    "zeit": "2026-11-02T07:03:20+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "AI is coming to construction sites. But does it make workers safer?",
     "link": "https://www.cnbc.com/2026/10/31/ai-construction-worker-safety.html",
     "zeit": "2026-11-02T06:55:19+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Fondsmarkt: Am meisten Neugeld fliesst in Obligationen",
+    "link": "https://www.finews.ch/news/finanzplatz/74262-amas-fondsmarktq3-2026-neugeld-obligationenfonds-fondsanbieter",
+    "zeit": "2026-11-02T06:25:18+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
@@ -542,28 +574,12 @@
     "sprache": "en"
    },
    {
-    "titel": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
-    "link": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
-    "zeit": "2026-11-01T19:10:12+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Wie der Raub von mehr als 6 Milliarden Dollar an Krypto-Vermögen ablief. Eine Rekonstruktion",
     "link": "https://www.nzz.ch/wirtschaft/hackerangriff-auf-binance-wie-der-raub-von-mehr-als-6-milliarden-dollar-an-krypto-vermoegen-ablief-ld.10050967",
     "zeit": "2026-11-01T16:39:36+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy",
-    "link": "https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html",
-    "zeit": "2026-11-01T16:34:43+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "FBI bestätigt: Nordkorea steckt hinter milliardenschwerem Krypto-Diebstahl bei Binance",
@@ -673,22 +689,6 @@
     "titel": "F1 trifft Vermögensverwalter: Warum Vollgas nicht immer die beste Strategie ist",
     "link": "https://www.finews.ch/news/finanzplatz/74245-flossbach-von-storch-formel-1-beat-zehnder-simon-jaeger-asset-management-zuerich",
     "zeit": "2026-10-30T05:45:49+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Julius Bär startet Aktienrückkaufprogramm in der kommenden Woche",
-    "link": "https://www.finews.ch/news/banken/74244-julius-baer-start-aktienrueckkaufprogramm",
-    "zeit": "2026-10-30T05:26:44+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Personalwechsel: Dahin zieht es derzeit am meisten Wealth Manager",
-    "link": "https://www.finews.ch/news/finanzplatz/74240-personalwechsel-wealth-manager-schweiz-align-private-wealth-aquila-vermoegensverwalter-2026",
-    "zeit": "2026-10-29T12:48:46+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
