@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-11-02T20:27:40+01:00",
+ "aktualisiert": "2026-11-02T21:17:43+01:00",
  "kernaussagen": [
   "SMI −0.05%, Nikkei 225 −2.12% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9161 (−0.53%)",
-  "Brent über 100 USD: 104.72 (−10.98%)"
+  "Franken stärker: EUR/CHF 0.9159 (−0.55%)",
+  "Brent über 100 USD: 104.30 (−11.34%)"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7563.89990234375,
+   "kurs": 7573.14013671875,
    "vortag": 7580.06982421875,
-   "veraenderung_pct": -0.21332154254485314,
+   "veraenderung_pct": -0.0914198372930497,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7743.97998,
     7720.390137,
     7580.069824,
-    7563.899902
+    7573.140137
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25292.63671875,
+   "kurs": 25321.27734375,
    "vortag": 25437.0,
-   "veraenderung_pct": -0.5675326542045056,
+   "veraenderung_pct": -0.4549383034555987,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26549.849609,
     26184.720703,
     25437.0,
-    25292.636719
+    25321.277344
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9160599708557129,
+   "kurs": 0.9158599972724915,
    "vortag": 0.920930027961731,
-   "veraenderung_pct": -0.5288194497031218,
+   "veraenderung_pct": -0.5505337577558223,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92229,
     0.9236,
     0.92093,
-    0.91606
+    0.91586
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8181700110435486,
+   "kurs": 0.8182799816131592,
    "vortag": 0.8236100077629089,
-   "veraenderung_pct": -0.6605063887138107,
+   "veraenderung_pct": -0.6471541262869307,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8288,
     0.82795,
     0.82361,
-    0.81817
+    0.81828
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3961.800048828125,
+   "kurs": 3955.699951171875,
    "vortag": 3898.89990234375,
-   "veraenderung_pct": 1.6132793367319875,
+   "veraenderung_pct": 1.4568224435303145,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4051.600098,
     4031.399902,
     3898.899902,
-    3961.800049
+    3955.699951
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.72000122070312,
+   "kurs": 104.30000305175781,
    "vortag": 117.63999938964844,
-   "veraenderung_pct": -10.98265746002901,
+   "veraenderung_pct": -11.339677326676744,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     115.32,
     114.879997,
     117.639999,
-    104.720001
+    104.300003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 76754.40625,
+   "kurs": 76892.8984375,
    "vortag": 78248.453125,
-   "veraenderung_pct": -1.909362824864147,
+   "veraenderung_pct": -1.7323725049676497,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     77198.210938,
     77434.75,
     78248.453125,
-    76754.40625
+    76892.898438
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.888,
+   "wert": 4.894,
    "vortag": 4.929,
-   "veraenderung_bp": -4.1,
+   "veraenderung_bp": -3.5,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.045,
     4.989,
     4.929,
-    4.888
+    4.894
    ]
   }
  ],
@@ -374,6 +374,46 @@
   ],
   "artikel": [
    {
+    "titel": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms",
+    "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+    "zeit": "2026-11-02T20:10:00+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Intel foundry push faces critical test after stock's 45% plunge in October",
+    "link": "https://www.cnbc.com/2026/11/02/intel-foundry-faces-critical-test-after-stocks-45percent-plunge-in-october.html",
+    "zeit": "2026-11-02T20:07:56+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trump Account holders to receive SpaceX stock from Gwynne Shotwell in December",
+    "link": "https://www.cnbc.com/2026/11/02/trump-accounts-spacex-shares-shotwell.html",
+    "zeit": "2026-11-02T19:46:47+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "DOJ asks Supreme Court to block California counting disputed mail-in ballots",
+    "link": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+    "zeit": "2026-11-02T19:38:58+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
+    "link": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
+    "zeit": "2026-11-02T19:32:15+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Fed will vote on rates less often. What that could mean for borrowers",
     "link": "https://www.cnbc.com/2026/11/02/fed-rate-votes-consumer-borrowing-costs.html",
     "zeit": "2026-11-02T19:21:15+00:00",
@@ -409,46 +449,6 @@
     "titel": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
     "link": "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
     "zeit": "2026-11-02T18:59:48+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Texas governor race tightens in prediction markets, but Abbott remains favored",
-    "link": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
-    "zeit": "2026-11-02T18:54:04+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Social Security may have to cut retirement benefits in six years. Here's how much money is at stake for beneficiaries",
-    "link": "https://www.cnbc.com/2026/11/01/social-security-benefit-cuts-2032.html",
-    "zeit": "2026-11-02T18:46:31+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trump Account holders to receive SpaceX stock from Gwynne Shotwell in December",
-    "link": "https://www.cnbc.com/2026/11/02/trump-accounts-spacex-shares-shotwell.html",
-    "zeit": "2026-11-02T18:38:19+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Apple reports after the bell. Options traders expect a big move",
-    "link": "https://www.cnbc.com/2026/11/02/apple-reports-after-the-bell-options-traders-expect-a-big-move.html",
-    "zeit": "2026-11-02T18:19:03+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Options traders are getting anxious on Palantir and Apple ahead of earnings",
-    "link": "https://www.cnbc.com/2026/11/02/options-traders-are-getting-anxious-on-palantir-and-apple-ahead-of-earnings.html",
-    "zeit": "2026-11-02T18:16:02+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
