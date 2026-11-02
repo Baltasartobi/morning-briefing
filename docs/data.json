@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-11-02T16:26:18+01:00",
+ "aktualisiert": "2026-11-02T17:33:34+01:00",
  "kernaussagen": [
-  "SMI −0.21%, Nikkei 225 −2.12% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9186 (−0.25%)",
-  "Brent über 100 USD: 105.95 (−9.94%)"
+  "SMI −0.05%, Nikkei 225 −2.12% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9209 (−0.29%)",
+  "Brent über 100 USD: 105.13 (−10.63%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14779.73046875,
+   "kurs": 14803.150390625,
    "vortag": 14810.66015625,
-   "veraenderung_pct": -0.20883395590538534,
+   "veraenderung_pct": -0.05070513768983265,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14581.099609,
     14756.860352,
     14810.660156,
-    14779.730469
+    14803.150391
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25941.2890625,
+   "kurs": 25989.240234375,
    "vortag": 25818.2109375,
-   "veraenderung_pct": 0.4767105098720581,
+   "veraenderung_pct": 0.6624366703371631,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25704.019531,
     26039.679688,
     25818.210938,
-    25941.289062
+    25989.240234
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6159.60986328125,
+   "kurs": 6180.93017578125,
    "vortag": 6131.31005859375,
-   "veraenderung_pct": 0.46156211995567187,
+   "veraenderung_pct": 0.8092906200030114,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6167.810059,
     6207.069824,
     6131.310059,
-    6159.609863
+    6180.930176
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7656.080078125,
+   "kurs": 7627.89990234375,
    "vortag": 7580.06982421875,
-   "veraenderung_pct": 1.0027645611309977,
+   "veraenderung_pct": 0.6309978566712005,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7743.97998,
     7720.390137,
     7580.069824,
-    7656.080078
+    7627.899902
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25757.513671875,
+   "kurs": 25637.380859375,
    "vortag": 25437.0,
-   "veraenderung_pct": 1.260029374041749,
+   "veraenderung_pct": 0.7877535062114305,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26549.849609,
     26184.720703,
     25437.0,
-    25757.513672
+    25637.380859
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9186000227928162,
-   "vortag": 0.920930027961731,
-   "veraenderung_pct": -0.2530056679845405,
-   "datum": "2026-11-02",
-   "ist_heute": true,
+   "kurs": 0.920930027961731,
+   "vortag": 0.9236000180244446,
+   "veraenderung_pct": -0.2890851029241692,
+   "datum": "2026-10-30",
+   "ist_heute": false,
    "verlauf": [
+    0.92408,
     0.92479,
     0.92229,
     0.9236,
-    0.92093,
-    0.9186
+    0.92093
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.819379985332489,
+   "kurs": 0.819100022315979,
    "vortag": 0.8236100077629089,
-   "veraenderung_pct": -0.5135953170250507,
+   "veraenderung_pct": -0.5475874994744112,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8288,
     0.82795,
     0.82361,
-    0.81938
+    0.8191
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3970.699951171875,
+   "kurs": 3975.5,
    "vortag": 3898.89990234375,
-   "veraenderung_pct": 1.8415463496501694,
+   "veraenderung_pct": 1.9646592519649841,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4051.600098,
     4031.399902,
     3898.899902,
-    3970.699951
+    3975.5
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.94999694824219,
+   "kurs": 105.12999725341797,
    "vortag": 117.63999938964844,
-   "veraenderung_pct": -9.93709835265002,
+   "veraenderung_pct": -10.634139919360852,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     115.32,
     114.879997,
     117.639999,
-    105.949997
+    105.129997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 77821.328125,
+   "kurs": 77422.40625,
    "vortag": 78248.453125,
-   "veraenderung_pct": -0.545857436079511,
+   "veraenderung_pct": -1.0556718273783794,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     77198.210938,
     77434.75,
     78248.453125,
-    77821.328125
+    77422.40625
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.884,
+   "wert": 4.894,
    "vortag": 4.929,
-   "veraenderung_bp": -4.5,
+   "veraenderung_bp": -3.5,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.045,
     4.989,
     4.929,
-    4.884
+    4.894
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 84.69999694824219,
+   "kurs": 84.75,
    "vortag": 84.69999694824219,
-   "veraenderung_pct": 0.0,
+   "veraenderung_pct": 0.05903548236061429,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     82.809998,
     82.809998,
     84.699997,
-    84.699997
+    84.75
    ]
   },
   {
@@ -296,7 +296,19 @@
    "symbol": "NOVN.SW",
    "einheit": "CHF",
    "dezimalen": 2,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 131.3800048828125,
+   "vortag": 133.77999877929688,
+   "veraenderung_pct": -1.793985587071023,
+   "datum": "2026-11-02",
+   "ist_heute": true,
+   "verlauf": [
+    128.779999,
+    129.220001,
+    132.300003,
+    133.779999,
+    131.380005
+   ]
   },
   {
    "name": "Roche GS",
@@ -304,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 395.1000061035156,
+   "kurs": 396.20001220703125,
    "vortag": 403.3999938964844,
-   "veraenderung_pct": -2.0575081602749345,
+   "veraenderung_pct": -1.7848244418418813,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -314,7 +326,7 @@
     398.799988,
     401.700012,
     403.399994,
-    395.100006
+    396.200012
    ]
   },
   {
@@ -323,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.58000183105469,
+   "kurs": 39.84000015258789,
    "vortag": 39.2400016784668,
-   "veraenderung_pct": 0.8664631448638938,
+   "veraenderung_pct": 1.529048033783198,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -333,7 +345,7 @@
     38.599998,
     39.709999,
     39.240002,
-    39.580002
+    39.84
    ]
   }
  ],
@@ -362,9 +374,33 @@
   ],
   "artikel": [
    {
+    "titel": "Crude oil dives to session low on Iran peace talk hopes ahead of midterms",
+    "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+    "zeit": "2026-11-02T16:25:45+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "We're trimming a rallying industrial stock, looking for its next catalyst post-spinoff",
+    "link": "https://www.cnbc.com/investingclub/2026/11/02/were-trimming-a-rallying-industrial-stock-looking-for-its-next-catalyst-post-spinoff.html",
+    "zeit": "2026-11-02T16:19:36+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
     "link": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
-    "zeit": "2026-11-02T15:23:34+00:00",
+    "zeit": "2026-11-02T16:13:00+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Marvell CEO touts 'enormous' opportunity in massive AI connectivity bet on Lumentum",
+    "link": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
+    "zeit": "2026-11-02T16:03:51+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -372,7 +408,7 @@
    {
     "titel": "Fanatics takes bigger NHL design role with all-32 team Hometown Remix jerseys",
     "link": "https://www.cnbc.com/2026/11/02/fanatics-nhl-hometown-remix-jerseys.html",
-    "zeit": "2026-11-02T15:22:18+00:00",
+    "zeit": "2026-11-02T16:00:06+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -380,15 +416,39 @@
    {
     "titel": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
     "link": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-    "zeit": "2026-11-02T14:57:15+00:00",
+    "zeit": "2026-11-02T15:53:04+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Crude oil dives to session low on Iran peace talk hopes ahead of midterms",
-    "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
-    "zeit": "2026-11-02T14:52:44+00:00",
+    "titel": "Stock market after midterm elections: What S&P 500 history shows",
+    "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+    "zeit": "2026-11-02T15:41:12+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Ein Schnäppchen mit Risiken: Autoneum übernimmt angeschlagenen Zulieferer",
+    "link": "https://www.nzz.ch/wirtschaft/autoneum-uebernimmt-treves-ein-umsatzplus-aber-auch-risiken-ld.10051698",
+    "zeit": "2026-11-02T15:37:36+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Wall Street's Fear Index is doing something strange. Here's what it means for stocks",
+    "link": "https://www.cnbc.com/2026/11/02/wall-streets-fear-index-is-doing-something-strange-heres-what-it-means-for-stocks.html",
+    "zeit": "2026-11-02T15:30:41+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
+    "link": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
+    "zeit": "2026-11-02T15:28:46+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -400,22 +460,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Marvell to buy Lumentum in all-stock deal, a massive bet on AI connectivity",
-    "link": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
-    "zeit": "2026-11-02T14:23:40+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Ryanair CEO warns fares could rise by up to 20% next year",
-    "link": "https://www.cnbc.com/2026/11/02/ryanair-h1-earnings-iran-war-fuel-costs.html",
-    "zeit": "2026-11-02T14:14:18+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Connecticut Sen. Chris Murphy hospitalized after stroke, office says",
@@ -434,36 +478,12 @@
     "sprache": "de"
    },
    {
-    "titel": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
-    "link": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
-    "zeit": "2026-11-02T13:57:39+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "We're buying the dip in a stock after an expectations reset",
-    "link": "https://www.cnbc.com/investingclub/2026/11/02/were-buying-the-dip-in-a-stock-after-an-expectations-reset.html",
-    "zeit": "2026-11-02T13:56:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "«NZZ Pro»-Talk: Kanada und Europa wollen enger zusammenarbeiten. Kann eine Allianz der Mittelmächte funktionieren?",
     "link": "https://www.nzz.ch/pro/kanada-und-europa-kann-eine-allianz-der-mittelmaechte-funktionieren-ld.10051933",
     "zeit": "2026-11-02T13:34:39+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "The market view of the oil, AI and bond trades went through a major change in October",
-    "link": "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html",
-    "zeit": "2026-11-02T13:26:05+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "BNP Paribas ernennt Leiter für neuen Bereich Investment Banking Schweiz",
@@ -620,14 +640,6 @@
    {
     "titel": "INTERVIEW - Was treibt die Gewalt von Jugendlichen an?",
     "link": "https://www.nzz.ch/pro/proteste-in-frankreich-kriminologe-erklaert-ursachen-und-loesungen-der-randalen-ld.10048137",
-    "zeit": "2026-11-02T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "In den Zwischenwahlen sind die Republikaner in der Defensive. Warum sich ihre Verluste dennoch in Grenzen halten könnten",
-    "link": "https://www.nzz.ch/international/midterms-usa-2026-warum-die-republikaner-dennoch-auf-erfolg-hoffen-ld.10047565",
     "zeit": "2026-11-02T04:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
