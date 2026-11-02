@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-10-30T21:37:26+01:00",
+ "aktualisiert": "2026-11-02T06:58:39+01:00",
  "kernaussagen": [
   "SMI +0.36%, Nasdaq −2.86% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9206 (−0.32%)",
-  "Gold −3.54% auf 3'888.80 USD/Unze · Brent über 100 USD"
+  "Franken stabil: EUR/CHF 0.9208 (−0.02%)",
+  "Brent über 100 USD: 109.85 (−6.62%)"
  ],
  "maerkte": [
   {
@@ -16,7 +16,7 @@
    "vortag": 14756.8603515625,
    "veraenderung_pct": 0.3645748716582853,
    "datum": "2026-10-30",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     14538.950195,
     14597.629883,
@@ -35,7 +35,7 @@
    "vortag": 26039.6796875,
    "veraenderung_pct": -0.8505048935233739,
    "datum": "2026-10-30",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     25410.839844,
     25590.769531,
@@ -54,7 +54,7 @@
    "vortag": 6207.06982421875,
    "veraenderung_pct": -1.2205399289919483,
    "datum": "2026-10-30",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     6116.22998,
     6164.689941,
@@ -73,7 +73,7 @@
    "vortag": 7720.39013671875,
    "veraenderung_pct": -1.8175287778868343,
    "datum": "2026-10-30",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     7676.77002,
     7722.600098,
@@ -88,17 +88,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25436.998046875,
+   "kurs": 25437.0,
    "vortag": 26184.720703125,
-   "veraenderung_pct": -2.8555685765277783,
+   "veraenderung_pct": -2.8555611175022477,
    "datum": "2026-10-30",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     26169.380859,
     26477.810547,
     26549.849609,
     26184.720703,
-    25436.998047
+    25437.0
    ]
   },
   {
@@ -107,17 +107,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 64659.46875,
-   "vortag": 63954.19140625,
-   "veraenderung_pct": 1.1027851783316889,
-   "datum": "2026-10-29",
-   "ist_heute": false,
+   "kurs": 63328.9609375,
+   "vortag": 63290.109375,
+   "veraenderung_pct": 0.06138646762292588,
+   "datum": "2026-11-02",
+   "ist_heute": true,
    "verlauf": [
-    62693.160156,
-    62189.648438,
     63268.371094,
     63954.191406,
-    64659.46875
+    64659.46875,
+    63290.109375,
+    63328.960938
    ]
   }
  ],
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9205999970436096,
-   "vortag": 0.9236000180244446,
-   "veraenderung_pct": -0.3248182029328972,
-   "datum": "2026-10-30",
+   "kurs": 0.920769989490509,
+   "vortag": 0.920930027961731,
+   "veraenderung_pct": -0.017377918665129055,
+   "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
-    0.92408,
     0.92479,
     0.92229,
     0.9236,
-    0.9206
+    0.92093,
+    0.92077
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8241299986839294,
-   "vortag": 0.8279500007629395,
-   "veraenderung_pct": -0.46138076882540346,
-   "datum": "2026-10-30",
+   "kurs": 0.8234000205993652,
+   "vortag": 0.8236100077629089,
+   "veraenderung_pct": -0.02549594608667327,
+   "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
-    0.82383,
     0.82755,
     0.8288,
     0.82795,
-    0.82413
+    0.82361,
+    0.8234
    ]
   },
   {
@@ -166,17 +166,17 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3888.800048828125,
-   "vortag": 4031.39990234375,
-   "veraenderung_pct": -3.5372291752232554,
-   "datum": "2026-10-30",
+   "kurs": 3923.699951171875,
+   "vortag": 3898.89990234375,
+   "veraenderung_pct": 0.6360781104746138,
+   "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
-    4038.399902,
     4074.600098,
     4051.600098,
     4031.399902,
-    3888.800049
+    3898.899902,
+    3923.699951
    ]
   },
   {
@@ -185,17 +185,17 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 112.30999755859375,
-   "vortag": 114.87999725341797,
-   "veraenderung_pct": -2.237116779481607,
-   "datum": "2026-10-30",
+   "kurs": 109.8499984741211,
+   "vortag": 117.63999938964844,
+   "veraenderung_pct": -6.621898126440162,
+   "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
-    115.809998,
     113.879997,
     115.32,
     114.879997,
-    112.309998
+    117.639999,
+    109.849998
    ]
   },
   {
@@ -204,17 +204,17 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 76842.2890625,
-   "vortag": 77775.109375,
-   "veraenderung_pct": -1.1993815502107763,
-   "datum": "2026-10-30",
+   "kurs": 78239.28125,
+   "vortag": 77434.75,
+   "veraenderung_pct": 1.0389795924956147,
+   "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
-    80006.65625,
-    80805.078125,
     81267.585938,
     77775.109375,
-    76842.289062
+    77198.210938,
+    77434.75,
+    78239.28125
    ]
   }
  ],
@@ -244,7 +244,7 @@
    "vortag": 3.42,
    "veraenderung_bp": -2.0,
    "datum": "2026-10-30",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     3.43,
     3.42,
@@ -261,7 +261,7 @@
    "vortag": 4.989,
    "veraenderung_bp": -6.0,
    "datum": "2026-10-30",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     4.986,
     4.993,
@@ -282,7 +282,7 @@
    "vortag": 82.80999755859375,
    "veraenderung_pct": 2.2823323818010444,
    "datum": "2026-10-30",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     83.730003,
     83.25,
@@ -301,7 +301,7 @@
    "vortag": 132.3000030517578,
    "veraenderung_pct": 1.1186664349206898,
    "datum": "2026-10-30",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     127.480003,
     128.779999,
@@ -315,7 +315,19 @@
    "symbol": "ROP.SW",
    "einheit": "CHF",
    "dezimalen": 2,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 403.3999938964844,
+   "vortag": 401.70001220703125,
+   "veraenderung_pct": 0.42319682295079986,
+   "datum": "2026-10-30",
+   "ist_heute": false,
+   "verlauf": [
+    396.5,
+    399.0,
+    398.799988,
+    401.700012,
+    403.399994
+   ]
   },
   {
    "name": "UBS",
@@ -327,7 +339,7 @@
    "vortag": 39.709999084472656,
    "veraenderung_pct": -1.1835744569171691,
    "datum": "2026-10-30",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     38.580002,
     38.84,
@@ -362,90 +374,210 @@
   ],
   "artikel": [
    {
-    "titel": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
-    "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
-    "zeit": "2026-10-30T20:30:57+00:00",
+    "titel": "Abstimmung über Kriegsmaterial – Wie geht es der Schweizer Rüstungsindustrie?",
+    "link": "https://www.srf.ch/news/dialog/abstimmung-ueber-kriegsmaterial-wie-geht-es-der-schweizer-ruestungsindustrie",
+    "zeit": "2026-11-02T05:14:10+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
+    "link": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html",
+    "zeit": "2026-11-02T05:09:45+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Criminal investigation of Alaska Senate race is 'ongoing,' U.S. Attorney says",
-    "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
-    "zeit": "2026-10-30T20:29:44+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "Längere Lieferwege für Kaffee – Geopolitik macht Schweizer Kaffeebranche zu schaffen",
+    "link": "https://www.srf.ch/news/dialog/laengere-lieferwege-fuer-kaffee-geopolitik-macht-schweizer-kaffeebranche-zu-schaffen",
+    "zeit": "2026-11-02T04:53:37+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
-    "titel": "'Bad time to troll': Binance co-founder Zhao asks Musk for support after hack",
-    "link": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
-    "zeit": "2026-10-30T20:02:45+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "KI im Journalismus – Wie Schweizer Medienhäuser KI in der Berichterstattung einsetzen",
+    "link": "https://www.srf.ch/news/wirtschaft/ki-im-journalismus-wie-schweizer-medienhaeuser-ki-in-der-berichterstattung-einsetzen",
+    "zeit": "2026-11-02T04:52:37+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
-    "titel": "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked",
-    "link": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html",
-    "zeit": "2026-10-30T19:39:46+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "Pharmaindustrie – Medikamentenpreise: US-Preispolitik setzt die Schweiz unter Druck",
+    "link": "https://www.srf.ch/news/wirtschaft/pharmaindustrie-medikamentenpreise-us-preispolitik-setzt-die-schweiz-unter-druck",
+    "zeit": "2026-11-02T04:50:27+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
-    "titel": "Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds",
-    "link": "https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html",
-    "zeit": "2026-10-30T19:27:03+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Wall Street braces for Democratic gains as 2026 midterm election nears",
-    "link": "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
-    "zeit": "2026-10-30T19:11:32+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Tech gets crushed, defensive stocks shine. How we're making sense of it all",
-    "link": "https://www.cnbc.com/investingclub/2026/10/30/tech-gets-crushed-defensive-stocks-shine-how-were-making-sense-of-it-all.html",
-    "zeit": "2026-10-30T18:55:44+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Cheaper cars are selling considerably faster than at the beginning of the year",
-    "link": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
-    "zeit": "2026-10-30T18:45:35+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election",
-    "link": "https://www.cnbc.com/2026/10/30/reid-hoffman-democrats-epstein-midterms-2026.html",
-    "zeit": "2026-10-30T18:32:17+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
-    "link": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
-    "zeit": "2026-10-30T18:28:09+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Doch eine Art «assoziiertes Mitglied»: Der Gipfel EU-Kanada endet mit einer Überraschung",
-    "link": "https://www.nzz.ch/wirtschaft/doch-eine-art-assoziiertes-mitglied-der-gipfel-eu-kanada-endet-mit-einer-ueberraschung-ld.10049664",
-    "zeit": "2026-10-30T18:17:58+00:00",
+    "titel": "KOMMENTAR - Das Zeitalter der Krisen ist angebrochen. Die Unternehmen müssen sich darauf vorbereiten – auch zum Schutz der Schweiz",
+    "link": "https://www.nzz.ch/meinung/das-zeitalter-der-krisen-ist-angebrochen-die-unternehmen-muessen-sich-darauf-vorbereiten-auch-zum-schutz-der-schweiz-ld.10040149",
+    "zeit": "2026-11-02T04:35:00+00:00",
     "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Absage an Roms Dirigismus: Der Markt ordnet Italiens Bankenwelt neu",
+    "link": "https://www.nzz.ch/wirtschaft/absage-an-roms-dirigismus-der-markt-ordnet-italiens-bankenwelt-neu-ld.10049760",
+    "zeit": "2026-11-02T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Faule Romands? Von wegen: Die Genferseeregion überholt Zürich – und ist der wichtigste Wirtschaftsraum der Schweiz",
+    "link": "https://www.nzz.ch/wirtschaft/faule-romands-von-wegen-die-genferseeregion-ueberholt-zuerich-und-ist-der-wichtigste-wirtschaftsraum-der-schweiz-ld.10048814",
+    "zeit": "2026-11-02T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Zürcher Startup baut KI-Mitarbeiter: «Die haben keine Launen und machen, was man ihnen sagt.»",
+    "link": "https://www.nzz.ch/wirtschaft/zuercher-startup-baut-ki-mitarbeiter-die-haben-keine-launen-und-machen-was-man-ihnen-sagt-ld.10042513",
+    "zeit": "2026-11-02T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "INTERVIEW - «Wir sehen uns nicht als Teil der Modeindustrie»: Die Patagonia-Präsidentin kritisiert ihre Konkurrenten",
+    "link": "https://www.nzz.ch/wirtschaft/wir-sehen-uns-nicht-als-teil-der-modeindustrie-die-patagonia-praesidentin-kritisiert-ihre-konkurrenten-ld.10026997",
+    "zeit": "2026-11-02T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "INTERVIEW - Was treibt die Gewalt von Jugendlichen an?",
+    "link": "https://www.nzz.ch/pro/proteste-in-frankreich-kriminologe-erklaert-ursachen-und-loesungen-der-randalen-ld.10048137",
+    "zeit": "2026-11-02T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "In den Zwischenwahlen sind die Republikaner in der Defensive. Warum sich ihre Verluste dennoch in Grenzen halten könnten",
+    "link": "https://www.nzz.ch/international/midterms-usa-2026-warum-die-republikaner-dennoch-auf-erfolg-hoffen-ld.10047565",
+    "zeit": "2026-11-02T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Russlands Armee lernt in der Ukraine schneller, als sie sich verändern kann",
+    "link": "https://www.nzz.ch/pro/russlands-armee-lernt-in-der-ukraine-schneller-als-sie-sich-veraendern-kann-ld.10041303",
+    "zeit": "2026-11-02T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Canada-India $5.5 billion bank takeover attracts opposition from workers, politicians",
+    "link": "https://www.cnbc.com/2026/11/02/canada-india-bank-takeover-protest-workers.html",
+    "zeit": "2026-11-02T04:09:34+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships",
+    "link": "https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html",
+    "zeit": "2026-11-02T02:58:53+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes",
+    "link": "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html",
+    "zeit": "2026-11-02T02:39:35+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
+    "link": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
+    "zeit": "2026-11-01T23:17:57+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election",
+    "link": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
+    "zeit": "2026-11-01T21:06:42+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
+    "link": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
+    "zeit": "2026-11-01T19:10:12+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Wie der Raub von mehr als 6 Milliarden Dollar an Krypto-Vermögen ablief. Eine Rekonstruktion",
+    "link": "https://www.nzz.ch/wirtschaft/hackerangriff-auf-binance-wie-der-raub-von-mehr-als-6-milliarden-dollar-an-krypto-vermoegen-ablief-ld.10050967",
+    "zeit": "2026-11-01T16:39:36+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy",
+    "link": "https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html",
+    "zeit": "2026-11-01T16:34:43+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "These Senate races may help determine the fate of Social Security",
+    "link": "https://www.cnbc.com/2026/11/01/social-security-senate-races.html",
+    "zeit": "2026-11-01T15:20:06+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Social Security may have to cut retirement benefits in six years. Here's how much money is at stake for beneficiaries",
+    "link": "https://www.cnbc.com/2026/11/01/social-security-benefit-cuts-2032.html",
+    "zeit": "2026-11-01T15:18:38+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "FBI bestätigt: Nordkorea steckt hinter milliardenschwerem Krypto-Diebstahl bei Binance",
+    "link": "https://www.nzz.ch/wirtschaft/fbi-bestaetigt-nordkorea-steckt-hinter-milliardenschwerem-krypto-diebstahl-bei-binance-ld.10050756",
+    "zeit": "2026-11-01T10:51:03+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Nach Hackerangriff – Binance ersetzt 90 Prozent der gestohlenen Werte",
+    "link": "https://www.srf.ch/news/wirtschaft/nach-hackerangriff-binance-ersetzt-90-prozent-der-gestohlenen-werte",
+    "zeit": "2026-11-01T07:02:36+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Turbulenzen an der US-Börse – Wochenbilanz – wie stark Google, Intel und Co. abtauchen",
+    "link": "https://www.srf.ch/news/wirtschaft/turbulenzen-an-der-us-boerse-wochenbilanz-wie-stark-google-intel-und-co-abtauchen",
+    "zeit": "2026-10-31T08:00:41+00:00",
+    "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -458,34 +590,10 @@
     "sprache": "de"
    },
    {
-    "titel": "MELDUNGEN WIRTSCHAFT - Micasa-Chef verlässt das Möbelhaus schon wieder",
-    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
-    "zeit": "2026-10-30T16:12:44+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Weltgrösste Kryptobörse – Wie konnten die Täter den Binance-Raub durchführen?",
     "link": "https://www.srf.ch/news/wirtschaft/weltgroesste-kryptoboerse-wie-konnten-die-taeter-den-binance-raub-durchfuehren",
     "zeit": "2026-10-30T15:38:56+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Eine kleine Geschichte des israelischen Parteiensystems: so wechselhaft wie Unterwäsche",
-    "link": "https://www.nzz.ch/international/eine-kleine-geschichte-des-israelischen-parteiensystems-so-wechselhaft-wie-unterwaesche-ld.10028280",
-    "zeit": "2026-10-30T13:52:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Christine Lagarde ist Klaus Schwabs Wunschkandidatin für die WEF-Spitze. Doch hat sie andere Pläne?",
-    "link": "https://www.nzz.ch/wirtschaft/die-wunschkandidatin-von-klaus-schwab-nur-der-ruf-aus-paris-koennte-christine-lagarde-als-wef-praesidentin-noch-verhindern-ld.10049405",
-    "zeit": "2026-10-30T13:26:22+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -514,14 +622,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Audi vermeidet nur knapp die roten Zahlen",
-    "link": "https://www.nzz.ch/wirtschaft/audi-vermeidet-nur-knapp-die-roten-zahlen-ld.10049305",
-    "zeit": "2026-10-30T08:32:56+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Gewinnausschüttung offen – SNB erzielt nach 9 Monaten hohen Milliardengewinn",
     "link": "https://www.srf.ch/news/wirtschaft/gewinnausschuettung-offen-snb-erzielt-nach-9-monaten-hohen-milliardengewinn",
     "zeit": "2026-10-30T08:09:34+00:00",
@@ -542,22 +642,6 @@
     "link": "https://www.finews.ch/news/finanzplatz/74251-maverix-serge-nussbaumer-ki-banken-jobs-asset-management-bitcoin-podcast",
     "zeit": "2026-10-30T07:54:37+00:00",
     "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Der Nobelpreisträger Philippe Aghion kritisiert seinen Freund Emmanuel Macron: «Wenn die Politik nicht zuhört, wird man wütend»",
-    "link": "https://www.nzz.ch/pro/der-nobelpreistraeger-philippe-aghion-kritisiert-seinen-freund-emmanuel-macron-wenn-die-politik-nicht-zuhoert-wird-man-wuetend-ld.10047299",
-    "zeit": "2026-10-30T07:25:37+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Hacker lancieren bisher grössten Angriff auf Krypto-Börse Binance: Mehr als 6 Milliarden Dollar sind betroffen",
-    "link": "https://www.nzz.ch/wirtschaft/hacker-stehlen-63-milliarden-dollar-von-der-krypto-boerse-binance-ld.10049199",
-    "zeit": "2026-10-30T06:54:34+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -594,70 +678,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Drohnen-Krieg in der Ukraine – Schweizer Bauteile auch in neuen russischen Waffen entdeckt",
-    "link": "https://www.srf.ch/news/schweiz/drohnen-krieg-in-der-ukraine-schweizer-bauteile-auch-in-neuen-russischen-waffen-entdeckt",
-    "zeit": "2026-10-30T04:56:31+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Trotz Widerstand Deutschlands und anderer EU-Länder: Ursula von der Leyen will Kanada «als erstes assoziiertes Mitglied» der EU",
-    "link": "https://www.nzz.ch/wirtschaft/trotz-widerstand-deutschlands-und-anderer-eu-laender-ursula-von-der-leyen-will-kanada-als-erstes-assoziiertes-mitglied-der-eu-ld.10048358",
-    "zeit": "2026-10-30T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Der Gaspreis knackt die 100-Euro-Marke: Europa droht ein ungemütlicher Winter",
-    "link": "https://www.nzz.ch/wirtschaft/der-gaspreis-knackt-die-100-euro-marke-europa-droht-ein-ungemuetlicher-winter-ld.10048155",
-    "zeit": "2026-10-30T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "INTERVIEW - Migros-Chef Irminger über seinen Rücktritt: «Es ist besser, zu früh als zu spät aufzuhören»",
-    "link": "https://www.nzz.ch/wirtschaft/migros-chef-irminger-ueber-seinen-ruecktritt-es-ist-besser-zu-frueh-als-zu-spaet-aufzuhoeren-ld.10047402",
-    "zeit": "2026-10-30T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Grösste Kryptobörse gehackt – Hackerangriff auf Binance: «Krypto ist mit Risiko verbunden»",
-    "link": "https://www.srf.ch/news/wirtschaft/groesste-kryptoboerse-gehackt-hackerangriff-auf-binance-krypto-ist-mit-risiko-verbunden",
-    "zeit": "2026-10-30T03:44:30+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Autohersteller in der Krise – Europas Autoindustrie krankt auch aus eigenem Verschulden",
-    "link": "https://www.srf.ch/news/wirtschaft/autohersteller-in-der-krise-europas-autoindustrie-krankt-auch-aus-eigenem-verschulden",
-    "zeit": "2026-10-29T15:51:44+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Stablecoins: Privatbank zeigt, was Unternehmen jetzt wissen müssen",
-    "link": "https://www.finews.ch/news/banken/74242-maerki-baumann-stablecoins-unternehmen-zahlungsverkehr-liquiditaetsmanagement-digital-economy-award",
-    "zeit": "2026-10-29T13:35:49+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Europäische Zentralbank – Nach Rücktrittsankündigung: Lagarde belässt Leitzins",
-    "link": "https://www.srf.ch/news/wirtschaft/europaeische-zentralbank-nach-ruecktrittsankuendigung-lagarde-belaesst-leitzins",
-    "zeit": "2026-10-29T13:32:31+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Franken-Stablecoin: Bankiervereinigung macht Druck",
     "link": "https://www.finews.ch/news/finanzplatz/74241-franken-stablecoin-swiss-banking-schweizerische-bankiervereinigung-martin-hess-natalie-graf-eu-usa-politik-forderungen",
     "zeit": "2026-10-29T13:31:19+00:00",
@@ -666,18 +686,10 @@
     "sprache": "de"
    },
    {
-    "titel": "Staaten mit Schulden – Was sind Staatsanleihen und wie funktionieren sie?",
-    "link": "https://www.srf.ch/news/wirtschaft/staaten-mit-schulden-was-sind-staatsanleihen-und-wie-funktionieren-sie",
-    "zeit": "2026-10-29T08:37:31+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Autoindustrie in der Krise – Volkswagen meldet fast 6 Milliarden Euro Verlust",
-    "link": "https://www.srf.ch/news/wirtschaft/autoindustrie-in-der-krise-volkswagen-meldet-fast-6-milliarden-euro-verlust",
-    "zeit": "2026-10-29T07:39:17+00:00",
-    "quelle": "SRF Wirtschaft",
+    "titel": "Personalwechsel: Dahin zieht es derzeit am meisten Wealth Manager",
+    "link": "https://www.finews.ch/news/finanzplatz/74240-personalwechsel-wealth-manager-schweiz-align-private-wealth-aquila-vermoegensverwalter-2026",
+    "zeit": "2026-10-29T12:48:46+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    }
