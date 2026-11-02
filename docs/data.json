@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-11-02T11:56:36+01:00",
+ "aktualisiert": "2026-11-02T12:51:17+01:00",
  "kernaussagen": [
-  "SMI −0.13%, Nasdaq −2.86% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9200 (−0.10%)",
-  "Brent über 100 USD: 108.74 (−7.57%)"
+  "SMI −0.24%, Nasdaq −2.86% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9209 (−0.29%)",
+  "Brent über 100 USD: 108.38 (−7.87%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14790.990234375,
+   "kurs": 14775.26953125,
    "vortag": 14810.66015625,
-   "veraenderung_pct": -0.1328092176006046,
+   "veraenderung_pct": -0.23895373080359272,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14581.099609,
     14756.860352,
     14810.660156,
-    14790.990234
+    14775.269531
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25921.4296875,
+   "kurs": 25872.310546875,
    "vortag": 25818.2109375,
-   "veraenderung_pct": 0.3997904821905429,
+   "veraenderung_pct": 0.2095405042044307,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25704.019531,
     26039.679688,
     25818.210938,
-    25921.429688
+    25872.310547
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6160.3701171875,
+   "kurs": 6148.64990234375,
    "vortag": 6131.31005859375,
-   "veraenderung_pct": 0.4739616544594538,
+   "veraenderung_pct": 0.2828081369934399,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6167.810059,
     6207.069824,
     6131.310059,
-    6160.370117
+    6148.649902
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9199699759483337,
-   "vortag": 0.920930027961731,
-   "veraenderung_pct": -0.1042480953218683,
-   "datum": "2026-11-02",
-   "ist_heute": true,
+   "kurs": 0.920930027961731,
+   "vortag": 0.9236000180244446,
+   "veraenderung_pct": -0.2890851029241692,
+   "datum": "2026-10-30",
+   "ist_heute": false,
    "verlauf": [
+    0.92408,
     0.92479,
     0.92229,
     0.9236,
-    0.92093,
-    0.91997
+    0.92093
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8210800290107727,
-   "vortag": 0.8236100077629089,
-   "veraenderung_pct": -0.30718164280302274,
-   "datum": "2026-11-02",
-   "ist_heute": true,
+   "kurs": 0.8236100077629089,
+   "vortag": 0.8279500007629395,
+   "veraenderung_pct": -0.5241853971896027,
+   "datum": "2026-10-30",
+   "ist_heute": false,
    "verlauf": [
+    0.82383,
     0.82755,
     0.8288,
     0.82795,
-    0.82361,
-    0.82108
+    0.82361
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3905.0,
+   "kurs": 3913.39990234375,
    "vortag": 3898.89990234375,
-   "veraenderung_pct": 0.156456893201673,
+   "veraenderung_pct": 0.37189977591585155,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4051.600098,
     4031.399902,
     3898.899902,
-    3905.0
+    3913.399902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 108.73999786376953,
+   "kurs": 108.37999725341797,
    "vortag": 117.63999938964844,
-   "veraenderung_pct": -7.565455263562382,
+   "veraenderung_pct": -7.871474145081714,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     115.32,
     114.879997,
     117.639999,
-    108.739998
+    108.379997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 77849.2890625,
+   "kurs": 77713.71875,
    "vortag": 78248.453125,
-   "veraenderung_pct": -0.5101239022097248,
+   "veraenderung_pct": -0.6833801227300595,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     77198.210938,
     77434.75,
     78248.453125,
-    77849.289062
+    77713.71875
    ]
   }
  ],
@@ -240,17 +240,17 @@
    "name": "Deutschland",
    "quelle": "bundesbank",
    "verfuegbar": true,
-   "wert": 3.4,
-   "vortag": 3.42,
-   "veraenderung_bp": -2.0,
-   "datum": "2026-10-30",
-   "ist_heute": false,
+   "wert": 3.37,
+   "vortag": 3.4,
+   "veraenderung_bp": -3.0,
+   "datum": "2026-11-02",
+   "ist_heute": true,
    "verlauf": [
-    3.43,
     3.42,
     3.43,
     3.42,
-    3.4
+    3.4,
+    3.37
    ]
   },
   {
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 84.95999908447266,
+   "kurs": 84.8499984741211,
    "vortag": 84.69999694824219,
-   "veraenderung_pct": 0.30696829468523923,
+   "veraenderung_pct": 0.1770974395318703,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     82.809998,
     82.809998,
     84.699997,
-    84.959999
+    84.849998
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 132.13999938964844,
+   "kurs": 132.16000366210938,
    "vortag": 133.77999877929688,
-   "veraenderung_pct": -1.22589281253771,
+   "veraenderung_pct": -1.2109397009788303,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     129.220001,
     132.300003,
     133.779999,
-    132.139999
+    132.160004
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 398.70001220703125,
+   "kurs": 398.3999938964844,
    "vortag": 403.3999938964844,
-   "veraenderung_pct": -1.1650921568083006,
+   "veraenderung_pct": -1.2394645700671614,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     398.799988,
     401.700012,
     403.399994,
-    398.700012
+    398.399994
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.380001068115234,
+   "kurs": 39.33000183105469,
    "vortag": 39.2400016784668,
-   "veraenderung_pct": 0.35677722645273136,
+   "veraenderung_pct": 0.22935817721250196,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     38.599998,
     39.709999,
     39.240002,
-    39.380001
+    39.330002
    ]
   }
  ],
@@ -374,6 +374,46 @@
   ],
   "artikel": [
    {
+    "titel": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
+    "link": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
+    "zeit": "2026-11-02T11:18:37+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "OpenAI deepens Abu Dhabi foothold as Sam Altman inks deals spanning energy, government and investment",
+    "link": "https://www.cnbc.com/2026/11/02/openai-abu-dhabi-ai-deals.html",
+    "zeit": "2026-11-02T11:02:08+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "U.S. crude falls below $100 amid reports of U.S.-Iran diplomatic efforts",
+    "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+    "zeit": "2026-11-02T11:00:55+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Längere Lieferwege für Kaffee – Geopolitik macht Schweizer Kaffeebranche zu schaffen",
+    "link": "https://www.srf.ch/news/dialog/laengere-lieferwege-fuer-kaffee-geopolitik-macht-schweizer-kaffeebranche-zu-schaffen",
+    "zeit": "2026-11-02T11:00:29+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
+    "link": "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
+    "zeit": "2026-11-02T11:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
     "link": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
     "zeit": "2026-11-02T10:29:11+00:00",
@@ -382,17 +422,17 @@
     "sprache": "en"
    },
    {
+    "titel": "Vontobel ernennt neuen Leiter Kundenportfoliomanagement Aktien und Multi-Asset",
+    "link": "https://www.finews.ch/news/banken/74275-marc-bindschaedler-vontobel-leitung-des-kundenportfoliomanagements-fuer-aktien-und-multi-asset-institutionelle-kunden",
+    "zeit": "2026-11-02T09:43:34+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Ryanair CEO warns fares could rise by up to 20% in 2027 as fuel bill jumps by $2.2 billion",
     "link": "https://www.cnbc.com/2026/11/02/ryanair-h1-earnings-iran-war-fuel-costs.html",
     "zeit": "2026-11-02T09:27:47+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "U.S. crude falls below $100 amid reports of U.S.-Iran diplomatic efforts",
-    "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
-    "zeit": "2026-11-02T09:17:54+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -486,14 +526,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Längere Lieferwege für Kaffee – Geopolitik macht Schweizer Kaffeebranche zu schaffen",
-    "link": "https://www.srf.ch/news/dialog/laengere-lieferwege-fuer-kaffee-geopolitik-macht-schweizer-kaffeebranche-zu-schaffen",
-    "zeit": "2026-11-02T04:53:37+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "KI im Journalismus – Wie Schweizer Medienhäuser KI in der Berichterstattung einsetzen",
     "link": "https://www.srf.ch/news/wirtschaft/ki-im-journalismus-wie-schweizer-medienhaeuser-ki-in-der-berichterstattung-einsetzen",
     "zeit": "2026-11-02T04:52:37+00:00",
@@ -534,7 +566,7 @@
     "sprache": "de"
    },
    {
-    "titel": "Zürcher Startup baut KI-Mitarbeiter: «Die haben keine Launen und machen, was man ihnen sagt.»",
+    "titel": "Zürcher Startup baut KI-Mitarbeiter: «Die haben keine Launen und machen, was man ihnen sagt»",
     "link": "https://www.nzz.ch/wirtschaft/zuercher-startup-baut-ki-mitarbeiter-die-haben-keine-launen-und-machen-was-man-ihnen-sagt-ld.10042513",
     "zeit": "2026-11-02T04:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
@@ -572,30 +604,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Canada-India $5.5 billion bank takeover attracts opposition from workers, politicians",
-    "link": "https://www.cnbc.com/2026/11/02/canada-india-bank-takeover-protest-workers.html",
-    "zeit": "2026-11-02T04:09:34+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships",
-    "link": "https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html",
-    "zeit": "2026-11-02T02:58:53+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
-    "link": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
-    "zeit": "2026-11-01T23:17:57+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Wie der Raub von mehr als 6 Milliarden Dollar an Krypto-Vermögen ablief. Eine Rekonstruktion",
@@ -682,14 +690,6 @@
     "link": "https://www.srf.ch/news/international/usa/midterms-was-bedeuten-die-wahlen-in-den-usa-fuer-die-schweizer-wirtschaft",
     "zeit": "2026-10-30T07:56:13+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Maverix-Experte: «Bei den Banken wird es zuerst zu Einschnitten kommen»",
-    "link": "https://www.finews.ch/news/finanzplatz/74251-maverix-serge-nussbaumer-ki-banken-jobs-asset-management-bitcoin-podcast",
-    "zeit": "2026-10-30T07:54:37+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    }
