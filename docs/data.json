@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-11-02T17:33:34+01:00",
+ "aktualisiert": "2026-11-02T18:28:28+01:00",
  "kernaussagen": [
   "SMI −0.05%, Nikkei 225 −2.12% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9209 (−0.29%)",
-  "Brent über 100 USD: 105.13 (−10.63%)"
+  "Franken stärker: EUR/CHF 0.9170 (−0.43%)",
+  "Brent über 100 USD: 104.79 (−10.92%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14803.150390625,
+   "kurs": 14802.51953125,
    "vortag": 14810.66015625,
-   "veraenderung_pct": -0.05070513768983265,
+   "veraenderung_pct": -0.05496463300161958,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14581.099609,
     14756.860352,
     14810.660156,
-    14803.150391
+    14802.519531
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25989.240234375,
+   "kurs": 25981.08984375,
    "vortag": 25818.2109375,
-   "veraenderung_pct": 0.6624366703371631,
+   "veraenderung_pct": 0.6308682915493025,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25704.019531,
     26039.679688,
     25818.210938,
-    25989.240234
+    25981.089844
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6180.93017578125,
+   "kurs": 6176.06005859375,
    "vortag": 6131.31005859375,
-   "veraenderung_pct": 0.8092906200030114,
+   "veraenderung_pct": 0.7298603328219855,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6167.810059,
     6207.069824,
     6131.310059,
-    6180.930176
+    6176.060059
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7627.89990234375,
+   "kurs": 7613.0400390625,
    "vortag": 7580.06982421875,
-   "veraenderung_pct": 0.6309978566712005,
+   "veraenderung_pct": 0.43495924982654977,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7743.97998,
     7720.390137,
     7580.069824,
-    7627.899902
+    7613.040039
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25637.380859375,
+   "kurs": 25543.333984375,
    "vortag": 25437.0,
-   "veraenderung_pct": 0.7877535062114305,
+   "veraenderung_pct": 0.4180287941777827,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26549.849609,
     26184.720703,
     25437.0,
-    25637.380859
+    25543.333984
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.920930027961731,
-   "vortag": 0.9236000180244446,
-   "veraenderung_pct": -0.2890851029241692,
-   "datum": "2026-10-30",
-   "ist_heute": false,
+   "kurs": 0.9170100092887878,
+   "vortag": 0.920930027961731,
+   "veraenderung_pct": -0.42565868783963623,
+   "datum": "2026-11-02",
+   "ist_heute": true,
    "verlauf": [
-    0.92408,
     0.92479,
     0.92229,
     0.9236,
-    0.92093
+    0.92093,
+    0.91701
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.819100022315979,
+   "kurs": 0.8183199763298035,
    "vortag": 0.8236100077629089,
-   "veraenderung_pct": -0.5475874994744112,
+   "veraenderung_pct": -0.6422981002227379,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8288,
     0.82795,
     0.82361,
-    0.8191
+    0.81832
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3975.5,
+   "kurs": 3977.0,
    "vortag": 3898.89990234375,
-   "veraenderung_pct": 1.9646592519649841,
+   "veraenderung_pct": 2.003131642576972,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4051.600098,
     4031.399902,
     3898.899902,
-    3975.5
+    3977.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.12999725341797,
+   "kurs": 104.79000091552734,
    "vortag": 117.63999938964844,
-   "veraenderung_pct": -10.634139919360852,
+   "veraenderung_pct": -10.923154148921066,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     115.32,
     114.879997,
     117.639999,
-    105.129997
+    104.790001
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 77422.40625,
+   "kurs": 77038.8125,
    "vortag": 78248.453125,
-   "veraenderung_pct": -1.0556718273783794,
+   "veraenderung_pct": -1.54589717328677,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     77198.210938,
     77434.75,
     78248.453125,
-    77422.40625
+    77038.8125
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.894,
+   "wert": 4.882,
    "vortag": 4.929,
-   "veraenderung_bp": -3.5,
+   "veraenderung_bp": -4.7,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     5.045,
     4.989,
     4.929,
-    4.894
+    4.882
    ]
   }
  ],
@@ -277,19 +277,7 @@
    "symbol": "NESN.SW",
    "einheit": "CHF",
    "dezimalen": 2,
-   "verfuegbar": true,
-   "kurs": 84.75,
-   "vortag": 84.69999694824219,
-   "veraenderung_pct": 0.05903548236061429,
-   "datum": "2026-11-02",
-   "ist_heute": true,
-   "verlauf": [
-    83.25,
-    82.809998,
-    82.809998,
-    84.699997,
-    84.75
-   ]
+   "verfuegbar": false
   },
   {
    "name": "Novartis",
@@ -297,9 +285,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 131.3800048828125,
+   "kurs": 131.52000427246094,
    "vortag": 133.77999877929688,
-   "veraenderung_pct": -1.793985587071023,
+   "veraenderung_pct": -1.6893366179232538,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +295,7 @@
     129.220001,
     132.300003,
     133.779999,
-    131.380005
+    131.520004
    ]
   },
   {
@@ -316,9 +304,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 396.20001220703125,
+   "kurs": 397.20001220703125,
    "vortag": 403.3999938964844,
-   "veraenderung_pct": -1.7848244418418813,
+   "veraenderung_pct": -1.5369315278284557,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +314,7 @@
     398.799988,
     401.700012,
     403.399994,
-    396.200012
+    397.200012
    ]
   },
   {
@@ -335,9 +323,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.84000015258789,
+   "kurs": 39.790000915527344,
    "vortag": 39.2400016784668,
-   "veraenderung_pct": 1.529048033783198,
+   "veraenderung_pct": 1.4016289845429908,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +333,7 @@
     38.599998,
     39.709999,
     39.240002,
-    39.84
+    39.790001
    ]
   }
  ],
@@ -374,17 +362,73 @@
   ],
   "artikel": [
    {
-    "titel": "Crude oil dives to session low on Iran peace talk hopes ahead of midterms",
-    "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
-    "zeit": "2026-11-02T16:25:45+00:00",
+    "titel": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
+    "link": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+    "zeit": "2026-11-02T17:27:52+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "We're trimming a rallying industrial stock, looking for its next catalyst post-spinoff",
-    "link": "https://www.cnbc.com/investingclub/2026/11/02/were-trimming-a-rallying-industrial-stock-looking-for-its-next-catalyst-post-spinoff.html",
-    "zeit": "2026-11-02T16:19:36+00:00",
+    "titel": "DOJ asks Supreme Court to block California counting disputed mail-in ballots",
+    "link": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+    "zeit": "2026-11-02T17:26:55+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms",
+    "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+    "zeit": "2026-11-02T17:24:18+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "CrowdStrike lands an upgrade, and Jim Cramer's advice on Apple ahead of earnings",
+    "link": "https://www.cnbc.com/investingclub/2026/11/02/crowdstrike-lands-an-upgrade-and-jim-cramers-advice-on-apple-ahead-of-earnings.html",
+    "zeit": "2026-11-02T17:04:34+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Fed will vote on rates less often. What that could mean for borrowers",
+    "link": "https://www.cnbc.com/2026/11/02/fed-rate-votes-consumer-borrowing-costs.html",
+    "zeit": "2026-11-02T17:03:07+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "KOMMENTAR - Streit um das Verfassungsgericht in Polen: Tusks Befreiungsschlag ist riskant",
+    "link": "https://www.nzz.ch/meinung/streit-um-das-verfassungsgericht-in-polen-tusks-befreiungsschlag-ist-riskant-ld.10051814",
+    "zeit": "2026-11-02T17:00:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell",
+    "link": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
+    "zeit": "2026-11-02T16:59:45+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Stock market after midterm elections: What S&P 500 history shows",
+    "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+    "zeit": "2026-11-02T16:48:28+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe: Reports",
+    "link": "https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html",
+    "zeit": "2026-11-02T16:42:12+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -398,33 +442,9 @@
     "sprache": "en"
    },
    {
-    "titel": "Marvell CEO touts 'enormous' opportunity in massive AI connectivity bet on Lumentum",
-    "link": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
-    "zeit": "2026-11-02T16:03:51+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Fanatics takes bigger NHL design role with all-32 team Hometown Remix jerseys",
     "link": "https://www.cnbc.com/2026/11/02/fanatics-nhl-hometown-remix-jerseys.html",
     "zeit": "2026-11-02T16:00:06+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
-    "link": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-    "zeit": "2026-11-02T15:53:04+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Stock market after midterm elections: What S&P 500 history shows",
-    "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-    "zeit": "2026-11-02T15:41:12+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -438,36 +458,12 @@
     "sprache": "de"
    },
    {
-    "titel": "Wall Street's Fear Index is doing something strange. Here's what it means for stocks",
-    "link": "https://www.cnbc.com/2026/11/02/wall-streets-fear-index-is-doing-something-strange-heres-what-it-means-for-stocks.html",
-    "zeit": "2026-11-02T15:30:41+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
-    "link": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
-    "zeit": "2026-11-02T15:28:46+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Der Binance-Coup: Wie Nordkorea die Krypto-Branche austricksen konnte",
     "link": "https://www.nzz.ch/pro/binance-warum-nordkoreas-hacker-die-kryptoboersen-austricksen-konnten-ld.10051609",
     "zeit": "2026-11-02T14:40:53+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Connecticut Sen. Chris Murphy hospitalized after stroke, office says",
-    "link": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
-    "zeit": "2026-11-02T14:14:00+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Medikamentenpreise: Zürcher Forscher warnen vor vorauseilendem Gehorsam gegenüber den USA",
@@ -632,14 +628,6 @@
    {
     "titel": "INTERVIEW - «Wir sehen uns nicht als Teil der Modeindustrie»: Die Patagonia-Präsidentin kritisiert ihre Konkurrenten",
     "link": "https://www.nzz.ch/wirtschaft/wir-sehen-uns-nicht-als-teil-der-modeindustrie-die-patagonia-praesidentin-kritisiert-ihre-konkurrenten-ld.10026997",
-    "zeit": "2026-11-02T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "INTERVIEW - Was treibt die Gewalt von Jugendlichen an?",
-    "link": "https://www.nzz.ch/pro/proteste-in-frankreich-kriminologe-erklaert-ursachen-und-loesungen-der-randalen-ld.10048137",
     "zeit": "2026-11-02T04:30:00+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
