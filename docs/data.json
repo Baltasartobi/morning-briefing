@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-11-02T13:59:08+01:00",
+ "aktualisiert": "2026-11-02T15:12:56+01:00",
  "kernaussagen": [
-  "SMI −0.53%, Nasdaq −2.86% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9209 (−0.29%)",
-  "Brent über 100 USD: 108.67 (−7.62%)"
+  "SMI −0.42%, Nasdaq −2.86% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9188 (−0.23%)",
+  "Brent über 100 USD: 106.64 (−9.35%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14732.509765625,
+   "kurs": 14748.1103515625,
    "vortag": 14810.66015625,
-   "veraenderung_pct": -0.5276631142739463,
+   "veraenderung_pct": -0.42232961952816117,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14581.099609,
     14756.860352,
     14810.660156,
-    14732.509766
+    14748.110352
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25794.060546875,
+   "kurs": 25861.44921875,
    "vortag": 25818.2109375,
-   "veraenderung_pct": -0.09354013987825649,
+   "veraenderung_pct": 0.16747202722400267,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25704.019531,
     26039.679688,
     25818.210938,
-    25794.060547
+    25861.449219
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6126.72998046875,
+   "kurs": 6146.22021484375,
    "vortag": 6131.31005859375,
-   "veraenderung_pct": -0.07469982893102411,
+   "veraenderung_pct": 0.243180594481629,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6167.810059,
     6207.069824,
     6131.310059,
-    6126.72998
+    6146.220215
    ]
   },
   {
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.920930027961731,
-   "vortag": 0.9236000180244446,
-   "veraenderung_pct": -0.2890851029241692,
-   "datum": "2026-10-30",
-   "ist_heute": false,
+   "kurs": 0.9188299775123596,
+   "vortag": 0.920930027961731,
+   "veraenderung_pct": -0.22803583177967157,
+   "datum": "2026-11-02",
+   "ist_heute": true,
    "verlauf": [
-    0.92408,
     0.92479,
     0.92229,
     0.9236,
-    0.92093
+    0.92093,
+    0.91883
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3909.300048828125,
+   "kurs": 3945.5,
    "vortag": 3898.89990234375,
-   "veraenderung_pct": 0.26674566531248445,
+   "veraenderung_pct": 1.1952114397252744,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4051.600098,
     4031.399902,
     3898.899902,
-    3909.300049
+    3945.5
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 108.66999816894531,
+   "kurs": 106.63999938964844,
    "vortag": 117.63999938964844,
-   "veraenderung_pct": -7.624958574670337,
+   "veraenderung_pct": -9.350561082175535,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     115.32,
     114.879997,
     117.639999,
-    108.669998
+    106.639999
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 77655.09375,
+   "kurs": 77736.0625,
    "vortag": 78248.453125,
-   "veraenderung_pct": -0.7583017316037166,
+   "veraenderung_pct": -0.6548252451476166,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     77198.210938,
     77434.75,
     78248.453125,
-    77655.09375
+    77736.0625
    ]
   }
  ],
@@ -257,17 +257,17 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.929,
-   "vortag": 4.989,
-   "veraenderung_bp": -6.0,
-   "datum": "2026-10-30",
-   "ist_heute": false,
+   "wert": 4.904,
+   "vortag": 4.929,
+   "veraenderung_bp": -2.5,
+   "datum": "2026-11-02",
+   "ist_heute": true,
    "verlauf": [
-    4.986,
     4.993,
     5.045,
     4.989,
-    4.929
+    4.929,
+    4.904
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 84.62999725341797,
+   "kurs": 84.61000061035156,
    "vortag": 84.69999694824219,
-   "veraenderung_pct": -0.08264427077487868,
+   "veraenderung_pct": -0.10625305918915418,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     82.809998,
     82.809998,
     84.699997,
-    84.629997
+    84.610001
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 131.55999755859375,
+   "kurs": 131.4600067138672,
    "vortag": 133.77999877929688,
-   "veraenderung_pct": -1.6594418006876888,
+   "veraenderung_pct": -1.7341845467176986,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     129.220001,
     132.300003,
     133.779999,
-    131.559998
+    131.460007
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 397.6000061035156,
+   "kurs": 396.70001220703125,
    "vortag": 403.3999938964844,
-   "veraenderung_pct": -1.4377758752413539,
+   "veraenderung_pct": -1.660877984835174,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     398.799988,
     401.700012,
     403.399994,
-    397.600006
+    396.700012
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.220001220703125,
+   "kurs": 39.34000015258789,
    "vortag": 39.2400016784668,
-   "veraenderung_pct": -0.05096956398614738,
+   "veraenderung_pct": 0.2548380984804366,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     38.599998,
     39.709999,
     39.240002,
-    39.220001
+    39.34
    ]
   }
  ],
@@ -374,9 +374,73 @@
   ],
   "artikel": [
    {
-    "titel": "U.S. crude falls below $100 amid reports of U.S.-Iran diplomatic efforts",
+    "titel": "Ryanair CEO warns fares could rise by up to 20% next year",
+    "link": "https://www.cnbc.com/2026/11/02/ryanair-h1-earnings-iran-war-fuel-costs.html",
+    "zeit": "2026-11-02T14:12:38+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Crude oil dives to session low on Iran peace talk hopes ahead of midterms",
     "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
-    "zeit": "2026-11-02T12:40:46+00:00",
+    "zeit": "2026-11-02T14:12:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
+    "link": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+    "zeit": "2026-11-02T14:03:44+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Medikamentenpreise: Zürcher Forscher warnen vor vorauseilendem Gehorsam gegenüber USA",
+    "link": "https://www.nzz.ch/wirtschaft/thema-mfn-medikamente-sind-in-in-der-schweiz-nicht-am-billigsten-ld.10048515",
+    "zeit": "2026-11-02T14:00:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
+    "link": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
+    "zeit": "2026-11-02T13:57:39+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "We're buying the dip in a stock after an expectations reset",
+    "link": "https://www.cnbc.com/investingclub/2026/11/02/were-buying-the-dip-in-a-stock-after-an-expectations-reset.html",
+    "zeit": "2026-11-02T13:56:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "«NZZ Pro»-Talk: Kanada und Europa wollen enger zusammenarbeiten. Kann eine Allianz der Mittelmächte funktionieren?",
+    "link": "https://www.nzz.ch/pro/kanada-und-europa-kann-eine-allianz-der-mittelmaechte-funktionieren-ld.10051933",
+    "zeit": "2026-11-02T13:34:39+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "The market view of the oil, AI and bond trades went through a major change in October",
+    "link": "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html",
+    "zeit": "2026-11-02T13:26:05+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
+    "link": "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
+    "zeit": "2026-11-02T13:23:58+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -390,12 +454,12 @@
     "sprache": "en"
    },
    {
-    "titel": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
-    "link": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
-    "zeit": "2026-11-02T11:18:37+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "BNP Paribas ernennt Leiter für neuen Bereich Investment Banking Schweiz",
+    "link": "https://www.finews.ch/news/banken/74280-bnp-paribas-christoph-sebastian-meier-investmentbanking-schweiz",
+    "zeit": "2026-11-02T11:34:48+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "OpenAI deepens Abu Dhabi foothold as Sam Altman inks deals spanning energy, government and investment",
@@ -414,28 +478,12 @@
     "sprache": "de"
    },
    {
-    "titel": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
-    "link": "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
-    "zeit": "2026-11-02T11:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Vontobel ernennt neuen Leiter Kundenportfoliomanagement Aktien und Multi-Asset",
     "link": "https://www.finews.ch/news/banken/74275-marc-bindschaedler-vontobel-leitung-des-kundenportfoliomanagements-fuer-aktien-und-multi-asset-institutionelle-kunden",
     "zeit": "2026-11-02T09:43:34+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Ryanair CEO warns fares could rise by up to 20% in 2027 as fuel bill jumps by $2.2 billion",
-    "link": "https://www.cnbc.com/2026/11/02/ryanair-h1-earnings-iran-war-fuel-costs.html",
-    "zeit": "2026-11-02T09:27:47+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Genfer Vermögensverwalter holt früheren Coutts-Anlagechef in VR",
@@ -486,28 +534,12 @@
     "sprache": "de"
    },
    {
-    "titel": "AI is coming to construction sites. But does it make workers safer?",
-    "link": "https://www.cnbc.com/2026/10/31/ai-construction-worker-safety.html",
-    "zeit": "2026-11-02T06:55:19+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Fondsmarkt: Am meisten Neugeld fliesst in Obligationen",
     "link": "https://www.finews.ch/news/finanzplatz/74262-amas-fondsmarktq3-2026-neugeld-obligationenfonds-fondsanbieter",
     "zeit": "2026-11-02T06:25:18+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
-    "link": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
-    "zeit": "2026-11-02T06:02:03+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Neuer Wind bei den Vermögensverwaltern, Bruchlinien im Finanzsystem",
@@ -532,14 +564,6 @@
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
-    "link": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html",
-    "zeit": "2026-11-02T05:09:45+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "KI im Journalismus – Wie Schweizer Medienhäuser KI in der Berichterstattung einsetzen",
@@ -622,22 +646,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Wie der Raub von mehr als 6 Milliarden Dollar an Krypto-Vermögen ablief. Eine Rekonstruktion",
-    "link": "https://www.nzz.ch/wirtschaft/hackerangriff-auf-binance-wie-der-raub-von-mehr-als-6-milliarden-dollar-an-krypto-vermoegen-ablief-ld.10050967",
-    "zeit": "2026-11-01T16:39:36+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "FBI bestätigt: Nordkorea steckt hinter milliardenschwerem Krypto-Diebstahl bei Binance",
-    "link": "https://www.nzz.ch/wirtschaft/fbi-bestaetigt-nordkorea-steckt-hinter-milliardenschwerem-krypto-diebstahl-bei-binance-ld.10050756",
-    "zeit": "2026-11-01T10:51:03+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Nach Hackerangriff – Binance ersetzt 90 Prozent der gestohlenen Werte",
     "link": "https://www.srf.ch/news/wirtschaft/nach-hackerangriff-binance-ersetzt-90-prozent-der-gestohlenen-werte",
     "zeit": "2026-11-01T07:02:36+00:00",
@@ -650,14 +658,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/turbulenzen-an-der-us-boerse-wochenbilanz-wie-stark-google-intel-und-co-abtauchen",
     "zeit": "2026-10-31T08:00:41+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Luzerner Kantonalbank: Gewinn steigt – Anlagegeschäft gewinnt an Bedeutung",
-    "link": "https://www.finews.ch/news/banken/74258-luzerner-kantonalbank-lukb-gewinn-2026-vermoegensverwaltung-daniel-salzmann",
-    "zeit": "2026-10-30T17:17:22+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
