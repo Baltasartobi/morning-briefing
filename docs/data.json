@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-11-02T06:58:39+01:00",
+ "aktualisiert": "2026-11-02T08:18:23+01:00",
  "kernaussagen": [
   "SMI +0.36%, Nasdaq −2.86% am schwächsten",
-  "Franken stabil: EUR/CHF 0.9208 (−0.02%)",
-  "Brent über 100 USD: 109.85 (−6.62%)"
+  "Franken stärker: EUR/CHF 0.9209 (−0.29%)",
+  "Brent über 100 USD: 110.09 (−6.42%)"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 63328.9609375,
+   "kurs": 63081.859375,
    "vortag": 63290.109375,
-   "veraenderung_pct": 0.06138646762292588,
+   "veraenderung_pct": -0.32904035410351584,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     63954.191406,
     64659.46875,
     63290.109375,
-    63328.960938
+    63081.859375
    ]
   }
  ],
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.920769989490509,
-   "vortag": 0.920930027961731,
-   "veraenderung_pct": -0.017377918665129055,
-   "datum": "2026-11-02",
-   "ist_heute": true,
+   "kurs": 0.920930027961731,
+   "vortag": 0.9236000180244446,
+   "veraenderung_pct": -0.2890851029241692,
+   "datum": "2026-10-30",
+   "ist_heute": false,
    "verlauf": [
+    0.92408,
     0.92479,
     0.92229,
     0.9236,
-    0.92093,
-    0.92077
+    0.92093
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8234000205993652,
+   "kurs": 0.8230500221252441,
    "vortag": 0.8236100077629089,
-   "veraenderung_pct": -0.02549594608667327,
+   "veraenderung_pct": -0.06799160189734366,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.8288,
     0.82795,
     0.82361,
-    0.8234
+    0.82305
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3923.699951171875,
+   "kurs": 3915.5,
    "vortag": 3898.89990234375,
-   "veraenderung_pct": 0.6360781104746138,
+   "veraenderung_pct": 0.42576362748556473,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4051.600098,
     4031.399902,
     3898.899902,
-    3923.699951
+    3915.5
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 109.8499984741211,
+   "kurs": 110.08999633789062,
    "vortag": 117.63999938964844,
-   "veraenderung_pct": -6.621898126440162,
+   "veraenderung_pct": -6.417887700552106,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     115.32,
     114.879997,
     117.639999,
-    109.849998
+    110.089996
    ]
   },
   {
@@ -204,17 +204,17 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 78239.28125,
-   "vortag": 77434.75,
-   "veraenderung_pct": 1.0389795924956147,
+   "kurs": 77991.640625,
+   "vortag": 78248.453125,
+   "veraenderung_pct": -0.3282013761853553,
    "datum": "2026-11-02",
    "ist_heute": true,
    "verlauf": [
-    81267.585938,
     77775.109375,
     77198.210938,
     77434.75,
-    78239.28125
+    78248.453125,
+    77991.640625
    ]
   }
  ],
@@ -374,10 +374,34 @@
   ],
   "artikel": [
    {
+    "titel": "AI is coming to construction sites. But does it make workers safer?",
+    "link": "https://www.cnbc.com/2026/10/31/ai-construction-worker-safety.html",
+    "zeit": "2026-11-02T06:55:19+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
+    "link": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
+    "zeit": "2026-11-02T06:02:03+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Abstimmung über Kriegsmaterial – Wie geht es der Schweizer Rüstungsindustrie?",
     "link": "https://www.srf.ch/news/dialog/abstimmung-ueber-kriegsmaterial-wie-geht-es-der-schweizer-ruestungsindustrie",
     "zeit": "2026-11-02T05:14:10+00:00",
     "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "GZO-Nachlassvertrag: Die Würfel dürften schon gefallen sein",
+    "link": "https://www.finews.ch/news/finanzplatz/74259-gzo-spitalwetzikon-infracore-kaufangebot-nachlassvertrag",
+    "zeit": "2026-11-02T05:13:47+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -542,22 +566,6 @@
     "sprache": "en"
    },
    {
-    "titel": "These Senate races may help determine the fate of Social Security",
-    "link": "https://www.cnbc.com/2026/11/01/social-security-senate-races.html",
-    "zeit": "2026-11-01T15:20:06+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Social Security may have to cut retirement benefits in six years. Here's how much money is at stake for beneficiaries",
-    "link": "https://www.cnbc.com/2026/11/01/social-security-benefit-cuts-2032.html",
-    "zeit": "2026-11-01T15:18:38+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "FBI bestätigt: Nordkorea steckt hinter milliardenschwerem Krypto-Diebstahl bei Binance",
     "link": "https://www.nzz.ch/wirtschaft/fbi-bestaetigt-nordkorea-steckt-hinter-milliardenschwerem-krypto-diebstahl-bei-binance-ld.10050756",
     "zeit": "2026-11-01T10:51:03+00:00",
@@ -673,14 +681,6 @@
     "titel": "Julius Bär startet Aktienrückkaufprogramm in der kommenden Woche",
     "link": "https://www.finews.ch/news/banken/74244-julius-baer-start-aktienrueckkaufprogramm",
     "zeit": "2026-10-30T05:26:44+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Franken-Stablecoin: Bankiervereinigung macht Druck",
-    "link": "https://www.finews.ch/news/finanzplatz/74241-franken-stablecoin-swiss-banking-schweizerische-bankiervereinigung-martin-hess-natalie-graf-eu-usa-politik-forderungen",
-    "zeit": "2026-10-29T13:31:19+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
