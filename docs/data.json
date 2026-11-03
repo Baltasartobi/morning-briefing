@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-11-03T11:27:24+01:00",
+ "aktualisiert": "2026-11-03T12:25:03+01:00",
  "kernaussagen": [
-  "SMI +0.03%, Nasdaq −1.07% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9155 (−0.50%)",
-  "Gold −1.39% auf 3'914.60 USD/Unze · Brent über 100 USD"
+  "SMI −0.13%, Nasdaq −1.07% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9158 (−0.47%)",
+  "Brent über 100 USD: 106.19 (+1.36%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14807.3603515625,
+   "kurs": 14783.259765625,
    "vortag": 14802.51953125,
-   "veraenderung_pct": 0.03270267809665217,
+   "veraenderung_pct": -0.1301114015376914,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14756.860352,
     14810.660156,
     14802.519531,
-    14807.360352
+    14783.259766
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25833.0,
+   "kurs": 25832.98046875,
    "vortag": 25981.08984375,
-   "veraenderung_pct": -0.5699908842955015,
+   "veraenderung_pct": -0.5700660591635209,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     26039.679688,
     25818.210938,
     25981.089844,
-    25833.0
+    25832.980469
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6149.169921875,
+   "kurs": 6150.7900390625,
    "vortag": 6176.06005859375,
-   "veraenderung_pct": -0.43539305744498824,
+   "veraenderung_pct": -0.4091608451262996,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6207.069824,
     6131.310059,
     6176.060059,
-    6149.169922
+    6150.790039
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9154999852180481,
+   "kurs": 0.9157599806785583,
    "vortag": 0.9201300144195557,
-   "veraenderung_pct": -0.5031929324062268,
+   "veraenderung_pct": -0.4749365494564395,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.9236,
     0.92093,
     0.92013,
-    0.9155
+    0.91576
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8184999823570251,
+   "kurs": 0.8193600177764893,
    "vortag": 0.8247699737548828,
-   "veraenderung_pct": -0.7602109190896766,
+   "veraenderung_pct": -0.655935127434859,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82795,
     0.82361,
     0.82477,
-    0.8185
+    0.81936
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3914.60009765625,
+   "kurs": 3917.89990234375,
    "vortag": 3969.60009765625,
-   "veraenderung_pct": -1.3855299941289645,
+   "veraenderung_pct": -1.3024031146871673,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4031.399902,
     3898.899902,
     3969.600098,
-    3914.600098
+    3917.899902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.55000305175781,
+   "kurs": 106.19000244140625,
    "vortag": 104.7699966430664,
-   "veraenderung_pct": 0.7444940667018951,
+   "veraenderung_pct": 1.3553553916562322,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     114.879997,
     117.639999,
     104.769997,
-    105.550003
+    106.190002
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 76843.9609375,
+   "kurs": 77030.3203125,
    "vortag": 76677.296875,
-   "veraenderung_pct": 0.21735776989073585,
+   "veraenderung_pct": 0.4604015163386599,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     77434.75,
     78248.453125,
     76677.296875,
-    76843.960938
+    77030.320312
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 84.58999633789062,
+   "kurs": 84.48999786376953,
    "vortag": 84.63999938964844,
-   "veraenderung_pct": -0.05907733000755089,
+   "veraenderung_pct": -0.17722297608765425,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     82.809998,
     84.699997,
     84.639999,
-    84.589996
+    84.489998
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 132.6999969482422,
+   "kurs": 132.3000030517578,
    "vortag": 131.52000427246094,
-   "veraenderung_pct": 0.8971963484252443,
+   "veraenderung_pct": 0.5930647460146155,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     132.300003,
     133.779999,
     131.520004,
-    132.699997
+    132.300003
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 397.70001220703125,
+   "kurs": 396.20001220703125,
    "vortag": 397.20001220703125,
-   "veraenderung_pct": 0.1258811643085611,
+   "veraenderung_pct": -0.2517623286171444,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     401.700012,
     403.399994,
     397.200012,
-    397.700012
+    396.200012
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.63999938964844,
+   "kurs": 39.72999954223633,
    "vortag": 39.790000915527344,
-   "veraenderung_pct": -0.3769829666436908,
+   "veraenderung_pct": -0.15079510407249863,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.709999,
     39.240002,
     39.790001,
-    39.639999
+    39.73
    ]
   }
  ],
@@ -374,25 +374,33 @@
   ],
   "artikel": [
    {
-    "titel": "MELDUNGEN WIRTSCHAFT - Lonza übernimmt Produktionsstandorte der Merck KGaA in den USA",
+    "titel": "MELDUNGEN WIRTSCHAFT - Mediamarkt-Saturn darf chinesisch werden – EU gibt grünes Licht für Übernahme +++ Lonza übernimmt Produktionsstandorte der Merck KGaA in den USA",
     "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
-    "zeit": "2026-11-03T10:07:44+00:00",
+    "zeit": "2026-11-03T11:18:07+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
    {
-    "titel": "Oil prices climb after U.S. strikes Iran's Qeshm Island",
-    "link": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
-    "zeit": "2026-11-03T09:58:37+00:00",
+    "titel": "UBS-Lohnumfrage – Schweizer Löhne steigen 2027 nur leicht",
+    "link": "https://www.srf.ch/news/schweiz/ubs-lohnumfrage-schweizer-loehne-steigen-2027-nur-leicht",
+    "zeit": "2026-11-03T10:35:08+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Apple shares slide after weak margin outlook; Palantir slumps 8% after earnings",
+    "link": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
+    "zeit": "2026-11-03T10:34:38+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Apple and Palantir shares slide in premarket trading following post-bell earnings",
-    "link": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
-    "zeit": "2026-11-03T09:48:33+00:00",
+    "titel": "Oil prices climb after U.S. strikes Iran's Qeshm Island",
+    "link": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
+    "zeit": "2026-11-03T09:58:37+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -425,6 +433,14 @@
     "titel": "SIX: ETF-Handelsumsatz steigt im Oktober kräftig",
     "link": "https://www.finews.ch/news/finanzplatz/74304-six-bme-handelsumsatz-oktober-2026",
     "zeit": "2026-11-03T09:04:05+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Grosser Fortschritt bei Franken-Stablecoins",
+    "link": "https://www.finews.ch/news/finanzplatz/74301-neuer-schweizerfranken-stablecoin-safirum-bastien-thiebaud-maverix-giuliano-glocker",
+    "zeit": "2026-11-03T08:30:34+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
@@ -654,14 +670,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Genfer Vermögensverwalter holt früheren Coutts-Anlagechef in VR",
-    "link": "https://www.finews.ch/news/finanzplatz/74273-nfg-partners-verwaltungsrat-paul-sarosy-merrill-lynch-coutts-und-der-credit-suisse",
-    "zeit": "2026-11-02T09:21:32+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Abstimmung über Kriegsmaterial – Wie geht es der Schweizer Rüstungsindustrie?",
     "link": "https://www.srf.ch/news/dialog/abstimmung-ueber-kriegsmaterial-wie-geht-es-der-schweizer-ruestungsindustrie",
     "zeit": "2026-11-02T05:14:10+00:00",
@@ -681,14 +689,6 @@
     "titel": "Pharmaindustrie – Medikamentenpreise: US-Preispolitik setzt die Schweiz unter Druck",
     "link": "https://www.srf.ch/news/wirtschaft/pharmaindustrie-medikamentenpreise-us-preispolitik-setzt-die-schweiz-unter-druck",
     "zeit": "2026-11-02T04:50:27+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Nach Hackerangriff – Binance ersetzt 90 Prozent der gestohlenen Werte",
-    "link": "https://www.srf.ch/news/wirtschaft/nach-hackerangriff-binance-ersetzt-90-prozent-der-gestohlenen-werte",
-    "zeit": "2026-11-01T07:02:36+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
