@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-11-03T19:48:23+01:00",
+ "aktualisiert": "2026-11-03T20:50:29+01:00",
  "kernaussagen": [
-  "SMI −0.40%, Nasdaq +1.12% führt",
-  "Franken stärker: EUR/CHF 0.9185 (−0.18%)",
-  "Bitcoin +1.27% auf 77'652 USD · Brent über 100 USD"
+  "SMI −0.40%, Nasdaq +0.82% führt",
+  "Franken stärker: EUR/CHF 0.9186 (−0.17%)",
+  "Bitcoin +1.10% auf 77'518 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7588.740234375,
+   "kurs": 7570.85009765625,
    "vortag": 7541.39990234375,
-   "veraenderung_pct": 0.6277393142424037,
+   "veraenderung_pct": 0.3905136406219034,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7720.390137,
     7580.069824,
     7541.399902,
-    7588.740234
+    7570.850098
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25446.888671875,
+   "kurs": 25370.4453125,
    "vortag": 25164.310546875,
-   "veraenderung_pct": 1.1229321163940709,
+   "veraenderung_pct": 0.8191552287555082,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26184.720703,
     25437.0,
     25164.310547,
-    25446.888672
+    25370.445312
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9184799790382385,
+   "kurs": 0.9185900092124939,
    "vortag": 0.9201300144195557,
-   "veraenderung_pct": -0.17932632948159943,
+   "veraenderung_pct": -0.1673682178526925,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.9236,
     0.92093,
     0.92013,
-    0.91848
+    0.91859
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.820580005645752,
+   "kurs": 0.8207899928092957,
    "vortag": 0.8247699737548828,
-   "veraenderung_pct": -0.5080165673412518,
+   "veraenderung_pct": -0.4825564790468473,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82795,
     0.82361,
     0.82477,
-    0.82058
+    0.82079
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3939.10009765625,
+   "kurs": 3934.5,
    "vortag": 3969.60009765625,
-   "veraenderung_pct": -0.7683393603806099,
+   "veraenderung_pct": -0.8842225109016333,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4031.399902,
     3898.899902,
     3969.600098,
-    3939.100098
+    3934.5
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 103.58999633789062,
+   "kurs": 103.80999755859375,
    "vortag": 104.7699966430664,
-   "veraenderung_pct": -1.1262769332673006,
+   "veraenderung_pct": -0.9162919874314834,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     114.879997,
     117.639999,
     104.769997,
-    103.589996
+    103.809998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 77651.53125,
+   "kurs": 77517.953125,
    "vortag": 76677.296875,
-   "veraenderung_pct": 1.2705643191728733,
+   "veraenderung_pct": 1.0963561370328945,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     77434.75,
     78248.453125,
     76677.296875,
-    77651.53125
+    77517.953125
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.958,
+   "wert": 4.946,
    "vortag": 4.894,
-   "veraenderung_bp": 6.4,
+   "veraenderung_bp": 5.2,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     4.989,
     4.929,
     4.894,
-    4.958
+    4.946
    ]
   }
  ],
@@ -374,9 +374,65 @@
   ],
   "artikel": [
    {
-    "titel": "Pfizer hikes full-year outlook as newer products grow, taps company veteran as new CFO",
+    "titel": "Sen. Chris Murphy still hospitalized after suffering a stroke over the weekend",
+    "link": "https://www.cnbc.com/2026/11/03/chris-murphy-hospitalized-stroke.html",
+    "zeit": "2026-11-03T19:36:16+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
+    "link": "https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html",
+    "zeit": "2026-11-03T19:35:24+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Election Day: Here is the No. 1 issue we're watching as a signal for stocks",
+    "link": "https://www.cnbc.com/investingclub/2026/11/03/election-day-here-is-the-no-1-issue-were-watching-as-a-signal-for-stocks.html",
+    "zeit": "2026-11-03T19:29:41+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Pfizer hikes full-year outlook on new product growth, taps company veteran as new CFO",
     "link": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
-    "zeit": "2026-11-03T18:44:24+00:00",
+    "zeit": "2026-11-03T19:25:44+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Options traders are betting heavily on these stocks ahead of election results",
+    "link": "https://www.cnbc.com/2026/11/03/options-traders-are-betting-heavily-on-these-stocks-ahead-of-election-results.html",
+    "zeit": "2026-11-03T19:22:30+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
+    "link": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html",
+    "zeit": "2026-11-03T19:15:21+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Sullivan: What the 2026 midterms could mean for energy investors",
+    "link": "https://www.cnbc.com/2026/11/03/2026-midterms-energy-investors.html",
+    "zeit": "2026-11-03T19:03:06+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Ferrari raises 2026 guidance after Q3 earnings beat",
+    "link": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
+    "zeit": "2026-11-03T18:52:06+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -390,14 +446,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Ex-Amex CEO shares when business leaders need to speak up about politics: 'You should care about what happens in our society'",
-    "link": "https://www.cnbc.com/make-it/2026/11/03/ken-chenault-ceo-politics-voting-rights.html",
-    "zeit": "2026-11-03T18:34:32+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps",
     "link": "https://www.cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html",
     "zeit": "2026-11-03T18:33:49+00:00",
@@ -406,55 +454,7 @@
     "sprache": "en"
    },
    {
-    "titel": "What the 2026 midterm elections could mean for Trump's final two years",
-    "link": "https://www.cnbc.com/2026/11/03/midterm-elections-congress-trump-democrats-republicans.html",
-    "zeit": "2026-11-03T18:29:24+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting",
-    "link": "https://www.cnbc.com/2026/11/03/russia-ukraine-peace-talks-abu-dhabi-trump-putin-xi.html",
-    "zeit": "2026-11-03T18:25:57+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "The 'poison pill' ballot measure that could kill the California billionaire tax",
-    "link": "https://www.cnbc.com/2026/11/03/poison-pill-ballot-measure-could-kill-california-billionaire-tax-.html",
-    "zeit": "2026-11-03T18:23:31+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trump is going to get 'trounced' in the midterms — and knows it, Anthony Scaramucci tells CNBC",
-    "link": "https://www.cnbc.com/2026/11/03/scaramucci-trump-midterms-election.html",
-    "zeit": "2026-11-03T18:11:24+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Midterm elections could jolt stocks if Democrats sweep Congress",
-    "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
-    "zeit": "2026-11-03T18:05:18+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Ghosted after a job interview? There's a website for that—and thousands of frustrated job seekers have weighed in",
-    "link": "https://www.cnbc.com/make-it/2026/11/03/employer-ghosting-job-interviews.html",
-    "zeit": "2026-11-03T18:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "DIE NEUESTEN ENTWICKLUNGEN - Signa-Insolvenz: René Benko steht erneut vor Gericht – im Fokus stehen ein teures Jagdgewehr und der Bauunternehmer Hans Peter Haselsteiner",
+    "titel": "DIE NEUESTEN ENTWICKLUNGEN - Signa-Insolvenz: René Benko steht erneut vor Gericht",
     "link": "https://www.nzz.ch/wirtschaft/signa-krise-die-wichtigsten-meldungen-ld.1767273",
     "zeit": "2026-11-03T15:35:48+00:00",
     "quelle": "NZZ Wirtschaft",
