@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-11-03T14:42:10+01:00",
+ "aktualisiert": "2026-11-03T15:55:37+01:00",
  "kernaussagen": [
-  "Nasdaq −1.07% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9165 (−0.39%)",
-  "Brent über 100 USD: 101.63 (−3.00%)"
+  "SMI +0.09%, Nasdaq +0.61% führt",
+  "Franken stärker: EUR/CHF 0.9179 (−0.24%)",
+  "Brent über 100 USD: 103.33 (−1.37%)"
  ],
  "maerkte": [
   {
@@ -11,7 +11,19 @@
    "symbol": "^SSMI",
    "einheit": "",
    "dezimalen": 2,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 14816.099609375,
+   "vortag": 14802.51953125,
+   "veraenderung_pct": 0.09174166665566474,
+   "datum": "2026-11-03",
+   "ist_heute": true,
+   "verlauf": [
+    14581.099609,
+    14756.860352,
+    14810.660156,
+    14802.519531,
+    14816.099609
+   ]
   },
   {
    "name": "DAX",
@@ -19,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25884.41015625,
+   "kurs": 25925.490234375,
    "vortag": 25981.08984375,
-   "veraenderung_pct": -0.37211559669525496,
+   "veraenderung_pct": -0.21400029679038424,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -29,7 +41,7 @@
     26039.679688,
     25818.210938,
     25981.089844,
-    25884.410156
+    25925.490234
    ]
   },
   {
@@ -38,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6159.6298828125,
+   "kurs": 6170.68017578125,
    "vortag": 6176.06005859375,
-   "veraenderung_pct": -0.2660300519323533,
+   "veraenderung_pct": -0.08710865440847426,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -48,7 +60,7 @@
     6207.069824,
     6131.310059,
     6176.060059,
-    6159.629883
+    6170.680176
    ]
   },
   {
@@ -56,19 +68,7 @@
    "symbol": "^GSPC",
    "einheit": "",
    "dezimalen": 2,
-   "verfuegbar": true,
-   "kurs": 7541.39990234375,
-   "vortag": 7580.06982421875,
-   "veraenderung_pct": -0.5101525813317354,
-   "datum": "2026-11-02",
-   "ist_heute": false,
-   "verlauf": [
-    7722.600098,
-    7743.97998,
-    7720.390137,
-    7580.069824,
-    7541.399902
-   ]
+   "verfuegbar": false
   },
   {
    "name": "Nasdaq",
@@ -76,17 +76,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25164.310546875,
-   "vortag": 25437.0,
-   "veraenderung_pct": -1.0720189217478526,
-   "datum": "2026-11-02",
-   "ist_heute": false,
+   "kurs": 25316.58203125,
+   "vortag": 25164.310546875,
+   "veraenderung_pct": 0.6051089064862625,
+   "datum": "2026-11-03",
+   "ist_heute": true,
    "verlauf": [
-    26477.810547,
     26549.849609,
     26184.720703,
     25437.0,
-    25164.310547
+    25164.310547,
+    25316.582031
    ]
   },
   {
@@ -116,9 +116,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9164999723434448,
+   "kurs": 0.9178900122642517,
    "vortag": 0.9201300144195557,
-   "veraenderung_pct": -0.3945140381493517,
+   "veraenderung_pct": -0.24344409161752845,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -126,7 +126,7 @@
     0.9236,
     0.92093,
     0.92013,
-    0.9165
+    0.91789
    ]
   },
   {
@@ -135,9 +135,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8189700245857239,
+   "kurs": 0.8198300004005432,
    "vortag": 0.8247699737548828,
-   "veraenderung_pct": -0.7032202133588683,
+   "veraenderung_pct": -0.5989516485244595,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -145,7 +145,7 @@
     0.82795,
     0.82361,
     0.82477,
-    0.81897
+    0.81983
    ]
   },
   {
@@ -154,9 +154,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3977.0,
+   "kurs": 3956.800048828125,
    "vortag": 3969.60009765625,
-   "veraenderung_pct": 0.18641430274346504,
+   "veraenderung_pct": -0.3224518468669557,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -164,7 +164,7 @@
     4031.399902,
     3898.899902,
     3969.600098,
-    3977.0
+    3956.800049
    ]
   },
   {
@@ -173,9 +173,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 101.62999725341797,
+   "kurs": 103.33000183105469,
    "vortag": 104.7699966430664,
-   "veraenderung_pct": -2.997040651195093,
+   "veraenderung_pct": -1.374434340126529,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -183,7 +183,7 @@
     114.879997,
     117.639999,
     104.769997,
-    101.629997
+    103.330002
    ]
   },
   {
@@ -192,9 +192,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 77471.3203125,
+   "kurs": 77218.8828125,
    "vortag": 76677.296875,
-   "veraenderung_pct": 1.0355391619952803,
+   "veraenderung_pct": 0.7063185057017529,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -202,7 +202,7 @@
     77434.75,
     78248.453125,
     76677.296875,
-    77471.320312
+    77218.882812
    ]
   }
  ],
@@ -245,9 +245,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.919,
+   "wert": 4.935,
    "vortag": 4.894,
-   "veraenderung_bp": 2.5,
+   "veraenderung_bp": 4.1,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -255,7 +255,7 @@
     4.989,
     4.929,
     4.894,
-    4.919
+    4.935
    ]
   }
  ],
@@ -266,9 +266,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 84.79000091552734,
+   "kurs": 84.56999969482422,
    "vortag": 84.63999938964844,
-   "veraenderung_pct": 0.17722297608764315,
+   "veraenderung_pct": -0.08270285364957441,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -276,7 +276,7 @@
     82.809998,
     84.699997,
     84.639999,
-    84.790001
+    84.57
    ]
   },
   {
@@ -285,9 +285,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 132.60000610351562,
+   "kurs": 132.5399932861328,
    "vortag": 131.52000427246094,
-   "veraenderung_pct": 0.8211692487610556,
+   "veraenderung_pct": 0.775539066710218,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -295,7 +295,7 @@
     132.300003,
     133.779999,
     131.520004,
-    132.600006
+    132.539993
    ]
   },
   {
@@ -304,9 +304,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 396.29998779296875,
+   "kurs": 396.70001220703125,
    "vortag": 397.20001220703125,
-   "veraenderung_pct": -0.22659224229665265,
+   "veraenderung_pct": -0.1258811643085722,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -314,7 +314,7 @@
     401.700012,
     403.399994,
     397.200012,
-    396.299988
+    396.700012
    ]
   },
   {
@@ -323,9 +323,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.66999816894531,
+   "kurs": 39.59000015258789,
    "vortag": 39.790000915527344,
-   "veraenderung_pct": -0.30159020814498616,
+   "veraenderung_pct": -0.5026407598332283,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -333,7 +333,7 @@
     39.709999,
     39.240002,
     39.790001,
-    39.669998
+    39.59
    ]
   }
  ],
@@ -362,41 +362,17 @@
   ],
   "artikel": [
    {
-    "titel": "Baked by Melissa enters Target with first at-home cupcake mix",
-    "link": "https://www.cnbc.com/2026/11/03/baked-by-melissa-cupcake-kits-target.html",
-    "zeit": "2026-11-03T13:40:04+00:00",
+    "titel": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
+    "link": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
+    "zeit": "2026-11-03T14:55:17+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Texas governor race tightens in prediction markets, but Abbott remains favored",
-    "link": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
-    "zeit": "2026-11-03T13:33:11+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Midterm elections could jolt stocks if Democrats sweep Congress",
-    "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
-    "zeit": "2026-11-03T13:28:36+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Pfizer hikes full-year outlook as newer products grow, taps company veteran as new CFO",
-    "link": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
-    "zeit": "2026-11-03T13:24:00+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting",
-    "link": "https://www.cnbc.com/2026/11/03/russia-ukraine-peace-talks-abu-dhabi-trump-putin-xi.html",
-    "zeit": "2026-11-03T13:22:25+00:00",
+    "titel": "The 'poison pill' ballot measure that could kill the California billionaire tax",
+    "link": "https://www.cnbc.com/2026/11/03/poison-pill-ballot-measure-could-kill-california-billionaire-tax-.html",
+    "zeit": "2026-11-03T14:46:43+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -404,31 +380,23 @@
    {
     "titel": "Ferrari raises 2026 guidance after Q3 earnings beat",
     "link": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
-    "zeit": "2026-11-03T13:01:55+00:00",
+    "zeit": "2026-11-03T14:43:43+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Santoli: AI bull market almost surely needs tech stocks to recover to keep advancing",
-    "link": "https://www.cnbc.com/2026/11/03/santoli-ai-bull-market-needs-tech-stocks.html",
-    "zeit": "2026-11-03T13:01:23+00:00",
+    "titel": "Apple stock sinks as global memory crisis hurts profits, giving Ternus his first big test",
+    "link": "https://www.cnbc.com/2026/11/03/apple-earnings-john-ternus-faces-first-test-amid-high-memory-costs.html",
+    "zeit": "2026-11-03T14:38:03+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "New national home listing database is taking on Compass in the battle for control of real estate information",
-    "link": "https://www.cnbc.com/2026/11/03/national-home-listing-database-battles-compass-in-real-estate-info-war.html",
-    "zeit": "2026-11-03T13:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Apple shares slide after weak margin outlook; Palantir slumps 6% after earnings",
+    "titel": "Palantir slumps 5% after earnings as analysts point to slowdown in total contract value",
     "link": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
-    "zeit": "2026-11-03T12:50:27+00:00",
+    "zeit": "2026-11-03T14:31:39+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -436,13 +404,53 @@
    {
     "titel": "Supermarket fridges hit with cyberattacks across Europe — here's what's happening",
     "link": "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html",
-    "zeit": "2026-11-03T12:46:58+00:00",
+    "zeit": "2026-11-03T14:31:25+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Nach Angriff auf PK Softech sistiert PKZH den Systemwechsel",
+    "titel": "Pfizer hikes full-year outlook as newer products grow, taps company veteran as new CFO",
+    "link": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
+    "zeit": "2026-11-03T14:18:27+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Versant earnings beat expectations as digital platforms drive growth",
+    "link": "https://www.cnbc.com/2026/11/03/versant-vsnt-q3-2026-earnings.html",
+    "zeit": "2026-11-03T14:17:42+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
+    "link": "https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html",
+    "zeit": "2026-11-03T14:14:06+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+    "link": "https://www.cnbc.com/investingclub/2026/11/03/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+    "zeit": "2026-11-03T14:11:53+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "KOMMENTAR - Russland führt sich in Afrika auf wie eine Kolonialmacht. Putin hat noch nicht gemerkt, dass der Kontinent gelernt hat, die multipolare Weltordnung zu nutzen",
+    "link": "https://www.nzz.ch/meinung/russland-in-afrika-warum-putins-strategie-scheitert-ld.10051796",
+    "zeit": "2026-11-03T13:50:11+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Nach Angriff auf PK Softech stoppt PKZH den Systemwechsel",
     "link": "https://www.finews.ch/news/finanzplatz/74311-pkzh-pk-softech-cyberangriff-systemwechsel",
     "zeit": "2026-11-03T12:31:11+00:00",
     "quelle": "finews.ch",
@@ -637,14 +645,6 @@
     "titel": "Können die Midterms Trump zähmen? «Die zweite Hälfte seiner Amtszeit wird genauso disruptiv – wenn nicht disruptiver»",
     "link": "https://www.nzz.ch/international/koennen-die-midterms-trump-zaehmen-die-zweite-haelfte-seiner-amtszeit-wird-genauso-disruptiv-wenn-nicht-disruptiver-ld.10038382",
     "zeit": "2026-11-03T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "KOMMENTAR - Streit um das Verfassungsgericht in Polen: Tusks Befreiungsschlag ist riskant",
-    "link": "https://www.nzz.ch/meinung/streit-um-das-verfassungsgericht-in-polen-tusks-befreiungsschlag-ist-riskant-ld.10051814",
-    "zeit": "2026-11-02T17:00:00+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
