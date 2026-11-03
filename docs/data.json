@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-11-03T18:48:08+01:00",
+ "aktualisiert": "2026-11-03T19:48:23+01:00",
  "kernaussagen": [
-  "SMI −0.40%, Nasdaq +0.96% führt",
-  "Franken stärker: EUR/CHF 0.9185 (−0.17%)",
-  "Brent über 100 USD: 103.40 (−1.31%)"
+  "SMI −0.40%, Nasdaq +1.12% führt",
+  "Franken stärker: EUR/CHF 0.9185 (−0.18%)",
+  "Bitcoin +1.27% auf 77'652 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7576.72998046875,
+   "kurs": 7588.740234375,
    "vortag": 7541.39990234375,
-   "veraenderung_pct": 0.46848169547433205,
+   "veraenderung_pct": 0.6277393142424037,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7720.390137,
     7580.069824,
     7541.399902,
-    7576.72998
+    7588.740234
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25405.1640625,
+   "kurs": 25446.888671875,
    "vortag": 25164.310546875,
-   "veraenderung_pct": 0.9571234434432307,
+   "veraenderung_pct": 1.1229321163940709,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26184.720703,
     25437.0,
     25164.310547,
-    25405.164062
+    25446.888672
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9185299873352051,
+   "kurs": 0.9184799790382385,
    "vortag": 0.9201300144195557,
-   "veraenderung_pct": -0.17389141309122058,
+   "veraenderung_pct": -0.17932632948159943,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.9236,
     0.92093,
     0.92013,
-    0.91853
+    0.91848
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8204600214958191,
+   "kurs": 0.820580005645752,
    "vortag": 0.8247699737548828,
-   "veraenderung_pct": -0.5225641568208483,
+   "veraenderung_pct": -0.5080165673412518,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82795,
     0.82361,
     0.82477,
-    0.82046
+    0.82058
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3937.5,
+   "kurs": 3939.10009765625,
    "vortag": 3969.60009765625,
-   "veraenderung_pct": -0.8086481475855112,
+   "veraenderung_pct": -0.7683393603806099,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4031.399902,
     3898.899902,
     3969.600098,
-    3937.5
+    3939.100098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 103.4000015258789,
+   "kurs": 103.58999633789062,
    "vortag": 104.7699966430664,
-   "veraenderung_pct": -1.3076216102734461,
+   "veraenderung_pct": -1.1262769332673006,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     114.879997,
     117.639999,
     104.769997,
-    103.400002
+    103.589996
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 77598.15625,
+   "kurs": 77651.53125,
    "vortag": 76677.296875,
-   "veraenderung_pct": 1.2009544057104637,
+   "veraenderung_pct": 1.2705643191728733,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     77434.75,
     78248.453125,
     76677.296875,
-    77598.15625
+    77651.53125
    ]
   }
  ],
@@ -374,49 +374,9 @@
   ],
   "artikel": [
    {
-    "titel": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
-    "link": "https://www.cnbc.com/2026/11/03/ai-generated-slopaganda-in-political-ads-puts-platforms-on-alert.html",
-    "zeit": "2026-11-03T17:37:31+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Palantir sinks 2% after earnings as analysts point to slowdown in total contract value",
-    "link": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
-    "zeit": "2026-11-03T17:24:34+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Midterm elections could jolt stocks if Democrats sweep Congress",
-    "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
-    "zeit": "2026-11-03T17:15:20+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trump is going to get 'trounced' in the midterms — and knows it, Anthony Scaramucci tells CNBC",
-    "link": "https://www.cnbc.com/2026/11/03/scaramucci-trump-midterms-election.html",
-    "zeit": "2026-11-03T17:09:51+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
-    "link": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
-    "zeit": "2026-11-03T17:05:29+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Shopify falls 7% after Q3 revenue and merchandise volume miss estimates",
-    "link": "https://www.cnbc.com/2026/11/03/shopify-q3-2026-earnings-gmv.html",
-    "zeit": "2026-11-03T16:53:01+00:00",
+    "titel": "Pfizer hikes full-year outlook as newer products grow, taps company veteran as new CFO",
+    "link": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
+    "zeit": "2026-11-03T18:44:24+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -424,31 +384,71 @@
    {
     "titel": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
     "link": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
-    "zeit": "2026-11-03T16:52:17+00:00",
+    "zeit": "2026-11-03T18:40:37+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Bill Ackman warns of 'casino' stock market as speculative trading grows",
-    "link": "https://www.cnbc.com/2026/11/03/bill-ackman-casino-stock-market.html",
-    "zeit": "2026-11-03T16:23:26+00:00",
+    "titel": "Ex-Amex CEO shares when business leaders need to speak up about politics: 'You should care about what happens in our society'",
+    "link": "https://www.cnbc.com/make-it/2026/11/03/ken-chenault-ceo-politics-voting-rights.html",
+    "zeit": "2026-11-03T18:34:32+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
-    "link": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html",
-    "zeit": "2026-11-03T16:10:21+00:00",
+    "titel": "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps",
+    "link": "https://www.cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html",
+    "zeit": "2026-11-03T18:33:49+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Trump midterm election lawsuits, state pushback come to a head Tuesday",
-    "link": "https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html",
-    "zeit": "2026-11-03T16:09:44+00:00",
+    "titel": "What the 2026 midterm elections could mean for Trump's final two years",
+    "link": "https://www.cnbc.com/2026/11/03/midterm-elections-congress-trump-democrats-republicans.html",
+    "zeit": "2026-11-03T18:29:24+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting",
+    "link": "https://www.cnbc.com/2026/11/03/russia-ukraine-peace-talks-abu-dhabi-trump-putin-xi.html",
+    "zeit": "2026-11-03T18:25:57+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "The 'poison pill' ballot measure that could kill the California billionaire tax",
+    "link": "https://www.cnbc.com/2026/11/03/poison-pill-ballot-measure-could-kill-california-billionaire-tax-.html",
+    "zeit": "2026-11-03T18:23:31+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trump is going to get 'trounced' in the midterms — and knows it, Anthony Scaramucci tells CNBC",
+    "link": "https://www.cnbc.com/2026/11/03/scaramucci-trump-midterms-election.html",
+    "zeit": "2026-11-03T18:11:24+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Midterm elections could jolt stocks if Democrats sweep Congress",
+    "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
+    "zeit": "2026-11-03T18:05:18+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Ghosted after a job interview? There's a website for that—and thousands of frustrated job seekers have weighed in",
+    "link": "https://www.cnbc.com/make-it/2026/11/03/employer-ghosting-job-interviews.html",
+    "zeit": "2026-11-03T18:00:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
