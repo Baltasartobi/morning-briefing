@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-11-03T10:23:54+01:00",
+ "aktualisiert": "2026-11-03T11:27:24+01:00",
  "kernaussagen": [
-  "SMI −0.08%, Nasdaq −1.07% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9145 (−0.61%)",
-  "Brent über 100 USD: 106.39 (+1.55%)"
+  "SMI +0.03%, Nasdaq −1.07% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9155 (−0.50%)",
+  "Gold −1.39% auf 3'914.60 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14790.83984375,
+   "kurs": 14807.3603515625,
    "vortag": 14802.51953125,
-   "veraenderung_pct": -0.07890337503249079,
+   "veraenderung_pct": 0.03270267809665217,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14756.860352,
     14810.660156,
     14802.519531,
-    14790.839844
+    14807.360352
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25800.7890625,
+   "kurs": 25833.0,
    "vortag": 25981.08984375,
-   "veraenderung_pct": -0.6939692766328442,
+   "veraenderung_pct": -0.5699908842955015,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     26039.679688,
     25818.210938,
     25981.089844,
-    25800.789062
+    25833.0
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6135.47998046875,
+   "kurs": 6149.169921875,
    "vortag": 6176.06005859375,
-   "veraenderung_pct": -0.6570544609347584,
+   "veraenderung_pct": -0.43539305744498824,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6207.069824,
     6131.310059,
     6176.060059,
-    6135.47998
+    6149.169922
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9145399928092957,
+   "kurs": 0.9154999852180481,
    "vortag": 0.9201300144195557,
-   "veraenderung_pct": -0.6075251891208389,
+   "veraenderung_pct": -0.5031929324062268,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.9236,
     0.92093,
     0.92013,
-    0.91454
+    0.9155
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8173800110816956,
+   "kurs": 0.8184999823570251,
    "vortag": 0.8247699737548828,
-   "veraenderung_pct": -0.8960028745400805,
+   "veraenderung_pct": -0.7602109190896766,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82795,
     0.82361,
     0.82477,
-    0.81738
+    0.8185
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3910.10009765625,
+   "kurs": 3914.60009765625,
    "vortag": 3969.60009765625,
-   "veraenderung_pct": -1.4988915391031532,
+   "veraenderung_pct": -1.3855299941289645,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4031.399902,
     3898.899902,
     3969.600098,
-    3910.100098
+    3914.600098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 106.38999938964844,
+   "kurs": 105.55000305175781,
    "vortag": 104.7699966430664,
-   "veraenderung_pct": 1.5462468249389127,
+   "veraenderung_pct": 0.7444940667018951,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     114.879997,
     117.639999,
     104.769997,
-    106.389999
+    105.550003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 76722.53125,
+   "kurs": 76843.9609375,
    "vortag": 76677.296875,
-   "veraenderung_pct": 0.05899317900281975,
+   "veraenderung_pct": 0.21735776989073585,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     77434.75,
     78248.453125,
     76677.296875,
-    76722.53125
+    76843.960938
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 84.52999877929688,
+   "kurs": 84.58999633789062,
    "vortag": 84.63999938964844,
-   "veraenderung_pct": -0.12996291486860878,
+   "veraenderung_pct": -0.05907733000755089,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     82.809998,
     84.699997,
     84.639999,
-    84.529999
+    84.589996
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 132.75999450683594,
+   "kurs": 132.6999969482422,
    "vortag": 131.52000427246094,
-   "veraenderung_pct": 0.942814928599156,
+   "veraenderung_pct": 0.8971963484252443,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     132.300003,
     133.779999,
     131.520004,
-    132.759995
+    132.699997
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 397.5,
+   "kurs": 397.70001220703125,
    "vortag": 397.20001220703125,
-   "veraenderung_pct": 0.0755256253145209,
+   "veraenderung_pct": 0.1258811643085611,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     401.700012,
     403.399994,
     397.200012,
-    397.5
+    397.700012
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.59000015258789,
+   "kurs": 39.63999938964844,
    "vortag": 39.790000915527344,
-   "veraenderung_pct": -0.5026407598332283,
+   "veraenderung_pct": -0.3769829666436908,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.709999,
     39.240002,
     39.790001,
-    39.59
+    39.639999
    ]
   }
  ],
@@ -374,34 +374,74 @@
   ],
   "artikel": [
    {
+    "titel": "MELDUNGEN WIRTSCHAFT - Lonza übernimmt Produktionsstandorte der Merck KGaA in den USA",
+    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
+    "zeit": "2026-11-03T10:07:44+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Oil prices climb after U.S. strikes Iran's Qeshm Island",
+    "link": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
+    "zeit": "2026-11-03T09:58:37+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Apple and Palantir shares slide in premarket trading following post-bell earnings",
     "link": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
-    "zeit": "2026-11-03T09:21:40+00:00",
+    "zeit": "2026-11-03T09:48:33+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Brookfield targets $27 billion AI data center at power station. Energy firm Drax surges 8%",
+    "titel": "Trump is going to get 'trounced' in the midterms — and knows it, Anthony Scaramucci tells CNBC",
+    "link": "https://www.cnbc.com/2026/11/03/scaramucci-trump-midterms-election.html",
+    "zeit": "2026-11-03T09:42:29+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "A little-known biotech’s high-stakes cancer bet just paid off and its shares doubled",
+    "link": "https://www.cnbc.com/2026/11/03/genmab-cancer-drugs-petosemtamab.html",
+    "zeit": "2026-11-03T09:35:47+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Brookfield plans for a $27 billion AI data center at UK power station",
     "link": "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
-    "zeit": "2026-11-03T08:28:31+00:00",
+    "zeit": "2026-11-03T09:30:35+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "U.S. strikes Iran’s Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
-    "link": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
-    "zeit": "2026-11-03T08:27:23+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "SIX: ETF-Handelsumsatz steigt im Oktober kräftig",
+    "link": "https://www.finews.ch/news/finanzplatz/74304-six-bme-handelsumsatz-oktober-2026",
+    "zeit": "2026-11-03T09:04:05+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Der Automobilzulieferer Schaeffler baut Tausende weitere Jobs ab – viele davon in Deutschland",
     "link": "https://www.nzz.ch/wirtschaft/automobilzulieferer-schaeffler-baut-tausende-weitere-jobs-ab-viele-davon-in-deutschland-ld.10052678",
     "zeit": "2026-11-03T08:08:13+00:00",
     "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "J. Stern & Co. schliesst Zusammenschluss mit Genfer Vermögensverwalter ab",
+    "link": "https://www.finews.ch/news/finanzplatz/74300-j-stern-co-uebernahme-bvo-capital-finma-praesenz-in-der-schweiz",
+    "zeit": "2026-11-03T08:01:40+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -420,6 +460,14 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
+   },
+   {
+    "titel": "Aramco's profit rises as refining margins strengthen amid Iran war",
+    "link": "https://www.cnbc.com/2026/11/03/saudi-aramcos-third-quarter-middle-east-.html",
+    "zeit": "2026-11-03T07:24:47+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
    },
    {
     "titel": "Trotz hoher Treibstoffkosten – Swiss steigert Gewinn leicht",
@@ -444,6 +492,14 @@
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
+   },
+   {
+    "titel": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
+    "link": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html",
+    "zeit": "2026-11-03T06:46:36+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
    },
    {
     "titel": "ETF-Boom: Jetzt kommt die Gegenbewegung",
@@ -492,6 +548,14 @@
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
+   },
+   {
+    "titel": "Baked by Melissa enters Target with first at-home cupcake mix",
+    "link": "https://www.cnbc.com/2026/11/03/baked-by-melissa-cupcake-kits-target.html",
+    "zeit": "2026-11-03T05:01:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
    },
    {
     "titel": "Jahresbilanz – Apple macht 132 Milliarden Dollar Gewinn – ein neuer Rekord",
@@ -550,54 +614,6 @@
     "sprache": "en"
    },
    {
-    "titel": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
-    "link": "https://www.cnbc.com/2026/11/03/openai-hires-dan-driscoll-national-security.html",
-    "zeit": "2026-11-03T02:47:57+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Feeling isolated? Half of in-office workers describe their desk jobs as 'remote,' NY Fed survey finds",
-    "link": "https://www.cnbc.com/2026/11/02/remote-work-in-office-mandate-new-york-fed.html",
-    "zeit": "2026-11-03T02:31:00+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
-    "link": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
-    "zeit": "2026-11-03T01:32:13+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Jim Cramer says these six fashion stocks are buys beyond the AI trade",
-    "link": "https://www.cnbc.com/2026/11/02/jim-cramer-fashion-stocks.html",
-    "zeit": "2026-11-02T23:54:27+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Stock market after midterm elections: What S&P 500 history shows",
-    "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-    "zeit": "2026-11-02T23:13:34+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "MELDUNGEN WIRTSCHAFT - Apple steigert iPhone-Umsatz um 17,5 Prozent – China-Geschäft bleibt hinter Erwartungen zurück",
-    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
-    "zeit": "2026-11-02T23:02:48+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "KOMMENTAR - Streit um das Verfassungsgericht in Polen: Tusks Befreiungsschlag ist riskant",
     "link": "https://www.nzz.ch/meinung/streit-um-das-verfassungsgericht-in-polen-tusks-befreiungsschlag-ist-riskant-ld.10051814",
     "zeit": "2026-11-02T17:00:00+00:00",
@@ -641,22 +657,6 @@
     "titel": "Genfer Vermögensverwalter holt früheren Coutts-Anlagechef in VR",
     "link": "https://www.finews.ch/news/finanzplatz/74273-nfg-partners-verwaltungsrat-paul-sarosy-merrill-lynch-coutts-und-der-credit-suisse",
     "zeit": "2026-11-02T09:21:32+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Lombard Odier holt langjährige UBS-Bankerin für das Geschäft mit Superreichen",
-    "link": "https://www.finews.ch/news/banken/74271-lombard-odier-christina-staeger-ernst-ubs-uhnw-family-offices-deutschschweiz",
-    "zeit": "2026-11-02T08:47:58+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Grosse Renditeunterschiede bei Säule-3a-Vorsorgefonds",
-    "link": "https://www.finews.ch/news/finanzplatz/74270-vorsorge-fonds-moneyland-vergleich-produkte-rendite",
-    "zeit": "2026-11-02T08:44:51+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
