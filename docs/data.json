@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-11-03T16:48:26+01:00",
+ "aktualisiert": "2026-11-03T17:53:00+01:00",
  "kernaussagen": [
-  "SMI −0.10%, Nasdaq +0.86% führt",
-  "Franken stärker: EUR/CHF 0.9183 (−0.20%)",
-  "Bitcoin +1.19% auf 77'588 USD · Brent über 100 USD"
+  "SMI −0.40%, Nasdaq +0.80% führt",
+  "Franken stärker: EUR/CHF 0.9186 (−0.16%)",
+  "Brent über 100 USD: 103.42 (−1.29%)"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14787.91015625,
+   "kurs": 14743.08984375,
    "vortag": 14802.51953125,
-   "veraenderung_pct": -0.09869519151221029,
+   "veraenderung_pct": -0.4014835945633233,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14756.860352,
     14810.660156,
     14802.519531,
-    14787.910156
+    14743.089844
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25909.30078125,
+   "kurs": 25864.619140625,
    "vortag": 25981.08984375,
-   "veraenderung_pct": -0.276312744891527,
+   "veraenderung_pct": -0.44829029045915236,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     26039.679688,
     25818.210938,
     25981.089844,
-    25909.300781
+    25864.619141
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6162.2001953125,
+   "kurs": 6144.56005859375,
    "vortag": 6176.06005859375,
-   "veraenderung_pct": -0.224412702430965,
+   "veraenderung_pct": -0.510033900272211,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6207.069824,
     6131.310059,
     6176.060059,
-    6162.200195
+    6144.560059
    ]
   },
   {
@@ -69,9 +69,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7575.8701171875,
+   "kurs": 7572.25,
    "vortag": 7541.39990234375,
-   "veraenderung_pct": 0.457079790093573,
+   "veraenderung_pct": 0.40907653825204005,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -79,7 +79,7 @@
     7720.390137,
     7580.069824,
     7541.399902,
-    7575.870117
+    7572.25
    ]
   },
   {
@@ -88,9 +88,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25381.287109375,
+   "kurs": 25364.591796875,
    "vortag": 25164.310546875,
-   "veraenderung_pct": 0.8622392498925269,
+   "veraenderung_pct": 0.7958940485451649,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -98,7 +98,7 @@
     26184.720703,
     25437.0,
     25164.310547,
-    25381.287109
+    25364.591797
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9182500243186951,
+   "kurs": 0.9186199903488159,
    "vortag": 0.9201300144195557,
-   "veraenderung_pct": -0.20431787588698347,
+   "veraenderung_pct": -0.16410985915857879,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.9236,
     0.92093,
     0.92013,
-    0.91825
+    0.91862
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8211699724197388,
+   "kurs": 0.8207499980926514,
    "vortag": 0.8247699737548828,
-   "veraenderung_pct": -0.43648549895124455,
+   "veraenderung_pct": -0.48740567554004244,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82795,
     0.82361,
     0.82477,
-    0.82117
+    0.82075
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3935.699951171875,
+   "kurs": 3941.5,
    "vortag": 3969.60009765625,
-   "veraenderung_pct": -0.8539939956266784,
+   "veraenderung_pct": -0.707882329830678,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4031.399902,
     3898.899902,
     3969.600098,
-    3935.699951
+    3941.5
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 103.83000183105469,
+   "kurs": 103.41999816894531,
    "vortag": 104.7699966430664,
-   "veraenderung_pct": -0.8971984748783801,
+   "veraenderung_pct": -1.288535379761735,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     114.879997,
     117.639999,
     104.769997,
-    103.830002
+    103.419998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 77588.1484375,
+   "kurs": 77515.0390625,
    "vortag": 76677.296875,
-   "veraenderung_pct": 1.1879025469362592,
+   "veraenderung_pct": 1.0925557128933505,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     77434.75,
     78248.453125,
     76677.296875,
-    77588.148438
+    77515.039062
    ]
   }
  ],
@@ -257,9 +257,9 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.958,
+   "wert": 4.941,
    "vortag": 4.894,
-   "veraenderung_bp": 6.4,
+   "veraenderung_bp": 4.7,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -267,7 +267,7 @@
     4.989,
     4.929,
     4.894,
-    4.958
+    4.941
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 84.66999816894531,
+   "kurs": 84.41000366210938,
    "vortag": 84.63999938964844,
-   "veraenderung_pct": 0.03544279243052895,
+   "veraenderung_pct": -0.27173408459073567,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     82.809998,
     84.699997,
     84.639999,
-    84.669998
+    84.410004
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 131.8800048828125,
+   "kurs": 131.5,
    "vortag": 131.52000427246094,
-   "veraenderung_pct": 0.27372308292035186,
+   "veraenderung_pct": -0.015210060683612525,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     132.300003,
     133.779999,
     131.520004,
-    131.880005
+    131.5
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 394.3999938964844,
+   "kurs": 391.0,
    "vortag": 397.20001220703125,
-   "veraenderung_pct": -0.7049391300339214,
+   "veraenderung_pct": -1.5609295106969068,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     401.700012,
     403.399994,
     397.200012,
-    394.399994
+    391.0
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.560001373291016,
+   "kurs": 39.470001220703125,
    "vortag": 39.790000915527344,
-   "veraenderung_pct": -0.5780335183319218,
+   "veraenderung_pct": -0.8042213809031251,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.709999,
     39.240002,
     39.790001,
-    39.560001
+    39.470001
    ]
   }
  ],
@@ -374,17 +374,25 @@
   ],
   "artikel": [
    {
-    "titel": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
-    "link": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
-    "zeit": "2026-11-03T15:46:45+00:00",
+    "titel": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
+    "link": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
+    "zeit": "2026-11-03T16:52:17+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
-    "link": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
-    "zeit": "2026-11-03T15:38:58+00:00",
+    "titel": "Midterm elections could jolt stocks if Democrats sweep Congress",
+    "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
+    "zeit": "2026-11-03T16:51:00+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Bill Ackman warns of 'casino' stock market as speculative trading grows",
+    "link": "https://www.cnbc.com/2026/11/03/bill-ackman-casino-stock-market.html",
+    "zeit": "2026-11-03T16:23:26+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -392,7 +400,55 @@
    {
     "titel": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
     "link": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html",
-    "zeit": "2026-11-03T15:37:34+00:00",
+    "zeit": "2026-11-03T16:10:21+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trump midterm election lawsuits, state pushback come to a head Tuesday",
+    "link": "https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html",
+    "zeit": "2026-11-03T16:09:44+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
+    "link": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
+    "zeit": "2026-11-03T16:01:39+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "What the 2026 midterm elections could mean for Trump's final two years",
+    "link": "https://www.cnbc.com/2026/11/03/midterm-elections-congress-trump-democrats-republicans.html",
+    "zeit": "2026-11-03T16:01:33+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Shopify falls 7% after Q3 revenue and merchandise volume miss estimates",
+    "link": "https://www.cnbc.com/2026/11/03/shopify-q3-2026-earnings-gmv.html",
+    "zeit": "2026-11-03T15:58:54+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Palantir sinks 3% after earnings as analysts point to slowdown in total contract value",
+    "link": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
+    "zeit": "2026-11-03T15:52:44+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
+    "link": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
+    "zeit": "2026-11-03T15:51:30+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -404,62 +460,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "What the 2026 midterm elections could mean for Trump's final two years",
-    "link": "https://www.cnbc.com/2026/11/03/midterm-elections-congress-trump-democrats-republicans.html",
-    "zeit": "2026-11-03T15:34:28+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
-    "link": "https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html",
-    "zeit": "2026-11-03T15:19:14+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Bill Ackman warns of 'casino' stock market as speculative trading grows",
-    "link": "https://www.cnbc.com/2026/11/03/bill-ackman-casino-stock-market.html",
-    "zeit": "2026-11-03T15:16:08+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Shopify falls 9% after Q3 revenue and merchandise volume miss estimates",
-    "link": "https://www.cnbc.com/2026/11/03/shopify-q3-2026-earnings-gmv.html",
-    "zeit": "2026-11-03T15:15:13+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "We're trimming some more off a stock that's enjoying nice post-earnings gains",
-    "link": "https://www.cnbc.com/investingclub/2026/11/03/were-trimming-some-more-off-a-stock-thats-enjoying-nice-post-earnings-gains.html",
-    "zeit": "2026-11-03T15:09:51+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Las Vegas Raiders owner Mark Davis says he feels no pressure to rush backup QB Fernando Mendoza",
-    "link": "https://www.cnbc.com/2026/11/03/las-vegas-raiders-owner-mark-davis-wont-rush-fernando-mendoza-.html",
-    "zeit": "2026-11-03T15:02:30+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "The 'poison pill' ballot measure that could kill the California billionaire tax",
-    "link": "https://www.cnbc.com/2026/11/03/poison-pill-ballot-measure-could-kill-california-billionaire-tax-.html",
-    "zeit": "2026-11-03T14:46:43+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "KOMMENTAR - Russland führt sich in Afrika auf wie eine Kolonialmacht. Putin hat noch nicht gemerkt, dass der Kontinent die multipolare Weltordnung zu nutzen weiss",
