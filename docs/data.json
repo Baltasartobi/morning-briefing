@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-11-03T06:52:24+01:00",
+ "aktualisiert": "2026-11-03T08:01:58+01:00",
  "kernaussagen": [
   "SMI −0.05%, Nasdaq −1.07% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9155 (−0.50%)",
-  "Bitcoin −2.10% auf 76'605 USD · Brent über 100 USD"
+  "Franken stärker: EUR/CHF 0.9146 (−0.61%)",
+  "Bitcoin −2.29% auf 76'460 USD · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9154999852180481,
+   "kurs": 0.9145500063896179,
    "vortag": 0.9201300144195557,
-   "veraenderung_pct": -0.5031929324062268,
+   "veraenderung_pct": -0.6064369102727007,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.9236,
     0.92093,
     0.92013,
-    0.9155
+    0.91455
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8179799914360046,
+   "kurs": 0.8169699907302856,
    "vortag": 0.8247699737548828,
-   "veraenderung_pct": -0.8232577003216779,
+   "veraenderung_pct": -0.9457161721208918,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82795,
     0.82361,
     0.82477,
-    0.81798
+    0.81697
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3935.0,
+   "kurs": 3925.39990234375,
    "vortag": 3969.60009765625,
-   "veraenderung_pct": -0.8716267836822889,
+   "veraenderung_pct": -1.1134672063968565,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4031.399902,
     3898.899902,
     3969.600098,
-    3935.0
+    3925.399902
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 105.19000244140625,
+   "kurs": 106.44999694824219,
    "vortag": 104.7699966430664,
-   "veraenderung_pct": 0.40088366115991203,
+   "veraenderung_pct": 1.6035127985154496,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     114.879997,
     117.639999,
     104.769997,
-    105.190002
+    106.449997
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 76605.1171875,
+   "kurs": 76459.5078125,
    "vortag": 78248.453125,
-   "veraenderung_pct": -2.1001513408511863,
+   "veraenderung_pct": -2.2862372878377557,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     77198.210938,
     77434.75,
     78248.453125,
-    76605.117188
+    76459.507812
    ]
   }
  ],
@@ -374,6 +374,38 @@
   ],
   "artikel": [
    {
+    "titel": "Neues Wirtschaftsranking – Eine Schweiz voller Cluster",
+    "link": "https://www.srf.ch/news/wirtschaft/neues-wirtschaftsranking-eine-schweiz-voller-cluster",
+    "zeit": "2026-11-03T06:50:12+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "North Korea denies links to Binance hack as researchers trace stolen billions",
+    "link": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
+    "zeit": "2026-11-03T06:32:10+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Expertin gibt Rat – Jobkiller KI: So treten Sie der Angst entgegen",
+    "link": "https://www.srf.ch/news/schweiz/expertin-gibt-rat-jobkiller-ki-so-treten-sie-der-angst-entgegen",
+    "zeit": "2026-11-03T06:18:25+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Cembra baut Fahrzeugfinanzierung aus",
+    "link": "https://www.finews.ch/news/banken/74285-cembra-baut-fahrzeugfinanzierung-aus",
+    "zeit": "2026-11-03T05:23:29+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Jahresbilanz – Apple macht 132 Milliarden Dollar Gewinn – ein neuer Rekord",
     "link": "https://www.srf.ch/news/wirtschaft/jahresbilanz-apple-macht-132-milliarden-dollar-gewinn-ein-neuer-rekord",
     "zeit": "2026-11-03T05:00:06+00:00",
@@ -433,14 +465,6 @@
     "titel": "Australia hikes rates to 18-year high to fight inflation",
     "link": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
     "zeit": "2026-11-03T03:46:20+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "North Korea denies links to Binance hack as researchers trace stolen billions",
-    "link": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
-    "zeit": "2026-11-03T03:27:18+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -630,14 +654,6 @@
     "sprache": "de"
    },
    {
-    "titel": "GZO-Nachlassvertrag: Die Würfel dürften schon gefallen sein",
-    "link": "https://www.finews.ch/news/finanzplatz/74259-gzo-spitalwetzikon-infracore-kaufangebot-nachlassvertrag",
-    "zeit": "2026-11-02T05:13:47+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "KI im Journalismus – Wie Schweizer Medienhäuser KI in der Berichterstattung einsetzen",
     "link": "https://www.srf.ch/news/wirtschaft/ki-im-journalismus-wie-schweizer-medienhaeuser-ki-in-der-berichterstattung-einsetzen",
     "zeit": "2026-11-02T04:52:37+00:00",
@@ -673,22 +689,6 @@
     "titel": "Weltgrösste Kryptobörse – Wie konnten die Täter den Binance-Raub durchführen?",
     "link": "https://www.srf.ch/news/wirtschaft/weltgroesste-kryptoboerse-wie-konnten-die-taeter-den-binance-raub-durchfuehren",
     "zeit": "2026-10-30T15:38:56+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Annäherung an China – Expertin: «Wir sind nicht ausreichend vorbereitet»",
-    "link": "https://www.srf.ch/news/dialog/annaeherung-an-china-expertin-wir-sind-nicht-ausreichend-vorbereitet",
-    "zeit": "2026-10-30T11:32:22+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Gewinnausschüttung offen – SNB erzielt nach 9 Monaten hohen Milliardengewinn",
-    "link": "https://www.srf.ch/news/wirtschaft/gewinnausschuettung-offen-snb-erzielt-nach-9-monaten-hohen-milliardengewinn",
-    "zeit": "2026-10-30T08:09:34+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
