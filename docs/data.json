@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-11-03T13:21:14+01:00",
+ "aktualisiert": "2026-11-03T14:42:10+01:00",
  "kernaussagen": [
-  "SMI −0.12%, Nasdaq −1.07% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9161 (−0.44%)",
-  "Brent über 100 USD: 106.62 (+1.77%)"
+  "Nasdaq −1.07% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9165 (−0.39%)",
+  "Brent über 100 USD: 101.63 (−3.00%)"
  ],
  "maerkte": [
   {
@@ -11,19 +11,7 @@
    "symbol": "^SSMI",
    "einheit": "",
    "dezimalen": 2,
-   "verfuegbar": true,
-   "kurs": 14784.7099609375,
-   "vortag": 14802.51953125,
-   "veraenderung_pct": -0.12031445238023242,
-   "datum": "2026-11-03",
-   "ist_heute": true,
-   "verlauf": [
-    14581.099609,
-    14756.860352,
-    14810.660156,
-    14802.519531,
-    14784.709961
-   ]
+   "verfuegbar": false
   },
   {
    "name": "DAX",
@@ -31,9 +19,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25781.69921875,
+   "kurs": 25884.41015625,
    "vortag": 25981.08984375,
-   "veraenderung_pct": -0.7674451926348524,
+   "veraenderung_pct": -0.37211559669525496,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +29,7 @@
     26039.679688,
     25818.210938,
     25981.089844,
-    25781.699219
+    25884.410156
    ]
   },
   {
@@ -50,9 +38,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6131.97021484375,
+   "kurs": 6159.6298828125,
    "vortag": 6176.06005859375,
-   "veraenderung_pct": -0.7138830149271413,
+   "veraenderung_pct": -0.2660300519323533,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +48,7 @@
     6207.069824,
     6131.310059,
     6176.060059,
-    6131.970215
+    6159.629883
    ]
   },
   {
@@ -128,9 +116,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9160500168800354,
+   "kurs": 0.9164999723434448,
    "vortag": 0.9201300144195557,
-   "veraenderung_pct": -0.4434153299622601,
+   "veraenderung_pct": -0.3945140381493517,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +126,7 @@
     0.9236,
     0.92093,
     0.92013,
-    0.91605
+    0.9165
    ]
   },
   {
@@ -147,9 +135,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8195099830627441,
+   "kurs": 0.8189700245857239,
    "vortag": 0.8247699737548828,
-   "veraenderung_pct": -0.6377524472904628,
+   "veraenderung_pct": -0.7032202133588683,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +145,7 @@
     0.82795,
     0.82361,
     0.82477,
-    0.81951
+    0.81897
    ]
   },
   {
@@ -166,9 +154,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3910.199951171875,
+   "kurs": 3977.0,
    "vortag": 3969.60009765625,
-   "veraenderung_pct": -1.496376083813744,
+   "veraenderung_pct": 0.18641430274346504,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +164,7 @@
     4031.399902,
     3898.899902,
     3969.600098,
-    3910.199951
+    3977.0
    ]
   },
   {
@@ -185,9 +173,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 106.62000274658203,
+   "kurs": 101.62999725341797,
    "vortag": 104.7699966430664,
-   "veraenderung_pct": 1.7657785270512871,
+   "veraenderung_pct": -2.997040651195093,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +183,7 @@
     114.879997,
     117.639999,
     104.769997,
-    106.620003
+    101.629997
    ]
   },
   {
@@ -204,9 +192,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 77081.7421875,
+   "kurs": 77471.3203125,
    "vortag": 76677.296875,
-   "veraenderung_pct": 0.5274642286351439,
+   "veraenderung_pct": 1.0355391619952803,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +202,7 @@
     77434.75,
     78248.453125,
     76677.296875,
-    77081.742188
+    77471.320312
    ]
   }
  ],
@@ -257,17 +245,17 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.894,
-   "vortag": 4.929,
-   "veraenderung_bp": -3.5,
-   "datum": "2026-11-02",
-   "ist_heute": false,
+   "wert": 4.919,
+   "vortag": 4.894,
+   "veraenderung_bp": 2.5,
+   "datum": "2026-11-03",
+   "ist_heute": true,
    "verlauf": [
-    4.993,
     5.045,
     4.989,
     4.929,
-    4.894
+    4.894,
+    4.919
    ]
   }
  ],
@@ -278,9 +266,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 84.66999816894531,
+   "kurs": 84.79000091552734,
    "vortag": 84.63999938964844,
-   "veraenderung_pct": 0.03544279243052895,
+   "veraenderung_pct": 0.17722297608764315,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +276,7 @@
     82.809998,
     84.699997,
     84.639999,
-    84.669998
+    84.790001
    ]
   },
   {
@@ -297,9 +285,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 132.44000244140625,
+   "kurs": 132.60000610351562,
    "vortag": 131.52000427246094,
-   "veraenderung_pct": 0.6995119670460292,
+   "veraenderung_pct": 0.8211692487610556,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +295,7 @@
     132.300003,
     133.779999,
     131.520004,
-    132.440002
+    132.600006
    ]
   },
   {
@@ -316,9 +304,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 396.6000061035156,
+   "kurs": 396.29998779296875,
    "vortag": 397.20001220703125,
-   "veraenderung_pct": -0.15105893380559232,
+   "veraenderung_pct": -0.22659224229665265,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +314,7 @@
     401.700012,
     403.399994,
     397.200012,
-    396.600006
+    396.299988
    ]
   },
   {
@@ -335,9 +323,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.54999923706055,
+   "kurs": 39.66999816894531,
    "vortag": 39.790000915527344,
-   "veraenderung_pct": -0.603170829214883,
+   "veraenderung_pct": -0.30159020814498616,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +333,7 @@
     39.709999,
     39.240002,
     39.790001,
-    39.549999
+    39.669998
    ]
   }
  ],
@@ -374,49 +362,17 @@
   ],
   "artikel": [
    {
-    "titel": "Pfizer hikes full-year outlook, taps company veteran as new CFO",
-    "link": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
-    "zeit": "2026-11-03T12:19:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Baked by Melissa enters Target with first at-home cupcake mix",
     "link": "https://www.cnbc.com/2026/11/03/baked-by-melissa-cupcake-kits-target.html",
-    "zeit": "2026-11-03T12:11:15+00:00",
+    "zeit": "2026-11-03T13:40:04+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Supermarket fridges are under attack in Europe — here's what's happening",
-    "link": "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html",
-    "zeit": "2026-11-03T12:11:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Apple's John Ternus faces early test as global memory crisis hurts profits",
-    "link": "https://www.cnbc.com/2026/11/03/apple-earnings-john-ternus-faces-first-test-amid-high-memory-costs.html",
-    "zeit": "2026-11-03T12:10:31+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Versant earnings beat expectations as digital platforms drive growth",
-    "link": "https://www.cnbc.com/2026/11/03/versant-vsnt-q3-2026-earnings.html",
-    "zeit": "2026-11-03T12:06:59+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
-    "link": "https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html",
-    "zeit": "2026-11-03T12:01:12+00:00",
+    "titel": "Texas governor race tightens in prediction markets, but Abbott remains favored",
+    "link": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
+    "zeit": "2026-11-03T13:33:11+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -424,10 +380,82 @@
    {
     "titel": "Midterm elections could jolt stocks if Democrats sweep Congress",
     "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
-    "zeit": "2026-11-03T11:54:28+00:00",
+    "zeit": "2026-11-03T13:28:36+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Pfizer hikes full-year outlook as newer products grow, taps company veteran as new CFO",
+    "link": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
+    "zeit": "2026-11-03T13:24:00+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting",
+    "link": "https://www.cnbc.com/2026/11/03/russia-ukraine-peace-talks-abu-dhabi-trump-putin-xi.html",
+    "zeit": "2026-11-03T13:22:25+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Ferrari raises 2026 guidance after Q3 earnings beat",
+    "link": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
+    "zeit": "2026-11-03T13:01:55+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Santoli: AI bull market almost surely needs tech stocks to recover to keep advancing",
+    "link": "https://www.cnbc.com/2026/11/03/santoli-ai-bull-market-needs-tech-stocks.html",
+    "zeit": "2026-11-03T13:01:23+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "New national home listing database is taking on Compass in the battle for control of real estate information",
+    "link": "https://www.cnbc.com/2026/11/03/national-home-listing-database-battles-compass-in-real-estate-info-war.html",
+    "zeit": "2026-11-03T13:00:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Apple shares slide after weak margin outlook; Palantir slumps 6% after earnings",
+    "link": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
+    "zeit": "2026-11-03T12:50:27+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Supermarket fridges hit with cyberattacks across Europe — here's what's happening",
+    "link": "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html",
+    "zeit": "2026-11-03T12:46:58+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Nach Angriff auf PK Softech sistiert PKZH den Systemwechsel",
+    "link": "https://www.finews.ch/news/finanzplatz/74311-pkzh-pk-softech-cyberangriff-systemwechsel",
+    "zeit": "2026-11-03T12:31:11+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "«Konzentrierter Energieschock»: Überall steigt die Inflation – jetzt auch in der Schweiz",
+    "link": "https://www.nzz.ch/wirtschaft/konzentrierter-energieschock-ueberall-steigt-die-inflation-jetzt-auch-in-der-schweiz-ld.10052728",
+    "zeit": "2026-11-03T12:27:24+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Die deutsche Autokrise spitzt sich weiter zu: Der Zulieferer Schaeffler baut schon wieder Tausende Stellen ab",
@@ -454,28 +482,12 @@
     "sprache": "de"
    },
    {
-    "titel": "Apple shares slide after weak margin outlook; Palantir slumps 8% after earnings",
-    "link": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
-    "zeit": "2026-11-03T10:34:38+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Oil prices climb after U.S. strikes Iran's Qeshm Island",
-    "link": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
-    "zeit": "2026-11-03T09:58:37+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trump is going to get 'trounced' in the midterms — and knows it, Anthony Scaramucci tells CNBC",
-    "link": "https://www.cnbc.com/2026/11/03/scaramucci-trump-midterms-election.html",
-    "zeit": "2026-11-03T09:42:29+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "Swiss Blockchain Federation: So kann die Schweiz bei der Finanzinfrastruktur mithalten",
+    "link": "https://www.finews.ch/news/finanzplatz/74308-sbf-finanzinfrastruktur-blockchain-finma-amina-benchmarkreport-ranking",
+    "zeit": "2026-11-03T09:42:34+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "SIX: ETF-Handelsumsatz steigt im Oktober kräftig",
@@ -638,34 +650,10 @@
     "sprache": "de"
    },
    {
-    "titel": "Ein Schnäppchen mit Risiken: Autoneum übernimmt angeschlagenen Zulieferer",
-    "link": "https://www.nzz.ch/wirtschaft/autoneum-uebernimmt-treves-ein-umsatzplus-aber-auch-risiken-ld.10051698",
-    "zeit": "2026-11-02T15:37:36+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "BNP Paribas ernennt Leiter für neuen Bereich Investment Banking Schweiz",
-    "link": "https://www.finews.ch/news/banken/74280-bnp-paribas-christoph-sebastian-meier-investmentbanking-schweiz",
-    "zeit": "2026-11-02T11:34:48+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Längere Lieferwege für Kaffee – Geopolitik macht Schweizer Kaffeebranche zu schaffen",
     "link": "https://www.srf.ch/news/dialog/laengere-lieferwege-fuer-kaffee-geopolitik-macht-schweizer-kaffeebranche-zu-schaffen",
     "zeit": "2026-11-02T11:00:29+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Vontobel ernennt neuen Leiter Kundenportfoliomanagement Aktien und Multi-Asset",
-    "link": "https://www.finews.ch/news/banken/74275-marc-bindschaedler-vontobel-leitung-des-kundenportfoliomanagements-fuer-aktien-und-multi-asset-institutionelle-kunden",
-    "zeit": "2026-11-02T09:43:34+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
