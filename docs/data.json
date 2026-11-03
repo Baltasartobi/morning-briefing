@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-11-03T09:15:25+01:00",
+ "aktualisiert": "2026-11-03T10:23:54+01:00",
  "kernaussagen": [
-  "SMI −0.05%, Nasdaq −1.07% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9131 (−0.76%)",
-  "Brent über 100 USD: 106.54 (+1.69%)"
+  "SMI −0.08%, Nasdaq −1.07% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9145 (−0.61%)",
+  "Brent über 100 USD: 106.39 (+1.55%)"
  ],
  "maerkte": [
   {
@@ -12,17 +12,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14802.51953125,
-   "vortag": 14810.66015625,
-   "veraenderung_pct": -0.05496463300161958,
-   "datum": "2026-11-02",
-   "ist_heute": false,
+   "kurs": 14790.83984375,
+   "vortag": 14802.51953125,
+   "veraenderung_pct": -0.07890337503249079,
+   "datum": "2026-11-03",
+   "ist_heute": true,
    "verlauf": [
-    14597.629883,
     14581.099609,
     14756.860352,
     14810.660156,
-    14802.519531
+    14802.519531,
+    14790.839844
    ]
   },
   {
@@ -31,17 +31,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25981.08984375,
-   "vortag": 25818.2109375,
-   "veraenderung_pct": 0.6308682915493025,
-   "datum": "2026-11-02",
-   "ist_heute": false,
+   "kurs": 25800.7890625,
+   "vortag": 25981.08984375,
+   "veraenderung_pct": -0.6939692766328442,
+   "datum": "2026-11-03",
+   "ist_heute": true,
    "verlauf": [
-    25590.769531,
     25704.019531,
     26039.679688,
     25818.210938,
-    25981.089844
+    25981.089844,
+    25800.789062
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6159.8798828125,
+   "kurs": 6135.47998046875,
    "vortag": 6176.06005859375,
-   "veraenderung_pct": -0.26198216383495065,
+   "veraenderung_pct": -0.6570544609347584,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6207.069824,
     6131.310059,
     6176.060059,
-    6159.879883
+    6135.47998
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.913100004196167,
+   "kurs": 0.9145399928092957,
    "vortag": 0.9201300144195557,
-   "veraenderung_pct": -0.7640235741927626,
+   "veraenderung_pct": -0.6075251891208389,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.9236,
     0.92093,
     0.92013,
-    0.9131
+    0.91454
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8152499794960022,
+   "kurs": 0.8173800110816956,
    "vortag": 0.8247699737548828,
-   "veraenderung_pct": -1.1542605286101182,
+   "veraenderung_pct": -0.8960028745400805,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82795,
     0.82361,
     0.82477,
-    0.81525
+    0.81738
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3914.199951171875,
+   "kurs": 3910.10009765625,
    "vortag": 3969.60009765625,
-   "veraenderung_pct": -1.395610266058911,
+   "veraenderung_pct": -1.4988915391031532,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     4031.399902,
     3898.899902,
     3969.600098,
-    3914.199951
+    3910.100098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 106.54000091552734,
+   "kurs": 106.38999938964844,
    "vortag": 104.7699966430664,
-   "veraenderung_pct": 1.689419040921658,
+   "veraenderung_pct": 1.5462468249389127,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     114.879997,
     117.639999,
     104.769997,
-    106.540001
+    106.389999
    ]
   },
   {
@@ -203,7 +203,19 @@
    "symbol": "BTC-USD",
    "einheit": "USD",
    "dezimalen": 0,
-   "verfuegbar": false
+   "verfuegbar": true,
+   "kurs": 76722.53125,
+   "vortag": 76677.296875,
+   "veraenderung_pct": 0.05899317900281975,
+   "datum": "2026-11-03",
+   "ist_heute": true,
+   "verlauf": [
+    77198.210938,
+    77434.75,
+    78248.453125,
+    76677.296875,
+    76722.53125
+   ]
   }
  ],
  "zinsen": [
@@ -266,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 84.44999694824219,
+   "kurs": 84.52999877929688,
    "vortag": 84.63999938964844,
-   "veraenderung_pct": -0.22448303730668862,
+   "veraenderung_pct": -0.12996291486860878,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -276,7 +288,7 @@
     82.809998,
     84.699997,
     84.639999,
-    84.449997
+    84.529999
    ]
   },
   {
@@ -285,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 132.5,
+   "kurs": 132.75999450683594,
    "vortag": 131.52000427246094,
-   "veraenderung_pct": 0.7451305472199188,
+   "veraenderung_pct": 0.942814928599156,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -295,7 +307,7 @@
     132.300003,
     133.779999,
     131.520004,
-    132.5
+    132.759995
    ]
   },
   {
@@ -304,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 395.3999938964844,
+   "kurs": 397.5,
    "vortag": 397.20001220703125,
-   "veraenderung_pct": -0.45317680141677696,
+   "veraenderung_pct": 0.0755256253145209,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -314,7 +326,7 @@
     401.700012,
     403.399994,
     397.200012,
-    395.399994
+    397.5
    ]
   },
   {
@@ -323,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.4900016784668,
+   "kurs": 39.59000015258789,
    "vortag": 39.790000915527344,
-   "veraenderung_pct": -0.7539563462122922,
+   "veraenderung_pct": -0.5026407598332283,
    "datum": "2026-11-03",
    "ist_heute": true,
    "verlauf": [
@@ -333,7 +345,7 @@
     39.709999,
     39.240002,
     39.790001,
-    39.490002
+    39.59
    ]
   }
  ],
@@ -362,7 +374,31 @@
   ],
   "artikel": [
    {
-    "titel": "Automobilzulieferer Schaeffler baut tausende weitere Jobs ab – viele davon in Deutschland",
+    "titel": "Apple and Palantir shares slide in premarket trading following post-bell earnings",
+    "link": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
+    "zeit": "2026-11-03T09:21:40+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Brookfield targets $27 billion AI data center at power station. Energy firm Drax surges 8%",
+    "link": "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
+    "zeit": "2026-11-03T08:28:31+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "U.S. strikes Iran’s Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
+    "link": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
+    "zeit": "2026-11-03T08:27:23+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Der Automobilzulieferer Schaeffler baut Tausende weitere Jobs ab – viele davon in Deutschland",
     "link": "https://www.nzz.ch/wirtschaft/automobilzulieferer-schaeffler-baut-tausende-weitere-jobs-ab-viele-davon-in-deutschland-ld.10052678",
     "zeit": "2026-11-03T08:08:13+00:00",
     "quelle": "NZZ Wirtschaft",
@@ -394,6 +430,14 @@
     "sprache": "de"
    },
    {
+    "titel": "Hightech treibt die Kosten bei den Autoreparaturen",
+    "link": "https://www.finews.ch/news/versicherungen/74293-kosten-fuer-fahrzeugschaeden-steigen-kraeftig-axa-teure-elektronik-und-komplexe-assistenzsysteme",
+    "zeit": "2026-11-03T07:08:09+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
     "titel": "Neues Wirtschaftsranking – Eine Schweiz voller Cluster",
     "link": "https://www.srf.ch/news/wirtschaft/neues-wirtschaftsranking-eine-schweiz-voller-cluster",
     "zeit": "2026-11-03T06:50:12+00:00",
@@ -405,6 +449,14 @@
     "titel": "ETF-Boom: Jetzt kommt die Gegenbewegung",
     "link": "https://www.finews.ch/news/finanzplatz/74290-etf-boom-dws-xtrackers-comeback-aktives-fondsmanagement-schweiz",
     "zeit": "2026-11-03T06:37:35+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Nur die Notenbanken kaufen massiv Gold",
+    "link": "https://www.finews.ch/news/finanzplatz/74289-zentralbanken-goldkaeufe-im-dritten-quartal-deutlich-ausgeweitet-nachfrage-nach-barren-und-muenzen-gold-etf",
+    "zeit": "2026-11-03T06:32:22+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
@@ -490,14 +542,6 @@
     "sprache": "de"
    },
    {
-    "titel": "U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
-    "link": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
-    "zeit": "2026-11-03T04:27:41+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Australia hikes rates to 18-year high to fight inflation",
     "link": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
     "zeit": "2026-11-03T03:46:20+00:00",
@@ -552,22 +596,6 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "CNBC's The China Connection newsletter: Nvidia's humanoid push relies on China-made robot hands",
-    "link": "https://www.cnbc.com/2026/11/02/cnbcs-the-china-connection-newsletter-nvidias-humanoid-push-relies-on-china-made-robot-hands.html",
-    "zeit": "2026-11-02T23:00:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
-    "link": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
-    "zeit": "2026-11-02T22:53:20+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "KOMMENTAR - Streit um das Verfassungsgericht in Polen: Tusks Befreiungsschlag ist riskant",
@@ -629,22 +657,6 @@
     "titel": "Grosse Renditeunterschiede bei Säule-3a-Vorsorgefonds",
     "link": "https://www.finews.ch/news/finanzplatz/74270-vorsorge-fonds-moneyland-vergleich-produkte-rendite",
     "zeit": "2026-11-02T08:44:51+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Finanzmarktaufsicht: Kantonalbanken warnen vor «Megabehörde»",
-    "link": "https://www.finews.ch/news/finanzplatz/74268-finanzmarktaufsicht-finma-kantonalbanken-tbtf-kritik-oliver-buschan",
-    "zeit": "2026-11-02T08:03:51+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Schweizer Millionäre sind wechselwillig – diese Banken dominieren",
-    "link": "https://www.finews.ch/news/banken/74267-schweizer-millionaere-private-banking-bankenwechsel-ubs-kantonalbanken-hslu-lukb-studie",
-    "zeit": "2026-11-02T07:53:17+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
