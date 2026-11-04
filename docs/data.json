@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-11-04T12:55:17+01:00",
+ "aktualisiert": "2026-11-04T20:40:12+01:00",
  "kernaussagen": [
-  "SMI +0.91%, Euro Stoxx 50 +1.77% führt",
-  "Franken schwächer: EUR/CHF 0.9195 (+0.37%)",
-  "Gold +2.86% auf 4'053.10 USD/Unze · Brent über 100 USD"
+  "SMI +1.90%, DAX +2.22% führt",
+  "Franken schwächer: EUR/CHF 0.9171 (+0.11%)",
+  "Brent-Öl −8.61% auf 94.68 USD/Fass"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14877.98046875,
+   "kurs": 15022.849609375,
    "vortag": 14743.08984375,
-   "veraenderung_pct": 0.9149413483170443,
+   "veraenderung_pct": 1.8975653583471752,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14810.660156,
     14802.519531,
     14743.089844,
-    14877.980469
+    15022.849609
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26235.7109375,
+   "kurs": 26437.669921875,
    "vortag": 25864.619140625,
-   "veraenderung_pct": 1.434746805500553,
+   "veraenderung_pct": 2.2155778831860706,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25818.210938,
     25981.089844,
     25864.619141,
-    26235.710938
+    26437.669922
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6253.33984375,
+   "kurs": 6265.7099609375,
    "vortag": 6144.56005859375,
-   "veraenderung_pct": 1.770342939428371,
+   "veraenderung_pct": 1.9716611309594123,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6131.310059,
     6176.060059,
     6144.560059,
-    6253.339844
+    6265.709961
    ]
   },
   {
@@ -69,17 +69,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7568.919921875,
-   "vortag": 7541.39990234375,
-   "veraenderung_pct": 0.36491924427315414,
-   "datum": "2026-11-03",
-   "ist_heute": false,
+   "kurs": 7702.97021484375,
+   "vortag": 7568.919921875,
+   "veraenderung_pct": 1.7710623755092136,
+   "datum": "2026-11-04",
+   "ist_heute": true,
    "verlauf": [
-    7743.97998,
     7720.390137,
     7580.069824,
     7541.399902,
-    7568.919922
+    7568.919922,
+    7702.970215
    ]
   },
   {
@@ -88,17 +88,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25372.009765625,
-   "vortag": 25164.310546875,
-   "veraenderung_pct": 0.8253721808237469,
-   "datum": "2026-11-03",
-   "ist_heute": false,
+   "kurs": 25831.041015625,
+   "vortag": 25372.009765625,
+   "veraenderung_pct": 1.80920334746959,
+   "datum": "2026-11-04",
+   "ist_heute": true,
    "verlauf": [
-    26549.849609,
     26184.720703,
     25437.0,
     25164.310547,
-    25372.009766
+    25372.009766,
+    25831.041016
    ]
   },
   {
@@ -107,17 +107,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 62188.62890625,
-   "vortag": 63081.859375,
-   "veraenderung_pct": -1.4159862718060579,
-   "datum": "2026-11-04",
-   "ist_heute": true,
+   "kurs": 63081.859375,
+   "vortag": 63290.109375,
+   "veraenderung_pct": -0.32904035410351584,
+   "datum": "2026-11-02",
+   "ist_heute": false,
    "verlauf": [
+    63268.371094,
     63954.191406,
     64659.46875,
     63290.109375,
-    63081.859375,
-    62188.628906
+    63081.859375
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9194999933242798,
+   "kurs": 0.9171299934387207,
    "vortag": 0.916100025177002,
-   "veraenderung_pct": 0.371135034803749,
+   "veraenderung_pct": 0.11242967289730732,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92093,
     0.92013,
     0.9161,
-    0.9195
+    0.91713
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8168500065803528,
+   "kurs": 0.8175299763679504,
    "vortag": 0.8184000253677368,
-   "veraenderung_pct": -0.189396229146932,
+   "veraenderung_pct": -0.106310969308121,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82361,
     0.82477,
     0.8184,
-    0.81685
+    0.81753
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4053.10009765625,
+   "kurs": 4071.199951171875,
    "vortag": 3940.39990234375,
-   "veraenderung_pct": 2.8601207518421212,
+   "veraenderung_pct": 3.3194612747382557,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     3898.899902,
     3969.600098,
     3940.399902,
-    4053.100098
+    4071.199951
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 102.18000030517578,
+   "kurs": 94.68000030517578,
    "vortag": 103.5999984741211,
-   "veraenderung_pct": -1.3706546234168338,
+   "veraenderung_pct": -8.610036969424762,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     117.639999,
     104.769997,
     103.599998,
-    102.18
+    94.68
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 78504.0390625,
+   "kurs": 80060.25,
    "vortag": 77345.046875,
-   "veraenderung_pct": 1.498469823637305,
+   "veraenderung_pct": 3.51050679352245,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     78248.453125,
     76677.296875,
     77345.046875,
-    78504.039062
+    80060.25
    ]
   }
  ],
@@ -257,17 +257,17 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.952,
-   "vortag": 4.894,
-   "veraenderung_bp": 5.8,
-   "datum": "2026-11-03",
-   "ist_heute": false,
+   "wert": 4.884,
+   "vortag": 4.952,
+   "veraenderung_bp": -6.8,
+   "datum": "2026-11-04",
+   "ist_heute": true,
    "verlauf": [
-    5.045,
     4.989,
     4.929,
     4.894,
-    4.952
+    4.952,
+    4.884
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 84.86000061035156,
+   "kurs": 85.9000015258789,
    "vortag": 84.41000366210938,
-   "veraenderung_pct": 0.5331085519715284,
+   "veraenderung_pct": 1.7651910900678969,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     84.699997,
     84.639999,
     84.410004,
-    84.860001
+    85.900002
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 132.66000366210938,
+   "kurs": 134.25999450683594,
    "vortag": 131.5,
-   "veraenderung_pct": 0.8821320624405882,
+   "veraenderung_pct": 2.098855138278277,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     133.779999,
     131.520004,
     131.5,
-    132.660004
+    134.259995
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 391.3999938964844,
+   "kurs": 395.8999938964844,
    "vortag": 391.0,
-   "veraenderung_pct": 0.10230022927988358,
+   "veraenderung_pct": 1.2531953699448595,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     403.399994,
     397.200012,
     391.0,
-    391.399994
+    395.899994
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.88999938964844,
+   "kurs": 41.279998779296875,
    "vortag": 39.470001220703125,
-   "veraenderung_pct": 3.5976643654130003,
+   "veraenderung_pct": 4.5857550104263956,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.240002,
     39.790001,
     39.470001,
-    40.889999
+    41.279999
    ]
   }
  ],
@@ -374,31 +374,111 @@
   ],
   "artikel": [
    {
-    "titel": "CVS to split off drugstore business in major breakup of healthcare giant",
+    "titel": "Hyperscalers and Apple surge after election results remove investor uncertainty",
+    "link": "https://www.cnbc.com/2026/11/04/apple-and-other-big-tech-stocks-surge-after-2026-midterm-elections.html",
+    "zeit": "2026-11-04T19:37:43+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "What Republicans' huge loss means for Trump",
+    "link": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
+    "zeit": "2026-11-04T19:20:57+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "A massive trade just happened in a leading mortgage lender: Watch Options Action Live",
+    "link": "https://www.cnbc.com/2026/11/04/a-massive-trade-just-happened-in-a-leading-mortgage-lender-watch-options-action-live.html",
+    "zeit": "2026-11-04T19:08:15+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "We're cutting our Qnity price target but still loved the beat-and-raise quarter",
+    "link": "https://www.cnbc.com/investingclub/2026/11/04/were-cutting-our-qnity-price-target-but-still-loved-the-beat-and-raise-quarter.html",
+    "zeit": "2026-11-04T19:07:05+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Democrats map out an agenda to address affordability and corruption after midterm sweep",
+    "link": "https://www.cnbc.com/2026/11/04/congressional-democrats-affordability-oversight.html",
+    "zeit": "2026-11-04T19:00:52+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Voters rebuff data centers in every ballot measure except one during the 2026 midterms",
+    "link": "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html",
+    "zeit": "2026-11-04T18:58:21+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
+    "link": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html",
+    "zeit": "2026-11-04T18:37:11+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
     "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
-    "zeit": "2026-11-04T11:46:17+00:00",
+    "zeit": "2026-11-04T18:35:35+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "SpaceX, Tesla fall over 4% on Democrats' big win; AI stocks mixed",
-    "link": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
-    "zeit": "2026-11-04T11:35:52+00:00",
+    "titel": "Google responds to political backlash over removing search from schools that ban AI",
+    "link": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
+    "zeit": "2026-11-04T18:13:10+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
-    "link": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html",
-    "zeit": "2026-11-04T11:20:46+00:00",
+    "titel": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
+    "link": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+    "zeit": "2026-11-04T17:32:26+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Midterms in den USA: Die blaue Welle verunsichert die Börsen",
+    "titel": "Sieg der Demokraten in den USA – Wie die Finanzmärkte auf die Midterms reagieren",
+    "link": "https://www.srf.ch/news/wirtschaft/sieg-der-demokraten-in-den-usa-wie-die-finanzmaerkte-auf-die-midterms-reagieren",
+    "zeit": "2026-11-04T17:08:15+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Neues Wirtschaftsranking – Eine Schweiz voller Cluster",
+    "link": "https://www.srf.ch/news/wirtschaft/neues-wirtschaftsranking-eine-schweiz-voller-cluster",
+    "zeit": "2026-11-04T15:24:12+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "MELDUNGEN WIRTSCHAFT - Inflationsrate in Eurozone steigt im Oktober auf 4 Prozent +++ Niederlande schicken Klaas Knot ins Rennen um Lagarde-Nachfolge an EZB-Spitze",
+    "link": "https://www.nzz.ch/wirtschaft/designierter-rieter-ceo-tritt-neuen-posten-nach-streit-um-bonus-nicht-an-kaufangebot-fuer-meier-tobler-ld.10053841",
+    "zeit": "2026-11-04T11:57:12+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Midterms in den USA: Die blaue Welle führt an den Börsen zu Rekordwerten – doch nicht alle Aktien profitieren",
     "link": "https://www.nzz.ch/wirtschaft/midterms-in-den-usa-die-blaue-welle-verunsichert-die-boersen-ld.10053926",
     "zeit": "2026-11-04T11:20:38+00:00",
     "quelle": "NZZ Wirtschaft",
@@ -406,28 +486,12 @@
     "sprache": "de"
    },
    {
-    "titel": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
-    "link": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
-    "zeit": "2026-11-04T10:47:30+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "U.S. midterm elections in pictures: Democrats' sweeping victories deliver rebuke to Trump",
-    "link": "https://www.cnbc.com/2026/11/04/us-midterm-elections-in-pictures-democrats-republicans-trump.html",
-    "zeit": "2026-11-04T10:47:19+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Novo shares jump as Wegovy pill sales impress, drugmaker hikes outlook",
-    "link": "https://www.cnbc.com/2026/11/04/novo-q3-earnings-wegovy-sales.html",
-    "zeit": "2026-11-04T10:40:51+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "Erhöhung des BVG-Mindestzinses geht Versicherungsverband zu weit",
+    "link": "https://www.finews.ch/news/versicherungen/74331-bvg-mindestzins-bundesrat-anhebung-svv",
+    "zeit": "2026-11-04T11:17:05+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Textilbranche – Bangladesch erhöht Mindestlohn für Textilarbeiter nach Protesten",
@@ -436,22 +500,6 @@
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
-    "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
-    "zeit": "2026-11-04T10:02:00+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Gold, silver and precious metals prices jump, dollar dips as Democrats take control of Congress",
-    "link": "https://www.cnbc.com/2026/11/04/gold-silver-platinum-dollar-midterms.html",
-    "zeit": "2026-11-04T09:59:56+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Flucht in die kühlen Berge – Guter Sommer für Schweizer Bergbahnen",
@@ -468,14 +516,6 @@
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans",
-    "link": "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html",
-    "zeit": "2026-11-04T08:56:45+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Gewinne der Ölkonzerne – Sprudelnde Einnahmen, doch Übergewinnsteuer hat schweren Stand",
@@ -500,22 +540,6 @@
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "MELDUNGEN WIRTSCHAFT - Designierter Rieter-CEO tritt neuen Posten nach Streit um Bonus nicht an +++ Gewinn von BMW schrumpft",
-    "link": "https://www.nzz.ch/wirtschaft/designierter-rieter-ceo-tritt-neuen-posten-nach-streit-um-bonus-nicht-an-kaufangebot-fuer-meier-tobler-ld.10053841",
-    "zeit": "2026-11-04T07:05:01+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Americans have said 'NO TO WAR,' Iran speaker says as Democrats take Congress",
-    "link": "https://www.cnbc.com/2026/11/04/us-midterm-elections-iran-war-speaker.html",
-    "zeit": "2026-11-04T06:45:36+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Wachablösung bei der Swiss Gold Safe",
@@ -646,14 +670,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Grosser Fortschritt bei Franken-Stablecoins",
-    "link": "https://www.finews.ch/news/finanzplatz/74301-neuer-schweizerfranken-stablecoin-safirum-bastien-thiebaud-maverix-giuliano-glocker",
-    "zeit": "2026-11-03T08:30:34+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Teuerung 2026 – Schweizer Inflation steigt im Oktober auf 1.5 Prozent",
     "link": "https://www.srf.ch/news/wirtschaft/teuerung-2026-schweizer-inflation-steigt-im-oktober-auf-1-5-prozent",
     "zeit": "2026-11-03T07:53:34+00:00",
@@ -670,25 +686,9 @@
     "sprache": "de"
    },
    {
-    "titel": "Neues Wirtschaftsranking – Eine Schweiz voller Cluster",
-    "link": "https://www.srf.ch/news/wirtschaft/neues-wirtschaftsranking-eine-schweiz-voller-cluster",
-    "zeit": "2026-11-03T06:50:12+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Expertin gibt Rat – Jobkiller KI: So treten Sie der Angst entgegen",
     "link": "https://www.srf.ch/news/schweiz/expertin-gibt-rat-jobkiller-ki-so-treten-sie-der-angst-entgegen",
     "zeit": "2026-11-03T06:18:25+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Jahresbilanz – Apple macht 132 Milliarden Dollar Gewinn – ein neuer Rekord",
-    "link": "https://www.srf.ch/news/wirtschaft/jahresbilanz-apple-macht-132-milliarden-dollar-gewinn-ein-neuer-rekord",
-    "zeit": "2026-11-03T05:00:06+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
