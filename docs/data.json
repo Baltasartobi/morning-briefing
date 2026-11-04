@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-11-03T21:44:57+01:00",
+ "aktualisiert": "2026-11-04T06:55:59+01:00",
  "kernaussagen": [
-  "SMI −0.40%, Nasdaq +0.84% führt",
-  "Franken stärker: EUR/CHF 0.9187 (−0.15%)",
-  "Bitcoin +1.34% auf 77'707 USD · Brent über 100 USD"
+  "SMI −0.40%, Nikkei 225 −2.15% am schwächsten",
+  "Franken schwächer: EUR/CHF 0.9176 (+0.16%)",
+  "Gold +1.41% auf 3'995.90 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -16,7 +16,7 @@
    "vortag": 14802.51953125,
    "veraenderung_pct": -0.4014835945633233,
    "datum": "2026-11-03",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     14581.099609,
     14756.860352,
@@ -35,7 +35,7 @@
    "vortag": 25981.08984375,
    "veraenderung_pct": -0.44829029045915236,
    "datum": "2026-11-03",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     25704.019531,
     26039.679688,
@@ -54,7 +54,7 @@
    "vortag": 6176.06005859375,
    "veraenderung_pct": -0.510033900272211,
    "datum": "2026-11-03",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     6167.810059,
     6207.069824,
@@ -69,17 +69,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7565.8701171875,
+   "kurs": 7568.919921875,
    "vortag": 7541.39990234375,
-   "veraenderung_pct": 0.32447841462623916,
+   "veraenderung_pct": 0.36491924427315414,
    "datum": "2026-11-03",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     7743.97998,
     7720.390137,
     7580.069824,
     7541.399902,
-    7565.870117
+    7568.919922
    ]
   },
   {
@@ -88,17 +88,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25375.701171875,
+   "kurs": 25372.009765625,
    "vortag": 25164.310546875,
-   "veraenderung_pct": 0.840041393568991,
+   "veraenderung_pct": 0.8253721808237469,
    "datum": "2026-11-03",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     26549.849609,
     26184.720703,
     25437.0,
     25164.310547,
-    25375.701172
+    25372.009766
    ]
   },
   {
@@ -107,17 +107,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 63081.859375,
-   "vortag": 63290.109375,
-   "veraenderung_pct": -0.32904035410351584,
-   "datum": "2026-11-02",
-   "ist_heute": false,
+   "kurs": 61724.48828125,
+   "vortag": 63081.859375,
+   "veraenderung_pct": -2.1517613894049825,
+   "datum": "2026-11-04",
+   "ist_heute": true,
    "verlauf": [
-    63268.371094,
     63954.191406,
     64659.46875,
     63290.109375,
-    63081.859375
+    63081.859375,
+    61724.488281
    ]
   }
  ],
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.918720006942749,
-   "vortag": 0.9201300144195557,
-   "veraenderung_pct": -0.15324002637780998,
-   "datum": "2026-11-03",
+   "kurs": 0.9175800085067749,
+   "vortag": 0.916100025177002,
+   "veraenderung_pct": 0.16155259132177857,
+   "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
-    0.92229,
     0.9236,
     0.92093,
     0.92013,
-    0.91872
+    0.9161,
+    0.91758
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8208500146865845,
-   "vortag": 0.8247699737548828,
-   "veraenderung_pct": -0.4752790708968391,
-   "datum": "2026-11-03",
+   "kurs": 0.8165000081062317,
+   "vortag": 0.8184000253677368,
+   "veraenderung_pct": -0.23216241478626332,
+   "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
-    0.8288,
     0.82795,
     0.82361,
     0.82477,
-    0.82085
+    0.8184,
+    0.8165
    ]
   },
   {
@@ -166,17 +166,17 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3931.10009765625,
-   "vortag": 3969.60009765625,
-   "veraenderung_pct": -0.9698709958902763,
-   "datum": "2026-11-03",
+   "kurs": 3995.89990234375,
+   "vortag": 3940.39990234375,
+   "veraenderung_pct": 1.4084864829833288,
+   "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
-    4051.600098,
     4031.399902,
     3898.899902,
     3969.600098,
-    3931.100098
+    3940.399902,
+    3995.899902
    ]
   },
   {
@@ -185,17 +185,17 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.44999694824219,
-   "vortag": 104.7699966430664,
-   "veraenderung_pct": -0.30543066247715744,
-   "datum": "2026-11-03",
+   "kurs": 103.72000122070312,
+   "vortag": 103.5999984741211,
+   "veraenderung_pct": 0.11583276867712655,
+   "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
-    115.32,
     114.879997,
     117.639999,
     104.769997,
-    104.449997
+    103.599998,
+    103.720001
    ]
   },
   {
@@ -204,17 +204,17 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 77707.1171875,
+   "kurs": 77740.9296875,
    "vortag": 76677.296875,
-   "veraenderung_pct": 1.3430576643550962,
-   "datum": "2026-11-03",
+   "veraenderung_pct": 1.387154810939606,
+   "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
     77198.210938,
     77434.75,
     78248.453125,
     76677.296875,
-    77707.117188
+    77740.929688
    ]
   }
  ],
@@ -244,7 +244,7 @@
    "vortag": 3.37,
    "veraenderung_bp": 1.0,
    "datum": "2026-11-03",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     3.43,
     3.42,
@@ -261,7 +261,7 @@
    "vortag": 4.894,
    "veraenderung_bp": 5.8,
    "datum": "2026-11-03",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     5.045,
     4.989,
@@ -282,7 +282,7 @@
    "vortag": 84.63999938964844,
    "veraenderung_pct": -0.27173408459073567,
    "datum": "2026-11-03",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     82.809998,
     82.809998,
@@ -301,7 +301,7 @@
    "vortag": 131.52000427246094,
    "veraenderung_pct": -0.015210060683612525,
    "datum": "2026-11-03",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     129.220001,
     132.300003,
@@ -320,7 +320,7 @@
    "vortag": 397.20001220703125,
    "veraenderung_pct": -1.5609295106969068,
    "datum": "2026-11-03",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     398.799988,
     401.700012,
@@ -339,7 +339,7 @@
    "vortag": 39.790000915527344,
    "veraenderung_pct": -0.8042213809031251,
    "datum": "2026-11-03",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     38.599998,
     39.709999,
@@ -374,9 +374,105 @@
   ],
   "artikel": [
    {
-    "titel": "Sullivan: What the 2026 midterms could mean for energy investors",
-    "link": "https://www.cnbc.com/2026/11/03/2026-midterms-energy-investors.html",
-    "zeit": "2026-11-03T20:36:08+00:00",
+    "titel": "Von furioso bis decrescendo: Wie Donald Trump jetzt durchregieren könnte",
+    "link": "https://www.nzz.ch/pro/furioso-oder-decrescendowie-donald-trump-jetzt-durchregieren-koennte-ld.10052013",
+    "zeit": "2026-11-04T04:31:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Google liess in Finnland ohne Erlaubnis 530 Hektaren Wald roden. Wie konnte es so weit kommen?",
+    "link": "https://www.nzz.ch/wirtschaft/google-laesst-in-finnland-illegal-wald-roden-skandal-um-530-hektar-ld.10046380",
+    "zeit": "2026-11-04T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "INTERVIEW - «Das grösste Problem von Verwaltungsräten ist, dass niemand widerspricht»",
+    "link": "https://www.nzz.ch/wirtschaft/das-groesste-problem-von-verwaltungsraeten-ist-dass-niemand-widerspricht-ld.10039538",
+    "zeit": "2026-11-04T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Der «Speckgürtel» triumphiert: Kluge Hauskäufer und Investoren sollten einen grossen Bogen um die Städte machen",
+    "link": "https://www.nzz.ch/wirtschaft/der-speckguertel-triumphiert-kluge-hauskaeufer-und-investoren-sollten-einen-grossen-bogen-um-die-staedte-machen-ld.10038459",
+    "zeit": "2026-11-04T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "KOMMENTAR - Trotz Milliardenverlusten bei Binance: Wir brauchen einen echten Währungswettbewerb",
+    "link": "https://www.nzz.ch/meinung/trotz-milliardenverlusten-bei-binance-wir-brauchen-einen-echten-waehrungswettbewerb-ld.10052862",
+    "zeit": "2026-11-04T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Kubas zögerliche Reformen: Die erste McDonald’s-Filiale in Havanna lässt weiter auf sich warten",
+    "link": "https://www.nzz.ch/international/kubas-zoegerliche-reformen-die-erste-mcdonald-s-filiale-in-havanna-laesst-weiter-auf-sich-warten-ld.10051169",
+    "zeit": "2026-11-04T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Chinas vierter Flugzeugträger könnte schon nächstes Jahr fertiggestellt sein",
+    "link": "https://www.nzz.ch/international/chinas-vierter-flugzeugtraeger-koennte-schon-naechstes-jahr-fertiggestellt-sein-ld.10049385",
+    "zeit": "2026-11-04T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "GASTBEITRAG - Die Maschine optimiert Zwecke, der Mensch stiftet Sinn",
+    "link": "https://www.nzz.ch/meinung/die-maschine-optimiert-zwecke-der-mensch-stiftet-sinn-ld.10026387",
+    "zeit": "2026-11-04T04:05:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Midterm elections could jolt stocks as Democrats look poised to sweep Congress",
+    "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
+    "zeit": "2026-11-04T03:38:08+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Google responds to political backlash over removing search from schools that ban AI",
+    "link": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
+    "zeit": "2026-11-04T01:07:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Jim Cramer sees signs of life in tech stocks — but not from the usual winners",
+    "link": "https://www.cnbc.com/2026/11/03/jim-cramer-sees-signs-of-life-in-tech-stocks-but-not-from-the-usual-winners.html",
+    "zeit": "2026-11-03T23:58:09+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
+    "link": "https://www.cnbc.com/2026/11/03/crowdstrikes-new-kill-switch-can-stop-rogue-ai-agents-in-their-tracks-ceo-says.html",
+    "zeit": "2026-11-03T23:37:07+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Strand bookstore to pay nearly $1.5 million over Covid loan tied to Sen. Wyden's wife",
+    "link": "https://www.cnbc.com/2026/11/03/strand-bookstore-ppp-loan-ron-wyden-wife-settlement.html",
+    "zeit": "2026-11-03T23:28:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -384,55 +480,23 @@
    {
     "titel": "Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Reports",
     "link": "https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html",
-    "zeit": "2026-11-03T20:33:31+00:00",
+    "zeit": "2026-11-03T23:26:39+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
-    "link": "https://www.cnbc.com/2026/11/03/ai-generated-slopaganda-in-political-ads-puts-platforms-on-alert.html",
-    "zeit": "2026-11-03T20:33:28+00:00",
+    "titel": "AMD stock jumps 8% on earnings as data center revenue nearly doubles",
+    "link": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+    "zeit": "2026-11-03T23:04:37+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Shopify falls 7% after Q3 revenue and merchandise volume miss estimates",
-    "link": "https://www.cnbc.com/2026/11/03/shopify-q3-2026-earnings-gmv.html",
-    "zeit": "2026-11-03T20:32:13+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
-    "link": "https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html",
-    "zeit": "2026-11-03T20:27:21+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Binance breach puts custody at center of crypto infrastructure trade",
-    "link": "https://www.cnbc.com/2026/11/03/binance-breach-puts-custody-at-center-of-crypto-infrastructure-trade.html",
-    "zeit": "2026-11-03T20:13:37+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Apple warns of risks related to AI agents behaving in 'unintended or unpredictable' ways",
-    "link": "https://www.cnbc.com/2026/11/03/apple-warns-of-ai-agents-behave-in-unintended-or-unpredictable-ways.html",
-    "zeit": "2026-11-03T20:10:41+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Fannie Mae, Freddie Mac rally as Ackman presses for conservatorship exit",
-    "link": "https://www.cnbc.com/2026/11/03/ackman-fannie-mae-freddie-mac-conservatorship.html",
-    "zeit": "2026-11-03T20:10:14+00:00",
+    "titel": "Apple stock sinks as global memory crisis hurts profits, giving Ternus his first big test",
+    "link": "https://www.cnbc.com/2026/11/03/apple-earnings-john-ternus-faces-first-test-amid-high-memory-costs.html",
+    "zeit": "2026-11-03T22:35:24+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -440,15 +504,15 @@
    {
     "titel": "JetBlue raises bag fees for third time in a year as fuel costs bite",
     "link": "https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html",
-    "zeit": "2026-11-03T20:07:50+00:00",
+    "zeit": "2026-11-03T22:26:20+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
-    "link": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
-    "zeit": "2026-11-03T20:02:10+00:00",
+    "titel": "Fannie Mae, Freddie Mac rally as Ackman presses for conservatorship exit",
+    "link": "https://www.cnbc.com/2026/11/03/ackman-fannie-mae-freddie-mac-conservatorship.html",
+    "zeit": "2026-11-03T20:52:14+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -458,6 +522,14 @@
     "link": "https://www.nzz.ch/wirtschaft/signa-krise-die-wichtigsten-meldungen-ld.1767273",
     "zeit": "2026-11-03T15:35:48+00:00",
     "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Tareno-Chefin: «Wir arbeiten auf Akquisitionen im Raum Zürich hin»",
+    "link": "https://www.finews.ch/news/finanzplatz/74316-interview-sybille-wyss-tareno-vermoegensverwalter-akquistionen-assets-under-management-tareno-fonds",
+    "zeit": "2026-11-03T15:05:41+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -474,30 +546,6 @@
     "link": "https://www.finews.ch/news/finanzplatz/74311-pkzh-pk-softech-cyberangriff-systemwechsel",
     "zeit": "2026-11-03T12:31:11+00:00",
     "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "«Konzentrierter Energieschock»: Überall steigt die Inflation – jetzt auch in der Schweiz",
-    "link": "https://www.nzz.ch/wirtschaft/konzentrierter-energieschock-ueberall-steigt-die-inflation-jetzt-auch-in-der-schweiz-ld.10052728",
-    "zeit": "2026-11-03T12:27:24+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Die deutsche Autokrise spitzt sich weiter zu: Der Zulieferer Schaeffler baut schon wieder Tausende Stellen ab",
-    "link": "https://www.nzz.ch/wirtschaft/automobilzulieferer-schaeffler-baut-tausende-weitere-jobs-ab-viele-davon-in-deutschland-ld.10052678",
-    "zeit": "2026-11-03T11:34:19+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "MELDUNGEN WIRTSCHAFT - Mediamarkt-Saturn darf chinesisch werden – EU gibt grünes Licht für Übernahme +++ Lonza übernimmt Produktionsstandorte der Merck KGaA in den USA",
-    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neusten-meldungen-ld.10033890",
-    "zeit": "2026-11-03T11:18:07+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -546,14 +594,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/teuerung-2026-schweizer-inflation-steigt-im-oktober-auf-1-5-prozent",
     "zeit": "2026-11-03T07:53:34+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Die spannendste Frage der amerikanischen Zwischenwahlen: Können die Demokraten den Senat erobern?",
-    "link": "https://www.nzz.ch/international/usa/midterms-2026/die-spannendste-frage-der-amerikanischen-zwischenwahlen-koennen-die-demokraten-den-senat-erobern-ld.10025171",
-    "zeit": "2026-11-03T07:52:15+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -614,50 +654,10 @@
     "sprache": "de"
    },
    {
-    "titel": "Cembra baut Fahrzeugfinanzierung aus",
-    "link": "https://www.finews.ch/news/banken/74285-cembra-baut-fahrzeugfinanzierung-aus",
-    "zeit": "2026-11-03T05:23:29+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Jahresbilanz – Apple macht 132 Milliarden Dollar Gewinn – ein neuer Rekord",
     "link": "https://www.srf.ch/news/wirtschaft/jahresbilanz-apple-macht-132-milliarden-dollar-gewinn-ein-neuer-rekord",
     "zeit": "2026-11-03T05:00:06+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "KOMMENTAR - Europas seltsame Apathie: Die engsten Partner der Ukraine dürfen sich ihre Zukunft nicht von Trump und Putin diktieren lassen",
-    "link": "https://www.nzz.ch/meinung/europas-seltsame-apathie-die-engsten-partner-der-ukraine-duerfen-sich-ihre-zukunft-nicht-von-trump-und-putin-diktieren-lassen-ld.10048213",
-    "zeit": "2026-11-03T04:35:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Nach Binance-Raub: Das Crypto Valley rüstet sich gegen weitere Cyberangriffe",
-    "link": "https://www.nzz.ch/wirtschaft/nach-binance-raub-das-crypto-valley-ruestet-sich-gegen-weitere-cyberangriffe-ld.10051936",
-    "zeit": "2026-11-03T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Die nordkoreanischen Hacker hinter dem Binance-Raub sind auch in der Schweiz aktiv – und locken mit vielversprechenden Jobangeboten",
-    "link": "https://www.nzz.ch/wirtschaft/die-nordkoreanischen-hacker-hinter-dem-binance-raub-sind-auch-in-der-schweiz-aktiv-und-locken-mit-vielversprechenden-jobangeboten-ld.10051680",
-    "zeit": "2026-11-03T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Lebensader für Blatten: Eine neue Seilbahn erschliesst das Ende vom Lötschental – und sie ist typisch schweizerisch",
-    "link": "https://www.nzz.ch/wirtschaft/blatten-typische-schweizer-kleinseilbahn-von-bartholet-erschliesst-loetschental-ld.10032963",
-    "zeit": "2026-11-03T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
