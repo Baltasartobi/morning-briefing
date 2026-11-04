@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-11-04T08:06:47+01:00",
+ "aktualisiert": "2026-11-04T09:32:58+01:00",
  "kernaussagen": [
-  "SMI −0.40%, Nikkei 225 −1.42% am schwächsten",
-  "Franken schwächer: EUR/CHF 0.9178 (+0.18%)",
-  "Gold +2.43% auf 4'036.00 USD/Unze · Brent über 100 USD"
+  "SMI −0.06%, Nikkei 225 −1.42% am schwächsten",
+  "Franken schwächer: EUR/CHF 0.9172 (+0.12%)",
+  "Gold +2.55% auf 4'041.00 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,17 +12,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14743.08984375,
-   "vortag": 14802.51953125,
-   "veraenderung_pct": -0.4014835945633233,
-   "datum": "2026-11-03",
-   "ist_heute": false,
+   "kurs": 14733.669921875,
+   "vortag": 14743.08984375,
+   "veraenderung_pct": -0.06389381042124498,
+   "datum": "2026-11-04",
+   "ist_heute": true,
    "verlauf": [
-    14581.099609,
     14756.860352,
     14810.660156,
     14802.519531,
-    14743.089844
+    14743.089844,
+    14733.669922
    ]
   },
   {
@@ -31,17 +31,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25864.619140625,
-   "vortag": 25981.08984375,
-   "veraenderung_pct": -0.44829029045915236,
-   "datum": "2026-11-03",
-   "ist_heute": false,
+   "kurs": 26001.880859375,
+   "vortag": 25864.619140625,
+   "veraenderung_pct": 0.5306929825786844,
+   "datum": "2026-11-04",
+   "ist_heute": true,
    "verlauf": [
-    25704.019531,
     26039.679688,
     25818.210938,
     25981.089844,
-    25864.619141
+    25864.619141,
+    26001.880859
    ]
   },
   {
@@ -50,17 +50,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6144.56005859375,
-   "vortag": 6176.06005859375,
-   "veraenderung_pct": -0.510033900272211,
-   "datum": "2026-11-03",
-   "ist_heute": false,
+   "kurs": 6198.06982421875,
+   "vortag": 6144.56005859375,
+   "veraenderung_pct": 0.8708477924332714,
+   "datum": "2026-11-04",
+   "ist_heute": true,
    "verlauf": [
-    6167.810059,
     6207.069824,
     6131.310059,
     6176.060059,
-    6144.560059
+    6144.560059,
+    6198.069824
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9177600145339966,
+   "kurs": 0.9172000288963318,
    "vortag": 0.916100025177002,
-   "veraenderung_pct": 0.18120175869156263,
+   "veraenderung_pct": 0.12007463040046851,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92093,
     0.92013,
     0.9161,
-    0.91776
+    0.9172
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.817550003528595,
+   "kurs": 0.8157100081443787,
    "vortag": 0.8184000253677368,
-   "veraenderung_pct": -0.10386385786826935,
+   "veraenderung_pct": -0.3286922214047361,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82361,
     0.82477,
     0.8184,
-    0.81755
+    0.81571
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4036.0,
+   "kurs": 4041.0,
    "vortag": 3940.39990234375,
-   "veraenderung_pct": 2.4261521679407982,
+   "veraenderung_pct": 2.5530428420834417,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     3898.899902,
     3969.600098,
     3940.399902,
-    4036.0
+    4041.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 104.20999908447266,
+   "kurs": 103.55999755859375,
    "vortag": 103.5999984741211,
-   "veraenderung_pct": 0.588803686617756,
+   "veraenderung_pct": -0.03861092289237922,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     117.639999,
     104.769997,
     103.599998,
-    104.209999
+    103.559998
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 77821.078125,
+   "kurs": 78272.3984375,
    "vortag": 77345.046875,
-   "veraenderung_pct": 0.6154644275661703,
+   "veraenderung_pct": 1.19897989589266,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     78248.453125,
     76677.296875,
     77345.046875,
-    77821.078125
+    78272.398438
    ]
   }
  ],
@@ -223,17 +223,17 @@
    "name": "Schweiz",
    "quelle": "snb",
    "verfuegbar": true,
-   "wert": 0.492,
-   "vortag": 0.505,
-   "veraenderung_bp": -1.3,
-   "datum": "2026-11-02",
+   "wert": 0.509,
+   "vortag": 0.492,
+   "veraenderung_bp": 1.7,
+   "datum": "2026-11-03",
    "ist_heute": false,
    "verlauf": [
-    0.487,
     0.495,
     0.536,
     0.505,
-    0.492
+    0.492,
+    0.509
    ]
   },
   {
@@ -278,17 +278,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 84.41000366210938,
-   "vortag": 84.63999938964844,
-   "veraenderung_pct": -0.27173408459073567,
-   "datum": "2026-11-03",
-   "ist_heute": false,
+   "kurs": 83.95999908447266,
+   "vortag": 84.41000366210938,
+   "veraenderung_pct": -0.5331175904672025,
+   "datum": "2026-11-04",
+   "ist_heute": true,
    "verlauf": [
-    82.809998,
     82.809998,
     84.699997,
     84.639999,
-    84.410004
+    84.410004,
+    83.959999
    ]
   },
   {
@@ -297,17 +297,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 131.5,
-   "vortag": 131.52000427246094,
-   "veraenderung_pct": -0.015210060683612525,
-   "datum": "2026-11-03",
-   "ist_heute": false,
+   "kurs": 131.02000427246094,
+   "vortag": 131.5,
+   "veraenderung_pct": -0.36501576238712197,
+   "datum": "2026-11-04",
+   "ist_heute": true,
    "verlauf": [
-    129.220001,
     132.300003,
     133.779999,
     131.520004,
-    131.5
+    131.5,
+    131.020004
    ]
   },
   {
@@ -316,17 +316,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 391.0,
-   "vortag": 397.20001220703125,
-   "veraenderung_pct": -1.5609295106969068,
-   "datum": "2026-11-03",
-   "ist_heute": false,
+   "kurs": 388.5,
+   "vortag": 391.0,
+   "veraenderung_pct": -0.6393861892583175,
+   "datum": "2026-11-04",
+   "ist_heute": true,
    "verlauf": [
-    398.799988,
     401.700012,
     403.399994,
     397.200012,
-    391.0
+    391.0,
+    388.5
    ]
   },
   {
@@ -335,17 +335,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.470001220703125,
-   "vortag": 39.790000915527344,
-   "veraenderung_pct": -0.8042213809031251,
-   "datum": "2026-11-03",
-   "ist_heute": false,
+   "kurs": 40.18000030517578,
+   "vortag": 39.470001220703125,
+   "veraenderung_pct": 1.798832182706489,
+   "datum": "2026-11-04",
+   "ist_heute": true,
    "verlauf": [
-    38.599998,
     39.709999,
     39.240002,
     39.790001,
-    39.470001
+    39.470001,
+    40.18
    ]
   }
  ],
@@ -374,6 +374,38 @@
   ],
   "artikel": [
    {
+    "titel": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
+    "link": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html",
+    "zeit": "2026-11-04T08:10:53+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Novo shares jump 6% as Wegovy pill sales impress, drugmaker hikes outlook",
+    "link": "https://www.cnbc.com/2026/11/04/novo-q3-earnings-wegovy-sales.html",
+    "zeit": "2026-11-04T08:06:50+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Gold, silver and precious metals prices jump, dollar dips as Democrats take control of Congress",
+    "link": "https://www.cnbc.com/2026/11/04/gold-silver-platinum-dollar-midterms.html",
+    "zeit": "2026-11-04T07:43:43+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
+    "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+    "zeit": "2026-11-04T07:27:48+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "«Unüberbrückbare Differenzen» – Knall bei Rieter: Designierter CEO stolpert über Bonus-Streit",
     "link": "https://www.srf.ch/news/wirtschaft/unueberbrueckbare-differenzen-knall-bei-rieter-designierter-ceo-stolpert-ueber-bonus-streit",
     "zeit": "2026-11-04T07:05:46+00:00",
@@ -382,20 +414,28 @@
     "sprache": "de"
    },
    {
-    "titel": "Novo raises full-year outlook as Wegovy pill sales impress",
-    "link": "https://www.cnbc.com/2026/11/04/novo-q3-earnings-wegovy-sales.html",
-    "zeit": "2026-11-04T06:55:08+00:00",
+    "titel": "MELDUNGEN WIRTSCHAFT - Designierter Rieter-CEO tritt neuen Posten nach Streit um Bonus nicht an +++ Kaufangebot für Meier Tobler",
+    "link": "https://www.nzz.ch/wirtschaft/designierter-rieter-ceo-tritt-neuen-posten-nach-streit-um-bonus-nicht-an-kaufangebot-fuer-meier-tobler-ld.10053841",
+    "zeit": "2026-11-04T07:05:01+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Midterm Takeaways: Tech billionaires suffer horrible night as Democrats drub Republicans",
+    "link": "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html",
+    "zeit": "2026-11-04T07:03:48+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
-    "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
-    "zeit": "2026-11-04T06:50:22+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "Wachablösung bei der Swiss Gold Safe",
+    "link": "https://www.finews.ch/news/finanzplatz/74319-swiss-gold-safe-stabwechsel-ludwig-karl-hans-maurer",
+    "zeit": "2026-11-04T06:06:41+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "U.S. midterm elections in pictures: Democrats' sweeping victories deliver rebuke to Trump",
@@ -510,30 +550,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Strand bookstore to pay nearly $1.5 million over Covid loan tied to Sen. Wyden's wife",
-    "link": "https://www.cnbc.com/2026/11/03/strand-bookstore-ppp-loan-ron-wyden-wife-settlement.html",
-    "zeit": "2026-11-03T23:28:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Reports",
-    "link": "https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html",
-    "zeit": "2026-11-03T23:26:39+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "AMD stock jumps 8% on earnings as data center revenue nearly doubles",
-    "link": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
-    "zeit": "2026-11-03T23:04:37+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "DIE NEUESTEN ENTWICKLUNGEN - Signa-Insolvenz: René Benko steht erneut vor Gericht",
     "link": "https://www.nzz.ch/wirtschaft/signa-krise-die-wichtigsten-meldungen-ld.1767273",
     "zeit": "2026-11-03T15:35:48+00:00",
@@ -542,18 +558,18 @@
     "sprache": "de"
    },
    {
-    "titel": "Tareno-Chefin: «Wir arbeiten auf Akquisitionen im Raum Zürich hin»",
-    "link": "https://www.finews.ch/news/finanzplatz/74316-interview-sybille-wyss-tareno-vermoegensverwalter-akquistionen-assets-under-management-tareno-fonds",
-    "zeit": "2026-11-03T15:05:41+00:00",
+    "titel": "Zürcher Vermögensverwalter besetzt CIO-Stelle mit Pirmin-Hotz-Mann",
+    "link": "https://www.finews.ch/news/finanzplatz/74317-ntp-vermoegensverwalter-cio-renato-brand-pirmin-hotz",
+    "zeit": "2026-11-03T15:20:10+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
    {
-    "titel": "KOMMENTAR - Russland führt sich in Afrika auf wie eine Kolonialmacht. Putin hat noch nicht gemerkt, dass der Kontinent die multipolare Weltordnung zu nutzen weiss",
-    "link": "https://www.nzz.ch/meinung/russland-in-afrika-warum-putins-strategie-scheitert-ld.10051796",
-    "zeit": "2026-11-03T13:50:11+00:00",
-    "quelle": "NZZ Wirtschaft",
+    "titel": "Tareno-Chefin: «Wir arbeiten auf Akquisitionen im Raum Zürich hin»",
+    "link": "https://www.finews.ch/news/finanzplatz/74316-interview-sybille-wyss-tareno-vermoegensverwalter-akquistionen-assets-under-management-tareno-fonds",
+    "zeit": "2026-11-03T15:05:41+00:00",
+    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -634,22 +650,6 @@
     "link": "https://www.srf.ch/news/wirtschaft/neues-wirtschaftsranking-eine-schweiz-voller-cluster",
     "zeit": "2026-11-03T06:50:12+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "ETF-Boom: Jetzt kommt die Gegenbewegung",
-    "link": "https://www.finews.ch/news/finanzplatz/74290-etf-boom-dws-xtrackers-comeback-aktives-fondsmanagement-schweiz",
-    "zeit": "2026-11-03T06:37:35+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Nur die Notenbanken kaufen massiv Gold",
-    "link": "https://www.finews.ch/news/finanzplatz/74289-zentralbanken-goldkaeufe-im-dritten-quartal-deutlich-ausgeweitet-nachfrage-nach-barren-und-muenzen-gold-etf",
-    "zeit": "2026-11-03T06:32:22+00:00",
-    "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
