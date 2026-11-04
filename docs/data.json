@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-11-04T11:39:14+01:00",
+ "aktualisiert": "2026-11-04T12:55:17+01:00",
  "kernaussagen": [
-  "SMI +0.65%, Euro Stoxx 50 +1.50% führt",
+  "SMI +0.91%, Euro Stoxx 50 +1.77% führt",
   "Franken schwächer: EUR/CHF 0.9195 (+0.37%)",
-  "Gold +2.94% auf 4'056.20 USD/Unze · Brent über 100 USD"
+  "Gold +2.86% auf 4'053.10 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14839.5302734375,
+   "kurs": 14877.98046875,
    "vortag": 14743.08984375,
-   "veraenderung_pct": 0.6541398764410511,
+   "veraenderung_pct": 0.9149413483170443,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14810.660156,
     14802.519531,
     14743.089844,
-    14839.530273
+    14877.980469
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26198.2109375,
+   "kurs": 26235.7109375,
    "vortag": 25864.619140625,
-   "veraenderung_pct": 1.289761102072573,
+   "veraenderung_pct": 1.434746805500553,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25818.210938,
     25981.089844,
     25864.619141,
-    26198.210938
+    26235.710938
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6236.5,
+   "kurs": 6253.33984375,
    "vortag": 6144.56005859375,
-   "veraenderung_pct": 1.4962819230265767,
+   "veraenderung_pct": 1.770342939428371,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6131.310059,
     6176.060059,
     6144.560059,
-    6236.5
+    6253.339844
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9194899797439575,
+   "kurs": 0.9194999933242798,
    "vortag": 0.916100025177002,
-   "veraenderung_pct": 0.3700419685394696,
+   "veraenderung_pct": 0.371135034803749,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92093,
     0.92013,
     0.9161,
-    0.91949
+    0.9195
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8172500133514404,
+   "kurs": 0.8168500065803528,
    "vortag": 0.8184000253677368,
-   "veraenderung_pct": -0.14051954797773547,
+   "veraenderung_pct": -0.189396229146932,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82361,
     0.82477,
     0.8184,
-    0.81725
+    0.81685
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4056.199951171875,
+   "kurs": 4053.10009765625,
    "vortag": 3940.39990234375,
-   "veraenderung_pct": 2.9387892523103254,
+   "veraenderung_pct": 2.8601207518421212,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     3898.899902,
     3969.600098,
     3940.399902,
-    4056.199951
+    4053.100098
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 101.61000061035156,
+   "kurs": 102.18000030517578,
    "vortag": 103.5999984741211,
-   "veraenderung_pct": -1.9208473871422216,
+   "veraenderung_pct": -1.3706546234168338,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     117.639999,
     104.769997,
     103.599998,
-    101.610001
+    102.18
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 78414.1328125,
+   "kurs": 78504.0390625,
    "vortag": 77345.046875,
-   "veraenderung_pct": 1.3822293484775816,
+   "veraenderung_pct": 1.498469823637305,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     78248.453125,
     76677.296875,
     77345.046875,
-    78414.132812
+    78504.039062
    ]
   }
  ],
@@ -241,15 +241,15 @@
    "quelle": "bundesbank",
    "verfuegbar": true,
    "wert": 3.38,
-   "vortag": 3.37,
-   "veraenderung_bp": 1.0,
-   "datum": "2026-11-03",
-   "ist_heute": false,
+   "vortag": 3.38,
+   "veraenderung_bp": 0.0,
+   "datum": "2026-11-04",
+   "ist_heute": true,
    "verlauf": [
-    3.43,
     3.42,
     3.4,
     3.37,
+    3.38,
     3.38
    ]
   },
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 84.68000030517578,
+   "kurs": 84.86000061035156,
    "vortag": 84.41000366210938,
-   "veraenderung_pct": 0.3198633234837933,
+   "veraenderung_pct": 0.5331085519715284,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     84.699997,
     84.639999,
     84.410004,
-    84.68
+    84.860001
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 132.1999969482422,
+   "kurs": 132.66000366210938,
    "vortag": 131.5,
-   "veraenderung_pct": 0.5323170709065961,
+   "veraenderung_pct": 0.8821320624405882,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     133.779999,
     131.520004,
     131.5,
-    132.199997
+    132.660004
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 389.3999938964844,
+   "kurs": 391.3999938964844,
    "vortag": 391.0,
-   "veraenderung_pct": -0.40920872212676374,
+   "veraenderung_pct": 0.10230022927988358,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     403.399994,
     397.200012,
     391.0,
-    389.399994
+    391.399994
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.70000076293945,
+   "kurs": 40.88999938964844,
    "vortag": 39.470001220703125,
-   "veraenderung_pct": 3.116289597658173,
+   "veraenderung_pct": 3.5976643654130003,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.240002,
     39.790001,
     39.470001,
-    40.700001
+    40.889999
    ]
   }
  ],
@@ -374,9 +374,57 @@
   ],
   "artikel": [
    {
+    "titel": "CVS to split off drugstore business in major breakup of healthcare giant",
+    "link": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
+    "zeit": "2026-11-04T11:46:17+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "SpaceX, Tesla fall over 4% on Democrats' big win; AI stocks mixed",
+    "link": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
+    "zeit": "2026-11-04T11:35:52+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
     "link": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html",
-    "zeit": "2026-11-04T10:35:14+00:00",
+    "zeit": "2026-11-04T11:20:46+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Midterms in den USA: Die blaue Welle verunsichert die Börsen",
+    "link": "https://www.nzz.ch/wirtschaft/midterms-in-den-usa-die-blaue-welle-verunsichert-die-boersen-ld.10053926",
+    "zeit": "2026-11-04T11:20:38+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
+    "link": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
+    "zeit": "2026-11-04T10:47:30+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "U.S. midterm elections in pictures: Democrats' sweeping victories deliver rebuke to Trump",
+    "link": "https://www.cnbc.com/2026/11/04/us-midterm-elections-in-pictures-democrats-republicans-trump.html",
+    "zeit": "2026-11-04T10:47:19+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Novo shares jump as Wegovy pill sales impress, drugmaker hikes outlook",
+    "link": "https://www.cnbc.com/2026/11/04/novo-q3-earnings-wegovy-sales.html",
+    "zeit": "2026-11-04T10:40:51+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -388,14 +436,6 @@
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "SpaceX, Tesla fall around 4% on Democrats' big win; AI stocks mixed",
-    "link": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
-    "zeit": "2026-11-04T10:31:32+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
@@ -446,14 +486,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Novo shares jump 6% as Wegovy pill sales impress, drugmaker hikes outlook",
-    "link": "https://www.cnbc.com/2026/11/04/novo-q3-earnings-wegovy-sales.html",
-    "zeit": "2026-11-04T08:06:50+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Pictet Alternative Advisors ernennt neuen Leiter Real Estate",
     "link": "https://www.finews.ch/news/finanzplatz/74321-pictet-alternative-advisorsalexander-lukesch-multi-manager-real-estate",
     "zeit": "2026-11-04T07:30:20+00:00",
@@ -494,28 +526,12 @@
     "sprache": "de"
    },
    {
-    "titel": "U.S. midterm elections in pictures: Democrats' sweeping victories deliver rebuke to Trump",
-    "link": "https://www.cnbc.com/2026/11/04/us-midterm-elections-in-pictures-democrats-republicans-trump.html",
-    "zeit": "2026-11-04T05:53:30+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Privatbank ernennt Niederlassungsleiter, Kundenberaterin und Südafrikaspezialisten",
     "link": "https://www.finews.ch/news/banken/74318-banque-bonhote-neueinstellungen-ramia-montandon-ali-altinsoy-jaime-arnold-niederlassunggenf-suedafrikageschaeft",
     "zeit": "2026-11-04T05:19:22+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "McDonald's is about to report earnings. Here's what to expect",
-    "link": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
-    "zeit": "2026-11-04T05:01:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Von furioso bis decrescendo: Weshalb Donald Trump weiterhin für Unruhe sorgen wird",
@@ -577,22 +593,6 @@
     "titel": "GASTBEITRAG - Die Maschine optimiert Zwecke, der Mensch stiftet Sinn",
     "link": "https://www.nzz.ch/meinung/die-maschine-optimiert-zwecke-der-mensch-stiftet-sinn-ld.10026387",
     "zeit": "2026-11-04T04:05:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Midterm elections could jolt stocks as Democrats look poised to sweep Congress",
-    "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
-    "zeit": "2026-11-04T03:38:08+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "DIE NEUESTEN ENTWICKLUNGEN - Signa-Insolvenz: René Benko steht erneut vor Gericht",
-    "link": "https://www.nzz.ch/wirtschaft/signa-krise-die-wichtigsten-meldungen-ld.1767273",
-    "zeit": "2026-11-03T15:35:48+00:00",
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
