@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-11-04T06:55:59+01:00",
+ "aktualisiert": "2026-11-04T08:06:47+01:00",
  "kernaussagen": [
-  "SMI −0.40%, Nikkei 225 −2.15% am schwächsten",
-  "Franken schwächer: EUR/CHF 0.9176 (+0.16%)",
-  "Gold +1.41% auf 3'995.90 USD/Unze · Brent über 100 USD"
+  "SMI −0.40%, Nikkei 225 −1.42% am schwächsten",
+  "Franken schwächer: EUR/CHF 0.9178 (+0.18%)",
+  "Gold +2.43% auf 4'036.00 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -107,9 +107,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 61724.48828125,
+   "kurs": 62188.62890625,
    "vortag": 63081.859375,
-   "veraenderung_pct": -2.1517613894049825,
+   "veraenderung_pct": -1.4159862718060579,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -117,7 +117,7 @@
     64659.46875,
     63290.109375,
     63081.859375,
-    61724.488281
+    62188.628906
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9175800085067749,
+   "kurs": 0.9177600145339966,
    "vortag": 0.916100025177002,
-   "veraenderung_pct": 0.16155259132177857,
+   "veraenderung_pct": 0.18120175869156263,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92093,
     0.92013,
     0.9161,
-    0.91758
+    0.91776
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8165000081062317,
+   "kurs": 0.817550003528595,
    "vortag": 0.8184000253677368,
-   "veraenderung_pct": -0.23216241478626332,
+   "veraenderung_pct": -0.10386385786826935,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82361,
     0.82477,
     0.8184,
-    0.8165
+    0.81755
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 3995.89990234375,
+   "kurs": 4036.0,
    "vortag": 3940.39990234375,
-   "veraenderung_pct": 1.4084864829833288,
+   "veraenderung_pct": 2.4261521679407982,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     3898.899902,
     3969.600098,
     3940.399902,
-    3995.899902
+    4036.0
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 103.72000122070312,
+   "kurs": 104.20999908447266,
    "vortag": 103.5999984741211,
-   "veraenderung_pct": 0.11583276867712655,
+   "veraenderung_pct": 0.588803686617756,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     117.639999,
     104.769997,
     103.599998,
-    103.720001
+    104.209999
    ]
   },
   {
@@ -204,17 +204,17 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 77740.9296875,
-   "vortag": 76677.296875,
-   "veraenderung_pct": 1.387154810939606,
+   "kurs": 77821.078125,
+   "vortag": 77345.046875,
+   "veraenderung_pct": 0.6154644275661703,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
-    77198.210938,
     77434.75,
     78248.453125,
     76677.296875,
-    77740.929688
+    77345.046875,
+    77821.078125
    ]
   }
  ],
@@ -374,7 +374,47 @@
   ],
   "artikel": [
    {
-    "titel": "Von furioso bis decrescendo: Wie Donald Trump jetzt durchregieren könnte",
+    "titel": "«Unüberbrückbare Differenzen» – Knall bei Rieter: Designierter CEO stolpert über Bonus-Streit",
+    "link": "https://www.srf.ch/news/wirtschaft/unueberbrueckbare-differenzen-knall-bei-rieter-designierter-ceo-stolpert-ueber-bonus-streit",
+    "zeit": "2026-11-04T07:05:46+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Novo raises full-year outlook as Wegovy pill sales impress",
+    "link": "https://www.cnbc.com/2026/11/04/novo-q3-earnings-wegovy-sales.html",
+    "zeit": "2026-11-04T06:55:08+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
+    "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+    "zeit": "2026-11-04T06:50:22+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "U.S. midterm elections in pictures: Democrats' sweeping victories deliver rebuke to Trump",
+    "link": "https://www.cnbc.com/2026/11/04/us-midterm-elections-in-pictures-democrats-republicans-trump.html",
+    "zeit": "2026-11-04T05:53:30+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Privatbank ernennt Niederlassungsleiter, Kundenberaterin und Südafrikaspezialisten",
+    "link": "https://www.finews.ch/news/banken/74318-banque-bonhote-neueinstellungen-ramia-montandon-ali-altinsoy-jaime-arnold-niederlassunggenf-suedafrikageschaeft",
+    "zeit": "2026-11-04T05:19:22+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Von furioso bis decrescendo: Weshalb Donald Trump weiterhin für Unruhe sorgen wird",
     "link": "https://www.nzz.ch/pro/furioso-oder-decrescendowie-donald-trump-jetzt-durchregieren-koennte-ld.10052013",
     "zeit": "2026-11-04T04:31:00+00:00",
     "quelle": "NZZ Wirtschaft",
@@ -489,30 +529,6 @@
     "titel": "AMD stock jumps 8% on earnings as data center revenue nearly doubles",
     "link": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
     "zeit": "2026-11-03T23:04:37+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Apple stock sinks as global memory crisis hurts profits, giving Ternus his first big test",
-    "link": "https://www.cnbc.com/2026/11/03/apple-earnings-john-ternus-faces-first-test-amid-high-memory-costs.html",
-    "zeit": "2026-11-03T22:35:24+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "JetBlue raises bag fees for third time in a year as fuel costs bite",
-    "link": "https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html",
-    "zeit": "2026-11-03T22:26:20+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Fannie Mae, Freddie Mac rally as Ackman presses for conservatorship exit",
-    "link": "https://www.cnbc.com/2026/11/03/ackman-fannie-mae-freddie-mac-conservatorship.html",
-    "zeit": "2026-11-03T20:52:14+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -638,14 +654,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Neue Cat-Bond-Boutique geht in Zürich an den Start",
-    "link": "https://www.finews.ch/news/finanzplatz/74288-catbonds-atmos-neugruendung-twelve-securis-matt-fischer-etienne-schwartz-martin-sennrich",
-    "zeit": "2026-11-03T06:29:01+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Expertin gibt Rat – Jobkiller KI: So treten Sie der Angst entgegen",
     "link": "https://www.srf.ch/news/schweiz/expertin-gibt-rat-jobkiller-ki-so-treten-sie-der-angst-entgegen",
     "zeit": "2026-11-03T06:18:25+00:00",
@@ -681,14 +689,6 @@
     "titel": "KI im Journalismus – Wie Schweizer Medienhäuser KI in der Berichterstattung einsetzen",
     "link": "https://www.srf.ch/news/wirtschaft/ki-im-journalismus-wie-schweizer-medienhaeuser-ki-in-der-berichterstattung-einsetzen",
     "zeit": "2026-11-02T04:52:37+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Pharmaindustrie – Medikamentenpreise: US-Preispolitik setzt die Schweiz unter Druck",
-    "link": "https://www.srf.ch/news/wirtschaft/pharmaindustrie-medikamentenpreise-us-preispolitik-setzt-die-schweiz-unter-druck",
-    "zeit": "2026-11-02T04:50:27+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
