@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-11-04T10:29:23+01:00",
+ "aktualisiert": "2026-11-04T11:39:14+01:00",
  "kernaussagen": [
-  "SMI +0.53%, Nikkei 225 −1.42% am schwächsten",
-  "Franken schwächer: EUR/CHF 0.9186 (+0.27%)",
-  "Gold +2.92% auf 4'055.60 USD/Unze · Brent über 100 USD"
+  "SMI +0.65%, Euro Stoxx 50 +1.50% führt",
+  "Franken schwächer: EUR/CHF 0.9195 (+0.37%)",
+  "Gold +2.94% auf 4'056.20 USD/Unze · Brent über 100 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14821.2099609375,
+   "kurs": 14839.5302734375,
    "vortag": 14743.08984375,
-   "veraenderung_pct": 0.5298761522545936,
+   "veraenderung_pct": 0.6541398764410511,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14810.660156,
     14802.519531,
     14743.089844,
-    14821.209961
+    14839.530273
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26085.119140625,
+   "kurs": 26198.2109375,
    "vortag": 25864.619140625,
-   "veraenderung_pct": 0.8525159361564505,
+   "veraenderung_pct": 1.289761102072573,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25818.210938,
     25981.089844,
     25864.619141,
-    26085.119141
+    26198.210938
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6210.39990234375,
+   "kurs": 6236.5,
    "vortag": 6144.56005859375,
-   "veraenderung_pct": 1.071514365913262,
+   "veraenderung_pct": 1.4962819230265767,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6131.310059,
     6176.060059,
     6144.560059,
-    6210.399902
+    6236.5
    ]
   },
   {
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9186000227928162,
+   "kurs": 0.9194899797439575,
    "vortag": 0.916100025177002,
-   "veraenderung_pct": 0.27289570430162335,
+   "veraenderung_pct": 0.3700419685394696,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92093,
     0.92013,
     0.9161,
-    0.9186
+    0.91949
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8161100149154663,
+   "kurs": 0.8172500133514404,
    "vortag": 0.8184000253677368,
-   "veraenderung_pct": -0.27981554023553956,
+   "veraenderung_pct": -0.14051954797773547,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82361,
     0.82477,
     0.8184,
-    0.81611
+    0.81725
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4055.60009765625,
+   "kurs": 4056.199951171875,
    "vortag": 3940.39990234375,
-   "veraenderung_pct": 2.923566088913443,
+   "veraenderung_pct": 2.9387892523103254,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     3898.899902,
     3969.600098,
     3940.399902,
-    4055.600098
+    4056.199951
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 102.79000091552734,
+   "kurs": 101.61000061035156,
    "vortag": 103.5999984741211,
-   "veraenderung_pct": -0.7818509367990778,
+   "veraenderung_pct": -1.9208473871422216,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     117.639999,
     104.769997,
     103.599998,
-    102.790001
+    101.610001
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 78255.1015625,
+   "kurs": 78414.1328125,
    "vortag": 77345.046875,
-   "veraenderung_pct": 1.1766166345089646,
+   "veraenderung_pct": 1.3822293484775816,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     78248.453125,
     76677.296875,
     77345.046875,
-    78255.101562
+    78414.132812
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 84.6500015258789,
+   "kurs": 84.68000030517578,
    "vortag": 84.41000366210938,
-   "veraenderung_pct": 0.28432395848509984,
+   "veraenderung_pct": 0.3198633234837933,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     84.699997,
     84.639999,
     84.410004,
-    84.650002
+    84.68
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 132.0800018310547,
+   "kurs": 132.1999969482422,
    "vortag": 131.5,
-   "veraenderung_pct": 0.4410660312202941,
+   "veraenderung_pct": 0.5323170709065961,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     133.779999,
     131.520004,
     131.5,
-    132.080002
+    132.199997
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 391.29998779296875,
+   "kurs": 389.3999938964844,
    "vortag": 391.0,
-   "veraenderung_pct": 0.07672322070813031,
+   "veraenderung_pct": -0.40920872212676374,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     403.399994,
     397.200012,
     391.0,
-    391.299988
+    389.399994
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 40.45000076293945,
+   "kurs": 40.70000076293945,
    "vortag": 39.470001220703125,
-   "veraenderung_pct": 2.482897167285336,
+   "veraenderung_pct": 3.116289597658173,
    "datum": "2026-11-04",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.240002,
     39.790001,
     39.470001,
-    40.450001
+    40.700001
    ]
   }
  ],
@@ -374,6 +374,46 @@
   ],
   "artikel": [
    {
+    "titel": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
+    "link": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html",
+    "zeit": "2026-11-04T10:35:14+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Textilbranche – Bangladesch erhöht Mindestlohn für Textilarbeiter nach Protesten",
+    "link": "https://www.srf.ch/news/wirtschaft/textilbranche-bangladesch-erhoeht-mindestlohn-fuer-textilarbeiter-nach-protesten",
+    "zeit": "2026-11-04T10:34:05+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "SpaceX, Tesla fall around 4% on Democrats' big win; AI stocks mixed",
+    "link": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
+    "zeit": "2026-11-04T10:31:32+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
+    "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+    "zeit": "2026-11-04T10:02:00+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Gold, silver and precious metals prices jump, dollar dips as Democrats take control of Congress",
+    "link": "https://www.cnbc.com/2026/11/04/gold-silver-platinum-dollar-midterms.html",
+    "zeit": "2026-11-04T09:59:56+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
     "titel": "Flucht in die kühlen Berge – Guter Sommer für Schweizer Bergbahnen",
     "link": "https://www.srf.ch/news/wirtschaft/flucht-in-die-kuehlen-berge-guter-sommer-fuer-schweizer-bergbahnen",
     "zeit": "2026-11-04T09:27:52+00:00",
@@ -382,25 +422,17 @@
     "sprache": "de"
    },
    {
-    "titel": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
-    "link": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html",
-    "zeit": "2026-11-04T09:23:27+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
+    "titel": "Auch eine lahme Ente kann unberechenbar sein",
+    "link": "https://www.finews.ch/news/finanzplatz/74327-usa-zwischenwahlen-midterm-elections-donald-trump-reaktionen",
+    "zeit": "2026-11-04T09:02:50+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans",
     "link": "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html",
     "zeit": "2026-11-04T08:56:45+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Gold, silver and precious metals prices jump, dollar dips as Democrats take control of Congress",
-    "link": "https://www.cnbc.com/2026/11/04/gold-silver-platinum-dollar-midterms.html",
-    "zeit": "2026-11-04T08:40:16+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
@@ -430,14 +462,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
-    "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
-    "zeit": "2026-11-04T07:27:48+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "«Unüberbrückbare Differenzen» – Knall bei Rieter: Designierter CEO stolpert über Bonus-Streit",
     "link": "https://www.srf.ch/news/wirtschaft/unueberbrueckbare-differenzen-knall-bei-rieter-designierter-ceo-stolpert-ueber-bonus-streit",
     "zeit": "2026-11-04T07:05:46+00:00",
@@ -452,6 +476,14 @@
     "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
+   },
+   {
+    "titel": "Americans have said 'NO TO WAR,' Iran speaker says as Democrats take Congress",
+    "link": "https://www.cnbc.com/2026/11/04/us-midterm-elections-iran-war-speaker.html",
+    "zeit": "2026-11-04T06:45:36+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
    },
    {
     "titel": "Wachablösung bei der Swiss Gold Safe",
@@ -476,6 +508,14 @@
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
+   },
+   {
+    "titel": "McDonald's is about to report earnings. Here's what to expect",
+    "link": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
+    "zeit": "2026-11-04T05:01:01+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
    },
    {
     "titel": "Von furioso bis decrescendo: Weshalb Donald Trump weiterhin für Unruhe sorgen wird",
@@ -550,30 +590,6 @@
     "sprache": "en"
    },
    {
-    "titel": "Google responds to political backlash over removing search from schools that ban AI",
-    "link": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
-    "zeit": "2026-11-04T01:07:01+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Jim Cramer sees signs of life in tech stocks — but not from the usual winners",
-    "link": "https://www.cnbc.com/2026/11/03/jim-cramer-sees-signs-of-life-in-tech-stocks-but-not-from-the-usual-winners.html",
-    "zeit": "2026-11-03T23:58:09+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
-    "link": "https://www.cnbc.com/2026/11/03/crowdstrikes-new-kill-switch-can-stop-rogue-ai-agents-in-their-tracks-ceo-says.html",
-    "zeit": "2026-11-03T23:37:07+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "DIE NEUESTEN ENTWICKLUNGEN - Signa-Insolvenz: René Benko steht erneut vor Gericht",
     "link": "https://www.nzz.ch/wirtschaft/signa-krise-die-wichtigsten-meldungen-ld.1767273",
     "zeit": "2026-11-03T15:35:48+00:00",
@@ -638,14 +654,6 @@
     "sprache": "de"
    },
    {
-    "titel": "J. Stern & Co. schliesst Zusammenschluss mit Genfer Vermögensverwalter ab",
-    "link": "https://www.finews.ch/news/finanzplatz/74300-j-stern-co-uebernahme-bvo-capital-finma-praesenz-in-der-schweiz",
-    "zeit": "2026-11-03T08:01:40+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Teuerung 2026 – Schweizer Inflation steigt im Oktober auf 1.5 Prozent",
     "link": "https://www.srf.ch/news/wirtschaft/teuerung-2026-schweizer-inflation-steigt-im-oktober-auf-1-5-prozent",
     "zeit": "2026-11-03T07:53:34+00:00",
@@ -681,14 +689,6 @@
     "titel": "Jahresbilanz – Apple macht 132 Milliarden Dollar Gewinn – ein neuer Rekord",
     "link": "https://www.srf.ch/news/wirtschaft/jahresbilanz-apple-macht-132-milliarden-dollar-gewinn-ein-neuer-rekord",
     "zeit": "2026-11-03T05:00:06+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Längere Lieferwege für Kaffee – Geopolitik macht Schweizer Kaffeebranche zu schaffen",
-    "link": "https://www.srf.ch/news/dialog/laengere-lieferwege-fuer-kaffee-geopolitik-macht-schweizer-kaffeebranche-zu-schaffen",
-    "zeit": "2026-11-02T11:00:29+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
