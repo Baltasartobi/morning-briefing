@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-11-05T13:09:08+01:00",
+ "aktualisiert": "2026-11-05T21:13:31+01:00",
  "kernaussagen": [
-  "SMI +0.00%, Nikkei 225 −1.79% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9178 (−0.05%)",
-  "Brent-Öl +2.10% auf 96.61 USD/Fass"
+  "SMI −0.37%, Nasdaq −5.11% am schwächsten",
+  "Franken stärker: EUR/CHF 0.9164 (−0.21%)",
+  "Bitcoin −5.54% auf 75'947 USD"
  ],
  "maerkte": [
   {
@@ -12,9 +12,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 15023.4697265625,
+   "kurs": 14967.73046875,
    "vortag": 15022.849609375,
-   "veraenderung_pct": 0.004127826634925391,
+   "veraenderung_pct": -0.36690203295787205,
    "datum": "2026-11-05",
    "ist_heute": true,
    "verlauf": [
@@ -22,7 +22,7 @@
     14802.519531,
     14743.089844,
     15022.849609,
-    15023.469727
+    14967.730469
    ]
   },
   {
@@ -31,9 +31,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 26642.51953125,
+   "kurs": 26325.009765625,
    "vortag": 26437.669921875,
-   "veraenderung_pct": 0.7748398780238253,
+   "veraenderung_pct": -0.42613496795639305,
    "datum": "2026-11-05",
    "ist_heute": true,
    "verlauf": [
@@ -41,7 +41,7 @@
     25981.089844,
     25864.619141,
     26437.669922,
-    26642.519531
+    26325.009766
    ]
   },
   {
@@ -50,9 +50,9 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6305.7001953125,
+   "kurs": 6231.5400390625,
    "vortag": 6265.7099609375,
-   "veraenderung_pct": 0.6382394752440179,
+   "veraenderung_pct": -0.5453479667591798,
    "datum": "2026-11-05",
    "ist_heute": true,
    "verlauf": [
@@ -60,7 +60,7 @@
     6176.060059,
     6144.560059,
     6265.709961,
-    6305.700195
+    6231.540039
    ]
   },
   {
@@ -69,17 +69,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7688.6201171875,
-   "vortag": 7568.919921875,
-   "veraenderung_pct": 1.5814699659663978,
-   "datum": "2026-11-04",
-   "ist_heute": false,
+   "kurs": 7379.6298828125,
+   "vortag": 7688.6201171875,
+   "veraenderung_pct": -4.018799598178468,
+   "datum": "2026-11-05",
+   "ist_heute": true,
    "verlauf": [
-    7720.390137,
     7580.069824,
     7541.399902,
     7568.919922,
-    7688.620117
+    7688.620117,
+    7379.629883
    ]
   },
   {
@@ -88,17 +88,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25736.509765625,
-   "vortag": 25372.009765625,
-   "veraenderung_pct": 1.4366224960776997,
-   "datum": "2026-11-04",
-   "ist_heute": false,
+   "kurs": 24421.21484375,
+   "vortag": 25736.509765625,
+   "veraenderung_pct": -5.110618859561821,
+   "datum": "2026-11-05",
+   "ist_heute": true,
    "verlauf": [
-    26184.720703,
     25437.0,
     25164.310547,
     25372.009766,
-    25736.509766
+    25736.509766,
+    24421.214844
    ]
   },
   {
@@ -107,17 +107,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 61077.8984375,
-   "vortag": 62188.62890625,
-   "veraenderung_pct": -1.7860668232844268,
-   "datum": "2026-11-05",
-   "ist_heute": true,
+   "kurs": 62188.62890625,
+   "vortag": 63081.859375,
+   "veraenderung_pct": -1.4159862718060579,
+   "datum": "2026-11-04",
+   "ist_heute": false,
    "verlauf": [
+    63954.191406,
     64659.46875,
     63290.109375,
     63081.859375,
-    62188.628906,
-    61077.898438
+    62188.628906
    ]
   }
  ],
@@ -128,9 +128,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9177799820899963,
+   "kurs": 0.9163699746131897,
    "vortag": 0.9182599782943726,
-   "veraenderung_pct": -0.052272364659489146,
+   "veraenderung_pct": -0.20582446429751045,
    "datum": "2026-11-05",
    "ist_heute": true,
    "verlauf": [
@@ -138,7 +138,7 @@
     0.92013,
     0.9161,
     0.91826,
-    0.91778
+    0.91637
    ]
   },
   {
@@ -147,9 +147,9 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8180000185966492,
+   "kurs": 0.8164799809455872,
    "vortag": 0.819350004196167,
-   "veraenderung_pct": -0.16476299415439932,
+   "veraenderung_pct": -0.3502804950120786,
    "datum": "2026-11-05",
    "ist_heute": true,
    "verlauf": [
@@ -157,7 +157,7 @@
     0.82477,
     0.8184,
     0.81935,
-    0.818
+    0.81648
    ]
   },
   {
@@ -166,9 +166,9 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4143.5,
+   "kurs": 4118.5,
    "vortag": 4073.0,
-   "veraenderung_pct": 1.7309108765038106,
+   "veraenderung_pct": 1.1171126933464226,
    "datum": "2026-11-05",
    "ist_heute": true,
    "verlauf": [
@@ -176,7 +176,7 @@
     3969.600098,
     3940.399902,
     4073.0,
-    4143.5
+    4118.5
    ]
   },
   {
@@ -185,9 +185,9 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 96.61000061035156,
+   "kurs": 98.37000274658203,
    "vortag": 94.62000274658203,
-   "veraenderung_pct": 2.103147121121185,
+   "veraenderung_pct": 3.9632211912353332,
    "datum": "2026-11-05",
    "ist_heute": true,
    "verlauf": [
@@ -195,7 +195,7 @@
     104.769997,
     103.599998,
     94.620003,
-    96.610001
+    98.370003
    ]
   },
   {
@@ -204,9 +204,9 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 80070.109375,
+   "kurs": 75947.0390625,
    "vortag": 80405.2890625,
-   "veraenderung_pct": -0.4168627355340515,
+   "veraenderung_pct": -5.544722308671202,
    "datum": "2026-11-05",
    "ist_heute": true,
    "verlauf": [
@@ -214,7 +214,7 @@
     76677.296875,
     77345.046875,
     80405.289062,
-    80070.109375
+    75947.039062
    ]
   }
  ],
@@ -257,17 +257,17 @@
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.894,
-   "vortag": 4.952,
-   "veraenderung_bp": -5.8,
-   "datum": "2026-11-04",
-   "ist_heute": false,
+   "wert": 4.837,
+   "vortag": 4.894,
+   "veraenderung_bp": -5.7,
+   "datum": "2026-11-05",
+   "ist_heute": true,
    "verlauf": [
-    4.989,
     4.929,
     4.894,
     4.952,
-    4.894
+    4.894,
+    4.837
    ]
   }
  ],
@@ -278,9 +278,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 85.55999755859375,
+   "kurs": 87.2300033569336,
    "vortag": 85.9000015258789,
-   "veraenderung_pct": -0.395813691787561,
+   "veraenderung_pct": 1.5483140947954555,
    "datum": "2026-11-05",
    "ist_heute": true,
    "verlauf": [
@@ -288,7 +288,7 @@
     84.639999,
     84.410004,
     85.900002,
-    85.559998
+    87.230003
    ]
   },
   {
@@ -297,9 +297,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 133.52000427246094,
+   "kurs": 134.1199951171875,
    "vortag": 134.25999450683594,
-   "veraenderung_pct": -0.5511621217423213,
+   "veraenderung_pct": -0.10427483641920476,
    "datum": "2026-11-05",
    "ist_heute": true,
    "verlauf": [
@@ -307,7 +307,7 @@
     131.520004,
     131.5,
     134.259995,
-    133.520004
+    134.119995
    ]
   },
   {
@@ -316,9 +316,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 393.6000061035156,
+   "kurs": 391.70001220703125,
    "vortag": 395.8999938964844,
-   "veraenderung_pct": -0.5809517121564078,
+   "veraenderung_pct": -1.060869349382032,
    "datum": "2026-11-05",
    "ist_heute": true,
    "verlauf": [
@@ -326,7 +326,7 @@
     397.200012,
     391.0,
     395.899994,
-    393.600006
+    391.700012
    ]
   },
   {
@@ -335,9 +335,9 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 41.189998626708984,
+   "kurs": 39.88999938964844,
    "vortag": 41.279998779296875,
-   "veraenderung_pct": -0.2180236319023976,
+   "veraenderung_pct": -3.3672466830245273,
    "datum": "2026-11-05",
    "ist_heute": true,
    "verlauf": [
@@ -345,7 +345,7 @@
     39.790001,
     39.470001,
     41.279999,
-    41.189999
+    39.889999
    ]
   }
  ],
@@ -374,52 +374,172 @@
   ],
   "artikel": [
    {
-    "titel": "Bank of England hikes for the first time since the Iran war, lifting interest rate to 4%",
-    "link": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
-    "zeit": "2026-11-05T12:04:49+00:00",
+    "titel": "AI meltdown: Chip stocks and neoclouds plunge, pushing Nasdaq to worst day since April 2025",
+    "link": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
+    "zeit": "2026-11-05T20:08:49+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "World's largest olive oil company plummets 18% after rivals agree to takeover deal",
-    "link": "https://www.cnbc.com/2026/11/05/deoleo-olive-oil-takeover-dcoop-acesur.html",
-    "zeit": "2026-11-05T11:42:28+00:00",
+    "titel": "IRS announces bigger estate and gift tax exemption for 2027",
+    "link": "https://www.cnbc.com/2026/11/05/2027-estate-and-gift-tax-exemption-irs-raises-limit.html",
+    "zeit": "2026-11-05T19:54:26+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "How the midterms could fuel the K-shaped AI trade",
-    "link": "https://www.cnbc.com/2026/11/05/ai-data-centers-midterms-capacity.html",
-    "zeit": "2026-11-05T11:01:39+00:00",
+    "titel": "IRS announces new federal income tax brackets for 2027",
+    "link": "https://www.cnbc.com/2026/11/05/2027-federal-tax-brackets.html",
+    "zeit": "2026-11-05T19:53:13+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Consumers are spending on physical gifts even as travel tops wish lists, Visa survey finds",
-    "link": "https://www.cnbc.com/2026/11/05/visa-holiday-shopping-physical-gifts-travel.html",
-    "zeit": "2026-11-05T11:00:01+00:00",
+    "titel": "Wall Street's fear gauge surges the most since April. Why traders think it should be even higher",
+    "link": "https://www.cnbc.com/2026/11/05/wall-streets-fear-gauge-surges-the-most-since-april-why-traders-think-it-should-be-even-higher.html",
+    "zeit": "2026-11-05T19:20:21+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "OpenAI pledges to pay for data center power after election highlights AI concerns",
-    "link": "https://www.cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html",
-    "zeit": "2026-11-05T10:00:01+00:00",
+    "titel": "Stellenmeldepflicht – Mehr arbeitslose Verkäuferinnen und Verkäufer im Detailhandel",
+    "link": "https://www.srf.ch/news/wirtschaft/stellenmeldepflicht-mehr-arbeitslose-verkaeuferinnen-und-verkaeufer-im-detailhandel",
+    "zeit": "2026-11-05T19:17:16+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Trump's energy deals are about to face a wave of investigations by Democrats",
+    "link": "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html",
+    "zeit": "2026-11-05T19:13:06+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Rheinmetall shares plunge 17% after outlook cut as military contracts stall",
-    "link": "https://www.cnbc.com/2026/11/05/rheinmetall-stock-outlook-sales-germany.html",
-    "zeit": "2026-11-05T09:06:40+00:00",
+    "titel": "Blue Origin pushes launch to January 2027 as it races to rebuild damaged launch pad",
+    "link": "https://www.cnbc.com/2026/11/05/blue-origin-launch-new-glenn.html",
+    "zeit": "2026-11-05T19:02:32+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "HSA-eligible health plans in 2027: What to know about tax savings vs. higher deductibles",
+    "link": "https://www.cnbc.com/2026/11/05/hsa-health-plan-2027.html",
+    "zeit": "2026-11-05T18:57:08+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Voters rejected AI data centers over resource concerns. Here's why measuring water usage is hard",
+    "link": "https://www.cnbc.com/2026/11/05/meta-spacex-ai-data-centers-use-millions-of-gallons-of-water-a-day.html",
+    "zeit": "2026-11-05T18:52:21+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "We're dipping into our large cash pile to buy this bank on Thursday's sell-off",
+    "link": "https://www.cnbc.com/investingclub/2026/11/05/were-dipping-into-our-cash-to-buy-this-bank-on-thursdays-sell-off.html",
+    "zeit": "2026-11-05T18:29:21+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Das Gericht glaubt René Benko auch beim vierten Mal nicht. Sein einstiger Förderer rechnet mit ihm ab",
+    "link": "https://www.nzz.ch/wirtschaft/zwei-jahre-haft-zusaetzlich-auch-beim-vierten-mal-glaubt-das-gericht-rene-benko-nicht-ld.10055551",
+    "zeit": "2026-11-05T17:50:47+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Democrats to probe JPMorgan's relationship with Jeffrey Epstein when they take Senate control",
+    "link": "https://www.cnbc.com/2026/11/05/jpmorgan-epstein-democrats-erdoes-midterm-election.html",
+    "zeit": "2026-11-05T17:42:29+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "DIE NEUESTEN ENTWICKLUNGEN - Signa-Insolvenz: René Benko ist wegen Millionenbetrugs verurteilt worden",
+    "link": "https://www.nzz.ch/wirtschaft/signa-krise-die-wichtigsten-meldungen-ld.1767273",
+    "zeit": "2026-11-05T16:47:57+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Russische Aktivistengruppen bekennen sich zum Cyberangriff auf Kühlregale in Europa. Doch stimmt das?",
+    "link": "https://www.nzz.ch/pro/russische-aktivistengruppen-bekennen-sich-zum-cyberangriff-auf-kuehlregale-in-europa-doch-stimmt-das-vieles-bleibt-raetselhaft-ld.10054961",
+    "zeit": "2026-11-05T15:55:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Freiheit oder Sozialismus: Das sei die zentrale Fragestellung dieser Zeit, sagt Friedrich Merz",
+    "link": "https://www.nzz.ch/wirtschaft/freiheit-oder-sozialismus-das-sei-die-zentrale-fragestellung-dieser-zeit-sagt-friedrich-merz-ld.10055326",
+    "zeit": "2026-11-05T15:32:42+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Mehrwertsteuer im Vergleich – Warum die Schweiz besser dasteht als andere Länder",
+    "link": "https://www.srf.ch/news/mehrwertsteuer-im-vergleich-warum-die-schweiz-besser-dasteht-als-andere-laender",
+    "zeit": "2026-11-05T15:24:19+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Die Schweizer Börse ist auf Rekordhoch – sie profitiert von der Krise im Nahen Osten",
+    "link": "https://www.nzz.ch/wirtschaft/die-schweizer-boerse-ist-auf-rekordhoch-sie-profitiert-von-der-krise-im-nahen-osten-ld.10055381",
+    "zeit": "2026-11-05T13:36:13+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Women for the Board wählt neuen Vorstand",
+    "link": "https://www.finews.ch/news/finanzplatz/74356-women-for-the-boaed-vorstand-mitgliedsversammlung",
+    "zeit": "2026-11-05T12:55:53+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Kanzlei Ramelet.Legal holt Wirtschaftsanwältin als Partnerin",
+    "link": "https://www.finews.ch/news/finanzplatz/74355-kanzlei-eva-schott-ramelet-legal-partnerin",
+    "zeit": "2026-11-05T12:25:57+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Indosuez-Anlagechef: «Die EZB könnte 2027 die Zinsen sogar senken»",
+    "link": "https://www.finews.ch/news/finanzplatz/74353-indosuez-julien-descombes-ezb-zinsen-2027-zinssenkung-marktausblick",
+    "zeit": "2026-11-05T11:59:03+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Ex-Société-Générale-Banker gründet Finanzboutique in Genf",
+    "link": "https://www.finews.ch/news/finanzplatz/74352-alpha-street-financial-frederic-oculy-boutique",
+    "zeit": "2026-11-05T10:10:23+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "«Bundesrat» Martin Schlegel gegen die UBS",
@@ -430,22 +550,6 @@
     "sprache": "de"
    },
    {
-    "titel": "From tanks to drones: South Korea’s defense firms face a new battlefield test",
-    "link": "https://www.cnbc.com/2026/11/05/south-korea-defense-weapon-war-stocks-fall.html",
-    "zeit": "2026-11-05T08:07:43+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Nintendo Switch 2 sales plunge 41% as price hikes and memory crunch bite",
-    "link": "https://www.cnbc.com/2026/11/05/nintendo-earnings-switch-2-sales.html",
-    "zeit": "2026-11-05T07:30:58+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Degussa luchst Konkurrenten den Finanzchef ab",
     "link": "https://www.finews.ch/news/finanzplatz/74348-degussa-florian-hoeller-neuer-cfo-ex-philoro",
     "zeit": "2026-11-05T07:27:04+00:00",
@@ -454,28 +558,12 @@
     "sprache": "de"
    },
    {
-    "titel": "NextDC shares soar nearly 51% after Goodman, Digital Realty stake purchases",
-    "link": "https://www.cnbc.com/2026/11/05/nextdc-goodman-group-digital-realty-data-centers-.html",
-    "zeit": "2026-11-05T07:15:43+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Syz-Bankerin wechselt nach Abu Dhabi",
     "link": "https://www.finews.ch/news/banken/74343-arab-bank-abu-dhabi-valerie-noel-ceo-expansion",
     "zeit": "2026-11-05T07:04:26+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
-   },
-   {
-    "titel": "What the Democratic midterms sweep changes for U.S.-China relations",
-    "link": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
-    "zeit": "2026-11-05T06:54:52+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
    },
    {
     "titel": "Pax besetzt Führungsposition mit Mann von visavis",
@@ -505,38 +593,6 @@
     "titel": "Schweiz nimmt Alischer Usmanow von der Sanktionsliste",
     "link": "https://www.finews.ch/news/finanzplatz/74340-alischer-usmanow-sanktionen-schweiz-aufgehoben-fridman-bgh-eu-rat-klage",
     "zeit": "2026-11-05T06:17:11+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Compagnie Financière Tradition wächst auch im dritten Quartal",
-    "link": "https://www.finews.ch/news/finanzplatz/74339-cft-umsatz-q3-9m-2026",
-    "zeit": "2026-11-05T06:06:29+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Aargauische Kantonalbank verpflichtet den CEO der Baloise Bank",
-    "link": "https://www.finews.ch/news/banken/74337-aargauische-kantonalbank-thomas-schoeb-dieter-widmer-baloise-direktionspraesident",
-    "zeit": "2026-11-05T05:55:02+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Valiant steigert Konzerngewinn",
-    "link": "https://www.finews.ch/news/banken/74335-valiant-ergebnis-9m-2026",
-    "zeit": "2026-11-05T05:48:35+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Swiss Re steigert Gewinn in den ersten neun Monaten",
-    "link": "https://www.finews.ch/news/versicherungen/74334-swiss-re-ergebnis-9m-2026",
-    "zeit": "2026-11-05T05:29:54+00:00",
     "quelle": "finews.ch",
     "gruppe": "Schweiz",
     "sprache": "de"
@@ -590,14 +646,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Midterms in den USA: Die blaue Welle führt an den Börsen zu Rekordwerten – doch nicht alle Aktien profitieren",
-    "link": "https://www.nzz.ch/wirtschaft/midterms-in-den-usa-die-blaue-welle-verunsichert-die-boersen-ld.10053926",
-    "zeit": "2026-11-04T11:20:38+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Textilbranche – Bangladesch erhöht Mindestlohn für Textilarbeiter nach Protesten",
     "link": "https://www.srf.ch/news/wirtschaft/textilbranche-bangladesch-erhoeht-mindestlohn-fuer-textilarbeiter-nach-protesten",
     "zeit": "2026-11-04T10:34:05+00:00",
@@ -630,38 +678,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Von furioso bis decrescendo: Weshalb Donald Trump weiterhin für Unruhe sorgen wird",
-    "link": "https://www.nzz.ch/pro/furioso-oder-decrescendowie-donald-trump-jetzt-durchregieren-koennte-ld.10052013",
-    "zeit": "2026-11-04T04:31:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Google liess in Finnland ohne Erlaubnis 530 Hektaren Wald roden. Wie konnte es so weit kommen?",
-    "link": "https://www.nzz.ch/wirtschaft/google-laesst-in-finnland-illegal-wald-roden-skandal-um-530-hektar-ld.10046380",
-    "zeit": "2026-11-04T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "INTERVIEW - «Das grösste Problem von Verwaltungsräten ist, dass niemand widerspricht»",
-    "link": "https://www.nzz.ch/wirtschaft/das-groesste-problem-von-verwaltungsraeten-ist-dass-niemand-widerspricht-ld.10039538",
-    "zeit": "2026-11-04T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Der «Speckgürtel» triumphiert: Kluge Hauskäufer und Investoren sollten einen grossen Bogen um die Städte machen",
-    "link": "https://www.nzz.ch/wirtschaft/der-speckguertel-triumphiert-kluge-hauskaeufer-und-investoren-sollten-einen-grossen-bogen-um-die-staedte-machen-ld.10038459",
-    "zeit": "2026-11-04T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "UBS-Lohnumfrage – Schweizer Löhne steigen 2027 nur leicht",
     "link": "https://www.srf.ch/news/schweiz/ubs-lohnumfrage-schweizer-loehne-steigen-2027-nur-leicht",
     "zeit": "2026-11-03T10:35:08+00:00",
@@ -673,22 +689,6 @@
     "titel": "Teuerung 2026 – Schweizer Inflation steigt im Oktober auf 1.5 Prozent",
     "link": "https://www.srf.ch/news/wirtschaft/teuerung-2026-schweizer-inflation-steigt-im-oktober-auf-1-5-prozent",
     "zeit": "2026-11-03T07:53:34+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Trotz hoher Treibstoffkosten – Swiss steigert Gewinn leicht",
-    "link": "https://www.srf.ch/news/wirtschaft/trotz-hoher-treibstoffkosten-swiss-steigert-gewinn-leicht",
-    "zeit": "2026-11-03T07:11:36+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Expertin gibt Rat – Jobkiller KI: So treten Sie der Angst entgegen",
-    "link": "https://www.srf.ch/news/schweiz/expertin-gibt-rat-jobkiller-ki-so-treten-sie-der-angst-entgegen",
-    "zeit": "2026-11-03T06:18:25+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
