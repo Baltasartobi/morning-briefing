@@ -1,9 +1,9 @@
 {
- "aktualisiert": "2026-11-06T20:15:39+01:00",
+ "aktualisiert": "2026-11-09T13:44:13+01:00",
  "kernaussagen": [
-  "SMI −1.14%, DAX −1.92% am schwächsten",
-  "Franken stärker: EUR/CHF 0.9140 (−0.35%)",
-  "Gold −0.72% auf 4'083.80 USD/Unze"
+  "SMI +0.51%, Nikkei 225 +2.33% führt",
+  "Franken schwächer: EUR/CHF 0.9162 (+0.06%)",
+  "Brent-Öl −3.45% auf 94.93 USD/Fass"
  ],
  "maerkte": [
   {
@@ -12,17 +12,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 14796.5,
-   "vortag": 14967.73046875,
-   "veraenderung_pct": -1.1439975426301263,
-   "datum": "2026-11-06",
+   "kurs": 14872.66015625,
+   "vortag": 14796.5,
+   "veraenderung_pct": 0.5147173740411626,
+   "datum": "2026-11-09",
    "ist_heute": true,
    "verlauf": [
-    14802.519531,
     14743.089844,
     15022.849609,
     14967.730469,
-    14796.5
+    14796.5,
+    14872.660156
    ]
   },
   {
@@ -31,17 +31,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 25820.359375,
-   "vortag": 26325.009765625,
-   "veraenderung_pct": -1.9169998230502805,
-   "datum": "2026-11-06",
+   "kurs": 26076.779296875,
+   "vortag": 25820.359375,
+   "veraenderung_pct": 0.9930919943867078,
+   "datum": "2026-11-09",
    "ist_heute": true,
    "verlauf": [
-    25981.089844,
     25864.619141,
     26437.669922,
     26325.009766,
-    25820.359375
+    25820.359375,
+    26076.779297
    ]
   },
   {
@@ -50,17 +50,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 6170.490234375,
-   "vortag": 6231.5400390625,
-   "veraenderung_pct": -0.9796904826866015,
-   "datum": "2026-11-06",
+   "kurs": 6246.02978515625,
+   "vortag": 6170.490234375,
+   "veraenderung_pct": 1.2242066337035729,
+   "datum": "2026-11-09",
    "ist_heute": true,
    "verlauf": [
-    6176.060059,
     6144.560059,
     6265.709961,
     6231.540039,
-    6170.490234
+    6170.490234,
+    6246.029785
    ]
   },
   {
@@ -69,17 +69,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 7410.75,
+   "kurs": 7376.85986328125,
    "vortag": 7353.72998046875,
-   "veraenderung_pct": 0.7753890839437005,
+   "veraenderung_pct": 0.3145326640212831,
    "datum": "2026-11-06",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     7541.399902,
     7568.919922,
     7688.620117,
     7353.72998,
-    7410.75
+    7376.859863
    ]
   },
   {
@@ -88,17 +88,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 24683.681640625,
+   "kurs": 24579.4296875,
    "vortag": 24315.0,
-   "veraenderung_pct": 1.5162724269997874,
+   "veraenderung_pct": 1.0875167077935455,
    "datum": "2026-11-06",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     25164.310547,
     25372.009766,
     25736.509766,
     24315.0,
-    24683.681641
+    24579.429688
    ]
   },
   {
@@ -107,17 +107,17 @@
    "einheit": "",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 61077.8984375,
-   "vortag": 62188.62890625,
-   "veraenderung_pct": -1.7860668232844268,
-   "datum": "2026-11-05",
-   "ist_heute": false,
+   "kurs": 58775.5,
+   "vortag": 57434.76953125,
+   "veraenderung_pct": 2.3343533537128813,
+   "datum": "2026-11-09",
+   "ist_heute": true,
    "verlauf": [
-    64659.46875,
-    63290.109375,
     63081.859375,
     62188.628906,
-    61077.898438
+    61077.898438,
+    57434.769531,
+    58775.5
    ]
   }
  ],
@@ -128,17 +128,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.9140499830245972,
-   "vortag": 0.9172599911689758,
-   "veraenderung_pct": -0.3499561929314887,
-   "datum": "2026-11-06",
+   "kurs": 0.9161700010299683,
+   "vortag": 0.9156000018119812,
+   "veraenderung_pct": 0.06225417396887867,
+   "datum": "2026-11-09",
    "ist_heute": true,
    "verlauf": [
-    0.92013,
     0.9161,
     0.91826,
     0.91726,
-    0.91405
+    0.9156,
+    0.91617
    ]
   },
   {
@@ -147,17 +147,17 @@
    "einheit": "",
    "dezimalen": 4,
    "verfuegbar": true,
-   "kurs": 0.8202999830245972,
-   "vortag": 0.8164799809455872,
-   "veraenderung_pct": 0.4678623074855892,
-   "datum": "2026-11-06",
+   "kurs": 0.818880021572113,
+   "vortag": 0.8153799772262573,
+   "veraenderung_pct": 0.42925316338551234,
+   "datum": "2026-11-09",
    "ist_heute": true,
    "verlauf": [
-    0.82477,
     0.8184,
     0.81935,
     0.81648,
-    0.8203
+    0.81538,
+    0.81888
    ]
   },
   {
@@ -166,17 +166,17 @@
    "einheit": "USD/Unze",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 4083.800048828125,
-   "vortag": 4113.5,
-   "veraenderung_pct": -0.7220116973836177,
-   "datum": "2026-11-06",
+   "kurs": 4124.0,
+   "vortag": 4074.89990234375,
+   "veraenderung_pct": 1.2049399698875751,
+   "datum": "2026-11-09",
    "ist_heute": true,
    "verlauf": [
-    3969.600098,
     3940.399902,
     4073.0,
     4113.5,
-    4083.800049
+    4074.899902,
+    4124.0
    ]
   },
   {
@@ -185,17 +185,17 @@
    "einheit": "USD/Fass",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 98.18000030517578,
-   "vortag": 98.29000091552734,
-   "veraenderung_pct": -0.11191434461995664,
-   "datum": "2026-11-06",
+   "kurs": 94.93000030517578,
+   "vortag": 98.31999969482422,
+   "veraenderung_pct": -3.44792453231354,
+   "datum": "2026-11-09",
    "ist_heute": true,
    "verlauf": [
-    104.769997,
     103.599998,
     94.620003,
     98.290001,
-    98.18
+    98.32,
+    94.93
    ]
   },
   {
@@ -204,17 +204,17 @@
    "einheit": "USD",
    "dezimalen": 0,
    "verfuegbar": true,
-   "kurs": 75651.3515625,
-   "vortag": 75942.125,
-   "veraenderung_pct": -0.38288820269383184,
-   "datum": "2026-11-06",
+   "kurs": 74697.28125,
+   "vortag": 74584.6484375,
+   "veraenderung_pct": 0.15101339868133223,
+   "datum": "2026-11-09",
    "ist_heute": true,
    "verlauf": [
-    76677.296875,
-    77345.046875,
-    80405.289062,
     75942.125,
-    75651.351562
+    75746.929688,
+    75747.578125,
+    74584.648438,
+    74697.28125
    ]
   }
  ],
@@ -223,51 +223,51 @@
    "name": "Schweiz",
    "quelle": "snb",
    "verfuegbar": true,
-   "wert": 0.475,
-   "vortag": 0.525,
-   "veraenderung_bp": -5.0,
-   "datum": "2026-11-05",
+   "wert": 0.45,
+   "vortag": 0.475,
+   "veraenderung_bp": -2.5,
+   "datum": "2026-11-06",
    "ist_heute": false,
    "verlauf": [
-    0.505,
     0.492,
     0.509,
     0.525,
-    0.475
+    0.475,
+    0.45
    ]
   },
   {
    "name": "Deutschland",
    "quelle": "bundesbank",
    "verfuegbar": true,
-   "wert": 3.29,
-   "vortag": 3.33,
-   "veraenderung_bp": -4.0,
-   "datum": "2026-11-06",
+   "wert": 3.33,
+   "vortag": 3.29,
+   "veraenderung_bp": 4.0,
+   "datum": "2026-11-09",
    "ist_heute": true,
    "verlauf": [
-    3.37,
     3.38,
     3.38,
     3.33,
-    3.29
+    3.29,
+    3.33
    ]
   },
   {
    "name": "USA",
    "quelle": "yahoo",
    "verfuegbar": true,
-   "wert": 4.851,
+   "wert": 4.859,
    "vortag": 4.837,
-   "veraenderung_bp": 1.4,
+   "veraenderung_bp": 2.2,
    "datum": "2026-11-06",
-   "ist_heute": true,
+   "ist_heute": false,
    "verlauf": [
     4.894,
     4.952,
     4.894,
     4.837,
-    4.851
+    4.859
    ]
   }
  ],
@@ -278,17 +278,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 85.8499984741211,
-   "vortag": 87.2300033569336,
-   "veraenderung_pct": -1.5820300695916556,
-   "datum": "2026-11-06",
+   "kurs": 85.54000091552734,
+   "vortag": 85.8499984741211,
+   "veraenderung_pct": -0.36109209563608413,
+   "datum": "2026-11-09",
    "ist_heute": true,
    "verlauf": [
-    84.639999,
     84.410004,
     85.900002,
     87.230003,
-    85.849998
+    85.849998,
+    85.540001
    ]
   },
   {
@@ -297,17 +297,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 133.0800018310547,
-   "vortag": 134.1199951171875,
-   "veraenderung_pct": -0.775420014908379,
-   "datum": "2026-11-06",
+   "kurs": 134.4600067138672,
+   "vortag": 133.0800018310547,
+   "veraenderung_pct": 1.0369738982754395,
+   "datum": "2026-11-09",
    "ist_heute": true,
    "verlauf": [
-    131.520004,
     131.5,
     134.259995,
     134.119995,
-    133.080002
+    133.080002,
+    134.460007
    ]
   },
   {
@@ -316,17 +316,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 390.29998779296875,
-   "vortag": 391.70001220703125,
-   "veraenderung_pct": -0.35742261180286006,
-   "datum": "2026-11-06",
+   "kurs": 397.29998779296875,
+   "vortag": 390.29998779296875,
+   "veraenderung_pct": 1.7934922415916432,
+   "datum": "2026-11-09",
    "ist_heute": true,
    "verlauf": [
-    397.200012,
     391.0,
     395.899994,
     391.700012,
-    390.299988
+    390.299988,
+    397.299988
    ]
   },
   {
@@ -335,17 +335,17 @@
    "einheit": "CHF",
    "dezimalen": 2,
    "verfuegbar": true,
-   "kurs": 39.540000915527344,
-   "vortag": 39.88999938964844,
-   "veraenderung_pct": -0.8774090736434537,
-   "datum": "2026-11-06",
+   "kurs": 39.5099983215332,
+   "vortag": 39.540000915527344,
+   "veraenderung_pct": -0.07587909281600025,
+   "datum": "2026-11-09",
    "ist_heute": true,
    "verlauf": [
-    39.790001,
     39.470001,
     41.279999,
     39.889999,
-    39.540001
+    39.540001,
+    39.509998
    ]
   }
  ],
@@ -374,60 +374,276 @@
   ],
   "artikel": [
    {
-    "titel": "Fake job interview scams like the one that hit Binance are getting more sophisticated. Here are the new signs to watch for",
-    "link": "https://www.cnbc.com/make-it/2026/11/06/binance-hack-fake-job-interview-scams.html",
-    "zeit": "2026-11-06T19:09:56+00:00",
+    "titel": "Skandal beim Chiphersteller Nvidia: Die Affäre des CEO Jensen Huang ist wohl ein Fall von Industriespionage",
+    "link": "https://www.nzz.ch/wirtschaft/nvidia-chef-huang-hatte-mutmasslich-eine-affaere-mit-einer-chinesischen-spionin-das-unternehmen-leitet-nun-eine-untersuchung-ein-ld.10058205",
+    "zeit": "2026-11-09T12:00:55+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Restaurant chains refocus on food quality to bring back diners",
+    "link": "https://www.cnbc.com/2026/11/09/restaurant-chains-better-food-diners.html",
+    "zeit": "2026-11-09T12:00:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
-    "link": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
-    "zeit": "2026-11-06T19:09:49+00:00",
+    "titel": "CoreWeave confronts 'doom cycle' narrative as neocloud credit risk overshadows growth",
+    "link": "https://www.cnbc.com/2026/11/09/coreweave-debt-credit-risk-neoclouds.html",
+    "zeit": "2026-11-09T12:00:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
-    "link": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
-    "zeit": "2026-11-06T19:05:00+00:00",
+    "titel": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
+    "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
+    "zeit": "2026-11-09T12:00:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Data center double-down: Hassett says blue wave won't stop AI build-out",
-    "link": "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
-    "zeit": "2026-11-06T18:54:22+00:00",
+    "titel": "Essenslieferung – Just Eat streicht in der Schweiz 373 Stellen",
+    "link": "https://www.srf.ch/news/wirtschaft/essenslieferung-just-eat-streicht-in-der-schweiz-373-stellen",
+    "zeit": "2026-11-09T11:35:27+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
+    "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+    "zeit": "2026-11-09T11:26:45+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
-    "link": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html",
-    "zeit": "2026-11-06T18:40:58+00:00",
+    "titel": "«Frieden und soziale Sicherheit» statt massenhafter Ausschaffungen? Nach den Midterms streitet die AfD über Donald Trump",
+    "link": "https://www.nzz.ch/deutschland/politik/afd-streitet-ueber-trump-frieden-und-soziale-sicherheit-statt-remigration-ld.10058437",
+    "zeit": "2026-11-09T11:16:05+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "MELDUNGEN WIRTSCHAFT - Just Eat streicht in der Schweiz 373 Stellen +++ Vodafone baut in Deutschland rund 2300 Stellen ab",
+    "link": "https://www.nzz.ch/wirtschaft/wirtschaft-die-neuesten-meldungen-ld.10053841",
+    "zeit": "2026-11-09T11:15:34+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Rubio sees little hope of diplomatic breakthrough to Mideast deadlock amid 'outrageous' Iranian demands",
+    "link": "https://www.cnbc.com/2026/11/09/us-iran-war-trump-hormuz.html",
+    "zeit": "2026-11-09T11:09:14+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "AI crush is powering one stock to sky-high valuations",
-    "link": "https://www.cnbc.com/2026/11/06/ai-crush-is-powering-one-stock-to-sky-high-valuations.html",
-    "zeit": "2026-11-06T18:15:44+00:00",
+    "titel": "Worldline lanciert neues Zahl-Terminal",
+    "link": "https://www.finews.ch/news/finanzplatz/74384-worldline-neues-zahlterminal",
+    "zeit": "2026-11-09T11:02:43+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Congress returns with government funding, Pete Hegseth and the debt limit on the agenda",
+    "link": "https://www.cnbc.com/2026/11/09/congress-government-funding-debt-limit-elections.html",
+    "zeit": "2026-11-09T11:00:01+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
    },
    {
-    "titel": "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote",
-    "link": "https://www.cnbc.com/2026/11/06/mississippi-senate-ty-pinkins-colom-hyde-smith.html",
-    "zeit": "2026-11-06T18:03:13+00:00",
+    "titel": "Unicredit will Kontrolle bei Commerzbank so schnell wie möglich",
+    "link": "https://www.finews.ch/news/banken/74379-unicredit-commerzbank-ergebnis-q3-2026",
+    "zeit": "2026-11-09T09:13:12+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "From supermarket fridges to passenger flights, a wave of threats is testing Europe's defenses",
+    "link": "https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html",
+    "zeit": "2026-11-09T08:59:16+00:00",
     "quelle": "CNBC",
     "gruppe": "International",
     "sprache": "en"
+   },
+   {
+    "titel": "Tückische Liebschaft – Nvidia-Chef hatte Affäre mit möglicher chinesischer Spionin",
+    "link": "https://www.srf.ch/news/international/tueckische-liebschaft-nvidia-chef-hatte-affaere-mit-moeglicher-chinesischer-spionin",
+    "zeit": "2026-11-09T08:50:09+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Schweizer Sicherheit, internationale Renditen: Was im Geldmarkt möglich ist",
+    "link": "https://www.finews.ch/news/finanzplatz/74376-schweizer-kreditqualitaet-geldmarkt-rendite-qcam-zkb-cosmofunding-business-lunch-zug",
+    "zeit": "2026-11-09T08:16:37+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Economiesuisse fordert wieder einmal Bürokratieabbau",
+    "link": "https://www.finews.ch/news/finanzplatz/74375-economiesuisse-buerokratieabbau-administrative-belastung-buerokratiemonitor",
+    "zeit": "2026-11-09T08:09:08+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Bremsklotz Bürokratie: Schweizer Unternehmen klagen über eine stark steigende administrative Belastung",
+    "link": "https://www.nzz.ch/wirtschaft/bremsklotz-buerokratie-schweizer-unternehmen-klagen-ueber-eine-stark-steigende-administrative-belastung-ld.10056282",
+    "zeit": "2026-11-09T08:00:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Immobilieninvestoren sehen Regulierung als grösstes Risiko",
+    "link": "https://www.finews.ch/news/finanzplatz/74373-studie-der-hochschule-luzern-schweizer-immobilieninvestoren-steigende-zinsen-schwaechere-konjunktur-strengere-mieterschutz-und-bauvorschriften-pensionskassen-immobilienanlagen-ausbauen",
+    "zeit": "2026-11-09T07:26:27+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Forvis Mazars jagt EY Treasury-Spezialisten ab",
+    "link": "https://www.finews.ch/news/finanzplatz/74372-forvis-mazars-sven-goeggel-ey-treasury-plattform",
+    "zeit": "2026-11-09T07:05:42+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Generali Investments Switzerland ernennt neuen Finanzchef",
+    "link": "https://www.finews.ch/news/versicherungen/74370-generali-investments-switzerland-oezguer-acili-chief-financial-officer",
+    "zeit": "2026-11-09T06:27:23+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Goldman Sachs: Fünf Schweizer rücken in Partnerkreis auf",
+    "link": "https://www.finews.ch/news/banken/74369-goldman-sachs-neue-partner-gaudenz-eichenberger-christian-beerli-sabine-wick-guillaume-banderet-frederic-pripp",
+    "zeit": "2026-11-09T06:04:15+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "KI und Datensicherheit: Warum die Schweiz zum Standortvorteil wird",
+    "link": "https://www.finews.ch/news/finanzplatz/74368-kuenstliche-intelligenz-ki-datensicherheit-schweiz-lokale-modelle-speicherchips-janoschek",
+    "zeit": "2026-11-09T05:57:59+00:00",
+    "quelle": "finews.ch",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "KOMMENTAR - Europa braucht neue Prioritäten in der Klimapolitik",
+    "link": "https://www.nzz.ch/meinung/europa-braucht-mehr-sicherheit-und-wirtschaftlichkeit-in-der-energieversorgung-ld.10052897",
+    "zeit": "2026-11-09T04:35:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Wegen der Krawalle musste die Art Basel Paris abgebrochen werden – nun fordern Kunsthändler Schadenersatz",
+    "link": "https://www.nzz.ch/wirtschaft/vorzeitig-beendete-art-basel-paris-galerien-fordern-entschaedigung-ld.10055353",
+    "zeit": "2026-11-09T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "800 Gesetze pro Jahr: Die dynamische Rechtsübernahme überfordert die EWR-Staaten – das droht auch der Schweiz",
+    "link": "https://www.nzz.ch/wirtschaft/800-gesetze-pro-jahr-die-dynamische-rechtsuebernahme-ueberfordert-die-ewr-staaten-das-droht-auch-der-schweiz-ld.10053137",
+    "zeit": "2026-11-09T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Tiefe Steuern sind nicht alles: wo die Reichen in der Schweiz wohnen wollen",
+    "link": "https://www.nzz.ch/wirtschaft/tiefe-steuern-sind-nicht-alles-wo-die-reichen-in-der-schweiz-wohnen-wollen-ld.10038461",
+    "zeit": "2026-11-09T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Amerikas Wähler haben klar gegen neue Datenzentren gestimmt. Aber die Techgiganten lassen sich nicht so leicht ausbremsen",
+    "link": "https://www.nzz.ch/technologie/amerikas-waehler-haben-klar-gegen-neue-datenzentren-gestimmt-platzt-jetzt-der-ki-traum-ld.10055860",
+    "zeit": "2026-11-09T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Wie ein Automechaniker, ein Veteran und ein IT-Entwickler sich selbst beibrachten, Roboter für den Krieg an der ukrainischen Front zu bauen",
+    "link": "https://www.nzz.ch/gesellschaft/rovertech-ld.10038447",
+    "zeit": "2026-11-09T04:30:00+00:00",
+    "quelle": "NZZ Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+    "link": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+    "zeit": "2026-11-09T02:50:22+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
+    "link": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
+    "zeit": "2026-11-08T18:57:56+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "How Democrats will try to end Trump's tariffs",
+    "link": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
+    "zeit": "2026-11-08T15:36:39+00:00",
+    "quelle": "CNBC",
+    "gruppe": "International",
+    "sprache": "en"
+   },
+   {
+    "titel": "Economiesuisse-Präsident – «Es tut weh, wenn sehr gut ausgebildete Junge keinen Job finden»",
+    "link": "https://www.srf.ch/news/schweiz/economiesuisse-praesident-es-tut-weh-wenn-sehr-gut-ausgebildete-junge-keinen-job-finden",
+    "zeit": "2026-11-07T19:57:36+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Klinische Studien – Pharma: Streit um Ethikkommissionen bremst Forschung",
+    "link": "https://www.srf.ch/news/wirtschaft/klinische-studien-pharma-streit-um-ethikkommissionen-bremst-forschung",
+    "zeit": "2026-11-07T17:52:27+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
+   },
+   {
+    "titel": "Schweizer Milchindustrie – Cremo in der Krise – ein Problem für die ganze Milchbranche",
+    "link": "https://www.srf.ch/news/schweiz/schweizer-milchindustrie-cremo-in-der-krise-ein-problem-fuer-die-ganze-milchbranche",
+    "zeit": "2026-11-07T14:27:29+00:00",
+    "quelle": "SRF Wirtschaft",
+    "gruppe": "Schweiz",
+    "sprache": "de"
    },
    {
     "titel": "Nach den Midterms – Warum sind die Börsen rund um den Globus eingebrochen?",
@@ -438,58 +654,10 @@
     "sprache": "de"
    },
    {
-    "titel": "Watch the Annual Meeting: Cramer on the fate of the AI buildout and stocks to buy now",
-    "link": "https://www.cnbc.com/investingclub/2026/11/06/watch-jim-cramer-live.html",
-    "zeit": "2026-11-06T17:48:16+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
     "titel": "Arbeitsplatz und Lohn – Die Höhe des Lohnes ist wichtig – aber nicht allein entscheidend",
     "link": "https://www.srf.ch/news/wirtschaft/arbeitsplatz-und-lohn-die-hoehe-des-lohnes-ist-wichtig-aber-nicht-allein-entscheidend",
     "zeit": "2026-11-06T17:14:24+00:00",
     "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
-    "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-    "zeit": "2026-11-06T17:09:53+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Dynasties or Parity? How MLB, the NFL, and the NBA try to find competitive balance",
-    "link": "https://www.cnbc.com/2026/11/06/dynasties-or-parity-how-mlb-nfl-nba-try-to-find-competitive-balance.html",
-    "zeit": "2026-11-06T17:01:52+00:00",
-    "quelle": "CNBC",
-    "gruppe": "International",
-    "sprache": "en"
-   },
-   {
-    "titel": "Die Aktienmärkte tauchen, Sorgen über einen Crash nehmen zu: Platzt nun die KI-Blase – oder gibt es gar keine?",
-    "link": "https://www.nzz.ch/wirtschaft/kuenstliche-intelligenz-an-der-boerse-boom-oder-blase-aktienmaerkte-unter-druck-ld.10056132",
-    "zeit": "2026-11-06T15:20:35+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Die Börsen erleben einen Kurssturz. Nach dem Triumph der Demokraten werden die KI-Investitionen infrage gestellt",
-    "link": "https://www.nzz.ch/wirtschaft/die-boersen-erleben-einen-kurssturz-nach-dem-triumph-der-demokraten-werden-die-ki-investitionen-infrage-gestellt-ld.10056047",
-    "zeit": "2026-11-06T15:02:15+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Von furioso bis decrescendo: Weshalb Donald Trump weiterhin für Unruhe sorgen wird. Besonders die Osteuropäer machen sich Sorgen",
-    "link": "https://www.nzz.ch/pro/furioso-oder-decrescendowie-donald-trump-jetzt-durchregieren-koennte-ld.10052013",
-    "zeit": "2026-11-06T13:27:26+00:00",
-    "quelle": "NZZ Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
    },
@@ -510,14 +678,6 @@
     "sprache": "de"
    },
    {
-    "titel": "Partners Group baut Infrastrukturteam Europa aus",
-    "link": "https://www.finews.ch/news/finanzplatz/74363-partners-group-einstellungen-infrastruktur-europa",
-    "zeit": "2026-11-06T09:48:50+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Midterms-Niederlage – Trump Media stürzt an der Börse ab – Anleger flüchten",
     "link": "https://www.srf.ch/news/wirtschaft/midterms-niederlage-trump-media-stuerzt-an-der-boerse-ab-anleger-fluechten",
     "zeit": "2026-11-06T08:09:26+00:00",
@@ -526,169 +686,9 @@
     "sprache": "de"
    },
    {
-    "titel": "UBS: Mehrwertsteuer würde Haushalte mit tiefen Einkommen stärker belasten",
-    "link": "https://www.finews.ch/news/finanzplatz/74361-ubs-studie-ahv-finanzierung-mehrwertsteuer-rente-einkommen",
-    "zeit": "2026-11-06T08:03:41+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
     "titel": "Softbank-Deal – Rückschlag für ABB: China blockiert Verkauf der Robotik-Sparte",
     "link": "https://www.srf.ch/news/wirtschaft/softbank-deal-rueckschlag-fuer-abb-china-blockiert-verkauf-der-robotik-sparte",
     "zeit": "2026-11-06T07:10:46+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Kursrutsch: Tech-Bubble lässt etwas Luft ab",
-    "link": "https://www.finews.ch/news/finanzplatz/74357-tech-aktien-bubble-verluste-usa-boersen-nasdaq",
-    "zeit": "2026-11-06T06:03:36+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Geldanlagen – Nachhaltige Fonds im Trend: Gut fürs Klima und fürs Portemonnaie?",
-    "link": "https://www.srf.ch/news/wirtschaft/geldanlagen-nachhaltige-fonds-im-trend-gut-fuers-klima-und-fuers-portemonnaie",
-    "zeit": "2026-11-06T05:21:45+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "INTERVIEW - «Trumps Zölle sind toxisch geworden», sagt ein renommierter Wirtschaftsprofessor",
-    "link": "https://www.nzz.ch/wirtschaft/trumps-zoelle-sind-toxisch-geworden-ld.10055292",
-    "zeit": "2026-11-06T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Im Dezember fliesst die 13. AHV-Rente zum ersten Mal: Wer wie viel Geld erhält",
-    "link": "https://www.nzz.ch/wirtschaft/im-dezember-fliesst-die-13-ahv-rente-zum-ersten-mal-so-hoch-faellt-die-zahlung-aus-und-deshalb-erhalten-verheiratete-weniger-ld.10048457",
-    "zeit": "2026-11-06T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Spezi statt Bier: Wie Paulaner vom Hype um das Süssgetränk profitiert",
-    "link": "https://www.nzz.ch/wirtschaft/vom-brau-zum-brausemeister-paulaner-trotzt-mit-spezi-der-bierkrise-ld.10026396",
-    "zeit": "2026-11-06T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Machtkampf um Entwicklungshilfe: Parlamentarier wollen Ignazio Cassis und Guy Parmelin stoppen",
-    "link": "https://www.nzz.ch/schweiz/machtkampf-um-entwicklungshilfe-parlamentarier-wollen-ignazio-cassis-und-guy-parmelin-stoppen-ld.10051903",
-    "zeit": "2026-11-06T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Was Europa ein russischer Sieg in der Ukraine kosten könnte",
-    "link": "https://www.nzz.ch/pro-global/was-europa-ein-russischer-sieg-in-der-ukraine-kosten-koennte-ld.10046885",
-    "zeit": "2026-11-06T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Künstliche Intelligenz soll die Wissenschaft revolutionieren. Diese Forscher zeigen, wie es gelingt",
-    "link": "https://www.nzz.ch/wissenschaft/kuenstliche-intelligenz-soll-die-wissenschaft-revolutionieren-diese-forscher-zeigen-wie-es-gelingt-ld.10025838",
-    "zeit": "2026-11-06T04:30:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "GASTKOMMENTAR - Demokratie neu denken – KI kann dabei helfen",
-    "link": "https://www.nzz.ch/meinung/demokratie-neu-denken-ki-kann-dabei-helfen-ld.10038419",
-    "zeit": "2026-11-06T04:25:00+00:00",
-    "quelle": "NZZ Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Stellenmeldepflicht – Mehr arbeitslose Verkäuferinnen und Verkäufer im Detailhandel",
-    "link": "https://www.srf.ch/news/wirtschaft/stellenmeldepflicht-mehr-arbeitslose-verkaeuferinnen-und-verkaeufer-im-detailhandel",
-    "zeit": "2026-11-05T19:17:16+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Mehrwertsteuer im Vergleich – Warum die Schweiz besser dasteht als andere Länder",
-    "link": "https://www.srf.ch/news/mehrwertsteuer-im-vergleich-warum-die-schweiz-besser-dasteht-als-andere-laender",
-    "zeit": "2026-11-05T15:24:19+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Women for the Board wählt neuen Vorstand",
-    "link": "https://www.finews.ch/news/finanzplatz/74356-women-for-the-boaed-vorstand-mitgliedsversammlung",
-    "zeit": "2026-11-05T12:55:53+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Kanzlei Ramelet.Legal holt Wirtschaftsanwältin als Partnerin",
-    "link": "https://www.finews.ch/news/finanzplatz/74355-kanzlei-eva-schott-ramelet-legal-partnerin",
-    "zeit": "2026-11-05T12:25:57+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Indosuez-Anlagechef: «Die EZB könnte 2027 die Zinsen sogar senken»",
-    "link": "https://www.finews.ch/news/finanzplatz/74353-indosuez-julien-descombes-ezb-zinsen-2027-zinssenkung-marktausblick",
-    "zeit": "2026-11-05T11:59:03+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Ex-Société-Générale-Banker gründet Finanzboutique in Genf",
-    "link": "https://www.finews.ch/news/finanzplatz/74352-alpha-street-financial-frederic-oculy-boutique",
-    "zeit": "2026-11-05T10:10:23+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "«Bundesrat» Martin Schlegel gegen die UBS",
-    "link": "https://www.finews.ch/news/finanzplatz/74351-martin-schlegel-snb-politik-tbtf-bundesrat-keller-sutter-kommentar",
-    "zeit": "2026-11-05T08:33:12+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Degussa luchst Konkurrenten den Finanzchef ab",
-    "link": "https://www.finews.ch/news/finanzplatz/74348-degussa-florian-hoeller-neuer-cfo-ex-philoro",
-    "zeit": "2026-11-05T07:27:04+00:00",
-    "quelle": "finews.ch",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Finanzmärkte nach Midterms – Gemischtes Bild bei Tech-Aktien – SMI erstmals über 15'000 Punkte",
-    "link": "https://www.srf.ch/news/wirtschaft/finanzmaerkte-nach-midterms-gemischtes-bild-bei-tech-aktien-smi-erstmals-ueber-15-000-punkte",
-    "zeit": "2026-11-04T17:08:15+00:00",
-    "quelle": "SRF Wirtschaft",
-    "gruppe": "Schweiz",
-    "sprache": "de"
-   },
-   {
-    "titel": "Neues Wirtschaftsranking – Eine Schweiz voller Cluster",
-    "link": "https://www.srf.ch/news/wirtschaft/neues-wirtschaftsranking-eine-schweiz-voller-cluster",
-    "zeit": "2026-11-04T15:24:12+00:00",
     "quelle": "SRF Wirtschaft",
     "gruppe": "Schweiz",
     "sprache": "de"
